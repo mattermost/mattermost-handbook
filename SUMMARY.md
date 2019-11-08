@@ -46,5 +46,3 @@
   * [Staff On-boarding](contributors/onboarding/staff-on-boarding-guide.md)
   * [R&D Onboarding](contributors/onboarding/r-and-d-onboarding.md)
 
-## Education
-
