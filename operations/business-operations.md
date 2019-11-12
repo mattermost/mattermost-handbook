@@ -6,7 +6,7 @@ description: 10% complete
 
 ## FY20 Business Operations VPMOM \(TBA\)
 
-TBD  
+TBD - Schiff owns updating this.
 
 
 ## **FY20 Standard Operating Procedures \(TBA\)**
