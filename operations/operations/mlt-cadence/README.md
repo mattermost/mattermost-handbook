@@ -291,16 +291,15 @@ QBR is an exercise to increase output through concise, efficient review of quart
 **Agenda**
 
 * \(CEO\) Reviews [MLT Cadence VPMOM](http://handbook.mattermost.com/leadership/leadership-meetings.html#MLT-Cadence-VPMOM) \(10 minutes\)
-* \(Each department head\) Reviews quarterly goals in the context of VPMOMs, including the following \(15 minutes per person\):
+* \(Each department head\) Reviews quarterly goals in the context of VPMOMs, including the following \(25 minutes per person, including 5 minutes for review, 5 minutes for MLT to share written feedback, and 15 minutes for discussion\):
   * Goals for previous quarter
   * Previous quarter achievements and opportunities
   * Goals for current quarter
   * Cross-department dependencies
   * Hiring plan and org chart
-* \(CEO\) Review of follow-ups \(10 minutes\)
-* \(MLT\) Break \(10 minutes\)
-* \(MLT\) Deep dive into GTM \(80 minutes\)
-* \(CEO\) Wrap-up, including follow-ups \(10 minutes\)
+* \(MLT\) Product strategy discussion \(30 minutes\)
+* \(MLT\) Review of actions and follow-ups \(10 minutes\)
+* \(MLT\) Review of cascading communication \(10 minutes\)
 
 #### Quarterly GTM Review
 
