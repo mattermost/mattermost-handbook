@@ -39,11 +39,10 @@ Feedback is solicited in a 360-degree style to incorporate feedback from peers. 
 
 We are incorporating a 90d New Hire Feedback Survey that will greatly mimic this process. If you have recently joined, your manager may prefer to wait for the full 90 days for your review. Otherwise,  your review you will take part in a Formal or Informal review process.
 
-* [Informal Review Process](https://app.gitbook.com/@mattermost/s/handbook/~/drafts/-LtWnmUAS1HU_gUGQnNT/operations/people/performance-reviews/informal-review-process)
+* [Informal Review Process](https://handbook.mattermost.com/operations/people/performance-reviews-50/informal-review-process)
   * Criteria: Staff members at Mattermost between 90 days and 6 months 
 * [Formal Review ](https://app.gitbook.com/@mattermost/s/handbook/~/drafts/-LtWnmUAS1HU_gUGQnNT/operations/people/performance-reviews/formal-review-process)
   * Criteria: Staff members at Mattermost at least 6 months 
-  * Formal Review Process
 
 \*\*\*\*
 
