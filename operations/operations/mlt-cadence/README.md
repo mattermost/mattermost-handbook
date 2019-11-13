@@ -11,93 +11,96 @@ This section outlines:
 
 ## MLT Daily Admin
 
-The purpose of MLT Daily Admin is to clear day-to-day administrative items from our other MLT meetings and from disruptive interruptions during the day. 
+The purpose of MLT Daily Admin is to clear day-to-day administrative items from our other MLT meetings and from disruptive interruptions during the day.
 
-MLT Daily Admin consists of: 
+MLT Daily Admin consists of:
 
 1. **Standup Post:** A concise summary of Asks, Heads-ups, and FYIs for MLT peers from your department posted on working days 
 2. **MLT Sync:** A Zoom meeting for entire MLT up to 10 minutes starting at _8:31am Palo Alto time on working days._ 
 3. **MLT After Sync:** Spontaneous cross-departmental follow-ups not relevant to entire MLT after _end of MLT Sync until 8:55am Palo Alto time_ via Zoom or phone among MLT leaders
 
-### Topics for MLT Daily Admin 
+### Topics for MLT Daily Admin
+
+| Topic | Definition and Examples | Where to share in MLT Daily Admin |
+| :--- | :--- | :--- |
+
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Topic</th>
-      <th style="text-align:left">Definition and Examples</th>
-      <th style="text-align:left">Where to share in MLT Daily Admin</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Asks</td>
-      <td style="text-align:left">
-        <p></p>
+      <th style="text-align:left">Asks</th>
+      <th style="text-align:left">
         <ul>
           <li>MLT-level administrative ask (e.g. headcount plan late)</li>
           <li>Escalations (e.g. help on urgent customer issue)</li>
         </ul>
-      </td>
-      <td style="text-align:left">
-        <p></p>
+      </th>
+      <th style="text-align:left">
         <ul>
           <li>Stand-up Post</li>
           <li>MLT Sync</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">Heads-up</td>
-      <td style="text-align:left">
-        <p></p>
+      <th style="text-align:left">Heads-up</th>
+      <th style="text-align:left">
         <ul>
           <li>Change in expectations (e.g. something may not delivered)</li>
         </ul>
-      </td>
-      <td style="text-align:left">
-        <p></p>
+      </th>
+      <th style="text-align:left">
         <ul>
           <li>Stand-up Post</li>
           <li>MLT Sync</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">FYI</td>
-      <td style="text-align:left">
-        <p></p>
+      <th style="text-align:left">FYI</th>
+      <th style="text-align:left">
         <ul>
           <li>MLT-level FYIs for yesterday or today</li>
           <li>Include links to detail for people to learn more</li>
         </ul>
-      </td>
-      <td style="text-align:left">
+      </th>
+      <th style="text-align:left">
         <ul>
           <li>Stand-up only</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">Sensitive issues</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Sensitive issues</th>
+      <th style="text-align:left">
         <ul>
           <li>Item that is not appropriate to be written before it is discussed (e.g.
             personal issues)</li>
           <li>Omitted from Stand-up before MLT Sync, please add a note after meeting
             so the information is archived</li>
         </ul>
-      </td>
-      <td style="text-align:left">
+      </th>
+      <th style="text-align:left">
         <ul>
           <li>MLT Sync only</li>
         </ul>
-      </td>
+      </th>
     </tr>
-  </tbody>
-</table>### **Stand-Up Post**
-
-**Any time up to 12 hours before 8:31am Palo Alto time on weekdays**
+  </thead>
+  <tbody></tbody>
+</table>**Any time up to 12 hours before 8:31am Palo Alto time on weekdays**
 
 Before meeting use `/standup` command to post updates to peers in the channel of what’s important:
 
@@ -105,7 +108,7 @@ Before meeting use `/standup` command to post updates to peers in the channel of
 /standup
 
 - Met with Alice Evans from Gartner - [Notes posted](XXX)
-- Carter Lee starts today as Director of BizOps 
+- Carter Lee starts today as Director of BizOps
 ```
 
 If you post incorrectly, use the “Edit” option to update.
@@ -142,7 +145,7 @@ Asks
 #standup-20190416 #standup
 ```
 
-### **MLT Sync** 
+### **MLT Sync**
 
 **8:31am to 8:41am Palo Alto time**
 
@@ -150,7 +153,7 @@ Asks
 * Each MLT member has ~60s for updates
 * Meeting ends at 8:41am SF time
 
-### **MLT After Sync** 
+### **MLT After Sync**
 
 **8:42am SF time to 8:55am Palo Alto time**
 
@@ -160,7 +163,7 @@ Asks
 ## MLT Weekly Tactical
 
 **Tuesdays 10:00am to 11:30am Palo Alto time with MLT**  
-The purpose of MLT Weekly Tactical is to keep MLT team on track to quarterly and annual targets. Discussions held in [MLT Weekly Tactical Channel](https://community.mattermost.com/private-core/channels/ijt-weekly-tactical). 
+The purpose of MLT Weekly Tactical is to keep MLT team on track to quarterly and annual targets. Discussions held in [MLT Weekly Tactical Channel](https://community.mattermost.com/private-core/channels/ijt-weekly-tactical).
 
 #### Process
 
@@ -179,7 +182,7 @@ The purpose of MLT Weekly Tactical is to keep MLT team on track to quarterly and
 
 ## MLT Monthly Strategic
 
-The purpose of MLT monthly strategic meeting is to achieve clarity and closure on strategic issues through review, discussion and decision on queued topics. 
+The purpose of MLT monthly strategic meeting is to achieve clarity and closure on strategic issues through review, discussion and decision on queued topics.
 
 * Meeting is monthly for 2-4 hours with Mattermost Leadership Team. 
 * Ad hoc meetings may also be called for strategic discussions using same format. 
@@ -190,7 +193,7 @@ The purpose of MLT monthly strategic meeting is to achieve clarity and closure o
 * \(Vice-Chair\) Agenda posted in MLT Monthly Strategic [Scratch document](https://docs.google.com/document/d/1O6ok1Uvb8uuCCFaxYjkkPZCPfDFK8nlb7OGrmyfwtCc/edit)
 * \(MLT\) People who queue topics post relevant materials in Agenda 24 hours before meeting 
 
-**Meeting Cadence** 
+**Meeting Cadence**
 
 * MLT reviews, discusses, adjusts as needed, and agrees on Agenda for time allotted
 * MLT discusses each topic and reaches decisions for clarity and closure

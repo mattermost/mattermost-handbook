@@ -8,7 +8,6 @@ description: 10% complete
 
 TBD - Schiff owns updating this.
 
-
 ## **FY20 Standard Operating Procedures \(TBA\)**
 
 Vision

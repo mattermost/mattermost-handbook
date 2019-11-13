@@ -36,6 +36,10 @@
 * [Business Operations](operations/business-operations.md)
 * [Messaging and Math](operations/messaging-and-math.md)
 * [Sales](operations/sales.md)
+* [People](operations/people/README.md)
+  * [Performance Reviews - 50%](operations/people/performance-reviews-50/README.md)
+    * [Formal Review Process](operations/people/performance-reviews-50/formal-review-process.md)
+    * [Informal Review Process](operations/people/performance-reviews-50/informal-review-process.md)
 
 ## Contributors
 
