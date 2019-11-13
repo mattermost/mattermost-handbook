@@ -2,7 +2,7 @@
 
 Finance Key Info
 
-* Professional Services Procurement: [How to procure at Mattermost](http://handbook.mattermost.com/people/procurement.html)
+* Professional Services Procurement: [How to procure at Mattermost](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money)
 * E-sign Procedure \(Internal, TBA\)
 * Accounting: [Invoicing and Collections Playbook](https://docs.google.com/document/d/1fh2NQsOJUALVyC7SEFHc_oK3Xpc74T2_RLFABiFD6Oo/edit#)
 * Legal and Compliance: [Archives](http://handbook.mattermost.com/bizops/archives.html)
