@@ -48,6 +48,7 @@
   * [Exec Recruiting](contributors/join-us/exec-recruiting.md)
 * [Onboarding](contributors/onboarding/README.md)
   * [Things everyone must know](contributors/onboarding/things-everyone-must-know.md)
+  * [Frequently Asked Questions](contributors/onboarding/frequently-asked-questions.md)
   * [Staff On-boarding](contributors/onboarding/staff-on-boarding-guide.md)
   * [R&D Onboarding](contributors/onboarding/r-and-d-onboarding.md)
 
