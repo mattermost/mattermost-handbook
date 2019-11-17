@@ -46,7 +46,7 @@ We are incorporating a 90d New Hire Feedback Survey that will greatly mimic this
 
 ### Winter 2019 - Timeline & Forms
 
-* [Winter 2019 - Timeline ](https://app.gitbook.com/@mattermost/s/handbook/~/drafts/-LtXeJtmw2luRTShDGDV/operations/people/performance-reviews-50/performance-review-timeline-winter-2019)
+* [Winter 2019 - Timeline ](https://handbook.mattermost.com/operations/people/performance-reviews-50/performance-review-timeline-winter-2019)
 * [Peer Review Panel Preferences Form](https://docs.google.com/forms/d/e/1FAIpQLSc_EoF9SUvQNA_Je9VdaZ7W54a-_kSfGG03Y-37AaABpnst_Q/viewform): Due EOD - November 13, 2019 
 * [Self Assessment Template](https://docs.google.com/forms/d/1ubNB9duV0YShDt7PYWDpjtHkSj6nFJl4HGCLqWpRjwQ/edit)
 
