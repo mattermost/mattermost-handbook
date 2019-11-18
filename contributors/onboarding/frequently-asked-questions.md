@@ -21,6 +21,7 @@ Please see [our guide](https://handbook.mattermost.com/company/how-to-guides-for
 ## Where can I find more information on the company?
 
 * Learn more about us [here](https://mattermost.com/about-us/).
+* This handbook \(including our [“how to” guides](https://handbook.mattermost.com/company/how-to-guides-for-staff)\) is also a great resource.
 * Check the [company VPMOMs](https://docs.google.com/document/d/1rDwcsaqQuLLDqSktV4ndlhBDCEO8JHls1sOGVKCpS4U/edit) next!
 * The notes from the [Customer Obsession All-Hands](https://docs.google.com/document/d/16F86k0I_ipjhHofm5pP6yA_dWTNvmA4ZBr_z53_087Q/edit?usp=sharing) and [R&D](https://docs.google.com/document/d/1A0D96O4t4GS33-yaHvLQBdtgIScmwzVo15c2vSFeYis/edit#heading=h.3glcs57w4p51) meetings will keep you in sync. Tip: Search \#com-summary in the [COM channel](https://community.mattermost.com/private-core/channels/cust-obs-meeting) for meeting summaries by week.
 
