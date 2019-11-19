@@ -187,7 +187,7 @@ If you are located in the United States, you are required to setup your banking 
 
 #### Open World Services \(OWS\)
 
-If you are located in Canada or employed through OWS, you will receive reimbursement via OWS. All reports once Final Approved should be downloaded and submitted to [Cindy Hindley](http://cindy@openworldservices.net).  
+If you are located in Canada or employed through OWS, you will receive reimbursement via OWS. All reports once Final Approved should be downloaded and submitted to Cindy Hindley `cindy@openworldservices.net`
 
 #### Rest of World \(ROW\)
 

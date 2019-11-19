@@ -48,7 +48,6 @@ Email [hr@mattermost.com](mailto:hr@mattermost.com) with any questions or concer
   * If you are taking time off for a personal or family illness in excess of 3 days, please contact [hr@mattermost.com](mailto:hr@mattermost.com). 
   * Company holidays are listed [here](https://docs.mattermost.com/process/working-at-mattermost.html?#holidays), but please take off on holidays that are relevant to your culture, country of residence, and preferences.
 
-  
 To add the Timeoff calendar to your calendar, use this URL when prompted to "[Add Calendar From URL](https://calendar.google.com/calendar/r/settings/addbyurl?tab=mc)": [https://calendar.google.com/calendar/ical/mattermost.com\_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com/private-68486d8e03649b706b5824d6c4712951/basic.ics](https://calendar.google.com/calendar/ical/mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com/private-68486d8e03649b706b5824d6c4712951/basic.ics)
 
 ## Where can I find templates?
@@ -85,7 +84,7 @@ Whenever possible, communicate using Mattermost. Email is typically reserved for
 * [**UX Design**](https://community.mattermost.com/core/channels/ux-design) **- Questions and discussion about product design**
 * [**Welcome**](https://community.mattermost.com/private-core/channels/welcome) **- Where new staff members are introduced on their first day**
 
- **For more recommendations, see** [**Channels**](https://docs.mattermost.com/process/training.html#channels)**.**
+  **For more recommendations, see** [**Channels**](https://docs.mattermost.com/process/training.html#channels)**.**
 
 ## **What does 0/5 mean?**
 
