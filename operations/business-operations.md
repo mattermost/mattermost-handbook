@@ -1,7 +1,3 @@
----
-description: 10% complete
----
-
 # Business Operations
 
 ## FY20 Business Operations VPMOM 
