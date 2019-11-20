@@ -6,7 +6,7 @@ description: How to do performance reviews the Mattermost way.
 
 ## What is the purpose of a performance review?
 
-_\*\*_Performance reviews occur annually during the last two months of the calendar year. Every component of the review process reflects the following priorities
+Performance reviews occur annually during the last two months of the calendar year. Every component of the review process reflects the following priorities
 
 * **Increase output** - Empower staff to unlock their potential by identifying and addressing their two most significant opportunities to increase performance.
 * **Recognize Performance** - Provide a clear, fact-based recognition of a staff member's performance.
@@ -35,7 +35,7 @@ Feedback is solicited in a 360-degree style to incorporate feedback from peers. 
 
 ## **What is the process?**
 
-We are incorporating a 90d New Hire Feedback Survey that will greatly mimic this process. If you have recently joined, your manager may prefer to wait for the full 90 days for your review. Otherwise, your review you will take part in a Formal or Informal review process.
+We are incorporating a 90d New Hire Feedback Survey that will greatly mimic this process. If you have recently joined, your manager may prefer to wait for the full 90 days for your review. Otherwise, you will take part in a Formal or Informal review process.
 
 * [Informal Review Process](https://handbook.mattermost.com/operations/people/performance-reviews-50/informal-review-process)
   * Criteria: Staff members at Mattermost between 90 days and 6 months 
