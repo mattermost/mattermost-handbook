@@ -6,7 +6,7 @@ description: How to do performance reviews the Mattermost way.
 
 ## What is the purpose of a performance review?
 
-_\*\*_Performance reviews occur annually during the last two months of the calendar year. Every component of the review process reflects the following priorities
+Performance reviews occur annually during the last two months of the calendar year. Every component of the review process reflects the following priorities
 
 * **Increase output** - Empower staff to unlock their potential by identifying and addressing their two most significant opportunities to increase performance.
 * **Recognize Performance** - Provide a clear, fact-based recognition of a staff member's performance.
