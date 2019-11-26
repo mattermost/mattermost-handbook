@@ -23,6 +23,7 @@
 
 * [Company Operations](operations/operations/README.md)
   * [MLT Cadence](operations/operations/mlt-cadence/README.md)
+    * [COM Prep Meeting](operations/operations/mlt-cadence/com-prep-meeting.md)
     * [MLT Cadence VPMOM](operations/operations/mlt-cadence/mlt-cadence-vpmom.md)
   * [MLT Metrics](operations/operations/metrics.md)
   * [Company Cadence](operations/operations/company-cadence.md)

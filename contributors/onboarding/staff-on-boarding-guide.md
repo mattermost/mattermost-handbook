@@ -2,7 +2,7 @@
 description: 10% complete.
 ---
 
-# Staff Onboarding
+# Staff On-boarding
 
 ## Contents
 
@@ -87,7 +87,7 @@ _First Week Checklist_ \(Markdown\)
 
 \#\#\#\#\# Day 1
 
-\[ \] Share your bio with @managername \` \(this will be posted in the \[Welcome channel\]\(https://community-daily.mattermost.com/private-core/channels/welcome\) in the private \`Staff team - @managername \`, please include the hashtag \`\#newcolleague\).
+\[ \] Share your bio with @managername \` \(this will be posted in the \[Welcome channel\]\([https://community-daily.mattermost.com/private-core/channels/welcome\](https://community-daily.mattermost.com/private-core/channels/welcome\)\) in the private \`Staff team - @managername \`, please include the hashtag \`\#newcolleague\).
 
 \[ \] Accept the invitation to your OneLogin account and switch your Mattermost account to use OneLogin from Account Settings -&gt; Security -&gt; Sign-in Method -&gt; Switch to SAML. Instructions are found \[here\]\([https://docs.google.com/presentation/d/1FsfSr6qgtjY4aCo\_UoL7FSChwvX3iLXuCFKJYselxBo/edit\#slide=id.p4](https://docs.google.com/presentation/d/1FsfSr6qgtjY4aCo_UoL7FSChwvX3iLXuCFKJYselxBo/edit#slide=id.p4)\). Note: You’ll find other apps, like LastPass and Zoom, there.
 

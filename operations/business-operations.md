@@ -12,7 +12,7 @@ Priorities
 * Data Infrastructure and Analytics
 * MLT level metrics and coordination
 * Process Efficiency and Awareness
-* Customer Trust (both internal and external)
+* Customer Trust \(both internal and external\)
 
 Methods
 
