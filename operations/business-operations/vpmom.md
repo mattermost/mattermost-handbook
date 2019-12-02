@@ -1,4 +1,4 @@
-# Business Operations VPMOM (FY20)
+# VPMOM
 
 Vision
 
@@ -31,6 +31,4 @@ Measures
 
 * TBD within Q4
 * Will be based on project milestones around abopve methods
-
-
 

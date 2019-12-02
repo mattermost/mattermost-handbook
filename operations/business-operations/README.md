@@ -1,14 +1,18 @@
-# Welcome to Business Operations (BizOps)
+# Business Operations
 
 BizOps is a brand new function at Mattermost as of November 2019. This page will be the place to start for everything you wanted to know about us.
 
 Michael Schiff, Head of Business Operations
-- Alex Dovenmuehle - Manager, Data Engineering
-- Rachel Bradley-Haas - Manager, Analytics
- 
- 
+
+* Alex Dovenmuehle - Manager, Data Engineering
+* Rachel Bradley-Haas - Manager, Analytics
+
 BizOps 101 [presentation](https://docs.google.com/presentation/d/1GEnR2P6jGpa-coonhJE2kUzg35CotKsv-0C_p1tbHvk/edit#slide=id.g3cd66a78ce_0_5)
 
 Where to find us:
-- Mattermost: BizOps
-- Email: bizops@ammtermost.com
+
+* Mattermost: BizOps
+* Email: bizops@ammtermost.com
+
+![](../../.gitbook/assets/screen-shot-2019-12-02-at-12.12.51-pm.png)
+
