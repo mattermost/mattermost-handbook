@@ -36,6 +36,8 @@
   * [Risk Management in Agreements](operations/finance/risk-management.md)
 * [Business Operations](operations/business-operations/README.md)
   * [VPMOM](operations/business-operations/vpmom.md)
+  * [Analytics](operations/business-operations/analytics.md)
+  * [Data Engineering](operations/business-operations/data-engineering.md)
 * [Messaging and Math](operations/messaging-and-math.md)
 * [Sales](operations/sales.md)
 * [People](operations/people/README.md)
