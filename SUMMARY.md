@@ -44,7 +44,7 @@
   * [Working at Mattermost](operations/people/working-at-mattermost/README.md)
     * [Paid Time Off](operations/people/working-at-mattermost/paid-time-off.md)
     * [Leaves of Absence](operations/people/working-at-mattermost/leaves-of-absence.md)
-  * [Performance Reviews - 50%](operations/people/performance-reviews-50/README.md)
+  * [Performance Reviews](operations/people/performance-reviews-50/README.md)
     * [Performance Review Timeline Winter 2019](operations/people/performance-reviews-50/performance-review-timeline-winter-2019.md)
     * [Formal Review Process](operations/people/performance-reviews-50/formal-review-process.md)
     * [Informal Review Process](operations/people/performance-reviews-50/informal-review-process.md)

@@ -2,7 +2,7 @@
 description: How to do performance reviews the Mattermost way.
 ---
 
-# Performance Reviews - 50%
+# Performance Reviews
 
 ## What is the purpose of a performance review?
 
