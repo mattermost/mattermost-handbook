@@ -15,7 +15,7 @@ Performance reviews occur annually during the last two months of the calendar ye
 
 ## **High Output Management**
 
-We believe a manager’s fundamental purpose of a performance review is to improve performance. Andy Grove discusses this in Chapter 13 of his book, [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK). There are two [mindsets](https://handbook.mattermost.com/company/about-mattermost/mindsets) from the book that should be considered whether you are writing a peer, manager or self review. If you are a manager, you should read this chapter and attend one of the manager training sessions.
+We believe a manager’s fundamental purpose of a performance review is to improve performance. Andy Grove discusses this in Chapter 13 of his book, [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK). There are two [mindsets](https://handbook.mattermost.com/company/about-mattermost/mindsets) from the book that should be considered whether you are writing a peer, manager or self review. If you are a manager, you should read this chapter, [complete a short set of questions](https://forms.gle/uG8VvFGcpSfQMdvz6) and attend one of the manager training sessions.
 
 * **Three Ls: Level, Listen, Leave yourself out**
   * Level - be straightforward in praise as well as criticism. 
