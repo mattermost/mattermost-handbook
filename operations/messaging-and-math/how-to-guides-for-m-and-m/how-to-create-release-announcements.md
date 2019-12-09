@@ -15,11 +15,17 @@ description: 1% Draft
 
 ### **Checklist for review of draft:**
 
-1. Rate each image High, Medium, Low \(Author\)
-2. Check for spelling and links for correctness \(Release Manager\) 
-3. Check all features PM team wants to highlight are included \(Release Manager\) 
-4. Check for technical accuracy and statement of benefits \(PM owners\) 
-5. Check all contributors are recognized \(Release Manager\) 
+1. Exciting title
+   1. Do not lead with a parity feature
+2. Compelling, specific one-liners
+   1. Introduce features with compelling, concise, specific descriptions
+   2. UNLESS it's really filler, then be vague and add it at the end, e.g. "Performance improvements to mobile" 
+3. Rate each image High, Medium, Low quality\(Author\)
+4. Don't use any screenshots not high quality \(Release Manager\) 
+5. Check for spelling and links for correctness \(Release Manager\) 
+6. Check all features PM team wants to highlight are included \(Release Manager\) 
+7. Check for technical accuracy and statement of benefits \(PM owners\) 
+8. Check all contributors are recognized \(Release Manager\) 
 
 ### **Style Guidelines:** 
 
