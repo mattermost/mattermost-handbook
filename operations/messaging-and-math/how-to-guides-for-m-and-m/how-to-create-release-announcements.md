@@ -50,7 +50,7 @@ description: 1% Draft
 
 ## Do's and Don'ts
 
-### Don't zoom past 100% and pixilate images
+### Don't zoom past 100% and pixelated images
 
 When you need to show a particular part of the product, don't crop the image and zoom past 100% to show the functionality.  
 
