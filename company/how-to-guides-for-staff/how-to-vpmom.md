@@ -8,7 +8,7 @@ VPMOM is an exercise in awareness. When correctly implemented it results in tota
 
 VPMOMs are the API resourcing and ROI measures at our company.
 
-#### Structure
+## Structure
 
 Writing good VPMOMs is a critical skill for leadership in thinking through what they are asking of their organizations and concisely laying out how the organization should operate, make choices and measure progress.
 
@@ -40,7 +40,7 @@ When an organization needs to make trade-offs, the VPMOM tells it to cut the low
 
 * List of desired results, often numerical
 
-#### VPMOM Example
+## VPMOM Example
 
 Vision
 
@@ -87,7 +87,7 @@ We note here that Documentation and Alignment are interlinked, and that there ar
 
 When you write a VPMOM you need to decide how to prioritize the elements of your vision so that our organizations know how to make decisions. It’s okay to get things wrong once in a while so long as we are right most of the time, and we can course correct when we make a mistake.
 
-#### VPMOM Template
+## VPMOM Template
 
 The following template is used to lock annual VPMOMs in one page. Anything that doesn’t fit on one page should be added to the “Commentary” section at the end of the one page VPMOM.
 
@@ -111,10 +111,9 @@ Measures
 - [What are the actual results we want to deliver? (typically numbers)]
 
 [Commentary on anything RAPID should know that doesn't fit within the one-page V2MOM structure.]
-
 ```
 
-#### History
+## History
 
 VPMOMs are a fork of [V2MOMs created in 1999 by Marc Benioff](https://www.salesforce.com/blog/2013/04/how-to-create-alignment-within-your-company.html) to align the efforts at Salesforce.com.
 

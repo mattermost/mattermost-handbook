@@ -16,11 +16,11 @@ description: 10% draft
 
 #### Example of share-ready screenshot: 
 
-![DO: Size Mattermost to capture approximately a 900px by 640px area](../../../.gitbook/assets/image%20%282%29.png)
+![DO: Size Mattermost to capture approximately a 900px by 640px area](../../../.gitbook/assets/image%20%283%29.png)
 
 #### Example of non-share-ready screenshot: 
 
-![DO NOT: Screenshot Mattermost at high resolution where text is hard to read when image is reduced for sharing on social media and possibly in slide ](../../../.gitbook/assets/image%20%283%29.png)
+![DO NOT: Screenshot Mattermost at high resolution where text is hard to read when image is reduced for sharing on social media and possibly in slide ](../../../.gitbook/assets/image%20%285%29.png)
 
 ### Sharing a screenshot: 
 
