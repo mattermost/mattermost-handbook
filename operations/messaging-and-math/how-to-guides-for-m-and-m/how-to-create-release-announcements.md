@@ -42,7 +42,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 
 1. Use default 100% Zoom, not larger or smaller
 2. Use default "Mattermost" theme color
-3. Use consistent grey border throughout the image \(in all four edges\)
+3. Use consistent grey \(\#F7F9FA\) border throughout the image \(in all four edges\)
 4. Use [GIF Brewery](https://gfycat.com/gifbrewery) to create GIFs
 5. [Learn how to make shared-ready screenshots](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-make-shared-ready-screenshots)
 
@@ -58,9 +58,9 @@ When you need to show a particular part of the product, don't crop the image and
 
 ![](../../../.gitbook/assets/image%20%284%29.png)
 
-#### Do show sub-components framed in grey background 
+#### Do show sub-components framed in grey \(\#F7F9FA\) background 
 
-Instead, show the sub-component at 100% zoom with a 12pt WHITE border \(so there is white space\) and a background at 10% grey with no border, so the image is elegantly framed: 
+Instead, show the sub-component at 100% zoom with a 12pt white border \(so there is white space\) and a grew \(\#F7F9FA\) background with no border, so the image is elegantly framed: 
 
 ![](../../../.gitbook/assets/image%20%289%29.png)
 
