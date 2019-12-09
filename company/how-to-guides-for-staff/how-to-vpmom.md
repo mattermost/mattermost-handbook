@@ -122,5 +122,5 @@ One key difference is we use the term “Priorities” to describe the stack ran
 
 For example, a VPMOM for R&D may have the bulk of methods and measures on product delivery, and the Vision statement may have many elements, but when “High Quality” is clearly listed as the top priority it is unambiguous what our focus needs to be.
 
-Also, VPMOMs are defined by Mattermost and therefore can be optimized for our business and cadence. Whereas, VP2MOMs have been used for over 20 years at different organizations, in different ways, in different eras, in different departments and when we tried using V2MOMs in the past they created too much inconsistency and confusion, despite good intentions.
+Also, VPMOMs are defined by Mattermost and therefore can be optimized for our business and cadence. Whereas, V2MOMs have been used for over 20 years at different organizations, in different ways, in different eras, in different departments and when we tried using V2MOMs in the past they created too much inconsistency and confusion, despite good intentions.
 
