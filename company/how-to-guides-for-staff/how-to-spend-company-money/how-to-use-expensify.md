@@ -1,6 +1,6 @@
 # How to use Expensify
 
-Expensify is our global expense tracking software for all reimbursable and non-reimbursable expenses. All expenses, regardless of cost, must include an itemized receipt for tracking and approving purposes. As part of your onboarding experience, you will be provisioned on one or more Expensify policies depending on your level and if you have direct reports. If you do not have an Expensify account, please reach out to the [Finance Team](https://community.mattermost.com/private-core/channels/expenses) who will provision you with an Expensify account.
+Expensify is our global expense tracking software for all reimbursable and non-reimbursable expenses. All expenses, regardless of cost, must include an itemized receipt for tracking and approving purposes. As part of your onboarding experience, you will be provisioned on one or more Expensify policies depending on your level and if you have direct reports. If you do not have an Expensify account, please reach out to the [Finance Team](https://community.mattermost.com/private-core/channels/purchases) who will provision you with an Expensify account.
 
 ## PREPARING AND SUBMITTING EXPENSE REPORTS
 
@@ -18,6 +18,8 @@ Non-Recurring Expense activities should be broken up by event and separated by a
 * **Equipment**: When onboarding, all expenses should be submitted on the same expense report in the month incurred
 
 Expenses for the same trip or report that is submitted on multiple [Expense Report](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#creating-a-report) \(e.g. in piecemeal\) will be pushed back to the submitter to amend.
+
+All expenses should be submitted timely and therefore we request that expenses incurred in the month are submitted in an expense report within the same month. Long outstanding receipts submitted outside the month incurred are subject to additional review and in certain cases could be rejected.
 
 ### CREATING A REPORT
 
