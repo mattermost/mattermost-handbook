@@ -6,7 +6,7 @@ Follow these steps to update the handbook:
 2. Go to [http://app.gitbook.com](http://app.gitbook.com) and log in using your Google SSO credentials. Then, navigate to the Mattermost space at [https://app.gitbook.com/@mattermost](https://app.gitbook.com/@mattermost)
 3. Click "Handbook", which brings you to the homepage:
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 1. Here, you can edit any page by clicking the blue pencil icon at bottom right corner of the screen.
 
@@ -18,7 +18,7 @@ Follow these steps to update the handbook:
 
 1. Finally, to push your changes live at handbook.mattermost.com, find your draft on the left hand sidebar, and click the blue **Merge** button.
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 1. You can review and verify your changes at [https://handbook.mattermost.com](https://handbook.mattermost.com).
 
