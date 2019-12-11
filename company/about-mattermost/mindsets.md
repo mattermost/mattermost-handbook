@@ -14,19 +14,19 @@ When you read about great leaders, they share mindsets relevant to success in th
 
 In this context, here are mindsets for Mattermost:
 
-## Learn, Master, Teach
+### Learn, Master, Teach
 
 **Learn** a new topic quickly, develop **mastery** \(be the smartest person at the team/company/community on the topic\), then **teach** it to someone who will start the cycle over.
 
 If you’re a strong teacher, their mastery should surpass yours. This mindset helps us constantly grow and rotate into new roles, while preventing “single-points of failure” where only one person is qualified for a certain task.
 
-## Slow is smooth, smooth is fast
+### Slow is smooth, smooth is fast
 
 When you rush to get something done quickly, it can actually increase the time and cost for the project.
 
 Rushing means a higher chance of missing things that need to be done, and the cost of doing them later is significantly higher because you have to re-create your original setup to add on the work.
 
-## Emotion, Assumption, and Priority
+### Emotion, Assumption, and Priority
 
 Consider when two rational people disagree, the cause often comes from one of three areas:
 
@@ -36,7 +36,7 @@ Consider when two rational people disagree, the cause often comes from one of th
 
 While the emotions, assumptions, priority mindset won’t work for everyone in every case, it’s helped resolve complex decisions in our company’s history.
 
-## Likes and Wishes
+### Likes and Wishes
 
 An easy way to check in with team members about how things are going.
 
@@ -45,7 +45,7 @@ An easy way to check in with team members about how things are going.
 
 Use these one-on-one or in a group as a way to open conversations about what to keep and what to change in how we do things.
 
-## Drafts at 1%, 50%, 99%
+### Drafts at 1%, 50%, 99%
 
 Being clear on expectations when asking for someone’s review can help speed and smooth the process. In this mindset, there are three types of review:
 
@@ -53,7 +53,7 @@ Being clear on expectations when asking for someone’s review can help speed an
 * 50% Draft - Half complete work. There is structure, but also a lot of room for change. Some rework is inexpensive, some is expensive.
 * 99% Draft - Nearly completed work. Rework at this point is very expensive.
 
-## Shoulder Check
+### Shoulder Check
 
 When a new owner takes over a process or a project from a previous owner, there are a finite number of “blindspots” of which the original owner is aware and the new owner will need to understand.
 
@@ -66,7 +66,7 @@ This process is similar to [Mini-boss, End-boss](https://docs.mattermost.com/pro
 
 Even when not crashing, as part of our [Self Awareness value](https://docs.mattermost.com/process/handbook.html#values), top team members will constantly be seeking feedback and review from people around the company.
 
-## Brown M&Ms
+### Brown M&Ms
 
 A “brown M&M” is a mistake that could either signal dangerous oversights in the execution of a project, or be a completely innocuous and unimportant error. When a brown M&M is found, aim to rule out a dangerous error as quickly as possible. Do fast drilldowns and systematic checks to see if more brown M&Ms are found, and if so, an entire project may need to be reviewed.
 
@@ -77,7 +77,7 @@ Examples of brown M&Ms may include:
 
 The name brown M&M comes from a safety technique used by the American music band Van Halen, who had to set up large, complex concert stages in third tier cities, where few local workers had experience with the safety standards vital to construction. In the [contract rider](https://en.wikipedia.org/wiki/Van_Halen#Contract_riders) with each venue, Van Halen required a bowl of M&M candies with all brown M&Ms removed. Failure to provide the bowl was grounds for Van Halen’s stage crew to inspect all of the local vendor’s work for safety issues, because it meant the vendor had not paid attention to detail, and safety could be at risk.
 
-## Correct Minimums: Medic, Field Surgeon, Plastic Surgeon
+### Correct Minimums: Medic, Field Surgeon, Plastic Surgeon
 
 When making project investment decisions, we optimize for high impact in the context of customer obsession, empowered by ownership, while being constrained by “be proud of what you build”.
 
@@ -105,7 +105,7 @@ In making these trade-offs, consider the following mindsets:
   >
   > _Example:_ Click-tracking traffic on about.mattermost.com and optimizing flows to direct visitors to learn about the product and downloading it is a flow that should be continually optimized.
 
-## Mini-boss, End-boss
+### Mini-boss, End-boss
 
 After completing the initial draft of a project, there may often be more than one reviewer to approve changes. This may be for different disciplines to review the work \(for example, both development and design teams reviewing code changes to the user experience\) and it may also be for reviewers with different levels of experience to share feedback.
 
@@ -121,4 +121,15 @@ This system has several benefits:
 3. Eventually the Mini-boss will be as skilled at reviewing as the End-boss, who will have nothing futher to add after the Mini-boss review. At this point, the Mini-boss becomes an End-boss, ready to train a new Mini-boss.
 
 The naming of this term comes from video games, where a person submitting material for review must pass a “mini-boss” challenge before a “end-boss” challenge for different disciplines.
+
+### Savor surprises 
+
+When we make important decisions quickly it's important to run at least a lightweight analysis to identify blindspots that could put success at risk. "Savoring surprises" means discussing unexpected findings from an analysis and understanding root cause in order to de-risk our original plan and/or find new opportunities.   
+  
+Example: In our early days, just months after launching our first commercial product Mattermost had a product roadmap for security and DevOps features that was vetted by customer roadmap reviews. We "savored the surprise" that custom emojis \(which we assumed was a vanity feature to be cut\) was highly important to support legacy processes that used them to communicate different outcomes of an automated process, like a build break. The surprise made our roadmap more valuable and effective. 
+
+A good analysis will result in surprises uncovering blindspots. An analysis that has no surprises is a surprise in itself and the blindspot should be determined. Did the analysis use the right data and methodology? Was it free from the unconscious or conscious bias of someone influential?   
+  
+More: Watch Scott Cook's talk on [savoring surprises](https://vimeo.com/254376327).  
+
 
