@@ -26,6 +26,16 @@ When you rush to get something done quickly, it can actually increase the time a
 
 Rushing means a higher chance of missing things that need to be done, and the cost of doing them later is significantly higher because you have to re-create your original setup to add on the work.
 
+### Boring solutions 
+
+Use the simplest and most boring solution to solve problems.   
+  
+The speed of innovation for our organization and product is constrained by the total complexity we have added so far, so every little reduction in complexity helps. Don’t pick an interesting technology or methodology just to make your work more fun; using established and proven tech and processes that best match our needs to ensure a more stable and more familiar experience for you and other contributors.
+
+When facing a high impact problem without a simple and obvious solution, focus your time on 1\) understanding the problem you're solving, 2\) understanding how others have solved the same problem in an enduring way, 3\) what vital changes, if any, are needed to apply a proven solution that works.   
+  
+More: Read GitLab's boring solutions mindset and Dan McKinley's blog post on [Choose boring technology](https://mcfunley.com/choose-boring-technology). 
+
 ### Emotion, Assumption, and Priority
 
 Consider when two rational people disagree, the cause often comes from one of three areas:
@@ -130,6 +140,12 @@ Example: In our early days, just months after launching our first commercial pro
 
 A good analysis will result in surprises uncovering blindspots. An analysis that has no surprises is a surprise in itself and the blindspot should be determined. Did the analysis use the right data and methodology? Was it free from the unconscious or conscious bias of someone influential?   
   
-More: Watch Scott Cook's talk on [savoring surprises](https://vimeo.com/254376327).  
+More: Watch Scott Cook's talk on [savoring surprises](https://vimeo.com/254376327).
+
+### 
+
+
+
+  
 
 
