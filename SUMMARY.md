@@ -63,6 +63,7 @@
 ## Contributors
 
 * [Join Us](contributors/join-us/README.md)
+  * [Consulting Advisers](contributors/join-us/consulting-advisers.md)
   * [Exec Recruiting](contributors/join-us/exec-recruiting.md)
 * [Onboarding](contributors/onboarding/README.md)
   * [Things everyone must know](contributors/onboarding/things-everyone-must-know.md)
