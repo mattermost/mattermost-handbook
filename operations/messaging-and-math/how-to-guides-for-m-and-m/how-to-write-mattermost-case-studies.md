@@ -1,3 +1,7 @@
+---
+description: 1% draft
+---
+
 # How to write Mattermost Case Studies
 
 ## Case Studies

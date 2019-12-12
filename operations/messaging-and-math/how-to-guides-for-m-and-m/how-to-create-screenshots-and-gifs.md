@@ -1,5 +1,5 @@
 ---
-description: 1% draft
+description: 50% draft
 ---
 
 # How to create screenshots and GIFs

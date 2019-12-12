@@ -1,5 +1,5 @@
 ---
-description: 1% Draft
+description: 50% Draft
 ---
 
 # How to create release announcements

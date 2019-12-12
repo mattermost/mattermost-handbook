@@ -1,3 +1,7 @@
+---
+description: 50% draft
+---
+
 # How to write guest blog posts for Mattermost Apps and Services
 
 ## Guest Blog Posts for Mattermost Apps and Services

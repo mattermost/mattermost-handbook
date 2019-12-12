@@ -1,3 +1,7 @@
+---
+description: 50% draft
+---
+
 # How to write Mattermost Recipes
 
 ### Mattermost Recipes
