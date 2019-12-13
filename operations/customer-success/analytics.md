@@ -12,6 +12,12 @@ description: How we measure results @ Customer Success
 
 [At Risk/Lost Renewals](https://na82.lightning.force.com/lightning/r/Dashboard/01Z1R000000u7pJUAQ/view?queryScope=userFolders) - Those renewals that are at risk of Attriting \(not Renewing\) or have already chosen not to renew.
 
+## Glossary of Terms
+
+Renewal amount - Amount of ARR for the upcoming renewal.
+
+
+
 
 
 
