@@ -142,6 +142,26 @@ A good analysis will result in surprises uncovering blindspots. An analysis that
   
 More: Watch Scott Cook's talk on [savoring surprises](https://vimeo.com/254376327).
 
+### RAPID for complex projects
+
+When practical, projects and decision making should be run at the lowest possible level of the organization, by people who are closest to the facts and data. 
+
+When a project is complex and involves many stakeholders, a different approach may be needed. We use a "RAPID" framework for complex, multi-stakeholder projects where clarity in the roles of stakeholders is vital.   
+  
+RAPID is an acronym for the five different roles a stakeholder might be asked to take on in a complex project: Recommend, Agree, Perform, Input, Decide.   
+  
+Each stakeholder can take on one or more roles: 
+
+| Letter | Role | Responsibility |
+| :--- | :--- | :--- |
+| R | Recommend | Recommend a decision or action |
+| A | Agree | Formally agree with decision. Views--especially Obstacles--should be documented in final proposal shared |
+| P | Perform | Accountable for executing the decision once made. |
+| I | Input | Provide input to a recommendation. Views may or may not be included in final proposal |
+| D | Decide | Make the decision and commit the organization to action |
+
+More: RAPID framework from [Bain Consulting](https://www.bain.com/insights/rapid-tool-to-clarify-decision-accountability/).
+
 ### 
 
 
