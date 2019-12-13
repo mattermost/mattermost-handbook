@@ -22,9 +22,17 @@ If you’re a strong teacher, their mastery should surpass yours. This mindset h
 
 ### Slow is smooth, smooth is fast
 
-When you rush to get something done quickly, it can actually increase the time and cost for the project.
+Rushing to get something done can create confusion, errors, and/or \(paradoxically\) delays.   
+  
+When you feel rushed, consider slowing down and taking a moment to ask: What would it look like for this project to be running smoothly? 
 
-Rushing means a higher chance of missing things that need to be done, and the cost of doing them later is significantly higher because you have to re-create your original setup to add on the work.
+If you're running a collaborative project, consider: 
+
+1. Are the people I'm working with clear on the intent of this project or workflow? 
+2. Is everyone clear on who needs to do what? 
+3. Are we aligned on the measures that signal if our work is a success? 
+
+Getting to a "Yes" on these three questions can smooth out your process, and move things faster.
 
 ### Boring solutions 
 
