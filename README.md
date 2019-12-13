@@ -8,7 +8,7 @@ It's Day 1 at Mattermost. We're a growing company and growing open source projec
 
 The "Mattermost Handbook" is a continual work-in-progress for _Mattermost staff_--people who are paid to work on our open source software and to help run the company behind our software.
 
-Early in our history, when we were a much smaller company, [our staff handbook was included in our product documentation ](https://docs.mattermost.com/guides/core.html) and we are incrementally moving out of our documentation and into the dedicated repository at XXX which is edited using GitBook as a frontend. 
+Early in our history, when we were a much smaller company, [our staff handbook was included in our product documentation ](https://docs.mattermost.com/guides/core.html) and we are incrementally moving out of our documentation and into the dedicated repository at [https://github.com/mattermost/mattermost-handbook](https://github.com/mattermost/mattermost-handbook) which is edited using GitBook as a frontend. 
 
 Some norms you'll see here in the handbook: 
 
