@@ -168,6 +168,8 @@ Flexible office spaces or hot desk will be reviewed based on average costs for t
 
 **Professional Development**: Work-related online courses and professional development certifications, not included in career path training or training for specialty roles, e.g. Information Security. Mattermost staff members are allotted 500 USD per fiscal year to spend on one or multiple training courses. [Manager Approval](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#manager-approval) is required for reimbursement greater than 500 USD. 
 
+**Home Internet:** Mattermost will reimburse up to 50 USD per month that can be expensed for home internet. If you are submitting an expense other than USD, please use the [Currency Exchange Rate Table](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/currency-exchange-table) to determine how much to expense each month. As always, expenses should be [timely](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#preparing-and-submitting-expense-reports) submitted and follow the [How to use Expensify](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#preparing-and-submitting-expense-reports) process. 
+
 ### Manager Approval
 
 For anything requiring manager approval, please complete the following steps
