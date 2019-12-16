@@ -69,31 +69,22 @@ Once you have more time to sit down and sift through your expenses, you can then
 ![](https://lh3.googleusercontent.com/yE3l-Bual-Ub5LGbkD50f-azi0pzQHZhELvG_8VGEfRQpJtn3HsU3xYEGDHOGr-4PQlymgr3n2Y-4kWee9h0x6lqv1CttalHBa0HZxQyB16EalOatvcLT05HyibpR8yLN1kclGVj)
 
 1. For new expenses, all fields are mandatory to complete. Below is the list and purpose of each category for submitting at Mattermost:
-
    1. **Merchant**: This is the vendor with whom you incurred the expense
    2. **Date**: The date noted on the receipt
    3. **Total**: Amount billed and the currency in which the expense was incurred
    4. **Category**: Category is an important and mandatory field as the coding directly impacts the face of the financial statements and P&L. This is a very important field that should be reviewed and considered thoughtfully. We have provided detailed descriptions and examples for each [Category](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#categories) below. Should you have questions please reach out the the [Purchases](https://community.mattermost.com/private-core/channels/purchases) channel.
    5. **Attendees**: This should include all individuals \(staff member or external person\) involved in the expense. For example, a dinner with a customer should include the names of all the customers and internal staff members who attended.
-   6. **Classification**: This is a mandatory field that impacts budgetary reporting. To facilitate the correct categorization, we have provided detailed descriptions and examples for each [Classification](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#classification) below. Should you have questions or if you find there is no classification relevant to the expense, please reach out tothe [Purchases](https://community.mattermost.com/private-core/channels/purchases) channel.
-   7. **Description**: All expenses should have a description for the business need and should be formatted as follows:
+   6. **Classification**: This is a mandatory field that impacts budgetary reporting. To facilitate the correct categorization, we have provided detailed descriptions and examples for each [Classification](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#classification) below. Should you have questions or if you find there is no classification relevant to the expense, please reach out to the [Purchases](https://community.mattermost.com/private-core/channels/purchases) channel.
+   7. **Description**: All expenses should have a description for the business need. The more detail the better. Please see below for examples that can be used to guide you in completing this filed. 
+      1. **Example 1**: John Smith just bought his new onboarding equipment which includes a Lenovo Carbon X laptop and an AmazonBasics HDMI Cable in Houston, Texas. Below are examples of expense descriptions:
+         1. Carbon X Lenovo Laptop  for onboarding
+         2. HDMI cable for onboarding
+      2. **Example 2**: Alison Henry has just completed her trip to Sweden where she met the VP of IT for Spotify. She incurred the following business expenses while on her trip: United flight roundtrip, dinner at Morrison Steakhouse, and a personal breakfast at the Hilton Hotel. Below are examples of expense descriptions:
+         1. Flight to visit Spotify at headquarters in Stockholm, Sweden
+         2. Spotify customer dinner at Morrison Steakhouse in Stockholm, Sweden
+         3. Hotel stay at Hilton in Stockholm, Sweden for Spotify
 
-      \*\*\*\*
-
-   `[Report Name]_[Merchant Name]_[Type of Product or Business Reason]_[Geographic Location]`
-
-Ex 1: John Smith just bought his new onboarding equipment which includes a Lenovo Carbon X laptop and an AmazonBasics HDMI Cable in Houston, Texas. Below is an example of how the expense should be described:
-
-* \[Onboarding\]\_\[Lenovo\]\_\[Carbon X Laptop\]\_\[Houston, TX\]
-* \[Onboarding\]\_\[Amazon\]\_\[HDMI\]\_\[Houston,TX\]
-
-Ex 2: Alison Henry has just completed her trip to Sweden where she met the VP of IT for Spotify. She incurred the following business expenses while on her trip: United flight roundtrip, dinner at Morrison Steakhouse, and a personal breakfast at the Hilton Hotel. Below is an example of how the expense should be described:
-
-* \[Spotify Trip\]\_\[United Airlines\]\_\[Flight for Spotify\]\_\[Stockholm, Sweden\]
-* \[Spotify Trip\]\_\[Morrison Steakhouse\]\_\[Dinner with Spotify\]\_\[Stockholm, Sweden\]
-* \[Spotify Trip\]\_\[Hilton Hotel\]\_\[Personal Breakfast Meal\]\_\[Stockholm, Sweden\]
-
-1. Once your expense has been completed, you can add this to an existing Expense Report or let it stay in the Expenses queue until such time as you are ready to add to a trip/event/onboarding report.
+Once your expense has been completed, you can add this to an existing Expense Report or let it stay in the Expenses queue until such time as you are ready to add it to a trip/event/onboarding report.
 
 ## WHEN APPROVING AN EXPENSE REPORT
 
@@ -193,5 +184,5 @@ If you are located in Canada or employed through OWS, you will receive reimburse
 
 ### Rest of World \(ROW\)
 
-For everyone else, you will need to set up a Bill.com account and have your banking information authorized. To ensure accuracy and expediency, please work with the [Accounts Payable Team](mailto:ap@mattermost.com). It is important to note that your Bill.com account will need to have your primary Mattermost email alias as denoted in Bamboo HR for Expensify, Netsuite, and Bill.com to communicate across platforms.
+For everyone else, a Bill.com account will need to be setup. If you already have a bill.com account, you may disregard. If you are needing to set up a bill.com account, please work with the [Accounts Payable Team](mailto:ap@mattermost.com) who will create your profile in bill.com for you. To ensure accuracy and expediency, please complete [Mattermost Banking Information Form](https://docs.google.com/forms/d/1yWdqVwmvgYaUhs4u3Ro19I0YVkQVK35B9ulsz65Sc3c/edit) which the [Accounts Payable Team](mailto:ap@mattermost.com) will use to setup your credentials. 
 
