@@ -177,7 +177,7 @@ The purpose of MLT Weekly Tactical is to keep MLT team on track to quarterly and
   * Discuss 1-1/outside of MLT 
 * \(1:10\) **Decisions/Actions** - Summarize decisions/actions in writing 
 * \(1:20\) **Cascading Communications** - Decide what to communicate broadly
-  * This includes Customer Obsession Meeting announcements
+  * This includes Customer Obsession Meeting announcements with thank-yous
   * If meeting ends without agreement, Vice-Chair notes this in [MLT Weekly Tactical channel](https://community.mattermost.com/private-core/channels/ijt-weekly-tactical) with an `@all` mention
 
 ## MLT Monthly Strategic
