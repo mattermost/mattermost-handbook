@@ -64,9 +64,9 @@
 ## Contributors
 
 * [Join Us](contributors/join-us/README.md)
-  * [EA Logistics](contributors/join-us/ea-logistics.md)
   * [Advisers](contributors/join-us/consulting-advisers.md)
-  * [Exec Recruiting](contributors/join-us/exec-recruiting.md)
+  * [Exec Recruiting](contributors/join-us/exec-recruiting/README.md)
+    * [EA Logistics](contributors/join-us/exec-recruiting/ea-logistics.md)
 * [Onboarding](contributors/onboarding/README.md)
   * [Things everyone must know](contributors/onboarding/things-everyone-must-know.md)
   * [Staff On-boarding](contributors/onboarding/staff-on-boarding-guide.md)

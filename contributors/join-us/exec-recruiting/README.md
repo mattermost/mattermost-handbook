@@ -31,7 +31,7 @@ First meeting with CEO to learn about the company and understand potential to wo
 
 #### **CEO Chapters Interview \(85m\)** 
 
-This interview may happen after the informational or after talking with other members of our leadership team, depending on the role. One of our leadership principles is [self-awareness](../../company/about-mattermost/#leadership-principles) and in this interview we ask candidates to reflect on their career in terms of "Chapters". We discuss five questions for each chapter going back in time: 
+This interview may happen after the informational or after talking with other members of our leadership team, depending on the role. One of our leadership principles is [self-awareness](../../../company/about-mattermost/#leadership-principles) and in this interview we ask candidates to reflect on their career in terms of "Chapters". We discuss five questions for each chapter going back in time: 
 
 * What were you hired to do?
 * Who did you work for? 
