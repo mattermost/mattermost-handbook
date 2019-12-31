@@ -16,9 +16,9 @@ Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Pa
 
 ### **Communicating Time Off**
 
-#### When you take time-off, please remember:
+#### When you take time-off, please do the following:
 
-1. Discuss [PTO](../../../company/about-mattermost/list-of-terms.md#pto-or-paid-time-off) dates with your manager and decide who will be your backup.
+1. Let your management know your [PTO](../../../company/about-mattermost/list-of-terms.md#pto-or-paid-time-off) dates and who will be your backup\(s\). 
 2. Add your time off to [BambooHR ](https://mattermost.bamboohr.com/)
 3. For meetings you’ll miss, message the chair with any status updates.
 4. Post in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) the dates you’ll be away and who’ll be your backup.
