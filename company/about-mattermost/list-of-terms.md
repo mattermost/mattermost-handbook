@@ -87,6 +87,10 @@ Old test servers that could be spun up on pull requests to test changes. Name co
 
 New test servers that use the cloud infrastructure and can be spun up on pull requests to test changes. Name is a throwback to “Spinmint” mixed with “John Wick”.
 
+#### Tomb-stoned
+
+Replacing a web-page with a link to the new page created so that people using the original link can easily find the new page. 
+
 #### **YouTweetInFace**
 
 A reference to the major social media platforms: YouTube \(“You”\), Twitter \(“Tweet”\), LinkedIn \(“In”\), and Facebook \(“Face”\). The [YouTweetInFace channel](https://community.mattermost.com/private-core/channels/pre-tweet) is used to discuss social media posts before asking contributors and community to engage with the content. The name is a reminder that our tone and approach to social media needs to be thoughtful, memorable, and ideally bring a smile 
