@@ -5,6 +5,7 @@
 ## Company
 
 * [About Mattermost](company/about-mattermost/README.md)
+  * [List of Terms](company/about-mattermost/list-of-terms.md)
   * [Business Model](company/about-mattermost/business-model.md)
   * [Mindsets](company/about-mattermost/mindsets.md)
 * ["How to" guides for staff](company/how-to-guides-for-staff/README.md)
