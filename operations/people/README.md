@@ -13,8 +13,6 @@ description: >-
 
 ## Key Channels and Resources 
 
-* Hiring
-  * 📁[Hiring workflow ](https://docs.google.com/document/d/1EBIoL0kHqj2S3DtwAz9FvDgYDljZ5KoQpAnYePO84s8/edit)
 * Performance Reviews
   * 📁[Performance Reviews](https://handbook.mattermost.com/operations/people/performance-reviews-50)
 * Onboarding
@@ -29,6 +27,11 @@ description: >-
     * 🧑@natalie.jew - [Natalie Jew](https://mattermost.bamboohr.com/employees/employee.php?id=174&page=2077) 
   * 📁[Legacy Canadian Benefits](https://docs.mattermost.com/process/benefits-canada.html) \(to be [tomb-stoned](../../company/about-mattermost/list-of-terms.md#tomb-stoned)\) 
     * 🧑@lynn.conway - [Lynn Conway](https://mattermost.bamboohr.com/employees/employee.php?id=207&page=2077) 
+* For Managers
+  * Hiring
+    * 📁[Hiring workflow ](https://docs.google.com/document/d/1EBIoL0kHqj2S3DtwAz9FvDgYDljZ5KoQpAnYePO84s8/edit)
+  * Recommended Reading 
+    * [High Output Management](https://www.amazon.ca/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1?gclid=Cj0KCQiAgKzwBRCjARIsABBbFuhEwL6hICB9wZgtYrZB20TBTbJu7StCEKQlNqfmnQV-EhDY2E6RKS0aApHwEALw_wcB&hvadid=229973645505&hvdev=c&hvlocphy=9000907&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=3473960203373967416&hvtargid=aud-749227636460%3Akwd-297473118671&hydadcr=22457_10105506&keywords=high+output+management&qid=1577810900&sr=8-1) \(Chapter 13 required for performance reviews\) 
 
 ## Team
 
