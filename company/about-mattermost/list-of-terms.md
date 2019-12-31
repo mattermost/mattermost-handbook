@@ -12,6 +12,15 @@ An obvious error in Mattermost software. Changes required to accommodate unsuppo
 
 COM is short for [Customer Obsession Meeting](https://docs.mattermost.com/process/training.html?#customer-obsession-all-hands-meeting), which is our “All Hands” meeting focused on how we’re aligning the company to serve our customers.
 
+#### Dark actions 
+
+The act of using non-web-discoverable formats \(Mattermost channels requiring login, Google docs that aren't web searchable, Zoom call, email, etc.\) to share non-confidential information or processes. 
+
+Example: Giving someone instructions on how to set up OneLogin for MFA on the community server in a DM rather than writing it into a handbook entry for all new staff to use and re-use. 
+
+Dark actions create false openness. [Open actions](list-of-terms.md#open-actions) are highly preferred.   
+
+
 #### **Dead Tarzan**
 
 Discarding an imperfect solution without a clearly thought out and working alternative. Based on idea of [Tarzan of the Jungle](https://en.wikipedia.org/wiki/Tarzan) letting go of a vine without having a new vine to swing to.
@@ -33,6 +42,10 @@ A specific type of mana for developers similar to “points” or “jelly beans
 When documentation or on-screen text is written for someone with considerable knowledge or expertise, instead of being designed for a new learner. In general, try to state things simply rather than speaking to just the “experts” reading the text.
 
 If something is extremely difficult to understand, and yet still justified in the mind of the writer, we call it “Crimson Force Field”. This term is intended to evoke the emotional response of coming across something that is difficult to understand, so writers of Crimson Force Field material can empathize with the readers. Crimson Force Field is drawn from an esoteric episode of Star Trek and it is unlikely anyone but the originator of the term understands its complete meaning. Crimson Force Field is itself Crimson Force Field.
+
+#### False openness
+
+Keeping non-sensitive information that would be helpful for staff and community to know out of public web search through the use of dark actions. Often false openness is unintentional, though after staff members are educated on the topic and empowered to use [open actions](list-of-terms.md#open-actions), continued use of [dark actions](list-of-terms.md#dark-actions) would appear to be deliberate. 
 
 #### **HW - Help Wanted**
 
@@ -57,6 +70,10 @@ Every feature added has an initial and on-going mana cost, which is taken into a
 #### **MLT**
 
 The “Mattermost Leadership Team”, senior leadership team and department heads working with the CEO in MLT meetings and offsites. 
+
+#### Open actions 
+
+Term for publicly documenting information in a web-discoverable format \(GitHub Issue, Staff Handbook entry, forum post, etc.\) prior to sharing guidance to staff and community members. We prefer open actions to [dark actions](list-of-terms.md#dark-actions). 
 
 #### **RHS**
 
