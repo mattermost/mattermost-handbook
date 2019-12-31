@@ -1,3 +1,7 @@
+---
+description: How to update the handbook
+---
+
 # How to update the handbook
 
 ### Guidelines 
