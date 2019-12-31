@@ -12,24 +12,25 @@ At the same time, like star athletes, your growth and peak performance benefit g
 
 Paid Time Off \("PTO"\) is a process to help ensure our staff is effectively rotating their time around work, family, friends and all the things that matter most to them.
 
-Note: If you are taking Pregnancy or Parental Leave, please see Leave Policies. 
+Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Parental Leave](leaves-of-absence/pregnancy-leave.md), please see [Leave Policies](leaves-of-absence/). 
 
 ### **Communicating Time Off**
 
 #### When you take time-off, please remember:
 
-1. Discuss with your manager the dates you plan to take off, and decide who will be your backup.
-2. Add your time off to BambooHR 
+1. Discuss PTO dates with your manager and decide who will be your backup.
+2. Add your time off to [BambooHR ](https://mattermost.bamboohr.com/)
 3. For meetings you’ll miss, message the chair with any status updates.
 4. Post in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) the dates you’ll be away and who’ll be your backup.
-5. Block off time in the shared [Mattermost Timeoff calendar](https://calendar.google.com/calendar/embed?src=mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com&ctz=America%2FLos_Angeles), so it’s easy for the team to see who is going to be away.
-6. Note: Time off reminders will automatically appear in the [Standup channel](https://community.mattermost.com/private-core/channels/stand-up) on the first day and last day you’re out.
+5. Block time in the [Mattermost Timeoff calendar](https://calendar.google.com/calendar/embed?src=mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com&ctz=America%2FLos_Angeles), so team can see who is away.
+
+Note: Time off reminders appear in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) on the first and last day of your PTO. 
 
 There is no limit to how much time-off you can take when your work is meeting or exceeding expectations. We strongly recommend a minimum of 2 weeks per year.
 
 ### Holidays
 
-Please take off holidays relevant to your culture, resident country and preferences. When doing so, please follow the time-off process in 1\) above.
+Please take off holidays relevant to your culture, resident country and preferences. When doing so, please follow the time-off process in [Communicating Time Off](paid-time-off.md#communicating-time-off).
 
 We’re headquartered in the US and have a large Canadian contingent, so below are holidays we’re expecting people from those countries to take off:
 
