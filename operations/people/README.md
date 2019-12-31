@@ -11,17 +11,6 @@ description: >-
 
 * **DO NOT share confidential HR information in the Mattermost pre-release server** \(a.k.a. http://community.mattermost.com\) as it runs pre-production releases of Mattermost software and occasionally requires debugging of data stores. Use [BambooHR](https://mattermost.bamboohr.com/) to handle passport information, ID numbers and other sensitive data. HR issues \(e.g. health, extenuating circumstances, etc.\) should be discussed in @mattermost.com emails only. 
 
-## Team
-
-HR 
-
-* 🧑@natalie.jew - [Natalie Jew](https://mattermost.bamboohr.com/employees/employee.php?id=174&page=2077) - Director of HR  
-* 🧑@lynn.conway - [Lynn Conway](https://mattermost.bamboohr.com/employees/employee.php?id=207&page=2077) - HR Generalist 
-
-Recruiting 
-
-* 🧑@hilary.clark - [Hilary Clark](https://mattermost.bamboohr.com/employees/employee.php?id=215&page=2077) - Director of Recruiting 
-
 ## Key Channels and Resources 
 
 * Hiring
@@ -40,6 +29,17 @@ Recruiting
     * 🧑@natalie.jew - [Natalie Jew](https://mattermost.bamboohr.com/employees/employee.php?id=174&page=2077) 
   * 📁[Legacy Canadian Benefits](https://docs.mattermost.com/process/benefits-canada.html) \(to be tomb-stoned\) 
     * 🧑@lynn.conway - [Lynn Conway](https://mattermost.bamboohr.com/employees/employee.php?id=207&page=2077) 
+
+## Team
+
+HR 
+
+* 🧑@natalie.jew - [Natalie Jew](https://mattermost.bamboohr.com/employees/employee.php?id=174&page=2077) - Director of HR  
+* 🧑@lynn.conway - [Lynn Conway](https://mattermost.bamboohr.com/employees/employee.php?id=207&page=2077) - HR Generalist 
+
+Recruiting 
+
+* 🧑@hilary.clark - [Hilary Clark](https://mattermost.bamboohr.com/employees/employee.php?id=215&page=2077) - Director of Recruiting 
 
 ## General Information 
 
