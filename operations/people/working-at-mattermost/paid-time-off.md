@@ -4,9 +4,15 @@ description: A guide to Time Off
 
 # Paid Time Off
 
-## **Results-Focused Time-off**
+Mattermost is a high performance, fast-paced startup where staff are empowered to do the best work of their careers. We love what we do and we love doing it from anywhere, working remotely and often blending our work and personal lives. 
 
-Our culture is high trust and results-focused. We want people to take time away to relax, think and come back energized. This  page is written with a focus on vacation time off. If you need to take time off for medical needs, whether physical or mention, you should follow the appropriate process in your location. If you are taking Pregnancy or Parental Leave, please see Leave Policies. 
+In these ways, Mattermost can be "the Olympics" of your professional career, with the opportunity to grow and achieve far beyond anywhere you've worked before. 
+
+At the same time, like star athletes, your growth and peak performance benefit greatly from the ability to interleave periods of exertion with periods of rest and reflection. 
+
+Paid Time Off \("PTO"\) is a process to help ensure our staff is effectively rotating their time around work, family, friends and all the things that matter most to them.
+
+Note: If you are taking Pregnancy or Parental Leave, please see Leave Policies. 
 
 ### **Communicating Time Off**
 

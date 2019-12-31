@@ -43,7 +43,7 @@
 * [People](operations/people/README.md)
   * [Working at Mattermost](operations/people/working-at-mattermost/README.md)
     * [Paid Time Off](operations/people/working-at-mattermost/paid-time-off.md)
-    * [Leaves of Absence - 1%](operations/people/working-at-mattermost/leaves-of-absence/README.md)
+    * [Leaves of Absence](operations/people/working-at-mattermost/leaves-of-absence/README.md)
       * [Pregnancy Leave](operations/people/working-at-mattermost/leaves-of-absence/pregnancy-leave.md)
       * [Baby Bonding Parental Leave](operations/people/working-at-mattermost/leaves-of-absence/baby-bonding-parental-leave.md)
   * [Performance Reviews](operations/people/performance-reviews-50/README.md)
