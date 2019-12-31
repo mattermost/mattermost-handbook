@@ -60,6 +60,12 @@ A beneficial change to code that is not fixing a bug.
 
 The “Left-Hand Sidebar” in the Mattermost team site, used for navigation.
 
+### **Majority regions** 
+
+Countries and regions outside the United States are referred to as "majority regions". We use this term for a few reasons, a\) we use the word "majority" to remind everyone that the ~300M United States are only a tiny fraction \(&lt;5%\) of the world's 7 billion people \(many American companies refer to the U.S. as "domestic" and the rest of the world as "international" which is counter to the inclusive culture at Mattermost\), b\) we use "regions" instead of "countries" because there are political issues with some locations. 
+
+For example, we should always refer to Taiwan as a "region" and not a "country" due to [geo-political issues](https://en.m.wikipedia.org/wiki/Taiwan#Political_and_legal_status).
+
 ### **Mana**
 
 An estimate of total energy, attention and effort required for a task--not a measure of amount of code to be changed or cumulative time needed for a change. 
