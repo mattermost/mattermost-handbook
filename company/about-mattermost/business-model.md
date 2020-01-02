@@ -4,7 +4,7 @@ Mattermost uses a buyer-based open core business model to deliver a high trust, 
 
 The free/open source version of Mattermost is built for **developers** as an innovative, flexible, high trust messaging platform that accelerates **collaboration** in DevOps workflows of a tight-knit team.
 
-The paid enterprise edition of Mattermost is built for **IT professionals** as a flexible, high trust messaging platform that meets **compliance** needs in serving multiple teams of developers and end users in high security environments. 
+The paid enterprise edition of Mattermost is built for **team managers** and **IT professionals** as a flexible, high trust messaging platform that meets **compliance** needs in serving multiple teams of developers and end users in high security environments. 
 
 ## Frequently asked questions
 

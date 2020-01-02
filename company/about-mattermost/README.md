@@ -6,10 +6,6 @@ Mattermost, Inc. is a company based on the Mattermost open source project. Matte
 
 Our mission is to make the world more safe and productive by developing and delivering secure, open source collaboration software that is trusted, flexible and offers fast time-to-value.
 
-## Market
-
-We see a $30B+ marketing opportunity in the collaboration space and the growth of “open source collaboration” accelerating vs proprietary solutions. Open source has already commoditized operating systems, databases and virtualization infrastructure. We see the entry of open source into the application layer driving fast adoption of a new generation of solutions, inherently more flexible, trustworthy and economical than past models. 
-
 ## Leadership Principles
 
 Leadership principles are deliberate choices defining our behavior. When facing complexity, uncertainty, or ambiguity \(CUA\) we determine our point of view and our actions through the lens of our values:
@@ -21,25 +17,25 @@ Leadership principles are deliberate choices defining our behavior. When facing 
 * **Insist on High Standards** — Have relentless high standards. Continually raise the bar for high-quality products and processes.
 * **Earn Trust** — Make decisions based on maximizing the trust of others in your judgement. Earn and keep people’s trust.
 
-## Products and Business Model
+## Market
 
-Mattermost, Inc is a commercial open source company with a subscription-based, buyer-based open core licensing model.
+We see a $30B+ market opportunity in the collaboration space and the growth of “open source collaboration” accelerating vs proprietary solutions. Open source has already commoditized operating systems, databases, tooling and virtualization infrastructure. We see the entry of open source into the application layer driving fast adoption of a new generation of open source and open core solutions, inherently more flexible, trustworthy and economical than past models. 
+
+### Products and Business Model
+
+Mattermost, Inc is a commercial open source company with a subscription-based, [buyer-based open core licensing model](business-model.md).
 
 #### Mattermost Team Edition
 
-Audience:
+_Audience:_ Development team that wants to self-host workplace messaging in private network
 
-* Development team that wants to self-host workplace messaging in private network
-
-Our core product is Mattermost Team Edition offered under an open source MIT license. It’s built for a team of 10 to 50 developers and IT professionals who need to self-host a workplace messaging platform. Developer-focused features including web, desktop and mobile apps, core integrations with DevOps platforms, archiving, search and extensibility framework are offered in the open soure core at no cost.
+Our core product is Mattermost Team Edition offered under an open source MIT license. It’s built for a team of 10 to 50 developers and IT professionals who need to self-host a workplace messaging platform. Developer-focused features including web, desktop and mobile apps, core integrations with DevOps platforms, archiving, search and extensibility framework are offered in the open source core at no cost.
 
 Mattermost Team Edition is packaged as a single Linux binary that’s straight forward to install and maintain, with automated deployment from public cloud marketplaces including AWS, Azure, VMWare and GCP.
 
 #### Mattermost Enterprise Edition
 
-Audience:
-
-* IT organization needing to self-host workplace messaging in private network for multiple development teams, or other end users in high trust environments
+_Audience:_ IT organization needing to self-host workplace messaging in private network for multiple development teams, or other end users in high trust environments
 
 Mattermost Enterprise Edition is an extended version of Mattermost Team Edition offered under a proprietary license priced with a user-based annual subscription. It offers features designed for IT organizations to manage multiple teams of developers and other end users in high trust environments with single-sign-on, Active Director/LDAP integration, eDiscovery support and high availability deployment configurations.
 
