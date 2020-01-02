@@ -63,6 +63,10 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 ## Logo
 
+The Mattermost logomark is called "the instrument" and represents four tools organizations need to achieve its highest priorities: A **compass** for direction, a **clock** to set pace, a **meter** to measure output, and a **dial** representing inputs--the contribution of everyone on the team. 
+
+See [brand guidelines](https://mattermost.org/brand-guidelines/) for usage guidance. 
+
 <table>
   <thead>
     <tr>
@@ -75,22 +79,22 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
     <tr>
       <td style="text-align:left">
         <p>
-          <img src="../../.gitbook/assets/image (8).png" alt/>
+          <img src="../../.gitbook/assets/image (9).png" alt/>
         </p>
         <p>&lt;b&gt;&lt;/b&gt;</p>
       </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">The Mattermost logo represents the four tools organizations need to achieve
-        their highest priorities:
-        <br />
-        <br /><b>Compass</b> &#x2013; An organization&#x2019;s direction
-        <br />
-        <br /><b>Meter</b> &#x2013; Measures of organizational output
-        <br />
-        <br /><b>Dial</b> &#x2013; Ability for every person to contribute
-        <br />
-        <br /><b>Clock</b> &#x2013; A timeline to get things done</td>
+      <td style="text-align:left">
+        <p></p>
+        <p>
+          <img src="../../.gitbook/assets/image (2).png" alt/>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p>
+          <img src="../../.gitbook/assets/image (15).png" alt/>
+        </p>
+      </td>
     </tr>
   </tbody>
-</table>See [brand guidelines](https://mattermost.org/brand-guidelines/) for usage guidance. 
-
+</table>
