@@ -61,6 +61,9 @@
     * [How to write Mattermost Recipes](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-write-mattermost-recipes.md)
     * [How to create a split test for web page](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-a-split-test-for-web-page.md)
     * [How to run executive dinners](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-run-executive-dinners.md)
+  * [Checklists for M&M](operations/messaging-and-math/checklists-for-m-and-m/README.md)
+    * [Blog Post Checklist](operations/messaging-and-math/checklists-for-m-and-m/blog-post-checklist.md)
+    * [Bio Checklist](operations/messaging-and-math/checklists-for-m-and-m/bio-checklist.md)
 
 ## Contributors
 
