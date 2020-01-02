@@ -65,36 +65,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 The Mattermost logomark is called "the instrument" and represents four tools organizations need to achieve its highest priorities: A **compass** for direction, a **clock** to set pace, a **meter** to measure output, and a **dial** representing inputs--the contribution of everyone on the team. 
 
+![](../../.gitbook/assets/image%20%282%29.png)
+
 See [brand guidelines](https://mattermost.org/brand-guidelines/) for usage guidance. 
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p>
-          <img src="../../.gitbook/assets/image (9).png" alt/>
-        </p>
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <p>
-          <img src="../../.gitbook/assets/image (2).png" alt/>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <p>
-          <img src="../../.gitbook/assets/image (15).png" alt/>
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
