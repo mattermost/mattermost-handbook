@@ -14,7 +14,7 @@ Below is a checklist for blog posts published in https://mattermost.com/blog.
 ![](https://lh3.googleusercontent.com/WIELsHJPuq0gOQuuNDgv-JxtuIp1ek0W7n42ECDdIK7sr2xxPRTDPfgRuVAQAU6Jh-lT9VA-19r_qJJAisffbhAM0UdpV85vZEMKCk357uoOwl7ue5lfP6iYjHjcdEtSQ4x0lINo)
 
 * **Does the post have the author’s name?**
-  * Make sure bio and headshot have been added to WordPress profile and [follow the guidelines below](https://docs.google.com/document/d/1utGIlIklqgKRCB9dWFX1SXTbT79ltMUS_h8pZmPfdLI/edit#heading=h.z8binipajxo0)
+  * Make sure bio and headshot have been added to WordPress profile and [follow the guidelines below](https://handbook.mattermost.com/operations/messaging-and-math/checklists-for-m-and-m/bio-checklist)
 * **Have you selected the most appropriate category?** Click the link below each category for examples if you are unsure. You can select more than one category when applicable.
   * **CIO/CTO** -- posts that appeal to the C-suite
     * [https://mattermost.com/blog/27-things-enterprises-can-learn-startups-increase-productivity/](https://mattermost.com/blog/27-things-enterprises-can-learn-startups-increase-productivity/)
