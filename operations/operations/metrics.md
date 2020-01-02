@@ -50,8 +50,9 @@ _10% complete_
 * **Total Active Users**: The total number of user accounts created on a single Mattermost server. Excludes deactivated accounts, deleted accounts and bot accounts. This is also the “Total Active Users” measure shown in **System Console &gt; Site Statistics**.
 * **Registered Authorized Users**: Same as **Total Active Users**.
 * **Total Registered Users**: The total number of user accounts created on a single Mattermost server, including deactivated and deleted accounts.
-* **Daily Active Users \(DAU\)**: The total number of users who viewed the Mattermost site in the last 24 hours. Excludes bot accounts. This is also the “Daily Active Users” measure shown in **System Console &gt; Site Statistics**.
-* **Monthly Active Users \(MAU\)**: The total number of users who viewed the Mattermost site in the last 30 days. Excludes bot accounts. This is also the “Monthly Active Users” measure shown in **System Console &gt; Site Statistics**.
+* **DAU**: _Daily Active Users:_ The total number of users who viewed the Mattermost site in the last 24 hours. Excludes bot accounts. This is also the “Daily Active Users” measure shown in **System Console &gt; Site Statistics**.
+* **TEDAU:** _Telemetry Enabled Daily Active Users:_ The total number of users averaged over the last 7 days, who viewed the Mattermost site in the last 24 hours from servers that have “Error Reporting and Diagnostics” or “Security Alert” enabled in System Console, and send telemetry “activity data” \(such as number of users\). Excludes bot accounts.
+* **MAU**: _Monthly Active Users:_ The total number of users who viewed the Mattermost site in the last 30 days. Excludes bot accounts. This is also the “Monthly Active Users” measure shown in **System Console &gt; Site Statistics**.
 * **Active User Count**: A measure of the number of active users last 24 hours. **Legacy measure, do not use this for analysis or decision-making.**
 
 ## GMA Magic Number
@@ -78,6 +79,8 @@ _50% complete_
 
 _1% complete_
 
+* **Enterprise Trial Requests:** Number of trial license requests via [https://mattermost.com/trial](https://mattermost.com/trial) from Named Accounts or Enterprises with 5,000+ employees, in America, EMEA, Australia or Japan.
+* **Enterprise Contact Us Requests:** Number of contact us requests via [https://mattermost.com/contact-us](https://mattermost.com/contact-us) from Named Accounts or Enterprises with 5,000+ employees, in America, EMEA, Australia or Japan.
 * **MQL:** _Marketing Qualified Lead:_ 
 * **PQL:** _Product Qualified Lead:_ Installed free TE/E0 version from a Target Account interested in EE features.
 
