@@ -84,8 +84,11 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
         their highest priorities:
         <br />
         <br /><b>Compass</b> &#x2013; An organization&#x2019;s direction
+        <br />
         <br /><b>Meter</b> &#x2013; Measures of organizational output
+        <br />
         <br /><b>Dial</b> &#x2013; Ability for every person to contribute
+        <br />
         <br /><b>Clock</b> &#x2013; A timeline to get things done</td>
     </tr>
   </tbody>
