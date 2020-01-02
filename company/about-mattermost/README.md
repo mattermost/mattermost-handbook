@@ -2,11 +2,15 @@
 
 Mattermost, Inc. is a company based on the Mattermost open source project. Mattermost software is used by thousands of organizations around the world in 16 languages.
 
-### Mission
+## Mission
 
 Our mission is to make the world more safe and productive by developing and delivering secure, open source collaboration software that is trusted, flexible and offers fast time-to-value.
 
-### Leadership Principles
+## Market
+
+We see a $30B+ marketing opportunity in the collaboration space and the growth of “open source collaboration” accelerating vs proprietary solutions. Open source has already commoditized operating systems, databases and virtualization infrastructure. We see the entry of open source into the application layer driving fast adoption of a new generation of solutions, inherently more flexible, trustworthy and economical than past models. 
+
+## Leadership Principles
 
 Leadership principles are deliberate choices defining our behavior. When facing complexity, uncertainty, or ambiguity \(CUA\) we determine our point of view and our actions through the lens of our values:
 
@@ -17,7 +21,7 @@ Leadership principles are deliberate choices defining our behavior. When facing 
 * **Insist on High Standards** — Have relentless high standards. Continually raise the bar for high-quality products and processes.
 * **Earn Trust** — Make decisions based on maximizing the trust of others in your judgement. Earn and keep people’s trust.
 
-### Products and Business Model
+## Products and Business Model
 
 Mattermost, Inc is a commercial open source company with a subscription-based, buyer-based open core licensing model.
 
@@ -43,7 +47,7 @@ Different packages of commercial features are offered based on buyer needs.
 
 For more information, see our [Product Overview](https://docs.mattermost.com/overview/product.html). and open source repository at [https://github.com/mattermost/](https://github.com/mattermost/)
 
-### Company
+## Company
 
 Mattermost is an open source, remote-first, communities-centered company based in Palo Alto, California and headquartered on the internet.
 
@@ -57,5 +61,16 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 **Based in Palo Alto, California and headquartered on the internet** means the mailing address for Mattermost, Inc. is in Palo Alto, California, and our headquarters is on the internet, specifically the production-quality Mattermost instance at [https://community.mattermost.com](https://community.mattermost.com/). Our online headquarters is where Mattermost staff work with our communities of colleagues, users, partners, customers, candidates, contributors and other [community members](https://docs.mattermost.com/process/community-overview.html) to envision, develop and refine new open source technologies to make the world safer and more productive.
 
-### 
+## Logo
+
+![](../../.gitbook/assets/image%20%2812%29.png)
+
+The Mattermost logo represents the four tools organizations need to achieve their highest priorities:
+
+**Compass** – An organization’s direction  
+**Meter** – Measures of organizational output  
+**Dial** – Ability for every person to contribute  
+**Clock** – A timeline to get things done
+
+See [brand guidelines](https://mattermost.org/brand-guidelines/) for usage guidance. 
 
