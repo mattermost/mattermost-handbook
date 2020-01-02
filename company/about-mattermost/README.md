@@ -63,14 +63,31 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 ## Logo
 
-![](../../.gitbook/assets/image%20%2812%29.png)
-
-The Mattermost logo represents the four tools organizations need to achieve their highest priorities:
-
-**Compass** – An organization’s direction  
-**Meter** – Measures of organizational output  
-**Dial** – Ability for every person to contribute  
-**Clock** – A timeline to get things done
-
-See [brand guidelines](https://mattermost.org/brand-guidelines/) for usage guidance. 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>
+          <img src="../../.gitbook/assets/image (8).png" alt/>
+        </p>
+        <p>&lt;b&gt;&lt;/b&gt;</p>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">The Mattermost logo represents the four tools organizations need to achieve
+        their highest priorities:
+        <br />
+        <br /><b>Compass</b> &#x2013; An organization&#x2019;s direction
+        <br /><b>Meter</b> &#x2013; Measures of organizational output
+        <br /><b>Dial</b> &#x2013; Ability for every person to contribute
+        <br /><b>Clock</b> &#x2013; A timeline to get things done</td>
+    </tr>
+  </tbody>
+</table>See [brand guidelines](https://mattermost.org/brand-guidelines/) for usage guidance. 
 
