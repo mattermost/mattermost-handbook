@@ -1,5 +1,5 @@
 ---
-description: 80% complete
+description: 1% draft
 ---
 
 # MLT Metrics
@@ -20,7 +20,9 @@ MLT definitions checklist
 
 ## ARR
 
-### **Revenue Metrics \(99%\)**
+### **Revenue Metrics**
+
+_50% complete_
 
 * **New ARR**: ARR from new logos signed, with license start dates in the respective period.
 * **Expansion ARR**: ARR from existing customers with a cross-sell/upsell deal, with license start dates in the respective period \(e.g. increased licensed seat count, upgrading from E10 to E20\).
@@ -31,14 +33,19 @@ MLT definitions checklist
 * **Count of New Logos** \(1%\): Count of new logos signed, with start dates in the respective period.
 * **Count of Churned Logos** \(1%\): Count of logos lost where an existing customer is no longer paying Mattermost.
 
-### Active Servers \(99%\)
+### Active Servers
+
+_50% complete_
 
 * **Monthly Server Downloads**: Number of successfully completed unique TE + EE downloads by unique client IP address per month, from mattermost.com. Includes web browser and wget / curl downloads.
   * Note: Excludes GitLab Omnibus downloads, Docker \(Dockerhub\) downloads, and Bitnami or other cloud image downloads, as we don’t currently have a good way of measuring these downloads.
 * **Monthly Enterprise Account Server Downloads:** Number of Monthly Server Downloads among companies and organizations with over 5,000 employees.
+* **New Monthly Server Downloads from Named Enterprise Accounts** \(1%\)**:** The first contact or lead from a Named Enterprise Account who were attached to an opportunity either manually by an AE or by Marketo, and who provides a business email on mattermost.com/download after downloading the Mattermost server binary. Excludes Salesforce account types equal to Customer or Partner.
 * **TEDAS:** _Telemetry Enabled Daily Active Servers:_ ****Number of unique servers that have “Error Reporting and Diagnostics” or “Security Alert” enabled in System Console, and send telemetry “activity data” \(such as number of users\).
 
-### Active Users \(10%\)
+### Active Users
+
+_10% complete_
 
 * **Total Active Users**: The total number of user accounts created on a single Mattermost server. Excludes deactivated accounts, deleted accounts and bot accounts. This is also the “Total Active Users” measure shown in **System Console &gt; Site Statistics**.
 * **Registered Authorized Users**: Same as **Total Active Users**.
@@ -49,7 +56,9 @@ MLT definitions checklist
 
 ## GMA Magic Number
 
-### **Gross Margin Metrics \(1%\)**
+### **Gross Margin Metrics**
+
+_1% complete_
 
 * **GMA Magic Number:** _Gross Margin Adjusted Magic Number_ \(1%\): Net New ARR in a period multiplied by Gross Margin in the period, divided by total Sales & Marketing expense in prior period.
 * **NGMA Magic Number:** _Non-Gross Margin Adjusted Magic Number_ \(1%\) 
@@ -57,20 +66,26 @@ MLT definitions checklist
   * **Net Sales Revenue:** 
   * **Cost of Goods Sold:** 
 
-### **Website Traffic \(99%\)**
+### **Website Traffic**
+
+_50% complete_
 
 * **Organic Traffic:**
   * **Organic Web Traffic:** Monthly unique visitors to \*.mattermost.org, \*.mattermost.com who originate from non-paid sources.
   * **Organic Search Traffic:** Monthly unique visitors to \*.mattermost.org, \*.mattermost.com who originate from an organic Google search.
 
-### **Qualified Leads \(10%\)**
+### **Qualified Leads**
+
+_1% complete_
 
 * **MQL:** _Marketing Qualified Lead:_ 
 * **PQL:** _Product Qualified Lead:_ Installed free TE/E0 version from a Target Account interested in EE features.
 
 ## NPS
 
-### Contributors \(50%\)
+### Contributors
+
+_10% complete_
 
 * **90s Hiring vs Goal \(P0, P1, P2\)**: Difference between hiring plan and hires broken out by priority level \(P0, P1, P2\), function and time.
   * P0 - Roles which hiring managers have flagged as high need.
@@ -80,14 +95,18 @@ MLT definitions checklist
   * Note: Excludes translators, integration/solution creators and QA/UX contributors, as we don’t currently have a good way of measuring these contributors.
 * **Monthly Code Contributors**: ****Number of unique contributors in a given month who have committed at least one line of code to any of the publicly available Mattermost repositories on GitHub, excluding members in the Mattermost GitHub organization.
 
-### Product \(99%\)
+### Product
+
+_50% complete_
 
 * **Product NPS**: The product net promoter score \(Product NPS\) measures user satisfaction of the product, calculated based on single question “How likely are you to recommend Mattermost?”. The score is based on a -100 to 100 scale, with the [calculation detailed here](https://en.wikipedia.org/wiki/Net_Promoter#How_it_works) ****gathered through in-product survey.
   * **End User Product NPS**: The Product NPS calculated among end users only \(ie. not among Team or System Admins\).
   * **System Admin Product NPS**: The Product NPS calculated among System Admins only.
   * **EE Product NPS:** The Product NPS calculated among all users in licensed E10 or E20 servers only.
 
-### Customer Success \(10%\)
+### Customer Success
+
+_1% complete_
 
 * **Customer NPS**: Customer satisfaction of the product, calculated based on single question “How likely are you to recommend Mattermost to a friend or colleague?", sent two days after booking or renewal is closed. The score is based on a -100 to 100 scale.
 * **Support Metrics \(E10 and E20\)**: Metrics calculated based on Zendesk tickets opened by E10 and E20 customers. Tickets opened by non-subscribed organizations are not counted towards these metrics.

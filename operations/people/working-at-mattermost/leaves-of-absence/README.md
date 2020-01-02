@@ -1,8 +1,4 @@
----
-description: 1% Draft
----
-
-# Leaves of Absence
+# Leaves of Absence - 1%
 
 The People Team will continue to update this page to include entity-specific Leave entitlements. Local regulation will override any Mattermost policy, and each Mattermost policy will run concurrent to the local regulations of similar criteria. Reach out to [HR](mailto:hr@mattermost.com) with any questions. 
 
