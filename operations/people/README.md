@@ -14,7 +14,8 @@ description: >-
 ## Key Channels and Resources 
 
 * Performance Reviews
-  * 📁[Performance Reviews](https://handbook.mattermost.com/operations/people/performance-reviews-50)
+  * 📁[Performance Review Guidelines](https://handbook.mattermost.com/operations/people/performance-reviews-50)
+  * 📁[Performance Review Template](https://docs.google.com/document/d/1tTPTp8JC3pUp0kPo2AAUg6XETbURB_bU8f3EOpvKRr0/edit#heading=h.hu5vu6dn98iw) 
 * Onboarding
   * [💬](https://emojipedia.org/speech-balloon/)[People Ops Channel](https://community.mattermost.com/private-core/channels/people-ops)
   * 📁[Legacy PeopleOps Page ](https://docs.mattermost.com/process/people-ops.html)\(to be [tomb-stoned](../../company/about-mattermost/list-of-terms.md#tomb-stoned)\)  
