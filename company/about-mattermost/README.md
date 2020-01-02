@@ -25,23 +25,52 @@ We see a $30B+ market opportunity in the collaboration space and the growth of �
 
 Mattermost, Inc is a commercial open source company with a subscription-based, [buyer-based open core licensing model](business-model.md).
 
-#### Mattermost Team Edition
-
-_Audience:_ Development team that wants to self-host workplace messaging in private network
-
-Our core product is Mattermost Team Edition offered under an open source MIT license. It’s built for a team of 10 to 50 developers and IT professionals who need to self-host a workplace messaging platform. Developer-focused features including web, desktop and mobile apps, core integrations with DevOps platforms, archiving, search and extensibility framework are offered in the open source core at no cost.
-
-Mattermost Team Edition is packaged as a single Linux binary that’s straight forward to install and maintain, with automated deployment from public cloud marketplaces including AWS, Azure, VMWare and GCP.
-
-#### Mattermost Enterprise Edition
-
-_Audience:_ IT organization needing to self-host workplace messaging in private network for multiple development teams, or other end users in high trust environments
-
-Mattermost Enterprise Edition is an extended version of Mattermost Team Edition offered under a proprietary license priced with a user-based annual subscription. It offers features designed for IT organizations to manage multiple teams of developers and other end users in high trust environments with single-sign-on, Active Director/LDAP integration, eDiscovery support and high availability deployment configurations.
-
-Different packages of commercial features are offered based on buyer needs.
-
-For more information, see our [Product Overview](https://docs.mattermost.com/overview/product.html). and open source repository at [https://github.com/mattermost/](https://github.com/mattermost/)
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Mattermost Team Edition</b> 
+        <br />
+        <br /><em>Audience: </em>Development team that wants to self-host workplace
+        messaging in private network</td>
+      <td style="text-align:left">
+        <p>Our core product is Mattermost Team Edition offered under an open source
+          MIT license. It&#x2019;s built for a team of 10 to 50 developers and IT
+          professionals who need to self-host a workplace messaging platform. Developer-focused
+          features including web, desktop and mobile apps, core integrations with
+          DevOps platforms, archiving, search and extensibility framework are offered
+          in the open source core at no cost.</p>
+        <p>Mattermost Team Edition is packaged as a single Linux binary that&#x2019;s
+          straight forward to install and maintain, with automated deployment from
+          public cloud marketplaces including AWS, Azure, VMWare and GCP.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Mattermost Enterprise Edition </b>
+        </p>
+        <p></p>
+        <p><em>Audience: </em>IT organization needing to self-host workplace messaging
+          in private network for multiple development teams, or other end users in
+          high trust environments</p>
+      </td>
+      <td style="text-align:left">
+        <p>Mattermost Enterprise Edition is an extended version of Mattermost Team
+          Edition offered under a proprietary license priced with a user-based annual
+          subscription. It offers features designed for IT organizations to manage
+          multiple teams of developers and other end users in high trust environments
+          with single-sign-on, Active Director/LDAP integration, eDiscovery support
+          and high availability deployment configurations.</p>
+        <p>Different packages of commercial features are offered based on buyer needs.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>For more information, see our [Product Overview](https://docs.mattermost.com/overview/product.html). and open source repository at [https://github.com/mattermost/](https://github.com/mattermost/)
 
 ## Company
 
