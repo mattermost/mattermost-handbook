@@ -13,7 +13,7 @@ The paid enterprise edition of Mattermost is built for **IT professionals** as a
 We use the acronym "TACTICAL" to summarize the approach to maintaining differentiation of the paid version of our offerings to offerings a competitor may create from our open source code base:    
   
 **Test infrastructure** - We use [SaaS QA](https://www.rainforestqa.com/) which isn't included in the open source version.   
-**Alignment** - Our free version aligns to developers, paid to IT Pros. IT Pros are less likely to fork  
+**Alignment** - Developer features are free, paid features are for managers and IT pros, who are less likely to spend time and effort forking and maintaining open source project vs. deploying budgets to purchase paid features.   
 **Core committers** - We employ vast majority of core committers to keep project and business in sync   
 **Threat intelligence** - Mattermost's RDP means forks will lag in threat intelligence   
 **Innovation** - Monthly ship cycles and high velocity innovation rapidly lower the value of forks   
