@@ -23,6 +23,7 @@
 ## Operations
 
 * [Company Operations](operations/operations/README.md)
+  * [Corporate Affairs](operations/operations/corporate-affairs.md)
   * [Groups](operations/operations/groups.md)
   * [MLT Cadence](operations/operations/mlt-cadence/README.md)
     * [MLT Cadence VPMOM](operations/operations/mlt-cadence/mlt-cadence-vpmom.md)
