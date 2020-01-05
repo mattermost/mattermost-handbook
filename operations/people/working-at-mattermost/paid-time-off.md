@@ -30,11 +30,11 @@ There is no limit to how much time-off you can take when your work is meeting or
 
 ## Holidays
 
-Please take off holidays relevant to your culture, resident country and preferences. When doing so, please follow the time-off process in [Communicating Time Off](paid-time-off.md#communicating-time-off).
+Please take off holidays relevant to your culture, resident [country/region](../../../company/about-mattermost/list-of-terms.md#country-region) and preferences. When doing so, please follow the time-off process in [Communicating Time Off](paid-time-off.md#communicating-time-off).
 
 ### Typical Canadian and U.S. Holidays
 
-We’re headquartered in the US and have a large Canadian contingent, so below are holidays we’re expecting people from those countries to take off. These are not mandatory company holidays, just guidelines for people in specific country/regions. 
+We’re headquartered in the US and have a large Canadian contingent, so below are holidays we’re expecting people from those countries to take off. These are not mandatory company holidays, just guidelines for people in specific [country/regions](../../../company/about-mattermost/list-of-terms.md#country-region). 
 
 **US and Canadian Holidays for 2020:**
 

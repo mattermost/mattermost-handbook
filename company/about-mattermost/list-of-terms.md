@@ -14,10 +14,6 @@ An obvious error in Mattermost software that is typically a code defect. Changes
 
 COM is short for [Customer Obsession Meeting](https://docs.mattermost.com/process/training.html?#customer-obsession-all-hands-meeting), which is our “All Hands” meeting focused on how we’re aligning the company to serve our customers.
 
-### Country/Region 
-
-Because the term "country" may be either controversial or incorrect when describing a geographic areas governed by a state-like political entity we use the term "country/region" to avoid any accidental or implied judgement on the independence of a region. If the term "country" appears to be incorrectly used, when "country/region" is more appropriate, please contact legal@mattermost.com. 
-
 ### Dark actions 
 
 The act of using non-web-discoverable formats \(Mattermost channels requiring login, Google docs that aren't web searchable, Zoom call, email, etc.\) to share non-confidential information or processes. 
