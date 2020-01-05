@@ -10,7 +10,7 @@ In these ways, Mattermost can be "the Olympics" of your professional career, wit
 
 At the same time, like star athletes, your growth and peak performance benefit greatly from the ability to interleave periods of exertion with periods of rest and reflection. 
 
-Paid Time Off \("[PTO](../../../company/about-mattermost/list-of-terms.md#pto-or-paid-time-off)"\) is a process to help ensure our staff is effectively rotating their time around work, family, friends and all the things that matter most to them.
+Paid Time Off \("[PTO](../../../company/about-mattermost/list-of-terms.md#pto-or-paid-time-off)"\) is a process to help ensure our staff develop a strong practice of **self-care** by effectively rotating their time around work, family, friends and all the things that matter most to them.
 
 Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Parental Leave](leaves-of-absence/pregnancy-leave.md), please see [Leave Policies](leaves-of-absence/). 
 
