@@ -13,10 +13,6 @@ description: >-
 
 ## Key Channels and Resources 
 
-* Info for Staff
-  * Paid Time Off 
-    * [Vacations](working-at-mattermost/paid-time-off.md#holidays)
-    * Holidays
 * Performance Reviews
   * 📁[Performance Review Guidelines](https://handbook.mattermost.com/operations/people/performance-reviews-50)
   * 📁[Performance Review Template](https://docs.google.com/document/d/1tTPTp8JC3pUp0kPo2AAUg6XETbURB_bU8f3EOpvKRr0/edit#heading=h.hu5vu6dn98iw) 

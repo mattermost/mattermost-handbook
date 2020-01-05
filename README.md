@@ -16,8 +16,7 @@ Some norms you'll see here in the handbook:
 
 As an open source company we like to share early. Sharing ideas early gets us feedback sooner, so we can iterate faster, so we can better results. 
 
-We have a mindset of [1% and 50% drafts](company/about-mattermost/mindsets.md#drafts-at-1-50-99) that express how complete our thinking is around   
-proposal we're reviewing.   
+We have a mindset of [1% and 50% drafts](company/about-mattermost/mindsets.md#drafts-at-1-50-99) that express how complete our thinking is around proposal we're reviewing.   
   
 When a section of the handbook is at less than the 50% draft stage you should see it labeled in the page description with the % draft status. When a section doesn't have a % draft status, assume it's over the 50% draft stage. 
 
