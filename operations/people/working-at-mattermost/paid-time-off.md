@@ -24,7 +24,7 @@ Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Pa
 4. Post in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) the dates you’ll be away and who’ll be your backup.
 5. Block time in the [Mattermost Timeoff calendar](https://calendar.google.com/calendar/embed?src=mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com&ctz=America%2FLos_Angeles), so team can see who is away.
 
-Note: Time off reminders appear in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) on the first and last day of your PTO. 
+Note: PTO reminders appear in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) on first and last day of PTO. 
 
 There is no limit to how much time-off you can take when your work is meeting or exceeding expectations. We strongly recommend a minimum of 2 weeks per year.
 
