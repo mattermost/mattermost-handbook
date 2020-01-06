@@ -66,7 +66,7 @@ Math
     * [Product Screen Shots \(FS-ISAC\)](https://drive.google.com/drive/u/0/folders/19e7vuyK9wYQ7_KffYJKkfX41-b-48SkD)
 * Brand
   * [💬](https://emojipedia.org/speech-balloon/) [Brand Experience ](https://community.mattermost.com/private-core/channels/brand-guidelines) 
-  * [🌐](https://emojipedia.org/globe-with-meridians/) [Brand Guidelines](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb)
+  * [🌐](https://emojipedia.org/globe-with-meridians/) [Website Style Guide ](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb)
   * [🌐](https://emojipedia.org/globe-with-meridians/) [Mattermost logo usage guidelines ](https://mattermost.org/brand-guidelines/)
 * Customer References 
   * [📁](https://emojipedia.org/file-folder/) [Customer References](https://community.mattermost.com/private-core/channels/customer-references): Tracking sheet, discussion, ask templates
