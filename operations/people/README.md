@@ -5,7 +5,7 @@ description: >-
   references here, see PeopleOps on Mattermost.
 ---
 
-# PeopleOps
+# People
 
 ## Important Notes
 
