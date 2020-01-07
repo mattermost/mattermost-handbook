@@ -1,0 +1,27 @@
+# Company Agreements
+
+## Who can sign on behalf of the company? 
+
+Company agreements should only be signed by CEO, Ian Tien, after the approval of a [Contract Accountability Owner \(or "CAO"\)](company-agreements.md#who-are-contract-accountability-owners-caos) with two exceptions:
+
+* If you are on-site and need to sign an NDA to enter a facility you may sign such an agreement 
+* Customer and procurement contracts below $50,000 USD may be signed by VP Finance Aneal Vallurupalli 
+
+## Who are Contract Accountability Owners \(CAOs\)? 
+
+A Contact Accountability Owners, or "CAO", is a Mattermost staff member approved to review and sign-off on contracts of specific types ahead of electronic or physical signature on behalf of the company. 
+
+CAOs by area include: 
+
+* Melissa Warner \(Sales Ops\) 
+* Natalie Jew \(HR\)
+* Aneal Vallurupalli \(Finance\)
+* Tim Quock \(Accounting and Procurement\) 
+
+## What are expectations for completing an e-sign request? 
+
+* E-sign request sent on weekdays before 4pm Palo Alto time should be signed by 9pm Palo Alto on the same day and by 9pm Palo Alto time on Monday if sent on a weekend provided: 
+  *  The e-sign is send by a Mattermost staff member and either prepared by or initialed by a CAO.
+  * The e-sign is prepared by a non-Mattermost staff member and approved by an e-sign reviewer via email to Ian Tien and Amy Nicol ideally ahead of receiving the e-sign request.
+    * Note: E-sign requests from non-Mattermost staff are automatically filtered to a spam folder and the spam filter needs to be searched to find the request.
+
