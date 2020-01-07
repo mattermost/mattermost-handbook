@@ -10,6 +10,7 @@ During prep meeting for [Customer Obsession Meeting](https://handbook.mattermost
 2. YouTweetInFace is drafted. This should include relevant hashtags to draw attention and spread the word about Mattermost to a wider audience.
 3. Introductions for each Week 2 Welcome are confirmed \(either manager introduces, or team member introduces themselves\).
 4. Material for each agenda item is reviewed, and contains a link for more information such as a post to a channel, documentation or a blog post.
+5. If computer sound is shared during the call, test it prior to the meeting and install  libraries or tools as required.
 
 After the prep meeting, post a screenshot of the final agenda into the [Customer Obs Prep channel](https://community.mattermost.com/private-core/channels/cust-obs-prep).
 
