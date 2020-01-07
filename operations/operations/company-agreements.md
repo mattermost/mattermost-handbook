@@ -18,7 +18,7 @@ CAOs by area include:
 * Aneal Vallurupalli \(Finance\)
 * Tim Quock \(Accounting and Procurement\) 
 
-## What are expectations for completing an e-sign request? 
+## What are e-sign completion expectations? 
 
 * E-sign request sent on weekdays before 4pm Palo Alto time should be signed by 9pm Palo Alto on the same day and by 9pm Palo Alto time on Monday if sent on a weekend provided one of the following is true: 
   * **For e-sign from Mattermost staff member** - The e-sign is sent by a Mattermost staff member and either prepared by or initialed by an approved [Contract Accountability Owner, or CAO](company-agreements.md#who-are-contract-accountability-owners-caos). E-signs sent from Mattermost staff are ideal since they are archived automatically in our e-sign system 
