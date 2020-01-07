@@ -10,7 +10,7 @@ This section outlines cadence for company-wide operations.
 
 This is a weekly all-staff meeting focused on increasing alignment and awareness of how the company, departments, teams and individuals to serve our customers. 
 
-[Customer Obsession](../../../company/about-mattermost/#leadership-principles) is a key leadership principle and we emphasize its priority when we bring the company together. Colleagues who come from companies that aren't obsessed with customers have suggested we refer to this meeting as "All Hands" and not expect everything we announce--from [spending company money](../../../company/how-to-guides-for-staff/how-to-spend-company-money/) to [recruiting new talent](../../contributors/staff-recruiting.md)--to be framed in the context of serving customers. Such expectations are typical and common, and therefore we don't have "All Hands" meetings and instead of "Customer Obsession Meetings" to continually remind us that our focus on customers is atypical and uncommon. 
+[Customer Obsession](../../company/about-mattermost/#leadership-principles) is a key leadership principle and we emphasize its priority when we bring the company together. Colleagues who come from companies that aren't obsessed with customers have suggested we refer to this meeting as "All Hands" and not expect everything we announce--from [spending company money](../../company/how-to-guides-for-staff/how-to-spend-company-money/) to [recruiting new talent](../contributors/staff-recruiting.md)--to be framed in the context of serving customers. Such expectations are typical and common, and therefore we don't have "All Hands" meetings and instead of "Customer Obsession Meetings" to continually remind us that our focus on customers is atypical and uncommon. 
 
 <table>
   <thead>
@@ -60,7 +60,7 @@ This is a weekly all-staff meeting focused on increasing alignment and awareness
 
 1. \(Chair\) Schedules items for the weekly agenda, and works 1-1 with presenters to prepare for them.
 2. \(Vice Chair\) Works with new hires and their managers to schedule week 2 welcomes. If new hire or manager is away, introduction is postponed to the following meeting.
-   * New team members a   re introduced on their second week by their manager, including name, role, what they're working on, timezone, additional info as appropriate \(max 2 minutes\).
+   * New team members are introduced on their second week by their manager, including name, role, what they're working on, timezone, additional info as appropriate \(max 2 minutes\).
    * New hire can opt-in to introduce themselves if they choose \(default is not to require public speaking\).
 3. \(Team\) Shares potential meeting agenda topics with Chair via direct message. Must be shared at least 24 hours prior to meeting start and be aligned with the meeting objectives above.
 4. \(Chair & Vice Chair\) Signs into their Zoom account to access recording and screenshare during the meeting.
