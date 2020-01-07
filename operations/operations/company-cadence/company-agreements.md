@@ -20,8 +20,9 @@ CAOs by area include:
 
 ## What are expectations for completing an e-sign request? 
 
-* E-sign request sent on weekdays before 4pm Palo Alto time should be signed by 9pm Palo Alto on the same day and by 9pm Palo Alto time on Monday if sent on a weekend provided: 
-  *  The e-sign is send by a Mattermost staff member and either prepared by or initialed by an approved [Contract Accountability Owner, or CAO](company-agreements.md#who-are-contract-accountability-owners-caos).
-  * The e-sign is prepared by a non-Mattermost staff member and approved by an e-sign reviewer via email to Ian Tien and Amy Nicol ideally ahead of receiving the e-sign request.
-    * Note: E-sign requests from non-Mattermost staff are automatically filtered to a spam folder and the spam filter needs to be searched to find the request.
+* E-sign request sent on weekdays before 4pm Palo Alto time should be signed by 9pm Palo Alto on the same day and by 9pm Palo Alto time on Monday if sent on a weekend provided one of the following is true: 
+  * **For e-sign from Mattermost staff member** - The e-sign is sent by a Mattermost staff member and either prepared by or initialed by an approved [Contract Accountability Owner, or CAO](company-agreements.md#who-are-contract-accountability-owners-caos). E-signs sent from Mattermost staff are ideal since they are archived automatically in our e-sign system 
+  * **For e-sign from outside the company** - The e-sign is prepared by a non-Mattermost staff member \(potentially a vendor, partner or customer\) and approved by a [CAO](company-agreements.md#who-are-contract-accountability-owners-caos) via email to Ian Tien and Amy Nicol ideally ahead of receiving the e-sign request.
+    * Within 5 business days of the e-sign completion the [CAO](company-agreements.md#who-are-contract-accountability-owners-caos) or designee should send Amy Nicol a link to the Box.com URL containing the fully executed signature to confirm the archiving of the contract is complete, since archiving is not automatic. 
+      * Note: E-sign requests from non-Mattermost staff are automatically filtered to a spam folder and the spam filter needs to be searched to find the request.
 
