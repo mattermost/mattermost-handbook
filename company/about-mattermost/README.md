@@ -1,6 +1,32 @@
 # About Mattermost
 
-Mattermost, Inc. is a company based on the Mattermost open source project. Mattermost software is used by thousands of organizations around the world in 16 languages.
+Mattermost, Inc. is a company based on the Mattermost open source project, which is a messaging collaboration platform for team communication across mobile, web and PC with instant search, continuous archiving and unlimited integrations. Mattermost software is used by thousands of organizations around the world in 16 languages.
+
+## What we do
+
+Mattermost, Inc. helps solve collaboration challenges for developers, operators & security teams so organizations can focus on business-critical tasks. 
+
+We serve organizations that need to speed application delivery by improving collaboration while maintaining security and privacy. 
+
+Specific problems we address include: 
+
+* Complicated communications
+  * Silos across networks, data, tools & teams causing delay, duplication and re-work
+* Unpredictable results
+  * Teams solve the same problems with inconsistent methods and outcomes
+* Outages and downtime 
+  * Lack of clarity and tooling increases and prolongs system failures 
+
+We help by providing a secure, privacy-conscious collaboration platform to build, operate, defend and heal software systems. 
+
+Core benefits and features include: 
+
+* Awareness 
+  * Deliver cross-org access to data, alerting, & dashboards across web, PC & mobile
+* Process
+  * Observe, prioritize, coordinate and escalate process & priorities 
+* Response
+  * Solve issues proactively & reactively with data, people, tools & controls in one place
 
 ## Mission
 
