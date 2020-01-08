@@ -1,4 +1,10 @@
-# Airfare and Traveling
+---
+description: >-
+  70% complete. This guide, along with all our guides, is a work-in-progress and
+  iterates as we consider new data and frameworks.
+---
+
+# How to book airfare and travel
 
 ### Policy
 

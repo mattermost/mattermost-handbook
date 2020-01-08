@@ -1,3 +1,9 @@
+---
+description: >-
+  70% complete. This guide, along with all our guides, is a work-in-progress and
+  iterates as we consider new data and frameworks.
+---
+
 # How to use Expensify
 
 Expensify is our global expense tracking software for all reimbursable and non-reimbursable expenses. All expenses, regardless of cost, must include an itemized receipt for tracking and approving purposes. As part of your onboarding experience, you will be provisioned on one or more Expensify policies depending on your level and if you have direct reports. If you do not have an Expensify account, please reach out to the [Finance Team](https://community.mattermost.com/private-core/channels/purchases) who will provision you with an Expensify account.
