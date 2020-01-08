@@ -23,6 +23,7 @@
 
 ## Operations
 
+* [Community](operations/community.md)
 * [Workplace](operations/workplace.md)
 * [Company Operations](operations/operations/README.md)
   * [Groups](operations/operations/groups.md)

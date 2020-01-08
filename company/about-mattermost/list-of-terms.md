@@ -116,7 +116,5 @@ A reference to the major social media platforms: YouTube \(“You”\), Twitter 
 
 ### **Windows Vista approach**
 
-Instead of working iteratively a "Windows Vista approach" attempts to ship significant changes in a complex one-time effort, which seems like a good idea at the time but ends up causing delays, wasted effort and numerous avoidable errors.   
-  
-This tempting, high risk approach is named after Microsoft’s “Windows Vista” operating system, one of its most famous examples.
+An attempt to add functionality through a massive, complex one-time re-write hoping to improve the architecture, but which likely ends in repeated delays, wasted effort, buggy code and limited architectural improvement \(compared to re-writing the architecture in phases\). This tempting, high risk approach is named after Microsoft’s “Windows Vista” operating system, one of its most famous examples.
 
