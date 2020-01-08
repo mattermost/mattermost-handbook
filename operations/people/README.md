@@ -2,7 +2,7 @@
 description: >-
   Welcome to the Mattermost People Team Handbook Page. This page is being
   updated and actively worked on. If you have any question that you don't see
-  references here, see PeopleOps on Mattermost.
+  answered here, see PeopleOps on Mattermost.
 ---
 
 # PeopleOps
