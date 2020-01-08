@@ -48,6 +48,8 @@ HR
 Recruiting 
 
 * 🧑@hilary.clark - [Hilary Clarke](https://mattermost.bamboohr.com/employees/employee.php?id=215&page=2077) - Director of Recruiting 
+* 🧑@teresa.novoa - [Teresa Novoa](https://mattermost.bamboohr.com/employees/employee.php?id=113&page=2077) - Technical Recruiting Manager
+* 🧑@julia.novoa - [Julia Novoa](https://mattermost.bamboohr.com/employees/employee.php?id=218&page=2077) - Recruiting Coordinator
 
 ## General Information 
 
