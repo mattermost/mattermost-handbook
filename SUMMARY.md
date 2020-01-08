@@ -18,6 +18,7 @@
   * [How to update the handbook](company/how-to-guides-for-staff/how-to-update-the-handbook.md)
   * [How to change mobile device](company/how-to-guides-for-staff/how-to-change-mobile-device/README.md)
     * [How to handle a lost mobile device](company/how-to-guides-for-staff/how-to-change-mobile-device/how-to-handle-a-lost-mobile-device.md)
+  * [How to get paid](company/how-to-guides-for-staff/how-to-get-paid.md)
   * [How to do an unscheduled post-mortem](company/how-to-guides-for-staff/how-to-do-a-post-escalation-post-mortem.md)
 
 ## Operations

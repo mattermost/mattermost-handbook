@@ -125,6 +125,7 @@ Categories are expense types such as airfare, hotels, meals, and more. When clas
 | Customer Entertainment | Tickets, tours, events with customers |
 | Dues & Subscriptions | membership dues/subscriptions to pro/technical/trade pubs |
 | Flexible Office Space | Wework or other work space |
+| Foreign Exchange Reimbursement | Employee reimbursements for FX loss on expense reports |
 | Home Office Equipment | Ergonomic chair, standing desk, laptop stand, etc. |
 | Lodging | Hotels, Airbnb, other |
 | Marketing Promotional Materials | Promotional marketing materials i.e. Printfection |
