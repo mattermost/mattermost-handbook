@@ -17,7 +17,7 @@ Mattermost’s policy for spending company money is influenced by GitLab, who [o
 5. It is generally easiest and fastest for you to make any purchases for office supplies yourself and expense them. If you are unable to pay for any supplies yourself, please reach out to [People Ops](https://community.mattermost.com/private-core/channels/people-ops).
 6. If you make a purchase that will cost Mattermost $1000 USD \(or over\), this is classified as company property, you will be required to return the item\(s\) if you leave the company.
 7. [Use Expensify to file your expense report](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify) in the same month that you made the purchase in. Please combine multiple expenses on one report if possible. 
-8. Any non-company expenses paid with a company credit card will have to be reported to your manager as soon as possible and **refunded** in full within 14 days.
+8. Any [non-company expenses](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-reimburse-the-company) paid with a company credit card or other means will have to be reported to your manager as soon as possible and **refunded** in full within 14 days. 
 9. Home Office Equipment and Supplies. The company will reimburse for the following items if you **need it for work or use it mainly for business**, and local law allows us to pay for it without incurring payroll taxes. The amounts set forth below are guidelines and not strict limits:
 
 ## EQUIPMENT
