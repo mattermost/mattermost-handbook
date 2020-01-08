@@ -50,6 +50,7 @@
 * [Research & Development](operations/research-and-development.md)
 * [Developer Relations](operations/developer-relations.md)
 * [Messaging and Math](operations/messaging-and-math/README.md)
+  * [Asana Guidelines](operations/messaging-and-math/asana-guidelines.md)
   * [How to guides for M&M](operations/messaging-and-math/how-to-guides-for-m-and-m/README.md)
     * [How to create screenshots and GIFs](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-screenshots-and-gifs.md)
     * [How to create release announcements](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements.md)
