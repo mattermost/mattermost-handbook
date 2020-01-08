@@ -82,15 +82,12 @@ Weekly check-in to clear tactical issues:
 * Customer References 
   * [📁](https://emojipedia.org/file-folder/) [Customer References](https://community.mattermost.com/private-core/channels/customer-references): Tracking sheet, discussion, ask templates
   * [📁](https://emojipedia.org/file-folder/) [Editorial Guide](%20https://docs.google.com/document/d/1XWjtWdF77qKdxDso_-aC_S1c3E0ohOoxCRL_PIf3pco/edit#heading=h.mowcb1f5jyj7): Guidelines for copy and content 
+* Demand Gen Overviews
+  * [💬](https://emojipedia.org/speech-balloon/) [Social Media ](https://docs.google.com/spreadsheets/d/1RskstYEc8QqcKNR6N3tPd2IqbWZlK0hJMg_5pLzKe7c/edit#gid=0)
+  * [💬](https://emojipedia.org/speech-balloon/) Events
+  * [💬](https://emojipedia.org/speech-balloon/) Paid Ads
 
 ### Tools
 
-* M&M runs largely in Asana and Mattermost 
-
-Additional tools are listed here:   
-  
-  
-  
-  
-DRI for this page: Jason Blais 
+* M&M runs largely in Asana and Mattermost     DRI for this page: Jason Blais 
 
