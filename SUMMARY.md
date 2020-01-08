@@ -33,7 +33,7 @@
   * [MLT Metrics](operations/operations/metrics.md)
   * [Company Agreements](operations/operations/company-agreements.md)
   * [Company Cadence](operations/operations/company-cadence.md)
-* [Recruiting](operations/people/recruiting.md)
+* [Recruiting](operations/recruiting.md)
 * [PeopleOps](operations/people/README.md)
   * [Working at Mattermost](operations/people/working-at-mattermost/README.md)
     * [Paid Time Off](operations/people/working-at-mattermost/paid-time-off.md)

@@ -42,9 +42,7 @@ Any Mattermost staff member can create, rename and archive channels on the pre-r
   
 For example, the [Loc: Seattle](https://community.mattermost.com/core/channels/loc-seattle) channel can be joined any contributor, partner or staff member to socialize with our [community](community.md). 
 
-We trust our staff to use names that are fast, obvious, forgiving, and also to help our colleagues with constructive suggestions when names could be improved through iteration. 
-
-  
+We trust our staff to use names that are fast, obvious, forgiving, and also to help our colleagues with constructive suggestions when names could be improved through iteration.   
   
 The following conventions are in place for channels with common purposes: 
 
@@ -127,5 +125,5 @@ The following conventions are in place for channels with common purposes:
         E.g. MLX Recruiting, MLT HR, etc.</td>
     </tr>
   </tbody>
-</table>
+</table> 
 
