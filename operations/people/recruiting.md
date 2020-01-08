@@ -18,7 +18,7 @@ To add a new U.S. State please DM @tim.quock to provide finance advanced notice 
 
 ## As Appropriate Interviews \("AA"s\) 
 
-To ensure the quality bar and culture of Mattermost is strong and rising, an "As Appropriate" interview is required with a senior, tenured Mattermost staff member for any FTE candidate before an offer can be extended. 
+To ensure the quality bar and culture of Mattermost is strong and rising, an "As Appropriate" interview is required with a senior, tenured Mattermost staff member for any FTE candidate before an offer can be extended. Typically the AA is the last person on the interview loop and scheduled in advance. 
 
 The following list of people are approved as As Appropriate interviewers \(aka "AA"s\): 
 
