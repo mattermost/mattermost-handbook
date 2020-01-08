@@ -42,8 +42,19 @@ Math
 
 ### Cadence
 
-* M&M Leadership Weekly Tactical \(55m\) - Weekly check-in to clear tactical issues  
-* M&M Leadership Daily Admin \(10m\) - Daily check-in to clear administrative issues
+#### M&M Leadership Weekly Tactical \(55m\) 
+
+Weekly check-in to clear tactical issues:  
+
+* Scorecard
+  * Downloads and sign-ups
+  * Contributors
+  * 1 HN front page post/quarter
+* Current projects
+  * Issue
+  * Priority
+  * Resolution 
+* New business discussion 
 
 ### Channels and Key Resources 
 
@@ -78,5 +89,8 @@ Math
 
 Additional tools are listed here:   
   
-\[Paste view of System Table filtered to Marketing tools\]
+  
+  
+  
+DRI for this page: Jason Blais 
 

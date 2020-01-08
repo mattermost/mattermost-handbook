@@ -12,7 +12,7 @@ It has three objectives:
 
 * Provide a workplace for Mattermost Staff 
 * Test pre-released builds of our core products
-* Engage with our [communities ](community.md)including contributors and partners 
+* Engage with our [communities ](../community.md)including contributors and partners 
 
 **The Mattermost pre-release server is NOT A PRODUCTION SERVER.** It is a live view of work-in-progress and will contain bugs and have occasional downtime. 
 
@@ -34,13 +34,13 @@ Available to anyone who'd like to join the server using either an email and pass
 
 URL: [https://community.mattermost.com/private-core](https://community.mattermost.com/private-core/channels/fy21-devops-awareness)
 
-A confidential space for [Mattermost staff](community.md#mattermost-staff) requiring a Mattermost OneLogin account and MFA**.** 
+A confidential space for [Mattermost staff](../community.md#mattermost-staff) requiring a Mattermost OneLogin account and MFA**.** 
 
 ## Channel Naming Conventions 
 
 Any Mattermost staff member can create, rename and archive channels on the pre-release server. When channels don't contain sensitive information they should default to **Public channel in CONTRIBUTORS team** and welcome participation by contributors.   
   
-For example, the [Loc: Seattle](https://community.mattermost.com/core/channels/loc-seattle) channel can be joined any contributor, partner or staff member to socialize with our [community](community.md). 
+For example, the [Loc: Seattle](https://community.mattermost.com/core/channels/loc-seattle) channel can be joined any contributor, partner or staff member to socialize with our [community](../community.md). 
 
 We trust our staff to use names that are fast, obvious, forgiving, and also to help our colleagues with constructive suggestions when names could be improved through iteration.   
   
@@ -66,7 +66,7 @@ The following conventions are in place for channels with common purposes:
     <tr>
       <td style="text-align:left">BUILD
         <br />
-        <br />Build EE with <a href="community.md">community</a> 
+        <br />Build EE with <a href="../community.md">community</a> 
       </td>
       <td style="text-align:left">EE: [FEATURE]</td>
       <td style="text-align:left"><b>Public channel in CONTRIBUTORS team </b>for openly discussing Enterprise
@@ -111,9 +111,9 @@ The following conventions are in place for channels with common purposes:
         <p></p>
       </td>
       <td style="text-align:left"><b>Private channel in STAFF team </b>for topic-specific channels for members
-        of <a href="operations/groups.md#mattermost-leadership-team-mlt">Mattermost Leadership Team</a> to
-        work on <a href="operations/mlt-cadence/">Mattermost cadence</a>, E.g. MLT
-        Daily, MLT R&amp;D, etc.</td>
+        of <a href="groups.md#mattermost-leadership-team-mlt">Mattermost Leadership Team</a> to
+        work on <a href="../operations/mlt-cadence/">Mattermost cadence</a>, E.g.
+        MLT Daily, MLT R&amp;D, etc.</td>
     </tr>
     <tr>
       <td style="text-align:left">OPERATE
@@ -121,7 +121,7 @@ The following conventions are in place for channels with common purposes:
         <br />Plan, review and iterate on company operations with MLX</td>
       <td style="text-align:left">MLX [TOPIC]</td>
       <td style="text-align:left"><b>Private channel in STAFF team </b>for topic-specific channels for members
-        of <a href="operations/groups.md#mattermost-leadership-team-extended-mxt">Mattermost Leadership Extended Team</a>.
+        of <a href="groups.md#mattermost-leadership-team-extended-mxt">Mattermost Leadership Extended Team</a>.
         E.g. MLX Recruiting, MLT HR, etc.</td>
     </tr>
   </tbody>

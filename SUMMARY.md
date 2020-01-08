@@ -24,9 +24,9 @@
 ## Operations
 
 * [Community](operations/community.md)
-* [Workplace](operations/workplace.md)
+* [Workplace](operations/workplace/README.md)
+  * [Groups](operations/workplace/groups.md)
 * [Company Operations](operations/operations/README.md)
-  * [Groups](operations/operations/groups.md)
   * [MLT Cadence](operations/operations/mlt-cadence/README.md)
     * [MLT Cadence VPMOM](operations/operations/mlt-cadence/mlt-cadence-vpmom.md)
     * [COM Prep Checklist](operations/operations/mlt-cadence/com-prep-meeting.md)

@@ -5,7 +5,7 @@ This page describes different leadership groups at Mattermost:
 ### Mattermost Leadership Team \(MLT\): 
 
 * Consists of department heads, typically VPs or select head of key functions 
-* Participates in [MLT Cadence ](mlt-cadence/)and associated channels
+* Participates in [MLT Cadence ](../operations/mlt-cadence/)and associated channels
 
 ### Mattermost Leadership Team - Extended \(MXT\):
 

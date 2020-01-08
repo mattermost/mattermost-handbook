@@ -1,7 +1,3 @@
----
-description: 1% draft
----
-
 # MLT Metrics
 
 This section outlines metric definitions maintained by finance for reporting to investors. 
@@ -127,4 +123,8 @@ For technical analytics definitions not covered here, see the [Analytics Playboo
 ### Best Practices
 
 To be added.
+
+
+
+DRI for this page is Jason Blais
 
