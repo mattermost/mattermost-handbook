@@ -14,25 +14,37 @@ It has three objectives:
 * Test pre-released builds of our core products
 * Engage with our [communities ](community.md)including contributors and partners 
 
-**The Mattermost pre-release server is NOT A PRODUCTION SERVER.** It is a live view of work-in-progress and will contain bugs and have occasional downtime.   
-  
-The server has two teams:
-
-* **Contributors** 
-  * Available to anyone who'd like to join the server using either an email and password account \([you can sign-up for a free account online](https://pre-release.mattermost.com/signup_user_complete)\) or a Mattermost staff account, which is set up via OneLogin and requires MFA either through OneLogin or Google Authenticator 
-* **Staff** - A confidential space for Mattermost staff requiring a Mattermost OneLogin account and MFA 
+**The Mattermost pre-release server is NOT A PRODUCTION SERVER.** It is a live view of work-in-progress and will contain bugs and have occasional downtime. 
 
 You can reach the server at: 
 
 {% embed url="https://pre-release.mattermost.com" %}
 
-The server is also available via the URL https://community.mattermost.com which receives the same regular pushes of partially tested code as https://pre-release.mattermost.com and https://daily-community.mattermost.com which offers daily builds. 
+The server is also available via the URL https://community.mattermost.com which receives the same regular pushes of partially tested code as https://pre-release.mattermost.com and https://daily-community.mattermost.com which offers daily builds.   
+  
+The server has two teams:
 
+### **Contributors Team**
 
+URL: [https://community.mattermost.com/core](https://community.mattermost.com/core/messages/@github)
+
+Available to anyone who'd like to join the server using either an email and password account \([you can sign-up for a free account online](https://pre-release.mattermost.com/signup_user_complete)\) or a Mattermost staff account, which is set up via OneLogin and requires MFA either through OneLogin or Google Authenticator
+
+### **Staff Team**
+
+URL: [https://community.mattermost.com/private-core](https://community.mattermost.com/private-core/channels/fy21-devops-awareness)
+
+A confidential space for [Mattermost staff](community.md#mattermost-staff) requiring a Mattermost OneLogin account and MFA**.** 
 
 ## Channel Naming Conventions 
 
-Any Mattermost staff member can create, rename and archive channels on the pre-release server. We trust our staff to use names that are fast, obvious, forgiving, and also to help our colleagues with constructive suggestions when names could be improved through iteration.   
+Any Mattermost staff member can create, rename and archive channels on the pre-release server. When channels don't contain sensitive information they should default to **Public channel in CONTRIBUTORS team** and welcome participation by contributors.   
+  
+For example, the [Loc: Seattle](https://community.mattermost.com/core/channels/loc-seattle) channel can be joined any contributor, partner or staff member to socialize with our [community](community.md). 
+
+We trust our staff to use names that are fast, obvious, forgiving, and also to help our colleagues with constructive suggestions when names could be improved through iteration. 
+
+  
   
 The following conventions are in place for channels with common purposes: 
 
