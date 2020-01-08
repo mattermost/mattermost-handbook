@@ -16,5 +16,14 @@ To add a new U.S. State please DM @tim.quock to provide finance advanced notice 
 
 
 
+## As Appropriate Interviews \("AA"s\) 
 
+To ensure the quality bar and culture of Mattermost is strong and rising, an "As Appropriate" interview is required with a senior, tenured Mattermost staff member for any FTE candidate before an offer can be extended. 
+
+The following list of people are approved as As Appropriate interviewers \(aka "AA"s\): 
+
+* Ian Tien, CEO and co-founder
+* Corey Hulen, CTO and co-founder 
+
+Each AA interviewer should have at least 3 reserved slots per week available for AA interviews, ideally in different timezone ranges, providing capacity for 12 new hires per month per AA. 
 
