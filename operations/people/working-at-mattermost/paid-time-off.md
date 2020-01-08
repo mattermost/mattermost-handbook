@@ -4,15 +4,15 @@ description: A guide to Time Off
 
 # Paid Time Off
 
-Mattermost is a high performance, fast-paced startup where staff are empowered to do the best work of their careers. We love what we do and we love doing it from anywhere, working remotely and often blending our work and personal lives.
+Mattermost is a high performance, fast-paced startup where staff are empowered to do the best work of their careers. We love what we do and we love doing it from anywhere, working remotely and often blending our work and personal lives. 
 
-In many ways, Mattermost can be "the Olympics" of our professional careers, with the opportunity to grow and achieve far beyond anywhere we've worked before.
+In many ways, Mattermost can be "the Olympics" of our professional careers, with the opportunity to grow and achieve far beyond anywhere we've worked before. 
 
-At the same time, like star athletes, our growth and peak performance benefit greatly from the ability to interleave periods of exertion with periods of rest and reflection.
+At the same time, like star athletes, our growth and peak performance benefit greatly from the ability to interleave periods of exertion with periods of rest and reflection. 
 
 Paid Time Off \("[PTO](../../../company/about-mattermost/list-of-terms.md#pto-or-paid-time-off)"\) is a process to help ensure our staff develop a strong practice of **self-care** by effectively rotating their time around work, family, friends and all the things that matter most to them.
 
-Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Parental Leave](leaves-of-absence/pregnancy-leave.md), please see [Leave Policies](leaves-of-absence/).
+Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Parental Leave](leaves-of-absence/pregnancy-leave.md), please see [Leave Policies](leaves-of-absence/). 
 
 ## **Communicating Time Off**
 
@@ -24,7 +24,7 @@ Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Pa
 4. Post in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) the dates you’ll be away and who’ll be your backup.
 5. Block time in the [Mattermost Timeoff calendar](https://calendar.google.com/calendar/embed?src=mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com&ctz=America%2FLos_Angeles), so team can see who is away.
 
-Note: PTO reminders appear in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) on first and last day of PTO.
+Note: PTO reminders appear in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) on first and last day of PTO. 
 
 There is no limit to how much time-off you can take when your work is meeting or exceeding expectations. We strongly recommend a minimum of 2 weeks per year.
 
@@ -34,7 +34,7 @@ Please take off holidays relevant to your culture, resident [country/region](../
 
 ### Typical Canadian and U.S. Holidays
 
-We’re headquartered in the US and have a large Canadian contingent, so below are holidays we’re expecting people from those countries to take off. These are not mandatory company holidays, just guidelines for people in specific [country/regions](../../../company/about-mattermost/list-of-terms.md#country-region).
+We’re headquartered in the US and have a large Canadian contingent, so below are holidays we’re expecting people from those countries to take off. These are not mandatory company holidays, just guidelines for people in specific [country/regions](../../../company/about-mattermost/list-of-terms.md#country-region). 
 
 **US and Canadian Holidays for 2020:**
 
@@ -54,7 +54,7 @@ We’re headquartered in the US and have a large Canadian contingent, so below a
 * US and Canadian Christmas Day \(12/25/2020\)
 * Canadian Boxing Day \(12/26/2020++\)
 
-It’s up to meeting chairs to decide whether to reschedule if few people can attend \(e.g. if there are a lot of US or Canadians in the meeting\).
+It’s up to meeting chairs to decide whether to reschedule if few people can attend \(e.g. if there are a lot of US or Canadians in the meeting\).  
 
 +July 4, 2020 \(the legal public holiday for US Independence Day\), falls on a Saturday. For staff, Friday, July 3, may be treated as a holiday.
 

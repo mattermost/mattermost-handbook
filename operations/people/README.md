@@ -9,9 +9,9 @@ description: >-
 
 ## Important Notes
 
-* **DO NOT share confidential HR information in the Mattermost pre-release server** \(a.k.a. [http://community.mattermost.com\](http://community.mattermost.com\)\) as it runs pre-production releases of Mattermost software and occasionally requires debugging of data stores. Use [BambooHR](https://mattermost.bamboohr.com/) to handle passport information, ID numbers and other sensitive data. HR issues \(e.g. health, extenuating circumstances, etc.\) should be discussed in @mattermost.com emails only. 
+* **DO NOT share confidential HR information in the Mattermost pre-release server** \(a.k.a. http://community.mattermost.com\) as it runs pre-production releases of Mattermost software and occasionally requires debugging of data stores. Use [BambooHR](https://mattermost.bamboohr.com/) to handle passport information, ID numbers and other sensitive data. HR issues \(e.g. health, extenuating circumstances, etc.\) should be discussed in @mattermost.com emails only. 
 
-## Key Channels and Resources
+## Key Channels and Resources 
 
 * Performance Reviews
   * 📁[Performance Review Guidelines](https://handbook.mattermost.com/operations/people/performance-reviews-50)
@@ -39,17 +39,17 @@ description: >-
 
 ## Team
 
-HR
+HR 
 
 * 🧑@natalie.jew - [Natalie Jew](https://mattermost.bamboohr.com/employees/employee.php?id=174&page=2077) - Director of HR  
 * 🧑@lynn.conway - [Lynn Conway](https://mattermost.bamboohr.com/employees/employee.php?id=207&page=2077) - HR Generalist 
 * 🧑@camille.harris - [Camille Harris](https://mattermost.bamboohr.com/employees/employee.php?id=48&page=2077) - HR Specialist
 
-Recruiting
+Recruiting 
 
 * 🧑@hilary.clark - [Hilary Clarke](https://mattermost.bamboohr.com/employees/employee.php?id=215&page=2077) - Director of Recruiting 
 
-## General Information
+## General Information 
 
 ### Office Address
 
@@ -82,10 +82,12 @@ For example, monthly fee, salary, start date, title, etc. People ops will send y
 > * For ‘fixed fee’ contracts, it is fine to send invoice before the time period covered. Example: An invoice for services April 1-30 can be sent on April 25.
 > * Your manager should reply on the email with any feedback on the invoice.
 
-### Other
+### Other 
 
-| People Topic | Mattermost Channel | Mattermost Email |
+| People Topic | Mattermost Channel  | Mattermost Email |
 | :--- | :--- | :--- |
 | Compensation, Benefits, agreements and verification letters | @Lynn-Conway or @Natalie-Jew | HR@Mattermost.com |
 | Onboarding | [People Ops Channel ](https://community.mattermost.com/private-core/channels/people-ops) | People@Mattermost.com |
+
+
 
