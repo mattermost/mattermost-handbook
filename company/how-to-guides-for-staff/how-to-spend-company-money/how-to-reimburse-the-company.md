@@ -17,28 +17,28 @@ The purpose of this policy is to provide guidance to staff members who have spen
 
 In order to reimburse Mattermost for company money spent on personal expenses, you will need to submit an expense report in Expensify. The steps below will guide you to successfully documenting and paying Mattermost timely.
 
-* Step 1: Log into your Expensify account
-* Step 2: Choose Reports → New Reports
+* **Step 1**: Log into your Expensify account
+* **Step 2**: Choose Reports → New Reports
 
 ![](../../../.gitbook/assets/0.png)
 
-* Step 3: Click on “+” to add new expense
+* **Step 3**: Click on “+” to add new expense
 
 ![](../../../.gitbook/assets/1.png)
 
-* Step 4: Click on “New Expense” on the top left corner of the window and complete the expense form. Please remember to add a receipt or supporting document to the expense report.
+* **Step 4**: Click on “New Expense” on the top left corner of the window and complete the expense form. Please remember to add a receipt or supporting document to the expense report.
 
 ![](../../../.gitbook/assets/2.png)
 
-* Step 5: In the Total section, input amount owed to Mattermost as a negative amount and uncheck the Reimbursable radio button.
+* **Step 5**: In the Total section, input amount owed to Mattermost as a negative amount and uncheck the Reimbursable radio button.
 
 ![](../../../.gitbook/assets/3.png)
 
-* Step 6: Click “Save”. Expense report should look similar to the screenshot below:
+* **Step 6**: Click “Save”. Expense report should look similar to the screenshot below:
 
 ![](../../../.gitbook/assets/image%20%2832%29.png)
 
-* Step 7: Click “Submit” in the top left corner.
+* **Step 7**: Click “Submit” in the top left corner.
 
 ## How to make a payment to Mattermost
 
