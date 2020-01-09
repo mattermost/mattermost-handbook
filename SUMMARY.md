@@ -83,6 +83,7 @@
 * [Onboarding](contributors/onboarding/README.md)
   * [Things everyone must know](contributors/onboarding/things-everyone-must-know.md)
   * [Staff On-boarding](contributors/onboarding/staff-on-boarding-guide.md)
+  * [Manager Onboarding - 1%](contributors/onboarding/manager-onboarding-1.md)
   * [Frequently Asked Questions](contributors/onboarding/frequently-asked-questions.md)
   * [R&D Onboarding](contributors/onboarding/r-and-d-onboarding.md)
 
