@@ -29,6 +29,7 @@ The People Team will continue to update this page to include entity-specific Lea
    **b.\)** **Non-temporary headcount requests.** Please note non-temporary requests ****will not be approved for roles that include the majority of job responsibilities of the staff member planning a Leave. Any staff member going on a Pregnancy or Baby Bonding Parental Leave of Absence is entitled to job protection rights respective to the benefit and their respective local regulations. An exception will be considered If the manager is notified that the staff member is extending a leave beyond what Mattermost and their local law allows.
 
 4. **Communicate the plan for coverage.** Define interim Person\(s\) of Contact for roles and responsibilities of the team member going on leave, share internally with team and appropriate cross-functional partners. 
+5. **Notify** [**HR**](mailto:%20hr@mattermost.com) **via email if the effective Leave of Absence date changes** **from the initial BambooHR request.** An expected baby due date is likely to change. In order to minimize disruption in pay for the Staff member on leave, managers are required to notify HR of any changes to the initial Leave Request.
 
  
 
