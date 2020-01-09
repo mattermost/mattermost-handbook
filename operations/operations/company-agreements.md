@@ -5,7 +5,7 @@
 Company agreements should only be signed by CEO, Ian Tien, after the approval of a [Contract Accountability Owner \(or "CAO"\)](company-agreements.md#who-are-contract-accountability-owners-caos) with two exceptions:
 
 * If you are on-site and need to sign an NDA to enter a facility you may sign such an agreement 
-* Customer and procurement contracts below $50,000 USD may be signed by VP Finance Aneal Vallurupalli 
+* Customer, procurement and non-FTE consulting contracts below $50,000 USD may be signed by VP Finance Aneal Vallurupalli 
 
 ## Who are Contract Accountability Owners \(CAOs\)? 
 
