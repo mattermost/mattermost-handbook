@@ -2,10 +2,12 @@
 
 ## Who can sign on behalf of the company? 
 
-Company agreements should only be signed by CEO, Ian Tien, after the approval of a [Contract Accountability Owner \(or "CAO"\)](company-agreements.md#who-are-contract-accountability-owners-caos) with two exceptions:
+Company agreements should only be signed by CEO, Ian Tien, after the approval of a [Contract Accountability Owner \(or "CAO"\)](company-agreements.md#who-are-contract-accountability-owners-caos) with the following exceptions:
 
 * If you are on-site and need to sign an NDA to enter a facility you may sign such an agreement 
-* Customer, procurement and non-FTE consulting contracts below $50,000 USD may be signed by VP Finance Aneal Vallurupalli 
+* Non-clickthrough customer agreements up to $5,000 USD may be signed by VP Finance Aneal Vallurupalli 
+* Non-employment/non-consulting procurement contracts up to $5,000 USD may be signed by VP Finance Aneal Vallurupalli 
+* Sponsored open source projects and paid simulations up to $600 USD may be signed by VP Finance Aneal Vallurupalli 
 
 ## Who are Contract Accountability Owners \(CAOs\)? 
 
@@ -26,4 +28,6 @@ CAOs by area include:
     * Within 5 business days of the e-sign completion the [CAO](company-agreements.md#who-are-contract-accountability-owners-caos) or designee should send Amy Nicol a link to the Box.com URL containing the fully executed signature to confirm the archiving of the contract is complete, since archiving is not automatic. 
       * Note: E-sign requests from non-Mattermost staff are automatically filtered to a spam folder and the spam filter needs to be searched to find the request.
 * If the timeline is urgent, or if the e-sign isn't completed by the expected timeline please send Ian Tien and Amy Nicol a Group Direct Message on the Mattermost server to expedite
+
+
 
