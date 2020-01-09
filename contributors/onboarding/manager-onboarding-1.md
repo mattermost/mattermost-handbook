@@ -9,7 +9,7 @@ description: Things People Managers Must Know
 1. **Managing and approving** [**Time Off**](https://handbook.mattermost.com/operations/people/working-at-mattermost/paid-time-off#communicating-time-off)**.** Our culture is high trust and results-focused. We want people to take time away to relax, think and come back energized and willing to bring their best self to work. As a people manager, it is important to consistently iterate and define what [vacation-ready](https://handbook.mattermost.com/operations/people/working-at-mattermost#5-be-the-change-you-want-to-see) means for your team. All time-off requests should be recorded in BambooHR. 
 2. **Location change requests.** Staff agreements are conditioned upon the region of residence noted in a staff member's contract. Location change requests should be discussed with [HR](mailto:%20hr@mattermost.com) and your MLT member prior to providing written approval. Staff must receive written approval from the Company prior to a region relocation. 
 
-## People Managers **and** People Programs
+## People Managers **Responsibilities -** People Programs
 
 ### **Onboarding** 
 
