@@ -29,7 +29,7 @@
   * [Groups](operations/workplace/groups.md)
 * [Company Operations](operations/operations/README.md)
   * [MLT Cadence](operations/operations/mlt-cadence/README.md)
-    * [MLT Cadence VPMOM](operations/operations/mlt-cadence/mlt-cadence-vpmom.md)
+    * [MLT Cadence V2MOM](operations/operations/mlt-cadence/mlt-cadence-vpmom.md)
     * [COM Prep Checklist](operations/operations/mlt-cadence/com-prep-meeting.md)
   * [MLT Metrics](operations/operations/metrics.md)
   * [Company Agreements](operations/operations/company-agreements.md)
