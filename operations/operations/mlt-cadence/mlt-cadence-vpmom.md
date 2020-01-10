@@ -4,7 +4,7 @@ description: >-
   company objectives
 ---
 
-# MLT Cadence V2MOM
+# MLT Cadence VPMOM
 
 Vision
 
