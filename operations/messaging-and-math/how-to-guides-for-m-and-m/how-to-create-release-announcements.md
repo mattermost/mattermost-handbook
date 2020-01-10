@@ -13,6 +13,17 @@ description: 50% Draft
   * Every paragraph feels like it's ready to copy and paste into a tweet. 
   * Every person we thank who is on Twitter, we Tweet to them
 
+### **Process**
+
+* Writer drafts announce with feedback
+* Release manager checks for spelling mistakes, features included, screenshot guidelines are met 
+  * PMs review for features and content are technically correct
+  * Marketing reviews
+* Head of PM reviews 
+* CEO review
+* Blog post published
+* Tweets from blog post are queued \(Tuesdays 10am PT, and Thursdays 10am if there's extra\) - Writer 
+
 ### **Checklist for review of draft:**
 
 The Release Manager \(Amy Blais\) owns the release announcement, including the following checklist items unless otherwise indicated:
@@ -53,3 +64,8 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 
 1. Each monthly release R&D should aspire to come up with a "Hero" screenshot following guidelines to use as the splash image for the release. 
 
+
+
+Review notes: 5.19 
+
+* 
