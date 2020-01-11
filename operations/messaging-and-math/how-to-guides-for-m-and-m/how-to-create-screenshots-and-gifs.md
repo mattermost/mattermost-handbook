@@ -81,19 +81,19 @@ Instead, show the sub-component at 100% zoom with a 12pt white border \(so there
 
 Example of what not to do \("Stop" and "created with gifrecorder.com" overlayed at the end of the GIF\):
 
-![](../../../.gitbook/assets/image%20%2825%29.png)
+![](../../../.gitbook/assets/image%20%2827%29.png)
 
 #### Don't take a screenshot at high resolution
 
 Text is hard to read when image is reduced for sharing on blog posts, social media and possibly in slides:
 
-![](../../../.gitbook/assets/image%20%2830%29.png)
+![](../../../.gitbook/assets/image%20%2832%29.png)
 
 #### Do size Mattermost to capture approximately a 900px by 640px area
 
 This enables sharing the image in documentation, social media and marketing content more easily.
 
-![](../../../.gitbook/assets/image%20%2826%29.png)
+![](../../../.gitbook/assets/image%20%2828%29.png)
 
 
 
