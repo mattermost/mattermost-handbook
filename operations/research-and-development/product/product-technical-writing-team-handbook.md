@@ -2,9 +2,9 @@
 description: 1% Draft
 ---
 
-# Product Technical Writing Team Handbook
+# Technical Writing Team Handbook
 
-The Technical Product Writing team focuses primarily on the User Guide, Admin Guide, and Developer documentation.
+The Technical  Writing team focuses primarily on the User Guide, Admin Guide, and Developer documentation.
 
 ## Areas of Responsibility
 
@@ -40,7 +40,7 @@ The Technical Product Writing team focuses primarily on the User Guide, Admin Gu
 * Community and doc review process
   * Exact split with Justine to be determined
 
-Note: Few areas such as the [User's Guide](https://docs.mattermost.com/guides/user.html) will remain a collaborative effort between Product Managers and Technical Writers.
+Note: Few areas not listed above, such as the [User's Guide](https://docs.mattermost.com/guides/user.html), will remain a collaborative effort between Product Managers and Technical Writers. Please assume @jason.blais as the directly responsible individual.
 
 ## Processes
 
