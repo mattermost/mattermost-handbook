@@ -19,7 +19,7 @@ New VPMOM to be added. VPMOM in need of update: [High Output Operations](https:/
 
 Our fiscal year ends on January 31. 
 
-Prior to calendar Jan 1, 2019, our fiscal year ended on September 30. Our first fiscal year ending Jan 31 began on January 1, 2019, ends on January 1, 2020 and has 13 months.
+Prior to January 1, 2019, our fiscal year ended on September 30. Our first fiscal year ending January 31 began on January 1, 2019, ended on January 1, 2020 and had 13 months. Following years start February 1, end January 31 and have 12 months. To illustrate: 
 
 | Fiscal Year | Start Date | End Date | Months |
 | :--- | :--- | :--- | :--- |
