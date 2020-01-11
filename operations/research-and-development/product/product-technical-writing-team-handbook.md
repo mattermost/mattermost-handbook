@@ -104,13 +104,13 @@ For less urgent work, if no reply has been received within 48 hours, please ping
 
 We really want the community to own the docs as much as possible. In light of this, please mark your issue as “Help Wanted” so that community members are able to identify work that they’re able to assist with. 
 
-If your documentation request/issue applies to a repository other than mattermost/docs, you can use the Editor Review label and/or ping @justinegeffen.
+If your documentation request/issue applies to a repository other than mattermost/docs, you can use the \*\*Editor Review\*\*label and/or ping @justinegeffen or @amyblaise.
 
 ## General Contribution Workflow
 
 ### Jira Tickets
 
-The Technical Writing Jira board is located here: [https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=51](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=51). Feature and release writing is planned three sprints in advance. This ensures that ad-hoc work can be taken on. 
+The Technical Writing Jira board is located here:c[https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=51](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=51). Feature and release writing is planned three sprints in advance. This ensures that ad-hoc work can be taken on. 
 
 If you have a documentation requirement, please create a ticket and include the following fields:
 
@@ -136,25 +136,24 @@ The [Documentation Style guide](https://docs.mattermost.com/guides/core.html#doc
 
 ### Community Documentation Involvement
 
-Every month, the Mattermost community plans, builds, tests, documents, releases and supports new product improvements for Team Edition to benefit the user community, and the Mattermost Enterprise Team does the same for Enterprise Edition to benefit the subscriber community.
+Every month the Mattermost community plans, builds, tests, documents, releases, and supports new product improvements for Team Edition to benefit the user community. The Mattermost Enterprise Team does the same for Enterprise Edition to benefit the subscriber community.
 
-A critical part of this development is documentation, and this documentation ranges from feature documentation to FAQs, guides, and tutorials. 
+A critical part of this development is documentation which ranges from feature documentation to FAQs, guides, and tutorials. 
 
 #### Feature Documentation
 
 Feature documentation is generally written by the technical product writers, within a specific time-frame aligned with releases. Community members are welcome to assist, if the time expectations are manageable. 
 
-Feature request documentation is usually located here: and here: and labelled as “Docs Needed”. As these are tied to a release \(and a deadline\) it’s best to only take on the work if you’re sure you can complete it on time. It’s expected that community members contribute in their available time, which is why this type of documentation isn’t usually the best option to take on. 
+Feature request documentation is usually located in the [mattermost-server](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+is%3Aissue+label%3ADocs%2FNeeded) repo and the [mattermost-webapp](https://github.com/mattermost/mattermost-webapp/pulls?q=is%3Aopen+is%3Apr+label%3ADocs%2FNeeded) repo and are labelled as “Docs Needed”. As these are tied to a release \(and a deadline\) it’s best to only take on the work if you’re sure you can complete it on time. It’s understood that community members contribute in their available time, which is why this type of documentation isn’t usually the best option to take on. 
 
 #### Help Wanted Tickets/Doc Issues
 
-Help Wanted tickets are generally not linked to a release and are more flexible in terms of timeline and delivery date. You can find the documentation Help Wanted tickets [here](https://github.com/mattermost/docs/labels/Help%20Wanted). To start working on one, you can assign it to yourself, comment add a comment indicating you’ll be working on it, and get started. 
+Help Wanted tickets are generally not linked to a release and are more flexible in terms of timeline and delivery date. You can find the documentation Help Wanted tickets [here](https://github.com/mattermost/docs/labels/Help%20Wanted). To start working on one, assign it to yourself, add a comment indicating you’ll be working on it, find the relevant document in the [source](https://github.com/mattermost/docs/tree/master/source) directory, read through the [README](https://github.com/mattermost/docs/blob/master/README.md) file if you're not familiar with the process, and get started. 
+
+If you have any questions, you can post them in the [Documentation](https://community.mattermost.com/core/channels/documentation) channel and we'll be happy to help. 
 
 #### Engineering/Developer Documentation
 
-Most, if not all, contributions have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation.
-
-However, the documentation can be as detailed or concise as deemed necessary - consider it an MVP which can be refined at a later stage. 
+Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated (or created) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation. The documentation can be as detailed or concise as deemed necessary - consider it an MVP which can be refined at a later stage. 
 
 When submitting your PR, please include the \*\*Editor Review\*\* label and add @amyblais or @justinegeffen in GitHub as an approver.
-
