@@ -48,7 +48,7 @@
     * [Informal Review Process](operations/people/performance-reviews-50/informal-review-process.md)
 * [Contributors](operations/contributors/README.md)
   * [Staff Recruiting](operations/contributors/staff-recruiting.md)
-* [Research & Development](operations/research-and-development/README.md)
+* [Research & Development](operations/research-and-development.md)
   * [Product](operations/research-and-development/product/README.md)
     * [Product Technical Writing Team Handbook](operations/research-and-development/product/product-technical-writing-team-handbook.md)
   * [Engineering](operations/research-and-development/engineering.md)

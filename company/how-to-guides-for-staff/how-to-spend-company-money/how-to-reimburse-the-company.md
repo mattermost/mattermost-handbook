@@ -36,7 +36,7 @@ In order to reimburse Mattermost for company money spent on personal expenses, y
 
 * **Step 6**: Click “Save”. Expense report should look similar to the screenshot below:
 
-![](../../../.gitbook/assets/image%20%2834%29.png)
+![](../../../.gitbook/assets/image%20%2832%29.png)
 
 * **Step 7**: Click “Submit” in the top left corner.
 
