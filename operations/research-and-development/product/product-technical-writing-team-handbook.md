@@ -110,7 +110,7 @@ If your documentation request/issue applies to a repository other than mattermos
 
 ### Jira Tickets
 
-The Technical Writing Jira board is located here:c[https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=51](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=51). Feature and release writing is planned three sprints in advance. This ensures that ad-hoc work can be taken on. 
+The Technical Writing Jira board is located here:[https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=51](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=51). Feature and release writing is planned three sprints in advance. This ensures that ad-hoc work can be taken on. 
 
 If you have a documentation requirement, please create a ticket and include the following fields:
 
