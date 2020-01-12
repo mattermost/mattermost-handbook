@@ -71,29 +71,6 @@ You can expect the following approximate turnaround times:
 
 There are a number of variables at play and providing a hard and fast time-frame for completion. A rough guideline is between 3 and 5 days for most work and 2 - 3 weeks for larger projects. Larger projects might be moved to Jira if appropriate. 
 
-_\(To do: Add more labels to doc repo around priority/urgency? Add labels for different areas and add labels for things like “customer request” “release related” “bug” etc?\)_
-
-_Suggestions:_
-
-* _In progress/Taken_
-* _Priority: Urgent_
-* _Priority: Next release_
-* _Priority: Customer issue_
-* _Bug_
-* _Editing/Review_
-* _Content Request/New Content_
-* _Area: Feature Documentation_
-* _Area: Customer Education_
-* _Area: API_
-* _Area: Mobile_
-
-_Labels used in other doc-related repos that may be helpful if applied across repos:_
-
-* _Content_
-* _Needs Documentation_
-* _Up for Grabs_
-* _Docs/Needed_
-
 #### Assignees
 
 Documentation does not have to be written by the Technical Product Writer/s. You can raise an issue, complete the requirement, and submit a Pull Request.
