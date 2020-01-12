@@ -8,6 +8,8 @@ description: >-
 
 At Mattermost, we want you to be successful Day 1. As staff members, you are empowered to determine and purchase what you need in order to do your job. We value high-impact over stringent expense rules and these expense guidelines are intended to help make decisions not hinder movement. Depending on Country, some items may be way below or way above the averages listed. If you need to spend more to get the right equipment for you to be productive, we trust you’re making purchase decisions to optimize cost and efficiency. If you are uncertain, feel free to reach out in the [Finance Team](https://community.mattermost.com/private-core/channels/expenses) channel.
 
+## Mattermost Guidelines
+
 Mattermost’s policy for spending company money is influenced by GitLab, who [open sources its policy on spending company money online](https://about.gitlab.com/handbook/spending-company-money/) and who has been [highly successful in a open, frugal, iterative culture](https://about.gitlab.com/2019/09/17/gitlab-series-e-funding/),
 
 1. Spend company money like it is your own money. 
