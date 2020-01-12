@@ -175,6 +175,32 @@ All expense reports are required to have a Class. Below are the current list of 
 
 If you are being reimbursed in a currency other than USD, refer to [Currency Exchange Table Policy](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money/currency-exchange-table).
 
+## Foreign Currency Reimbursement Submission
+
+If you are a staff member who has has or will be reimbursed and the [exchange rate used is unfavorable](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#other-expenses), follow the directions below.
+
+### 100 USD or Less
+
+If the foreign currency impact of your report is 100 USD or less, please add a line to your expense report and use the select Foreign Currency Reimbursement as your [Category](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#reporting-fields). In your report, add the following information: 
+
+1. Net amount owed, 
+2. Attach document\(s\) to support the unfavorable exchange loss, 
+3. Select [Classification](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#classification) Business Operations
+
+For further guidance, see screenshots below
+
+![](https://lh6.googleusercontent.com/_5szYDs7Pefdr3osvVCSh_HjbqUgqUPpZkU7SjM-8jFVVzHG4qI_bF0TqeV88dNGV9RKbDzPoiqpCEsmv1rR4Di0biGAis1iBg5aK18vgEaVOCVEZpky3O08hNtXAvZsRjs9rCol)
+
+### Greater than 100 USD or Exceptional Cases
+
+For those currency effects greater than 100 USD, please document and calculate the total amount of the difference using the [FX Reimbursement Template](https://docs.google.com/spreadsheets/d/1MNqGJgxZ7pId7eW2EvpawbiL-0-NPaeUY4gB1IoGSa4/edit?usp=sharing) and Mattermost will reimburse you. Once the template is completed, select Foreign Currency Reimbursement as your [Category](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#reporting-fields). In your report, add the following information: 
+
+1. Net amount owed, 
+2. Attach document\(s\) to support the unfavorable exchange loss including the [FX Reimbursement Template](https://docs.google.com/spreadsheets/d/1MNqGJgxZ7pId7eW2EvpawbiL-0-NPaeUY4gB1IoGSa4/edit?usp=sharing), 
+3. Select [Classification](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#classification) Business Operations
+
+Example 1: if your true expense total is USD 500 on your bank statement, but the converted total amount on your Expensify report is USD 300, the amount to be added to your expense report is USD 200 and claimed as an expense line categorized as [Foreign Exchange Reimbursement](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#categories) and classed as Business Operations.
+
 ## Expense Reimbursement Policy
 
 Our goal is to reimburse staff members timely. We reimburse twice a month on the 15th and last day of every month. To be reimbursed timely, all expense reports must be submitted and manager approved 3 days prior to reimbursement. The primary reason for this is Finance needs to review for proper classification and to timely fund your bank account.
