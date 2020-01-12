@@ -172,6 +172,9 @@ Flexible office spaces or hot desk will be reviewed based on average costs for t
 
 **Home Internet:** Mattermost will reimburse up to 50 USD per month that can be expensed for home internet. If you are submitting an expense other than USD, please use the [Currency Exchange Rate Table](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/currency-exchange-table) to determine how much to expense each month. As always, expenses should be [timely](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#preparing-and-submitting-expense-reports) submitted and follow the [How to use Expensify](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#preparing-and-submitting-expense-reports) process. 
 
+**Foreign Currency Reimbursement:** From time to time, you may receive an unfavorable exchange rate between the date you made the expense and the date Mattermost reimburses you. If that happens, Mattermost will make you whole. To ensure the least amount of monetary impact, follow the [Company Guidelines](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#mattermost-guidelines). To submit an foreign currency reimbursement claim, refer to   
+
+
 ### Manager Approval
 
 For anything requiring manager approval, please complete the following steps

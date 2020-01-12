@@ -175,6 +175,10 @@ All expense reports are required to have a Class. Below are the current list of 
 
 If you are being reimbursed in a currency other than USD, refer to [Currency Exchange Table Policy](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money/currency-exchange-table).
 
+## Foreign Currency Reimbursement Submission
+
+
+
 ## Expense Reimbursement Policy
 
 Our goal is to reimburse staff members timely. We reimburse twice a month on the 15th and last day of every month. To be reimbursed timely, all expense reports must be submitted and manager approved 3 days prior to reimbursement. The primary reason for this is Finance needs to review for proper classification and to timely fund your bank account.
