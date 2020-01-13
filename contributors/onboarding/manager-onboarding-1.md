@@ -12,13 +12,13 @@ description: Things People Managers Must Know
 4. **Accounting and Finance Approvals:** 
    * Staff expense reimbursement: Managers will need to approve their team's  [expenses](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#when-approving-an-expense-report). Any expense reimbursement questions should be routed to the [Purchases Channel](https://community.mattermost.com/private-core/channels/purchases). 
    * Placeholder - invoices
-5. **Headcount and Offer Approvals.** \(MLT-specific\).[ See Hiring Workflow](https://handbook.mattermost.com/operations/people#key-channels-and-resources). 
+5. **Headcount and Offer Approvals.** \(MLT-specific\).[ See Hiring Workflow](https://handbook.mattermost.com/operations/people#key-channels-and-resources). MLT and Directors should also reference the [Hiring Plan](https://docs.google.com/spreadsheets/d/1ApYjf13A-ji9gvr13EIxGet6iMwfGo9YWYkVuDsiumA/edit#gid=355968799) to review approved open requisitions. 
 
 ## People Managers **Responsibilities -** People Programs
 
-### **Onboarding** 
+### **Onboarding**
 
-We strive to provide a smooth onboarding experience that enables new colleagues into a safe and compliant working environment with a strong sense of belonging. Managers should familiarize themselves with onboarding in order to appropriately fill in any gaps for their new team member. 
+We strive to provide a smooth onboarding experience that enables new colleagues into a safe and compliant working environment with a strong sense of belonging. Managers should familiarize themselves with onboarding in order to appropriately fill in any gaps for their new team member.
 
 * Complete the [department onboarding template](https://handbook.mattermost.com/contributors/onboarding/staff-on-boarding-guide#departmental-onboarding-checklists) prior to your new staff member's start date. 
 * Assign an Onboarding Peer \(Link w/ description to come\). Managers should ask permission of a potential Onboarding Peer prior to assignment. 
