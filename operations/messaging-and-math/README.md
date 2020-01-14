@@ -67,8 +67,12 @@ Weekly check-in to clear tactical issues:
     * [Executive Head Shots](https://drive.google.com/drive/u/0/folders/1-09BQ8IMKzTTROtL_sIS00h9XnaNrGID)
     * [Speaker Profiles](https://docs.google.com/spreadsheets/d/1DbGkHR3jrOVP4a_RkBPkUdfSN6yfk5Jho8-Dy4HOSUM/edit?ts=5dfba3f0)
     * [Public Presentations](https://drive.google.com/drive/u/0/folders/1Zajlo5q06VOmYx78HURQAhAArVrJlbTo)
-    * [Product Screen Shots ](https://drive.google.com/drive/u/0/folders/1lwTOEpcnEom7eSavjsXlvkkdRdZgeoip)
-    * [Product Screen Shots \(FS-ISAC\)](https://drive.google.com/drive/u/0/folders/19e7vuyK9wYQ7_KffYJKkfX41-b-48SkD)
+* Visuals
+  * [Asset Templates](https://drive.google.com/drive/folders/0Bx-9w8QDFlfcbUh2bGdkRElJaWs)
+    * [Blue Background](https://www.dropbox.com/s/a8tbqxiik1m9i8u/20170717_template_dark.tif?dl=0)
+    * [White Background](https://www.dropbox.com/s/codoct7np20fx3l/20170717_template_light.tif?dl=0)
+  * [Product Screen Shots ](https://drive.google.com/drive/u/0/folders/1lwTOEpcnEom7eSavjsXlvkkdRdZgeoip)
+  * [Product Screen Shots \(FS-ISAC\)](https://drive.google.com/drive/u/0/folders/19e7vuyK9wYQ7_KffYJKkfX41-b-48SkD)
 * Brand
   * [💬](https://emojipedia.org/speech-balloon/) [Brand Experience ](https://community.mattermost.com/private-core/channels/brand-guidelines) 
   * [🌐](https://emojipedia.org/globe-with-meridians/) [Website Style Guide ](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb)
