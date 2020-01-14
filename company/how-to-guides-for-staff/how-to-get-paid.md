@@ -28,7 +28,7 @@ _Example 2_: a staff member named John Smith is located in Spain and signed a co
 
 If you are a staff member located outside of the United States and Canada, your expense reimbursements will be made through Bill.com. As noted above, Mattermost requires banking information from a primary banking institution to be able to make reimbursements through Bill.com. You will receive your expense reimbursement no later than 15th and end of each month.
 
-Complete the following [Banking Form](https://docs.google.com/forms/d/1yWdqVwmvgYaUhs4u3Ro19I0YVkQVK35B9ulsz65Sc3c/prefill) to properly register your credentials with Mattermost
+Complete the following [Banking Form](https://docs.google.com/forms/d/e/1FAIpQLScw5E8h2z7QOuoabPjvcCqQ4mMdiPikXNODEaCGbuI4IsgF-w/viewform?usp=pp_url) to properly register your credentials with Mattermost
 
 ### Primary Payment Reimbursement Facilities
 

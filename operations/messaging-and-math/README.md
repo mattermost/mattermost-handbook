@@ -4,21 +4,13 @@ description: 1% DRAFT. Overview of Marketing department and where to find materi
 
 # Messaging and Math
 
-## About Messaging & Math \(M&M\)
+## Why "Messaging and Math"? 
 
-Often called "Marketing" at Mattermost we're using the term "Messaging and Math" to convey the focus of what we're aiming to achieve in accelerating the awareness and adoption  of our open source and commercial products. 
+Rather than always call a department "Marketing"--which is an extremely broad term that involves every interaction prospects, customers, our broader [community](../community.md) and the industry has with our brand, product and company--we use the short-hand "Messaging and Math" to refer to the core functions of the department: 
 
-The "Messaging and Math" concept focuses our marketing efforts on two priorities: 
-
-### **What is the message?** 
-
-Define the positioning, messaging and stories for our offerings in general and in specifics for personas at different stages in their journey.
-
-### **What's the math to reach out audience?** 
-
-Define clear goals for sharing our message with audiences that would benefit from our offerings and quantitatively advance them down journey stages to ever increasing benefits. 
-
-Things won't be perfect. There will always be things we can't measure well. The importance is setting the intention that we are focused on reaching audiences who can benefit from our offerings in a quantitative way when we can, and be less satisfied when aren't focused on our messaging and our math. 
+**MESSAGING:** Define and refine the message we send to audiences \(prospects, customers, community and industry\) about our position and value. This work spans product marketing, corporate marketing, brand, PR, AR and corporate communications.  
+  
+**MATH:** Define and deliver the infrastructure and campaigns to quantitatively advance our audiences in their audience journeys based on their specific interests, needs and questions.  This includes website development and optimization, and demand generation campaigns across events, advertising, and email.
 
 ## Team, Cadence, Channels, and Tools    
 
