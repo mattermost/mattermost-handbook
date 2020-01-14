@@ -64,7 +64,9 @@ Weekly check-in to clear tactical issues:
   * [📁](https://emojipedia.org/file-folder/) Spreadsheet of press relationships
   * [📁](https://emojipedia.org/file-folder/) Press kit \(bios, photos, screenshots\) 
     * [Executive Bios](https://docs.google.com/document/d/1R06ieUPLSMmffE1Fnr4CQLYTEBLKvCaRH-bsfRTgBY0/edit)
-    * [Executive Head shots](https://www.dropbox.com/sh/vuwld9z073nqukr/AAAHZOpRREYlHTD0S5-_oE2Fa?dl=0)
+    * [Executive Head Shots](https://drive.google.com/drive/u/0/folders/1-09BQ8IMKzTTROtL_sIS00h9XnaNrGID)
+    * [Speaker Profiles](https://docs.google.com/spreadsheets/d/1DbGkHR3jrOVP4a_RkBPkUdfSN6yfk5Jho8-Dy4HOSUM/edit?ts=5dfba3f0)
+    * [Public Presentations](https://drive.google.com/drive/u/0/folders/1Zajlo5q06VOmYx78HURQAhAArVrJlbTo)
     * [Product Screen Shots ](https://drive.google.com/drive/u/0/folders/1lwTOEpcnEom7eSavjsXlvkkdRdZgeoip)
     * [Product Screen Shots \(FS-ISAC\)](https://drive.google.com/drive/u/0/folders/19e7vuyK9wYQ7_KffYJKkfX41-b-48SkD)
 * Brand

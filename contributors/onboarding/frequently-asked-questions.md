@@ -90,8 +90,3 @@ Whenever possible, communicate using Mattermost. Email is typically reserved for
 
 0/5 means you are not very committed or attached to an outcome. 5/5 indicates full confidence and that you would stake your reputation on the opinion. More about these and other terms can be found [here](https://docs.mattermost.com/process/training.html#terminology).
 
-## I am planning to move, what do I need to know? 
-
-* Staff contracts are conditioned upon the region of reference listed in signed agreements. If you plan to change your residence from the location listed in your agreement, you must receive prior written approval from the Company. 
-* Upon written approval, please update [BambooHR.  ](https://mattermost.bamboohr.com/home/)
-

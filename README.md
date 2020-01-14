@@ -1,8 +1,10 @@
+---
+description: 10% draft
+---
+
 # Mattermost Handbook
 
-The purpose of this handbook is to _**iteratively increase clarity**_ for Mattermost staff and community co-building the future of our company and our offerings. 
-
-It's Day 1 at Mattermost. We're a growing company and growing open source project out to support the massive transformation underway as open source software unlocks the massive potential of people and teams around the world. 
+It's Day 1 at Mattermost. We're a growing company and growing open source project out to support the massive transformation underway as open source software continues to unlock the massive potential of people and teams around the world. 
 
 The "Mattermost Handbook" is a continual work-in-progress for _Mattermost staff_--people who are paid to work on our open source software and to help run the company behind our software.
 

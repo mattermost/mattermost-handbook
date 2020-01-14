@@ -4,7 +4,7 @@ description: 1% Draft
 
 # Technical Writing Team Handbook
 
-The Technical Writing team focuses primarily on the User Guide, Admin Guide, and Developer documentation.
+The Technical  Writing team focuses primarily on the User Guide, Admin Guide, and Developer documentation.
 
 ## Areas of Responsibility
 
@@ -48,7 +48,7 @@ The processes around documentation, such as SLAs for issues and requesting docum
 
 ### **Contributing to Documentation**
 
-The basic outline for getting started with contributions is provided in the [README](https://github.com/mattermost/docs/blob/master/README.md) of the docs repo. If you have write access to the repo, you can create a branch off master and work on that.
+The basic outline for getting started with contributions is provided in the [README](https://github.com/mattermost/docs/blob/master/README.md) of the docs repo. If you have write access to the repo, you can create a branch off master and work on that. 
 
 Once complete, submit your Pull Request \(PR\). Ensure that you assign appropriate approvers and labels. You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review/) - it applies to various types of contributions including documentation.
 
@@ -58,28 +58,28 @@ Requests for documentation can be made within [community.mattermost.com](https:/
 
 ![Access the Doc Up plugin by hovering over a message and clicking the &quot;...&quot; menu.](../../../.gitbook/assets/image%20%2810%29.png)
 
-When you select DocUp, an issue is generated in the GitHub docs repo, and added to the issues list.
+When you select DocUp, an issue is generated in the GitHub docs repo, and added to the issues list. 
 
 #### Turnaround Time
 
-When the issue has been created, please follow these guidelines to assign appropriate labels: [https://developers.mattermost.com/contribute/getting-started/labels/](https://developers.mattermost.com/contribute/getting-started/labels/). This ensures that the issues are prioritized appropriately.
+When the issue has been created, please follow these guidelines to assign appropriate labels: [https://developers.mattermost.com/contribute/getting-started/labels/](https://developers.mattermost.com/contribute/getting-started/labels/). This ensures that the issues are prioritized appropriately. 
 
 You can expect the following approximate turnaround times:
 
 * Urgent issues \(bug, customer request/dealbreaker\): Acknowledged within 24 hours.
 * General issues: Acknowledged within 48 hours.
 
-There are a number of variables at play and providing a hard and fast time-frame for completion. A rough guideline is between 3 and 5 days for most work and 2 - 3 weeks for larger projects. Larger projects might be moved to Jira if appropriate.
+There are a number of variables at play and providing a hard and fast time-frame for completion. A rough guideline is between 3 and 5 days for most work and 2 - 3 weeks for larger projects. Larger projects might be moved to Jira if appropriate. 
 
 #### Assignees
 
 Documentation does not have to be written by the Technical Product Writer/s. You can raise an issue, complete the requirement, and submit a Pull Request.
 
-For less urgent work, if no reply has been received within 48 hours, please ping @justinegeffen in GitHub.
+For less urgent work, if no reply has been received within 48 hours, please ping @justinegeffen in GitHub. 
 
 #### Community Involvement
 
-We really want the community to own the docs as much as possible. In light of this, please mark your issue as “Help Wanted” so that community members are able to identify work that they’re able to assist with.
+We really want the community to own the docs as much as possible. In light of this, please mark your issue as “Help Wanted” so that community members are able to identify work that they’re able to assist with. 
 
 If your documentation request/issue applies to a repository other than mattermost/docs, you can use the \*\*Editor Review\*\*label and/or ping @justinegeffen or @amyblaise.
 
@@ -87,7 +87,7 @@ If your documentation request/issue applies to a repository other than mattermos
 
 ### Jira Tickets
 
-The Technical Writing Jira board is located here:[https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=51](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=51). Feature and release writing is planned three sprints in advance. This ensures that ad-hoc work can be taken on.
+The Technical Writing Jira board is located here:[https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=51](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=51). Feature and release writing is planned three sprints in advance. This ensures that ad-hoc work can be taken on. 
 
 If you have a documentation requirement, please create a ticket and include the following fields:
 
@@ -99,13 +99,13 @@ Depending on what is required, please also include a sprint as well as a fix ver
 
 #### Jira Turnaround Time
 
-If the Jira ticket is for documentation related to a release, the documentation needs to be complete at least 10 days prior to release. Please ensure you allow sufficient time for your request to be completed or it will be moved to the next available slot.
+If the Jira ticket is for documentation related to a release, the documentation needs to be complete at least 10 days prior to release. Please ensure you allow sufficient time for your request to be completed or it will be moved to the next available slot. 
 
-If the Jira ticket is for general documentation, depending on the current workload, you can generally expect it to be completed within five business days.
+If the Jira ticket is for general documentation, depending on the current workload, you can generally expect it to be completed within five business days. 
 
 ### Editing Requests
 
-The Technical Product Writer/s form part of the PR review/approval process. When submitting a PR for documentation, please add the “Editor Review” label. Once the editor has signed off on the PR they will remove the label.
+The Technical Product Writer/s form part of the PR review/approval process. When submitting a PR for documentation, please add the “Editor Review” label. Once the editor has signed off on the PR they will remove the label. 
 
 ### Formatting and Style Guide
 
@@ -115,23 +115,22 @@ The [Documentation Style guide](https://docs.mattermost.com/guides/core.html#doc
 
 Every month the Mattermost community plans, builds, tests, documents, releases, and supports new product improvements for Team Edition to benefit the user community. The Mattermost Enterprise Team does the same for Enterprise Edition to benefit the subscriber community.
 
-A critical part of this development is documentation which ranges from feature documentation to FAQs, guides, and tutorials.
+A critical part of this development is documentation which ranges from feature documentation to FAQs, guides, and tutorials. 
 
 #### Feature Documentation
 
-Feature documentation is generally written by the technical product writers, within a specific time-frame aligned with releases. Community members are welcome to assist, if the time expectations are manageable.
+Feature documentation is generally written by the technical product writers, within a specific time-frame aligned with releases. Community members are welcome to assist, if the time expectations are manageable. 
 
-Feature request documentation is usually located in the [mattermost-server](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+is%3Aissue+label%3ADocs%2FNeeded) repo and the [mattermost-webapp](https://github.com/mattermost/mattermost-webapp/pulls?q=is%3Aopen+is%3Apr+label%3ADocs%2FNeeded) repo and are labelled as “Docs Needed”. As these are tied to a release \(and a deadline\) it’s best to only take on the work if you’re sure you can complete it on time. It’s understood that community members contribute in their available time, which is why this type of documentation isn’t usually the best option to take on.
+Feature request documentation is usually located in the [mattermost-server](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+is%3Aissue+label%3ADocs%2FNeeded) repo and the [mattermost-webapp](https://github.com/mattermost/mattermost-webapp/pulls?q=is%3Aopen+is%3Apr+label%3ADocs%2FNeeded) repo and are labelled as “Docs Needed”. As these are tied to a release \(and a deadline\) it’s best to only take on the work if you’re sure you can complete it on time. It’s understood that community members contribute in their available time, which is why this type of documentation isn’t usually the best option to take on. 
 
 #### Help Wanted Tickets/Doc Issues
 
-Help Wanted tickets are generally not linked to a release and are more flexible in terms of timeline and delivery date. You can find the documentation Help Wanted tickets [here](https://github.com/mattermost/docs/labels/Help%20Wanted). To start working on one, assign it to yourself, add a comment indicating you’ll be working on it, find the relevant document in the [source](https://github.com/mattermost/docs/tree/master/source) directory, read through the [README](https://github.com/mattermost/docs/blob/master/README.md) file if you're not familiar with the process, and get started.
+Help Wanted tickets are generally not linked to a release and are more flexible in terms of timeline and delivery date. You can find the documentation Help Wanted tickets [here](https://github.com/mattermost/docs/labels/Help%20Wanted). To start working on one, assign it to yourself, add a comment indicating you’ll be working on it, find the relevant document in the [source](https://github.com/mattermost/docs/tree/master/source) directory, read through the [README](https://github.com/mattermost/docs/blob/master/README.md) file if you're not familiar with the process, and get started. 
 
-If you have any questions, you can post them in the [Documentation](https://community.mattermost.com/core/channels/documentation) channel and we'll be happy to help.
+If you have any questions, you can post them in the [Documentation](https://community.mattermost.com/core/channels/documentation) channel and we'll be happy to help. 
 
 #### Engineering/Developer Documentation
 
-Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated \(or created\) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation. The documentation can be as detailed or concise as deemed necessary - consider it an MVP which can be refined at a later stage.
+Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated (or created) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation. The documentation can be as detailed or concise as deemed necessary - consider it an MVP which can be refined at a later stage. 
 
 When submitting your PR, please include the \*\*Editor Review\*\* label and add @amyblais or @justinegeffen in GitHub as an approver.
-
