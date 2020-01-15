@@ -19,15 +19,15 @@ We are currently focused on:
 
 #### ARR (Annual Recurring Revenue)
 
-* ARR is the value of the contracted recurring revenue components of your term subscriptions normalized to a one-year period.
+* ARR is the value of the contracted recurring revenue components of your term subscriptions normalized to a one-year period
 * `ARR = (Total Contract Value / (End Date - Start Date)) * 365`
-* [ARR Overview in Looker](Link): 
+* [ARR Overview Dashboard](https://mattermost.looker.com/dashboards/13): Overview of Mattermost ARR
 
-* Monthly ARR increases and decreases based on the following categories of change 
-  * New: New Logo never seen before.
-  * Expansion: Increase in ARR by an Account. This is caused by seat increase, price increase, or product upgrade.
-  * Contraction: Decrease in ARR by an Account. This is caused by seat decrease, price decrease, or product downgrade.
-  * Churn: Decrease in ARR to $0 by an Account. This is caused by an Account moving completely off of Mattermost.
-* [ARR Monthly Net Changes](https://mattermost.looker.com/looks/2?toggle=det): This look breaks down the Monthly ARR Net Changes by the four categories above.
+* ARR increases and decreases based on the following categories of change:
+  * New: New Logo never seen before - This is caused by a brand new and never before see Account signing a contract
+  * Expansion: Increase in ARR by an Account - This is caused by seat increase, price increase, or product upgrade
+  * Contraction: Decrease in ARR by an Account - This is caused by seat decrease, price decrease, or product downgrade
+  * Churn: Decrease in ARR to $0 by an Account - This is caused by an Account moving completely off of Mattermost
+* [ARR Monthly Net Changes](https://mattermost.looker.com/looks/2?toggle=det): Monthly ARR Net Changes broken down by the four categories above
 
 #### Downloads
