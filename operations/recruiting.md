@@ -16,7 +16,7 @@ To add a new U.S. State please DM @tim.quock to provide finance advanced notice 
 
 ## We are not yet able to hire in the following countries
 
-Brazil, Iran
+Brazil, Iran, Russia
 
 
 
