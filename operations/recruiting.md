@@ -16,7 +16,13 @@ To add a new U.S. State please DM @tim.quock to provide finance advanced notice 
 
 ## We are not yet able to hire in the following countries
 
+We're continuing to find ways to hire in more regions, here's ones that are more difficult than others:   
+  
 Brazil, Iran, Russia, China
+
+
+
+
 
 
 
