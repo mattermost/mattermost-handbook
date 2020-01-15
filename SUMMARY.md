@@ -85,6 +85,7 @@
   * [Exec Recruiting](contributors/join-us/exec-recruiting/README.md)
     * [EA Logistics](contributors/join-us/exec-recruiting/ea-logistics.md)
 * [Onboarding](contributors/onboarding/README.md)
+  * [New Staff Performance Review](contributors/onboarding/new-staff-performance-review.md)
   * [Things everyone must know](contributors/onboarding/things-everyone-must-know.md)
   * [Staff On-boarding](contributors/onboarding/staff-on-boarding-guide.md)
   * [Manager Onboarding - 1%](contributors/onboarding/manager-onboarding-1.md)
