@@ -37,6 +37,8 @@
 * [Publishing](operations/publishing.md)
 * [Recruiting](operations/recruiting.md)
 * [PeopleOps](operations/people/README.md)
+  * [Travel](operations/people/travel/README.md)
+    * [Business Travel Insurance](operations/people/travel/business-travel-insurance.md)
   * [Working at Mattermost](operations/people/working-at-mattermost/README.md)
     * [Paid Time Off](operations/people/working-at-mattermost/paid-time-off.md)
     * [Leaves of Absence](operations/people/working-at-mattermost/leaves-of-absence/README.md)
