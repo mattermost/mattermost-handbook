@@ -17,6 +17,7 @@ We are currently focused on:
 ## Metrics
 
 WIP - [Mattermost Metrics Google Sheet](https://docs.google.com/spreadsheets/d/1_AuT_ZwKRK-_BEUgmDoHkuIZQEnuzyb6sNpnUQkWOOQ/edit?usp=sharing)
+
 WIP - [Mattermost Data & Metric Availability](https://docs.google.com/spreadsheets/d/1GRB6hr_eSSVcFFAQkimZ6VE0EtobkPq6iKl027G9Mig/edit?usp=sharing)
 
 ### Mattermost Top Line Numbers
