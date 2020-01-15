@@ -76,6 +76,7 @@ Note: T-minus counts are measured in "working days" \(weekdays, Monday through F
    2. New team members are introduced on their second week by their manager, including name, role, what they're working on, timezone, additional info as appropriate \(max 2 minutes\).
    3. New hire can opt-in to introduce themselves if they choose \(default is not to require public speaking\).
 4. Material for each agenda item is reviewed, and contains a link for more information such as a post to a channel, documentation or a blog post.
+   1. Each link shared in meeting notes should be publicly accessible to everyone in Mattermost.
 5. If computer sound is shared during the call, test it prior to the meeting and install  libraries or tools as required.
 
 After the prep meeting, Vice Chair posts a screenshot of the final agenda into the [Customer Obs Prep channel](https://community.mattermost.com/private-core/channels/cust-obs-prep), and copies the agenda into the [Customer Obsession Meeting notes](https://docs.google.com/document/d/16F86k0I_ipjhHofm5pP6yA_dWTNvmA4ZBr_z53_087Q/edit).
