@@ -23,8 +23,7 @@ WIP - [Mattermost Data & Metric Availability](https://docs.google.com/spreadshee
 ### Mattermost Top Line Numbers
 #### ARR (Annual Recurring Revenue)
 
-* What is it?
-ARR is the value of the contracted recurring revenue components of your term subscriptions normalized to a one-year period
+* ARR is the value of the contracted recurring revenue of your term subscriptions normalized to a one-year period
 * `ARR = (Total Contract Value / (End Date - Start Date)) * 365`
 * [ARR Overview Dashboard](https://mattermost.looker.com/dashboards/14): Overview of Mattermost ARR
 
