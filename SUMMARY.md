@@ -28,6 +28,7 @@
 * [Workplace](operations/workplace/README.md)
   * [Groups](operations/workplace/groups.md)
 * [Company Operations](operations/operations/README.md)
+  * [Areas of Responsibility](operations/operations/areas-of-responsibility.md)
   * [MLT Cadence](operations/operations/mlt-cadence/README.md)
     * [MLT Cadence V2MOM](operations/operations/mlt-cadence/mlt-cadence-vpmom.md)
   * [MLT Metrics](operations/operations/metrics.md)
