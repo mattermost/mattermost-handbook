@@ -115,8 +115,8 @@ Table: analytics.ga_channelgrouping_source_users_org.report`
       * Note: Because we use this incremental replications, when adding a new column to a table, you must reload the table to ensure all data has been backfilled in Snowflake.
     * Replication Key: sysmodstamp
     * Table Specific Info
-`app.stitchdata.com/client/153136/pipeline/connections/206623/data/db/d6ghpflham816n/schema/orgm/properties/6715619/[TABLE_NAME]/`
-Account Example: `app.stitchdata.com/client/153136/pipeline/connections/206623/data/db/d6ghpflham816n/schema/orgm/properties/6715619/account/`
+      *  `app.stitchdata.com/client/153136/pipeline/connections/206623/data/db/d6ghpflham816n/schema/orgm/properties/6715619/[TABLE_NAME]/`
+      *  Account Example: `app.stitchdata.com/client/153136/pipeline/connections/206623/data/db/d6ghpflham816n/schema/orgm/properties/6715619/account/`
     * Updating Table Settings:
       * Follow the link formatting to table specific info
       * Click Table Settings
@@ -135,14 +135,16 @@ It uses a Kubernetes Secret to store the credentials for our Postgres database.
 #### Snowflake
 * Admin creates a user based on level of access
   * Admin:
-`CREATE USER rachel
+  
+  `CREATE USER rachel
        PASSWORD='[generate using lastpass]'
        COMMENT='rachel@mattermost.com'
        DEFAULT_ROLE='sysadmin'
        DEFAULT_WAREHOUSE='analyst_xs';`
 
   * Read Only:
-`CREATE USER rachel
+
+  `CREATE USER rachel
        PASSWORD='[generate using lastpass]'
        COMMENT='rachel@mattermost.com'
        DEFAULT_ROLE='reporting'
