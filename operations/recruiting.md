@@ -20,12 +20,6 @@ We're continuing to find ways to hire in more regions, here's ones that are more
   
 Brazil, Iran, Russian Federation, China, Syria, Lebanon, North Korea
 
-
-
-
-
-
-
 ## As Appropriate Interviews \("AA"s\) 
 
 To ensure the quality bar and culture of Mattermost is strong and rising, an "As Appropriate" interview is required with a senior, tenured Mattermost staff member for any FTE candidate before an offer can be extended.   
