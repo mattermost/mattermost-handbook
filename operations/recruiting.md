@@ -18,7 +18,7 @@ To add a new U.S. State please DM @tim.quock to provide finance advanced notice 
 
 We're continuing to find ways to hire in more regions, here's ones that are more difficult than others:   
   
-Brazil, Iran, Russia, China
+Brazil, Iran, Russian Federation, China, Syria, Lebanon, North Korea
 
 
 
