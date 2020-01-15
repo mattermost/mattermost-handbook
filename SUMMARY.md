@@ -72,7 +72,7 @@
 * [Customer Success](operations/customer-success/README.md)
   * [Analytics](operations/customer-success/analytics.md)
 * [Business Operations](operations/business-operations/README.md)
-  * [VPMOM](operations/business-operations/vpmom.md)
+  * [V2MOM](operations/business-operations/vpmom.md)
   * [Analytics](operations/business-operations/analytics.md)
   * [Data Engineering](operations/business-operations/data-engineering.md)
 * [Finance](operations/finance/README.md)

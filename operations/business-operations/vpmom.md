@@ -1,16 +1,14 @@
-# VPMOM
+# V2MOM
 
 Vision
 
 * Make other functions wildly successful by providing stellar support with process, tooling,  IT, and data-driven infrastructure and analytics
 
-Priorities
+Values
 
-* Customer Journey \(Definition, awareness,  automation\)
-* Data Infrastructure and Analytics
-* MLT level metrics and coordination
-* Process Efficiency and Awareness
-* Customer Trust \(both internal and external\)
+* Trust
+* Growth
+* Iteration
 
 Methods
 
