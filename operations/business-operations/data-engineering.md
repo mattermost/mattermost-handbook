@@ -15,6 +15,8 @@ We are currently focused on:
 
 ## Data Engineering Infrastructure
 
+![](../../.gitbook/assets/Screen-Shot-2020-01-15-at-10.19.01-AM)
+
 ### GitHub
 * Link: [Mattermost Data Warehouse](https://github.com/mattermost/mattermost-data-warehouse)
   * To access the repository, you must be a member of the Core Developers team
@@ -31,6 +33,8 @@ We are currently focused on:
 * We also utilize [Bitnami’s Get DAG files from a git repository](https://github.com/bitnami/charts/tree/master/bitnami/airflow#option-3-get-your-dag-files-from-a-git-repository) so that it will automatically pull from the master branch of our [GitHub repository](https://github.com/mattermost/mattermost-data-warehouse) every 60 seconds so our DAGs are always up to date.
 * We use Airflow’s new [KubernetesPodOperator](https://airflow.apache.org/docs/stable/kubernetes.html) that allows each of our jobs to run in it’s own Kubernetes Pod. The real flexibility with this is that because it’s simply a Kubernetes Pod running a process, we can actually run any job in any language. It also isolates the compute and memory for all the jobs, and we can even customize how much compute and memory power we give to each job so if a job requires more power we can grant it that.
 * This is a screenshot of our actual Airflow installation and gives an example of how the UI looks.
+
+![](../../.gitbook/assets/Screen-Shot-2020-01-15-at-10.19.24-AM)
 
 ### Kubernetes Secrets
 * To keep our connection strings and other configuration items confidential, we utilize [Kubernetes Secrets](https://kubernetes.io/docs/concepts/configuration/secret/) and inject those as environment variables into our Kubernetes Pods. To inject a secret into the environment of a job run through an Airflow DAG, you must specify it in the [kube_secrets.py](https://github.com/mattermost/mattermost-data-warehouse/blob/master/dags/kube_secrets.py) then you can import it in the [DAG file](https://github.com/mattermost/mattermost-data-warehouse/blob/master/dags/extract/diagnostics.py#L8) and then finally injecting into the [Operator object](https://github.com/mattermost/mattermost-data-warehouse/blob/master/dags/extract/diagnostics.py#L49) itself
