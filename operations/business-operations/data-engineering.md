@@ -51,7 +51,10 @@ We are currently focused on:
 
 * Dbt has a concept of [sources](https://docs.getdbt.com/docs/using-sources) and [models](https://docs.getdbt.com/docs/building-models). 
   * An example sources file is [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/transform/snowflake-dbt/models/orgm/sources.yml) and this specifies already existing raw data that dbt can pull from to build models.
-Then, you can define models that reference the sources. `https://github.com/mattermost/mattermost-data-warehouse/blob/master/transform/snowflake-dbt/models/finance/account_daily_arr.sql` for example. The filename of the model file determines the object name in the database (in this case a table). 
+  * Then, you can define models that reference the sources. 
+  * Example: 
+    * https://github.com/mattermost/mattermost-data-warehouse/blob/master/transform/snowflake-dbt/models/finance/**account_daily_arr**.sql
+    * The filename (account_daily_arr) of the model file determines the object name in the database (in this case a table). 
 
 ### Meltano Permissions
 * [Meltano](https://meltano.com/) is an overall framework that includes a lot more than what we’re using it for.
@@ -62,11 +65,14 @@ We’re actually just using a small piece that allows us to control our Snowflak
 ## Data Sources
 
 ### Telemetry
-* Telemetry data is data that is sent from Mattermost servers and makes its way to our data warehouse. This data is detailed [here](https://docs.mattermost.com/administration/telemetry.html)
-* Currently, we use [Segment](https://segment.com/) to push this data to Snowflake. The data is available in its raw form in the Raw database, in the mattermost2 and mattermost_nps schemas.
+* Telemetry data is data that is sent from Mattermost servers and makes its way to our data warehouse. 
+  * This data is detailed [here](https://docs.mattermost.com/administration/telemetry.html)
+* Currently, we use [Segment](https://segment.com/) to push this data to Snowflake. 
+  * The data is available in its raw form in the Raw database, in the mattermost2 and mattermost_nps schemas.
 * We currently have a dbt model [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/transform/snowflake-dbt/models/mattermost/server_daily_details.sql) that uses this raw data, but will continue to add more.
 * Active User Counts
-  * Mattermost servers ping a Cloudfront endpoint with some basic telemetry. It uses the log format specified [here](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/AccessLogs.html#LogFileFormat). The import job uses code [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/extract/s3_extract/stage_import.py#L52)
+  * Mattermost servers ping a Cloudfront endpoint with some basic telemetry. It uses the log format specified [here](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/AccessLogs.html#LogFileFormat). 
+  * The import job uses code [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/extract/s3_extract/stage_import.py#L52)
 
 ### Push Notifications
 * Mattermost runs a proxy service that allows notifications to be sent through Apple and Google’s respective notification services for mobile notifications. The log data is put into an S3 bucket and then ingested using the aforementioned Snowflake Stage and COPY. See [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/extract/s3_extract/stage_import.py#L58) for more details
@@ -83,6 +89,7 @@ We’re actually just using a small piece that allows us to control our Snowflak
     * Known Limitations:
       * Each set of dimensions and measures from Google Analytics needs to have it’s own Stitch integration.
       * Each integration creates a schema in Snowflake that matches the name of the integration and adds a table called report
+
 `Name: GA ChannelGrouping Source Users Org
 Schema: analytics.ga_channelgrouping_source_users_org
 Table: analytics.ga_channelgrouping_source_users_org.report`
