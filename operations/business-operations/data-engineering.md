@@ -93,10 +93,9 @@ We’re actually just using a small piece that allows us to control our Snowflak
     * Known Limitations:
       * Each set of dimensions and measures from Google Analytics needs to have it’s own Stitch integration.
       * Each integration creates a schema in Snowflake that matches the name of the integration and adds a table called report
-
-`Name: GA ChannelGrouping Source Users Org
-Schema: analytics.ga_channelgrouping_source_users_org
-Table: analytics.ga_channelgrouping_source_users_org.report`
+        * Name: GA ChannelGrouping Source Users Org
+        * Schema: analytics.ga_channelgrouping_source_users_org
+        * Table: analytics.ga_channelgrouping_source_users_org.report
       * Once an integration is created, it cannot be edited. If you need to make changes, you need to delete the integration and start over.
       * Data is only pulled at a daily level
       * This is an issue because “Unique Monthly Users” is not the same as “Aggregated Unique Daily Users”
