@@ -100,7 +100,7 @@ MLT Daily Admin consists of:
     </tr>
   </thead>
   <tbody></tbody>
-</table>**Any time up to 12 hours before 8:31am Palo Alto time on weekdays**
+</table>#### **Any time up to 12 hours before 8:31am Palo Alto time on weekdays**
 
 Before meeting use `/standup` command to post updates to peers in the channel of what’s important:
 
