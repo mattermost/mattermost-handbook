@@ -86,6 +86,8 @@ Weekly check-in to clear tactical issues:
   * [💬](https://emojipedia.org/speech-balloon/) [Social Media ](https://docs.google.com/spreadsheets/d/1RskstYEc8QqcKNR6N3tPd2IqbWZlK0hJMg_5pLzKe7c/edit#gid=0)
   * [💬](https://emojipedia.org/speech-balloon/) Events
   * [💬](https://emojipedia.org/speech-balloon/) Paid Ads
+* Marketing Updates
+  * Marketing Update - Jan 16, 2020
 
 ### Tools
 

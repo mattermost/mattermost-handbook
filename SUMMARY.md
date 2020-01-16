@@ -94,4 +94,6 @@
   * [Manager Onboarding - 1%](contributors/onboarding/manager-onboarding-1.md)
   * [Frequently Asked Questions](contributors/onboarding/frequently-asked-questions.md)
   * [R&D Onboarding](contributors/onboarding/r-and-d-onboarding.md)
+* [MatterCon](mattercon/README.md)
+  * [Mattermost Code of Conduct](mattercon/mattermost-code-of-conduct.md)
 
