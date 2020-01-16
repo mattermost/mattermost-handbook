@@ -41,7 +41,7 @@ This interview may happen after the informational or after talking with other me
 
 The questions are a framework for understanding how a candidate approaches opportunities for personal growth. 
 
-#### **1-1s with Leadership Team Members** **\(25m to 55m with different leaders\)** 
+#### **1-1s with Leadership Team \(45m to 55m with different leaders\)** 
 
 Candidate meets leadership team in 1-1s to mutually assess potential to work together. May also include key staff and potential new reports. Most meetings are remote, though if a candidate is in the Bay Area in-person meetings are an option. 1-1s include:  
 
