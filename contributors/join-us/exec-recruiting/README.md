@@ -82,11 +82,32 @@ Also check for anti-patterns:
  - Doesn't hide gap areas  
  - Doesn't hide unfavorable information, especially if we are likely to find it during reference checks
 
+## Reference checks
+
+During a reference check we ask similar questions to the CEO interview: 
+
+1. What was the candidate hired to do? 
+2. What seemed to be their most significant challenges? 
+3. How do you think their manager would rate them on a scale of 1 to 10? 
+4. Why that rating? 
+5. Is there any reason why you can't fully comment on the performance of this candidate? 
+
+In conducting the reference check we mention that the candidate has already been asked the first four  questions and we are understanding to what extent their peers and supervisors had similar views. 
+
+A few notes: 
+
+* Self-awareness is one of our core leadership principles and we expect to rarely hear ratings of "10 out of 10". 
+  * That said, even if someone was rated low for a particular role, we do expect to hear an outstanding recommendation for the person.
+    * For example, we once did a customer reference where we found out a candidate had completely failed to serve the customer, and yet the customer gave a very strong recommendation on the candidate. In this situation, it was the candidate's company at fault and the candidate earned the customer's trust in a no-win scenario. 
+  * If you don't hear an outstanding recommendation, consider it a flag.
+* If you detect "a whiff of disfunction" there should be a flag
+* Document all flags and make sure they are addressed before extending an offer--never bury a flag. 
+
 ## Offer Letters 
 
 Offer letters were originally based on [GitLab's offer letter templates ](https://about.gitlab.com/handbook/contracts/#employee-types-at-gitlab)from 2018. They include a clause where employment is conditional on having a continuing living situation in a city specified in the agreement. The purpose of this clause is to ensure any re-location is discussed with the company so that compensation can be adjusted to the new city, either higher or lower, and the new city is a place where we are able to employ people.  
 
-## Executive Onboarding
+##  Executive Onboarding
 
 For new executives joining the team, there is a high ROI for providing time for the leader to learn about the company and build relationships ahead of taking action.
 
