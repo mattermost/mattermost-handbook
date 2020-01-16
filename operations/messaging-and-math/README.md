@@ -23,8 +23,7 @@ Messaging
 * @lauren.nguyen - Product marketing 
 * @adam.gross - Adviser 
 * @lindsay.brock - Product management 
-* @zach.trayner - Website manager 
-  * @josh.day - WayFX website agency
+* @josh.day - Website 
 
 Math 
 
@@ -69,7 +68,6 @@ Weekly check-in to clear tactical issues:
     * [Speaker Profiles](https://docs.google.com/spreadsheets/d/1DbGkHR3jrOVP4a_RkBPkUdfSN6yfk5Jho8-Dy4HOSUM/edit?ts=5dfba3f0)
     * [Public Presentations](https://drive.google.com/drive/u/0/folders/1Zajlo5q06VOmYx78HURQAhAArVrJlbTo)
 * Visuals
-  * [Screenshot Guidelines](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-screenshots-and-gifs)
   * [Asset Templates](https://drive.google.com/drive/folders/0Bx-9w8QDFlfcbUh2bGdkRElJaWs)
     * [Blue Background](https://www.dropbox.com/s/a8tbqxiik1m9i8u/20170717_template_dark.tif?dl=0)
     * [White Background](https://www.dropbox.com/s/codoct7np20fx3l/20170717_template_light.tif?dl=0)
@@ -86,8 +84,6 @@ Weekly check-in to clear tactical issues:
   * [💬](https://emojipedia.org/speech-balloon/) [Social Media ](https://docs.google.com/spreadsheets/d/1RskstYEc8QqcKNR6N3tPd2IqbWZlK0hJMg_5pLzKe7c/edit#gid=0)
   * [💬](https://emojipedia.org/speech-balloon/) Events
   * [💬](https://emojipedia.org/speech-balloon/) Paid Ads
-* Marketing Updates
-  * Marketing Update - Jan 16, 2020
 
 ### Tools
 
