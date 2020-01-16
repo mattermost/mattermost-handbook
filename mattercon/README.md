@@ -85,8 +85,8 @@ This is scheduled time for teams to have team-only time to discuss their work, s
 
 Here's what it was like at MatterCon 2019 in Puta Cana, Dominican Republic:
 
-[https://youtu.be/pMySvCfy7Bw](https://youtu.be/pMySvCfy7Bw)   
-  
+[https://youtu.be/pMySvCfy7Bw](https://youtu.be/pMySvCfy7Bw)
+
 Here's MatterCon 2018 in Lisbon, Portugal: 
 
 [https://www.youtube.com/watch?v=CZXaYttz3NA&t=2s](https://www.youtube.com/watch?v=CZXaYttz3NA&t=2s)  
