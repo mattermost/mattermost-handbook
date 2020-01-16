@@ -68,6 +68,11 @@ A concise written answer to a question from the CEO on a challenging issue under
 
 Candidate may meet members of our board and advisory board with deep experience in candidate's domain.
 
+* Tomasz Tunguz \(Board Member\), Managing Director at Redpoint 
+* Andrew Miklas \(Board Member\), co-founder of PagerDuty, partner at S28 Capital 
+* Adam Gross \(Advisory Board\), former Heroku CEO, DropBox SVP Marketing
+* Zach Urlocker \(Advisory Board\), former Zendesk COO, Duo Security COO, MySQL SVP Marketing 
+
 ## General Attributes
 
 Look for patterns for exec-level success:  
