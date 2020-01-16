@@ -66,12 +66,13 @@ A concise written answer to a question from the CEO on a challenging issue under
 
 #### **\(As appropriate\) 1-1 Advisory Board meetings** 
 
-Candidate may meet members of our board and advisory board with deep experience in candidate's domain.
+Candidate may meet with 1-2 board members and 0-2 members of our advisory board with deep experience in candidate's domain.
 
 * Tomasz Tunguz \(Board Member\), Managing Director at Redpoint 
 * Andrew Miklas \(Board Member\), co-founder of PagerDuty, partner at S28 Capital 
 * Adam Gross \(Advisory Board\), former Heroku CEO, DropBox SVP Marketing
 * Zach Urlocker \(Advisory Board\), former Zendesk COO, Duo Security COO, MySQL SVP Marketing 
+* Alan Black \(Advisory Board\), former Zendesk CFO
 
 ## General Attributes
 
