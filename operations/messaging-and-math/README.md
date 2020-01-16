@@ -23,7 +23,8 @@ Messaging
 * @lauren.nguyen - Product marketing 
 * @adam.gross - Adviser 
 * @lindsay.brock - Product management 
-* @josh.day - Website 
+* @zach.trayner - Website manager 
+  * @josh.day - WayFX website agency
 
 Math 
 
