@@ -41,12 +41,12 @@ Risk levels are most commonly addressed in agreements of the following types:
 
 ### Mattermost Templated Agreement 
 
-Mattermost Templated Agreements \(MTAs\) have significant reduced risk and in general can be reviewed and executed within 1 business day. 
+Mattermost Templated Agreements \(MTAs\) have significant reduced risk and in general can be reviewed and executed within 1 business day. MTA Consulting Agreements should follow the [Offer Approval Request](https://docs.google.com/document/d/13qedU9kGdn9_d1WHK2oSAhttps://docs.google.com/document/d/13qedU9kGdn9_d1WHK2oSAKxRvO6ajIGKXI2DEQ--b7M/editKxRvO6ajIGKXI2DEQ--b7M/edit).
 
 Examples include: 
 
 * Mattermost Mutual Non-disclosure Agreement \(link needed\)
-* Mattermost U.S. Consulting Agreement \(link needed\) 
+* Mattermost U.S. Consulting Agreement \(link needed\)
 
 ### Custom Agreements
 
