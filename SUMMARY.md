@@ -51,6 +51,7 @@
 * [Contributors](operations/contributors/README.md)
   * [Staff Recruiting](operations/contributors/staff-recruiting.md)
 * [Research & Development](operations/research-and-development/README.md)
+  * [Incident Response](operations/research-and-development/incident-response.md)
   * [Product](operations/research-and-development/product/README.md)
     * [Product Management Team Handbook](operations/research-and-development/product/product-management-team-handbook.md)
     * [Technical Writing Team Handbook](operations/research-and-development/product/product-technical-writing-team-handbook.md)
