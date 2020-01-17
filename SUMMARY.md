@@ -78,6 +78,7 @@
   * [Analytics](operations/business-operations/analytics.md)
   * [Data Engineering](operations/business-operations/data-engineering.md)
 * [Finance](operations/finance/README.md)
+  * [Naming Files and Agreements](operations/finance/naming-files-and-agreements.md)
   * [Procurement](operations/finance/procurement.md)
   * [Risk Management in Agreements](operations/finance/risk-management.md)
 
