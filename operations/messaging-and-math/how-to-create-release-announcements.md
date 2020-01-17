@@ -4,7 +4,7 @@ description: 50% Draft
 
 # How to create release announcements
 
-### **Goals**
+## **Goals**
 
 * Get community excited about our momentum 
 * Increase discovery of features and contributions 
@@ -13,7 +13,7 @@ description: 50% Draft
   * Every paragraph feels like it's ready to copy and paste into a tweet. 
   * Every person we thank who is on Twitter, we Tweet to them
 
-### **Process**
+## **Process**
 
 * Writer drafts announce with feedback
 * Release manager checks for spelling mistakes, features included, screenshot guidelines are met 
@@ -24,7 +24,7 @@ description: 50% Draft
 * Blog post published
 * Tweets from blog post are queued \(Tuesdays 10am PT, and Thursdays 10am if there's extra\) - Writer 
 
-### **Checklist for review of draft:**
+## **Checklist for review of draft:**
 
 The Release Manager \(Amy Blais\) owns the release announcement, including the following checklist items unless otherwise indicated:
 
@@ -51,27 +51,23 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    3. **\(Author owns\)** Draft Tweet text for all screenshots included
       1. Contains version hashtag, e.g. \#mm518
 
-### **Style Guidelines**
+## **Style Guidelines**
 
 1. Highlight past successes: Cross link to promote traffic 
 2. Links tell a story: Links should indicate the content they lead to without clicking, avoid "read this blog post" and instead "learn more about the incident response alpha program" 
 
-### Screenshot Guidelines
+## Screenshot Guidelines
 
 [Learn how to create screenshots and GIFs](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-screenshots-and-gifs)
 
-### One great screenshot a month
+## One great screenshot a month
 
 1. Each monthly release R&D should aspire to come up with a "Hero" screenshot following guidelines to use as the splash image for the release.
 2. Communicate primary benefit in the title
- - Use ``plugins`` not ``plug-ins``
+   * Use `plugins` not `plug-ins`
 3. If a screenshot isn't available to highlight in the release use a conceptual banner based on [R&D Twitter Banner Template](https://community.mattermost.com/files/6bc4cot5xbyi8cfxesgyx6aqdw/public?h=HKLm3FZvOvpylxVk7mUYmeaBQ_rFV_JCEAZ2w5z9fg4) \(shown below\)
 
 ![Example of tweet using banner template](../../.gitbook/assets/image%20%2811%29.png)
 
 ![Screenshot for templates for announcements and Twitter banners, including guides](../../.gitbook/assets/image%20%2838%29.png)
-
-
-
-
 

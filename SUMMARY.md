@@ -84,7 +84,6 @@
 ## Contributors
 
 * [Join Us](contributors/join-us/README.md)
-  * [Advisers](contributors/join-us/consulting-advisers.md)
   * [Exec Recruiting](contributors/join-us/exec-recruiting/README.md)
     * [EA Logistics](contributors/join-us/exec-recruiting/ea-logistics.md)
 * [Onboarding](contributors/onboarding/README.md)
