@@ -6,6 +6,10 @@ We use “x/5” to concisely communicate conviction. 0/5 means you don’t have
 
 Example: "0/5, I think before archiving a channel a user should type in the name of the channel to make sure they really want to do it" expresses low conviction and indifference in the suggestion. Decision maker should feel free to ignore the input. As another example: "4/5, I think before archiving a channel a user should type in the name of the channel to make sure they really want to do it" expresses high conviction and decision maker may want to ask more questions to understand whether [emotion, assumption or priority](mindsets.md#emotion-assumption-and-priority) is behind the feedback.  
 
+### AOR 
+
+_Area Of Responsibility_ defines the area for which a [DRI](list-of-terms.md#dri) is accountable. The [AOR page ](../../operations/areas-of-responsibility.md)provides information on AORs across the company. 
+
 ### **Bug**
 
 An obvious error in Mattermost software that is typically a code defect. Changes required to accommodate unsupported 3rd party software \(such as browsers or operating systems\) are not considered bugs, they are considered improvements.
@@ -42,13 +46,17 @@ A term for shipping something that is far below quality standards. This term is 
 
 A specific type of [mana](list-of-terms.md#mana) for developers similar to “points” or “jelly beans” in an Agile/Scrum methodology. On average, full time Mattermost developers each complete tickets adding up to approximately 28 mana per week. A “small” item is 2 mana, a “medium” is 4, a “large” is 8 and any project bigger needs to be broken down into smaller tickets.
 
+### DRI 
+
+_Directly Responsible Individual_ means a human individual who is accountable for a given Area Of Responsibility. A DRI is a single person, not a group of people. If there is a shift schedule, define each shift as a separate AOR \(e.g. Tier 2 Mobile Support Escalations Weekdays 8am to 5pm Palo Alto time\). If you are unsure who is the DRI, make the AOR more specific until the DRI is clear. 
+
 ### **ESR**
 
 “Extended Support Release”, a version of Mattermost maintained for a longer period of time that will receive security fixes.
 
-### **Expert Mode \(and Crimson Force Field\)**
+### **Expert Mode**
 
-When documentation or on-screen text is written for someone with considerable knowledge or expertise, instead of being designed for a new learner. In general, try to state things simply rather than speaking to just the “experts” reading the text.
+Expert Mode \(also known as "Crimson Force Field\) is when documentation or on-screen text is written for someone with considerable knowledge or expertise, instead of being designed for a new learner. In general, try to state things simply rather than speaking to just the “experts” reading the text.
 
 If something is extremely difficult to understand, and yet still justified in the mind of the writer, we call it “Crimson Force Field”. This term is intended to evoke the emotional response of coming across something that is difficult to understand, so writers of Crimson Force Field material can empathize with the readers. Crimson Force Field is drawn from an esoteric episode of Star Trek and it is unlikely anyone but the originator of the term understands its complete meaning. Crimson Force Field is itself Crimson Force Field.
 
@@ -90,9 +98,9 @@ The “Mattermost Leadership Team”, senior leadership team and department head
 
 Term for publicly documenting information in a web-discoverable format \(GitHub Issue, Staff Handbook entry, forum post, etc.\) prior to sharing guidance to staff and community members. We prefer open actions to [dark actions](list-of-terms.md#dark-actions). 
 
-### PTO or "Paid Time Off"
+### PTO 
 
-Time away from work paid for by the company to staff, including holidays, vacations and approved leaves of absence. See [PTO](../../operations/people/working-at-mattermost/paid-time-off.md).
+_Paid Time Off_ is time away from work paid for by the company to staff, including holidays, vacations and approved leaves of absence. See [PTO](../../operations/people/working-at-mattermost/paid-time-off.md).
 
 ### **RHS**
 
@@ -100,11 +108,11 @@ The “Right-Hand Sidebar” in the Mattermost team site, used for navigation.
 
 ### **Spinmint**
 
-Old test servers that could be spun up on pull requests to test changes. Name comes from low cost URL purchased that was easy and unambiguous to spell mapped onto the servers. 
+Spinmint refers to our first generation of automated infrastructure to spin up test servers to evaluate pull requests. The word "spin" comes from the original name of our company, "Spinpunch, Inc." \(before we became \("Mattermost, Inc."\) and the word "mint" as a short, unambiguous, easy-to-spell name referring to a [factory method pattern](https://en.wikipedia.org/wiki/Factory_method_pattern). 
 
 ### **SpinWick**
 
-New test servers that use the cloud infrastructure and can be spun up on pull requests to test changes. Name is a throwback to “Spinmint” mixed with “John Wick”.
+New test servers that use the cloud infrastructure and can be spun up on pull requests to test changes. Name is reference to first generation infrastructure, [spinmint](list-of-terms.md#spinmint), combined with an arbitrary reference a movie that some people saw called “John Wick”. 
 
 ### Tomb-stoned
 
