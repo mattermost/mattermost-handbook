@@ -13,8 +13,7 @@ This page provides an overview of product roadmap cadence and timeline, and how 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>JANUARY 2020</b>
-      </th>
+      <th style="text-align:left">&lt;b&gt;&lt;/b&gt;</th>
       <th style="text-align:left"></th>
       <th style="text-align:left"></th>
       <th style="text-align:left"></th>
@@ -25,121 +24,109 @@ This page provides an overview of product roadmap cadence and timeline, and how 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Sunday</b>
-      </td>
-      <td style="text-align:left"><b>Monday</b>
-      </td>
-      <td style="text-align:left"><b>Tuesday</b>
-      </td>
-      <td style="text-align:left"><b>Wednesday</b>
-      </td>
-      <td style="text-align:left"><b>Thursday</b>
-      </td>
-      <td style="text-align:left"><b>Friday</b>
-      </td>
-      <td style="text-align:left"><b>Saturday</b>
-      </td>
+      <td style="text-align:left">Sunday</td>
+      <td style="text-align:left">Monday</td>
+      <td style="text-align:left">Tuesday</td>
+      <td style="text-align:left">Wednesday</td>
+      <td style="text-align:left">Thursday</td>
+      <td style="text-align:left">Friday</td>
+      <td style="text-align:left">Saturday</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><b>1 - New Year&#x2019;s</b>
-      </td>
-      <td style="text-align:left"><b>2</b>
-      </td>
-      <td style="text-align:left"><b>3</b>
-      </td>
-      <td style="text-align:left"><b>4</b>
-      </td>
+      <td style="text-align:left">1 - New Year&#x2019;s</td>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">4</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>5<br /><br /><br /></b>
+      <td style="text-align:left">5
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>6<br /></b>
+        <p>6
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
-      <td style="text-align:left"><b>7</b>
-      </td>
-      <td style="text-align:left"><b>8</b>
-      </td>
-      <td style="text-align:left"><b>9</b>
-      </td>
-      <td style="text-align:left"><b>10</b>
-      </td>
-      <td style="text-align:left"><b>11</b>
-      </td>
+      <td style="text-align:left">7</td>
+      <td style="text-align:left">8</td>
+      <td style="text-align:left">9</td>
+      <td style="text-align:left">10</td>
+      <td style="text-align:left">11</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>12<br /><br /><br /></b>
+      <td style="text-align:left">12
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>13<br /></b>
+        <p>13
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)<br /></b>
+        <p>OKR check-in (some teams)
+          <br />
         </p>
-        <p><b>Monthly roadmap call</b>
-        </p>
+        <p>Monthly roadmap call</p>
       </td>
       <td style="text-align:left">
-        <p><b>14<br /></b>
+        <p>14
+          <br />
         </p>
-        <p><b>MLT Strategic</b>
-        </p>
+        <p>MLT Strategic</p>
       </td>
-      <td style="text-align:left"><b>15</b>
+      <td style="text-align:left">15</td>
+      <td style="text-align:left">16</td>
+      <td style="text-align:left">17
+        <br />
+        <br />
       </td>
-      <td style="text-align:left"><b>16</b>
-      </td>
-      <td style="text-align:left"><b>17<br /><br /></b>
-      </td>
-      <td style="text-align:left"><b>18</b>
-      </td>
+      <td style="text-align:left">18</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>19<br /><br /><br /></b>
+      <td style="text-align:left">19
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>20<br /></b>
+        <p>20
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
-      <td style="text-align:left"><b>21</b>
-      </td>
+      <td style="text-align:left">21</td>
       <td style="text-align:left">
-        <p><b>22<br /></b>
+        <p>22
+          <br />
         </p>
-        <p><b>Q2/CY20 Roadmap Kickoff</b>
-        </p>
+        <p>Q2/CY20 Roadmap Kickoff</p>
       </td>
-      <td style="text-align:left"><b>23</b>
-      </td>
-      <td style="text-align:left"><b>24</b>
-      </td>
-      <td style="text-align:left"><b>25</b>
-      </td>
+      <td style="text-align:left">23</td>
+      <td style="text-align:left">24</td>
+      <td style="text-align:left">25</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>26<br /><br /><br /></b>
+      <td style="text-align:left">26
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>27<br /></b>
+        <p>27
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
-      <td style="text-align:left"><b>28</b>
-      </td>
-      <td style="text-align:left"><b>29</b>
-      </td>
-      <td style="text-align:left"><b>30</b>
-      </td>
-      <td style="text-align:left"><b>31</b>
-      </td>
+      <td style="text-align:left">28</td>
+      <td style="text-align:left">29</td>
+      <td style="text-align:left">30</td>
+      <td style="text-align:left">31</td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>
@@ -158,20 +145,13 @@ This page provides an overview of product roadmap cadence and timeline, and how 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Sunday</b>
-      </td>
-      <td style="text-align:left"><b>Monday</b>
-      </td>
-      <td style="text-align:left"><b>Tuesday</b>
-      </td>
-      <td style="text-align:left"><b>Wednesday</b>
-      </td>
-      <td style="text-align:left"><b>Thursday</b>
-      </td>
-      <td style="text-align:left"><b>Friday</b>
-      </td>
-      <td style="text-align:left"><b>Saturday</b>
-      </td>
+      <td style="text-align:left">Sunday</td>
+      <td style="text-align:left">Monday</td>
+      <td style="text-align:left">Tuesday</td>
+      <td style="text-align:left">Wednesday</td>
+      <td style="text-align:left">Thursday</td>
+      <td style="text-align:left">Friday</td>
+      <td style="text-align:left">Saturday</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -180,131 +160,129 @@ This page provides an overview of product roadmap cadence and timeline, and how 
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><b>1</b>
-      </td>
+      <td style="text-align:left">1</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>2<br /><br /><br /></b>
+      <td style="text-align:left">2
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>3<br /></b>
+        <p>3
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)<br /></b>
+        <p>OKR check-in (some teams)
+          <br />
         </p>
-        <p><b>Monthly customer facing call</b>
-        </p>
+        <p>Monthly customer facing call</p>
       </td>
       <td style="text-align:left">
-        <p><b>4<br /></b>
+        <p>4
+          <br />
         </p>
-        <p><b>MLT QBR</b>
-        </p>
+        <p>MLT QBR</p>
       </td>
       <td style="text-align:left">
-        <p><b>5<br /></b>
+        <p>5
+          <br />
         </p>
-        <p><b>Q2/CY20 1% Roadmap Draft</b>
-        </p>
+        <p>Q2/CY20 1% Roadmap Draft</p>
       </td>
-      <td style="text-align:left"><b>6</b>
-      </td>
-      <td style="text-align:left"><b>7</b>
-      </td>
-      <td style="text-align:left"><b>8</b>
-      </td>
+      <td style="text-align:left">6</td>
+      <td style="text-align:left">7</td>
+      <td style="text-align:left">8</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>9<br /></b>
+      <td style="text-align:left">9
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>10<br /></b>
+        <p>10
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)<br /></b>
+        <p>OKR check-in (some teams)
+          <br />
         </p>
-        <p><b>Monthly roadmap call</b>
-        </p>
+        <p>Monthly roadmap call</p>
       </td>
       <td style="text-align:left">
-        <p><b>11<br /></b>
+        <p>11
+          <br />
         </p>
-        <p><b>MLT Strategic</b>
-        </p>
+        <p>MLT Strategic</p>
       </td>
       <td style="text-align:left">
-        <p><b>12<br /></b>
+        <p>12
+          <br />
         </p>
-        <p><b>Sales/CSM present priority list to PMs</b>
-        </p>
+        <p>Sales/CSM present priority list to PMs</p>
       </td>
-      <td style="text-align:left"><b>13</b>
-      </td>
-      <td style="text-align:left"><b>14</b>
-      </td>
-      <td style="text-align:left"><b>15</b>
-      </td>
+      <td style="text-align:left">13</td>
+      <td style="text-align:left">14</td>
+      <td style="text-align:left">15</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>16<br /><br /><br /></b>
+      <td style="text-align:left">16
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>17<br /></b>
+        <p>17
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
-      <td style="text-align:left"><b>18</b>
-      </td>
+      <td style="text-align:left">18</td>
       <td style="text-align:left">
-        <p><b>19<br /></b>
+        <p>19
+          <br />
         </p>
-        <p><b>MatterCon starts</b>
-        </p>
+        <p>MatterCon starts</p>
       </td>
-      <td style="text-align:left"><b>20</b>
-      </td>
-      <td style="text-align:left"><b>21</b>
-      </td>
-      <td style="text-align:left"><b>22</b>
-      </td>
+      <td style="text-align:left">20</td>
+      <td style="text-align:left">21</td>
+      <td style="text-align:left">22</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>23<br /><br /><br /></b>
+      <td style="text-align:left">23
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>24<br /></b>
+        <p>24
+          <br />
         </p>
-        <p><b>MatterCon ends</b>
-        </p>
+        <p>MatterCon ends</p>
       </td>
       <td style="text-align:left">
-        <p><b>25<br /></b>
+        <p>25
+          <br />
         </p>
-        <p><b>Q2/CY20 50% Roadmap Draft</b>
-        </p>
+        <p>Q2/CY20 50% Roadmap Draft</p>
       </td>
       <td style="text-align:left">
-        <p><b>26<br /></b>
+        <p>26
+          <br />
         </p>
-        <p><b>MLT Board </b>
-        </p>
+        <p>MLT Board</p>
       </td>
       <td style="text-align:left">
-        <p><b>27<br /></b>
+        <p>27
+          <br />
         </p>
-        <p><b>Dev OKRs drafted</b>
-        </p>
+        <p>Dev OKRs drafted</p>
       </td>
-      <td style="text-align:left"><b>28</b>
-      </td>
-      <td style="text-align:left"><b>29</b>
-      </td>
+      <td style="text-align:left">28</td>
+      <td style="text-align:left">29</td>
     </tr>
   </tbody>
 </table><table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>MARCH 2020</b>
-      </th>
+      <th style="text-align:left">MARCH 2020</th>
       <th style="text-align:left"></th>
       <th style="text-align:left"></th>
       <th style="text-align:left"></th>
@@ -315,138 +293,139 @@ This page provides an overview of product roadmap cadence and timeline, and how 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Sunday</b>
+      <td style="text-align:left">Sunday</td>
+      <td style="text-align:left">Monday</td>
+      <td style="text-align:left">Tuesday</td>
+      <td style="text-align:left">Wednesday</td>
+      <td style="text-align:left">Thursday</td>
+      <td style="text-align:left">Friday</td>
+      <td style="text-align:left">Saturday</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">1
+        <br />
+        <br />
+        <br />
       </td>
-      <td style="text-align:left"><b>Monday</b>
+      <td style="text-align:left">
+        <p>2
+          <br />
+        </p>
+        <p>OKR check-in (some teams)
+          <br />
+        </p>
+        <p>Monthly customer facing call
+          <br />
+        </p>
       </td>
-      <td style="text-align:left"><b>Tuesday</b>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">4</td>
+      <td style="text-align:left">5</td>
+      <td style="text-align:left">
+        <p>6
+          <br />
+        </p>
+        <p>Q2/CY20 99% Roadmap Draft</p>
       </td>
-      <td style="text-align:left"><b>Wednesday</b>
+      <td style="text-align:left">7</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8
+        <br />
+        <br />
+        <br />
       </td>
-      <td style="text-align:left"><b>Thursday</b>
+      <td style="text-align:left">
+        <p>9
+          <br />
+        </p>
+        <p>OKR check-in (some teams)
+          <br />
+        </p>
+        <p>Monthly roadmap call</p>
       </td>
-      <td style="text-align:left"><b>Friday</b>
+      <td style="text-align:left">
+        <p>10
+          <br />
+        </p>
+        <p>MLT Offsite</p>
       </td>
-      <td style="text-align:left"><b>Saturday</b>
+      <td style="text-align:left">
+        <p>11
+          <br />
+        </p>
+        <p>MLT Offsite
+          <br />
+        </p>
+        <p>Roadmap presented to MLT, SLT, CLT</p>
+      </td>
+      <td style="text-align:left">12</td>
+      <td style="text-align:left">
+        <p>13
+          <br />
+        </p>
+        <p>Dev OKRs finalized</p>
+      </td>
+      <td style="text-align:left">14</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">15
+        <br />
+      </td>
+      <td style="text-align:left">
+        <p>16
+          <br />
+        </p>
+        <p>OKR check-in (some teams)</p>
+      </td>
+      <td style="text-align:left">17</td>
+      <td style="text-align:left">18
+        <br />
+      </td>
+      <td style="text-align:left">19</td>
+      <td style="text-align:left">20</td>
+      <td style="text-align:left">21
+        <br />
+        <br />
+        <br />
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>1<br /><br /><br /></b>
+      <td style="text-align:left">22
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>2<br /></b>
+        <p>23
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)<br /></b>
-        </p>
-        <p><b>Monthly customer facing call<br /></b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
-      <td style="text-align:left"><b>3</b>
-      </td>
-      <td style="text-align:left"><b>4</b>
-      </td>
-      <td style="text-align:left"><b>5</b>
-      </td>
+      <td style="text-align:left">24</td>
       <td style="text-align:left">
-        <p><b>6<br /></b>
+        <p>25
+          <br />
         </p>
-        <p><b>Q2/CY20 99% Roadmap Draft</b>
-        </p>
+        <p>Q2/CY20 Roadmap Live</p>
       </td>
-      <td style="text-align:left"><b>7</b>
-      </td>
+      <td style="text-align:left">26</td>
+      <td style="text-align:left">27</td>
+      <td style="text-align:left">28</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>8<br /><br /><br /></b>
+      <td style="text-align:left">29
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>9<br /></b>
+        <p>30
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)<br /></b>
-        </p>
-        <p><b>Monthly roadmap call</b>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p><b>10<br /></b>
-        </p>
-        <p><b>MLT Offsite</b>
+        <p>OKR check-in (some teams)
+          <br />
         </p>
       </td>
-      <td style="text-align:left">
-        <p><b>11<br /></b>
-        </p>
-        <p><b>MLT Offsite<br /></b>
-        </p>
-        <p><b>Roadmap presented to MLT, SLT, CLT</b>
-        </p>
-      </td>
-      <td style="text-align:left"><b>12</b>
-      </td>
-      <td style="text-align:left">
-        <p><b>13<br /></b>
-        </p>
-        <p><b>Dev OKRs finalized</b>
-        </p>
-      </td>
-      <td style="text-align:left"><b>14</b>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>15<br /></b>
-      </td>
-      <td style="text-align:left">
-        <p><b>16<br /></b>
-        </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
-      </td>
-      <td style="text-align:left"><b>17</b>
-      </td>
-      <td style="text-align:left"><b>18<br /></b>
-      </td>
-      <td style="text-align:left"><b>19</b>
-      </td>
-      <td style="text-align:left"><b>20</b>
-      </td>
-      <td style="text-align:left"><b>21<br /><br /><br /></b>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>22<br /><br /><br /></b>
-      </td>
-      <td style="text-align:left">
-        <p><b>23<br /></b>
-        </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
-      </td>
-      <td style="text-align:left"><b>24</b>
-      </td>
-      <td style="text-align:left">
-        <p><b>25<br /></b>
-        </p>
-        <p><b>Q2/CY20 Roadmap Live</b>
-        </p>
-      </td>
-      <td style="text-align:left"><b>26</b>
-      </td>
-      <td style="text-align:left"><b>27</b>
-      </td>
-      <td style="text-align:left"><b>28</b>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>29<br /></b>
-      </td>
-      <td style="text-align:left">
-        <p><b>30<br /></b>
-        </p>
-        <p><b>OKR check-in (some teams)<br /></b>
-        </p>
-      </td>
-      <td style="text-align:left"><b>31</b>
-      </td>
+      <td style="text-align:left">31</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
@@ -456,8 +435,7 @@ This page provides an overview of product roadmap cadence and timeline, and how 
 </table><table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>APRIL 2020</b>
-      </th>
+      <th style="text-align:left">APRIL 2020</th>
       <th style="text-align:left"></th>
       <th style="text-align:left"></th>
       <th style="text-align:left"></th>
@@ -468,121 +446,108 @@ This page provides an overview of product roadmap cadence and timeline, and how 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Sunday</b>
-      </td>
-      <td style="text-align:left"><b>Monday</b>
-      </td>
-      <td style="text-align:left"><b>Tuesday</b>
-      </td>
-      <td style="text-align:left"><b>Wednesday</b>
-      </td>
-      <td style="text-align:left"><b>Thursday</b>
-      </td>
-      <td style="text-align:left"><b>Friday</b>
-      </td>
-      <td style="text-align:left"><b>Saturday</b>
-      </td>
+      <td style="text-align:left">Sunday</td>
+      <td style="text-align:left">Monday</td>
+      <td style="text-align:left">Tuesday</td>
+      <td style="text-align:left">Wednesday</td>
+      <td style="text-align:left">Thursday</td>
+      <td style="text-align:left">Friday</td>
+      <td style="text-align:left">Saturday</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><b>1</b>
-      </td>
-      <td style="text-align:left"><b>2</b>
-      </td>
-      <td style="text-align:left"><b>3</b>
-      </td>
-      <td style="text-align:left"><b>4</b>
-      </td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">4</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>5<br /><br /><br /></b>
+      <td style="text-align:left">5
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>6<br /></b>
+        <p>6
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)<br /></b>
+        <p>OKR check-in (some teams)
+          <br />
         </p>
-        <p><b>Monthly customer facing call</b>
-        </p>
+        <p>Monthly customer facing call</p>
       </td>
-      <td style="text-align:left"><b>7</b>
-      </td>
-      <td style="text-align:left"><b>8</b>
-      </td>
-      <td style="text-align:left"><b>9</b>
-      </td>
-      <td style="text-align:left"><b>10 - Good Friday</b>
-      </td>
-      <td style="text-align:left"><b>11</b>
-      </td>
+      <td style="text-align:left">7</td>
+      <td style="text-align:left">8</td>
+      <td style="text-align:left">9</td>
+      <td style="text-align:left">10 - Good Friday</td>
+      <td style="text-align:left">11</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>12<br /><br /><br /></b>
+      <td style="text-align:left">12
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>13<br /></b>
+        <p>13
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)<br /></b>
+        <p>OKR check-in (some teams)
+          <br />
         </p>
-        <p><b>Monthly roadmap call</b>
-        </p>
+        <p>Monthly roadmap call</p>
       </td>
       <td style="text-align:left">
-        <p><b>14<br /></b>
+        <p>14
+          <br />
         </p>
-        <p><b>MLT Strategic</b>
-        </p>
+        <p>MLT Strategic</p>
       </td>
-      <td style="text-align:left"><b>15</b>
-      </td>
-      <td style="text-align:left"><b>16</b>
-      </td>
-      <td style="text-align:left"><b>17</b>
-      </td>
-      <td style="text-align:left"><b>18</b>
-      </td>
+      <td style="text-align:left">15</td>
+      <td style="text-align:left">16</td>
+      <td style="text-align:left">17</td>
+      <td style="text-align:left">18</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>19<br /><br /><br /></b>
+      <td style="text-align:left">19
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>20<br /></b>
+        <p>20
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
-      <td style="text-align:left"><b>21</b>
-      </td>
+      <td style="text-align:left">21</td>
       <td style="text-align:left">
-        <p><b>22<br /></b>
+        <p>22
+          <br />
         </p>
-        <p><b>Q3/CY20 Roadmap Kickoff</b>
-        </p>
+        <p>Q3/CY20 Roadmap Kickoff</p>
       </td>
-      <td style="text-align:left"><b>23</b>
-      </td>
-      <td style="text-align:left"><b>24</b>
-      </td>
-      <td style="text-align:left"><b>25</b>
-      </td>
+      <td style="text-align:left">23</td>
+      <td style="text-align:left">24</td>
+      <td style="text-align:left">25</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>26<br /><br /><br /></b>
+      <td style="text-align:left">26
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>27<br /></b>
+        <p>27
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
-      <td style="text-align:left"><b>28</b>
-      </td>
-      <td style="text-align:left"><b>29</b>
-      </td>
-      <td style="text-align:left"><b>30</b>
-      </td>
+      <td style="text-align:left">28</td>
+      <td style="text-align:left">29</td>
+      <td style="text-align:left">30</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
@@ -590,8 +555,7 @@ This page provides an overview of product roadmap cadence and timeline, and how 
 </table><table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>MAY 2020</b>
-      </th>
+      <th style="text-align:left">MAY 2020</th>
       <th style="text-align:left"></th>
       <th style="text-align:left"></th>
       <th style="text-align:left"></th>
@@ -602,20 +566,13 @@ This page provides an overview of product roadmap cadence and timeline, and how 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Sunday</b>
-      </td>
-      <td style="text-align:left"><b>Monday</b>
-      </td>
-      <td style="text-align:left"><b>Tuesday</b>
-      </td>
-      <td style="text-align:left"><b>Wednesday</b>
-      </td>
-      <td style="text-align:left"><b>Thursday</b>
-      </td>
-      <td style="text-align:left"><b>Friday</b>
-      </td>
-      <td style="text-align:left"><b>Saturday</b>
-      </td>
+      <td style="text-align:left">Sunday</td>
+      <td style="text-align:left">Monday</td>
+      <td style="text-align:left">Tuesday</td>
+      <td style="text-align:left">Wednesday</td>
+      <td style="text-align:left">Thursday</td>
+      <td style="text-align:left">Friday</td>
+      <td style="text-align:left">Saturday</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -623,125 +580,125 @@ This page provides an overview of product roadmap cadence and timeline, and how 
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><b>1</b>
-      </td>
-      <td style="text-align:left"><b>2</b>
-      </td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">2</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>3<br /></b>
+      <td style="text-align:left">3
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>4<br /></b>
+        <p>4
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)<br /></b>
+        <p>OKR check-in (some teams)
+          <br />
         </p>
-        <p><b>Monthly customer facing call</b>
-        </p>
+        <p>Monthly customer facing call</p>
       </td>
       <td style="text-align:left">
-        <p><b>5<br /></b>
+        <p>5
+          <br />
         </p>
-        <p><b>MLT QBR</b>
-        </p>
+        <p>MLT QBR</p>
       </td>
       <td style="text-align:left">
-        <p><b>6<br /></b>
+        <p>6
+          <br />
         </p>
-        <p><b>Q3/CY20 1% Roadmap Draft</b>
-        </p>
+        <p>Q3/CY20 1% Roadmap Draft</p>
       </td>
-      <td style="text-align:left"><b>7</b>
-      </td>
-      <td style="text-align:left"><b>8</b>
-      </td>
-      <td style="text-align:left"><b>9</b>
-      </td>
+      <td style="text-align:left">7</td>
+      <td style="text-align:left">8</td>
+      <td style="text-align:left">9</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>10<br /></b>
+      <td style="text-align:left">10
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>11<br /></b>
+        <p>11
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)<br /></b>
+        <p>OKR check-in (some teams)
+          <br />
         </p>
-        <p><b>Monthly roadmap call</b>
+        <p>Monthly roadmap call</p>
+      </td>
+      <td style="text-align:left">
+        <p>12
+          <br />
+        </p>
+        <p>MLT Strategic
+          <br />
         </p>
       </td>
       <td style="text-align:left">
-        <p><b>12<br /></b>
+        <p>13
+          <br />
         </p>
-        <p><b>MLT Strategic<br /></b>
-        </p>
+        <p>Sales/CSM present priority list to PMs</p>
       </td>
-      <td style="text-align:left">
-        <p><b>13<br /></b>
-        </p>
-        <p><b>Sales/CSM present priority list to PMs</b>
-        </p>
-      </td>
-      <td style="text-align:left"><b>14</b>
-      </td>
-      <td style="text-align:left"><b>15</b>
-      </td>
-      <td style="text-align:left"><b>16</b>
-      </td>
+      <td style="text-align:left">14</td>
+      <td style="text-align:left">15</td>
+      <td style="text-align:left">16</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>17<br /><br /><br /></b>
+      <td style="text-align:left">17
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>18<br /></b>
+        <p>18
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
-      <td style="text-align:left"><b>19</b>
-      </td>
-      <td style="text-align:left"><b>20</b>
-      </td>
-      <td style="text-align:left"><b>21</b>
-      </td>
-      <td style="text-align:left"><b>22</b>
-      </td>
-      <td style="text-align:left"><b>23</b>
-      </td>
+      <td style="text-align:left">19</td>
+      <td style="text-align:left">20</td>
+      <td style="text-align:left">21</td>
+      <td style="text-align:left">22</td>
+      <td style="text-align:left">23</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>24<br /><br /><br /></b>
+      <td style="text-align:left">24
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>25<br /></b>
+        <p>25
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
       <td style="text-align:left">
-        <p><b>26<br /></b>
+        <p>26
+          <br />
         </p>
-        <p><b>Q3/CY20 50% Roadmap Draft</b>
-        </p>
+        <p>Q3/CY20 50% Roadmap Draft</p>
       </td>
       <td style="text-align:left">
-        <p><b>27<br /></b>
+        <p>27
+          <br />
         </p>
-        <p><b>MLT Board </b>
-        </p>
+        <p>MLT Board</p>
       </td>
       <td style="text-align:left">
-        <p><b>28<br /></b>
+        <p>28
+          <br />
         </p>
-        <p><b>Dev OKRs drafted</b>
-        </p>
+        <p>Dev OKRs drafted</p>
       </td>
-      <td style="text-align:left"><b>29</b>
-      </td>
-      <td style="text-align:left"><b>30</b>
-      </td>
+      <td style="text-align:left">29</td>
+      <td style="text-align:left">30</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>31<br /><br /><br /></b>
+      <td style="text-align:left">31
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
@@ -754,8 +711,7 @@ This page provides an overview of product roadmap cadence and timeline, and how 
 </table><table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>JUNE 2020</b>
-      </th>
+      <th style="text-align:left">JUNE 2020</th>
       <th style="text-align:left"></th>
       <th style="text-align:left"></th>
       <th style="text-align:left"></th>
@@ -766,137 +722,129 @@ This page provides an overview of product roadmap cadence and timeline, and how 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Sunday</b>
-      </td>
-      <td style="text-align:left"><b>Monday</b>
-      </td>
-      <td style="text-align:left"><b>Tuesday</b>
-      </td>
-      <td style="text-align:left"><b>Wednesday</b>
-      </td>
-      <td style="text-align:left"><b>Thursday</b>
-      </td>
-      <td style="text-align:left"><b>Friday</b>
-      </td>
-      <td style="text-align:left"><b>Saturday</b>
-      </td>
+      <td style="text-align:left">Sunday</td>
+      <td style="text-align:left">Monday</td>
+      <td style="text-align:left">Tuesday</td>
+      <td style="text-align:left">Wednesday</td>
+      <td style="text-align:left">Thursday</td>
+      <td style="text-align:left">Friday</td>
+      <td style="text-align:left">Saturday</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-        <p><b>1<br /></b>
+        <p>1
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)<br /></b>
+        <p>OKR check-in (some teams)
+          <br />
         </p>
-        <p><b>Monthly customer facing call</b>
-        </p>
+        <p>Monthly customer facing call</p>
       </td>
-      <td style="text-align:left"><b>2</b>
-      </td>
-      <td style="text-align:left"><b>3</b>
-      </td>
-      <td style="text-align:left"><b>4</b>
-      </td>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">4</td>
       <td style="text-align:left">
-        <p><b>5<br /></b>
+        <p>5
+          <br />
         </p>
-        <p><b>Q3/CY20 99% Roadmap Draft</b>
-        </p>
+        <p>Q3/CY20 99% Roadmap Draft</p>
       </td>
-      <td style="text-align:left"><b>6</b>
-      </td>
+      <td style="text-align:left">6</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>7<br /><br /><br /></b>
+      <td style="text-align:left">7
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>8<br /></b>
+        <p>8
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)<br /></b>
+        <p>OKR check-in (some teams)
+          <br />
         </p>
-        <p><b>Monthly roadmap call</b>
-        </p>
+        <p>Monthly roadmap call</p>
       </td>
       <td style="text-align:left">
-        <p><b>9<br /></b>
+        <p>9
+          <br />
         </p>
-        <p><b>MLT Offsite</b>
-        </p>
+        <p>MLT Offsite</p>
       </td>
       <td style="text-align:left">
-        <p><b>10<br /></b>
+        <p>10
+          <br />
         </p>
-        <p><b>MLT Offsite<br /></b>
+        <p>MLT Offsite
+          <br />
         </p>
-        <p><b>Roadmap presented to MLT, SLT, CLT</b>
-        </p>
+        <p>Roadmap presented to MLT, SLT, CLT</p>
       </td>
-      <td style="text-align:left"><b>11</b>
-      </td>
+      <td style="text-align:left">11</td>
       <td style="text-align:left">
-        <p><b>12<br /></b>
+        <p>12
+          <br />
         </p>
-        <p><b>Dev OKRs finalized</b>
-        </p>
+        <p>Dev OKRs finalized</p>
       </td>
-      <td style="text-align:left"><b>13</b>
-      </td>
+      <td style="text-align:left">13</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>14<br /><br /><br /></b>
+      <td style="text-align:left">14
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>15<br /></b>
+        <p>15
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
-      <td style="text-align:left"><b>16</b>
-      </td>
-      <td style="text-align:left"><b>17</b>
-      </td>
-      <td style="text-align:left"><b>18</b>
-      </td>
-      <td style="text-align:left"><b>19</b>
-      </td>
-      <td style="text-align:left"><b>20</b>
-      </td>
+      <td style="text-align:left">16</td>
+      <td style="text-align:left">17</td>
+      <td style="text-align:left">18</td>
+      <td style="text-align:left">19</td>
+      <td style="text-align:left">20</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>21<br /><br /><br /></b>
+      <td style="text-align:left">21
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>22<br /></b>
+        <p>22
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
-      <td style="text-align:left"><b>23</b>
-      </td>
+      <td style="text-align:left">23</td>
       <td style="text-align:left">
-        <p><b>24<br /></b>
+        <p>24
+          <br />
         </p>
-        <p><b>Q3/CY20 Roadmap Live</b>
-        </p>
+        <p>Q3/CY20 Roadmap Live</p>
       </td>
-      <td style="text-align:left"><b>25</b>
-      </td>
-      <td style="text-align:left"><b>26</b>
-      </td>
-      <td style="text-align:left"><b>27</b>
-      </td>
+      <td style="text-align:left">25</td>
+      <td style="text-align:left">26</td>
+      <td style="text-align:left">27</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>28<br /><br /><br /></b>
+      <td style="text-align:left">28
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>29<br /></b>
+        <p>29
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
-      <td style="text-align:left"><b>30</b>
-      </td>
+      <td style="text-align:left">30</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
@@ -906,8 +854,7 @@ This page provides an overview of product roadmap cadence and timeline, and how 
 </table><table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>JULY 2020</b>
-      </th>
+      <th style="text-align:left">JULY 2020</th>
       <th style="text-align:left"></th>
       <th style="text-align:left"></th>
       <th style="text-align:left"></th>
@@ -918,131 +865,116 @@ This page provides an overview of product roadmap cadence and timeline, and how 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Sunday</b>
-      </td>
-      <td style="text-align:left"><b>Monday</b>
-      </td>
-      <td style="text-align:left"><b>Tuesday</b>
-      </td>
-      <td style="text-align:left"><b>Wednesday</b>
-      </td>
-      <td style="text-align:left"><b>Thursday</b>
-      </td>
-      <td style="text-align:left"><b>Friday</b>
-      </td>
-      <td style="text-align:left"><b>Saturday</b>
-      </td>
+      <td style="text-align:left">Sunday</td>
+      <td style="text-align:left">Monday</td>
+      <td style="text-align:left">Tuesday</td>
+      <td style="text-align:left">Wednesday</td>
+      <td style="text-align:left">Thursday</td>
+      <td style="text-align:left">Friday</td>
+      <td style="text-align:left">Saturday</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><b>1</b>
-      </td>
-      <td style="text-align:left"><b>2</b>
-      </td>
-      <td style="text-align:left"><b>3</b>
-      </td>
-      <td style="text-align:left"><b>4</b>
-      </td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">4</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>5<br /><br /><br /></b>
+      <td style="text-align:left">5
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>6<br /></b>
+        <p>6
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)<br /></b>
+        <p>OKR check-in (some teams)
+          <br />
         </p>
-        <p><b>Monthly customer facing call</b>
-        </p>
+        <p>Monthly customer facing call</p>
       </td>
-      <td style="text-align:left"><b>7</b>
-      </td>
-      <td style="text-align:left"><b>8</b>
-      </td>
-      <td style="text-align:left"><b>9</b>
-      </td>
-      <td style="text-align:left"><b>10</b>
-      </td>
-      <td style="text-align:left"><b>11</b>
-      </td>
+      <td style="text-align:left">7</td>
+      <td style="text-align:left">8</td>
+      <td style="text-align:left">9</td>
+      <td style="text-align:left">10</td>
+      <td style="text-align:left">11</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>12<br /><br /><br /></b>
+      <td style="text-align:left">12
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>13<br /></b>
+        <p>13
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)<br /></b>
+        <p>OKR check-in (some teams)
+          <br />
         </p>
-        <p><b>Monthly roadmap call</b>
-        </p>
+        <p>Monthly roadmap call</p>
       </td>
       <td style="text-align:left">
-        <p><b>14<br /></b>
+        <p>14
+          <br />
         </p>
-        <p><b>MLT Strategic</b>
-        </p>
+        <p>MLT Strategic</p>
       </td>
-      <td style="text-align:left"><b>15</b>
-      </td>
-      <td style="text-align:left"><b>16</b>
-      </td>
-      <td style="text-align:left"><b>17</b>
-      </td>
-      <td style="text-align:left"><b>18</b>
-      </td>
+      <td style="text-align:left">15</td>
+      <td style="text-align:left">16</td>
+      <td style="text-align:left">17</td>
+      <td style="text-align:left">18</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>19<br /><br /><br /></b>
+      <td style="text-align:left">19
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>20<br /></b>
+        <p>20
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
-      <td style="text-align:left"><b>21</b>
-      </td>
+      <td style="text-align:left">21</td>
       <td style="text-align:left">
-        <p><b>22<br /></b>
+        <p>22
+          <br />
         </p>
-        <p><b>Q4/CY20 Roadmap Kickoff</b>
-        </p>
+        <p>Q4/CY20 Roadmap Kickoff</p>
       </td>
-      <td style="text-align:left"><b>23</b>
-      </td>
-      <td style="text-align:left"><b>24</b>
-      </td>
-      <td style="text-align:left"><b>25</b>
-      </td>
+      <td style="text-align:left">23</td>
+      <td style="text-align:left">24</td>
+      <td style="text-align:left">25</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>26<br /><br /><br /></b>
+      <td style="text-align:left">26
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>27<br /></b>
+        <p>27
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
-      <td style="text-align:left"><b>28</b>
-      </td>
-      <td style="text-align:left"><b>29</b>
-      </td>
-      <td style="text-align:left"><b>30</b>
-      </td>
-      <td style="text-align:left"><b>31</b>
-      </td>
+      <td style="text-align:left">28</td>
+      <td style="text-align:left">29</td>
+      <td style="text-align:left">30</td>
+      <td style="text-align:left">31</td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table><table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>AUGUST 2020</b>
-      </th>
+      <th style="text-align:left">AUGUST 2020</th>
       <th style="text-align:left"></th>
       <th style="text-align:left"></th>
       <th style="text-align:left"></th>
@@ -1053,20 +985,13 @@ This page provides an overview of product roadmap cadence and timeline, and how 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Sunday</b>
-      </td>
-      <td style="text-align:left"><b>Monday</b>
-      </td>
-      <td style="text-align:left"><b>Tuesday</b>
-      </td>
-      <td style="text-align:left"><b>Wednesday</b>
-      </td>
-      <td style="text-align:left"><b>Thursday</b>
-      </td>
-      <td style="text-align:left"><b>Friday</b>
-      </td>
-      <td style="text-align:left"><b>Saturday</b>
-      </td>
+      <td style="text-align:left">Sunday</td>
+      <td style="text-align:left">Monday</td>
+      <td style="text-align:left">Tuesday</td>
+      <td style="text-align:left">Wednesday</td>
+      <td style="text-align:left">Thursday</td>
+      <td style="text-align:left">Friday</td>
+      <td style="text-align:left">Saturday</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -1075,129 +1000,130 @@ This page provides an overview of product roadmap cadence and timeline, and how 
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><b>1</b>
-      </td>
+      <td style="text-align:left">1</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>2<br /><br /><br /></b>
+      <td style="text-align:left">2
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>3<br /></b>
+        <p>3
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)<br /></b>
+        <p>OKR check-in (some teams)
+          <br />
         </p>
-        <p><b>Monthly customer facing call</b>
-        </p>
+        <p>Monthly customer facing call</p>
       </td>
       <td style="text-align:left">
-        <p><b>4<br /></b>
+        <p>4
+          <br />
         </p>
-        <p><b>MLT QBR</b>
-        </p>
+        <p>MLT QBR</p>
       </td>
       <td style="text-align:left">
-        <p><b>5<br /></b>
+        <p>5
+          <br />
         </p>
-        <p><b>Q4/CY20 1% Roadmap Draft</b>
-        </p>
+        <p>Q4/CY20 1% Roadmap Draft</p>
       </td>
-      <td style="text-align:left"><b>6</b>
-      </td>
-      <td style="text-align:left"><b>7</b>
-      </td>
-      <td style="text-align:left"><b>8</b>
-      </td>
+      <td style="text-align:left">6</td>
+      <td style="text-align:left">7</td>
+      <td style="text-align:left">8</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>9<br /></b>
+      <td style="text-align:left">9
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>10<br /></b>
+        <p>10
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)<br /></b>
+        <p>OKR check-in (some teams)
+          <br />
         </p>
-        <p><b>Monthly roadmap call</b>
-        </p>
+        <p>Monthly roadmap call</p>
       </td>
       <td style="text-align:left">
-        <p><b>11<br /></b>
+        <p>11
+          <br />
         </p>
-        <p><b>MLT Strategic</b>
-        </p>
+        <p>MLT Strategic</p>
       </td>
       <td style="text-align:left">
-        <p><b>12<br /></b>
+        <p>12
+          <br />
         </p>
-        <p><b>Sales/CSM present priority list to PMs</b>
-        </p>
+        <p>Sales/CSM present priority list to PMs</p>
       </td>
-      <td style="text-align:left"><b>13</b>
-      </td>
-      <td style="text-align:left"><b>14</b>
-      </td>
-      <td style="text-align:left"><b>15</b>
-      </td>
+      <td style="text-align:left">13</td>
+      <td style="text-align:left">14</td>
+      <td style="text-align:left">15</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>16<br /><br /><br /></b>
+      <td style="text-align:left">16
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>17<br /></b>
+        <p>17
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
-      <td style="text-align:left"><b>18</b>
-      </td>
-      <td style="text-align:left"><b>19</b>
-      </td>
-      <td style="text-align:left"><b>20</b>
-      </td>
+      <td style="text-align:left">18</td>
+      <td style="text-align:left">19</td>
+      <td style="text-align:left">20</td>
       <td style="text-align:left">
-        <p><b>21<br /></b>
+        <p>21
+          <br />
         </p>
-        <p><b>Q4/CY20 50% Roadmap Draft</b>
-        </p>
+        <p>Q4/CY20 50% Roadmap Draft</p>
       </td>
-      <td style="text-align:left"><b>22</b>
-      </td>
+      <td style="text-align:left">22</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>23<br /><br /><br /></b>
+      <td style="text-align:left">23
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>24<br /></b>
+        <p>24
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
       <td style="text-align:left">
-        <p><b>25<br /></b>
+        <p>25
+          <br />
         </p>
-        <p><b>MLT Board</b>
-        </p>
+        <p>MLT Board</p>
       </td>
       <td style="text-align:left">
-        <p><b>26<br /></b>
+        <p>26
+          <br />
         </p>
-        <p><b>Dev OKRs drafted</b>
-        </p>
+        <p>Dev OKRs drafted</p>
       </td>
-      <td style="text-align:left"><b>27</b>
-      </td>
-      <td style="text-align:left"><b>28</b>
-      </td>
-      <td style="text-align:left"><b>29</b>
-      </td>
+      <td style="text-align:left">27</td>
+      <td style="text-align:left">28</td>
+      <td style="text-align:left">29</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>30<br /><br /><br /></b>
+      <td style="text-align:left">30
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>31<br /></b>
+        <p>31
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
@@ -1209,8 +1135,7 @@ This page provides an overview of product roadmap cadence and timeline, and how 
 </table><table>
   <thead>
     <tr>
-      <th style="text-align:left"><b>SEPTEMBER 2020</b>
-      </th>
+      <th style="text-align:left">SEPTEMBER 2020</th>
       <th style="text-align:left"></th>
       <th style="text-align:left"></th>
       <th style="text-align:left"></th>
@@ -1221,130 +1146,122 @@ This page provides an overview of product roadmap cadence and timeline, and how 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Sunday</b>
-      </td>
-      <td style="text-align:left"><b>Monday</b>
-      </td>
-      <td style="text-align:left"><b>Tuesday</b>
-      </td>
-      <td style="text-align:left"><b>Wednesday</b>
-      </td>
-      <td style="text-align:left"><b>Thursday</b>
-      </td>
-      <td style="text-align:left"><b>Friday</b>
-      </td>
-      <td style="text-align:left"><b>Saturday</b>
-      </td>
+      <td style="text-align:left">Sunday</td>
+      <td style="text-align:left">Monday</td>
+      <td style="text-align:left">Tuesday</td>
+      <td style="text-align:left">Wednesday</td>
+      <td style="text-align:left">Thursday</td>
+      <td style="text-align:left">Friday</td>
+      <td style="text-align:left">Saturday</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><b>1</b>
-      </td>
-      <td style="text-align:left"><b>2</b>
-      </td>
-      <td style="text-align:left"><b>3</b>
-      </td>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">3</td>
       <td style="text-align:left">
-        <p><b>4<br /></b>
+        <p>4
+          <br />
         </p>
-        <p><b>Q4/CY20 99% Roadmap Draft</b>
-        </p>
+        <p>Q4/CY20 99% Roadmap Draft</p>
       </td>
-      <td style="text-align:left"><b>5</b>
-      </td>
+      <td style="text-align:left">5</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>6<br /><br /><br /></b>
+      <td style="text-align:left">6
+        <br />
+        <br />
+        <br />
       </td>
-      <td style="text-align:left"><b>7 - Labor Day</b>
+      <td style="text-align:left">7 - Labor Day</td>
+      <td style="text-align:left">
+        <p>8
+          <br />
+        </p>
+        <p>MLT Offsite
+          <br />
+        </p>
+        <p>Monthly customer facing call</p>
       </td>
       <td style="text-align:left">
-        <p><b>8<br /></b>
+        <p>9
+          <br />
         </p>
-        <p><b>MLT Offsite<br /></b>
+        <p>MLT Offsite
+          <br />
         </p>
-        <p><b>Monthly customer facing call</b>
-        </p>
+        <p>Roadmap presented to MLT, SLT, CLT</p>
       </td>
+      <td style="text-align:left">10</td>
       <td style="text-align:left">
-        <p><b>9<br /></b>
+        <p>11
+          <br />
         </p>
-        <p><b>MLT Offsite<br /></b>
-        </p>
-        <p><b>Roadmap presented to MLT, SLT, CLT</b>
-        </p>
+        <p>Dev OKRs finalized</p>
       </td>
-      <td style="text-align:left"><b>10</b>
-      </td>
-      <td style="text-align:left">
-        <p><b>11<br /></b>
-        </p>
-        <p><b>Dev OKRs finalized</b>
-        </p>
-      </td>
-      <td style="text-align:left"><b>12</b>
-      </td>
+      <td style="text-align:left">12</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>13<br /><br /><br /></b>
+      <td style="text-align:left">13
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>14<br /></b>
+        <p>14
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)<br /></b>
+        <p>OKR check-in (some teams)
+          <br />
         </p>
-        <p><b>Monthly roadmap call</b>
-        </p>
+        <p>Monthly roadmap call</p>
       </td>
-      <td style="text-align:left"><b>15</b>
+      <td style="text-align:left">15</td>
+      <td style="text-align:left">16
+        <br />
       </td>
-      <td style="text-align:left"><b>16<br /></b>
-      </td>
-      <td style="text-align:left"><b>17</b>
-      </td>
-      <td style="text-align:left"><b>18</b>
-      </td>
-      <td style="text-align:left"><b>19</b>
-      </td>
+      <td style="text-align:left">17</td>
+      <td style="text-align:left">18</td>
+      <td style="text-align:left">19</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>20<br /><br /><br /></b>
+      <td style="text-align:left">20
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>21<br /></b>
+        <p>21
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
-      <td style="text-align:left"><b>22</b>
-      </td>
-      <td style="text-align:left"><b>23</b>
-      </td>
+      <td style="text-align:left">22</td>
+      <td style="text-align:left">23</td>
       <td style="text-align:left">
-        <p><b>24<br /></b>
+        <p>24
+          <br />
         </p>
-        <p><b>Q4/CY20 Roadmap Live</b>
-        </p>
+        <p>Q4/CY20 Roadmap Live</p>
       </td>
-      <td style="text-align:left"><b>25</b>
-      </td>
-      <td style="text-align:left"><b>26</b>
-      </td>
+      <td style="text-align:left">25</td>
+      <td style="text-align:left">26</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>27<br /><br /><br /></b>
+      <td style="text-align:left">27
+        <br />
+        <br />
+        <br />
       </td>
       <td style="text-align:left">
-        <p><b>28<br /></b>
+        <p>28
+          <br />
         </p>
-        <p><b>OKR check-in (some teams)</b>
-        </p>
+        <p>OKR check-in (some teams)</p>
       </td>
-      <td style="text-align:left"><b>29</b>
-      </td>
-      <td style="text-align:left"><b>30</b>
-      </td>
+      <td style="text-align:left">29</td>
+      <td style="text-align:left">30</td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
