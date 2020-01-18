@@ -52,6 +52,7 @@
   * [Staff Recruiting](operations/contributors/staff-recruiting.md)
 * [Research & Development](operations/research-and-development/README.md)
   * [Product](operations/research-and-development/product/README.md)
+    * [Product Roadmap Cadence](operations/research-and-development/product/product-roadmap-cadence.md)
     * [Product Management Team Handbook](operations/research-and-development/product/product-management-team-handbook.md)
     * [Technical Writing Team Handbook](operations/research-and-development/product/product-technical-writing-team-handbook.md)
   * [Engineering](operations/research-and-development/engineering.md)
