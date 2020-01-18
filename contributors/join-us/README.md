@@ -71,7 +71,7 @@ We don’t currently offer internships. If you’re interested in expanding your
 
 #### I’m interested in a staff position, how do I get noticed?
 
-If you haven’t yet experienced the product, you should do that as a first step. Join our testing server at https://pre-release.mattermost.com
+If you haven’t yet experienced the product, you should do that as a first step. Join our testing server at https://community.mattermost.com
 
 When you apply there’s a question about your experience with Mattermost and at a minimum you should have spent some time using the product and have some opinions on what we might improve.
 
