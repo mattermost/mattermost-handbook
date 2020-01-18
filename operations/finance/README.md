@@ -13,11 +13,11 @@
 
 Our fiscal year ends on January 31. 
 
-Prior to February 1, 2019, our fiscal year ended on September 30. Following years start February 1, end January 31 and have 12 months. To illustrate: 
+Prior to January 1, 2019, our fiscal year ended on September 30. Our first fiscal year ending January 31 began on January 1, 2019, ended on January 1, 2020 and had 13 months. Following years start February 1, end January 31 and have 12 months. To illustrate: 
 
 | Fiscal Year | Start Date | End Date | Months |
 | :--- | :--- | :--- | :--- |
-| 2020 | Feb 1, 2019 | Jan 31, 2020 | 12 |
+| 2020 | Jan 1, 2019 | Jan 31, 2020 | 13 |
 | 2021 | Feb 1, 2020 | Jan 31, 2021 | 12 |
 | 2022 | Feb 1, 2020  | Jan 31, 2022 | 12 |
 

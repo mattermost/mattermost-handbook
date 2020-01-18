@@ -6,7 +6,9 @@
 
 #### United States
 
-If you are a staff member located in the United States, payroll is made through TriNet via direct deposit bi-monthly on the 15th and end of each month.Your expense reimbursements will be made through Expensify under the Mattermost, Inc. policy in the form of an ACH payment. You will be required to register your banking information to be able to receive an ACH payment in Expensify. We do not support any other type of expense reimbursement for United States staff members at this time. You will receive your expense reimbursement no later than 15th and end of each month if you follow the [How to use Expensify](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#expense-reimbursement-policy) policy.
+If you are a staff member located in the United States, payroll is made through TriNet via direct deposit bi-monthly on the 15th and end of each month. Your expense reimbursements will be made through Expensify under the Mattermost, Inc. policy in the form of an ACH payment. You will be required to register your banking information to be able to receive an ACH payment in Expensify. We do not support any other type of expense reimbursement for United States staff members at this time. You will receive your expense reimbursement no later than 15th and end of each month if you follow the [How to use Expensify](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#expense-reimbursement-policy) policy.
+
+If you are a vendor, refer to the Bank Form section for guidance on registering to get paid
 
 #### Canada
 
@@ -26,7 +28,13 @@ _Example 2_: a staff member named John Smith is located in Spain and signed a co
 * The bank account is located in Spain
 * The bank account is in the name of Better Coding, LLC
 
-If you are a staff member located outside of the United States and Canada, your expense reimbursements will be made through Bill.com. As noted above, Mattermost requires banking information from a primary banking institution to be able to make reimbursements through Bill.com. You will receive your expense reimbursement no later than 15th and end of each month.
+If you are a staff member located outside of the United States and Canada, your expense reimbursements will be made through Bill.com. As noted above, Mattermost requires banking information from a primary banking institution to be able to make reimbursements through Bill.com. You will receive your expense reimbursement no later than 15th and end of each month. 
+
+Refer to 
+
+## Payment Registration with Mattermost
+
+### Banking Form
 
 Complete the following [Banking Form](https://docs.google.com/forms/d/e/1FAIpQLScw5E8h2z7QOuoabPjvcCqQ4mMdiPikXNODEaCGbuI4IsgF-w/viewform?usp=pp_url) to properly register your credentials with Mattermost
 
