@@ -12,7 +12,7 @@ description: 99%
 
 If you are a staff member located in the United States, payroll is made through TriNet via direct deposit bi-monthly on the 15th and end of each month. Your expense reimbursements will be made through Expensify under the Mattermost, Inc. policy in the form of an ACH payment. You will be required to register your banking information to be able to receive an ACH payment in Expensify. We do not support any other type of expense reimbursement for United States staff members at this time. You will receive your expense reimbursement no later than 15th and end of each month if you follow the [How to use Expensify](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#expense-reimbursement-policy) policy.
 
-If you are a vendor, refer to the [Bank Form](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#banking-form) section for guidance on registering to get paid.
+If you are a vendor, refer to the [Bank Form](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#banking-form) section for guidance on registering so can get paid.
 
 #### Canada
 
@@ -34,7 +34,7 @@ _Example 2_: a staff member named John Smith is located in Spain and signed a co
 
 If you are a staff member located outside of the United States and Canada, your expense reimbursements will be made through Bill.com. As noted above, Mattermost requires banking information from a primary banking institution to be able to make reimbursements through Bill.com. You will receive your expense reimbursement no later than 15th and end of each month. 
 
-Refer to the [Bank Form](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#banking-form) section for guidance on registering to get paid.
+Refer to the [Bank Form](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#banking-form) section for guidance on registering so you get paid.
 
 ## Payment Registration with Mattermost
 
