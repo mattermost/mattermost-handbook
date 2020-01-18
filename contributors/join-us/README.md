@@ -75,7 +75,7 @@ If you haven’t yet experienced the product, you should do that as a first step
 
 When you apply there’s a question about your experience with Mattermost and at a minimum you should have spent some time using the product and have some opinions on what you like and we might improve.
 
-We hire about 70% of our R&D staff from our open source community. If you want to increase your odds further, please consider trying a beginner or intermediate open source contribution via https://mattermost.com/contribute/
+If you are technical, we hire about 70% of our R&D staff from our open source community. If you want to increase your odds further, please consider trying a beginner or intermediate open source contribution via https://mattermost.com/contribute/
 
 #### I’m an agency or contingent recruiter and I have a candidate for you
 
