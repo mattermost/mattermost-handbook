@@ -14,6 +14,10 @@ _Area Of Responsibility_ defines the area for which a [DRI](list-of-terms.md#dri
 
 An obvious error in Mattermost software that is typically a code defect. Changes required to accommodate unsupported 3rd party software \(such as browsers or operating systems\) are not considered bugs, they are considered improvements.
 
+### **CAO**
+
+_Contract Accountability Owner_ is a [DRI](list-of-terms.md#dri) for ensuring a contract meets our guidelines and standards ahead of final approval by [a company signatory. ](../../operations/operations/company-agreements.md#who-can-sign-on-behalf-of-the-company)Also see [listing of CAOs](../../operations/operations/company-agreements.md#who-are-contract-accountability-owners-caos).
+
 ### **COM**
 
 COM is short for [Customer Obsession Meeting](https://docs.mattermost.com/process/training.html?#customer-obsession-all-hands-meeting), which is our “All Hands” meeting focused on how we’re aligning the company to serve our customers.
