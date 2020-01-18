@@ -1,3 +1,7 @@
+---
+description: 99%
+---
+
 # How to get paid
 
 **Effective Date**: January 1, 2020
