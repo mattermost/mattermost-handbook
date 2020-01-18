@@ -10,7 +10,7 @@ This page provides an overview of product roadmap cadence and timeline, and how 
 
 ## **Product Roadmap Timeline**
 
-The timeline below is for Jan/2020 - Sept/2020. \(Calendars are provided as screenshots, until proper Markdown formatting for tables is found\)
+The timeline below is for Jan/2020 - Sept/2020.
 
 **Legend:**
 
@@ -18,6 +18,8 @@ The timeline below is for Jan/2020 - Sept/2020. \(Calendars are provided as scre
 * **Orange =** Key dates where roadmap is likely discussed \(either within MLT, across company or externally such as with board\)
 * **Green =** Key MLT meetings where roadmap may be discussed
 * **Purple =** Key product roadmap planning dates
+
+\(Calendars are provided as screenshots, until proper Markdown formatting for tables is found. Author is uncertain why tables are different sizes, though screenshots taken were equally sized.\)
 
 ![](../../../.gitbook/assets/image%20%2822%29.png)
 
