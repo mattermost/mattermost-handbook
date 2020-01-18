@@ -32,6 +32,17 @@ CAOs by area include:
       * Note: E-sign requests from non-Mattermost staff are automatically filtered to a spam folder and the spam filter needs to be searched to find the request.
 * If the timeline is urgent, or if the e-sign isn't completed by the expected timeline please send Ian Tien and Amy Nicol a Group Direct Message on the Mattermost server to expedite
 
+### How to wet sign an agreement
+
+* A "wet sign" agreement requires printing and physically signing paperwork with a pen, which is required by some regulatory bodies
+  * Culturally, it is important we have a smooth, clear process that makes physically signing paperwork in a remote company almost as easy and error free as signing in a physical office 
+* **Wet sign package** 
+  * The wet sign process should follow the same workflow process as an e-sign process in terms of oversight and approvals, but instead of running the final e-sign a physical signing packet should be created with: 
+    * Two copies of printed paperwork to be signed, including \(if applicable\) e-signed initials from CAO 
+      * Each should have sticker labels indicating what is needed to sign, so nothing is missed
+    * A pen
+    * Appropriate envelops and/or UPS mailing labels to send the signed package on after it is received
+
 
 
 
