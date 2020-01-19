@@ -6,6 +6,10 @@ We use “x/5” to concisely communicate conviction. 0/5 means you don’t have
 
 Example: "0/5, I think before archiving a channel a user should type in the name of the channel to make sure they really want to do it" expresses low conviction and indifference in the suggestion. Decision maker should feel free to ignore the input. As another example: "4/5, I think before archiving a channel a user should type in the name of the channel to make sure they really want to do it" expresses high conviction and decision maker may want to ask more questions to understand whether [emotion, assumption or priority](mindsets.md#emotion-assumption-and-priority) is behind the feedback.  
 
+### AA
+
+Refers to both an [As Appropriate interview](../../operations/recruiting.md#as-appropriate-interviews-aa-s) as well as the [As Appropriate interviewer](../../operations/recruiting.md#as-appropriate-interviews-aa-s). Final interview required before making a decision on a new hire.
+
 ### AOR 
 
 _Area Of Responsibility_ defines the area for which a [DRI](list-of-terms.md#dri) is accountable. The [AOR page ](../../operations/areas-of-responsibility.md)provides information on AORs across the company. 
