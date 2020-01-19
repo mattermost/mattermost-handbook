@@ -128,7 +128,7 @@ New test servers that use the cloud infrastructure and can be spun up on pull re
 
 ### Tombstoned
 
-Replacing a web-page with a link to the new page created so that people using the original link can easily find the new page. 
+Replacing a web-page with a link to the new page created so that people using the original link can easily find the new page. [An example of tombstoned terms can be found at the bottom of this page](list-of-terms.md#tombstoned-terms).
 
 ### **YouTweetInFace**
 
