@@ -36,6 +36,10 @@ URL: [https://community.mattermost.com/private-core](https://community.mattermos
 
 A confidential space for [Mattermost staff](../community.md#mattermost-staff) requiring a Mattermost OneLogin account and MFA**.** 
 
+All Mattermost staff hired after Jan 1, 2020 should have a username in the form of `@[FIRST_NAME]_[LAST_NAME]` for example "Alice Evans" should be `alice.evans`
+
+There are some user accounts that for legacy issues cannot use this format, for all other Mattermost staff we should use the format that creates the most clarity. 
+
 ## Channel Naming Conventions 
 
 Any Mattermost staff member can create, rename and archive channels on the pre-release server. When channels don't contain sensitive information they should default to **Public channel in CONTRIBUTORS team** and welcome participation by contributors.   
