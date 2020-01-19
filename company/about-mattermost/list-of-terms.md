@@ -1,5 +1,9 @@
 # List of Terms
 
+## Current Terms
+
+The following lists current terms actively used at Mattermost. You can also see [Tombstoned Terms ](list-of-terms.md#tombstoned-terms)for terms that have either been modified or deprecated. We use Tombstoned Terms to preserve links to previous definitions so clarity is maintained. 
+
 ### **0/5, 1/5, 2/5, 3/5, 4/5, 5/5**
 
 We use “x/5” to concisely communicate conviction. 0/5 means you don’t have a strong opinion, you are just sharing an idea or asking a question. 5/5 means you are highly confident and would stake your reputation on the opinion you’re expressing.
@@ -135,4 +139,8 @@ A reference to the major social media platforms: YouTube \(“You”\), Twitter 
 Instead of working iteratively a "Windows Vista approach" attempts to ship significant changes in a complex one-time effort, which seems like a good idea at the time but ends up causing delays, wasted effort and numerous avoidable errors.   
   
 This tempting, high risk approach is named after Microsoft’s “Windows Vista” operating system, one of its most famous examples.
+
+## Tombstoned Terms
+
+The following is a list of terms no longer used with links to their definitions or notes on their deprecation 
 
