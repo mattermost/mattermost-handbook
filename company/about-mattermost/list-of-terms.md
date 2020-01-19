@@ -126,7 +126,7 @@ Spinmint refers to our first generation of automated infrastructure to spin up t
 
 New test servers that use the cloud infrastructure and can be spun up on pull requests to test changes. Name is reference to first generation infrastructure, [spinmint](list-of-terms.md#spinmint), combined with an arbitrary reference a movie that some people saw called “John Wick”. 
 
-### Tomb-stoned
+### Tombstoned
 
 Replacing a web-page with a link to the new page created so that people using the original link can easily find the new page. 
 
@@ -142,5 +142,9 @@ This tempting, high risk approach is named after Microsoft’s “Windows Vista�
 
 ## Tombstoned Terms
 
-The following is a list of terms no longer used with links to their definitions or notes on their deprecation 
+The following is a list of terms no longer used with links to their definitions or notes on their deprecation. Tombstoned Terms use H3 headings on this page to distinguish them from active terms, which are H2 in heading formatting. 
+
+#### Tomb-stoned
+
+Previously hyphenated, now not hyphenated, see [Tombstoned](list-of-terms.md#tombstoned).
 
