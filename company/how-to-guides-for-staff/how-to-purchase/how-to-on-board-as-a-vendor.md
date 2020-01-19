@@ -2,7 +2,7 @@
 description: 50%
 ---
 
-# How to on-board as a vendor
+# How to on-board a vendor
 
 **Effective Date**: January 1, 2020
 
