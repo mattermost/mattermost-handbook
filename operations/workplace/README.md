@@ -36,9 +36,19 @@ URL: [https://community.mattermost.com/private-core](https://community.mattermos
 
 A confidential space for [Mattermost staff](../community.md#mattermost-staff) requiring a Mattermost OneLogin account and MFA**.** 
 
+#### Staff Usernames on the Mattermost Server 
+
 All Mattermost staff hired after Jan 1, 2020 should have a username in the form of `@[FIRST_NAME]_[LAST_NAME]` for example "Alice Evans" should be `alice.evans`
 
-There are some user accounts that for legacy issues cannot use this format, for all other Mattermost staff we should use the format that creates the most clarity. 
+If there are duplicate first name and last names, the new person added should add a middle initial in the form of `@[FIRST_NAME].[MIDDLE_INITIAL].[LAST_NAME]` for example, "Alice Janice Evans" who joined after the first Alice Evans would be `@alice.j.evans`. 
+
+There are some user accounts that for legacy issues cannot use this format, for all other Mattermost staff--even those who joined before Jan 1 2020--should use the format that creates the most clarity. 
+
+#### Not mentioning staff while referring to them 
+
+By default, people's user names and first names trigger mention notifications in Mattermost. This can be distracting if people have the same first names, for example there are multiple people named "Chris" at Mattermost. If you want to mention someone without triggering a notification consider using their three letter initials, for example, "Alice Emily Evans" would be `AEE`. 
+
+As an alternative to saying `@alice.evans` using `AEE` lets you refer to the person in passing without pushing an alert to them. For staff members that want to be alerted to even passing mentions of their name, they can opt into that model by creating a [keyword notification](https://docs.mattermost.com/help/messaging/mentioning-teammates.html#words-that-trigger-mentions) on their three letter initials. 
 
 ## Channel Naming Conventions 
 
