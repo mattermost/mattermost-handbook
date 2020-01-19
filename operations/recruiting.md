@@ -33,9 +33,9 @@ The following list of people are approved as As Appropriate interviewers \(aka "
 
 Each AA interviewer should have at least 3 reserved slots per week available for AA interviews, ideally in different timezone ranges, providing capacity for 12 new hires per month per AA. 
 
-## As Appropriate Interview checklist 
+### Checklist for As Appropriate Interview 
 
-24 hours before an AA interview, the Lever record for the candidate should include: 
+24 hours before an [AA interview](recruiting.md#as-appropriate-interviews-aa-s), the Lever record for the candidate should include: 
 
 1. Hire/No Hire feedback from everyone on the interview loop
 2. Attachments of any work product produced during the interview loop
