@@ -23,9 +23,9 @@
     * [How to procure a vendor contract](company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract.md)
     * [How to on-board a vendor](company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/README.md)
       * [How to invoice Mattermost](company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/how-to-invoice-mattermost.md)
+      * [How to get paid](company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/how-to-get-paid.md)
     * [How to arrange a simulation](company/how-to-guides-for-staff/how-to-purchase/how-to-arrange-a-simulation.md)
     * [How to arrange a bounty program](company/how-to-guides-for-staff/how-to-purchase/how-to-arrange-a-bounty-program.md)
-  * [How to get paid](company/how-to-guides-for-staff/how-to-get-paid.md)
   * [How to do an unscheduled post-mortem](company/how-to-guides-for-staff/how-to-do-a-post-escalation-post-mortem.md)
 
 ## Operations
