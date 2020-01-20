@@ -31,7 +31,7 @@ Once the bounty lead and bounty contributor have agreed to the terms, please hav
 * [Banking Information](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#payments-made-by-mattermost)
 * \*\*\*\*[Vendor Requested Documents](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor#new-vendor-or-contractor) prior to starting the bounty project.
 
-Submit all forms to AP@mattermost.com
+Submit all forms to [ap@mattermost.com](mailto:%20ap@mattermost.com).
 
 ## Completed Bounty Project
 
