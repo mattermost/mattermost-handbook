@@ -35,5 +35,5 @@ Submit all forms to AP@mattermost.com
 
 ## Completed Bounty Project
 
-A bounty project is deemed completed when the bounty lead has submitted the approval in the [Bounty MM Channel](https://community-release.mattermost.com/private-core/channels/developer-bounty-program) with their approval of the submission. At which point, the community member may submit the invoice to AP@mattermost.com.  
+A bounty project is deemed completed when the bounty lead has submitted the approval in the [Bounty MM Channel](https://community-release.mattermost.com/private-core/channels/developer-bounty-program) with their approval of the submission. At which point, the community member may submit the invoice to [ap@mattermost.com](mailto:%20ap@mattermost.com). 
 
