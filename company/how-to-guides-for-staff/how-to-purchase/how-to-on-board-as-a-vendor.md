@@ -10,7 +10,7 @@ If you are a new full-time staff member who will be issuing Mattermost a monthly
 
 ## New Vendor or Contractor
 
-After your contract has gone through our **\[procurement process\]** \(contract is reviewed, approved and signed internally\), the [Finance Team](https://community.mattermost.com/private-core/channels/expenses) will set up your vendor in [Bill.com](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#payments-made-by-mattermost). For your vendor's profile to be created successfully , please complete the following:
+After your contract has gone through our [procurement process](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract), the [Finance Team](https://community.mattermost.com/private-core/channels/expenses) will set up your vendor in [Bill.com](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#payments-made-by-mattermost). For your vendor's profile to be created successfully, please complete the following:
 
 * [New Vendor Information Form](https://forms.gle/D27fwJPMXvftVyAEA) and
 * [Banking Form](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#banking-form) under the [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#payments-made-by-mattermost) section of the Mattermost Handbook
@@ -47,5 +47,5 @@ If you were part of a paid simulation project, you may have already completed th
 
 ## Invoicing and Payment
 
-For timely payment, invoices should be sent to [AP@mattermost.com](mailto:AP@mattermost.com). For further information on receiving payment by Mattermost, please refer to the [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid) section of the Mattermost handbook.
+For timely payment, invoices should be sent to [AP@mattermost.com](mailto:AP@mattermost.com). For further information on receiving payment by Mattermost, please refer to the [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid). 
 
