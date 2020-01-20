@@ -19,7 +19,7 @@
   * [How to update the handbook](company/how-to-guides-for-staff/how-to-update-the-handbook.md)
   * [How to change mobile device](company/how-to-guides-for-staff/how-to-change-mobile-device/README.md)
     * [How to handle a lost mobile device](company/how-to-guides-for-staff/how-to-change-mobile-device/how-to-handle-a-lost-mobile-device.md)
-  * [How to Purchase](company/how-to-guides-for-staff/how-to-purchase/README.md)
+  * [How to purchase](company/how-to-guides-for-staff/how-to-purchase/README.md)
     * [How to procure a vendor contract](company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract.md)
     * [How to on-board a vendor](company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor.md)
     * [How to arrange a simulation](company/how-to-guides-for-staff/how-to-purchase/how-to-arrange-a-simulation.md)
