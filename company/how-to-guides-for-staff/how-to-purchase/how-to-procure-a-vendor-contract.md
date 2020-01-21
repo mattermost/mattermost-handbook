@@ -6,7 +6,7 @@ description: 1% DRAFT
 
 **Effective Date:** January 24, 2020 \(proposed\)
 
-As the Company grows there are legal matters, costs, and overall visibility into what staff members are signing up for and the reason. This process is to empower you to get back to doing what you do best at Mattermost. This process is to foster awareness and highlight the key steps to moving vendor contracts through the review cycle with minimal disruption to your day to day. To do this, we need your help to address the items and systems we need as a Company. Our goal of defining the purchasing process is to guide decision support by reducing time in executing a contract, while maintaining equitable terms and conditions \(T&C's\) that derisk Mattermost.
+As the Company grows there are legal matters, costs, and overall visibility into what staff members are signing up for and the reason. This process is to empower you to get back to doing what you do best at Mattermost. This process is to foster awareness and highlight the key steps to moving vendor contracts through the review cycle with minimal disruption to your day to day. To do this, we need your help to address the items and systems we need as a Company. Our goal of defining the purchasing process is to guide decision support by reducing time in executing a contract, while maintaining equitable terms and conditions \(T&Cs\) that derisk Mattermost.
 
 ### Who is Impacted?
 
@@ -16,7 +16,7 @@ All Mattermost Staff Members, including our CEO, are guided to follow this proce
 
 #### TL;DR
 
-If you are spending money or signing Mattermost up to T&C's, complete the [Purchase Order Form](https://docs.google.com/forms/d/e/1FAIpQLSd0zdXhAxYcH59wDnUoprgDi3aLdMBk3K3d3nNSmsqB2jtwAw/viewform?usp=sf_link). This will kick-off the order requisition process. Using Matterost T&C's will always 
+If you are spending money or signing Mattermost up to T&Cs, complete the [Purchase Order Form](https://docs.google.com/forms/d/e/1FAIpQLSd0zdXhAxYcH59wDnUoprgDi3aLdMBk3K3d3nNSmsqB2jtwAw/viewform?usp=sf_link). This will kick-off the order requisition process and a Purchase Order Number \(PO-\#\) will be assigned. Be sure to follow [Authorization Matrix](https://docs.google.com/spreadsheets/d/1fDIMiO0uydB_1zCUxZ4sGfSnBJ0P_49zbeQGgTqbYPI/edit?usp=sharing) when requesting spend approval.  Once a PO-\# is prepared, any T&Cs will go to Legal to review. Using [Mattermost T&Cs](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-3-legal-review-and-approval) will always be a faster turn around time. We can usually provision a signed contract within 24 hours. Using non-standard or vendor papered T&Cs will exponentially increase review. On average it takes 2-3 weeks. Finally, if spend and legal terms have been accepted, ensure your vendor references the PO-\# on all invoices.
 
 ### Step 1: Send for Budget Approval
 
@@ -40,7 +40,7 @@ There are several T&Cs used in the form that may require clarification. We have 
 * **Non-Budget Spending**: the purchase is additional spend or moving approved spend from one bucket to another
 * **Functional Approver**: the person who has the authority to approve Budget and Non-Budget spending and outlined in the [Authorization Matrix](https://docs.google.com/spreadsheets/d/1fDIMiO0uydB_1zCUxZ4sGfSnBJ0P_49zbeQGgTqbYPI/edit?usp=sharing)
 
-Once the [Purchase Order Form](https://docs.google.com/forms/d/e/1FAIpQLSd0zdXhAxYcH59wDnUoprgDi3aLdMBk3K3d3nNSmsqB2jtwAw/viewform?usp=sf_link) is completed, the form is submitted to the [Procurement Team](mailto:procurement@mattermost.com) to process, review and obtain the spending approval. If you receive approval, you will be provided a **PO Number** to be used at a future date.
+Once the [Purchase Order Form](https://docs.google.com/forms/d/e/1FAIpQLSd0zdXhAxYcH59wDnUoprgDi3aLdMBk3K3d3nNSmsqB2jtwAw/viewform?usp=sf_link) is completed, the form is submitted to the [Procurement Team](mailto:procurement@mattermost.com) to process, review and obtain the spending approval. If you receive approval, you will be provided a **PO-\#** to be used at a future date.
 
 ### Step 2: Request Contract from Vendor
 
@@ -85,13 +85,15 @@ All contracts are to address either Ian Tien \(CEO\) or Aneal Vallurupalli \(VP 
 
 If the agreement is an addendum to the original contract that has already been approved and the addendum does not change pricing, then spend approval is not required again. Instead, please send the addendum attached to the original [Purchase Order Form](https://docs.google.com/forms/d/e/1FAIpQLSd0zdXhAxYcH59wDnUoprgDi3aLdMBk3K3d3nNSmsqB2jtwAw/viewform?usp=sf_link) email to [Procurement Team](mailto:Procurement@mattermost.com) to be reviewed by legal. There is no need to follow Step 2 onward.
 
-If the original contract has already been approved, but there is an addendum that changes pricing, please create a new issue by completing the [Purchase Order Form](https://docs.google.com/forms/d/e/1FAIpQLSd0zdXhAxYcH59wDnUoprgDi3aLdMBk3K3d3nNSmsqB2jtwAw/viewform?usp=sf_link). 
+#### Is Your Request For Spend Under an Existing Contract?
+
+If the original contract has already been approved by legal and you are submitting a new order form that only impacts pricing, create a new issue by completing the [Purchase Order Form](https://docs.google.com/forms/d/e/1FAIpQLSd0zdXhAxYcH59wDnUoprgDi3aLdMBk3K3d3nNSmsqB2jtwAw/viewform?usp=sf_link). Additional legal review will not be required. 
 
 ### Step 3: Legal Review and Approval
 
-Legal review is required for most contracts unless the contract adopts Mattermost’s Standard T&C's.
+Legal review is required for most contracts unless the contract adopts Mattermost’s Standard T&Cs.
 
-**\[PLACEHOLDER - Link to Standard T&C's\]**
+**\[PLACEHOLDER - Link to Standard T&Cs\]**
 
 If the contract cannot be approved, Legal will provide REDLINES, and [Procurement Team](mailto:procurement@mattermost.com) will negotiate directly with the Vendor.
 
@@ -101,8 +103,8 @@ Please note that the [Procurement Team](mailto:procurement@mattermost.com) proce
 
 Once the contract is approved, Procurement Team will prepare the [contract for signing](https://handbook.mattermost.com/operations/operations/company-agreements).
 
-1. Create a PDFof the fully approved contract
-2. Director or above will initial in DocSign
+1. Create a PDF of the fully approved contract
+2. Director or above will initial in DocuSign
 3. Contract sent to VP Finance or CEO for final signature in DocuSign
 
 Please note that contracts that don’t go through our internal singing process will take much longer to procure and sing.
@@ -117,5 +119,5 @@ Send the final countersigned contract to the Procurement Team to file away
 
 ### Step 7: Vendor On-boarding and Invoice Processing
 
-For all vendor on-boarding questions, refer to the [How to on-board a vendor](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor) and [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid). Please be sure to communicate to your vendor that all invoices should include the **PO Number** for reference.
+For all vendor on-boarding questions, refer to the [How to on-board a vendor](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor) and [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid). Please be sure to communicate to your vendor that all invoices should include the **PO-\#** for reference.
 
