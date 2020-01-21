@@ -20,9 +20,7 @@ Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Pa
 
 1. Let your management know your [PTO](../../../company/about-mattermost/list-of-terms.md#pto-or-paid-time-off) dates and who will be your backup\(s\). 
 2. Add your time off to [BambooHR ](https://mattermost.bamboohr.com/)
-3. For meetings you’ll miss, message the chair with any status updates.
-4. Post in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) the dates you’ll be away and who’ll be your backup.
-5. Block time in the [Mattermost Timeoff calendar](https://calendar.google.com/calendar/embed?src=mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com&ctz=America%2FLos_Angeles), so team can see who is away.
+3. With your Manager, ensure your team is [vacation-ready](https://handbook.mattermost.com/operations/people/working-at-mattermost#5-be-the-change-you-want-to-see) 
 
 Note: PTO reminders appear in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) on first and last day of PTO.
 

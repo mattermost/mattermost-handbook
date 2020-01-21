@@ -1,2 +1,2 @@
-# How to Purchase
+# How to purchase
 
