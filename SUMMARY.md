@@ -33,6 +33,7 @@
 * [Community](operations/community.md)
 * [Workplace](operations/workplace/README.md)
   * [Groups](operations/workplace/groups.md)
+  * [Approvals and Iteration](operations/workplace/approvals-and-iteration.md)
 * [Areas of Responsibility](operations/areas-of-responsibility.md)
 * [Company Operations](operations/operations/README.md)
   * [MLT Cadence](operations/operations/mlt-cadence/README.md)

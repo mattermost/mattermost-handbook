@@ -26,7 +26,7 @@ All Mattermost staff along with invited contributors.
 
 ### Code of Conduct <a id="code-of-conduct"></a>
 
-General guidelines and information are on this page but our official Code of Conduct policy is [outlined on this page](https://about.gitlab.com/company/culture/contribute/coc/).   
+General guidelines and information are on this page but our official Code of Conduct policy is [outlined on this page](https://handbook.mattermost.com/mattercon/mattermost-code-of-conduct).   
   
 For the smooth operation of MatterCon all attendees are asked to sign the code of conduct along with standard a waiver and consent for official conference photography. 
 

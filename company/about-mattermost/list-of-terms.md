@@ -10,6 +10,10 @@ We use “x/5” to concisely communicate conviction. 0/5 means you don’t have
 
 Example: "0/5, I think before archiving a channel a user should type in the name of the channel to make sure they really want to do it" expresses low conviction and indifference in the suggestion. Decision maker should feel free to ignore the input. As another example: "4/5, I think before archiving a channel a user should type in the name of the channel to make sure they really want to do it" expresses high conviction and decision maker may want to ask more questions to understand whether [emotion, assumption or priority](mindsets.md#emotion-assumption-and-priority) is behind the feedback.  
 
+### Best Practices 
+
+We try not to use the term "best practice" at Mattermost, as it's counter-cultural to our focus on [iteration](list-of-terms.md#iteration), [self-awareness](./#leadership-principles) and [earn trust](./#leadership-principles). Iteration means there is always opportunity to grow an improve and so we never reach our "best". In our self-awareness means 
+
 ### AA
 
 Refers to both an [As Appropriate interview](../../operations/recruiting.md#as-appropriate-interviews-aa-s) as well as the [As Appropriate interviewer](../../operations/recruiting.md#as-appropriate-interviews-aa-s). Final interview required before making a decision on a new hire.
@@ -83,6 +87,10 @@ Keeping non-sensitive information that would be helpful for staff and community 
 ### **Improvement**
 
 A beneficial change to code that is not fixing a bug.
+
+### Iteration 
+
+Iteration means being able to quickly improve on something by shipping a minimally viable change in how we do things. It's the opposite of the "wait, wait, wait ship" method we call the [Windows Vista Approach](list-of-terms.md#windows-vista-approach). 
 
 ### **LHS**
 
