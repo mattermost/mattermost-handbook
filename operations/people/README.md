@@ -86,8 +86,9 @@ For example, monthly fee, salary, start date, title, etc. People ops will send y
 
 ### Other
 
-| People Topic | Mattermost Channel | Mattermost Email |
-| :--- | :--- | :--- |
-| Compensation, Benefits, agreements and verification letters | @Lynn-Conway or @Natalie-Jew | HR@Mattermost.com |
-| Onboarding | [People Ops Channel ](https://community.mattermost.com/private-core/channels/people-ops) | People@Mattermost.com |
+| People Topic | Who to Ask? |
+| :--- | :--- |
+| Compensation, Benefits, agreements and verification letters | HR@Mattermost.com |
+| Onboarding | [Onboarding Channel](https://community.mattermost.com/private-core/channels/onboarding)  |
+|  Anything People Ops  - not confidential  | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) |
 
