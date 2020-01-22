@@ -4,14 +4,19 @@ description: How to do performance reviews the Mattermost way.
 
 # Performance Reviews
 
-## What is the purpose of a performance review?
+## Why are performance reviews important? 
 
-Performance reviews occur annually during the last two months of the calendar year. Every component of the review process reflects the following priorities
+The responsibility of a manager is to increase the total output of the organizations they control and the organizations they influence. 
 
-* **Increase output** - Empower staff to unlock their potential by identifying and addressing their two most significant opportunities to increase performance.
-* **Recognize Performance** - Provide a clear, fact-based recognition of a staff member's performance.
-* **Calibrate** - Provide a periodic opportunity for calibrating of level and/or local market compensation using a consistent, company-wide system.
-* **Reflect Core Values** - align performance metrics to [Leadership Principles](https://handbook.mattermost.com/company/about-mattermost#leadership-principles). 
+The purpose of a performance review is to assess a colleague's performance, have the colleague clearly understand how to progress professionally in the opinion of the manager, and hold the colleague accountable for increasing their performance based on the assessment and feedback. 
+
+It is one of the most difficult things a people manager needs to do, it is also one of the most important. 
+
+### Other than increasing output, what are other objectives of performance reviews? 
+
+The primary goal of performance reviews is to increase the output of colleagues and of the organization. 
+
+The process also serves to align our actions to [Mattermost Leadership Principles](../../../company/about-mattermost/#leadership-principles), which are used as the criteria for peer-evaluation, and to calibrate role levels with a colleague's, which may result in level-based promotions and compensation adjustments or if level expectations are repeatedly not met, changes in role. 
 
 ## **High Output Management**
 
