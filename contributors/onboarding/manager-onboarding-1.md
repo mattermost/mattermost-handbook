@@ -24,7 +24,7 @@ We strive to provide a smooth onboarding experience that enables new colleagues 
 
 * Complete the [department onboarding template](https://handbook.mattermost.com/contributors/onboarding/staff-on-boarding-guide#departmental-onboarding-checklists) prior to your new staff member's start date. 
 * Assign an Onboarding Peer \(Link w/ description to come\). Managers should ask permission of a potential Onboarding Peer prior to assignment. 
-* 60 - Day New Hire Review \(Link with description to come\). Managers will need to select the 4-6 peers to provide peer review feedback. 
+* 90 - Day New Hire Review \(Link with description to come\). Managers will need to select the 4-6 peers to provide peer review feedback. 
 
 ### **Performance Management**
 
