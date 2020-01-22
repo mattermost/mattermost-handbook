@@ -46,7 +46,7 @@ Mattermost Templated Agreements \(MTAs\) have significant reduced risk and in ge
 Examples include: 
 
 * Mattermost Mutual Non-disclosure Agreement \(link needed\)
-* Mattermost U.S. Consulting Agreement  
+* [Mattermost U.S. Consulting Agreement  ](https://handbook.mattermost.com/operations/finance/risk-management/mattermost-templated-agreements#mattermost-u-s-consulting-agreements)
 
 ### Custom Agreements
 
