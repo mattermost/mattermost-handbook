@@ -53,11 +53,6 @@ MLT Daily Admin consists of:
         <p></p>
         <ul>
           <li>Change in expectations (e.g. something may not delivered)</li>
-          <li>
-            <p>Information needing emphasis (e.g. press item, staff change)</p>
-            <p></p>
-            <p>Note: Standup post should include links when appropriate</p>
-          </li>
         </ul>
       </td>
       <td style="text-align:left">
