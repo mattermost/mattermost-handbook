@@ -88,7 +88,8 @@
 * [Finance](operations/finance/README.md)
   * [Naming Files and Agreements](operations/finance/naming-files-and-agreements.md)
   * [Procurement](operations/finance/procurement.md)
-  * [Risk Management in Agreements](operations/finance/risk-management.md)
+  * [Risk Management in Agreements](operations/finance/risk-management/README.md)
+    * [Mattermost Templated Agreements](operations/finance/risk-management/mattermost-templated-agreements.md)
 
 ## Contributors
 

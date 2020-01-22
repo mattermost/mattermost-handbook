@@ -41,12 +41,12 @@ Risk levels are most commonly addressed in agreements of the following types:
 
 ### Mattermost Templated Agreement 
 
-Mattermost Templated Agreements \(MTAs\) have significant reduced risk and in general can be reviewed and executed within 1 business day. MTA Consulting Agreements should follow the [Offer Approval Request](https://docs.google.com/document/d/13qedU9kGdn9_d1WHK2oSAhttps://docs.google.com/document/d/13qedU9kGdn9_d1WHK2oSAKxRvO6ajIGKXI2DEQ--b7M/editKxRvO6ajIGKXI2DEQ--b7M/edit).
+Mattermost Templated Agreements \(MTAs\) have significant reduced risk and in general can be reviewed and executed within 1 business day. 
 
 Examples include: 
 
 * Mattermost Mutual Non-disclosure Agreement \(link needed\)
-* Mattermost U.S. Consulting Agreement \(link needed\)
+* Mattermost U.S. Consulting Agreement  
 
 ### Custom Agreements
 
@@ -66,11 +66,11 @@ The following summarizes the process for review and risk acceptance on any agree
 
 ### Legal Review and Approval \("LRA"\) 
 
-This step is not required for [MTAs](risk-management.md#mattermost-templated-agreement), only custom agreements.  
+This step is not required for [MTAs](./#mattermost-templated-agreement), only custom agreements.  
   
 Legal review and approval is required for all custom agreements and department heads should ensure their teams plan their work to provide at least 1-2 week for the review of any custom contracts. 
 
-If a department head anticipates more than 3-5 custom contracts of similar types \(e.g. advertising purchase agreements\), they should inform procurement in advance to create an [MTA](risk-management.md#mattermost-templated-agreement) to speed contract execution. 
+If a department head anticipates more than 3-5 custom contracts of similar types \(e.g. advertising purchase agreements\), they should inform procurement in advance to create an [MTA](./#mattermost-templated-agreement) to speed contract execution. 
 
 ### Risk Acceptance \("RA"\) 
 
@@ -95,7 +95,7 @@ HR-related agreements should not be executed using the company-controlled DocuSi
 
 | Agreement | Risk Types | Risk Acceptance \(Initial\) | Final Company Approval \(Signature\) |
 | :--- | :--- | :--- | :--- |
-| U.S. W-2 Employee MTA | [IP, tax, liability, export compliance](risk-management.md#risk-types) | DirHR or VPF | CEO |
+| U.S. W-2 Employee MTA | [IP, tax, liability, export compliance](./#risk-types) | DirHR or VPF | CEO |
 
 #### General Agreements 
 
@@ -103,5 +103,5 @@ The following table summarizes general agreements to be completed via company-co
 
 | Agreement  | Risk Types | Risk Acceptance \(Initial\) | Final Company Approval \(Signature\) |
 | :--- | :--- | :--- | :--- |
-| Banking Agreement  | [Business risk, system security ](risk-management.md#risk-types) | DirAccounting or VPF | CEO |
+| Banking Agreement  | [Business risk, system security ](./#risk-types) | DirAccounting or VPF | CEO |
 
