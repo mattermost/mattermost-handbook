@@ -6,17 +6,23 @@ description: 1% DRAFT
 
 **Effective Date:** January 24, 2020 \(proposed\)
 
-As the Company grows there are legal matters, costs, and overall visibility into what staff members are signing up for and the reason. This process is to empower you to get back to doing what you do best at Mattermost. This process is to foster awareness and highlight the key steps to moving vendor contracts through the review cycle with minimal disruption to your day to day. To do this, we need your help to address the items and systems we need as a Company. Our goal of defining the purchasing process is to guide decision support by reducing time in executing a contract, while maintaining equitable terms and conditions \(T&Cs\) that derisk Mattermost.
+As the Company grows there are legal matters, costs, and overall visibility into what staff members are signing up for and the reason. This process is to empower you to get back to doing what you do best at Mattermost. This process is to foster awareness and highlight the key steps to moving vendor contracts through the review cycle with minimal disruption to your day to day. To do this, we need your help to address the items and systems we purchase on behalf of the company. Our goal of defining the purchasing process is to guide decision support by reducing the time to execute a contract, while maintaining equitable terms and conditions \(T&Cs\) that derisk Mattermost.
 
 ### Who is Impacted?
 
-All Mattermost Staff Members, including our CEO, are guided to follow this process. Team members can purchase goods and services on behalf of the company in accordance with the [Authorization Matrix](https://docs.google.com/spreadsheets/d/1fDIMiO0uydB_1zCUxZ4sGfSnBJ0P_49zbeQGgTqbYPI/edit?usp=sharing). Please note from time to time the matrix may be updated so please always reference the most current matrix. 
+All Mattermost Staff Members, including our CEO, who are spending money or signing Mattermost up to T&Cs should follow this process.  
 
-## Procuring A Vendor
+## Procuring a Vendor
 
-#### TL;DR
+### TL;DR
 
-If you are spending money or signing Mattermost up to T&Cs, complete the [Purchase Order Form](https://docs.google.com/forms/d/e/1FAIpQLSd0zdXhAxYcH59wDnUoprgDi3aLdMBk3K3d3nNSmsqB2jtwAw/viewform?usp=sf_link). This will kick-off the order requisition process and a Purchase Order Number \(PO-\#\) will be assigned. Be sure to follow [Authorization Matrix](https://docs.google.com/spreadsheets/d/1fDIMiO0uydB_1zCUxZ4sGfSnBJ0P_49zbeQGgTqbYPI/edit?usp=sharing) when requesting spend approval.  Once a PO-\# is prepared, any T&Cs will go to Legal to review. Using [Mattermost T&Cs](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-3-legal-review-and-approval) will always be a faster turn around time. We can usually provision a signed contract within 24 hours. Using non-standard or vendor papered T&Cs will exponentially increase review. On average it takes 2-3 weeks. Finally, if spend and legal terms have been accepted, ensure your vendor references the PO-\# on all invoices.
+* \*\*\*\*[**Step 1**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-1-send-for-budget-approval): Complete the [Purchase Order Form](https://docs.google.com/forms/d/e/1FAIpQLSd0zdXhAxYcH59wDnUoprgDi3aLdMBk3K3d3nNSmsqB2jtwAw/viewform?usp=sf_link) to get spend approval. This will kick-off the order requisition process and a Purchase Order Number \(PO-\#\) will be assigned
+* \*\*\*\*[**Step 2**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-2-request-contract-from-vendor): If not an [MTA](https://handbook.mattermost.com/operations/finance/risk-management#mattermost-templated-agreement), request and send contracts to the [Procurement Team](mailto:procurement@mattermost.com)
+* \*\*\*\*[**Step 3**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-3-legal-review-and-approval): [LRA](https://handbook.mattermost.com/operations/finance/risk-management#mattermost-templated-agreement)
+* \*\*\*\*[**Step 4**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-4-send-for-internal-signature): Send document for be signed  internally
+* \*\*\*\*[**Step 5**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-5-send-signed-contract-for-counter-signature): Obtain a counter-signed document
+* \*\*\*\*[**Step 6**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-6-upload-completed-contract): Send the final counter-signed agreement to the [Procurement Team](mailto:procurement@mattermost.com)
+* \*\*\*\*[**Step 7**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-7-vendor-on-boarding-and-invoice-processing): Follow the vendor on-boarding process
 
 ### Step 1: Send for Budget Approval
 
@@ -81,6 +87,10 @@ All contracts are to address either Ian Tien \(CEO\) or Aneal Vallurupalli \(VP 
   </tbody>
 </table> \* Ian Tien or Aneal Vallurupalli’s personal phone number should not be used
 
+#### Is Your Contract an [MTA](https://handbook.mattermost.com/operations/finance/risk-management#mattermost-templated-agreement)?
+
+A signed [MTA](https://handbook.mattermost.com/operations/finance/risk-management#mattermost-templated-agreement) can usually be provisioned  within 24 hours from request. Using non-standard or vendor papered T&Cs will exponentially increase review. On average it takes 2-3 weeks.
+
 #### Is Your Contract or Agreement an Addendum?
 
 If the agreement is an addendum to the original contract that has already been approved and the addendum does not change pricing, then spend approval is not required again. Instead, please send the addendum attached to the original [Purchase Order Form](https://docs.google.com/forms/d/e/1FAIpQLSd0zdXhAxYcH59wDnUoprgDi3aLdMBk3K3d3nNSmsqB2jtwAw/viewform?usp=sf_link) email to [Procurement Team](mailto:Procurement@mattermost.com) to be reviewed by legal. There is no need to follow Step 2 onward.
@@ -89,9 +99,9 @@ If the agreement is an addendum to the original contract that has already been a
 
 If the original contract has already been approved by legal and you are submitting a new order form that only impacts pricing, create a new issue by completing the [Purchase Order Form](https://docs.google.com/forms/d/e/1FAIpQLSd0zdXhAxYcH59wDnUoprgDi3aLdMBk3K3d3nNSmsqB2jtwAw/viewform?usp=sf_link). Additional legal review will not be required. 
 
-### Step 3: Legal Review and Approval
+### Step 3: [Legal Review and Approval](https://handbook.mattermost.com/operations/finance/risk-management#legal-review-and-approval-lra)
 
-Legal review is required for most contracts unless the contract adopts Mattermost’s Standard T&Cs.
+Legal review is required for most contracts unless the contract adopts Mattermost’s Standard T&Cs or [MTA](https://handbook.mattermost.com/operations/finance/risk-management#mattermost-templated-agreement).
 
 **\[PLACEHOLDER - Link to Standard T&Cs\]**
 
@@ -115,7 +125,7 @@ Once a contract is signed by Mattermost, a PDF version will be sent to the Vendo
 
 ### Step 6: Upload Completed Contract
 
-Send the final countersigned contract to the Procurement Team to file away
+Send the final countersigned contract to the [Procurement Team](mailto:%20procurement@mattermost.com) to file away
 
 ### Step 7: Vendor On-boarding and Invoice Processing
 
