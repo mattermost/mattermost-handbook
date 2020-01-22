@@ -15,7 +15,7 @@ MatterCon is **not** a mandatory trip or a department offsite, nor is it a vacat
 Our goal is to increase the share of Mattermost in the market by increasing effectiveness, efficiency and communication of our organization through:   
   
 a\) Building and strengthening relationships    
-b\) Increasing understanding of objectives, process and domain topics   
+b\) Increasing alignment through understanding of objectives, process and domain topics   
 c\) Reflecting on and improving processes and plans   
 d\) Creating a fun culture for contributors and team members   
 e\) Breaking down work barriers and become more empathetic for team and community members around the world
