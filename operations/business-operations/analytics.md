@@ -62,6 +62,7 @@ _What the customer bought normalized for one year length & reoccurs for length o
 
 Example: 
 
+* Opportunity: [Mycroft Ai-e10-5000-NP-2019renewal-3yr](https://mattermost.lightning.force.com/lightning/r/Opportunity/0063600000eRMmcAAG/view)
 * Close Date: 2019-05-07
 * Amount = $250
 * Start Date: 2019-06-15
