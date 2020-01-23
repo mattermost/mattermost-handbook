@@ -88,7 +88,7 @@
 * [Finance](operations/finance/README.md)
   * [Naming Files and Agreements](operations/finance/naming-files-and-agreements.md)
   * [Procurement](operations/finance/procurement.md)
-  * [Risk Management in Agreements](operations/finance/risk-management.md)
+  * [Risk Management in Agreements](operations/finance/risk-management/README.md)
     * [Mattermost Templated Agreements](operations/finance/risk-management/mattermost-templated-agreements.md)
 
 ## Contributors
@@ -103,8 +103,8 @@
   * [Manager Onboarding - 1%](contributors/onboarding/manager-onboarding-1.md)
   * [Frequently Asked Questions](contributors/onboarding/frequently-asked-questions.md)
   * [R&D Onboarding](contributors/onboarding/r-and-d-onboarding.md)
-* [MatterCon](mattercon/README.md)
-  * [Mattermost Code of Conduct](mattercon/mattermost-code-of-conduct.md)
-* [Product Planning](product-planning/README.md)
-  * [Incident Response](product-planning/incident-response.md)
+* [MatterCon](contributors/mattercon/README.md)
+  * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
+* [Product Planning](contributors/product-planning/README.md)
+  * [Incident Response](contributors/product-planning/incident-response.md)
 

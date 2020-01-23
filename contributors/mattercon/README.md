@@ -6,7 +6,7 @@ MatterCon 2020 will be help Feb 19 - 24, 2020 at the Melia Nassau Beach resort i
 
 ## What, where, and when
 
-We try to get together every 12 months or so to get face-time with one another, build community, reinforce our [leadership principles](../company/about-mattermost/#leadership-principles), and get some work done! Since our team is scattered all over the globe, we try to plan a different location for each MatterCon.
+We try to get together every 12 months or so to get face-time with one another, build community, reinforce our [leadership principles](../../company/about-mattermost/#leadership-principles), and get some work done! Since our team is scattered all over the globe, we try to plan a different location for each MatterCon.
 
 MatterCon is **not** a mandatory trip or a department offsite, nor is it a vacation or incentive trip. It's a chance for everyone to meet fellow Mattermost team-members across all departments and regions: part team building, part education, part community building, and hopefully all fun. This is a work trip with fun mixed in.
 

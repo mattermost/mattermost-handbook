@@ -22,9 +22,30 @@ WIP - [Mattermost Data & Metric Availability](https://docs.google.com/spreadshee
 
 ## Mattermost Top Line Numbers
 
-### ARR \(Annual Recurring Revenue\)
+### Finance
+
+#### TCV \(Total Contract Value\)
+
+_What the customer bought_
+
+* TCV measures revenue from across the entire contract a customer signs
+* Recognized **only** in the Closed Won Month
+* `TCV = Total Contract Value`
+
+#### ACV \(Annual Contract Value\)
+
+_What the customer bought normalized for one year length_
+
+* ACV is the value of subscription revenue from each contracted customer, normalized to a one-year period
+* Recognized **only** in the Closed Won Month
+* `ACV = (Total Contract Value / (End Date - Start Date)) * 365`
+
+#### ARR \(Annual Recurring Revenue\)
+
+_What the customer bought normalized for one year length & reoccurs for length of contract_
 
 * ARR is the value of the contracted recurring revenue of your term subscriptions normalized to a one-year period
+* Recognized from **start to end** of contract
 * `ARR = (Total Contract Value / (End Date - Start Date)) * 365`
 * [ARR Overview Dashboard](https://mattermost.looker.com/dashboards/14): Overview of Mattermost ARR
 * ARR increases and decreases based on the following categories of change:
@@ -36,6 +57,17 @@ WIP - [Mattermost Data & Metric Availability](https://docs.google.com/spreadshee
 * Additional ARR Resources
   * [Current FY Closed Won Opportunities TCV & ARR](https://mattermost.looker.com/dashboards/2)
   * [FY21 Renewal ARR Overview](https://mattermost.looker.com/dashboards/9)
+
+#### TCV vs. ACV vs. ARR
+
+Example: 
+
+* Close Date: 2019-05-07
+* Amount = $250
+* Start Date: 2019-06-15
+* End Date: 2022-06-14
+
+![](../../.gitbook/assets/screen-shot-2020-01-23-at-12.40.16-pm.png)
 
 ### Downloads \(WIP\)
 
