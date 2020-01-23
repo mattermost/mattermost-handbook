@@ -14,9 +14,9 @@ For U.S. states not on the above list, the recruiting team should provide at lea
 
 To add a new U.S. State please DM @tim.quock to provide finance advanced notice and if a lead time of more than 3 weeks may be needed. 
 
-## We are not yet able to hire in the following countries
+## We are not yet able to hire in the following regions/countries
 
-We're continuing to find ways to hire in more regions, here's ones that are more difficult than others:   
+We're continuing to find ways to hire in more regions/countries, here's ones that are more difficult than others:   
   
 Brazil, Iran, Russian Federation, China, Syria, Lebanon, North Korea
 
