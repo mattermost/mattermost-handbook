@@ -54,7 +54,7 @@ WIP - [Mattermost Data & Metric Availability](https://docs.google.com/spreadshee
   * NPS ranges from -100 (if every customer is a Detractor) to 100 (if every customer is a Promoter)
 * Mattermost's NPS is based off of a 1-10 ranking provided by customers
   * If a customer provides a ranking more than once in a day, we take the last ranking of the day for NPS
-* [NPS Overview](https://mattermost.looker.com/dashboards/16)
+* [NPS Dashboard](https://mattermost.looker.com/dashboards/16)
 
 #### TEDAU \(WIP\)
 
