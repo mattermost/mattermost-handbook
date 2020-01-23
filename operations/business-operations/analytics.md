@@ -22,6 +22,30 @@ WIP - [Mattermost Data & Metric Availability](https://docs.google.com/spreadshee
 
 ## Mattermost Top Line Numbers
 
+### Contact Us \(WIP\)
+
+### Contributors \(WIP\)
+
+#### GitHub Contributors
+
+* Members of the open source community with contributions to Mattermost GitHub repositories
+* Definitions:
+  * First Time Contributors: The first month someone contributes, they considered a First Time Contributor the whole month.
+  * Old Contributors: Anyone that is not a First Time Contributor
+  * First Contribution: The first contribution ever made by someone. Any following contributions will not be considered a First Contribution
+  * Examples:
+    * Person A
+      * 2019-01-02 Contribution 1
+      * 2019-01-04 Contribution 2
+      * 2019-01-05 Contribution 3
+    * Would count as
+      * 1 First Time Contributor + 1 First Time contribution + 2 Non First Contributions
+* [GitHub Contributors Dashboard](https://mattermost.looker.com/dashboards/15)
+
+### Downloads \(WIP\)
+
+* [Downloads Dashboard](https://mattermost.looker.com/dashboards/11)
+
 ### Finance
 
 #### TCV \(Total Contract Value\)
@@ -67,32 +91,6 @@ Example:
 * Amount = $250
 * Start Date: 2019-06-15
 * End Date: 2022-06-14
-
-![](../../.gitbook/assets/screen-shot-2020-01-23-at-12.40.16-pm.png)
-
-### Downloads \(WIP\)
-
-* [Downloads Dashboard](https://mattermost.looker.com/dashboards/11)
-
-### Contact Us \(WIP\)
-
-### Contributors \(WIP\)
-
-#### GitHub Contributors
-
-* Members of the open source community with contributions to Mattermost GitHub repositories
-* Definitions:
-  * First Time Contributors: The first month someone contributes, they considered a First Time Contributor the whole month.
-  * Old Contributors: Anyone that is not a First Time Contributor
-  * First Contribution: The first contribution ever made by someone. Any following contributions will not be considered a First Contribution
-  * Examples:
-    * Person A
-      * 2019-01-02 Contribution 1
-      * 2019-01-04 Contribution 2
-      * 2019-01-05 Contribution 3
-    * Would count as
-      * 1 First Time Contributor + 1 First Time contribution + 2 Non First Contributions
-* [GitHub Contributors Dashboard](https://mattermost.looker.com/dashboards/15)
 
 ### Google Analytics \(WIP\)
 
