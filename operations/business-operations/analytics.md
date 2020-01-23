@@ -45,6 +45,17 @@ WIP - [Mattermost Data & Metric Availability](https://docs.google.com/spreadshee
 
 #### NPS \(WIP\)
 
+* Net Promoter Score (NPS) measures customer experience and predicts business growth
+* Respondents are grouped as follows:
+  * Promoters (score 9-10) are loyal enthusiasts who will keep buying and refer others, fueling growth
+  * Passives (score 7-8) are satisfied but unenthusiastic customers who are vulnerable to competitive offerings
+  * Detractors (score 0-6) are unhappy customers who can damage your brand and impede growth through negative word-of-mouth
+* Net Promoter Score = % Promoters - % Detractors
+  * NPS ranges from -100 (if every customer is a Detractor) to 100 (if every customer is a Promoter)
+* Mattermost's NPS is based off of a 1-10 ranking provided from customers
+  * If a customer provides a ranking more than once in a day, we take the last ranking of the day for NPS
+* [NPS Overview](https://mattermost.looker.com/dashboards/16)
+
 #### TEDAU \(WIP\)
 
 #### Contributors \(WIP\)
