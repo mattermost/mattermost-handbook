@@ -4,7 +4,7 @@ description: 'Owner: Rachel Bradley-Haas'
 
 # Analytics
 
-Business Operations, Data Engineering, and Analytics functions were started in December and are ever evolving. Because of how new we are, eveything on this page is currently WIP.
+Business Operations, Data Engineering, and Analytics functions were started in December and are ever evolving. Because of how new we are, everything on this page is currently WIP.
 
 We are currently focused on:
 
@@ -20,9 +20,9 @@ WIP - [Mattermost Metrics Google Sheet](https://docs.google.com/spreadsheets/d/1
 
 WIP - [Mattermost Data & Metric Availability](https://docs.google.com/spreadsheets/d/1GRB6hr_eSSVcFFAQkimZ6VE0EtobkPq6iKl027G9Mig/edit?usp=sharing)
 
-### Mattermost Top Line Numbers
+## Mattermost Top Line Numbers
 
-#### ARR \(Annual Recurring Revenue\)
+### ARR \(Annual Recurring Revenue\)
 
 * ARR is the value of the contracted recurring revenue of your term subscriptions normalized to a one-year period
 * `ARR = (Total Contract Value / (End Date - Start Date)) * 365`
@@ -37,13 +37,19 @@ WIP - [Mattermost Data & Metric Availability](https://docs.google.com/spreadshee
   * [Current FY Closed Won Opportunities TCV & ARR](https://mattermost.looker.com/dashboards/2)
   * [FY21 Renewal ARR Overview](https://mattermost.looker.com/dashboards/9)
 
-#### Downloads \(WIP\)
+### Downloads \(WIP\)
 
-#### Contact Us \(WIP\)
+### Contact Us \(WIP\)
 
-#### Trials \(WIP\)
+### Contributors \(WIP\)
 
-#### Net Promoter Score \(NPS\) \(WIP\)
+### Google Analytics \(WIP\)
+
+* [Traffic & Organic Google Search](https://mattermost.looker.com/dashboards/5)
+
+### Hiring \(WIP\)
+
+### Net Promoter Score \(NPS\) \(WIP\)
 
 * Net Promoter Score \(NPS\) measures customer experience and predicts business growth
 * Respondents are grouped as follows:
@@ -56,13 +62,9 @@ WIP - [Mattermost Data & Metric Availability](https://docs.google.com/spreadshee
   * If customers provide rankings 2+ times in a day, the last ranking of the day is used for NPS
 * [NPS Dashboard](https://mattermost.looker.com/dashboards/16)
 
-#### TEDAU \(WIP\)
+### TEDAU \(WIP\)
 
-#### Contributors \(WIP\)
+### Trials \(WIP\)
 
-#### Google Analytics \(WIP\)
 
-* [Traffic & Organic Google Search](https://mattermost.looker.com/dashboards/5)
-
-#### Hiring \(WIP\)
 
