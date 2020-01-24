@@ -1,7 +1,5 @@
 # Metrics Definitions
 
-
-
 ### Contact Us \(WIP\)
 
 * 
