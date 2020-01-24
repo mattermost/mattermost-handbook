@@ -1,11 +1,11 @@
 # Metrics Definitions
 
-### Contact Us \(WIP\)
+## Contact Us \(WIP\)
 
 * 
-### Contributors \(WIP\)
+## Contributors \(WIP\)
 
-#### GitHub Contributors
+### GitHub Contributors
 
 * Members of the open source community with contributions to Mattermost GitHub repositories
 * Definitions:
@@ -20,14 +20,14 @@
     * Would count as
       * 1 First Time Contributor + 1 First Time contribution + 2 Non First Contributions
 
-### Downloads \(WIP\)
+## Downloads \(WIP\)
 
 * 
-### Finance
+## Finance
 
 Financial numbers cater to a wide range of teams. Below you will find information on ACV, TCV, and ARR. **ACV & TCV are relevant to Sales and ARR relevant to Finance and CS.**
 
-#### TCV \(Total Contract Value\)
+### TCV \(Total Contract Value\)
 
 _**What the customer bought**_
 
@@ -35,7 +35,7 @@ _**What the customer bought**_
 * Recognized **only** in the Closed Won Month
 * `TCV = Total Contract Value`
 
-#### ACV \(Annual Contract Value\)
+### ACV \(Annual Contract Value\)
 
 _**What the customer bought normalized for one year length**_
 
@@ -43,7 +43,7 @@ _**What the customer bought normalized for one year length**_
 * Recognized **only** in the Closed Won Month
 * `ACV = (Total Contract Value / (End Date - Start Date)) * 365`
 
-#### ARR \(Annual Recurring Revenue\)
+### ARR \(Annual Recurring Revenue\)
 
 _**What the customer bought normalized for one year length & reoccurs for length of contract**_
 
@@ -56,7 +56,7 @@ _**What the customer bought normalized for one year length & reoccurs for length
   * Contraction: Decrease in ARR by an Account - Caused by seat decrease, price decrease, or product downgrade
   * Churn: Decrease in ARR to $0 by an Account - Caused by an Account moving completely off of Mattermost
 
-#### TCV vs. ACV vs. ARR
+### TCV vs. ACV vs. ARR
 
 Example: 
 
@@ -72,12 +72,25 @@ Example:
 
 ![](../../../.gitbook/assets/image%20%2847%29.png)
 
-### Google Analytics \(WIP\)
+## Google Analytics \(WIP\)
 
-* 
-### Hiring \(WIP\)
+### Existing Accounts
 
-### Net Promoter Score \(NPS\) \(WIP\)
+1. mattermost.com
+2. about.mattermost.com \(old mattermost.com\)
+3. mattermost.org
+4. developers.mattermost.com
+5. integrations.mattermost.com
+6. docs.mattermost.com
+7. handbook.mattermost.com
+8. licensing.mattermost.com
+9. mattermost.gitbook.io/jira-plugin
+10. pre-release.mattermost.com \(which is old community.mattermost.com\)
+11. mattermost.zendesk.com
+
+## Hiring \(WIP\)
+
+## Net Promoter Score \(NPS\) \(WIP\)
 
 * Net Promoter Score \(NPS\) measures customer experience and predicts business growth
 * Respondents are grouped as follows:
@@ -89,9 +102,9 @@ Example:
 * Mattermost's NPS is based off of a 1-10 ranking provided by customers
   * If customers provide rankings 2+ times in a day, the last ranking of the day is used for NPS
 
-### TEDAU \(WIP\)
+## TEDAU \(WIP\)
 
 * 
-### Trials \(WIP\)
+## Trials \(WIP\)
 
 * 
