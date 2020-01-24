@@ -28,7 +28,7 @@ When choosing what to highlight in the screenshot, follow this order:
   * Tip: Close the right-hand sidebar, and close the team sidebar by leaving all but one team.
 * **Visuals:**
   * Profile pictures and real people’s names should be filled out throughout the screenshot.
-  * For the profile picture, use either normal-looking Avatars or stock photography.
+  * For the profile picture, use either normal-looking Avatars or stock photography from [istockphoto.com](https://www.istockphoto.com/).
   * Select the default "Mattermost" theme color in **Account Settings &gt; Theme**.
 * **Left-hand side:**
   * Include Favorite, Public, and Private channels on the left-hand side.
