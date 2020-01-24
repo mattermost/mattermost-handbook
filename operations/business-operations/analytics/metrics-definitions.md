@@ -65,10 +65,10 @@ Example:
 * Amount = $250
 * Start Date: 2019-06-15
 * End Date: 2022-06-14
-* Graph below shows:
+* Metrics Breakdown \(see graph below\):
   * ACV one-time $83 in May 2019 
   * TCV one-time $250 in May 2019 
-  * ARR starts in June 2019 and continues until the end of the contact \(June 2022\).
+  * ARR $83 from June 2019 until June 2022
 
 ![](../../../.gitbook/assets/image%20%2847%29.png)
 
