@@ -114,6 +114,20 @@ Every code change added has an initial and on-going mana cost in technical debt,
 
 The “Mattermost Leadership Team”, senior leadership team and department heads working with the CEO in [MLT meetings and offsites](../../operations/operations/mlt-cadence/). 
 
+### Nerfs and Buffs
+
+Nerfs and buffs are the framework for setting culture at Mattermost.   
+  
+A "nerf" is a downgrade experience as the result of a behavior. For example, if half of a team is travelling to a conference and holds a team meeting in a hotel room, where remote colleagues can't see everyone in the room and audio is low quality, the team is "nerfing" their remote. They people in the hotel room are downgrading the experience of their remote colleagues.   
+  
+Under this framework, we want to discourage behavior that nerfs remote work--so if your team is in-person meeting with remote colleagues, please split-up to take the call from separate areas so everyone can be seen and heard.   
+  
+A "buff" is an upgrade experience as the result of a behavior. If a remote team is meeting on a topic with a clear, concise written proposal requesting asynchronous feedback, people who share high quality feedback asynchronously ahead of the meeting may have out-sized influence on iterations of the document ahead of the meeting, compared to people who don't provide asynchronous feedback ahead of the meeting. 
+
+Here we want to buff asynchronous communication by focusing review on asynchronous comments ahead of live comments.
+
+Culture is the set of behaviors that are nerfed and buffed. As a remote-first culture we want to buff behavior that promotes asynchronous communication and remote work. We want to nerf behavior that creates unnecessary synchronous meetings. 
+
 ### Open actions 
 
 Term for publicly documenting information in a web-discoverable format \(GitHub Issue, Staff Handbook entry, forum post, etc.\) prior to sharing guidance to staff and community members. We prefer open actions to [dark actions](list-of-terms.md#dark-actions). 
