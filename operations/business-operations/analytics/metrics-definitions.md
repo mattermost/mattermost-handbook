@@ -1,26 +1,6 @@
----
-description: 'Owner: Rachel Bradley-Haas'
----
+# Metrics Definitions
 
-# Analytics
 
-Business Operations, Data Engineering, and Analytics functions were started in December and are ever evolving. Because of how new we are, everything on this page is currently WIP.
-
-We are currently focused on:
-
-* Data collection
-* Mapping data to business logic
-* Data modeling
-* Looker \(data visualization tool replacing Chartio\)
-* Automating Metrics
-
-## Automating Metrics
-
-WIP - [Mattermost Metrics Google Sheet](https://docs.google.com/spreadsheets/d/1_AuT_ZwKRK-_BEUgmDoHkuIZQEnuzyb6sNpnUQkWOOQ/edit?usp=sharing)
-
-WIP - [Mattermost Data & Metric Availability](https://docs.google.com/spreadsheets/d/1GRB6hr_eSSVcFFAQkimZ6VE0EtobkPq6iKl027G9Mig/edit?usp=sharing)
-
-## Metrics Definitions
 
 ### Contact Us \(WIP\)
 
@@ -47,11 +27,11 @@ WIP - [Mattermost Data & Metric Availability](https://docs.google.com/spreadshee
 * 
 ### Finance
 
-Financial numbers cater to a wide range of teams. Some are meanth Sales, others meant for CS, and some for just relevent to our Finance team. Below you will find information on ACV, TCV, and ARR. **ACV & TCV are relevent to Sales and ARR relevent to Finance and CS.**
+Financial numbers cater to a wide range of teams. Below you will find information on ACV, TCV, and ARR. **ACV & TCV are relevant to Sales and ARR relevant to Finance and CS.**
 
 #### TCV \(Total Contract Value\)
 
-_What the customer bought_
+_**What the customer bought**_
 
 * TCV measures revenue from across the entire contract a customer signs
 * Recognized **only** in the Closed Won Month
@@ -59,7 +39,7 @@ _What the customer bought_
 
 #### ACV \(Annual Contract Value\)
 
-_What the customer bought normalized for one year length_
+_**What the customer bought normalized for one year length**_
 
 * ACV is the value of subscription revenue from each contracted customer, normalized to a one-year period
 * Recognized **only** in the Closed Won Month
@@ -67,7 +47,7 @@ _What the customer bought normalized for one year length_
 
 #### ARR \(Annual Recurring Revenue\)
 
-_What the customer bought normalized for one year length & reoccurs for length of contract_
+_**What the customer bought normalized for one year length & reoccurs for length of contract**_
 
 * ARR is the value of the contracted recurring revenue of your term subscriptions normalized to a one-year period
 * Recognized from **start to end** of contract
@@ -88,10 +68,11 @@ Example:
 * Start Date: 2019-06-15
 * End Date: 2022-06-14
 * Graph below shows:
-  * The ACV and TCV only occur in May 2019
+  * ACV one-time $83 in May 2019 
+  * TCV one-time $250 in May 2019 
   * ARR starts in June 2019 and continues until the end of the contact \(June 2022\).
 
-![](../../.gitbook/assets/screen-shot-2020-01-23-at-12.40.16-pm.png)
+![](../../../.gitbook/assets/image%20%2847%29.png)
 
 ### Google Analytics \(WIP\)
 
@@ -116,47 +97,3 @@ Example:
 ### Trials \(WIP\)
 
 * 
-## Looker
-
-### What is it?
-
-Looker is a business intelligence software and big data analytics platform that helps you explore, analyze and share real-time business analytics easily.
-
-### Accessing Looker
-
-Looker is currently not GA at Mattermost. We are in the process of a slow rollout with only a few early adopters. While someone may send you a link or you are able to successfully log in, you will be dropped into a holding group with very limited access.
-
-If you feel you are meant to be part of the early adopter group and are unable to access Looker, please reach out to us in [BizOps](https://community.mattermost.com/private-core/channels/bizops).
-
-## Reports and Dashboard
-
- **\* Only available to Looker early adopters. Please see** [**Looker Section**](https://handbook.mattermost.com/operations/business-operations/analytics#looker)**.**
-
-### Community
-
-* [GitHub Contributors Dashboard](https://mattermost.looker.com/dashboards/15)\*
-
-### Finance
-
-* [ARR Overview Dashboard](https://mattermost.looker.com/dashboards/14)\*
-  * Overview of Mattermost ARR
-* [ARR Monthly Net Changes](https://mattermost.looker.com/looks/2?toggle=det)\*
-  * Monthly ARR Net Changes broken down by the four categories
-* [Current FY Closed Won Opportunities TCV & ARR](https://mattermost.looker.com/dashboards/2)\*
-* [FY21 Renewal ARR Overview](https://mattermost.looker.com/dashboards/9)\*
-
-### Product
-
-* [NPS Dashboard](https://mattermost.looker.com/dashboards/16)\*
-* TEDAU
-* TEDAS
-
-### Top of Funnel
-
-* [Traffic & Organic Google Search](https://mattermost.looker.com/dashboards/5)\*
-* [Downloads Dashboard](https://mattermost.looker.com/dashboards/11)\*
-* Contact Us
-* Trials
-
-
-
