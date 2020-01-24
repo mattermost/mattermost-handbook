@@ -14,16 +14,17 @@ We are currently focused on:
 * Looker \(data visualization tool replacing Chartio\)
 * Automating Metrics
 
-## Metrics
+## Automating Metrics
 
 WIP - [Mattermost Metrics Google Sheet](https://docs.google.com/spreadsheets/d/1_AuT_ZwKRK-_BEUgmDoHkuIZQEnuzyb6sNpnUQkWOOQ/edit?usp=sharing)
 
 WIP - [Mattermost Data & Metric Availability](https://docs.google.com/spreadsheets/d/1GRB6hr_eSSVcFFAQkimZ6VE0EtobkPq6iKl027G9Mig/edit?usp=sharing)
 
-## Mattermost Top Line Numbers
+## Metrics Definitions
 
 ### Contact Us \(WIP\)
 
+* 
 ### Contributors \(WIP\)
 
 #### GitHub Contributors
@@ -40,13 +41,13 @@ WIP - [Mattermost Data & Metric Availability](https://docs.google.com/spreadshee
       * 2019-01-05 Contribution 3
     * Would count as
       * 1 First Time Contributor + 1 First Time contribution + 2 Non First Contributions
-* [GitHub Contributors Dashboard](https://mattermost.looker.com/dashboards/15)
 
 ### Downloads \(WIP\)
 
-* [Downloads Dashboard](https://mattermost.looker.com/dashboards/11)
-
+* 
 ### Finance
+
+Financial numbers cater to a wide range of teams. Some are meanth Sales, others meant for CS, and some for just relevent to our Finance team. Below you will find information on ACV, TCV, and ARR. **ACV & TCV are relevent to Sales and ARR relevent to Finance and CS.**
 
 #### TCV \(Total Contract Value\)
 
@@ -71,16 +72,11 @@ _What the customer bought normalized for one year length & reoccurs for length o
 * ARR is the value of the contracted recurring revenue of your term subscriptions normalized to a one-year period
 * Recognized from **start to end** of contract
 * `ARR = (Total Contract Value / (End Date - Start Date)) * 365`
-* [ARR Overview Dashboard](https://mattermost.looker.com/dashboards/14): Overview of Mattermost ARR
 * ARR increases and decreases based on the following categories of change:
   * New: New Logo never seen before - Caused by a brand new and never before see Account signing a contract
   * Expansion: Increase in ARR by an Account - Caused by seat increase, price increase, or product upgrade
   * Contraction: Decrease in ARR by an Account - Caused by seat decrease, price decrease, or product downgrade
   * Churn: Decrease in ARR to $0 by an Account - Caused by an Account moving completely off of Mattermost
-* [ARR Monthly Net Changes](https://mattermost.looker.com/looks/2?toggle=det): Monthly ARR Net Changes broken down by the four categories above
-* Additional ARR Resources
-  * [Current FY Closed Won Opportunities TCV & ARR](https://mattermost.looker.com/dashboards/2)
-  * [FY21 Renewal ARR Overview](https://mattermost.looker.com/dashboards/9)
 
 #### TCV vs. ACV vs. ARR
 
@@ -91,11 +87,15 @@ Example:
 * Amount = $250
 * Start Date: 2019-06-15
 * End Date: 2022-06-14
+* Graph below shows:
+  * The ACV and TCV only occur in May 2019
+  * ARR starts in June 2019 and continues until the end of the contact \(June 2022\).
+
+![](../../.gitbook/assets/screen-shot-2020-01-23-at-12.40.16-pm.png)
 
 ### Google Analytics \(WIP\)
 
-* [Traffic & Organic Google Search](https://mattermost.looker.com/dashboards/5)
-
+* 
 ### Hiring \(WIP\)
 
 ### Net Promoter Score \(NPS\) \(WIP\)
@@ -109,11 +109,54 @@ Example:
   * NPS ranges from -100 \(every customer is a Detractor\) to 100 \(every customer is a Promoter\)
 * Mattermost's NPS is based off of a 1-10 ranking provided by customers
   * If customers provide rankings 2+ times in a day, the last ranking of the day is used for NPS
-* [NPS Dashboard](https://mattermost.looker.com/dashboards/16)
 
 ### TEDAU \(WIP\)
 
+* 
 ### Trials \(WIP\)
+
+* 
+## Looker
+
+### What is it?
+
+Looker is a business intelligence software and big data analytics platform that helps you explore, analyze and share real-time business analytics easily.
+
+### Accessing Looker
+
+Looker is currently not GA at Mattermost. We are in the process of a slow rollout with only a few early adopters. While someone may send you a link or you are able to successfully log in, you will be dropped into a holding group with very limited access.
+
+If you feel you are meant to be part of the early adopter group and are unable to access Looker, please reach out to us in [BizOps](https://community.mattermost.com/private-core/channels/bizops).
+
+## Reports and Dashboard
+
+ **\* Only available to Looker early adopters. Please see** [**Looker Section**](https://handbook.mattermost.com/operations/business-operations/analytics#looker)**.**
+
+### Community
+
+* [GitHub Contributors Dashboard](https://mattermost.looker.com/dashboards/15)\*
+
+### Finance
+
+* [ARR Overview Dashboard](https://mattermost.looker.com/dashboards/14)\*
+  * Overview of Mattermost ARR
+* [ARR Monthly Net Changes](https://mattermost.looker.com/looks/2?toggle=det)\*
+  * Monthly ARR Net Changes broken down by the four categories
+* [Current FY Closed Won Opportunities TCV & ARR](https://mattermost.looker.com/dashboards/2)\*
+* [FY21 Renewal ARR Overview](https://mattermost.looker.com/dashboards/9)\*
+
+### Product
+
+* [NPS Dashboard](https://mattermost.looker.com/dashboards/16)\*
+* TEDAU
+* TEDAS
+
+### Top of Funnel
+
+* [Traffic & Organic Google Search](https://mattermost.looker.com/dashboards/5)\*
+* [Downloads Dashboard](https://mattermost.looker.com/dashboards/11)\*
+* Contact Us
+* Trials
 
 
 
