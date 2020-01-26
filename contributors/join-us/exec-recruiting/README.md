@@ -123,3 +123,11 @@ Day 61-90
 Notes:  
  - Outside of a few exceptions, if on-boarding has been done properly and an executive isn't working well with the rest of the team at 60 days, things are unlikely to significantly improve.
 
+
+
+## Other 
+
+While we try to be as open as we can in our processes, there remains some information that if shared early could bias our decision making. For that reason, [we store confidential process information about exec recruiting in a permissions restricted G Doc. ](https://docs.google.com/document/d/1AKL2IvivMBihDUa9doAlaPNf97hKH2jNQbMCRkHQ1V4/edit)
+
+
+
