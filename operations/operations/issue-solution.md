@@ -32,7 +32,7 @@ A listing of stakeholders and their written feedback on whether they support or 
 
 ## Template
 
-See [Issue/Solution template](https://docs.google.com/document/d/1XDgumIgT525mH40dj24K3q_muIzJOVzHY5uVeg5OUkQ/edit).
+To use the [Issue/Solution template](https://docs.google.com/document/d/1XDgumIgT525mH40dj24K3q_muIzJOVzHY5uVeg5OUkQ/edit) create a copy, fill it in, and follow the process above with stakeholders. 
 
 
 
