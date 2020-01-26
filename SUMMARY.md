@@ -36,6 +36,7 @@
   * [Approvals and Iteration](operations/workplace/approvals-and-iteration.md)
 * [Areas of Responsibility](operations/areas-of-responsibility.md)
 * [Company Operations](operations/operations/README.md)
+  * [Issue/Solution](operations/operations/issue-solution.md)
   * [MLT Cadence](operations/operations/mlt-cadence/README.md)
     * [MLT Cadence V2MOM](operations/operations/mlt-cadence/mlt-cadence-vpmom.md)
   * [MLT Metrics](operations/operations/metrics.md)
