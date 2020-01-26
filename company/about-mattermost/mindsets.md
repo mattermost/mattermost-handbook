@@ -18,7 +18,7 @@ In this context, here are mindsets for Mattermost:
 
 **Learn** a new topic quickly, develop **mastery** \(be the smartest person at the team/company/community on the topic\), then **teach** it to someone who will start the cycle over.
 
-If you’re a strong teacher, their mastery should surpass yours. This mindset helps us constantly grow and rotate into new roles, while preventing “single-points of failure” where only one person is qualified for a certain task.
+The best teachers can speed colleagues to surpass them. This mindset helps us constantly grow and rotate into new roles, while preventing single-points of failure where only one person is qualified for a certain task.
 
 ### Slow is smooth, smooth is fast
 
