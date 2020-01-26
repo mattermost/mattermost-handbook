@@ -10,7 +10,7 @@ In many ways, Mattermost can be "the Olympics" of our professional careers, with
 
 At the same time, like star athletes, our growth and peak performance benefit greatly from the ability to interleave periods of exertion with periods of rest and reflection.
 
-Paid Time Off \("[PTO](../../../company/about-mattermost/list-of-terms.md#pto-or-paid-time-off)"\) is a process to help ensure our staff develop a strong practice of **self-care** by effectively rotating their time around work, family, friends and all the things that matter most to them.
+Paid Time Off \("[PTO](../../../../company/about-mattermost/list-of-terms.md#pto-or-paid-time-off)"\) is a process to help ensure our staff develop a strong practice of **self-care** by effectively rotating their time around work, family, friends and all the things that matter most to them.
 
 Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Parental Leave](leaves-of-absence/pregnancy-leave.md), please see [Leave Policies](leaves-of-absence/).
 
@@ -18,7 +18,7 @@ Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Pa
 
 ### When you take time-off, please do the following:
 
-1. Let your management know your [PTO](../../../company/about-mattermost/list-of-terms.md#pto-or-paid-time-off) dates and who will be your backup\(s\). 
+1. Let your management know your [PTO](../../../../company/about-mattermost/list-of-terms.md#pto-or-paid-time-off) dates and who will be your backup\(s\). 
 2. Add your time off to [BambooHR ](https://mattermost.bamboohr.com/)
 3. With your Manager, ensure your team is [vacation-ready](https://handbook.mattermost.com/operations/people/working-at-mattermost#5-be-the-change-you-want-to-see) 
 
@@ -28,11 +28,11 @@ There is no limit to how much time-off you can take when your work is meeting or
 
 ## Holidays
 
-Please take off holidays relevant to your culture, resident [country/region](../../../company/about-mattermost/list-of-terms.md#country-region) and preferences. When doing so, please follow the time-off process in [Communicating Time Off](paid-time-off.md#communicating-time-off).
+Please take off holidays relevant to your culture, resident [country/region](../../../../company/about-mattermost/list-of-terms.md#country-region) and preferences. When doing so, please follow the time-off process in [Communicating Time Off](paid-time-off.md#communicating-time-off).
 
 ### Typical Canadian and U.S. Holidays
 
-We’re headquartered in the US and have a large Canadian contingent, so below are holidays we’re expecting people from those countries to take off. These are not mandatory company holidays, just guidelines for people in specific [country/regions](../../../company/about-mattermost/list-of-terms.md#country-region).
+We’re headquartered in the US and have a large Canadian contingent, so below are holidays we’re expecting people from those countries to take off. These are not mandatory company holidays, just guidelines for people in specific [country/regions](../../../../company/about-mattermost/list-of-terms.md#country-region).
 
 **US and Canadian Holidays for 2020:**
 

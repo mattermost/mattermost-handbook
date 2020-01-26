@@ -18,15 +18,15 @@ description: >-
   * 📁[Performance Review Template](https://docs.google.com/document/d/1tTPTp8JC3pUp0kPo2AAUg6XETbURB_bU8f3EOpvKRr0/edit#heading=h.hu5vu6dn98iw) 
 * Onboarding
   * [💬](https://emojipedia.org/speech-balloon/)[People Ops Channel](https://community.mattermost.com/private-core/channels/people-ops)
-  * 📁[Legacy PeopleOps Page ](https://docs.mattermost.com/process/people-ops.html)\(to be [tomb-stoned](../../company/about-mattermost/list-of-terms.md#tomb-stoned)\)  
+  * 📁[Legacy PeopleOps Page ](https://docs.mattermost.com/process/people-ops.html)\(to be [tomb-stoned](../../../company/about-mattermost/list-of-terms.md#tomb-stoned)\)  
 * Compensation
   * 🧑@natalie.jew - [Natalie Jew](https://mattermost.bamboohr.com/employees/employee.php?id=174&page=2077) - Director of HR  or 🧑@lynn.conway - [Lynn Conway](https://mattermost.bamboohr.com/employees/employee.php?id=207&page=2077) 
 * Employment Verification
   * 🧑@lynn.conway - [Lynn Conway](https://mattermost.bamboohr.com/employees/employee.php?id=207&page=2077) 
 * Benefits 
-  * 📁[Legacy U.S. Benefits Page](https://docs.mattermost.com/process/benefits-us.html) \(to be [tomb-stoned](../../company/about-mattermost/list-of-terms.md#tomb-stoned)\) 
+  * 📁[Legacy U.S. Benefits Page](https://docs.mattermost.com/process/benefits-us.html) \(to be [tomb-stoned](../../../company/about-mattermost/list-of-terms.md#tomb-stoned)\) 
     * 🧑@natalie.jew - [Natalie Jew](https://mattermost.bamboohr.com/employees/employee.php?id=174&page=2077) 
-  * 📁[Legacy Canadian Benefits](https://docs.mattermost.com/process/benefits-canada.html) \(to be [tomb-stoned](../../company/about-mattermost/list-of-terms.md#tomb-stoned)\) 
+  * 📁[Legacy Canadian Benefits](https://docs.mattermost.com/process/benefits-canada.html) \(to be [tomb-stoned](../../../company/about-mattermost/list-of-terms.md#tomb-stoned)\) 
     * 🧑@lynn.conway - [Lynn Conway](https://mattermost.bamboohr.com/employees/employee.php?id=207&page=2077) 
 * For Managers
   * Hiring

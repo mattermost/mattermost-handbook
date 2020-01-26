@@ -67,7 +67,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    * Use `plugins` not `plug-ins`
 3. If a screenshot isn't available to highlight in the release use a conceptual banner based on [R&D Twitter Banner Template](https://community.mattermost.com/files/6bc4cot5xbyi8cfxesgyx6aqdw/public?h=HKLm3FZvOvpylxVk7mUYmeaBQ_rFV_JCEAZ2w5z9fg4) \(shown below\)
 
-![Example of tweet using banner template](../../.gitbook/assets/image%20%2812%29.png)
+![Example of tweet using banner template](../../../.gitbook/assets/image%20%2812%29.png)
 
-![Screenshot for templates for announcements and Twitter banners, including guides](../../.gitbook/assets/image%20%2853%29.png)
+![Screenshot for templates for announcements and Twitter banners, including guides](../../../.gitbook/assets/image%20%2853%29.png)
 

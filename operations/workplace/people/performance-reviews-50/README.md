@@ -16,7 +16,7 @@ It is one of the most difficult things a people manager needs to do, it is also 
 
 The primary goal of performance reviews is to increase the output of colleagues and of the organization. 
 
-The process also serves to align our actions to [Mattermost Leadership Principles](../../../company/about-mattermost/#leadership-principles), which are used as the criteria for peer-evaluation, and to calibrate role levels with a colleague's, which may result in level-based promotions and compensation adjustments or if level expectations are repeatedly not met, changes in role. 
+The process also serves to align our actions to [Mattermost Leadership Principles](../../../../company/about-mattermost/#leadership-principles), which are used as the criteria for peer-evaluation, and to calibrate role levels with a colleague's, which may result in level-based promotions and compensation adjustments or if level expectations are repeatedly not met, changes in role. 
 
 ## **High Output Management**
 

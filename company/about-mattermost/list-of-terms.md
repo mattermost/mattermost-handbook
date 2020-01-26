@@ -16,11 +16,11 @@ We try not to use the term "best practice" at Mattermost, as it's counter-cultur
 
 ### AA
 
-Refers to both an [As Appropriate interview](../../operations/recruiting.md#as-appropriate-interviews-aa-s) as well as the [As Appropriate interviewer](../../operations/recruiting.md#as-appropriate-interviews-aa-s). Final interview required before making a decision on a new hire.
+Refers to both an [As Appropriate interview](../../contributors/join-us/recruiting.md#as-appropriate-interviews-aa-s) as well as the [As Appropriate interviewer](../../contributors/join-us/recruiting.md#as-appropriate-interviews-aa-s). Final interview required before making a decision on a new hire.
 
 ### AOR 
 
-_Area Of Responsibility_ defines the area for which a [DRI](list-of-terms.md#dri) is accountable. The [AOR page ](../../operations/areas-of-responsibility.md)provides information on AORs across the company. 
+_Area Of Responsibility_ defines the area for which a [DRI](list-of-terms.md#dri) is accountable. The [AOR page ](../../operations/operations/areas-of-responsibility.md)provides information on AORs across the company. 
 
 ### **Bug**
 
@@ -134,7 +134,7 @@ Term for publicly documenting information in a web-discoverable format \(GitHub 
 
 ### PTO 
 
-_Paid Time Off_ is time away from work paid for by the company to staff, including holidays, vacations and approved leaves of absence. See [PTO](../../operations/people/working-at-mattermost/paid-time-off.md).
+_Paid Time Off_ is time away from work paid for by the company to staff, including holidays, vacations and approved leaves of absence. See [PTO](../../operations/workplace/people/working-at-mattermost/paid-time-off.md).
 
 ### **RHS**
 
