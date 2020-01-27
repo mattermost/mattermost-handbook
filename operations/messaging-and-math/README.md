@@ -79,8 +79,9 @@ Weekly check-in to clear tactical issues:
   * [💬](https://emojipedia.org/speech-balloon/) [Brand Experience ](https://community.mattermost.com/private-core/channels/brand-guidelines) 
   * [🌐](https://emojipedia.org/globe-with-meridians/) [Website Style Guide ](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb)
   * [🌐](https://emojipedia.org/globe-with-meridians/) [Mattermost logo usage guidelines ](https://mattermost.org/brand-guidelines/)
-* Customer References 
   * [📁](https://emojipedia.org/file-folder/) [Customer References](https://community.mattermost.com/private-core/channels/customer-references): Tracking sheet, discussion, ask templates
+* Customer References 
+  * [📁](https://emojipedia.org/file-folder/) [Brand Designs](https://drive.google.com/drive/folders/0B62zW3fU_TcARUpPcUc4WlFEODQ): App icons, logos, fonts and more
   * [📁](https://emojipedia.org/file-folder/) [Editorial Guide](%20https://docs.google.com/document/d/1XWjtWdF77qKdxDso_-aC_S1c3E0ohOoxCRL_PIf3pco/edit#heading=h.mowcb1f5jyj7): Guidelines for copy and content 
 * Demand Gen Overviews
   * [💬](https://emojipedia.org/speech-balloon/) [Social Media ](https://docs.google.com/spreadsheets/d/1RskstYEc8QqcKNR6N3tPd2IqbWZlK0hJMg_5pLzKe7c/edit#gid=0)
