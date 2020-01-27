@@ -18,13 +18,24 @@ Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Pa
 
 ### When you take time-off, please do the following:
 
-1. Let your management know your [PTO](../../../../company/about-mattermost/list-of-terms.md#pto-or-paid-time-off) dates and who will be your backup\(s\). 
+1. Let your management know your [PTO](../../../../company/about-mattermost/list-of-terms.md#pto-or-paid-time-off) dates and who will be your [backup\(s\)](https://handbook.mattermost.com/operations/people/working-at-mattermost#5-be-the-change-you-want-to-see). 
 2. Add your time off to [BambooHR ](https://mattermost.bamboohr.com/)
-3. With your Manager, ensure your team is [vacation-ready](https://handbook.mattermost.com/operations/people/working-at-mattermost#5-be-the-change-you-want-to-see) 
+3. Enjoy your time off! 
 
-Note: PTO reminders appear in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) on first and last day of PTO.
+### Where to go to see who's on PTO:
 
-There is no limit to how much time-off you can take when your work is meeting or exceeding expectations. We strongly recommend a minimum of 2 weeks per year.
+* PTO reminders appear in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) on first and last day of PTO. 
+* Time-Off Calendar \(link to come\) 
+* BambooHR -  there is a calendar feed on the dashboard home page
+
+**Common Time Off Questions**
+
+1. **Is there really no limit?** There is no limit to how much time-off you can take when your work is meeting or exceeding expectations. We strongly recommend a minimum of 2 weeks per year. 
+2. **Is PTO monitored?** Short answer: no. Longer answer: some Regions may require a statutory amount of PTO to be both accrued and tracked. Time off will be tracked \(i.e. reported on\) in BambooHR up to a Region's statutory limit. 
+3. **I'm in a region that requires a statutory accrual, can I take more time off than?** Yes. Once an accrued balance reaches 0, staff can continue to take time off  as part of the Mattermost PTO plan.
+4. **Why do we track it in BambooHR?** BambooHR helps to maintain asynchronous communication with as few steps as possible by posting time off to a Time Off calendar, the [Stand-Up Channel](https://community.mattermost.com/private-core/channels/stand-up) 
+
+### 
 
 ## Holidays
 

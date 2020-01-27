@@ -77,7 +77,7 @@
   * [Naming Files and Agreements](operations/finance/naming-files-and-agreements.md)
   * [Procurement](operations/finance/procurement.md)
   * [Risk Management in Agreements](operations/finance/risk-management/README.md)
-    * [Mattermost Templated Agreements](operations/finance/risk-management/mattermost-templated-agreements.md)
+    * [Mattermost U.S. Consulting Agreements](operations/finance/risk-management/mattermost-templated-agreements.md)
 * [Workplace](operations/workplace/README.md)
   * [PeopleOps](operations/workplace/people/README.md)
     * [Working at Mattermost](operations/workplace/people/working-at-mattermost/README.md)
