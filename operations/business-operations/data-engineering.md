@@ -169,13 +169,18 @@ We are currently focused on:
 
   * Admin:
 
-  `CREATE USER rachel PASSWORD='[generate using lastpass]' COMMENT='rachel@mattermost.com' DEFAULT_ROLE='sysadmin' DEFAULT_WAREHOUSE='analyst_xs';`
+  `CREATE USER rachel PASSWORD='[generate using lastpass]' COMMENT='rachel@mattermost.com' DEFAULT_ROLE='sysadmin'  
+  MUST_CHANGE_PASSWORD = TRUE DEFAULT_WAREHOUSE='analyst_xs';  
+  GRANT ROLE 'sysadmin' TO USER rachel;`
 
   * Read Only:
 
-  `CREATE USER rachel PASSWORD='[generate using lastpass]' COMMENT='rachel@mattermost.com' DEFAULT_ROLE='reporting' DEFAULT_WAREHOUSE='analyst_xs';`
+  `CREATE USER rachel PASSWORD='[generate using lastpass]'   
+  COMMENT='rachel@mattermost.com' DEFAULT_ROLE='reporting'  
+  MUST_CHANGE_PASSWORD = TRUE DEFAULT_WAREHOUSE='analyst_xs';   
+  GRANT ROLE 'reporting' TO USER rachel;`
 
-  **Postgres**
+**Postgres**
 
 * Admin adds user to [Heroku Account](https://dashboard.heroku.com/apps)
 
