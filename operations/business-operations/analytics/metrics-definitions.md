@@ -1,6 +1,6 @@
 # Metrics Definitions
 
-## Contact Us \(WIP\)
+## Contact Us
 
 * 
 ## Contributors \(WIP\)
@@ -20,7 +20,7 @@
     * Would count as
       * 1 First Time Contributor + 1 First Time contribution + 2 Non First Contributions
 
-## Downloads \(WIP\)
+## Downloads
 
 * 
 ## Finance
@@ -72,9 +72,13 @@ Example:
 
 ![](../../../.gitbook/assets/image%20%2852%29.png)
 
-## Google Analytics \(WIP\)
+## Google Analytics
 
-### Existing Accounts
+### Traffic
+
+### Organic Search
+
+### Google Analytics Accounts
 
 1. mattermost.com
 2. about.mattermost.com \(old mattermost.com\)
@@ -88,7 +92,9 @@ Example:
 10. pre-release.mattermost.com \(which is old community.mattermost.com\)
 11. mattermost.zendesk.com
 
-## Hiring \(WIP\)
+## Hiring
+
+* WIP
 
 ## Net Promoter Score \(NPS\) \(WIP\)
 
@@ -102,9 +108,16 @@ Example:
 * Mattermost's NPS is based off of a 1-10 ranking provided by customers
   * If customers provide rankings 2+ times in a day, the last ranking of the day is used for NPS
 
-## TEDAU \(WIP\)
+
+
+## TEDAS
 
 * 
-## Trials \(WIP\)
+## TEDAU
+
+* 
+## Trials
+
+### Trial Requests
 
 * 
