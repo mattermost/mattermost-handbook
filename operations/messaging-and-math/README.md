@@ -4,21 +4,21 @@ description: 1% DRAFT. Overview of Marketing department and where to find materi
 
 # Messaging and Math
 
-## Why "Messaging and Math"? 
+## Why "Messaging and Math"?
 
-Rather than always call a department "Marketing"--which is an extremely broad term that involves every interaction prospects, customers, our broader [community](../../contributors/contributors/community.md) and the industry has with our brand, product and company--we use the short-hand "Messaging and Math" to refer to the core functions of the department: 
+Rather than always call a department "Marketing"--which is an extremely broad term that involves every interaction prospects, customers, our broader [community](../../contributors/contributors/community.md) and the industry has with our brand, product and company--we use the short-hand "Messaging and Math" to refer to the core functions of the department:
 
-**MESSAGING:** Define and refine the message we send to audiences \(prospects, customers, community and industry\) about our position and value. This work spans product marketing, corporate marketing, brand, PR, AR and corporate communications.  
-  
-**MATH:** Define and deliver the infrastructure and campaigns to quantitatively advance our audiences in their audience journeys based on their specific interests, needs and questions.  This includes website development and optimization, and demand generation campaigns across events, advertising, and email.
+**MESSAGING:** Define and refine the message we send to audiences \(prospects, customers, community and industry\) about our position and value. This work spans product marketing, corporate marketing, brand, PR, AR and corporate communications.
 
-## Team, Cadence, Channels, and Tools    
+**MATH:** Define and deliver the infrastructure and campaigns to quantitatively advance our audiences in their audience journeys based on their specific interests, needs and questions. This includes website development and optimization, and demand generation campaigns across events, advertising, and email.
+
+## Team, Cadence, Channels, and Tools
 
 M&M works largely in Mattermost, Asana, and Zoom in North American timezone.
 
 ### Team
 
-Messaging 
+Messaging
 
 * @lauren.nguyen - Product marketing 
 * @adam.gross - Adviser 
@@ -26,7 +26,7 @@ Messaging
 * @zach.trayner - Website manager 
   * @josh.day - WayFX website agency
 
-Math 
+Math
 
 * @leah.liebler - Revenue marketing 
 * @kendall.reicherter - Marketing operations 
@@ -35,9 +35,9 @@ Math
 
 ### Cadence
 
-#### M&M Leadership Weekly Tactical \(55m\) 
+#### M&M Leadership Weekly Tactical \(55m\)
 
-Weekly check-in to clear tactical issues:  
+Weekly check-in to clear tactical issues:
 
 * Scorecard
   * Downloads and sign-ups
@@ -49,7 +49,7 @@ Weekly check-in to clear tactical issues:
   * Resolution 
 * New business discussion 
 
-### Channels and Key Resources 
+### Channels and Key Resources
 
 * Leadership
   * [💬](https://emojipedia.org/speech-balloon/) [M&M: Leadership ](https://community.mattermost.com/private-core/channels/mm)
@@ -82,7 +82,7 @@ Weekly check-in to clear tactical issues:
   * [📁](https://emojipedia.org/file-folder/) [Customer References](https://community.mattermost.com/private-core/channels/customer-references): Tracking sheet, discussion, ask templates
 * Customer References 
   * [📁](https://emojipedia.org/file-folder/) [Brand Designs](https://drive.google.com/drive/folders/0B62zW3fU_TcARUpPcUc4WlFEODQ): App icons, logos, fonts and more
-  * [📁](https://emojipedia.org/file-folder/) [Editorial Guide](%20https://docs.google.com/document/d/1XWjtWdF77qKdxDso_-aC_S1c3E0ohOoxCRL_PIf3pco/edit#heading=h.mowcb1f5jyj7): Guidelines for copy and content 
+  * [📁](https://emojipedia.org/file-folder/) [Editorial Guide](https://github.com/mattermost/mattermost-handbook/tree/8c222bd9dfaae1a9eed9ae585bf477f9709a93ea/document/d/1XWjtWdF77qKdxDso_-aC_S1c3E0ohOoxCRL_PIf3pco/edit/README.md#heading=h.mowcb1f5jyj7): Guidelines for copy and content 
 * Demand Gen Overviews
   * [💬](https://emojipedia.org/speech-balloon/) [Social Media ](https://docs.google.com/spreadsheets/d/1RskstYEc8QqcKNR6N3tPd2IqbWZlK0hJMg_5pLzKe7c/edit#gid=0)
   * [💬](https://emojipedia.org/speech-balloon/) Events

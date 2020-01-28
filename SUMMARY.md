@@ -81,7 +81,7 @@
 * [Workplace](operations/workplace/README.md)
   * [PeopleOps](operations/workplace/people/README.md)
     * [Working at Mattermost](operations/workplace/people/working-at-mattermost/README.md)
-      * [Paid Time Off](operations/people/working-at-mattermost/paid-time-off.md)
+      * [Paid Time Off](operations/workplace/people/working-at-mattermost/paid-time-off.md)
       * [Leaves of Absence](operations/workplace/people/working-at-mattermost/leaves-of-absence/README.md)
         * [Pregnancy Leave](operations/workplace/people/working-at-mattermost/leaves-of-absence/pregnancy-leave.md)
         * [Baby Bonding Parental Leave](operations/workplace/people/working-at-mattermost/leaves-of-absence/baby-bonding-parental-leave.md)
