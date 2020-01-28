@@ -10,3 +10,9 @@ Looker is currently not GA at Mattermost. We are in the process of a slow roll o
 
 If you feel you are meant to be part of the early adopter group and are unable to access Looker, please reach out to us in [BizOps](https://community.mattermost.com/private-core/channels/bizops).
 
+### Looker Roll-out Stages
+
+Dashboards will be denoted with one of the following Stages in Looker.
+
+![](../../../.gitbook/assets/screen-shot-2020-01-27-at-10.24.30-am.png)
+
