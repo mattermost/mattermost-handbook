@@ -1,9 +1,16 @@
 # Metrics Definitions
 
-## Contact Us
+## Contact Us Requests
 
-* 
-## Contributors \(WIP\)
+#### All Contact Us
+
+* Number of contact us requests via [https://mattermost.com/contact-us](https://mattermost.com/contact-us)
+
+#### Enterprise Contact Us Requests
+
+* Number of contact us requests via [https://mattermost.com/contact-us](https://mattermost.com/contact-us) from Named Accounts or Enterprises with 5,000+ employees, in America, EMEA, Australia or Japan.
+
+## Contributors
 
 ### GitHub Contributors
 
@@ -22,7 +29,22 @@
 
 ## Downloads
 
-* 
+### **Monthly Server Downloads**
+
+#### All Server Downloads
+
+* Number of successfully completed unique TE + EE downloads by unique client IP address per month, from mattermost.com. Includes web browser and wget / curl downloads.
+  * Note: Excludes GitLab Omnibus downloads, Docker \(Dockerhub\) downloads, and Bitnami or other cloud image downloads, as we don’t currently have a good way of measuring these downloads.
+
+**Monthly Enterprise Account Server Downloads**
+
+* Number of Monthly Server Downloads among companies and organizations with over 5,000 employees.
+
+**New Monthly Server Downloads from Named Enterprise Accounts**
+
+* The first contact or lead from a Named Enterprise Account who is attached to an Account either manually by an AE or by Marketo, and who provides a business email on mattermost.com/download after downloading the Mattermost server binary. 
+  * Excludes Salesforce account types equal to Customer or Partner
+
 ## Finance
 
 Financial numbers cater to a wide range of teams. Below you will find information on ACV, TCV, and ARR. **ACV & TCV are relevant to Sales and ARR relevant to Finance and CS.**
@@ -74,9 +96,12 @@ Example:
 
 ## Google Analytics
 
-### Traffic
+All Google Analytics data in Snowflake is at a **daily** level. See [limitations](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#google-analytics-limitations).
 
-### Organic Search
+### Organic Traffic
+
+* Organic Web Traffic is the **daily** unique visitors to \*.mattermost.org, \*.mattermost.com who originate from non-paid sources
+* Organic Search Traffic is the **daily** unique visitors to \*.mattermost.org, \*.mattermost.com who originate from an organic Google search
 
 ### Google Analytics Accounts
 
@@ -92,11 +117,17 @@ Example:
 10. pre-release.mattermost.com \(which is old community.mattermost.com\)
 11. mattermost.zendesk.com
 
+### Google Analytics Limitations
+
+* [Stitch](https://handbook.mattermost.com/operations/business-operations/data-engineering#stitch-data) is used to pull Google Analytics data into Snowflake
+  * Stitch is only able to pull data at a daily level
+  * Aggregating up daily level to a monthly level causes double counting of users that may have visited the site more than one time in a given month.
+
 ## Hiring
 
 * WIP
 
-## Net Promoter Score \(NPS\) \(WIP\)
+## Net Promoter Score \(NPS\)
 
 * Net Promoter Score \(NPS\) measures customer experience and predicts business growth
 * Respondents are grouped as follows:
@@ -108,8 +139,6 @@ Example:
 * Mattermost's NPS is based off of a 1-10 ranking provided by customers
   * If customers provide rankings 2+ times in a day, the last ranking of the day is used for NPS
 
-
-
 ## TEDAS
 
 * 
@@ -120,4 +149,11 @@ Example:
 
 ### Trial Requests
 
-* 
+**All Trial Requests**
+
+* Number of trial license requests via [https://mattermost.com/trial](https://mattermost.com/trial)
+
+**Enterprise Trial Requests**
+
+* Number of trial license requests via [https://mattermost.com/trial](https://mattermost.com/trial) from Named Accounts or Enterprises with 5,000+ employees, in America, EMEA, Australia or Japan.
+
