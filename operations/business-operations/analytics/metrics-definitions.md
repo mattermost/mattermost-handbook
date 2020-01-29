@@ -92,7 +92,7 @@ Example:
   * TCV one-time $250 in May 2019 
   * ARR $83 from June 2019 until June 2022
 
-![](../../../.gitbook/assets/image%20%2852%29.png)
+![](../../../.gitbook/assets/image%20%2855%29.png)
 
 ## Google Analytics
 

@@ -95,25 +95,25 @@ The timeline below is for Jan/2020 - Sept/2020.
 * **Green =** Key MLT meetings where roadmap may be discussed
 * **Purple =** Key product roadmap planning dates
 
-_**\(Calendars are provided as screenshots, until proper Markdown formatting for tables is found. Author is uncertain why tables are different sizes, though screenshots taken were equally sized.**_
+_**\(Calendars are provided as screenshots, until proper Markdown formatting for tables is found. Author is uncertain why tables are different sizes, though screenshots taken were equally sized**_
 
-![](../../../.gitbook/assets/image%20%2836%29.png)
+![](../../../.gitbook/assets/image%20%281%29.png)
 
-![](../../../.gitbook/assets/image%20%283%29.png)
+![](../../../.gitbook/assets/image%20%2823%29.png)
+
+![](../../../.gitbook/assets/image%20%2852%29.png)
 
 ![](../../../.gitbook/assets/image%20%2849%29.png)
 
-![](../../../.gitbook/assets/image%20%2846%29.png)
-
-![](../../../.gitbook/assets/image%20%2848%29.png)
-
 ![](../../../.gitbook/assets/image%20%2851%29.png)
 
-![](../../../.gitbook/assets/image%20%2847%29.png)
+![](../../../.gitbook/assets/image%20%2854%29.png)
 
-![](../../../.gitbook/assets/image%20%2832%29.png)
+![](../../../.gitbook/assets/image%20%2850%29.png)
 
-![](../../../.gitbook/assets/image%20%2841%29.png)
+![](../../../.gitbook/assets/image%20%2835%29.png)
+
+![](../../../.gitbook/assets/image%20%2844%29.png)
 
 ## **Roadmap Timeline Guidelines**
 

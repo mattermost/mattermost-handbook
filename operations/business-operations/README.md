@@ -11,7 +11,7 @@ BizOps 101 [presentation](https://docs.google.com/presentation/d/1GEnR2P6jGpa-co
 
 Where to find us:
 
-* Mattermost: BizOps
+* Mattermost: BizOps, Analytics
 * Email: bizops@mattermost.com
 
 ![](../../.gitbook/assets/screen-shot-2019-12-02-at-12.12.51-pm.png)
