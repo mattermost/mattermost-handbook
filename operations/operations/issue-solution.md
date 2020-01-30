@@ -40,7 +40,7 @@ To use the [Issue/Solution template](https://docs.google.com/document/d/1XDgumIg
 
 
 
-Note: Special thanks to [Matt Mochary](https://www.linkedin.com/in/matt-mochary-34bb4/) for [the framework](https://www.amazon.com/Great-CEO-Within-Tactical-Building/dp/0578599287/ref=sr_1_1?crid=21SSTD6J8FZJP&keywords=ceo+within&qid=1580063482&sprefix=ceo+within%2Caps%2C193&sr=8-1) on which this system is based. 
+Note: Special thanks to [Matt Mochary](https://www.linkedin.com/in/matt-mochary-34bb4/) for the framework on which this system is based. 
 
 ## 
 
