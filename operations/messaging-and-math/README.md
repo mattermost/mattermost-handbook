@@ -51,6 +51,7 @@ Weekly check-in to clear tactical issues:
 
 ### Channels and Key Resources
 
+* [Monthly Marketing Update](https://docs.google.com/presentation/d/1N2oE2VD7M9BPH51DuTE51uBq2TA3r5AFdbHZgP2oNG4/edit?usp=sharing)
 * Leadership
   * [💬](https://emojipedia.org/speech-balloon/) [M&M: Leadership ](https://community.mattermost.com/private-core/channels/mm)
 * Analysts  
