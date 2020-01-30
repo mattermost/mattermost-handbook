@@ -2,8 +2,6 @@
 
 Issue/Solution is a tool for increasing clarity, speed and output in teams. This page describes the template and process to be used. 
 
-Note: Special thanks to [Matt Mochary](https://www.linkedin.com/in/matt-mochary-34bb4/) for [the framework](https://www.amazon.com/Great-CEO-Within-Tactical-Building/dp/0578599287/ref=sr_1_1?crid=21SSTD6J8FZJP&keywords=ceo+within&qid=1580063482&sprefix=ceo+within%2Caps%2C193&sr=8-1) on which this system is based. 
-
 ## Framework and process 
 
 A Issue/Proposal template is drafted clearly stating the problem to be solved and the proposed solution to solve it. The draft is circulated to stakeholders, asynchronous feedback is shared, synchronous discussion is completed, the Issue/Proposal owner decides how to document and/or adjust their plans based on feedback, a decision is made, feedback is shared by stakeholders on the decision, and then next actions are recorded and executed. 
@@ -33,6 +31,18 @@ A listing of stakeholders and their written feedback on whether they support or 
 ## Template
 
 To use the [Issue/Solution template](https://docs.google.com/document/d/1XDgumIgT525mH40dj24K3q_muIzJOVzHY5uVeg5OUkQ/edit) create a copy, fill it in, and follow the process above with stakeholders. 
+
+
+
+
+
+
+
+
+
+Note: Special thanks to [Matt Mochary](https://www.linkedin.com/in/matt-mochary-34bb4/) for [the framework](https://www.amazon.com/Great-CEO-Within-Tactical-Building/dp/0578599287/ref=sr_1_1?crid=21SSTD6J8FZJP&keywords=ceo+within&qid=1580063482&sprefix=ceo+within%2Caps%2C193&sr=8-1) on which this system is based. 
+
+## 
 
 
 
