@@ -146,27 +146,27 @@ All Google Analytics data in Snowflake is at a **daily** level. See [limitations
 
 ### TEDAS Definition
 
-**TEDAS** stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique,[ production servers](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#definition) sending telemetry \(“activity"\) data to Mattermost on a given date.
+**TEDAS** stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique,[ production servers](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#definition) sending telemetry \(“activity"\) data to Mattermost on a given date. Each component of TEDAS can be described as follows:
 
-* Each component of TEDAS can be described as follows:
-  * Telemetry Enabled:
-    * Servers that are telemetry enabled have “Error Reporting and Diagnostics” or “Security Alert” enabled in System Console.
-  * Daily Active:
-    * A server is classified as active when it responds to Mattermost's call to collect telemetry data on a given day.
+* Telemetry Enabled:
+  * Servers that are telemetry enabled have “Error Reporting and Diagnostics” or “Security Alert” enabled in System Console.
+* Daily Active:
+  * A server is classified as active on a given day when it responds to Mattermost's call to collect telemetry data.
     * For a server to respond, it must be online and telemetry enabled.
-  * Servers
-    * Servers host team & organization Mattermost instances
-    * Teams & Organizations can have one-to-many servers installed to host their Mattermost instance.
-      * Small/Medium teams typically leverage a single server to host Mattermost.
-      * Large teams can leverage Enterprise Edition to create server clusters to scale their instance.
-      * **Non-production servers:** Test and development servers can also be spun up for testing and various other use cases.
+* Servers:
+  * Servers host Mattermost instances for teams & organizations.
+  * Each team or organization can have one-to-many servers installed to host their instance.
+    * Small/Medium teams typically leverage a single server.
+    * Large teams can leverage Enterprise Edition features to create server clusters that allow them to scale their instance.
+  * **Non-production servers** are not included when calculating TEDAS.
+    * Test and development servers are non-production servers that can be spun up for testing and various other use cases.
 
 ### TEDAS Server Condsiderations
 
-TEDAS only measures the count of active production servers. The Mattermost.server\_daily\_details is used to calculate TEDAS and only contains production servers. Mattermost.server\_daily\_details is derived from the Events.security table. Production servers are identified and inserted into the Mattermost.server\_daily\_details table using logic to filter the Events.security table.
+TEDAS only measures the count of active production servers. The Mattermost.server\_daily\_details is used to calculate TEDAS and only contains these production servers. The table is derived from the Events.security table. Production servers are inserted into the Mattermost.server\_daily\_details table using logic to filter the Events.security table.
 
 * Events.security table logs all server responses to Mattermost's call to collect telemetry data.
-  * Server types logged include test, development, and production servers.
+  * Server types include test, development, and production servers.
 * Logic to identify production servers within the Events.security table is as follows:
   * Version matching recognized format
     * `version LIKE '_.%._._.%._'`
@@ -180,17 +180,14 @@ TEDAS only measures the count of active production servers. The Mattermost.serve
 
 ### TEDAS Caveats
 
-There are additional data quality issues within the Events.security table that need to be addressed before loading the verified production servers and calculating TEDAS:
+There are additional data quality issues within the Events.security table that need to be addressed before inserting the verified production servers and calculating TEDAS. The Events.security table is supposed to contain 1 record per server per day. This is not always the case: ~2% of server id's have multiple rows per day. To select a single record per production server we must:
 
-* Events.security is supposed to contain 1 record per server per day. 
-  * This is not always the case: ~2% of server id's have multiple rows per day. 
-* To select a single record per production server we must first:
-  * Select the row per server with the maximum number of active users meeting the production server criteria.
-    * If the maximum number of active users = 0 then we select the most recently logged row based on the "hour" field value.
+* Identify the row per production server containing the maximum number of active users on the given date.
+  * If the maximum number of active users = 0 then we select the most recently logged row based on the "hour" field value.
 
 ## TEDAU
 
-TEDAU stand for Telemetry-Enabled Daily Active Users.
+TEDAU stand for Telemetry-Enabled Daily Active Users. It is the sum of all "Active Users" logged by telemetry-enabled production servers on a given date.
 
 ## Trials
 
