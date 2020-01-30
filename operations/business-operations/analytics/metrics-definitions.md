@@ -143,7 +143,7 @@ All Google Analytics data in Snowflake is at a **daily** level. See [limitations
 
 ## TEDAS
 
-**TEDAS** stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique, [production servers](metrics-definitions.md#server-condsiderations) sending telemetry \(“activity"\) data to Mattermost on a given date. Each component of TEDAS can be described as follows:
+TEDAS stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique, [production servers](metrics-definitions.md#server-condsiderations) sending telemetry \(“activity"\) data to Mattermost on a given date. Each component of TEDAS can be described as follows:
 
 * Telemetry Enabled:
   * Servers that are telemetry enabled have “Error Reporting and Diagnostics” or “Security Alert” enabled in System Console.
@@ -155,10 +155,10 @@ All Google Analytics data in Snowflake is at a **daily** level. See [limitations
   * Each team or organization can have one-to-many servers installed to host their instance.
     * Small/Medium teams typically leverage a single server.
     * Large teams can leverage Enterprise Edition features to create server clusters that allow them to scale their instance.
-  * **Non-production servers** are not included when calculating TEDAS.
+  * _**Non-production servers**_ ****are not included in TEDAS calculations.
     * Test and development servers are non-production servers that can be spun up for testing and various other use cases.
 
-### Server Condsiderations
+### Server Considerations
 
 TEDAS only measures the count of active production servers. The Mattermost.server\_daily\_details is used to calculate TEDAS and only contains these production servers. The table is derived from the Events.security table. Production servers are inserted into the Mattermost.server\_daily\_details table using logic to filter the Events.security table.
 
@@ -184,7 +184,7 @@ There are additional data quality issues within the Events.security table that n
 
 ## TEDAU
 
-**TEDAU** stands for _Telemetry-Enabled Daily Active Users_. It is the sum of all "Active Users" logged by [telemetry-enabled production servers](metrics-definitions.md#server-condsiderations) on a given date. The TEDAU calculation sums the "active\_user\_count" column in the mattermost.server\_daily\_details table. 
+**TEDAU** stands for _Telemetry-Enabled Daily Active Users_. It is the sum of all "Active Users" logged by [telemetry-enabled production servers](metrics-definitions.md#server-condsiderations) on a given date. The TEDAU calculation sums the "active\_user\_count" column in the Mattermost.server\_daily\_details table. 
 
 ### Telemetry-Enabled Active Users
 
@@ -192,7 +192,7 @@ Telemetry-Enabled Active Users are users, hosted by a telemetry-enabled producti
 
 ### TEDAU Caveats
 
-TEDAU is the sum of active users for telemetry-enabled production servers only \(described in [this TEDAS section](metrics-definitions.md#server-condsiderations)\). All other servers, and their active user counts, are ignored as they represent testing, dev, and one-off user case environments that skew the measure.
+TEDAU is the sum of active users for verified production servers that are telemetry-enabled \(described in [this TEDAS section](metrics-definitions.md#server-condsiderations)\). All other servers, and their active user counts, are ignored as they represent testing, dev, and one-off user case environments that skew the measure.
 
 
 
