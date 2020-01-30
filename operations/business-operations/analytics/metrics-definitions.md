@@ -189,7 +189,7 @@ There are additional data quality issues within the Events.security table that n
 
 ### TEDAU Caveats
 
-TEDAU is the sum of active users only for telemetry-enabled production servers described in \[this TEDAS section\]\(\#server-considerations\).
+TEDAU is the sum of active users only for telemetry-enabled production servers described in \[this TEDAS section\]\(\#server-considerations\) .
 
 ## Trials
 
