@@ -142,9 +142,26 @@ All Google Analytics data in Snowflake is at a **daily** level. See [limitations
 * Mattermost's NPS is based off of a 1-10 ranking provided by customers
   * If customers provide rankings 2+ times in a day, the last ranking of the day is used for NPS
 
-## TEDAS
+## TEDAS \(Telemetry-Enabled Daily Active Servers\)
 
-* 
+* TEDAS stands for Telemetry-Enabled Daily Active Servers.
+* It is the count of unique, _production_ servers sending telemetry \(“activity"\) data to Mattermost on a given date.
+* Each component of TEDAS can be described as follows:
+  * Telemetry Enabled:
+    * Servers that are telemetry enabled have “Error Reporting and Diagnostics” or “Security Alert” enabled in System Console.
+  * Daily Active:
+    * A server is classified as active on a given date when it responds to Mattermost's call to collect telemetry data. 
+    * For a server to respond, it must be online and telemetry enabled.
+  * \[Production\] Servers
+
+    * A server represents a user's instance of Mattermost.
+    * Users/customers can have one-to-many servers installed to host their Mattermost instance.
+      * Large teams/organizations can leverage Enterprise Edition to create server clusters to scale their instance.
+      * **Not production servers:** Test and development servers can also be spun up for testing and various use cases 
+    * Production Servers are defined as:
+
+ 
+
 ## TEDAU
 
 * 
