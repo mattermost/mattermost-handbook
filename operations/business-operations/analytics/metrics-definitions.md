@@ -59,11 +59,14 @@ _**What the customer bought**_
 
 ### ACV \(Annual Contract Value\)
 
-_**What the customer bought normalized for one year length**_
+_**What the customer bought for the current year**_
 
 * ACV is the value of subscription revenue from each contracted customer, normalized to a one-year period
 * Recognized **only** in the Closed Won Month
-* `ACV = (Total Contract Value / (End Date - Start Date)) * 365`
+* End Date - Start Date &gt;= 365
+  * `ACV = (Total Contract Value / (End Date - Start Date)) * 365`
+* End Date - Start Date &lt;= 365
+  * `ACV = Total Contract Value`
 
 ### ARR \(Annual Recurring Revenue\)
 
