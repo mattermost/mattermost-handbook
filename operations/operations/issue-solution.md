@@ -26,7 +26,7 @@ Decision from the decision owner. Any adjustments or additions to proposed next 
 
 ### **Feedback on Decision** 
 
-A listing of stakeholders and their written feedback on whether they support or do not support. A blank indicates lack of support. If someone is not available, indicate that in their feedback section and seek feedback within 3 business days from the synchronous meeting or their return from [PTO](../../company/about-mattermost/list-of-terms.md#pto), whichever is later. 
+A listing of stakeholders and their written feedback on whether they support or do not support. If someone is not available, indicate that in their feedback section and seek feedback within 3 business days from the synchronous meeting or their return from [PTO](../../company/about-mattermost/list-of-terms.md#pto), whichever is later. If the stakeholder attended the meeting and did not decide to enter Feedback on Solution nor Feedback on Decision are blank, it is assumed the stakeholder did not have material objections to share. 
 
 ## Template
 
