@@ -143,7 +143,7 @@ All Google Analytics data in Snowflake is at a **daily** level. See [limitations
 
 ## TEDAS
 
-**TEDAS** stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique,[ production servers](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#definition) sending telemetry \(“activity"\) data to Mattermost on a given date. Each component of TEDAS can be described as follows:
+**TEDAS** stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique, [production servers](metrics-definitions.md#server-condsiderations) sending telemetry \(“activity"\) data to Mattermost on a given date. Each component of TEDAS can be described as follows:
 
 * Telemetry Enabled:
   * Servers that are telemetry enabled have “Error Reporting and Diagnostics” or “Security Alert” enabled in System Console.
@@ -184,11 +184,17 @@ There are additional data quality issues within the Events.security table that n
 
 ## TEDAU
 
-**TEDAU** stands for _Telemetry-Enabled Daily Active Users_. It is the sum of all "Active Users" logged by telemetry-enabled production servers on a given date. This calculation sums the "active\_user\_count" column in the mattermost.server\_daily\_details table. 
+**TEDAU** stands for _Telemetry-Enabled Daily Active Users_. It is the sum of all "Active Users" logged by [telemetry-enabled production servers](metrics-definitions.md#server-condsiderations) on a given date. The TEDAU calculation sums the "active\_user\_count" column in the mattermost.server\_daily\_details table. 
+
+### Telemetry-Enabled Active Users
+
+Telemetry-Enabled Active Users are users, hosted by a telemetry-enabled production server, that have visited the Mattermost site in the last 24 hours.
 
 ### TEDAU Caveats
 
-TEDAU is the sum of active users only for telemetry-enabled production servers described in \[this TEDAS section\]\(\#server-considerations\) .
+TEDAU is the sum of active users for telemetry-enabled production servers only \(described in [this TEDAS section](metrics-definitions.md#server-condsiderations)\). All other servers, and their active user counts, are ignored as they represent testing, dev, and one-off user case environments that skew the measure.
+
+
 
 ## Trials
 
