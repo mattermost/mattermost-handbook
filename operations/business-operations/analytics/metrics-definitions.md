@@ -142,29 +142,56 @@ All Google Analytics data in Snowflake is at a **daily** level. See [limitations
 * Mattermost's NPS is based off of a 1-10 ranking provided by customers
   * If customers provide rankings 2+ times in a day, the last ranking of the day is used for NPS
 
-## TEDAS \(Telemetry-Enabled Daily Active Servers\)
+## TEDAS
 
-* TEDAS stands for Telemetry-Enabled Daily Active Servers.
-* It is the count of unique, _production_ servers sending telemetry \(“activity"\) data to Mattermost on a given date.
+### TEDAS Definition
+
+**TEDAS** stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique,[ production servers](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#definition) sending telemetry \(“activity"\) data to Mattermost on a given date.
+
 * Each component of TEDAS can be described as follows:
   * Telemetry Enabled:
     * Servers that are telemetry enabled have “Error Reporting and Diagnostics” or “Security Alert” enabled in System Console.
   * Daily Active:
-    * A server is classified as active on a given date when it responds to Mattermost's call to collect telemetry data. 
+    * A server is classified as active when it responds to Mattermost's call to collect telemetry data on a given day.
     * For a server to respond, it must be online and telemetry enabled.
-  * \[Production\] Servers
+  * Servers
+    * Servers host team & organization Mattermost instances
+    * Teams & Organizations can have one-to-many servers installed to host their Mattermost instance.
+      * Small/Medium teams typically leverage a single server to host Mattermost.
+      * Large teams can leverage Enterprise Edition to create server clusters to scale their instance.
+      * **Non-production servers:** Test and development servers can also be spun up for testing and various other use cases.
 
-    * A server represents a user's instance of Mattermost.
-    * Users/customers can have one-to-many servers installed to host their Mattermost instance.
-      * Large teams/organizations can leverage Enterprise Edition to create server clusters to scale their instance.
-      * **Not production servers:** Test and development servers can also be spun up for testing and various use cases 
-    * Production Servers are defined as:
+### TEDAS Server Condsiderations
 
- 
+TEDAS only measures the count of active production servers. The Mattermost.server\_daily\_details is used to calculate TEDAS and only contains production servers. Mattermost.server\_daily\_details is derived from the Events.security table. Production servers are identified and inserted into the Mattermost.server\_daily\_details table using logic to filter the Events.security table.
+
+* Events.security table logs all server responses to Mattermost's call to collect telemetry data.
+  * Server types logged include test, development, and production servers.
+* Logic to identify production servers within the Events.security table is as follows:
+  * Version matching recognized format
+    * `version LIKE '_.%._._.%._'`
+    * Other version formats are not valid because they indicate a test, development, or custom built instance
+  * No "Dev Builds" and "Ran Tests" recorded
+    * `dev_build = 0`
+    * `ran_tests = 0`
+  * Registered Users &gt;= Active Users
+    * `user_count >= active_user_count`
+    * Data anomalies occur causing servers to show  active users &gt; provisioned users - these servers must be excluded.
+
+### TEDAS Caveats
+
+There are additional data quality issues within the Events.security table that need to be addressed before loading the verified production servers and calculating TEDAS:
+
+* Events.security is supposed to contain 1 record per server per day. 
+  * This is not always the case: ~2% of server id's have multiple rows per day. 
+* To select a single record per production server we must first:
+  * Select the row per server with the maximum number of active users meeting the production server criteria.
+    * If the maximum number of active users = 0 then we select the most recently logged row based on the "hour" field value.
 
 ## TEDAU
 
-* 
+TEDAU stand for Telemetry-Enabled Daily Active Users.
+
 ## Trials
 
 ### Trial Requests
