@@ -1,4 +1,5 @@
 version: 2.1
+
 jobs:
   none:
     docker:
@@ -11,4 +12,4 @@ workflows:
   version: 2
   mainbuild:
     jobs:
-  - none
+      - none
