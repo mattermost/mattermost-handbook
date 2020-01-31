@@ -25,15 +25,17 @@ Messaging
 * @lindsay.brock - Product management 
 * @zach.trayner - Website manager 
   * @josh.day - WayFX website agency
+* @justin.reynolds - Copywriting
 
 Math
 
 * @leah.liebler - Revenue marketing 
 * @kendall.reicherter - Marketing operations 
 * @amanda.venezia - Events, paid campaigns 
-* @justin.reynolds - Copywriting 
 
-### Cadence
+
+
+**Cadence**
 
 #### M&M Leadership Weekly Tactical \(55m\)
 
