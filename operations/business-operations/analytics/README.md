@@ -14,11 +14,15 @@ We are currently focused on:
 * Looker \(data visualization tool replacing Chartio\)
 * Automating Metrics
 
-## Automating Metrics
+## Automating Mattermost Business Metrics
 
-WIP - [Mattermost Metrics Google Sheet](https://docs.google.com/spreadsheets/d/1_AuT_ZwKRK-_BEUgmDoHkuIZQEnuzyb6sNpnUQkWOOQ/edit?usp=sharing)
+#### [Google Sheet of Current Mattermost Business Metrics](https://docs.google.com/spreadsheets/d/1_AuT_ZwKRK-_BEUgmDoHkuIZQEnuzyb6sNpnUQkWOOQ/edit#gid=0)
 
-WIP - [Mattermost Data & Metric Availability](https://docs.google.com/spreadsheets/d/1GRB6hr_eSSVcFFAQkimZ6VE0EtobkPq6iKl027G9Mig/edit?usp=sharing)
+Learn more about targets, descriptions, owners, and data sources for MLT Scoreboard metrics, customer metrics, and business metrics
+
+#### [Mattermost Business Metrics Rollout](https://docs.google.com/spreadsheets/d/1GRB6hr_eSSVcFFAQkimZ6VE0EtobkPq6iKl027G9Mig/edit#gid=944422320)
+
+Learn more about timeline, current status, owners for automating Mattermost Business Metrics
 
 
 
