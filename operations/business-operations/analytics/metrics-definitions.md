@@ -59,13 +59,12 @@ _**What the customer bought**_
 
 ### ACV \(Annual Contract Value\)
 
-_**What the customer bought for the current year**_
+_**What the customer bought annualized for the first year of their contract**_
 
-* ACV is the value of subscription revenue from each contracted customer, normalized to a one-year period
 * Recognized **only** in the Closed Won Month
-* End Date - Start Date &gt;= 365
+* Calculation for deals &gt;= 12 months
   * `ACV = (Total Contract Value / (End Date - Start Date)) * 365`
-* End Date - Start Date &lt;= 365
+* Calculation for deals &lt; 12 months
   * `ACV = Total Contract Value`
 
 ### ARR \(Annual Recurring Revenue\)
@@ -144,24 +143,22 @@ All Google Analytics data in Snowflake is at a **daily** level. See [limitations
 
 ## TEDAS
 
-### TEDAS Definition
-
-**TEDAS** stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique,[ production servers](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#definition) sending telemetry \(“activity"\) data to Mattermost on a given date. Each component of TEDAS can be described as follows:
+TEDAS stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique, [production servers](metrics-definitions.md#server-condsiderations) sending telemetry \(“activity"\) data to Mattermost on a given date. Each component of TEDAS can be described as follows:
 
 * Telemetry Enabled:
   * Servers that are telemetry enabled have “Error Reporting and Diagnostics” or “Security Alert” enabled in System Console.
 * Daily Active:
-  * A server is classified as active on a given day when it responds to Mattermost's call to collect telemetry data.
+  * Servers are classified as active on a given day when they respond to Mattermost's call to collect telemetry data.
     * For a server to respond, it must be online and telemetry enabled.
 * Servers:
   * Servers host Mattermost instances for teams & organizations.
   * Each team or organization can have one-to-many servers installed to host their instance.
     * Small/Medium teams typically leverage a single server.
     * Large teams can leverage Enterprise Edition features to create server clusters that allow them to scale their instance.
-  * **Non-production servers** are not included when calculating TEDAS.
+  * _**Non-production servers**_ ****are not included in TEDAS calculations.
     * Test and development servers are non-production servers that can be spun up for testing and various other use cases.
 
-### TEDAS Server Condsiderations
+### Server Considerations
 
 TEDAS only measures the count of active production servers. The Mattermost.server\_daily\_details is used to calculate TEDAS and only contains these production servers. The table is derived from the Events.security table. Production servers are inserted into the Mattermost.server\_daily\_details table using logic to filter the Events.security table.
 
@@ -187,7 +184,17 @@ There are additional data quality issues within the Events.security table that n
 
 ## TEDAU
 
-TEDAU stand for Telemetry-Enabled Daily Active Users. It is the sum of all "Active Users" logged by telemetry-enabled production servers on a given date.
+**TEDAU** stands for _Telemetry-Enabled Daily Active Users_. It is the sum of all "Active Users" logged by [telemetry-enabled production servers](metrics-definitions.md#server-condsiderations) on a given date. The TEDAU calculation sums the "active\_user\_count" column in the Mattermost.server\_daily\_details table. 
+
+### Telemetry-Enabled Active Users
+
+Telemetry-Enabled Active Users are users, hosted by a telemetry-enabled production server, that have visited the Mattermost site in the last 24 hours.
+
+### TEDAU Caveats
+
+TEDAU is the sum of active users for verified production servers that are telemetry-enabled \(described in [this TEDAS section](metrics-definitions.md#server-condsiderations)\). All other servers, and their active user counts, are ignored as they represent testing, dev, and one-off user case environments that skew the measure.
+
+
 
 ## Trials
 
