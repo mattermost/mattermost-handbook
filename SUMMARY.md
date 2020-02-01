@@ -83,6 +83,7 @@
     * [Working at Mattermost](operations/workplace/people/working-at-mattermost/README.md)
       * [Paid Time Off](operations/workplace/people/working-at-mattermost/paid-time-off.md)
       * [Travel](operations/workplace/people/working-at-mattermost/travel/README.md)
+        * [Business Travel Insurance](operations/workplace/people/working-at-mattermost/travel/business-travel-insurance.md)
       * [Leaves of Absence](operations/workplace/people/working-at-mattermost/leaves-of-absence/README.md)
         * [Pregnancy Leave](operations/workplace/people/working-at-mattermost/leaves-of-absence/pregnancy-leave.md)
         * [Baby Bonding Parental Leave](operations/workplace/people/working-at-mattermost/leaves-of-absence/baby-bonding-parental-leave.md)
