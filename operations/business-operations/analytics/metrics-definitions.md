@@ -15,6 +15,7 @@
 ### GitHub Contributors
 
 * Members of the open source community with contributions to Mattermost GitHub repositories
+  * This does not include internal Mattermost staff
 * Definitions:
   * First Time Contributors: The first month someone contributes, they considered a First Time Contributor the whole month.
   * Old Contributors: Anyone that is not a First Time Contributor
