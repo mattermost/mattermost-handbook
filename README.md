@@ -1,6 +1,6 @@
 # Mattermost Handbook
 
-The purpose of this handbook is to _**iteratively increase clarity**_ for Mattermost staff and community co-building the future of our company and our offerings. 
+The purpose of this handbook is to _**iteratively increase clarity**_ for Mattermost staff and community co-building the future of our company and our offerings.
 
 It's Day 1 at Mattermost. We're a growing company and growing open source project out to support the massive transformation underway as open source software unlocks the massive potential of people and teams around the world. 
 
