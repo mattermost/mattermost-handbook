@@ -139,7 +139,7 @@ Team:
   * Sign up to Jira and post in the “Jira configuration” channel to be added to internal team\)
   * Get Jira training from PM buddy 
     * [Customer Requests](https://mattermost.atlassian.net/projects/CR/issues/CR-16?filter=allopenissues)
-    * [Mattermost Platform ](https://mattermost.atlassian.net/projects/MM/issues/MM-10977?filter=allopenissues)
+    * [Mattermost Platform](https://mattermost.atlassian.net/projects/MM/issues/MM-10977?filter=allopenissues)
 * Make your first edit and pull request on Github
   * Update documentation or product help text
 * Small contributions
@@ -248,7 +248,7 @@ Activities:
     * Join general triage meeting
     * Join all feature team meetings \(triage, sprint planning\) 
   * Design process \(Feature team designer\)
-    * [Spec template ](https://docs.google.com/document/u/1/d/1QC4-qysnp3DuPS5nROUpL31WtiJ7RhZCXz24T1WgTko/edit#heading=h.2msta3abogxt)
+    * [Spec template](https://docs.google.com/document/u/1/d/1QC4-qysnp3DuPS5nROUpL31WtiJ7RhZCXz24T1WgTko/edit#heading=h.2msta3abogxt)
       * Competitor research
       * User research 
     * Review process 
@@ -414,15 +414,6 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
 * Participate in Release Retrospectives \(see example [Release Retrospective Doc\)](https://docs.google.com/document/d/1TFSj6jOZ96nJXgS83DL0-3bFurcXuOyeUm7cP6TWfsY/edit)
   * Provide feedback from PM perspective and offer ideas for improving the release process 
 
-### Internal Enablement
-
-#### Release & Roadmap Review
-
-#### Customer Request Triage
-
-#### Product Education
-
-### Product Marketing and Documentation
 
 #### Product Evangelism 
 
@@ -456,22 +447,37 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
 * Answer customer questions in Premier Support \(PS: Customer name\) Channels & in internal channels by CSM and Sales
 
 #### Customer Requests
+Feature and improvement requests from our Enterprise customers are logged by Sales Architects, Customer Success and Support in a [Customer Request Jira project](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=17&projectKey=CR&view=planning&issueLimit=100).  Please encourage collegues to add tickets when they are discussing requests in Mattermost channels, so that we have single source with all requests.  Product Managers are responsible for reviewing  Customer Requests regarding features and product improvements. New tickets may already be assigned to a PM based on area of responsibility.  Please review tickets often to address newly created tickets and to update any older tickets as new information becomes available. For each ticket or request: 
 
-* 
+* Work with Customer Success and Sales to clarify use cases, root issues they are trying to solve, and prioritization of request.
+* Propose alternate solutions when they are available.  
+* Determine if the feature is a feature that we would add to the product. 
+* When an alternate solution is not available and we would add the feature to the product, get a high-level estimate of level of effort to develop a solution from the engineering team. 
+* Add additional customer use cases to exisiting tickets. Encourage collegues to add additional use cases to exisiting tickets as they gather information from their customer interactions. 
+* Link any implementation or design tickets to the request. 
+* Update the Fix Version of the feature to provide an indication of when the reporting request may be addressed. Generally, ``Planned: Near Term`` means it will be addressed in the next 1-3 releases, ``Planned: Ongoing`` means that is something that is being actively worked on, but progress may be slow, ``Planned: Unscheduled`` means we plan on addressing, but it is not currently on the roadmap, ``Future Consideration`` means we need to collect more details on use cases and demand before scheduling into a future roadmap and``Not Planned`` means that we will not be working on addressing the request. 
+* Update the ticket status to closed when a feature is completed. 
+ 
+
 #### Community Success
 
-* Ensure devs are included on community contribution projects
+* Ensure devs are aware and included on community contribution projects
 * Prep HelpWanted tickets with specifications on feature and designs as needed
 * Help teams come up with and prepare community contribution campaigns
 * Answer questions and coordinate resources to community contributors 
+* Review community contributed PRs
 
 #### Mattermost Forum
 
-* 
+
 #### Twitter Rotation 
 
+Product Manager's rotate responisibilty on a weekly basis for monitoring and responding to Mattermost mentions on our corporate Twitter account.  The PM on rotation can be found in the header of the [Mattermost Twitter channel](https://community-daily.mattermost.com/core/channels/twitter). The rotation switches on Monday and is scheduled alphabetically by first name. The PM on rotation will be mentioned on the first day of their rotation.  The PM that was previously on rotation should reach out to the new PM on rotation to hand off the duties and to remind on the additional responsibilities of assigning unassigned Customer Requests. Below are the responsibilities of the PM on Twitter rotation:   
+
 * Monitor Twitter channel in Mattermost Contributors Team: [https://community-daily.mattermost.com/core/channels/twitter](https://community-daily.mattermost.com/core/channels/twitter) 
-* Respond to product inquiries, retweet, and like posts that we are tagged in per the guidelines outlined on [https://docs.mattermost.com/process/community-guidelines.html\#mattermost-twitter](https://docs.mattermost.com/process/community-guidelines.html#mattermost-twitter) 
+* Respond to product inquiries, retweet, and like posts that we are tagged in per the guidelines outlined on [https://docs.mattermost.com/process/community-guidelines.html\#mattermost-twitter](https://docs.mattermost.com/process/community-guidelines.html#mattermost-twitter)
+* Update posts in the Twitter channel with action taken. 
+* Assign any un-assigned Customer Requests.  If you are unsure of who to assign, ask during the PM Meeting. 
 
 ### Organizational Improvements
 
@@ -487,9 +493,156 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
 
 #### PM Meeting 
 
-Cadence: Weekly on Wednesday 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Attendees:</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>All PMs, Release Manager</li>
+          <li>Chair: Lindsay Brock</li>
+          <li>Co-Chairs: </li>
+          <li>Vice Chair: </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Objectives:</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Update progress on features for current release</li>
+          <li>Triage unassigned Customer Requests</li>
+          <li>Share team updates and best practices</li>
+          <li>Gather input from PM collegues on proposals to uncover blindspots</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Time:</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Weekly meeting on Wednesdays from 9:00am to 9:30am Palo Alto time.</li>
+        </ul>
+      </td>
+    </tr>
+       <tr>
+      <td style="text-align:left">Meeting Preparation</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Post agenda items to the Product Managment channel. Items are queued as a numbered post with a short description such as this [example](https://community-daily.mattermost.com/core/pl/a58u4f5p77bpfx5ygyawnwm83y). Provide supporting documentation for advanced review.  Confidential information should be posted in the PM:Private Channel.</li>
+          <li>PM on the Customer Request Rotation should have assigned all obvious unassigned requests prior the meeting.</li>
+        </ul>
+      </td>
+    </tr>
+       <tr>
+      <td style="text-align:left">During Meeting</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Release Manager: Get updates from PMs on itmes scheduled in the Release Plan</li>
+          <li>PM on Twitter Rotation for week: Triage any non-obvious unassigned Customer Requests</li>
+          <li>Queued agenda items. Some agenda items that take a large amount of time may be time-copped based on other agenda items queued.</li>
+          <li>Note action steps for agenda items, especially when there is follow up required for PM who did not queue the item.</li>
+        </ul>
+      </td>
+    </tr>
+       <tr>
+      <td style="text-align:left">Post Meeting</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Provide updates on action steps posted against previous agenda items. This may include providing a follow up agenda item for a future meeting.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-Attendees: All PMs, Release Manager  
+#### Monthly Roadmap Q&A
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Attendees:</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>All PMs, Release Manager, Sales, Customer Success, Product Marketing</li>
+          <li>Chair: Lindsay Brock</li>
+          <li>Co-Chairs: </li>
+          <li>Vice Chair: </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Objectives:</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Demo features that will be released in upcoming release</li>
+          <li>Communicate important information regarding a feature</li>
+          <li>Answer questions regarding the feature (ie: use cases, technical questions, etc)</li>
+          <li>Share updates on any important upcoming product changes</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Time:</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Monthly meeting on 2nd Monday of the Month from 8:30am to 9:00am Palo Alto time.</li>
+        </ul>
+      </td>
+    </tr>
+       <tr>
+      <td style="text-align:left">Meeting Preparation</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Prepare a list of features you would like to showcase during the meeting. The agenda of features PMs are presented are typically coordinated a few days in advance. </li>
+          <li>Prepare a short demo of the features. Show prototypes or designs if a demo environment is not available. </li>
+          <li>Prepare information that the team may need to be aware of regarding feature, and be prepared to answers questions about the feature. </li>
+        </ul>
+      </td>
+    </tr>
+       <tr>
+      <td style="text-align:left">During Meeting</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Present your demos and share any other important information regarding features or upcoming product changes. </li>
+          <li>Answer questions from the team. It may be necessary to time-cop a particular topic to ensure we can share all the demos on the agenda. </li>
+        </ul>
+      </td>
+    </tr>
+       <tr>
+      <td style="text-align:left">Post Meeting</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Provide updates on action steps posted against previous agenda items. This may include providing a follow up agenda item for a future meeting.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Product Management Success Metrics \(WIP\)
