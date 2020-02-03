@@ -185,15 +185,15 @@ There are additional data quality issues within the Events.security table that n
 
 ## TEDAU
 
-**TEDAU** stands for _Telemetry-Enabled Daily Active Users_. It is the sum of all "Active Users" logged by [telemetry-enabled production servers](metrics-definitions.md#server-condsiderations) on a given date. The TEDAU calculation sums the "active\_user\_count" column in the Mattermost.server\_daily\_details table. 
-
-### Telemetry-Enabled Active Users
-
-Telemetry-Enabled Active Users are users, hosted by a telemetry-enabled production server, that have visited the Mattermost site in the last 24 hours.
+**TEDAU** stands for _Telemetry-Enabled Daily Active Users_. It is a metric that takes the rolling 7-day average of the sum of all "Active Users" logged by [telemetry-enabled production servers](metrics-definitions.md#tedas) on a given date. The TEDAU calculation sums the active\_user\_count column in the Mattermost.server\_daily\_details table, and then averages that value over the last 7 days. 
 
 ### TEDAU Caveats
 
-TEDAU is the sum of active users for verified production servers that are telemetry-enabled \(described in [this TEDAS section](metrics-definitions.md#server-condsiderations)\). All other servers, and their active user counts, are ignored as they represent testing, dev, and one-off user case environments that skew the measure.
+TEDAU is the rolling 7-day average sum of active users for only verified production servers that are telemetry-enabled \(described in [this TEDAS section](metrics-definitions.md)\). All other servers, and their active user counts, are ignored as they represent testing, dev, and one-off user case environments that skew the results.
+
+#### Telemetry-Enabled Active Users vs. TEDAU Metric
+
+The distinction between an individual server's Telemetry-Enabled Active Users and the TEDAU metric is important to note. Telemetry-Enabled Active Users are the collection of users hosted by a telemetry-enabled production server, that have visited the Mattermost site in the last 24 hours. The TEDAU metric is the rolling 7-day average sum of these users across all servers
 
 
 
