@@ -189,7 +189,7 @@ There are additional data quality issues within the Events.security table that n
 
 ### TEDAU Caveats
 
-TEDAU is the rolling 7-day average sum of active users for only verified production servers that are telemetry-enabled \(described in [this TEDAS section](metrics-definitions.md)\). All other servers, and their active user counts, are ignored as they represent testing, dev, and one-off user case environments that skew the results.
+TEDAU is the rolling 7-day average sum of active users for only verified production servers that are telemetry-enabled \(described in [this TEDAS section](metrics-definitions.md#server-considerations)\). All other servers, and their active user counts, are ignored as they represent testing, dev, and one-off user case environments that skew the results.
 
 #### Telemetry-Enabled Active Users vs. TEDAU Metric
 
