@@ -161,10 +161,8 @@ TEDAS stands for _Telemetry-Enabled Daily Active Servers_. It is the count of un
 
 ### Server Considerations
 
-TEDAS only measures the count of active production servers. The Mattermost.server\_daily\_details is used to calculate TEDAS and only contains these production servers. The table is derived from the Events.security table. Production servers are inserted into the Mattermost.server\_daily\_details table using logic to filter the Events.security table.
+TEDAS only measures the count of active production servers. The Mattermost.server\_daily\_details is used to calculate TEDAS and only contains these production servers. The table is derived from the Events.security table. Production servers are inserted into the Mattermost.server\_daily\_details table using logic to filter the servers in the Events.security table. Events.security table logs all server responses to Mattermost's call to collect telemetry data. Server types include test, development, and production servers.
 
-* Events.security table logs all server responses to Mattermost's call to collect telemetry data.
-  * Server types include test, development, and production servers.
 * Logic to identify production servers within the Events.security table is as follows:
   * Version matching recognized format
     * `version LIKE '_.%._._.%._'`
