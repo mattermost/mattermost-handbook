@@ -144,7 +144,7 @@ All Google Analytics data in Snowflake is at a **daily** level. See [limitations
 
 ## TEDAS
 
-TEDAS stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique, [production servers](metrics-definitions.md#server-condsiderations) sending telemetry \(“activity"\) data to Mattermost on a given date. Each component of TEDAS can be described as follows:
+TEDAS stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique, [production servers](metrics-definitions.md#server-considerations) sending telemetry \(“activity"\) data to Mattermost on a given date. Each component of TEDAS can be described as follows:
 
 * Telemetry Enabled:
   * Servers that are telemetry enabled have “Error Reporting and Diagnostics” or “Security Alert” enabled in System Console.
