@@ -468,9 +468,12 @@ Please encourage collegues to add tickets when they are discussing requests in M
 
 Product Managers rotate responsibility weekly for monitoring and responding to Mattermost mentions on our corporate Twitter account. The PM on rotation can be found in the header of the [Mattermost Twitter channel](https://community-daily.mattermost.com/core/channels/twitter). The rotation switches on Monday and is scheduled alphabetically by first name. The PM on rotation will be mentioned on the first day of their rotation. The PM that was previously on rotation should reach out to the new PM on rotation to hand off the duties and to remind on the additional responsibilities of assigning unassigned Customer Requests. Below are the responsibilities of the PM on Twitter rotation:
 
-* Monitor Twitter channel in Mattermost Contributors Team: [https://community-daily.mattermost.com/core/channels/twitter](https://community-daily.mattermost.com/core/channels/twitter) 
+* Monitor Twitter channel in Mattermost Contributors Team: [https://community.mattermost.com/core/channels/twitter](https://community.mattermost.com/core/channels/twitter) 
 * Respond to product inquiries, retweet, and like posts that we are tagged in per the guidelines outlined on [https://docs.mattermost.com/process/community-guidelines.html\#mattermost-twitter](https://docs.mattermost.com/process/community-guidelines.html#mattermost-twitter)
-* Update posts in the Twitter channel with action taken. 
+* Update posts in the Twitter channel with action taken.
+  * React with `:heart:` if you liked the post.
+  * React with `:repeat:` if you retweeted the post.
+  * React with `:no_entry_sign:` if you took no action.
 * Assign any unassigned Customer Requests.  If you are unsure of who to assign, ask during the PM Meeting. 
 
 ### Organizational Improvements
