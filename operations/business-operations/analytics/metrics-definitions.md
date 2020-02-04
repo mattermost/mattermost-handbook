@@ -176,7 +176,7 @@ TEDAS only measures the count of active production servers. The Mattermost.serve
 
 ### Server Age
 
-The age of a server is determined by the server's first active date. This is the minimum date a response to Mattermost's call to collect telemetry data was recorded. It can be thought of as the server's first recorded telemetry-enabled date i.e. first active date. The age of the server is calculated as a function of this date. It is the days between the server's first active date, discussed above, and the current date \(or any relative date being used as a comparison to calculate server age at any point throughout its lifetime\).
+The age of a server is determined by the server's first active date. This is the minimum date a response to Mattermost's call to collect telemetry data was recorded. It can be thought of as the server's first recorded telemetry-enabled date i.e. first active date. The age of the server is calculated as a function of this date. It is the days between the server's first active date, discussed above, and the current date \(or other relative date being used as a comparison to calculate server age at any point throughout its lifetime\).
 
 * Server Age = Current Date - Server First Active Date
 
