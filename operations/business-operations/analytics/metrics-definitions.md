@@ -147,17 +147,15 @@ All Google Analytics data in Snowflake is at a **daily** level. See [limitations
 TEDAS stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique, [production servers](metrics-definitions.md#server-considerations) sending telemetry \(“activity"\) data to Mattermost on a given date. Each component of TEDAS can be described as follows:
 
 * Telemetry Enabled:
-  * Servers that are telemetry enabled have “Error Reporting and Diagnostics” or “Security Alert” enabled in System Console.
+  * Servers have “Error Reporting and Diagnostics” or “Security Alert” enabled in System Console.
 * Daily Active:
-  * Servers are classified as active on a given day when they respond to Mattermost's call to collect telemetry data.
+  * Response to Mattermost's call to collect telemetry data recorded on a given date.
     * For a server to respond, it must be online and telemetry enabled.
 * Servers:
   * Servers host Mattermost instances for teams & organizations.
-  * Each team or organization can have one-to-many servers installed to host their instance.
+  * Each team/organization can have one-to-many servers installed to host their instance.
     * Small/Medium teams typically leverage a single server.
     * Large teams can leverage Enterprise Edition features to create server clusters that allow them to scale their instance.
-  * _**Non-production servers**_ ****are not included in TEDAS calculations.
-    * Test and development servers are non-production servers that can be spun up for testing and various other use cases.
 
 ### Server Considerations
 
@@ -173,6 +171,12 @@ TEDAS only measures the count of active production servers. The Mattermost.serve
   * Registered Users &gt;= Active Users
     * `user_count >= active_user_count`
     * Data anomalies occur causing servers to show  active users &gt; provisioned users - these servers must be excluded.
+
+#### **Non-production servers**
+
+Non-production servers are not included in TEDAS calculations.
+
+* Test and development servers are non-production servers that can be spun up for testing and various other use cases.
 
 #### Server Age
 
