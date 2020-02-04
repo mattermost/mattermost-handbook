@@ -56,7 +56,7 @@ Once complete, submit your Pull Request \(PR\). Ensure that you assign appropria
 
 Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the DocUp plugin embedded in the post menu.
 
-![Access the Doc Up plugin by hovering over a message and clicking the &quot;...&quot; menu.](../../../.gitbook/assets/image%20%2814%29.png)
+![Access the Doc Up plugin by hovering over a message and clicking the &quot;...&quot; menu.](../../../.gitbook/assets/image%20%2818%29.png)
 
 When you select DocUp, an issue is generated in the GitHub docs repo, and added to the issues list.
 

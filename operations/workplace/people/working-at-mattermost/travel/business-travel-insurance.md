@@ -24,3 +24,4 @@ If you are traveling on behalf of Mattermost and are needing a visa application,
 ## Reporting A Claim
 
 For type of coverage and to report a claim, refer to the [Guide to Reporting Claims](https://drive.google.com/file/d/16EhtGmq16dHe2JVsKjlyXbCNZgUmKW3j/view?usp=sharing). For further detail on the type of claims covered, refer to the
+

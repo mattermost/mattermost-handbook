@@ -4,7 +4,7 @@ description: '1% DRAFT (revised by Justin Reynolds on Dec 30, 2019)'
 
 # Blog Post Checklist
 
-Below is a checklist for blog posts published in https://mattermost.com/blog.
+Below is a checklist for blog posts published in [https://mattermost.com/blog](https://mattermost.com/blog).
 
 * **Does the post have an exciting title?**
   * Make sure it’s in sentence case
@@ -69,14 +69,12 @@ Below is a checklist for blog posts published in https://mattermost.com/blog.
 ![](https://lh3.googleusercontent.com/kZj5mfRAnV7PsopwRN7MrBkYjaM-zo8QTv0UtsKichuTDUyCXz6br0l1rm6aR3i8obtDZ_fm40mVg0rKhqZwFQNOXT9trFUJTZJMqD1R7OhPPLBFbRcfD4gLrXBf4U4xg2Ivrwp5)
 
 * **Is the post written by someone not affiliated with Mattermost?** If so:
-  * Add an editor's note explaining that at the bottom of the post:
-  
-  ![](https://lh3.googleusercontent.com/VACI-alAyjH5LnpHdcvlN1EoGahWfiNW9sfC1fnT5wMg7Y3FW3EkjP9zXlVZ6GOGL3cI1Advodm1Lx1cxEXFAY_znfvA-ouEm2N7nH4aDt36p0Qi2o2yTxfHGbvWjuMdsQFLrT81ve3PV7Yb7bwG96t2UW2Ve8nWB6ioB8rG5PH3z56rO_3Hmz1vBjZMowFJuJD1XoPRQpXUPkx2rOQ40JVLdO1Uyt9JBoeZjExbxS-AToJeavd7G_OIzSLnn4UeO2Rl8wsomEZfRuysdmRovM9c6xsvG24WXK5GlxmD7rp0r5D6hFH1M8TeJmlYJKX1rjORaG02QpGbk6Ua7-IKnQAU5FTf1KV-JKlcQ3WsC0DJPsqcnoltKBcJmFerYEzPBuu0Z3OdVYHodUlX90mDEB_tBRw13FT-81MvKDReTtUtg6eEkrq7GM_F3SdmK97RVGNLYF7TU2jkpQw5mBx6SxQbDkfWLD0tSNSX9KzJBSsyLfLry0LFGFOblr78bLHPdK9T-elCx9OOOvDiMAiOYwgqzuP3e5tiNMrVkSo7lYjXNuT2WD99K9zYIoQd7yX_GeyF0UVGr0L99c1fV_bCFn8OTWhoamMBkAG10v6WVOB08It5Y6eo2EmFJ10rDKET4Ys9qKGsjofidXP0BBY3b0tziAcZ5F3GMCJ5BwVV02qSorAlzTdyHaQ=w707-h150-no)
 
+  * Add an editor's note explaining that at the bottom of the post:
+
+  ![](https://lh3.googleusercontent.com/VACI-alAyjH5LnpHdcvlN1EoGahWfiNW9sfC1fnT5wMg7Y3FW3EkjP9zXlVZ6GOGL3cI1Advodm1Lx1cxEXFAY_znfvA-ouEm2N7nH4aDt36p0Qi2o2yTxfHGbvWjuMdsQFLrT81ve3PV7Yb7bwG96t2UW2Ve8nWB6ioB8rG5PH3z56rO_3Hmz1vBjZMowFJuJD1XoPRQpXUPkx2rOQ40JVLdO1Uyt9JBoeZjExbxS-AToJeavd7G_OIzSLnn4UeO2Rl8wsomEZfRuysdmRovM9c6xsvG24WXK5GlxmD7rp0r5D6hFH1M8TeJmlYJKX1rjORaG02QpGbk6Ua7-IKnQAU5FTf1KV-JKlcQ3WsC0DJPsqcnoltKBcJmFerYEzPBuu0Z3OdVYHodUlX90mDEB_tBRw13FT-81MvKDReTtUtg6eEkrq7GM_F3SdmK97RVGNLYF7TU2jkpQw5mBx6SxQbDkfWLD0tSNSX9KzJBSsyLfLry0LFGFOblr78bLHPdK9T-elCx9OOOvDiMAiOYwgqzuP3e5tiNMrVkSo7lYjXNuT2WD99K9zYIoQd7yX_GeyF0UVGr0L99c1fV_bCFn8OTWhoamMBkAG10v6WVOB08It5Y6eo2EmFJ10rDKET4Ys9qKGsjofidXP0BBY3b0tziAcZ5F3GMCJ5BwVV02qSorAlzTdyHaQ=w707-h150-no)
 
 * **Does the post have images?** If so:
   * Images should be crisp and clear \(see: [Screenshot and GIF guidelines](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-screenshots-and-gifs)\)
   * Images that “bleed” into the whitespace should have a grey \(\#F7F9FA\) 1px border on all four edges
-
-
 

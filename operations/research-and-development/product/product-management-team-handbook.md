@@ -490,47 +490,57 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
 
 #### PM Meeting
 
+|  |  |
+| :--- | :--- |
+
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Attendees:</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Attendees:</th>
+      <th style="text-align:left">
         <ul>
           <li>All PMs, Release Manager</li>
           <li>Chair: Lindsay Brock</li>
           <li>Co-Chairs:</li>
           <li>Vice Chair:</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">Objectives:</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Objectives:</th>
+      <th style="text-align:left">
         <ul>
           <li>Update progress on features for current release</li>
           <li>Triage unassigned Customer Requests</li>
           <li>Share team updates and best practices</li>
           <li>Gather input from PM colleagues on proposals to uncover blindspots</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">Time:</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Time:</th>
+      <th style="text-align:left">
         <ul>
           <li>Weekly meeting on Wednesdays from 9:00am to 9:30am Palo Alto time.</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">Meeting Preparation</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Meeting Preparation</th>
+      <th style="text-align:left">
         <ul>
           <li>Post agenda items to the Product Management channel. Items are queued
             as a numbered post with a short description such as this [example](https://community.mattermost.com/core/pl/a58u4f5p77bpfx5ygyawnwm83y).
@@ -539,11 +549,15 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
           <li>PM on the Customer Request Rotation should have assigned all obvious unassigned
             requests prior the meeting.</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">During Meeting</td>
-      <td style="text-align:left">
+      <th style="text-align:left">During Meeting</th>
+      <th style="text-align:left">
         <ul>
           <li>Release Manager: Get updates from PMs on items scheduled in the Release
             Plan.</li>
@@ -554,42 +568,47 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
           <li>Note action steps for agenda items, especially when there is follow up
             required for PM who did not queue the item.</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">Post Meeting</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Post Meeting</th>
+      <th style="text-align:left">
         <ul>
           <li>Provide updates on action steps posted against previous agenda items.
             This may include providing a follow up agenda item for a future meeting.</li>
         </ul>
-      </td>
+      </th>
     </tr>
-  </tbody>
-</table>#### Monthly Roadmap Q&A
+  </thead>
+  <tbody></tbody>
+</table>|  |  |
+| :--- | :--- |
+
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Attendees:</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Attendees:</th>
+      <th style="text-align:left">
         <ul>
           <li>All PMs, Release Manager, Sales, Customer Success, Product Marketing</li>
           <li>Chair: Lindsay Brock</li>
           <li>Co-Chairs:</li>
           <li>Vice Chair:</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">Objectives:</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Objectives:</th>
+      <th style="text-align:left">
         <ul>
           <li>Demo features that will be released in upcoming release</li>
           <li>Communicate important information regarding a feature</li>
@@ -597,20 +616,28 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
             etc)</li>
           <li>Share updates on any important upcoming product changes</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">Time:</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Time:</th>
+      <th style="text-align:left">
         <ul>
           <li>Monthly meeting on 2nd Monday of the Month from 8:30am to 9:00am Palo
             Alto time.</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">Meeting Preparation</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Meeting Preparation</th>
+      <th style="text-align:left">
         <ul>
           <li>Prepare a list of features you would like to showcase during the meeting.
             The agenda of features PMs are presented are typically coordinated a few
@@ -620,30 +647,37 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
           <li>Prepare information that the team may need to be aware of regarding feature,
             and be prepared to answers questions about the feature.</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">During Meeting</td>
-      <td style="text-align:left">
+      <th style="text-align:left">During Meeting</th>
+      <th style="text-align:left">
         <ul>
           <li>Present your demos and share any other important information regarding
             features or upcoming product changes.</li>
           <li>Answer questions from the team. It may be necessary to time-cop a particular
             topic to ensure we can share all the demos on the agenda.</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">Post Meeting</td>
-      <td style="text-align:left">
+      <th style="text-align:left">Post Meeting</th>
+      <th style="text-align:left">
         <ul>
           <li>Provide updates on action steps posted against previous agenda items.
             This may include providing a follow up agenda item for a future meeting.</li>
         </ul>
-      </td>
+      </th>
     </tr>
-  </tbody>
-</table>## Product Management Success Metrics \(WIP\)
-
-## Resources \(WIP\)
+  </thead>
+  <tbody></tbody>
+</table>## Resources \(WIP\)
 
