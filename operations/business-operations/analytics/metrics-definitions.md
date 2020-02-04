@@ -159,10 +159,12 @@ TEDAS stands for _Telemetry-Enabled Daily Active Servers_. It is the count of un
 
 ### Server Considerations
 
-TEDAS only measures the count of active production servers. The Mattermost.server\_daily\_details is used to calculate TEDAS and only contains these production servers. The table is derived from the Events.security table. Production servers are inserted into the Mattermost.server\_daily\_details table using logic to filter the servers in the Events.security table. Events.security table logs all server responses to Mattermost's call to collect telemetry data. Server types include test, development, and production servers.
+TEDAS only measures the count of active production servers. The Mattermost.server\_daily\_details table is used to calculate TEDAS and only contains production servers. Mattermost.server\_daily\_details is derived from the Events.security table. 
+
+The Events.security table logs all server responses to Mattermost's call to collect telemetry data. The Server type responses include test, development, and production servers. Conditional logic is used to filter out non-production servers from the Events.security table and insert them into the Mattermost.server\_daily\_details table.
 
 * Logic to identify production servers within the Events.security table is as follows:
-  * Version matching recognized format
+  * Mattermost Version matching recognized format
     * `version LIKE '_.%._._.%._'`
     * Other version formats are not valid because they indicate a test, development, or custom built instance
   * No "Dev Builds" and "Ran Tests" recorded
@@ -174,9 +176,7 @@ TEDAS only measures the count of active production servers. The Mattermost.serve
 
 #### **Non-production servers**
 
-Non-production servers are not included in TEDAS calculations.
-
-* Test and development servers are non-production servers that can be spun up for testing and various other use cases.
+Non-production servers are not included in TEDAS calculations. Test and development servers are non-production servers that can be spun up for testing and various other use cases.
 
 #### Server Age
 
