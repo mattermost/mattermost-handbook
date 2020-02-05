@@ -14,6 +14,7 @@ The purpose of this playbook is to provide more details on the Product Manager r
 
 | Date | Edited By | Change Notes |
 | :--- | :--- | :--- |
+| 2/5/2020 | Adam Clarkson | Added notes on Customer Request Rotation |
 | 2/2/2020 | Katie Wiersgalla | Updated Twitter, Customer Requests, PM meetings |
 | 8/30/2019 | Katie Wiersgalla | Update sections with additional resources |
 | 6/12/2019 | Lindsay Brock | Updated outdated sections |
@@ -453,6 +454,11 @@ Please encourage collegues to add tickets when they are discussing requests in M
 * Link any implementation or design tickets to the request. 
 * Update the Fix Version of the feature to provide an indication of when the reporting request may be addressed. Generally, `Planned: Near Term` means it will be addressed in the next 1-3 releases, `Planned: Ongoing` means that is something that is being actively worked on, but progress may be slow, `Planned: Unscheduled` means we plan on addressing, but it is not currently on the roadmap, `Future Consideration` means we need to collect more details on use cases and demand before scheduling into a future roadmap and`Not Planned` means that we will not be working on addressing the request. 
 * Update the ticket status to closed when a feature is completed. 
+
+#### Customer Request Rotation
+
+In sync with the Twitter rotation, Product Managers rotate responsibility weekly for monitoring newly filed [customer requests](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=17&projectKey=CR&view=planning.nodetail&quickFilter=97&issueLimit=100) and ensuring newly filed requests are assigned to the appropriate PM according to areas of ownership. The weekly PM meeting is the time to identify requests where ownership is unlcear or merits discussion. The PM on rotation should also remind fellow PMs in the Product Management channel to review their requests and at a minimum update the Fix Version.
+
 
 #### Community Success
 
