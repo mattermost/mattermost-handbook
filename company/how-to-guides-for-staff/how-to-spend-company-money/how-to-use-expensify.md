@@ -141,7 +141,8 @@ Categories are expense types such as airfare, hotels, meals, and more. When clas
 | Postage and Shipping | Postage & shipping fees for business related matters |
 | Professional Development | Continuing education or professional development |
 | Rideshares & Rentals | Uber, Lyft, taxi, rental car, train, parking, etc. |
-| Software expense | Software licenses & subscriptions |
+| Software expense | Software licenses & subscription |
+| Team Meals | Meals and snacks during team sprints, events, and outings |
 | Team Outing | Tickets, tours, events with staff members |
 | Travel Meals | Personal meals while traveling |
 | Travel Telecommunications | Phone, internet, etc. while travelling |
