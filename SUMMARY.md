@@ -63,6 +63,7 @@
   * [Checklists for M&M](operations/messaging-and-math/checklists-for-m-and-m/README.md)
     * [Blog Post Checklist](operations/messaging-and-math/checklists-for-m-and-m/blog-post-checklist.md)
     * [Bio Checklist](operations/messaging-and-math/checklists-for-m-and-m/bio-checklist.md)
+  * [Demand Generation Reporting](operations/messaging-and-math/demand-generation-reporting.md)
   * [M&M Asana Guidelines](operations/messaging-and-math/asana-guidelines.md)
 * [Sales](operations/sales.md)
 * [Customer Success](operations/customer-success/README.md)
