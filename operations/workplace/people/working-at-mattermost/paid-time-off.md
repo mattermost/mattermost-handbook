@@ -24,7 +24,7 @@ Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Pa
 
 ### Where to go to see who's on PTO:
 
-* PTO reminders appear in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) on first and last day of PTO.
+* [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up)
 
 **Common Time Off Questions**
 
