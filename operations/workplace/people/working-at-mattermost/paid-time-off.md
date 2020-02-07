@@ -18,15 +18,13 @@ Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Pa
 
 ### When you take time-off, please do the following:
 
-1. Let your management know your [PTO](../../../../company/about-mattermost/list-of-terms.md#pto-or-paid-time-off) dates and who will be your [backup\(s\)](https://handbook.mattermost.com/operations/people/working-at-mattermost#5-be-the-change-you-want-to-see). 
-2. Add your time off to [BambooHR ](https://mattermost.bamboohr.com/)
+1. Let your management know your [PTO](../../../../company/about-mattermost/list-of-terms.md#pto-or-paid-time-off) dates and who will be your [backup\(s\)](https://handbook.mattermost.com/operations/people/working-at-mattermost#5-be-the-change-you-want-to-see).
+2. Post in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up)
 3. Enjoy your time off! 
 
 ### Where to go to see who's on PTO:
 
-* PTO reminders appear in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) on first and last day of PTO. 
-* Time-Off Calendar \(link to come\) 
-* BambooHR -  there is a calendar feed on the dashboard home page
+* PTO reminders appear in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) on first and last day of PTO.
 
 **Common Time Off Questions**
 
