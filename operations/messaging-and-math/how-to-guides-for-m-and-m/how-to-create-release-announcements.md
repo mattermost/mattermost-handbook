@@ -31,6 +31,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 1. **Exciting title**
    1. Do not lead with a competitor parity feature 
    2. Communicate primary benefit
+   3. Lead with the most exciting/impactful new feature
 2. **Compelling, specific one-liners**
    1. Introduce features with compelling, concise, specific descriptions
    2. If the feature is a filler for a release, be vague and add it at the end of the blog post, e.g. "Performance improvements to mobile" **\(please avoid when possible\)**
@@ -58,7 +59,14 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 ## **Style Guidelines**
 
 1. Highlight past successes: Cross link to promote traffic 
-2. Links tell a story: Links should indicate the content they lead to without clicking, avoid "read this blog post" and instead "learn more about the incident response alpha program" 
+2. Links tell a story: Links should indicate the content they lead to without clicking, avoid "read this blog post" and instead "learn more about the incident response alpha program"
+
+## Language Guidelines**
+1. Specify Desktop app or Mobile App if a feature is not dependent on the server release
+2. Sites --> Servers
+3. "Better messaging experience" is too vague
+4. Do not use internal names of features, such as "Unread toasts", "Deep linking"
+5. Webapp --> Browser
 
 ## Screenshot Guidelines
 
