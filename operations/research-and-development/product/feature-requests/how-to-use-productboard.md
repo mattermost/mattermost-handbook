@@ -18,7 +18,7 @@ You can either link the feedback to an existing feature request, or create a new
 
 Finally, you will choose how important this request is for the user or customer. For feedback coming from customers, this is typically shared by the appropriate team member in the customer team who has first-hand knowledge of the criticality of the request.
 
-![](../../../../.gitbook/assets/image%20%2813%29.png)
+![](../../../../.gitbook/assets/productboard-link-feedback.png)
 
 Linking feedback directly to features lets you easily capture and organize ideas. It also attaches customer information and request details automatically from the call notes to the detailed product feedback \(dependent on available integrations, one for a two-way native Salesforce integration is coming soon\).
 
@@ -46,7 +46,7 @@ Two other commonly used views include the [Top Requests View](https://mattermost
 
 With these views, including custom ones you can create, you can prioritize features and surface priority requests in the Features board. Based on the prioritization, you can change the feature status to a Candidate for roadmap, or Planned for roadmap. _**// Do we have an optimal way of doing this?**_
 
-![](../../../../.gitbook/assets/image%20%283%29.png)
+![](../../../../.gitbook/assets/productboard-feature-status.png)
 
 Once the feature is in progress or released, you can update its status in ProductBoard accordingly.
 
