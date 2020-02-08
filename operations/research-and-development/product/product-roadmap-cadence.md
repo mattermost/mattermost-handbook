@@ -99,7 +99,7 @@ _**\(Calendars are provided as screenshots, until proper Markdown formatting for
 
 ![](../../../.gitbook/assets/image%20%281%29.png)
 
-![](../../../.gitbook/assets/image%20%2814%29.png)
+![](../../../.gitbook/assets/release-timeline-feb2020.png)
 
 ![](../../../.gitbook/assets/image%20%2858%29.png)
 
