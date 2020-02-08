@@ -97,23 +97,23 @@ The timeline below is for Jan/2020 - Sept/2020.
 
 _**\(Calendars are provided as screenshots, until proper Markdown formatting for tables is found. Author is uncertain why tables are different sizes, though screenshots taken were equally sized**_
 
-![](../../../.gitbook/assets/image%20%281%29.png)
+![](../../../.gitbook/assets/release-timeline-jan2020.png)
 
 ![](../../../.gitbook/assets/release-timeline-feb2020.png)
 
-![](../../../.gitbook/assets/image%20%2858%29.png)
+![](../../../.gitbook/assets/release-timeline-mar2020.png)
 
-![](../../../.gitbook/assets/image%20%2854%29.png)
+![](../../../.gitbook/assets/release-timeline-apr2020.png)
 
-![](../../../.gitbook/assets/image%20%2856%29.png)
+![](../../../.gitbook/assets/release-timeline-may2020.png)
 
-![](../../../.gitbook/assets/image%20%2860%29.png)
+![](../../../.gitbook/assets/release-timeline-jun2020.png)
 
-![](../../../.gitbook/assets/image%20%2855%29.png)
+![](../../../.gitbook/assets/release-timeline-jul2020.png)
 
-![](../../../.gitbook/assets/image%20%2840%29.png)
+![](../../../.gitbook/assets/release-timeline-aug2020.png)
 
-![](../../../.gitbook/assets/image%20%2849%29.png)
+![](../../../.gitbook/assets/release-timeline-sep2020.png)
 
 ## **Roadmap Timeline Guidelines**
 
