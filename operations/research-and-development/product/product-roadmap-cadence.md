@@ -10,7 +10,7 @@ This page provides an overview of product roadmap cadence and timeline, and how 
 
 ## **Roadmap Planning Cadence**
 
-At Mattermost, our planning cadence consists of: 
+At Mattermost, our planning cadence consists of:
 
 1. **Yearly** - Company fiscal year and long term product strategy planning
 2. **Quarterly** - Roadmap and Quarterly OKR planning 
@@ -18,16 +18,16 @@ At Mattermost, our planning cadence consists of:
 
 Since we follow an agile development style, our roadmap is an [agile roadmap](https://www.aha.io/roadmapping/guide/product-roadmap/how-do-product-managers-build-an-agile-roadmap). We plan a roadmap quarterly, following the process outlined below.
 
-Before each quarter begins, we lock on plans for: 
+Before each quarter begins, we lock on plans for:
 
 * **What’s Launching** - Key initiatives we plan to work with Marketing on launching this quarter 
 * **What’s In Progress** - Key initiatives we will start working on this quarter, but may not ship until a future quarter
 
-We also update the backlog to show which items we are considering for 6 to 12 months out, but this list is flexible and gets updated each quarter based on any changes to company strategy, product goals, community needs, and market conditions. 
+We also update the backlog to show which items we are considering for 6 to 12 months out, but this list is flexible and gets updated each quarter based on any changes to company strategy, product goals, community needs, and market conditions.
 
 ### Yearly Planning
 
-See [company handbook](https://handbook.mattermost.com/operations/operations/mlt-cadence#fiscal-year-planning) for information on how we do company planning for the fiscal year. We typically use [VPMOMs](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-vpmom) as a structure for our yearly plans. 
+See [company handbook](https://handbook.mattermost.com/operations/operations/mlt-cadence#fiscal-year-planning) for information on how we do company planning for the fiscal year. We typically use [VPMOMs](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-vpmom) as a structure for our yearly plans.
 
 ### Quarterly Planning
 
@@ -71,7 +71,7 @@ See [company handbook](https://handbook.mattermost.com/operations/operations/mlt
 
 ### Monthly Updates
 
-Each team sets up a monthly meeting with Product and Engineering leadership to share progress on quarterly goals. 
+Each team sets up a monthly meeting with Product and Engineering leadership to share progress on quarterly goals.
 
 1. First 45 min
    1. Entire team \(Dev, Design, PM, QA\) attends
@@ -166,8 +166,4 @@ _**\(Calendars are provided as screenshots, until proper Markdown formatting for
 * [Product planning and prioritization diagram](https://www.lucidchart.com/documents/edit/e0e3a4bd-7704-4b42-adde-afee777cd075/0_0?shared=true)
 * [MLT cadence](https://handbook.mattermost.com/operations/operations/mlt-cadence)
 * [Corporate calendar](https://calendar.google.com/calendar?cid=bWF0dGVybW9zdC5jb21fZDV1djQ1ZTA4aGJkY3RuNHVpZWFhc2NiOGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-
-
-
-
 

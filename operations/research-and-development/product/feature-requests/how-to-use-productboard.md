@@ -26,7 +26,7 @@ Linking feedback directly to features lets you easily capture and organize ideas
 
 Second critical element is prioritizing features in the Features board.
 
-Usually you would start from the [Feature Organization View](https://mattermost.productboard.com/feature-board/1097524-feature-organization) which has all features broken in a [product hierarchy](https://www.productboard.com/blog/product-hierarchy-set-up/) by feature teams, epics and stories. 
+Usually you would start from the [Feature Organization View](https://mattermost.productboard.com/feature-board/1097524-feature-organization) which has all features broken in a [product hierarchy](https://www.productboard.com/blog/product-hierarchy-set-up/) by feature teams, epics and stories.
 
 * Feature teams is the top-level category and refers to the corresponding R&D team, such as Apps, Platform and Integrations
 * Epics are high-level theme such as Compliance or Client-Side Performance
@@ -79,6 +79,5 @@ To be added by Feb 12.
 
 ## 3 - Day in the life of a Customer Success Manager or Solution Architect
 
-To be added by Feb 12.  
-
+To be added by Feb 12.
 
