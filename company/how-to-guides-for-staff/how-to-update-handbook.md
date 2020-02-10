@@ -47,15 +47,12 @@ Once the review process is complete, the change is merged and pushed live. We re
 
 1 - All Handbook pages are written in Markdown formatting, which is also the language used to post messages in Mattermost. To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
 
-2 - Creating a new page follows the same process above, except in this case you cannot simply edit an existing page. Instead:
+2 - Creating a new page follows the same process above, except in this case:
 
    - navigate to that section of the handbook that you want to add a new page for, and select **Create new file**.
-
-   ![](../../.gitbook/assets/how-to-update-handbook-create-new-file.png)
-
    - add your new page to the [handbook table of contents](https://github.com/mattermost/mattermost-handbook/blob/0.2.1/SUMMARY.md).
 
-   From here, follow the same steps detailed above.
+![](../../.gitbook/assets/how-to-update-handbook-create-new-file.png)
 
 3 - To add an image to your documentation, follow these two steps:
 
