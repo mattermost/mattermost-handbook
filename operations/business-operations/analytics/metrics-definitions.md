@@ -28,10 +28,6 @@
     * Would count as
       * 1 First Time Contributor + 1 First Time contribution + 2 Non First Contributions
 
-
-
-
-
 ## Downloads
 
 ### **Monthly Server Downloads**
