@@ -16,15 +16,22 @@ If this is your first time contributing to Mattermost, first read the [Mattermos
 #### 2 - Editing an Existing Page
 
 After you have opened the page you want to edit in GitHub, click the **Edit** pencil icon in the top right corner.
+
 This opens a Markdown formatted document of the page. To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
 
 #### 3 - Creating a Pull Request
 
 When you're ready to submit your changes, scroll to the bottom of the page to commit your changes.
+
 Add a descriptive title and comments to summarize the changes made, then select **Create a new branch for this commit and start a pull request**.
+
 After this, click the **Propose file change** button.
 
+![](../../.gitbook/assets/how-to-update-handbook-commit-changes.png)
+
 Scroll down to compare changes with the original document, request **Reviewers** on the top right navigation, then select **Create pull request**. 
+
+![](../../.gitbook/assets/how-to-update-handbook-create-new-pull-request.png)
 
 #### 4 - Commenting on a Pull Request
 
@@ -43,6 +50,9 @@ Once the review process is complete, the change is merged and pushed live. We re
 2 - Creating a new page follows the same process above, except in this case you cannot simply edit an existing page. Instead:
 
    - navigate to that section of the handbook that you want to add a new page for, and select **Create new file**.
+
+   ![](../../.gitbook/assets/how-to-update-handbook-create-new-file.png)
+
    - add your new page to the [handbook table of contents](https://github.com/mattermost/mattermost-handbook/blob/0.2.1/SUMMARY.md).
 
    From here, follow the same steps detailed above.
