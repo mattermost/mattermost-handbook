@@ -63,3 +63,6 @@ Once the review process is complete, the change is merged and pushed live. We re
      ![](../../../.gitbook/assets/release-timeline-jan2020.png)
      ```
 
+### Training Video
+
+[Watch a training video on how to update the handbook in GitHub](https://drive.google.com/file/d/1AOI8H-oe2u1JW6oOA4nPPTSbGnK3Xuq1/view?usp=sharing).
