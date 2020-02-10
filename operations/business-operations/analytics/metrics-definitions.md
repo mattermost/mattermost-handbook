@@ -34,8 +34,8 @@
 
 #### All Server Downloads
 
-* Number of successfully completed unique TE + EE downloads by unique client IP address per month, from mattermost.com. Includes web browser and wget / curl downloads.
-  * Note: Excludes GitLab Omnibus downloads, Docker \(Dockerhub\) downloads, and Bitnami or other cloud image downloads, as we don’t currently have a good way of measuring these downloads.
+* Number of successfully completed unique TE \(Team Edition\) + EE \(Enterprise Edition\) downloads by unique client IP address per month, from mattermost.com. Includes web browser and wget / curl downloads.
+  * \*Note: Excludes GitLab Omnibus downloads, Docker \(Dockerhub\) downloads, and Bitnami or other cloud image downloads, as we don’t currently have a good way of measuring these downloads.
 
 **Monthly Enterprise Account Server Downloads**
 
@@ -45,6 +45,13 @@
 
 * The first contact or lead from a Named Enterprise Account who is attached to an Account either manually by an AE or by Marketo, and who provides a business email on mattermost.com/download after downloading the Mattermost server binary. 
   * Excludes Salesforce account types equal to Customer or Partner
+
+### Monthly App Downloads
+
+#### All Desktop App Downloads
+
+* Number of successfully completed desktop application downloads by unique client IP address per month, from mattermost.com. Includes web browser and wget / curl downloads.
+  * \*Note: Excludes GitLab Omnibus downloads, Docker \(Dockerhub\) downloads, and Bitnami or other cloud image downloads, as we don’t currently have a good way of measuring these downloads.
 
 ## Finance
 
