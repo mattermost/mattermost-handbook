@@ -36,7 +36,7 @@ Feedback on this handbook is immensely appreciated. Here's how you can share:
 
 That begins the cycle of feedback and iteration. While not all feedback will result in an update to the handbook, we definitely want to hear everyone's opinion. 
 
+## Updating this handbook
 
-
-
+Learn how to update this handbook through GitHub](https://handbook.com/company/how-to-guides-for-staff/how-to-update-handbook).
 
