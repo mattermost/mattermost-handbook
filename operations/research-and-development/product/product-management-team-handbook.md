@@ -590,7 +590,14 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+#### Monthly Roadmap Q&A - Pre-sales and Support
+
+|  |  |
+| :--- | :--- |
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Attendees:</th>
