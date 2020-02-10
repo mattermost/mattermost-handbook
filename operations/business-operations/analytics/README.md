@@ -24,7 +24,7 @@ Learn more about targets, descriptions, owners, and data sources for MLT Scorebo
 
 Learn more about timeline, current status, owners for automating Mattermost Business Metrics
 
-&lt;iframe src='[https://mattermost.looker.com/embed/public/jZxgHYKmcJ9GTXJcWgjdM9sxXtDqSXPD](https://mattermost.looker.com/embed/public/jZxgHYKmcJ9GTXJcWgjdM9sxXtDqSXPD)' width='600' height='338' frameborder='0'&gt;&lt;/iframe&gt;
+&lt;iframe src='https://mattermost.looker.com/embed/public/jZxgHYKmcJ9GTXJcWgjdM9sxXtDqSXPD' width='600' height='338' frameborder='0'&gt;&lt;/iframe&gt;
 
 &lt;iframe src='[https://mattermost.looker.com/embed/public/jZxgHYKmcJ9GTXJcWgjdM9sxXtDqSXPD](https://mattermost.looker.com/embed/public/jZxgHYKmcJ9GTXJcWgjdM9sxXtDqSXPD)' width='600' height='338' frameborder='0'&gt;&lt;/iframe&gt;
 
