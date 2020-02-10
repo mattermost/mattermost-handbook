@@ -1,4 +1,4 @@
-# Publishing
+# Mattermost Websites
 
 ## Mattermost Websites
 
@@ -8,6 +8,4 @@
 
 * Site renders well on mobile device
 * Email sign-ups support `[A]+[B]@[DOMAIN]` format
-
-
 
