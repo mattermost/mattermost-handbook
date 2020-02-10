@@ -10,6 +10,7 @@
   * [Mindsets](company/about-mattermost/mindsets.md)
 * ["How to" guides for staff](company/how-to-guides-for-staff/README.md)
   * [How to setup a 1-1 channel](company/how-to-guides-for-staff/how-to-setup-a-1-1-channel.md)
+  * [How to update handbook](company/how-to-guides-for-staff/how-to-update-handbook.md)
   * [How to spend company money](company/how-to-guides-for-staff/how-to-spend-company-money/README.md)
     * [How to use Expensify](company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify.md)
     * [How to book airfare and travel](company/how-to-guides-for-staff/how-to-spend-company-money/airfare-and-traveling.md)
