@@ -18,15 +18,15 @@ Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Pa
 
 ### When you take time-off, please do the following:
 
-1. Let your management know your [PTO](../../../../company/about-mattermost/list-of-terms.md#pto-or-paid-time-off) dates and who will be your [backup\(s\)](https://handbook.mattermost.com/operations/people/working-at-mattermost#5-be-the-change-you-want-to-see). 
-2. Add your time off to [BambooHR ](https://mattermost.bamboohr.com/)
-3. Enjoy your time off! 
+1. Let your management know your [PTO](../../../../company/about-mattermost/list-of-terms.md#pto-or-paid-time-off) dates and who will be your [backup\(s\)](https://handbook.mattermost.com/operations/people/working-at-mattermost#5-be-the-change-you-want-to-see).
+2. Post in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up)
+3. Block off time in the shared [Mattermost Time Off calendar](https://calendar.google.com/calendar/embed?src=mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com&ctz=America%2FLos_Angeles>), so it's easy for the team to see who is going to be away.
+4. Enjoy your time off! 
 
 ### Where to go to see who's on PTO:
 
-* PTO reminders appear in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) on first and last day of PTO. 
-* Time-Off Calendar \(link to come\) 
-* BambooHR -  there is a calendar feed on the dashboard home page
+* [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up)
+* [Mattermost Time Off calendar](https://calendar.google.com/calendar/embed?src=mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 
 **Common Time Off Questions**
 
@@ -68,4 +68,3 @@ It’s up to meeting chairs to decide whether to reschedule if few people can at
 +July 4, 2020 \(the legal public holiday for US Independence Day\), falls on a Saturday. For staff, Friday, July 3, may be treated as a holiday.
 
 ++December 26, 2020 falls on a Saturday.
-
