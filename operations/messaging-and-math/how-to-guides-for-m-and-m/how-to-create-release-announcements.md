@@ -82,5 +82,5 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 
 [Example of tweet using banner template](https://twitter.com/iantien/status/1217457762772238336)
 
-[Screenshot for templates for announcements and Twitter banners, including guides](../../../.gitbook/assets/image%20%2862%29.png)
+![Screenshot for templates for announcements and Twitter banners, including guides](../../../.gitbook/assets/image%20%2862%29.png)
 
