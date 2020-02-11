@@ -26,6 +26,7 @@ Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Pa
 ### Where to go to see who's on PTO:
 
 * [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up)
+* [Mattermost Time Off calendar](https://calendar.google.com/calendar/embed?src=mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 
 **Common Time Off Questions**
 
