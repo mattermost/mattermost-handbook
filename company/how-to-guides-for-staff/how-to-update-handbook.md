@@ -29,7 +29,7 @@ After this, click the **Propose file change** button.
 
 ![](../../.gitbook/assets/how-to-update-handbook-commit-changes.png)
 
-Scroll down to compare changes with the original document, request **Reviewers** on the top right navigation, select relevant labels for the pull request, then select **Create pull request**. 
+Scroll down to compare changes with the original document, request **Reviewers** on the top right navigation, select relevant [labels](https://developers.mattermost.com/contribute/getting-started/labels/) for the pull request, then select **Create pull request**. 
 
 ![](../../.gitbook/assets/how-to-update-handbook-create-new-pull-request.png)
 
