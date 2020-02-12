@@ -38,8 +38,6 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    3. Beta features can be at the bottom of the list
    4. Lead with verbs (e.g. "Find most recent messages faster")
    5. Start with benefits, then technical details
-   6. Specify Desktop app or Mobile App if a feature is not dependent on the server release
-   7. Do not use internal names of features, such as "Unread toasts", "Deep linking"
 3. **Complete**
    1. No spelling errors or broken links
    2. All features PM team wants to highlight are included
@@ -66,6 +64,12 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 ## Screenshot Guidelines
 
 [Learn how to create screenshots and GIFs](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-screenshots-and-gifs)
+
+## Language Guidelines**
+1. Specify Desktop app or Mobile App if a feature is not dependent on the server release
+2. Use common wording, e.g. say "Servers" instead of "Sites", or say "Browser" instead of "Webapp"
+3. "Better messaging experience" is too vague
+4. Do not use internal names of features, such as "Unread toasts", "Deep linking"
 
 ## One great screenshot a month
 
