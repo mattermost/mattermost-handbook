@@ -43,18 +43,28 @@ Once a pull request has been submitted and the correct label assigned, the revie
 
 Once the review process is complete, the change is merged and pushed live. We recommend you to review your changes at [https://handbook.mattermost.com](https://handbook.mattermost.com) for potential formatting errors.
 
-## Things to Know
+## Frequently Asked Questions
 
-1 - All Handbook pages are written in Markdown formatting, which is also the language used to post messages in Mattermost. To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
+### How do I format a page?
 
-2 - Creating a new page follows the same process above, except in this case:
+All Handbook pages are written in Markdown, which is also the language used to post messages in Mattermost. To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
+
+### How do I create a new page?
+
+Creating a new page follows the same process as above, with two exceptions:
 
 * navigate to that section of the handbook that you want to add a new page for, and select **Create new file**.
 * add your new page to the [handbook table of contents](https://github.com/mattermost/mattermost-handbook/blob/0.2.1/SUMMARY.md).
 
 ![](../../.gitbook/assets/how-to-update-handbook-create-new-file.png)
 
-3 - To add an image to your documentation, follow these two steps:
+### How do I update left-hand navigation?
+
+You can update the left-hand navigation through [SUMMARY.md](https://github.com/mattermost/mattermost-handbook/blob/0.2.1/SUMMARY.md) file.
+
+### How do I add an image to the documentation?
+
+Follow these two steps:
 
 * Go to the [/assets](https://github.com/mattermost/mattermost-handbook/tree/0.2.1/.gitbook/assets) folder, click **Upload files**, then upload the image files you want to add to your documentation. Make sure to have a clear name for each file you upload.
 * Go to the section you want to add an image to and include the following Markdown formatting
