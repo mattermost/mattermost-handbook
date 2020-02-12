@@ -39,7 +39,7 @@ Once a pull request is submitted, multiple committers may comment on it and prov
 
 ### Reviewing a Pull Request
 
-Once a pull request has been submitted and the correct label assigned, the review process begins. This includes aligning the content with the Style Guide, validating processes, and tagging any other relevant committers.
+Once a pull request has been submitted and the correct labels assigned, the review process begins. This includes aligning the content with the Style Guide, validating processes, and tagging any other relevant committers.
 
 Once the review process is complete, the change is merged and pushed live. We recommend that you review your changes at [https://handbook.mattermost.com](https://handbook.mattermost.com) for potential formatting errors.
 
