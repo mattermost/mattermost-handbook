@@ -26,13 +26,13 @@ The Mattermost logomark is called "the instrument". It represents four tools org
 ![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-logomarks.png)
 
 ### Logo Usage Guidelines
-##### Clear Space
+#### Clear Space
 To ensure an uncluttered presentation, always maintain a full X space around the logo. The X height is always the height of the lowercase letter “m” in “Mattermost”. Use the safety area as an invisible border.
 
 ![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-clearspace.png)
 
 
-## Trademark usage
+#### Trademark usage
 TBD...
 
 #### Incorrect usage
