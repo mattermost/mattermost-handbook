@@ -11,47 +11,50 @@ The Mattermost logomark is called "the instrument". It represents four tools org
 - A dial representing inputs—the contribution of everyone on the team.
 
 ### Logo variations
+#### Horizontal Logo
+Minimum size: 100px by 16px
 <table>
   <tr>
     <td width="33%">
-      <h4>Horizontal Logo</h4>
-      <img src="[insert image filename]" />
+      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-horizontal.png" width="250">
     </td>
     <td width="33%">
-      <h4>Horizontal Logo - reverse</h4>
-      <img src="[insert image filename]" />
+      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-horizontal-white.png" width="250">
     </td>
     <td width="33%">
-      <h4>Horizontal Logo - blue</h4>
-      <img src="[insert image filename]" />
+      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-horizontal-blue.png" width="250">
     </td>
   </tr>
+</table>
+  
+#### Vertical Logo
+Minimum size: 100px by 16px
+<table>
   <tr>
-    <td>
-      <h4>Vertical Logo</h4>
-      <img src="[insert image filename]" />
+    <td width="33%">
+      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-vertical.png" width="215">
     </td>
-    <td>
-      <h4>Vertical Logo - reverse</h4>
-      <img src="[insert image filename]" />
+    <td width="33%">
+      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-vertical-white.png" width="215">
     </td>
-    <td>
-      <h4>Vertical Logo - blue</h4>
-      <img src="[insert image filename]" />
+    <td width="33%">
+      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-vertical-blue.png" width="215">
     </td>
   </tr>
+</table>
+
+#### Logomark
+Minimum size: 16px by 16px
+<table>
   <tr>
-    <td>
-      <h4>Logomark</h4>
-      <img src="[insert image filename]" />
+    <td width="33%">
+      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-logomark.png" width="110">
     </td>
-    <td>
-      <h4>Logomark - reverse</h4>
-      <img src="[insert image filename]" />
+    <td width="33%">
+      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-logomark-white.png" width="110">
     </td>
-    <td>
-      <h4>Logomark - blue</h4>
-      <img src="[insert image filename]" />
+    <td width="33%">
+      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-logomark-blue.png" width="110">
     </td>
   </tr>
 </table>
@@ -59,22 +62,10 @@ The Mattermost logomark is called "the instrument". It represents four tools org
 ### Logo Usage Guidelines
 #### Clear Space
 To ensure an uncluttered presentation, always maintain a full X space around the logo. The X height is always the height of the lowercase letter “m” in “Mattermost”. Use the safety area as an invisible border.
-
-[insert image of clear space]
-
-#### Minimum size guidelines
 <table>
   <tr>
-    <td width="150">Horizontal logo</td>
-    <td width="400">Minimum size: 100px by 16px</td>
-  </tr>
-  <tr>
-    <td>Vertical logo</td>
-    <td>Minimum size: 100px by 16px</td>
-  </tr>
-  <tr>
-    <td>Logomark</td>
-    <td>Minimum size: 16px by 16px</td>
+    <td><img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-horizontal-clear-space.png"></td>
+    <td><img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-vertical-clear-space.png"></td>
   </tr>
 </table>
 
@@ -87,6 +78,7 @@ TBD...
 - Do not distort or alter the Mattermost logo
 - Do not lockup any other words along with the Mattermost logo
 - Do not rearrange elements of the logo
+- Do not use the logo at sizes smaller than the indicated minimum size
 
 ## Color Guidelines
 
