@@ -38,7 +38,7 @@ To ensure an uncluttered presentation, always maintain a full X space around the
 - Do not rearrange elements of the logo
 - Do not use the logo at sizes smaller than the indicated minimum size
 
-## Naming Usage Guidelines
+## Name Usage Guidelines
 Using the Mattermost name is generally permitted so long as it’s used in a non-commercial way and does not imply endorsement by Mattermost, Inc.
 - Please do not name your integrations or apps starting with, or only using, the name “Mattermost”, as this may confuse end users as to where to find support
 
