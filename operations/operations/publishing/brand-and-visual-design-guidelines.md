@@ -15,61 +15,22 @@ The Mattermost logomark is called "the instrument". It represents four tools org
 ### Logo variations
 #### Horizontal Logo
 Minimum size: 100px by 16px
-<table>
-  <tr>
-    <td>
-      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-horizontal.png" width="250">
-    </td>
-    <td>
-      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-horizontal-white.png" width="250">
-    </td>
-    <td>
-      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-horizontal-blue.png" width="250">
-    </td>
-  </tr>
-</table>
+![Horizontal Logos](/.gitbook/assets/brand-and-visual-design-guidelines-logos-horizontal.png)
   
 #### Vertical Logo
 Minimum size: 100px by 16px
-<table>
-  <tr>
-    <td>
-      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-vertical.png" width="215">
-    </td>
-    <td>
-      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-vertical-white.png" width="215">
-    </td>
-    <td>
-      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-vertical-blue.png" width="215">
-    </td>
-  </tr>
-</table>
+![Vertical Logos](/.gitbook/assets/brand-and-visual-design-guidelines-logos-vertical.png)
 
 #### Logomark
 Minimum size: 16px by 16px
-<table>
-  <tr>
-    <td>
-      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-logomark.png" width="110">
-    </td>
-    <td>
-      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-logomark-white.png" width="110">
-    </td>
-    <td>
-      <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-logomark-blue.png" width="110">
-    </td>
-  </tr>
-</table>
+![Logomark Logos](/.gitbook/assets/brand-and-visual-design-guidelines-logos-logomarks.png)
 
 ### Logo Usage Guidelines
 #### Clear Space
 To ensure an uncluttered presentation, always maintain a full X space around the logo. The X height is always the height of the lowercase letter “m” in “Mattermost”. Use the safety area as an invisible border.
-<table>
-  <tr>
-    <td><img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-horizontal-clear-space.png"></td>
-    <td><img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-vertical-clear-space.png"></td>
-  </tr>
-</table>
+
+![Logo Clear Space](/.gitbook/assets/brand-and-visual-design-guidelines-logos-clearspace.png)
+
 
 ## Trademark usage
 TBD...
