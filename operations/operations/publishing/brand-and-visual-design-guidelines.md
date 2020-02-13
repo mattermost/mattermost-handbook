@@ -63,6 +63,11 @@ Orange | ![](/.gitbook/assets/branding/swatch-orange.png) | Hex: F59138 | rgb(24
 Green | ![](/.gitbook/assets/branding/swatch-green.png) | Hex: 21C45D | rgb(33, 196, 93)
 Red | ![](/.gitbook/assets/branding/swatch-red.png) | Hex: DC3F35 | rgb(220, 63, 53)
 
+## Typography
+The main typefaces used are [Metropolis](https://github.com/chrismsimpson/Metropolis) and [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro). Metropolis is primarily used for section headings and titles. Source Sans Pro is used for body and description texts.
+
+![](/.gitbook/assets/branding/brand-and-visual-design-guidelines-type-sample.png)
+
 ## Presentation Guidelines
 Powerpoint and Google Slides Templates coming soon…
 
