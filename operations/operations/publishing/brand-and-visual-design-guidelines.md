@@ -3,7 +3,7 @@
 ## The Mattermost Logo
 The logos below are available for use in your integrations and applications that connect to Mattermost. Use of the logo is permitted so long as it’s used in a non-commercial way and does not imply endorsement by Mattermost, Inc.
 
-![](/.gitbook/assets/brand-and-visual-design-guidelines-logo-intro.png)
+![](/.gitbook/assets/branding/brand-and-visual-design-guidelines-logo-intro.png)
 
 The Mattermost logomark is called **"the instrument"**. It represents four tools organizations need to achieve their highest priorities:
 - A compass for direction
@@ -16,25 +16,25 @@ The Mattermost logomark is called **"the instrument"**. It represents four tools
 
 Download PNGs: [Grey Horizontal Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-grey.png), [Blue Horizontal Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-blue.png), [White Horizontal Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-white.png)
 
-![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-horizontal.png)
+![](/.gitbook/assets/branding/brand-and-visual-design-guidelines-logos-horizontal.png)
   
 **Vertical Logo:** Min size 70x39px
 
 Download PNGs: [Grey Vertical Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-grey.png), [Blue Vertical Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-blue.png), [White Vertical Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-white.png)
 
-![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-vertical.png)
+![](/.gitbook/assets/branding/brand-and-visual-design-guidelines-logos-vertical.png)
 
 **Logomark:** Min size 16x16px
 
 Download PNGs: [Grey Logomark](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-grey.png), [Blue Logomark](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-blue.png), [White Logomark](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-white.png)
 
-![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-logomarks.png)
+![](/.gitbook/assets/branding/brand-and-visual-design-guidelines-logos-logomarks.png)
 
 ### Logo Usage Guidelines
 #### Clear Space
 To ensure an uncluttered presentation, always maintain a full X space around the logo. The X height is always the height of the lowercase letter “m” in “Mattermost”. Use the safety area as an invisible border.
 
-![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-clearspace.png)
+![](/.gitbook/assets/branding/brand-and-visual-design-guidelines-logos-clearspace.png)
 
 #### Incorrect usage
 - Do not change logo colors. Use the provided options
@@ -84,6 +84,41 @@ rgb(34, 64, 109)
 
 #152235, 
 rgb(21, 34, 53)
+
+#### Light Blue
+
+![](/.gitbook/assets/branding/swatch-light-blue.png)
+
+#80B3FA, 
+rgb(128, 179, 250)
+
+#### Coral
+
+![](/.gitbook/assets/branding/swatch-coral.png)
+
+#FD6165, 
+rgb(253, 97, 101)
+
+#### Orange
+
+![](/.gitbook/assets/branding/swatch-orange.png)
+
+#F59138, 
+rgb(245, 145, 56)
+
+#### Green
+
+![](/.gitbook/assets/branding/swatch-green.png)
+
+#21C45D, 
+rgb(33, 196, 93)
+
+#### Red
+
+![](/.gitbook/assets/branding/swatch-red.png)
+
+#DC3F35, 
+rgb(220, 63, 53)
 
 For the full Color Guidelines visit the [Mattermost.com Styleguide](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb-colors)
 
