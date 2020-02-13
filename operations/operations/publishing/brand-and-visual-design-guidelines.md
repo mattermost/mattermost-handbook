@@ -64,6 +64,7 @@ Mattermost is an open source Slack-alternative built for enterprise. Thousands o
 Learn more at [https://mattermost.com/](https://mattermost.com/)
 
 ## Color Guidelines
+Below is a sample of the core colours. For the Color Guidelines specific to the website visit the [Mattermost.com Styleguide](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb-colors)
 
 Name | Swatch | Hex | RGB
 --- | --- | --- | ---
@@ -75,8 +76,6 @@ Coral | ![](/.gitbook/assets/branding/swatch-coral.png) | Hex: FD6165 | rgb(253,
 Orange | ![](/.gitbook/assets/branding/swatch-orange.png) | Hex: F59138 | rgb(245, 145, 56)
 Green | ![](/.gitbook/assets/branding/swatch-green.png) | Hex: 21C45D | rgb(33, 196, 93)
 Red | ![](/.gitbook/assets/branding/swatch-red.png) | Hex: DC3F35 | rgb(220, 63, 53)
-
-For the full Color Guidelines visit the [Mattermost.com Styleguide](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb-colors)
 
 ## Presentation Guidelines
 Powerpoint and Google Slides Templates coming soon…
