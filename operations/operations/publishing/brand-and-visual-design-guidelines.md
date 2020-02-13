@@ -15,13 +15,13 @@ The Mattermost logomark is called "the instrument". It represents four tools org
 Minimum size: 100px by 16px
 <table>
   <tr>
-    <td width="33%">
+    <td>
       <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-horizontal.png" width="250">
     </td>
-    <td width="33%">
+    <td>
       <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-horizontal-white.png" width="250">
     </td>
-    <td width="33%">
+    <td>
       <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-horizontal-blue.png" width="250">
     </td>
   </tr>
@@ -31,13 +31,13 @@ Minimum size: 100px by 16px
 Minimum size: 100px by 16px
 <table>
   <tr>
-    <td width="33%">
+    <td>
       <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-vertical.png" width="215">
     </td>
-    <td width="33%">
+    <td>
       <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-vertical-white.png" width="215">
     </td>
-    <td width="33%">
+    <td>
       <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-vertical-blue.png" width="215">
     </td>
   </tr>
@@ -47,13 +47,13 @@ Minimum size: 100px by 16px
 Minimum size: 16px by 16px
 <table>
   <tr>
-    <td width="33%">
+    <td>
       <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-logomark.png" width="110">
     </td>
-    <td width="33%">
+    <td>
       <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-logomark-white.png" width="110">
     </td>
-    <td width="33%">
+    <td>
       <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-logomark-blue.png" width="110">
     </td>
   </tr>
