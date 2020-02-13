@@ -13,23 +13,23 @@ The Mattermost logomark is called "the instrument". It represents four tools org
 - A dial representing inputs—the contribution of everyone on the team.
 
 ### Logo variations
-#### Horizontal Logo
+##### Horizontal Logo
 Minimum size: 100px by 16px
 
 ![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-horizontal.png)
   
-#### Vertical Logo
+##### Vertical Logo
 Minimum size: 100px by 16px
 
 ![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-vertical.png)
 
-#### Logomark
+##### Logomark
 Minimum size: 16px by 16px
 
 ![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-logomarks.png)
 
 ### Logo Usage Guidelines
-#### Clear Space
+##### Clear Space
 To ensure an uncluttered presentation, always maintain a full X space around the logo. The X height is always the height of the lowercase letter “m” in “Mattermost”. Use the safety area as an invisible border.
 
 ![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-clearspace.png)
