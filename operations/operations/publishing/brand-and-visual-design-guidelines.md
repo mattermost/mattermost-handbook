@@ -3,7 +3,7 @@
 ## The Mattermost Logo
 The logos below are available for use in your integrations and applications that connect to Mattermost. Use of the logo is permitted so long as it’s used in a non-commercial way and does not imply endorsement by Mattermost, Inc.
 
-<img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-horizontal.png" width="450">
+![Mattermost Logo](/.gitbook/assets/brand-and-visual-design-guidelines-logo-intro.png)
 
 ### The "Instrument"
 The Mattermost logomark is called "the instrument". It represents four tools organizations need to achieve their highest priorities:
@@ -15,14 +15,17 @@ The Mattermost logomark is called "the instrument". It represents four tools org
 ### Logo variations
 #### Horizontal Logo
 Minimum size: 100px by 16px
+
 ![Horizontal Logos](/.gitbook/assets/brand-and-visual-design-guidelines-logos-horizontal.png)
   
 #### Vertical Logo
 Minimum size: 100px by 16px
+
 ![Vertical Logos](/.gitbook/assets/brand-and-visual-design-guidelines-logos-vertical.png)
 
 #### Logomark
 Minimum size: 16px by 16px
+
 ![Logomark Logos](/.gitbook/assets/brand-and-visual-design-guidelines-logos-logomarks.png)
 
 ### Logo Usage Guidelines
