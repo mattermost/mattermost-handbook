@@ -14,13 +14,19 @@ The Mattermost logomark is called **"the instrument"**. It represents four tools
 ### Logo variations
 **Horizontal Logo:** Min size 100x16px
 
+Download PNGs: [Grey Horizontal Logo](link), [Blue Horizontal Logo](link), [White Horizontal Logo](link)
+
 ![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-horizontal.png)
   
 **Vertical Logo:** Min size 70x39px
 
+Download PNGs: [Grey Vertical Logo](link), [Blue Vertical Logo](link), [White Vertical Logo](link)
+
 ![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-vertical.png)
 
 **Logomark:** Min size 16x16px
+
+Download PNGs: [Grey Logomark](link), [Blue Logomark](link), [White Logomark](link)
 
 ![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-logomarks.png)
 
