@@ -14,19 +14,21 @@ The Mattermost logomark is called **"the instrument"**. It represents four tools
 ### Logo variations
 **Horizontal Logo:** Min size 100x16px
 
-Download PNGs: [Grey Horizontal Logo](/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-grey.png), [Blue Horizontal Logo](/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-blue.png), [White Horizontal Logo](/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-white.png)
+[Test](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-grey.png)
+
+Download PNGs: [Grey Horizontal Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-grey.png), [Blue Horizontal Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-blue.png), [White Horizontal Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-white.png)
 
 ![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-horizontal.png)
   
 **Vertical Logo:** Min size 70x39px
 
-Download PNGs: [Grey Vertical Logo](/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-grey.png), [Blue Vertical Logo](/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-blue.png), [White Vertical Logo](/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-white.png)
+Download PNGs: [Grey Vertical Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-grey.png), [Blue Vertical Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-blue.png), [White Vertical Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-white.png)
 
 ![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-vertical.png)
 
 **Logomark:** Min size 16x16px
 
-Download PNGs: [Grey Logomark](/.gitbook/assets/branding/logo-downloads/mattermost-logomark-grey.png), [Blue Logomark](/.gitbook/assets/branding/logo-downloads/mattermost-logomark-blue.png), [White Logomark](/.gitbook/assets/branding/logo-downloads/mattermost-logomark-white.png)
+Download PNGs: [Grey Logomark](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-grey.png), [Blue Logomark](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-blue.png), [White Logomark](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-white.png)
 
 ![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-logomarks.png)
 
