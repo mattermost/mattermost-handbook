@@ -64,7 +64,28 @@ Mattermost is an open source Slack-alternative built for enterprise. Thousands o
 Learn more at [https://mattermost.com/](https://mattermost.com/)
 
 ## Color Guidelines
-For Color Guidelines and more visit the [Mattermost.com Styleguide](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb-colors)
+#### Primary Blue
+
+![](/.gitbook/assets/branding/swatch-blue.png)
+
+#0058CC, 
+rgb(0, 88, 204)
+
+#### Indigo
+
+![](/.gitbook/assets/branding/swatch-indigo.png)
+
+#22406D, 
+rgb(34, 64, 109)
+
+#### Dark Indigo
+
+![](/.gitbook/assets/branding/swatch-indigo-dark.png)
+
+#152235, 
+rgb(21, 34, 53)
+
+For the full Color Guidelines visit the [Mattermost.com Styleguide](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb-colors)
 
 ## Presentation Guidelines
 Powerpoint and Google Slides Templates coming soon…
