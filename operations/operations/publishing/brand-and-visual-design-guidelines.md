@@ -68,6 +68,10 @@ The main typefaces used are [Metropolis](https://github.com/chrismsimpson/Metrop
 
 ![](/.gitbook/assets/branding/brand-and-visual-design-guidelines-type-sample.png)
 
+For the full set of typography guidelines specific to the website visit the [Mattermost.com Styleguide](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb-colors)
+
+Product-specific typography guidelines coming soon…
+
 ## Presentation Guidelines
 Powerpoint and Google Slides Templates coming soon…
 
