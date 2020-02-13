@@ -64,7 +64,7 @@ Mattermost is an open source Slack-alternative built for enterprise. Thousands o
 Learn more at [https://mattermost.com/](https://mattermost.com/)
 
 ## Color Guidelines
-Below is a sample of the core colours. For the Color Guidelines specific to the website visit the [Mattermost.com Styleguide](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb-colors)
+Below is a sample of the core colours we've been using in the latest branding initiatives. For the full set of colors specific to the website visit the [Mattermost.com Styleguide](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb-colors)
 
 Name | Swatch | Hex | RGB
 --- | --- | --- | ---
