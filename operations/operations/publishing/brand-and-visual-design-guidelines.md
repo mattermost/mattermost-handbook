@@ -2,6 +2,7 @@
 
 ## The Mattermost Logo
 The logos below are available for use in your integrations and applications that connect to Mattermost. Use of the logo is permitted so long as it’s used in a non-commercial way and does not imply endorsement by Mattermost, Inc.
+
 <img src="/.gitbook/assets/brand-and-visual-design-guidelines-logo-horizontal.png" width="450">
 
 ### The "Instrument"
