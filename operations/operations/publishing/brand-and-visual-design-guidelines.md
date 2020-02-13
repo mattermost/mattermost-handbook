@@ -54,14 +54,14 @@ Below is a sample of the core colours we've been using in the latest branding in
 
 Name | Swatch | Hex | RGB
 --- | --- | --- | ---
-Primary Blue | ![](/.gitbook/assets/branding/swatch-blue.png) | Hex: 0058CC | rgb(0, 88, 204)
-Indigo | ![](/.gitbook/assets/branding/swatch-indigo.png) | Hex: 22406D | rgb(34, 64, 109)
-Dark Indigo | ![](/.gitbook/assets/branding/swatch-indigo-dark.png) | Hex: 152235 | rgb(21, 34, 53)
-Light Blue | ![](/.gitbook/assets/branding/swatch-light-blue.png) | Hex: 80B3FA | rgb(128, 179, 250)
-Coral | ![](/.gitbook/assets/branding/swatch-coral.png) | Hex: FD6165 | rgb(253, 97, 101)
-Orange | ![](/.gitbook/assets/branding/swatch-orange.png) | Hex: F59138 | rgb(245, 145, 56)
-Green | ![](/.gitbook/assets/branding/swatch-green.png) | Hex: 21C45D | rgb(33, 196, 93)
-Red | ![](/.gitbook/assets/branding/swatch-red.png) | Hex: DC3F35 | rgb(220, 63, 53)
+**Primary Blue** | ![](/.gitbook/assets/branding/swatch-blue.png) | Hex: 0058CC | rgb(0, 88, 204)
+**Indigo** | ![](/.gitbook/assets/branding/swatch-indigo.png) | Hex: 22406D | rgb(34, 64, 109)
+**Dark Indigo** | ![](/.gitbook/assets/branding/swatch-indigo-dark.png) | Hex: 152235 | rgb(21, 34, 53)
+**Light Blue** | ![](/.gitbook/assets/branding/swatch-light-blue.png) | Hex: 80B3FA | rgb(128, 179, 250)
+**Coral** | ![](/.gitbook/assets/branding/swatch-coral.png) | Hex: FD6165 | rgb(253, 97, 101)
+**Orange** | ![](/.gitbook/assets/branding/swatch-orange.png) | Hex: F59138 | rgb(245, 145, 56)
+**Green** | ![](/.gitbook/assets/branding/swatch-green.png) | Hex: 21C45D | rgb(33, 196, 93)
+**Red** | ![](/.gitbook/assets/branding/swatch-red.png) | Hex: DC3F35 | rgb(220, 63, 53)
 
 ## Typography
 The main typefaces used are [Metropolis](https://github.com/chrismsimpson/Metropolis) and [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro). Metropolis is primarily used for section headings and titles. Source Sans Pro is used for body and description texts.
