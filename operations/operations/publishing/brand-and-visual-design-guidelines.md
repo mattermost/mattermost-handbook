@@ -14,19 +14,19 @@ The Mattermost logomark is called **"the instrument"**. It represents four tools
 ### Logo variations
 **Horizontal Logo:** Min size 100x16px
 
-Download PNGs: [Grey Horizontal Logo](link), [Blue Horizontal Logo](link), [White Horizontal Logo](link)
+Download PNGs: [Grey Horizontal Logo](/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-grey.png), [Blue Horizontal Logo](/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-blue.png), [White Horizontal Logo](/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-white.png)
 
 ![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-horizontal.png)
   
 **Vertical Logo:** Min size 70x39px
 
-Download PNGs: [Grey Vertical Logo](link), [Blue Vertical Logo](link), [White Vertical Logo](link)
+Download PNGs: [Grey Vertical Logo](/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-grey.png), [Blue Vertical Logo](/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-blue.png), [White Vertical Logo](/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-white.png)
 
 ![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-vertical.png)
 
 **Logomark:** Min size 16x16px
 
-Download PNGs: [Grey Logomark](link), [Blue Logomark](link), [White Logomark](link)
+Download PNGs: [Grey Logomark](/.gitbook/assets/branding/logo-downloads/mattermost-logomark-grey.png), [Blue Logomark](/.gitbook/assets/branding/logo-downloads/mattermost-logomark-blue.png), [White Logomark](/.gitbook/assets/branding/logo-downloads/mattermost-logomark-white.png)
 
 ![](/.gitbook/assets/brand-and-visual-design-guidelines-logos-logomarks.png)
 
