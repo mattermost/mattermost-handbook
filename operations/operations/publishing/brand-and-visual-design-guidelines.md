@@ -49,25 +49,6 @@ Horizontal logo: [Black](https://github.com/mattermost/mattermost-handbook/raw/3
 Vertical logo: [Black](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-grey.png), [Blue](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-blue.png), [White](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-white.png)
 Logomark: [Black Logomark](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-grey.png), [Blue](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-blue.png), [White](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-white.png)
 
-## Name Usage Guidelines
-Using the Mattermost name is generally permitted so long as it’s used in a non-commercial way and does not imply endorsement by Mattermost, Inc.
-- Please do not name your integrations or apps starting with, or only using, the name “Mattermost”, as this may confuse end users as to where to find support
-
-Community projects might be named using “for Mattermost”, examples:
-  - [GitLab Integration Service for Mattermost](https://github.com/mattermost/mattermost-integration-gitlab)
-  - [Giphy Integration Service for Mattermost](https://github.com/mattermost/mattermost-integration-giphy)
-
-Alternatively, community projects may concatenate names containing Mattermost, for example:
-- [Matterbridge](https://github.com/42wim/matterbridge) – is a Mattermost bridge connecting with IRC
-- [Mattersend](https://github.com/mtorromeo/mattersend) – is a Mattermost integration for sending webhook events
-
-**Exception:** Please don’t use the name “matterbot”, as that is an internal service under development.
-
-## Company Short Description
-Mattermost is an open source Slack-alternative built for enterprise. Thousands of companies use Mattermost for secure, compliant workplace messaging across web, PC and phones with archiving, search, corporate SSO and integration with over 700 third party applications. Available under MIT license in 11 languages, Mattermost offers peace-of-mind, value, control, and freedom from lock-in for organizations around the world.
-
-Learn more at [https://mattermost.com/](https://mattermost.com/)
-
 ## Color Guidelines
 Below is a sample of the core colours we've been using in the latest branding initiatives. For the full set of colors specific to the website visit the [Mattermost.com Styleguide](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb-colors)
 
@@ -89,3 +70,22 @@ Powerpoint and Google Slides Templates coming soon…
 
 ## Website Guidelines
 [Mattermost.com StyleGuide](https://mattermost.wayfx.com/0ddc9bpne/p/07a9e9-misc)
+
+## Name Usage Guidelines
+Using the Mattermost name is generally permitted so long as it’s used in a non-commercial way and does not imply endorsement by Mattermost, Inc.
+- Please do not name your integrations or apps starting with, or only using, the name “Mattermost”, as this may confuse end users as to where to find support
+
+Community projects might be named using “for Mattermost”, examples:
+  - [GitLab Integration Service for Mattermost](https://github.com/mattermost/mattermost-integration-gitlab)
+  - [Giphy Integration Service for Mattermost](https://github.com/mattermost/mattermost-integration-giphy)
+
+Alternatively, community projects may concatenate names containing Mattermost, for example:
+- [Matterbridge](https://github.com/42wim/matterbridge) – is a Mattermost bridge connecting with IRC
+- [Mattersend](https://github.com/mtorromeo/mattersend) – is a Mattermost integration for sending webhook events
+
+**Exception:** Please don’t use the name “matterbot”, as that is an internal service under development.
+
+## Company Short Description
+Mattermost is an open source Slack-alternative built for enterprise. Thousands of companies use Mattermost for secure, compliant workplace messaging across web, PC and phones with archiving, search, corporate SSO and integration with over 700 third party applications. Available under MIT license in 11 languages, Mattermost offers peace-of-mind, value, control, and freedom from lock-in for organizations around the world.
+
+Learn more at [https://mattermost.com/](https://mattermost.com/)
