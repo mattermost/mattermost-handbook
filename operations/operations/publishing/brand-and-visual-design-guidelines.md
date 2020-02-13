@@ -62,7 +62,7 @@ For Color Guidelines and more visit the [Mattermost.com Styleguide](https://matt
 
 ## Presentation Guidelines
 Powerpoint and Google Slides Templates coming soon…
-![](brand-and-visual-design-guidelines-presentation-sample-slides.png)
+![](/.gitbook/assets/brand-and-visual-design-guidelines-presentation-sample-slides.png)
 
 ## Website Guidelines
 [Mattermost.com StyleGuide](https://mattermost.wayfx.com/0ddc9bpne/p/07a9e9-misc)
