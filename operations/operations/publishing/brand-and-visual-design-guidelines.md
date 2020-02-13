@@ -5,8 +5,7 @@ The logos below are available for use in your integrations and applications that
 
 ![](/.gitbook/assets/brand-and-visual-design-guidelines-logo-intro.png)
 
-### The "Instrument"
-The Mattermost logomark is called "the instrument". It represents four tools organizations need to achieve their highest priorities:
+The Mattermost logomark is called **"the instrument"**. It represents four tools organizations need to achieve their highest priorities:
 - A compass for direction
 - A clock to set pace
 - A meter to measure output
