@@ -16,26 +16,17 @@ The Mattermost logo is available is vertical, horizontal and logomark-only versi
 
 **Horizontal Logo:** Min size 100x16px
 
-Download PNGs: [Black Horizontal Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-grey.png), [Blue Horizontal Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-blue.png), [White Horizontal Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-white.png)
-
 ![](/.gitbook/assets/branding/brand-and-visual-design-guidelines-logos-horizontal.png)
 
 **Vertical Logo:** Min size 70x39px
-
-Download PNGs: [Black Vertical Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-grey.png), [Blue Vertical Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-blue.png), [White Vertical Logo](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-white.png)
 
 ![](/.gitbook/assets/branding/brand-and-visual-design-guidelines-logos-vertical.png)
 
 **Logomark:** Min size 16x16px
 
-Download PNGs: [Black Logomark](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-grey.png), [Blue Logomark](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-blue.png), [White Logomark](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-white.png)
-
 ![](/.gitbook/assets/branding/brand-and-visual-design-guidelines-logos-logomarks.png)
 
-##Vector versions of the logo
-If you need vector versions of the logos, you can [download the EPS package](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/EPS-files.zip).
-
-### Logo Usage Guidelines
+### Usage Guidelines
 #### Clear Space
 To ensure an uncluttered presentation, always maintain a full X space around the logo. The X height is always the height of the lowercase letter “m” in “Mattermost”. Use the safety area as an invisible border.
 
@@ -48,6 +39,15 @@ To ensure an uncluttered presentation, always maintain a full X space around the
 - Do not lockup any other words along with the Mattermost logo
 - Do not rearrange elements of the logo
 - Do not use the logo at sizes smaller than the indicated minimum size
+
+##Logo downloads
+### Vector formats
+If you need vector versions of the logos, you can [download the EPS package](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/EPS-files.zip).
+
+### PNG files
+Horizontal logo: [Black](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-grey.png), [Blue](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-blue.png), [White](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-white.png)
+Vertical logo: [Black](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-grey.png), [Blue](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-blue.png), [White](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-white.png)
+Logomark: [Black Logomark](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-grey.png), [Blue](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-blue.png), [White](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-white.png)
 
 ## Name Usage Guidelines
 Using the Mattermost name is generally permitted so long as it’s used in a non-commercial way and does not imply endorsement by Mattermost, Inc.
