@@ -69,7 +69,7 @@ Powerpoint and Google Slides Templates coming soon…
 ![](/.gitbook/assets/branding/brand-and-visual-design-guidelines-presentation-sample-slides.png)
 
 ## Website Guidelines
-[Mattermost.com StyleGuide](https://mattermost.wayfx.com/0ddc9bpne/p/07a9e9-misc)
+Website-specific guidelines can be found in the [Mattermost.com StyleGuide](https://mattermost.wayfx.com/0ddc9bpne/p/07a9e9-misc)
 
 ## Name Usage Guidelines
 Using the Mattermost name is generally permitted so long as it’s used in a non-commercial way and does not imply endorsement by Mattermost, Inc.
