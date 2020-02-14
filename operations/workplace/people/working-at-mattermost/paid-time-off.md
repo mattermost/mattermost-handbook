@@ -16,24 +16,22 @@ Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Pa
 
 ## **Communicating Time Off**
 
-### When you take time-off, please do the following:
+### When you take time-off (full days only) please do the following:
 
-1. Let your management know your [PTO](../../../../company/about-mattermost/list-of-terms.md#pto-or-paid-time-off) dates and who will be your [backup\(s\)](https://handbook.mattermost.com/operations/people/working-at-mattermost#5-be-the-change-you-want-to-see).
-2. Post in the [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up)
-3. Block off time in the shared [Mattermost Time Off calendar](https://calendar.google.com/calendar/embed?src=mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com&ctz=America%2FLos_Angeles>), so it's easy for the team to see who is going to be away.
+1. Add your time off to the [Mattermost Time Off Calendar](https://calendar.google.com/calendar?cid=bWF0dGVybW9zdC5jb21fbWczbnVsZ2Y2ZTcwZTUwb2hscTJycmtjbmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).   
+2. People Managers - ensure your teams understand your **[vacation ready](https://handbook.mattermost.com/operations/operations#fy20-mlt-vpmom) expectations. 
+3. If you are staffed in Canada, Germany or UK, we are required to track vacation up to the statutory amount. Any time off after that does not need to be recorded.[HR](mailto:hr@mattermost.com) will share an individual document tracker. 
 4. Enjoy your time off! 
 
-### Where to go to see who's on PTO:
+### Where to go to see who's on PTO: 
 
-* [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up)
+* [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) 
 * [Mattermost Time Off calendar](https://calendar.google.com/calendar/embed?src=mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 
 **Common Time Off Questions**
 
 1. **Is there really no limit?** There is no limit to how much time-off you can take when your work is meeting or exceeding expectations. We strongly recommend a minimum of 2 weeks per year. 
 2. **Is PTO monitored?** Short answer: no. Longer answer: some Regions may require a statutory amount of PTO to be both accrued and tracked. Time off will be tracked \(i.e. reported on\) in BambooHR up to a Region's statutory limit. 
-3. **I'm in a region that requires a statutory accrual, can I take more time off than?** Yes. Once an accrued balance reaches 0, staff can continue to take time off  as part of the Mattermost PTO plan.
-4. **Why do we track it in BambooHR?** BambooHR helps to maintain asynchronous communication with as few steps as possible by posting time off to a Time Off calendar, the [Stand-Up Channel](https://community.mattermost.com/private-core/channels/stand-up) 
 
 ### 
 
