@@ -459,7 +459,6 @@ Please encourage collegues to add tickets when they are discussing requests in M
 
 In sync with the Twitter rotation, Product Managers rotate responsibility weekly for monitoring newly filed [customer requests](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=17&projectKey=CR&view=planning.nodetail&quickFilter=97&issueLimit=100) and ensuring newly filed requests are assigned to the appropriate PM according to areas of ownership. The weekly PM meeting is the time to identify requests where ownership is unlcear or merits discussion. The PM on rotation should also remind fellow PMs in the Product Management channel to review their requests and at a minimum update the Fix Version.
 
-
 #### Community Success
 
 * Ensure devs are aware and included on community contribution projects.
@@ -591,9 +590,12 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
     </tr>
   </thead>
   <tbody></tbody>
-</table>|  |  |
-| :--- | :--- |
+</table>
 
+#### Monthly Roadmap Q&A - Pre-sales and Support
+
+|  |  |
+| :--- | :--- |
 
 <table>
   <thead>
@@ -685,5 +687,4 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
     </tr>
   </thead>
   <tbody></tbody>
-</table>## Resources \(WIP\)
-
+</table>
