@@ -30,7 +30,12 @@ A listing of stakeholders and their written feedback on whether they support or 
 
 ## Template
 
-To use the [Issue/Solution template](https://docs.google.com/document/d/1XDgumIgT525mH40dj24K3q_muIzJOVzHY5uVeg5OUkQ/edit) create a copy, fill it in, and follow the process above with stakeholders. 
+The following templates can be used for Issue/Solution preparation by copying the template to a new file and completing the form. 
+
+- [Generic Issue/Solution template](https://docs.google.com/document/d/1XDgumIgT525mH40dj24K3q_muIzJOVzHY5uVeg5OUkQ/edit) - General purpose Issue/Solution template. 
+
+- [MLT Issue/Solution template](https://docs.google.com/document/d/1fNE-MzljPURKSYN4VrTaDz4T1JE3C0gnNCbHDpIlSRA/edit
+) - Template with Mattermost Leadership Team members pre-populated. 
 
 
 
