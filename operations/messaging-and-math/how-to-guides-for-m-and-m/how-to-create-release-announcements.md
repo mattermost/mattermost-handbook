@@ -35,6 +35,8 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    3. Lead with the most exciting/impactful new feature
    4. Include 1-2 features
      - Have clarity on why those 1-2 features were chosen for the title. Ask PMs to share specs or other details on why the features we are shipping were built
+   5. Ask: how would you rate the title? How can we make it 1 score better? 
+     - Use this method for other parts of the blog draft, inlcuding screenshots
 2. **Compelling, specific one-liners**
    1. Introduce features with compelling, concise, specific descriptions
    2. If the feature is a filler for a release, be vague and add it at the end of the blog post, e.g. "Performance improvements to mobile" **\(please avoid when possible\)**
@@ -62,8 +64,8 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 
 ## **Style Guidelines**
 
-1. Highlight past successes: Cross link to promote traffic 
-2. Links tell a story: Links should indicate the content they lead to without clicking, avoid "read this blog post" and instead "learn more about the incident response alpha program"
+2. Highlight past successes: Cross link to promote traffic 
+3. Links tell a story: Links should indicate the content they lead to without clicking, avoid "read this blog post" and instead "learn more about the incident response alpha program"
 
 ## Screenshot Guidelines
 
