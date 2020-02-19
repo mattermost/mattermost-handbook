@@ -23,4 +23,3 @@ Below are a start of voice, tone and writing style guidelines for public web pro
 These guidelines were inspired by [Stripe's knowledge base content](https://document360.io/blog/tear-down-of-stripe-knowledge-base/), which is widely perceived as excellent by the developer community, and [by other sites shared in this Document360 article](https://document360.io/blog/10-knowledge-base-software-best-practice-examples/).
 
 [Learn more about recommendations, analsis and next steps.](https://docs.google.com/document/d/1LNAgmKKtmRN1T7UCvOgcUbGiFfk8UXqcmCgF80-sVyQ)
-Justine Geffen to populate content here by Feb 14.
