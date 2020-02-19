@@ -40,6 +40,6 @@ Audience | Owner | Success Measures
 
 Please read the following articles to learn more:
 
-- [public web properties](operations/operations/publishing/web-properties/README.md)
-- [publishing guidelines](operations/operations/publishing/publishing-guidelines/README.md)
-- [post-publication quality control process](operations/operations/publishing/quality-control-process.md)
+- [public web properties](https://handbook.mattermost.com/operations/operations/publishing/web-properties)
+- [publishing guidelines](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines)
+- [post-publication quality control process](https://handbook.mattermost.com/operations/operations/publishing/quality-control-process)
