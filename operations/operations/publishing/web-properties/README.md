@@ -4,6 +4,8 @@ description: 1% draft
 
 # Public Web Properties
 
+## Areas of Ownership
+
 Below is a summary of our public web properties, including their target content, publishing system and areas of ownership:
 
 Domain | Content | Publishing System | Content Owner | Quality Control Owner
