@@ -16,7 +16,7 @@
     * [How to book airfare and travel](company/how-to-guides-for-staff/how-to-spend-company-money/airfare-and-traveling.md)
     * [How to reimburse the company](company/how-to-guides-for-staff/how-to-spend-company-money/how-to-reimburse-the-company.md)
     * [How to convert currencies](company/how-to-guides-for-staff/how-to-spend-company-money/currency-exchange-table.md)
-  * [How to VPMOM](company/how-to-guides-for-staff/how-to-vpmom.md)
+  * [How to V2MOM](company/how-to-guides-for-staff/how-to-v2mom.md)
   * [How to change mobile device](company/how-to-guides-for-staff/how-to-change-mobile-device/README.md)
     * [How to handle a lost mobile device](company/how-to-guides-for-staff/how-to-change-mobile-device/how-to-handle-a-lost-mobile-device.md)
   * [How to purchase](company/how-to-guides-for-staff/how-to-purchase/README.md)
