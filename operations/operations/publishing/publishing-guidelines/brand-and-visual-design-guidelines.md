@@ -1,3 +1,7 @@
+---
+description: 50% draft
+---
+
 # Brand and Visual Design Guidelines
 
 ## The Mattermost Logo
@@ -95,6 +99,6 @@ Alternatively, community projects may concatenate names containing Mattermost, f
 **Exception:** Please don’t use the name “matterbot”, as that is an internal service under development.
 
 ## Company Short Description
-Mattermost is an open source Slack-alternative built for enterprise. Thousands of companies use Mattermost for secure, compliant workplace messaging across web, PC and phones with archiving, search, corporate SSO and integration with over 700 third party applications. Available under MIT license in 11 languages, Mattermost offers peace-of-mind, value, control, and freedom from lock-in for organizations around the world.
+Mattermost is an open source Slack-alternative built for enterprise. Thousands of companies use Mattermost for secure, compliant workplace messaging across web, PC and phones with archiving, search, corporate SSO and integration with over 700 third party applications. Available under MIT license in 16 languages, Mattermost offers peace-of-mind, value, control, and freedom from lock-in for organizations around the world.
 
 Learn more at [https://mattermost.com/](https://mattermost.com/)
