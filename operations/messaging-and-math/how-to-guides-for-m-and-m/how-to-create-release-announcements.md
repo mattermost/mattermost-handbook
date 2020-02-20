@@ -37,7 +37,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
      - Have clarity on why those 1-2 features were chosen for the title. Ask PMs to share specs or other details on why the features we are shipping were built
    5. Ask: how would you rate the title? How can we make it 1 score better? 
      - Use this method for other parts of the blog draft, inlcuding screenshots
-2. **Compelling, specific one-liners**
+2. **Compelling, specific one-liners below hero image**
    1. Introduce features with compelling, concise, specific descriptions
    2. If the feature is a filler for a release, be vague and add it at the end of the blog post, e.g. "Performance improvements to mobile" **\(please avoid when possible\)**
    3. Beta features can be at the bottom of the list
