@@ -43,7 +43,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    3. Beta features can be at the bottom of the list
    4. Lead with verbs (e.g. "Find most recent messages faster")
    5. Start with benefits, then technical details
-3. **Complete**
+3. **Body**
    1. Make sure to market paid features - add E10 and E20 throughout the blog post for relevant features
    2. No spelling errors or broken links
    3. All features PM team wants to highlight are included
