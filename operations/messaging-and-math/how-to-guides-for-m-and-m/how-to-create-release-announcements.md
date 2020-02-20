@@ -82,10 +82,9 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 1. Each monthly release R&D should aspire to come up with a "Hero" screenshot following guidelines to use as the splash image for the release.
 2. Communicate primary benefit in the title
    * Use `plugins` not `plug-ins`
-3. Keep the title short and make sure there are no orphans
+3. Keep the title short, use sentence case, and ensure there are no orphans or widows
 4. If a screenshot isn't available to highlight in the release use a conceptual banner based on [R&D Twitter Banner Template](https://community.mattermost.com/files/6bc4cot5xbyi8cfxesgyx6aqdw/public?h=HKLm3FZvOvpylxVk7mUYmeaBQ_rFV_JCEAZ2w5z9fg4) \(shown below\)
 
 [Example of tweet using banner template](https://twitter.com/iantien/status/1217457762772238336)
 
 ![Screenshot for templates for announcements and Twitter banners, including guides](../../../.gitbook/assets/image%20%2862%29.png)
-
