@@ -45,7 +45,6 @@
       * [Voice, Tone and Writing Style Guidelines](operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines.md)
       * [Confidentiality Guidelines](operations/operations/publishing/publishing-guidelines/confidentiality-guidelines.md)
     * [Post-Publication Quality Control Process](operations/operations/publishing/quality-control-process.md)
-    ...
 * [Research & Development](operations/research-and-development/README.md)
   * [Product](operations/research-and-development/product/README.md)
     * [Product Roadmap Cadence](operations/research-and-development/product/product-roadmap-cadence.md)
