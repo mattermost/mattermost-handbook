@@ -74,7 +74,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 ## Language Guidelines**
 1. Specify Desktop app or Mobile App if a feature is not dependent on the server release
 2. Use common wording, e.g. say "Servers" instead of "Sites", or say "Browser" instead of "Webapp"
-3. "Better messaging experience" is too vague
+3. Avoid phrases like "Better messaging experience" that are too vague
 4. Do not use internal names of features, such as "Unread toasts", "Deep linking"
 
 ## One great screenshot a month
