@@ -33,7 +33,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    1. Do not lead with a competitor parity feature 
    2. Communicate primary benefit
    3. Lead with the most exciting/impactful new feature
-   4. Include 1-2 features
+   4. Highlight at most 2 features
      - Have clarity on why those 1-2 features were chosen for the title. Ask PMs to share specs or other details on why the features we are shipping were built
    5. Ask: how would you rate the title? How can we make it 1 score better? 
      - Use this method for other parts of the blog draft, inlcuding screenshots
