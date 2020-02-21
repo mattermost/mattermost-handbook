@@ -180,11 +180,11 @@ If you are being reimbursed in a currency other than USD, refer to [Currency Exc
 
 If you are a staff member who has has or will be reimbursed and the [exchange rate used is unfavorable](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#other-expenses), follow the directions below.
 
-Add a line to your expense report and use the select Foreign Currency Reimbursement as your [Category](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#reporting-fields). In your report, inlcude the following information: 
+Add a line to your expense report and use the select **Foreign Currency Reimbursement** as your [Category](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#reporting-fields). In your report, include the following information: 
 
-1. Net amount owed, 
-2. Select [Classification](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#classification) Business Operations
-3. Attach document\(s\), if available, to support the unfavorable exchange loss, 
+1. Net amount owed.
+2. Select [Classification](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#classification) as **Business Operations**.
+3. Attach document\(s\), if available, to support the unfavorable exchange loss.
 
 For further guidance, see screenshots below
 
