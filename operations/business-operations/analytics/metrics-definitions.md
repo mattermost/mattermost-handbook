@@ -83,10 +83,16 @@ _**What the customer bought normalized for one year length & reoccurs for length
 * Recognized from **start to end** of contract
 * `ARR = (Total Contract Value / (End Date - Start Date)) * 365`
 * ARR increases and decreases based on the following categories of change:
-  * New: New Logo never seen before - Caused by a brand new and never before see Account signing a contract
-  * Expansion: Increase in ARR by an Account - Caused by seat increase, price increase, or product upgrade
-  * Contraction: Decrease in ARR by an Account - Caused by seat decrease, price decrease, or product downgrade
-  * Churn: Decrease in ARR to $0 by an Account - Caused by an Account moving completely off of Mattermost
+  * New: Increase in ARR from $0 to &gt; $0 & New Logo never seen before
+    * Caused by a brand new and never before see Account signing a contract
+  * Expansion: Increase in ARR by an Account
+    * Caused by seat increase, price increase, or product upgrade
+  * Resurrection: Increase in ARR from $0 to &gt; $0 & by a known Account
+    * Caused by an Account churning and returning to Mattermost
+  * Contraction: Decrease in ARR by an Account
+    * Caused by seat decrease, price decrease, or product downgrade
+  * Churn: Decrease in ARR from &gt; $0 to $0 by an Account
+    * Caused by an Account moving completely off of Mattermost
 
 ### TCV vs. ACV vs. ARR
 
