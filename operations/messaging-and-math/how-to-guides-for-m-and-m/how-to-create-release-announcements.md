@@ -21,7 +21,7 @@ description: 50% Draft
   * Marketing reviews
 * Head of PM reviews 
 * CEO review
-   - Use hashtags in marketing channel (e.g. #v5.20-blog) to make finding the blog draft easier, and post the blog draft in the marketing channel 24 hours prior to the meeting (and at-mention meeting attendees)
+   - Release Manager to use hashtags in marketing channel (e.g. ``#mm520``) to make finding the blog draft easier, and post the blog draft in the marketing channel 24 hours prior to the meeting (and at-mention meeting attendees)
 * Blog post published
 * Tweets from blog post are queued \(Tuesdays 10am PT, and Thursdays 10am if there's extra\) - Writer 
 
