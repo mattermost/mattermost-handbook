@@ -18,7 +18,7 @@ description: 50% Draft
 ### T-20
 * Release Manager prepares bullet points and release headline for release announcement
 * Release Manager reviews the outline (benefits and order of major features) with PMs before sending to Justin to work on
- - Ask PMs to share specs or other details on why the features we are shipping were built, so that it is easier to identify which 1-2 features are highlighted in the title
+  - Ask PMs to share specs or other details on why the features we are shipping were built, so that it is easier to identify which 1-2 features are highlighted in the title
 * Release Manager and PMs decide which sections of the release announcement will have an accompanying screenshot/photo
 
 ### T-8
