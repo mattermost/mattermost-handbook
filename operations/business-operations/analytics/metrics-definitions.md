@@ -32,29 +32,33 @@
 
 Customer Success Account Health Score represents the overall health of a Mattermost SFDC Account
 
-_**= \(25 \* Tenure %\) + \(25 \* License End %\) + \(25 \* Count of Tickets %\) + \(25 \*  Most Recent Task %\)**_
+_**= Tenure Score + License End Score + Ticket Score + Task Score**_
 
-* **Tenure %:**
-  * Tenure &lt;= 0.5 Years: **10%**
-  * Tenure Between 0.5-1 Years: **50%**
-  * Tenure Between 1-2 Years: **75%**
-  * Tenure &gt; 2 Years: **100%**
-* **License End %:**
-  * License End &lt;= 15 Days From Now: **10%**
-  * License End Between 16-30 Days From Now: **25%**
-  * License End Between 31-60 Days From Now: **75%**
-  * License End Between 61-90 Days From Now: **90%**
-  * License End &gt; 90 Days From Now: **100%**
-* **Count of Tickets %:**
-  * Count of Tickets Past 90 Days &gt;= 5: **25%**
-  * Count of Tickets Past 90 Days = 0: **50%**
-  * Count of Tickets Past 90 Days Between 3-4: **75%**
-  * Count of Tickets Past 90 Days Between 1-2: **100%**
-* **Most Recent Task %:**
-  * Days Since Most Recent Task &gt;= 90: **25%**
-  * Days Since Most Recent Task Between 60-90: **50%**
-  * Days Since Most Recent Task Between 30-60: **75%**
-  * Days Since Most Recent Task &lt;= 30: **100%**
+* **Tenure Score = 25 \* Tenure Health %**
+  * Tenure Health %:
+    * Tenure &lt;= 0.5 Years: **10%**
+    * Tenure Between 0.5-1 Years: **50%**
+    * Tenure Between 1-2 Years: **75%**
+    * Tenure &gt; 2 Years: **100%**
+* **License End Score = 25 \* License End Health %**
+  * License End Health %:
+    * License End &lt;= 15 Days From Now: **10%**
+    * License End Between 16-30 Days From Now: **25%**
+    * License End Between 31-60 Days From Now: **75%**
+    * License End Between 61-90 Days From Now: **90%**
+    * License End &gt; 90 Days From Now: **100%**
+* **Ticket Score = 25 \* Ticket Health %**
+  * Ticket Health %:
+    * Count of Tickets Past 90 Days &gt;= 5: **25%**
+    * Count of Tickets Past 90 Days = 0: **50%**
+    * Count of Tickets Past 90 Days Between 3-4: **75%**
+    * Count of Tickets Past 90 Days Between 1-2: **100%**
+* **Task Score = 25 \* Task Health %**
+  * Task Health %:
+    * Days Since Most Recent Task &gt;= 90: **25%**
+    * Days Since Most Recent Task Between 60-90: **50%**
+    * Days Since Most Recent Task Between 30-60: **75%**
+    * Days Since Most Recent Task &lt;= 30: **100%**
 
 ## Downloads
 
