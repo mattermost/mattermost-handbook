@@ -12,7 +12,7 @@ description: 50% Draft
  - City, State/Province and Country
  - Logo 
 
-2. Sales Ops reviews the information, and either contacts the partner for additional details or forwards the information to Marketing
+2. Sales Ops reviews the information, and either contacts the partner for additional details or forwards the information to Marketing: 
 
  - Sales Ops contacts: Melissa Warner, Elaine Yue
  - Marketing contact: Lauren Nguyen
