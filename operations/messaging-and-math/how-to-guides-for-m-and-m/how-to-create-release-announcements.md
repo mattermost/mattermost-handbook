@@ -15,35 +15,34 @@ description: 50% Draft
 
 ## **Process**
 
-### (T-minus 20 working days) Blog Post Outline
+### A. (T-minus 20 working days) Blog Post Outline
 * Release Manager prepares bullet points and release headline for release announcement
 * Release Manager reviews the outline (benefits and order of features) with PMs before sending to Justin to work on
   - Ask PMs to share specs or other details on why the features we are shipping were built, so that it is easier for marketing to identify which 1-2 features are highlighted in the title
 * Release Manager and PMs decide which sections of the release announcement will have an accompanying screenshot/photo
 
-### (T-minus 8 working days) First Draft
+### B. (T-minus 8 working days) First Draft
 * Author finishes blog post draft
-* Release manager checks for spelling mistakes, features included, screenshot guidelines are met. Ask: how would you rate the title? How can we make it 1 score better? 
-  - Use this method for other parts of the blog draft, inlcuding screenshots
-* Release manager checks that the type of the release (feature or quality) is specified in the body after one-liners
+* Release manager checks for spelling mistakes, features included, screenshot guidelines are met. 
+  - Ask: how would you rate the title? How can we make it 1 score better? Use this method for other parts of the blog draft, inlcuding screenshots
 
-### (T-minus 7 working days) PM and Marketing Review
+### C. (T-minus 7 working days) PM and Marketing Review
 * PMs review for features and content are technically correct
-* Marketing reviews
+* Marketing reviews the blog draft
 
-### (T-minus 6 working days) Head of PM Review
+### D. (T-minus 6 working days) Head of PM Review
 * Head of PM reviews the blog draft
 
-### (T-minus 5 working days) CEO Review
+### E. (T-minus 5 working days) CEO Review
 * 24 hours prior to CEO review, Release Manager posts the blog draft in the Marketing channel with a hashtag (e.g. ``#mm520``) to make finding the blog draft easier (and at-mentions meeting attendees)
 
-### (T-minus 1 working days) Blog Post to Wordpress
+### F. (T-minus 1 working days) Blog Post to Wordpress
 * Author sets up the blog post in Wordpress and asks Release Manager and Marketing to review
 
-### (T-minus 0 working days) Blog Post Published
+### G. (T-minus 0 working days) Blog Post Published
 * Release Manager publishes the blog post
 
-### (T-plus 5 working days) Tweets
+### H. (T-plus 5 working days) Tweets
 * Author schedules tweets from blog post \(Tuesdays 10am PT, and Thursdays 10am if there's extra\)
 
 ## **Checklist for review of draft:**
@@ -64,9 +63,10 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 3. **Body**
    1. Promote E10 and E20 features - add `E10` and `E20` labels throughout the blog post for relevant features
    2. No spelling errors or broken links
-   3. All features PM team wants to highlight are included
+   3. The type of the release (feature or quality) should be clarified in a paragraph after the one-liners
+   4. All features PM team wants to highlight are included
       1. **\(PM team owns\)** Check for technical accuracy and statement of benefits 
-   4. \(**Author owns\)** All contributors are recognized with a screenshot 
+   5. \(**Author owns\)** All contributors are recognized with a screenshot 
       1. Names should not be red-underlined \(if they are, add them to the dictionary prior to taking a screenshot\)
       2. Screenshot not surrounded by a border
       3. Below the screenshot, include a text version of their names in small font with a link to their GitHub handle
@@ -92,7 +92,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 ## Language Guidelines
 1. Specify Desktop app or Mobile App if a feature is not dependent on the server release
 2. Use common wording, e.g. say "Servers" instead of "Sites"; say `plugins` not `plug-ins`; say "Browser" instead of "Webapp"
-3. Avoid phrases like "Better messaging experience" that are too vague
+3. Avoid phrases that are too vague, such as "Better messaging experience"
 4. Do not use internal names of features, such as "Unread toasts", "Deep linking"
 
 ## One great screenshot a month
