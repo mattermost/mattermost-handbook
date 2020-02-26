@@ -15,29 +15,33 @@ description: 50% Draft
 
 ## **Process**
 
-### T-20
+### T-20 Blog Post Outline
 * Release Manager prepares bullet points and release headline for release announcement
-* Release Manager reviews the outline (benefits and order of major features) with PMs before sending to Justin to work on
-  - Ask PMs to share specs or other details on why the features we are shipping were built, so that it is easier to identify which 1-2 features are highlighted in the title
+* Release Manager reviews the outline (benefits and order of features) with PMs before sending to Justin to work on
+  - Ask PMs to share specs or other details on why the features we are shipping were built, so that it is easier for marketing to identify which 1-2 features are highlighted in the title
 * Release Manager and PMs decide which sections of the release announcement will have an accompanying screenshot/photo
 
-### T-8
+### T-8 First Draft
 * Author finishes blog post draft
 * Release manager checks for spelling mistakes, features included, screenshot guidelines are met. Ask: how would you rate the title? How can we make it 1 score better? 
   - Use this method for other parts of the blog draft, inlcuding screenshots
-* Release manager checks that the type of release (feature or quality) is specified in the body
+* Release manager checks that the type of the release (feature or quality) is specified in the body after one-liners
 
-### T-7
-  * PMs review for features and content are technically correct
-  * Marketing reviews
+### T-7 PM and Marketing Review
+* PMs review for features and content are technically correct
+* Marketing reviews
 
-### T-6
-* Head of PM reviews
+### T-6 Head of PM Review
+* Head of PM reviews the blog draft
 
-### T-5
-* CEO review
-   - Release Manager to use hashtags in marketing channel (e.g. ``#mm520``) to make finding the blog draft easier, and post the blog draft in the marketing channel 24 hours prior to the meeting (and at-mention meeting attendees)
-* Blog post published
+### T-5 CEO Review
+* 24 hours prior to CEO review, Release Manager posts the blog draft in the Marketing channel with a hashtag (e.g. ``#mm520``) to make finding the blog draft easier (and at-mentions meeting attendees)
+
+### T-1 Blog Post to Wordpress
+* Author sets up the blog post in Wordpress and asks Release Manager and Marketing to review
+
+### T-0 Blog Post Published
+* Release Manager publishes the blog post
 
 ### T+5
 * Author schedules tweets from blog post \(Tuesdays 10am PT, and Thursdays 10am if there's extra\)
@@ -74,7 +78,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
          2. **Medium** - Tells a story clearly, readable text, right size 
          3. **Low** - Bare minimum to call an image 
    3. **\(Author owns\)** Draft Tweet text for all screenshots included
-      1. Contains version hashtag, e.g. \#mm518
+      1. Contains version hashtag, e.g. \#mm520
 
 ## **Style Guidelines**
 
