@@ -13,7 +13,7 @@ Values
 Methods
 
 * Project Management:  Define, scope, prioritize and implement the right things in Q4 and beyond.
-* Customer Journey operations: Define the Customer Journey with functional stakeholders. Build a project timeline to implement process and tooling to support all key CJ milestones. In the short term we will focus on Customer Billings, License and Provisioning \(BLP\)
+* Customer Journey operations and instrumentation: Define the Customer Journey with functional stakeholders. Build a project timeline to implement process and tooling to support all key CJ milestones. In the short term we will focus on Customer Billings, License and Provisioning \(BLP\)
 * Establish a data and analytics service bureau: Create data and analytics infrastructure that will be used to manage all company critical data. Work with stakeholders to document canonical definitions of key metrics. Establish a self service model for end users. A short term priority will be to begin working centralizing Product Data and Telemetry
 * MLT Vision and buy-in: Work with MLT to define and scope key MLT metrics and project milestones
 * IT systems operations:  Focus on creating a catalog of all systems used at Mattermost. Identify contract details, spend, owner and users with access. Sunset systems no longer used and/or performing a duplicate function.
