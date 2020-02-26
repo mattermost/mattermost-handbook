@@ -17,4 +17,4 @@ description: 50% Draft
  - Sales Ops contacts: Melissa Warner, Elaine Yue
  - Marketing contact: Lauren Nguyen
 
-3. Marketing team creates an Asana task [in the Web Dev Asana board](https://app.asana.com/0/1118355038043647/board) and adds the partner information to https://mattermost.com/partners/ 
+3. Marketing team creates an Asana task [in the Web Dev Asana board](https://app.asana.com/0/1118355038043647/board) and adds the partner information to https://mattermost.com/partners/. 
