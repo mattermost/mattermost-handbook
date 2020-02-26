@@ -34,7 +34,7 @@ Customer Success Account Health Score represents the overall health of a Matterm
 
 _**= \(25 \* Tenure %\) + \(25 \* License End %\) + \(25 \* Count of Tickets %\) + \(25 \*  Most Recent Task %\)**_
 
-* **Tenure % :**
+* **Tenure %:**
   * Tenure &lt;= 0.5 Years: **10%**
   * Tenure Between 0.5-1 Years: **50%**
   * Tenure Between 1-2 Years: **75%**
