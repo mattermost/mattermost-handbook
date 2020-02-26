@@ -82,6 +82,7 @@
     * [Looker](operations/business-operations/analytics/looker.md)
     * [Reports & Dashboards](operations/business-operations/analytics/reports-and-dashboards.md)
   * [Data Engineering](operations/business-operations/data-engineering.md)
+  * [Salesforce Administration](operations/business-operations/salesforce-administration.md)
 * [Finance](operations/finance/README.md)
   * [Naming Files and Agreements](operations/finance/naming-files-and-agreements.md)
   * [Procurement](operations/finance/procurement.md)
