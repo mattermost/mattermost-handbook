@@ -25,6 +25,7 @@ description: 50% Draft
 * Author finishes blog post draft
 * Release manager checks for spelling mistakes, features included, screenshot guidelines are met. Ask: how would you rate the title? How can we make it 1 score better? 
   - Use this method for other parts of the blog draft, inlcuding screenshots
+* Release manager checks that the type of release (feature or quality) is specified in the body
 
 ### T-7
   * PMs review for features and content are technically correct
