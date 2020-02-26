@@ -15,35 +15,35 @@ description: 50% Draft
 
 ## **Process**
 
-### T-20 Blog Post Outline
+### (T-minus 20 working days) Blog Post Outline
 * Release Manager prepares bullet points and release headline for release announcement
 * Release Manager reviews the outline (benefits and order of features) with PMs before sending to Justin to work on
   - Ask PMs to share specs or other details on why the features we are shipping were built, so that it is easier for marketing to identify which 1-2 features are highlighted in the title
 * Release Manager and PMs decide which sections of the release announcement will have an accompanying screenshot/photo
 
-### T-8 First Draft
+### (T-minus 8 working days) First Draft
 * Author finishes blog post draft
 * Release manager checks for spelling mistakes, features included, screenshot guidelines are met. Ask: how would you rate the title? How can we make it 1 score better? 
   - Use this method for other parts of the blog draft, inlcuding screenshots
 * Release manager checks that the type of the release (feature or quality) is specified in the body after one-liners
 
-### T-7 PM and Marketing Review
+### (T-minus 7 working days) PM and Marketing Review
 * PMs review for features and content are technically correct
 * Marketing reviews
 
-### T-6 Head of PM Review
+### (T-minus 6 working days) Head of PM Review
 * Head of PM reviews the blog draft
 
-### T-5 CEO Review
+### (T-minus 5 working days) CEO Review
 * 24 hours prior to CEO review, Release Manager posts the blog draft in the Marketing channel with a hashtag (e.g. ``#mm520``) to make finding the blog draft easier (and at-mentions meeting attendees)
 
-### T-1 Blog Post to Wordpress
+### (T-minus 1 working days) Blog Post to Wordpress
 * Author sets up the blog post in Wordpress and asks Release Manager and Marketing to review
 
-### T-0 Blog Post Published
+### (T-minus 0 working days) Blog Post Published
 * Release Manager publishes the blog post
 
-### T+5
+### (T-plus 5 working days) Tweets
 * Author schedules tweets from blog post \(Tuesdays 10am PT, and Thursdays 10am if there's extra\)
 
 ## **Checklist for review of draft:**
