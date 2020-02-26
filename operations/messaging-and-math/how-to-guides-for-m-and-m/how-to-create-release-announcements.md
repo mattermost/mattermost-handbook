@@ -23,7 +23,7 @@ description: 50% Draft
 
 ### B. (T-minus 8 working days) First Draft
 * Author finishes blog post draft
-* Release manager checks for spelling mistakes, features included, screenshot guidelines are met. 
+* Release manager checks that the guidelines in the Checklist for Review of Draft are met
   - Ask: how would you rate the title? How can we make it 1 score better? Use this method for other parts of the blog draft, inlcuding screenshots
 
 ### C. (T-minus 7 working days) PM and Marketing Review
@@ -36,7 +36,7 @@ description: 50% Draft
 ### E. (T-minus 5 working days) CEO Review
 * 24 hours prior to CEO review, Release Manager posts the blog draft in the Marketing channel with a hashtag (e.g. ``#mm520``) to make finding the blog draft easier (and at-mentions meeting attendees)
 
-### F. (T-minus 1 working days) Blog Post to Wordpress
+### F. (T-minus 1 working days) Set Up Blog Post in Wordpress
 * Author sets up the blog post in Wordpress and asks Release Manager and Marketing to review
 
 ### G. (T-minus 0 working days) Blog Post Published
@@ -64,9 +64,10 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    1. Promote E10 and E20 features - add `E10` and `E20` labels throughout the blog post for relevant features
    2. No spelling errors or broken links
    3. The type of the release (feature or quality) should be clarified in a paragraph after the one-liners
-   4. All features PM team wants to highlight are included
+   4. MVP winner and security note (if applicable) are included
+   5. All features PM team wants to highlight are included
       1. **\(PM team owns\)** Check for technical accuracy and statement of benefits 
-   5. \(**Author owns\)** All contributors are recognized with a screenshot 
+   6. \(**Author owns\)** All contributors are recognized with a screenshot 
       1. Names should not be red-underlined \(if they are, add them to the dictionary prior to taking a screenshot\)
       2. Screenshot not surrounded by a border
       3. Below the screenshot, include a text version of their names in small font with a link to their GitHub handle
