@@ -17,10 +17,8 @@ Monthly Recurring Expense activities should be consolidated on one [Expense Repo
 Non-Recurring Expense activities should be broken up by event and separated by an [Expense Report](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#creating-a-report). Common events include the following
 
 * **Travel**: you should have 2 expense reports:
-
-1. **Flight expense report**: This will include airfare paid for in advance of your trip.
-2. **Travel expense report**: This will include hotel, meals, uber/taxis, etc. incurred during the time of your travel.
-
+* **Flight expense report**: This will include airfare paid for in advance of your trip.
+* **Travel expense report**: This will include hotel, meals, uber/taxis, etc. incurred during the time of your travel.
 * **Equipment**: When onboarding, all expenses should be submitted on the same expense report in the month incurred
 
 Expenses for the same trip or report that is submitted on multiple [Expense Report](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#creating-a-report) \(e.g. in piecemeal\) will be pushed back to the submitter to amend.
@@ -180,7 +178,7 @@ If you are being reimbursed in a currency other than USD, refer to [Currency Exc
 
 If you are a staff member who has has or will be reimbursed and the [exchange rate used is unfavorable](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#other-expenses), follow the directions below.
 
-Add a line to your expense report and use the select **Foreign Currency Reimbursement** as your [Category](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#reporting-fields). In your report, include the following information: 
+Add a line to your expense report and use the select **Foreign Currency Reimbursement** as your [Category](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#reporting-fields). In your report, include the following information:
 
 1. Net amount owed.
 2. Select [Classification](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#classification) as **Business Operations**.
@@ -206,5 +204,5 @@ If you are located in Canada or employed through OWS, you will receive reimburse
 
 ### Rest of World \(ROW\)
 
-For everyone else, a Bill.com account will need to be setup. If you already have a bill.com account and being reimbursed by Mattermost at this time, you may disregard. If you are needing to set up a bill.com account, please work with the [Accounts Payable Team](mailto:ap@mattermost.com) who will create your profile in bill.com for you. If you are uncertain, please reach out to the [Accounts Payable Team](mailto:ap@mattermost.com) for guidance. To ensure accuracy and expediency, please complete [Mattermost Banking Information Form](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#banking-form) which the [Accounts Payable Team](mailto:ap@mattermost.com) will use to setup your credentials. 
+For everyone else, a Bill.com account will need to be setup. If you already have a bill.com account and being reimbursed by Mattermost at this time, you may disregard. If you are needing to set up a bill.com account, please work with the [Accounts Payable Team](mailto:ap@mattermost.com) who will create your profile in bill.com for you. If you are uncertain, please reach out to the [Accounts Payable Team](mailto:ap@mattermost.com) for guidance. To ensure accuracy and expediency, please complete [Mattermost Banking Information Form](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#banking-form) which the [Accounts Payable Team](mailto:ap@mattermost.com) will use to setup your credentials.
 

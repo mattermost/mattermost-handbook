@@ -14,5 +14,7 @@ Where to find us:
 * Mattermost: BizOps, Analytics
 * Email: bizops@mattermost.com
 
-![](../../.gitbook/assets/screen-shot-2019-12-02-at-12.12.51-pm.png)
+## BizOps Functional Breakdown
+
+![](../../.gitbook/assets/blank-diagram.png)
 

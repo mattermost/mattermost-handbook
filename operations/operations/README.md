@@ -9,7 +9,7 @@ description: 'How Mattermost, Inc. operates as a company'
 #### Company Key Info
 
 * [About Mattermost](../../company/about-mattermost/#mission): Mission, vision, company overview, history
-* [How to VPMOM](../../company/how-to-guides-for-staff/how-to-vpmom.md): How we use VPMOMs to create organizational alignment at high speed
+* [How to VPMOM](): How we use VPMOMs to create organizational alignment at high speed
 * [MLT Cadence](mlt-cadence/): Cadence of Mattermost Leadership Team to develop company strategy, plan, review and adapt.
 
 #### FY20 MLT VPMOM

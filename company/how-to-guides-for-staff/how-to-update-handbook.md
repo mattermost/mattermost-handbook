@@ -1,4 +1,4 @@
-# How to Update the Handbook
+# How to update handbook
 
 ## Guidelines
 
@@ -31,7 +31,7 @@ After this, click the **Propose file change** button.
 
 ### Opening a Pull Request
 
-On the next page, scroll down to compare changes with the original document, request **Reviewers** on the top right navigation, select relevant [labels](https://developers.mattermost.com/contribute/getting-started/labels/) for the pull request, then select **Create pull request**. 
+On the next page, scroll down to compare changes with the original document, request **Reviewers** on the top right navigation, select relevant [labels](https://developers.mattermost.com/contribute/getting-started/labels/) for the pull request, then select **Create pull request**.
 
 ![](../../.gitbook/assets/how-to-update-handbook-create-new-pull-request.png)
 
@@ -78,3 +78,4 @@ Follow these two steps:
 ## Training Video
 
 [Watch a training video on how to update the handbook in GitHub](https://drive.google.com/file/d/1AOI8H-oe2u1JW6oOA4nPPTSbGnK3Xuq1/view?usp=sharing).
+

@@ -39,7 +39,7 @@
   * [Company Agreements](operations/operations/company-agreements.md)
   * [Company Cadence](operations/operations/company-cadence.md)
   * [Publishing](operations/operations/publishing/README.md)
-    * [Public Web Properties](operations/operations/publishing/web-properties/README.md)
+    * [Public Web Properties](operations/operations/publishing/web-properties.md)
     * [Publishing Guidelines](operations/operations/publishing/publishing-guidelines/README.md)
       * [Brand and Visual Design Guidelines](operations/operations/publishing/publishing-guidelines/brand-and-visual-design-guidelines.md)
       * [Voice, Tone and Writing Style Guidelines](operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines.md)

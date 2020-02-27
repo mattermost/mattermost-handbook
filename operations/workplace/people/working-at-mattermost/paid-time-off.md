@@ -16,14 +16,14 @@ Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Pa
 
 ## Communicating Time Off
 
-### When you take time-off (full days only) please do the following:
+### When you take time-off \(full days only\) please do the following:
 
 1. Add your time-off to the [Mattermost Time-Off Calendar](https://calendar.google.com/calendar?cid=bWF0dGVybW9zdC5jb21fbWczbnVsZ2Y2ZTcwZTUwb2hscTJycmtjbmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).   
-2. People Managers - ensure your teams understand your **[vacation ready](https://handbook.mattermost.com/operations/operations#fy20-mlt-vpmom) expectations**. 
+2. People Managers - ensure your teams understand your [**vacation ready**](https://handbook.mattermost.com/operations/operations#fy20-mlt-vpmom) **expectations**. 
 3. If you are staffed in Canada, Germany or UK, we are required to track vacation up to the statutory amount. Any time off after that does not need to be recorded. [HR](mailto:hr@mattermost.com) will share an individual document tracker. 
 4. Enjoy your time off! 
 
-### Where to go to see who's on PTO: 
+### Where to go to see who's on PTO:
 
 * [Stand-up channel](https://community.mattermost.com/private-core/channels/stand-up) 
 * [Mattermost Time Off calendar](https://calendar.google.com/calendar/embed?src=mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com&ctz=America%2FLos_Angeles)
@@ -64,3 +64,4 @@ It’s up to meeting chairs to decide whether to reschedule if few people can at
 +July 4, 2020 \(the legal public holiday for US Independence Day\), falls on a Saturday. For staff, Friday, July 3, may be treated as a holiday.
 
 ++December 26, 2020 falls on a Saturday.
+

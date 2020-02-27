@@ -22,7 +22,7 @@ description: >-
 * Customer Success related: @emily.hollinger
 * Everything else:[ BizOps](https://community.mattermost.com/private-core/channels/bizops) or @michael.schiff
 
-## Instances
+## Salesforce Instances
 
 * [Production](https://mattermost.my.salesforce.com/)
 * [Sandbox \(Main Development\)](https://cs28.salesforce.com/?un=michael.schiff%40mattermost.com.aortauat&)
