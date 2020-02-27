@@ -63,7 +63,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 3. **Body**
    1. Promote E10 and E20 features - add `E10` and `E20` labels throughout the blog post for relevant features
    2. No spelling errors or broken links
-   3. The type of the release (feature or quality) should be clarified in a paragraph after the one-liners
+   3. Clarify type of release (feature or quality) in the paragraph that follows feature one-liners
    4. MVP winner and security note (if applicable) are included
    5. All features PM team wants to highlight are included
       1. **\(PM team owns\)** Check for technical accuracy and statement of benefits 
