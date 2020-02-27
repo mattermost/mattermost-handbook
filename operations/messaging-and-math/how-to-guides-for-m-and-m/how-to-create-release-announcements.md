@@ -27,7 +27,7 @@ description: 50% Draft
   - Ask: how would you rate the title? How can we make it 1 score better? Use this method for other parts of the blog draft, inlcuding screenshots
 
 ### C. (T-minus 7 working days) PM and Marketing Review
-* PMs review for features and content are technically correct
+* PMs review feature content is technically correct
 * Marketing reviews the blog draft
 
 ### D. (T-minus 6 working days) Head of PM Review
