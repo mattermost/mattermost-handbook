@@ -126,6 +126,25 @@ _**What the customer bought normalized for one year length & reoccurs for length
   * Churn: Decrease in ARR from &gt; $0 to $0 by an Account
     * Caused by an Account moving completely off of Mattermost
 
+### Bookings
+
+_**Standard financial term used to define how much sales credit is recognized for a deal. This is also the basis for all commission plans starting in FY21.**_
+
+* If term length &gt;= 1 year, bookings = ACV
+* If term length &lt; 1 year, bookings = TCV
+* Net New and Expansion only
+* Why would we have deals &lt; 1 year?
+  * True-ups
+    * Customer owes MM 30K for Q1FY21 
+    * Booking would be 30K on the first day of Q2 \(May 1\)
+  * Co-Term Renewals
+  * Ramped Deals
+    * Customer signs a 3 year deal on Feb 28, 2020. Year 1 = 50K, Year 2 = 100K, Year 3 = 150K
+    * Bookings
+      * 2/28/20: 50K
+      * 2/28/21: 100K - 50K = 50K
+      * 2/28/22: 150K - 100K = 50K
+
 ### TCV vs. ACV vs. ARR
 
 Example: 
