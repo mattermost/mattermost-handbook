@@ -36,13 +36,11 @@ description: 50% Draft
 ### E. (T-minus 5 working days) CEO Review
 * 24 hours prior to CEO review, Release Manager posts the blog draft in the Marketing channel with a hashtag (e.g. ``#mm520``) to make finding the blog draft easier (and at-mentions meeting attendees)
 
-### F. (T-minus 1 working days) Set Up Blog Post in Wordpress
+### F. (T-minus 2 working days) Set Up Blog Post in Wordpress
 * Author sets up the blog post in Wordpress and asks Release Manager and Marketing to review
 
-### G. (T-minus 0 working days) Blog Post Published
+### G. (T-minus 0 working days) Blog Post and Tweets Published
 * Release Manager publishes the blog post
-
-### H. (T-plus 5 working days) Tweets
 * Author schedules tweets from blog post \(Tuesdays 10am PT, and Thursdays 10am if there's extra\)
 
 ## **Checklist for review of draft:**
@@ -61,7 +59,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    4. Lead with verbs (e.g. "Find most recent messages faster")
    5. Start with benefits, then technical details
 3. **Body**
-   1. Promote E10 and E20 features - add `E10` and `E20` labels throughout the blog post for relevant features
+   1. Promote E10 and E20 features by adding `E10` and `E20` labels throughout the blog post for relevant features
    2. No spelling errors or broken links
    3. Clarify type of release (feature or quality) in the paragraph that follows feature one-liners
    4. MVP winner and security note (if applicable) are included
