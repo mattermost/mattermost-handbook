@@ -16,5 +16,5 @@ Where to find us:
 
 ## BizOps Functional Breakdown
 
-![](../../.gitbook/assets/blank-diagram.png)
+![](../../.gitbook/assets/blank-diagram-1.png)
 
