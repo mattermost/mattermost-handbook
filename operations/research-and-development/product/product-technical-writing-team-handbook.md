@@ -75,7 +75,9 @@ Requests for documentation can be made within [community.mattermost.com](https:/
 
 ![Access the Doc Up plugin by hovering over a message and clicking the &quot;...&quot; menu.](../../../.gitbook/assets/image%20%2818%29.png)
 
-When you select DocUp, an issue is generated in the GitHub docs repo, and added to the issues list. An update is listed in the Documentation channel, with the issue link.
+When you select Doc Up and choose **Admin** as the issue type, an issue is generated in the GitHub docs repo, and added to the issues list. An update is listed in the Documentation channel, with the issue link. 
+
+You can also select **Developer** or **Company Handbook** to direct the Doc Up  request to the appropriate repo. 
 
 As the issues are open to the community, the more information provided in the ticket the better. Once the link is shared in the Documentation channel, review the issue and add any links to appropriate documentation and/or Jira tickets. This ensures that the assignee is able to take on and complete the work within the turnaround times. 
 
