@@ -87,7 +87,7 @@ _**= Tenure Score + License End Score + Ticket Score + Task Score**_
 
 ## Finance
 
-Financial numbers cater to a wide range of teams. Below you will find information on ACV, TCV, and ARR. **ACV & TCV are relevant to Sales and ARR relevant to Finance and CS.**
+Financial numbers cater to a wide range of teams. Below you will find information on ACV, TCV, and ARR. **ACV, TCV, Bookings are relevant to Sales/CS and ARR relevant to Finance/CS.**
 
 ### TCV \(Total Contract Value\)
 
@@ -102,10 +102,26 @@ _**What the customer bought**_
 _**What the customer bought annualized for the first year of their contract**_
 
 * Recognized **only** in the Closed Won Month
-* Calculation for deals &gt;= 12 months
-  * `ACV = (Total Contract Value / (End Date - Start Date)) * 365`
-* Calculation for deals &lt; 12 months
-  * `ACV = Total Contract Value`
+* `ACV = (Total Contract Value / (End Date - Start Date)) * 365`
+
+### Bookings
+
+_**Standard financial term used to define how much sales credit is recognized for a deal. This is also the basis for all commission plans starting in FY21.**_
+
+* **If term length &gt;= 1 year, Bookings = ACV**
+* **If term length &lt; 1 year, Bookings = TCV**
+* **Net New and Expansion only**
+* Why would we have deals &lt; 1 year?
+  * True-ups
+    * Customer owes MM 30K for Q1FY21 
+    * Booking would be 30K on the first day of Q2 \(May 1\)
+  * Co-Term Renewals
+  * Ramped Deals
+    * Customer signs a 3 year deal on Feb 28, 2020. Year 1 = 50K, Year 2 = 100K, Year 3 = 150K
+    * Bookings
+      * 2/28/20: 50K
+      * 2/28/21: 100K - 50K = 50K
+      * 2/28/22: 150K - 100K = 50K
 
 ### ARR \(Annual Recurring Revenue\)
 
@@ -125,25 +141,6 @@ _**What the customer bought normalized for one year length & reoccurs for length
     * Caused by seat decrease, price decrease, or product downgrade
   * Churn: Decrease in ARR from &gt; $0 to $0 by an Account
     * Caused by an Account moving completely off of Mattermost
-
-### Bookings
-
-_**Standard financial term used to define how much sales credit is recognized for a deal. This is also the basis for all commission plans starting in FY21.**_
-
-* If term length &gt;= 1 year, bookings = ACV
-* If term length &lt; 1 year, bookings = TCV
-* Net New and Expansion only
-* Why would we have deals &lt; 1 year?
-  * True-ups
-    * Customer owes MM 30K for Q1FY21 
-    * Booking would be 30K on the first day of Q2 \(May 1\)
-  * Co-Term Renewals
-  * Ramped Deals
-    * Customer signs a 3 year deal on Feb 28, 2020. Year 1 = 50K, Year 2 = 100K, Year 3 = 150K
-    * Bookings
-      * 2/28/20: 50K
-      * 2/28/21: 100K - 50K = 50K
-      * 2/28/22: 150K - 100K = 50K
 
 ### TCV vs. ACV vs. ARR
 
