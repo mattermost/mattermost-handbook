@@ -54,7 +54,9 @@ Once complete, submit your Pull Request \(PR\). Ensure that you assign appropria
 
 ### Submitting Documentation With Your PR
 
-We want to empower everyone to contribute to our documentation, and be comfortable submitting documentation for contributions. As such, we don't expect every contribution to adhere to our style guide. 
+We want to empower everyone to contribute to our documentation, and be comfortable submitting documentation for contributions. As such, we don't expect every contribution to adhere to our style guide when first submitted. 
+
+During the review process the editorial team also provides feedback on style elements to bring the submission in line with the [Documentation Style Guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide).
 
 Here are some guidelines around this:
 
