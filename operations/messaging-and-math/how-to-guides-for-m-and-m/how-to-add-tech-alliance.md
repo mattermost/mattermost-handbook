@@ -2,7 +2,7 @@
 description: 50% Draft
 ---
 
-# How to add a new tech alliance to https://mattermost.com/partners/
+# How to add a new tech alliance partner to https://mattermost.com/partners/
 
 1. Ask the tech alliance to provide the following information in an email to partner-directory@mattermost.com:
 
