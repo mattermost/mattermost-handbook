@@ -40,29 +40,77 @@ The Technical Writing team focuses primarily on the User Guide, Admin Guide, and
 * Community and doc review process
   * Exact split with Justine to be determined
 
-Note: Few areas not listed above, such as the [User's Guide](https://docs.mattermost.com/guides/user.html), will remain a collaborative effort between Product Managers and Technical Writers. Please assume @jason.blais as the directly responsible individual.
+Note: Some areas not listed above, such as the [User's Guide](https://docs.mattermost.com/guides/user.html), will remain a collaborative effort between Product Managers and Technical Writers. Please assume @jason.blais as the directly responsible individual.
 
 ## Processes
 
 The processes around documentation, such as SLAs for issues and requesting documentation assistance are detailed below.
 
-### **Contributing to Documentation**
+### Contributing to Documentation
 
 The basic outline for getting started with contributions is provided in the [README](https://github.com/mattermost/docs/blob/master/README.md) of the docs repo. If you have write access to the repo, you can create a branch off master and work on that.
 
-Once complete, submit your Pull Request \(PR\). Ensure that you assign appropriate approvers and labels. You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review/) - it applies to various types of contributions including documentation.
+Once complete, submit your Pull Request \(PR\). Ensure that you assign appropriate approvers and labels. You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review) - it applies to various types of contributions including documentation.
 
-### DocUp/Documentation Issue Process
+### Submitting Documentation With Your PR
 
-Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the DocUp plugin embedded in the post menu.
+We want to empower everyone to contribute to our documentation, and be comfortable submitting documentation for contributions. As such, we don't expect every contribution to adhere to our style guide when first submitted. 
+
+During the review process the editorial team also provides feedback on style elements to bring the submission in line with the [Documentation Style Guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide).
+
+Here are some guidelines around this:
+
+* When submitting a PR, please include updated documentation if applicable. 
+* The documentation update can be in the form of a bullet list or an outline.
+* Label the PR as **Docs Needed** and tag @justinegeffen or @amyblais.
+* The documentation you've submitted will be reviewed.
+* At times, the editors may make and commit stylistic changes \(such as punctuation\) but any content changes will be added as a suggestion for the submitter's consideration. 
+* Once the PR is approved, it will be merged, and the documentation will be updated. 
+
+You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review). 
+
+Note: This process does not apply to the [API Documentation requirements](https://github.com/mattermost/mattermost-api-reference). 
+
+### Adding Reviewers to PRs
+
+Mattermost documentation covers a number of different topics. For documentation, the following reviewers are recommended:
+
+**Editor Review**
+* Amy Blais (@amyblais) or Justine Geffen (@justinegeffen)
+
+**Product Manager Review**
+* Admin Guide - Enterprise: Dennis Kittrell (@thefactremains)
+* Admin Guide - Non-enterprise: Katie Wiersgalla (@kwiersgalla)
+* End User Guide - Mobile and desktop app: Eric Sethna (@esethna)
+* End User Guide - Other: Adam Clarkson (@adamjclarkson)
+* Integrations: Aaron Rothschild (@aaronrothschild)
+* Handbook and Process: Jason Blais (@jasonblais)
+
+**Dev Review**
+* Admin Guide - Enterprise: Scott Bishel (@sbishel)
+* Admin Guide - Non-enterprise: Joram Wilander (@jwilander)
+* End User Guide - Mobile and desktop app: Elias Nahum (@enahum)
+* End User Guide - Other: Dean Whillier (@deanwhillier)
+* Integrations: Lev Brouk (@levb)
+* Handbook and Process: Jason Blais (@jasonblais)
+
+### Requesting Documentation via Doc Up
+
+Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the Doc Up plugin embedded in the post menu.
 
 ![Access the Doc Up plugin by hovering over a message and clicking the &quot;...&quot; menu.](../../../.gitbook/assets/image%20%2818%29.png)
 
-When you select DocUp, an issue is generated in the GitHub docs repo, and added to the issues list.
+When you select Doc Up and choose **Admin** as the issue type, an issue is generated in the GitHub docs repo, and added to the issues list. An update is listed in the Documentation channel, with the issue link. 
+
+You can also select **Developer** or **Company Handbook** to direct the Doc Up request to the appropriate repo. 
+
+As the issues are open to the community, the more information provided in the issue the better. 
+
+Review the issue in the [docs repo](https://github.com/mattermost/docs/issues?q=is%3Aopen+is%3Aissue), [developer documentation repo](https://github.com/mattermost/mattermost-developer-documentation/issues?q=is%3Aopen+is%3Aissue), or [handbook repo](https://github.com/mattermost/mattermost-handbook/issues?q=is%3Aopen+is%3Aissue) and add any links to appropriate documentation and/or Jira tickets. This ensures that the assignee is able to take on and complete the work within the turnaround times. 
 
 #### Turnaround Time
 
-When the issue has been created, please follow these guidelines to assign appropriate labels: [https://developers.mattermost.com/contribute/getting-started/labels/](https://developers.mattermost.com/contribute/getting-started/labels/). This ensures that the issues are prioritized appropriately.
+When the issue has been created, please follow these guidelines to assign appropriate [labels] (https://developers.mattermost.com/contribute/getting-started/labels). This ensures that the issues are prioritized appropriately.
 
 You can expect the following approximate turnaround times:
 
@@ -73,7 +121,7 @@ There are a number of variables at play and providing a hard and fast time-frame
 
 #### Assignees
 
-Documentation does not have to be written by the Technical Product Writer/s. You can raise an issue, complete the requirement, and submit a Pull Request.
+Documentation does not have to be written by the Technical Product Writer/s. You can raise an issue, complete the requirement, and submit a Pull Request. 
 
 For less urgent work, if no reply has been received within 48 hours, please ping @justinegeffen in GitHub.
 
@@ -81,13 +129,13 @@ For less urgent work, if no reply has been received within 48 hours, please ping
 
 We really want the community to own the docs as much as possible. In light of this, please mark your issue as “Help Wanted” so that community members are able to identify work that they’re able to assist with.
 
-If your documentation request/issue applies to a repository other than mattermost/docs, you can use the \*\*Editor Review\*\*label and/or ping @justinegeffen or @amyblaise.
+If your documentation request/issue applies to a repository other than mattermost/docs, you can use the **Docs Needed** and **Editor Review** labels and/or ping @justinegeffen or @amyblais.
 
 ## General Contribution Workflow
 
 ### Jira Tickets
 
-The Technical Writing Jira board is located here:[https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=51](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=51). Feature and release writing is planned three sprints in advance. This ensures that ad-hoc work can be taken on.
+The [Technical Writing Jira board](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=51) is a snapshot of the current Technical Writing workload. Feature and release writing is planned three sprints in advance. This ensures that ad-hoc work can be taken on.
 
 If you have a documentation requirement, please create a ticket and include the following fields:
 
@@ -105,33 +153,32 @@ If the Jira ticket is for general documentation, depending on the current worklo
 
 ### Editing Requests
 
-The Technical Product Writer/s form part of the PR review/approval process. When submitting a PR for documentation, please add the “Editor Review” label. Once the editor has signed off on the PR they will remove the label.
+The Technical Product Writer/s form part of the PR review/approval process. When submitting a PR for documentation, please add the **Editor Review** label. Once the editor has signed off on the PR they will remove the label. When all the requested reviews are complete, the **Reviews Complete** label will be applied and the changes merged.
 
 ### Formatting and Style Guide
 
 The [Documentation Style guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide) and [UI text guidelines](https://docs.mattermost.com/process/documentation-UItext-guidelines.html).
 
-### Community Documentation Involvement
+# Community Documentation Involvement
 
 Every month the Mattermost community plans, builds, tests, documents, releases, and supports new product improvements for Team Edition to benefit the user community. The Mattermost Enterprise Team does the same for Enterprise Edition to benefit the subscriber community.
 
 A critical part of this development is documentation which ranges from feature documentation to FAQs, guides, and tutorials.
 
-#### Feature Documentation
+## Feature Documentation
 
 Feature documentation is generally written by the technical product writers, within a specific time-frame aligned with releases. Community members are welcome to assist, if the time expectations are manageable.
 
 Feature request documentation is usually located in the [mattermost-server](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+is%3Aissue+label%3ADocs%2FNeeded) repo and the [mattermost-webapp](https://github.com/mattermost/mattermost-webapp/pulls?q=is%3Aopen+is%3Apr+label%3ADocs%2FNeeded) repo and are labelled as “Docs Needed”. As these are tied to a release \(and a deadline\) it’s best to only take on the work if you’re sure you can complete it on time. It’s understood that community members contribute in their available time, which is why this type of documentation isn’t usually the best option to take on.
 
-#### Help Wanted Tickets/Doc Issues
+## Help Wanted Tickets/Doc Issues
 
 Help Wanted tickets are generally not linked to a release and are more flexible in terms of timeline and delivery date. You can find the documentation Help Wanted tickets [here](https://github.com/mattermost/docs/labels/Help%20Wanted). To start working on one, assign it to yourself, add a comment indicating you’ll be working on it, find the relevant document in the [source](https://github.com/mattermost/docs/tree/master/source) directory, read through the [README](https://github.com/mattermost/docs/blob/master/README.md) file if you're not familiar with the process, and get started.
 
 If you have any questions, you can post them in the [Documentation](https://community.mattermost.com/core/channels/documentation) channel and we'll be happy to help.
 
-#### Engineering/Developer Documentation
+## Engineering/Developer Documentation
 
 Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated \(or created\) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation. The documentation can be as detailed or concise as deemed necessary - consider it an MVP which can be refined at a later stage.
 
-When submitting your PR, please include the \*\*Editor Review\*\* label and add @amyblais or @justinegeffen in GitHub as an approver.
-
+When submitting your PR, please include the **Editor Review** label and add @amyblais or @justinegeffen in GitHub as an approver.
