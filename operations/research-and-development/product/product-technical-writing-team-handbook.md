@@ -79,7 +79,9 @@ When you select Doc Up and choose **Admin** as the issue type, an issue is gener
 
 You can also select **Developer** or **Company Handbook** to direct the Doc Up  request to the appropriate repo. 
 
-As the issues are open to the community, the more information provided in the ticket the better. Once the link is shared in the Documentation channel, review the issue and add any links to appropriate documentation and/or Jira tickets. This ensures that the assignee is able to take on and complete the work within the turnaround times. 
+As the issues are open to the community, the more information provided in the issue the better. 
+
+Review the issue in the [docs repo](https://github.com/mattermost/docs/issues?q=is%3Aopen+is%3Aissue), [developer documentation repo](https://github.com/mattermost/mattermost-developer-documentation/issues?q=is%3Aopen+is%3Aissue), or [handbook repo](https://github.com/mattermost/mattermost-handbook/issues?q=is%3Aopen+is%3Aissue) and add any links to appropriate documentation and/or Jira tickets. This ensures that the assignee is able to take on and complete the work within the turnaround times. 
 
 #### Turnaround Time
 
