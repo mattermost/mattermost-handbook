@@ -1,7 +1,3 @@
----
-description: 1% draft
----
-
 # Voice, Tone and Writing Style Guidelines
 
 Below are a start of voice, tone and writing style guidelines for public web properties to be iterated on:
