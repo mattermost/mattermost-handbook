@@ -90,7 +90,7 @@ Mattermost documentation covers a number of different topics. For documentation,
 * Admin Guide - Enterprise: Scott Bishel (@sbishel)
 * Admin Guide - Non-enterprise: Joram Wilander (@jwilander)
 * End User Guide - Mobile and desktop app: Elias Nahum (@enahum)
-* End User Guide - Other: 
+* End User Guide - Other: Dean Whillier (@deanwhillier)
 * Integrations: Lev Brouk (@levb)
 * Handbook and Process: Jason Blais (@jasonblais)
 
