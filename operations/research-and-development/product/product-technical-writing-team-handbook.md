@@ -60,7 +60,7 @@ Here are some guidelines around this:
 
 * When submitting a PR, please include updated documentation if applicable. 
 * The documentation update can be in the form of a bullet list or an outline.
-* Label the PR as **Docs Needed** and tag @justinegeffen or @amyblaise.
+* Label the PR as **Docs Needed** and tag @justinegeffen or @amyblais.
 * The documentation you've submitted will be reviewed.
 * At times, the editors may make and commit stylistic changes \(such as punctuation\) but any content changes will be added as a suggestion for the submitter's consideration. 
 * Once the PR is approved, it will be merged, and the documentation will be updated. 
