@@ -1,10 +1,10 @@
-# Issue/Solution
+# Issue/Solution Proposal
 
-Issue/Solution is a tool for increasing clarity, speed and output in teams. This page describes the template and process to be used.
+Issue/Solution Proposal is a tool for increasing clarity, speed and output in teams. This page describes the template and process to be used.
 
 ## Framework and process
 
-A Issue/Proposal template is drafted clearly stating the problem to be solved and the proposed solution to solve it. The draft is circulated to stakeholders, asynchronous feedback is shared, synchronous discussion is completed, the Issue/Proposal owner decides how to document and/or adjust their plans based on feedback, a decision is made, feedback is shared by stakeholders on the decision, and then next actions are recorded and executed.
+A Issue/Solution Proposal template is drafted clearly stating the problem to be solved and the proposed solution to solve it. The draft is circulated to stakeholders, asynchronous feedback is shared, synchronous discussion is completed, the Issue/Proposal owner decides how to document and/or adjust their plans based on feedback, a decision is made, feedback is shared by stakeholders on the decision, and then next actions are recorded and executed.
 
 ### **Issue**
 
