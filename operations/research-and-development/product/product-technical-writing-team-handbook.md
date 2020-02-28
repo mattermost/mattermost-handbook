@@ -21,7 +21,7 @@ The Technical Writing team focuses primarily on the User Guide, Admin Guide, and
   * GitLab helm chart docs
 * Google Analytics/Documentation metrics
 * Community and doc review process
-  * Process for DocUp plugin
+  * Process for Doc Up plugin
   * Docs review and coordination with @amy.blais
   * Community Help Wanted doc issues
   * Documentation Handbook and Style Guide maintenance
@@ -52,7 +52,7 @@ The basic outline for getting started with contributions is provided in the [REA
 
 Once complete, submit your Pull Request \(PR\). Ensure that you assign appropriate approvers and labels. You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review) - it applies to various types of contributions including documentation.
 
-### Documentation MVP
+### Submitting Documentation With Your PR
 
 We want to empower everyone to contribute to our documentation, and be comfortable submitting documentation for contributions. As such, we don't expect every contribution to adhere to our style guide. 
 
@@ -69,15 +69,38 @@ You can read more about the review process [here](https://developers.mattermost.
 
 Note: This process does not apply to the [API Documentation requirements](https://github.com/mattermost/mattermost-api-reference). 
 
-### DocUp Issues
+### Adding Reviewers to PRs
 
-Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the DocUp plugin embedded in the post menu.
+Mattermost documentation covers a number of different topics. For documentation, the following reviewers are recommended:
+
+**Editor Review**
+* Amy Blais (@amyblais) or Justine Geffen (@justinegeffen)
+
+**Product Manager Review**
+* Admin Guide - Enterprise: Dennis Kittrell (@thefactremains)
+* Admin Guide - Non-enterprise: Katie Wiersgalla (@kwiersgalla)
+* End User Guide - Mobile and desktop app: Eric Sethna (@esethna)
+* End User Guide - Other: Adam Clarkson (@adamjclarkson)
+* Integrations: Aaron Rothschild (@aaronrothschild)
+* Handbook and Process: Jason Blais (@jasonblais)
+
+**Dev Review**
+* Admin Guide - Enterprise: Scott Bishel (@sbishel)
+* Admin Guide - Non-enterprise: Joram Wilander (@jwilander)
+* End User Guide - Mobile and desktop app: Elias Nahum (@enahum)
+* End User Guide - Other: 
+* Integrations: Lev Brouk (@levb)
+* Handbook and Process: Jason Blais (@jasonblais)
+
+### Requesting Documentation via Doc Up
+
+Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the Doc Up plugin embedded in the post menu.
 
 ![Access the Doc Up plugin by hovering over a message and clicking the &quot;...&quot; menu.](../../../.gitbook/assets/image%20%2818%29.png)
 
 When you select Doc Up and choose **Admin** as the issue type, an issue is generated in the GitHub docs repo, and added to the issues list. An update is listed in the Documentation channel, with the issue link. 
 
-You can also select **Developer** or **Company Handbook** to direct the Doc Up  request to the appropriate repo. 
+You can also select **Developer** or **Company Handbook** to direct the Doc Up request to the appropriate repo. 
 
 As the issues are open to the community, the more information provided in the issue the better. 
 
@@ -96,7 +119,7 @@ There are a number of variables at play and providing a hard and fast time-frame
 
 #### Assignees
 
-Documentation does not have to be written by the Technical Product Writer/s. You can raise an issue, complete the requirement, and submit a Pull Request.
+Documentation does not have to be written by the Technical Product Writer/s. You can raise an issue, complete the requirement, and submit a Pull Request. 
 
 For less urgent work, if no reply has been received within 48 hours, please ping @justinegeffen in GitHub.
 
@@ -104,7 +127,7 @@ For less urgent work, if no reply has been received within 48 hours, please ping
 
 We really want the community to own the docs as much as possible. In light of this, please mark your issue as “Help Wanted” so that community members are able to identify work that they’re able to assist with.
 
-If your documentation request/issue applies to a repository other than mattermost/docs, you can use the **Docs Needed** and **Editor Review** labels and/or ping @justinegeffen or @amyblaise.
+If your documentation request/issue applies to a repository other than mattermost/docs, you can use the **Docs Needed** and **Editor Review** labels and/or ping @justinegeffen or @amyblais.
 
 ## General Contribution Workflow
 
