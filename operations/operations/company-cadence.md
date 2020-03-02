@@ -8,7 +8,7 @@ This section outlines cadence for company-wide operations.
 
 ## Customer Obsession Meeting \(aka "COM"\) 
 
-This is a weekly all-staff meeting focused on increasing alignment and awareness of how the company, departments, teams and individuals to serve our customers. 
+This is a weekly all-staff meeting focused on increasing alignment and awareness of how the company, departments, teams and individuals serve our customers. 
 
 [Customer Obsession](../../company/about-mattermost/#leadership-principles) is a key leadership principle and we emphasize its priority when we bring the company together. Colleagues who come from companies that aren't obsessed with customers have suggested we refer to this meeting as "All Hands" and not expect everything we announce--from [spending company money](../../company/how-to-guides-for-staff/how-to-spend-company-money/) to [recruiting new talent](../../contributors/join-us/staff-recruiting.md)--to be framed in the context of serving customers. Such expectations are typical and common, and therefore we don't have "All Hands" meetings and instead have "Customer Obsession Meetings" to continually remind us that our focus on customers is atypical and uncommon. 
 
@@ -98,7 +98,7 @@ After the prep meeting, Vice Chair posts a screenshot of the final agenda into t
 ### **After meeting:**
 
 1. \(Vice Chair\) Share meeting recording (viewable only by signed-in users and non-downloadable) and link to feedback survey. [See an example here](https://community.mattermost.com/private-core/pl/nai7nsr61jnbzd67kg37853ybc). **Note**: Include the hashtag `#com-recording` somewhere in the post.
-2. Post a link to the meeting recording in the header of the [Customer Obsession Meeting channel](https://community.mattermost.com/private-core/channels/cust-obs-meeting) and in the meeting notes.
+2. \(Vice Chair\) Post a link to the meeting recording in the header of the [Customer Obsession Meeting channel](https://community.mattermost.com/private-core/channels/cust-obs-meeting) and in the meeting notes.
 3. \(Vice Chair\) Collect feedback from survey and add to next meeting's draft agenda for Chair and Co-Chairs to review.
 
 ## Staff Enablement Survey
