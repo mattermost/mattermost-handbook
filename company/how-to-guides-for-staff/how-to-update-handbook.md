@@ -9,11 +9,11 @@
 
 ### Getting Started
 
-The quickest way to begin is navigating to the page you want to edit in [Mattermost Handbook](https://handbook.mattermost.com/), then clicking the **Edit on GitHub** icon in the top right navigation. This opens the page in GitHub that you can edit.
-
 If this is your first time contributing to Mattermost, first read the [Mattermost Contributor Agreement](https://www.mattermost.org/mattermost-contributor-agreement/) and sign it \(at the bottom of the page\), so you can be added to the Mattermost [Approved Contributor List](https://docs.google.com/spreadsheets/d/1NTCeG-iL_VS9bFqtmHSfwETo5f-8MQ7oMDE5IUYJi_Y/pubhtml?gid=0&single=true).
 
 ### Editing an Existing Page
+
+The quickest way to begin is navigating to the page you want to edit in [Mattermost Handbook](https://handbook.mattermost.com/), then clicking the **Edit on GitHub** icon in the top right navigation. This opens the page in GitHub that you can edit.
 
 After you have opened the page you want to edit in GitHub, click the **Edit** pencil icon in the top right corner.
 
@@ -79,3 +79,19 @@ Follow these two steps:
 
 [Watch a training video on how to update the handbook in GitHub](https://drive.google.com/file/d/1AOI8H-oe2u1JW6oOA4nPPTSbGnK3Xuq1/view?usp=sharing).
 
+## Approved Reviewers and Permissions
+
+Below is a list of approved reviewers.
+
+1. @jasonblais: Reviews major changes to handbook.mattermost.com, such as updates to the table of contents.
+2. @justinegeffen, @amyblais: Editor reviews of all submitted PRs for correct grammar and consistent style.
+3. @rbradleyhaas, @michaelschiffmm: Reviews changes to [business operations](https://github.com/mattermost/mattermost-handbook/tree/0.2.1/operations/business-operations).
+
+Each PR should be reviewed by at least one approved reviewer. A build check requiring at least one approved review prior to a merge is planned, similar to other Mattermost repositories.
+
+Below is a list of permissions handbook contributors have access to:
+
+1. @jasonblais, @justinegeffen, @amyblais: Write permissions to the repository.
+2. @rbradleyhaas, @michaelschiffmm: Write permissions to the repository, but are not expected to make changes without reviews outside of [business operations](https://github.com/mattermost/mattermost-handbook/tree/0.2.1/operations/business-operations), nor make changes to table of contents without reviews. 
+4. Staff contributors: Submits changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, submit PR reviews, and be requested reviews from.
+5. Non-staff contributors: Submits changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, and submit PR reviews.
