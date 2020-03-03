@@ -33,8 +33,6 @@ Math
 * @kendall.reicherter - Marketing operations 
 * @amanda.venezia - Events, paid campaigns 
 
-
-
 **Cadence**
 
 #### M&M Leadership Weekly Tactical \(55m\)
