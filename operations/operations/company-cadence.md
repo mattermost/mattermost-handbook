@@ -8,9 +8,9 @@ This section outlines cadence for company-wide operations.
 
 ## Customer Obsession Meeting \(aka "COM"\) 
 
-This is a weekly all-staff meeting focused on increasing alignment and awareness of how the company, departments, teams and individuals to serve our customers. 
+This is a weekly all-staff meeting focused on increasing alignment and awareness of how the company, departments, teams and individuals serve our customers. 
 
-[Customer Obsession](../../company/about-mattermost/#leadership-principles) is a key leadership principle and we emphasize its priority when we bring the company together. Colleagues who come from companies that aren't obsessed with customers have suggested we refer to this meeting as "All Hands" and not expect everything we announce--from [spending company money](../../company/how-to-guides-for-staff/how-to-spend-company-money/) to [recruiting new talent](../../contributors/join-us/staff-recruiting.md)--to be framed in the context of serving customers. Such expectations are typical and common, and therefore we don't have "All Hands" meetings and instead of "Customer Obsession Meetings" to continually remind us that our focus on customers is atypical and uncommon. 
+[Customer Obsession](../../company/about-mattermost/#leadership-principles) is a key leadership principle and we emphasize its priority when we bring the company together. Colleagues who come from companies that aren't obsessed with customers have suggested we refer to this meeting as "All Hands" and not expect everything we announce--from [spending company money](../../company/how-to-guides-for-staff/how-to-spend-company-money/) to [recruiting new talent](../../contributors/join-us/staff-recruiting.md)--to be framed in the context of serving customers. Such expectations are typical and common, and therefore we don't have "All Hands" meetings and instead have "Customer Obsession Meetings" to continually remind us that our focus on customers is atypical and uncommon. 
 
 <table>
   <thead>
@@ -84,8 +84,8 @@ After the prep meeting, Vice Chair posts a screenshot of the final agenda into t
 ### **During meeting:**
 
 1. \(Vice Chair\) At 7:58am Palo Alto time on the day meeting is held, post a reminder in Customer Obsession Meeting channel. [See here for an example](https://community-release.mattermost.com/private-core/pl/et6haawrufdo9ysmgd7r56p7xe).
-2. \(Chair & Vice Chair\) Signs into their Zoom account to access recording and screenshare during the meeting.
-3. \(Team\) Join the **Zoom** link in the header of the Customer Obsession Meeting channel, and open the **Meeting Notes** link in the header to see the agenda.
+2. \(Chair & Vice Chair\) Sign into their Zoom account to access recording and screenshare during the meeting.
+3. \(Team\) Join the **Zoom** link in the header of the [Customer Obsession Meeting channel](https://community.mattermost.com/private-core/channels/cust-obs-meeting), and open the **Meeting Notes** link in the header to see the agenda.
 4. \(Vice Chair\) Start Zoom recording at 8:00am Palo Alto time.
 5. \(Chair and Co-Chairs\) Run through the agenda, which comprises one or more of the following items:
    * **Introduction**: One of the founders does an introduction to the meeting. Usually to align company on short and long term objectives, to reiterate larger vision for the company, or to emphasize leadership principles.
@@ -97,8 +97,9 @@ After the prep meeting, Vice Chair posts a screenshot of the final agenda into t
 
 ### **After meeting:**
 
-1. \(Vice Chair\) Share meeting recording and link to feedback survey. [See an example here](https://community-release.mattermost.com/private-core/pl/w5sudz9iy3f3ifuias9rj8dpao).
-2. \(Vice Chair\) Collects feedback from survey and adds it to next meeting's draft agenda for Chair and Co-Chairs to review.
+1. \(Vice Chair\) Share meeting recording (viewable only by signed-in users and non-downloadable) and link to feedback survey. [See an example here](https://community.mattermost.com/private-core/pl/nai7nsr61jnbzd67kg37853ybc). **Note**: Include the hashtag `#com-recording` somewhere in the post.
+2. \(Vice Chair\) Post a link to the meeting recording in the header of the [Customer Obsession Meeting channel](https://community.mattermost.com/private-core/channels/cust-obs-meeting) and in the meeting notes.
+3. \(Vice Chair\) Collect feedback from survey and add to next meeting's draft agenda for Chair and Co-Chairs to review.
 
 ## Staff Enablement Survey
 
