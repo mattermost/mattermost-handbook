@@ -193,12 +193,14 @@ All Google Analytics data in Snowflake is at a **daily** level. See [limitations
 
 ## Net Promoter Score \(NPS\)
 
+Net Promoter Score is a standardized measure used by many organizations to measure and understand customer experience. It is a good indicator of customer satisfaction and growth. Mattermost NPS is calculated using user NPS responses provided by users with the NPS plugin enabled on their Mattermost server. Users can submit multiple scores, so in order to accurately represent NPS, the latest score is used when calculating current NPS. To track NPS historically, the latest user score submitted on or before the historical record month is used.
+
 * Net Promoter Score \(NPS\) measures customer experience and predicts business growth
 * Respondents are grouped as follows:
   * Promoters \(score 9-10\) are loyal enthusiasts who will keep buying and refer others
   * Passives \(score 7-8\) are satisfied but unenthusiastic customers who are vulnerable
   * Detractors \(score 0-6\) are unhappy customers who can damage your brand
-* Net Promoter Score = % Promoters - % Detractors
+* Net Promoter Score = 100 * \(% Promoters - % Detractors\)
   * NPS ranges from -100 \(every customer is a Detractor\) to 100 \(every customer is a Promoter\)
 * Mattermost's NPS is based off of a 1-10 ranking provided by customers
   * If customers provide rankings 2+ times in a day, the last ranking of the day is used for NPS
