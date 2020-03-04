@@ -94,7 +94,7 @@ For example, monthly fee, salary, start date, title, etc. People ops will send y
 
 ### BambooHR
 
-> * BambooHR is our Human Resources Information System  
+> * BambooHR is our Human Resources Information System.  
 > * The People Ops team uses BambooHR to store staff information, records and important documents, for HR reporting and analytics, and to create new hire onboarding and offboarding workflows. 
-> * Staff use BambooHR to update their personal and emergency contact information, and to reference the organizational chart and staff directory. 
+> * Staff uses BambooHR to update their personal and emergency contact information, and to reference the organizational chart and staff directory. 
 > * To access the system go to https://mattermost.bamboohr.com/ and use your Mattermost credentials to log in. 
