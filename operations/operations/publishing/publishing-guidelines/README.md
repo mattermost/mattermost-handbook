@@ -1,7 +1,3 @@
----
-description: 1% draft
----
-
 # Publishing Guidelines
 
 This page provides publishing guidelines, including
