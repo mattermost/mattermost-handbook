@@ -45,10 +45,10 @@ The questions are a framework for understanding how a candidate approaches oppor
 
 Candidate meets leadership team in 1-1s to mutually assess potential to work together. May also include key staff and potential new reports. Most meetings are remote, though if a candidate is in the Bay Area in-person meetings are an option. 1-1s include:  
 
-* VP Sales, [Alexis Schmidt](https://www.linkedin.com/in/alexis-schmidt-4819281/), is in Hillsborough, California 
 * VP Eng, [Chris Overton](https://www.linkedin.com/in/chris-overton-62b235/), is in Johnson City, Tennessee
 * CTO, [Corey Hulen](https://www.linkedin.com/in/coreyhulen/), is in the Seattle, Washington area
-* VP Customer Success, [Alison Holmlund](https://www.linkedin.com/in/alisonholmlund/), is in Santa Cruz, California 
+* VP Marketing, [Ken Olofsen](https://www.linkedin.com/in/kolofsen/), is in Oakland, California 
+* VP Sales, [Alexis Schmidt](https://www.linkedin.com/in/alexis-schmidt-4819281/), is in Hillsborough, California 
 * VP Finance, [Aneal Vallurupalli](https://www.linkedin.com/in/aneal-vallurupalli-4b573a38/), is in San Francisco, California 
 * CEO, [Ian Tien](https://www.linkedin.com/in/iantien/), is in Palo Alto, California 
 
