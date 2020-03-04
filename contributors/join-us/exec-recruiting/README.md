@@ -58,7 +58,7 @@ This could include 1-1s, phone calls, Zoom meetings, Mattermost discussions, cof
 
 #### **"Ask Me Anything" with CEO \(85m+\)** 
 
-An opportunity for the candidate to ask the CEO anything. This may happen over a dinner. This is an opportunity for the candidate to drill down into the CEO and the business, discuss any issues or concerns, and have the candidate self-assess whether they feel they would have a 90% or better probability of success in the role and in the culture.  ****
+An opportunity for the candidate to ask the CEO anything. This may happen over a dinner. This is an opportunity for the candidate to drill down into the CEO and the business, discuss any issues or concerns, and have the candidate self-assess whether they feel they would have a 90% or better probability of success in the role and in the culture.  
 
 #### **Memo and Leadership Team Discussion** 
 
