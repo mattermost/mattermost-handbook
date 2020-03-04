@@ -6,11 +6,12 @@ Company agreements should only be signed by CEO, Ian Tien, after the approval of
 
 * If you are on-site and need to sign an NDA to enter a facility you may sign such an agreement 
 * The following agreements may be signed by VP Finance Aneal Vallurupalli 
-  * Non-clickthrough customer agreements up to $5,000 USD 
-  * Procurement contracts for software subscriptions, market events, marketing and advertising agency services up to $5,000 USD 
+  * Non-clickthrough customer agreements up to $50,000 USD 
+  * Procurement contracts for software subscriptions, market events, marketing and advertising agency services up to $50,000 USD 
   * Sponsored open source projects and paid simulations up to $600 USD
   * Unmodified Mattermost-authored Non-Disclosure Agreements 
   * Unmodified Mattermost-authored Partner Agreements 
+  * Investor quarterly reporting requests
 
 ## Who are Contract Accountability Owners \(CAOs\)? 
 
