@@ -1,7 +1,3 @@
----
-description: 1% draft
----
-
 # Confidentiality Guidelines
 
 By default, Mattermost defaults to [open actions](../../../../company/about-mattermost/list-of-terms.md#open-actions) for publicly documenting information in a web-discoverable format.

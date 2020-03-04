@@ -1,7 +1,3 @@
----
-description: 1% draft
----
-
 # Post-Publication Quality Control Process
 
 Quality control process is a work-in-progress, but is based on the principles of iteration and empowering everyone to write an MVP.
