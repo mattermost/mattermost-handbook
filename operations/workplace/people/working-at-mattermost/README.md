@@ -4,13 +4,13 @@ description: A guide for Mattermost staff working anywhere
 
 # Working at Mattermost
 
-### **Work Anywhere**
+### **Work Across the Globe**
 
-We're headquartered in Palo Alto, California, and like many open source companies a large portion of Mattermost, Inc. works from anywhere in the world. 
+We're headquartered in Palo Alto, California, and like many open source companies a large portion of Mattermost, Inc. works across the globe. 
 
 #### **This gives us tremendous advantages:** 
 
-1. Access to top talent. We can hire from anywhere.
+1. Access to top talent across the globe.
 2. More comfort. People have 100% control of their surroundings.
 3. No commute. Removing a 30-60 minute commute saves 250-500 hours a year.
 4. Time zone coverage. We can more easily support global customers.
@@ -24,9 +24,9 @@ Also, we have Meetups around the world to deepen and broaden our relationships a
 
 ### **We run as a distributed, high performance team using a few principles:**
 
-#### **1\) Work anywhere with good Internet**
+#### **1\) Work across the globe with good Internet**
 
-Working from anywhere means more time with loved ones, no commute and controlling everything about your workspace.
+Working on a distributed team means more time with loved ones, no commute and controlling everything about your workspace.
 
 The one requirement is having the ability to occasionally [join video calls using Zoom](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux) between 8am and 1pm California time, which requires a good enough internet connection.
 
