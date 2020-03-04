@@ -6,57 +6,59 @@ description: 50% complete
 
 This section outlines cadence for company-wide operations.
 
-## Customer Obsession Meeting \(aka "COM"\) 
+## Customer Obsession Meeting \(aka "COM"\)
 
-This is a weekly all-staff meeting focused on increasing alignment and awareness of how the company, departments, teams and individuals serve our customers. 
+This is a weekly all-staff meeting focused on increasing alignment and awareness of how the company, departments, teams and individuals serve our customers.
 
-[Customer Obsession](../../company/about-mattermost/#leadership-principles) is a key leadership principle and we emphasize its priority when we bring the company together. Colleagues who come from companies that aren't obsessed with customers have suggested we refer to this meeting as "All Hands" and not expect everything we announce--from [spending company money](../../company/how-to-guides-for-staff/how-to-spend-company-money/) to [recruiting new talent](../../contributors/join-us/staff-recruiting.md)--to be framed in the context of serving customers. Such expectations are typical and common, and therefore we don't have "All Hands" meetings and instead have "Customer Obsession Meetings" to continually remind us that our focus on customers is atypical and uncommon. 
+[Customer Obsession](../../company/about-mattermost/#leadership-principles) is a key leadership principle and we emphasize its priority when we bring the company together. Colleagues who come from companies that aren't obsessed with customers have suggested we refer to this meeting as "All Hands" and not expect everything we announce--from [spending company money](../../company/how-to-guides-for-staff/how-to-spend-company-money/) to [recruiting new talent](../../contributors/join-us/staff-recruiting.md)--to be framed in the context of serving customers. Such expectations are typical and common, and therefore we don't have "All Hands" meetings and instead have "Customer Obsession Meetings" to continually remind us that our focus on customers is atypical and uncommon.
+
+|  |  |
+| :--- | :--- |
+
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Attendees:</td>
-      <td style="text-align:left">
-        <p></p>
+      <th style="text-align:left">Attendees:</th>
+      <th style="text-align:left">
         <ul>
           <li>All Mattermost Staff</li>
           <li>Chair: Jason Blais</li>
           <li>Co-Chairs: Co-founders</li>
           <li>Vice Chair: Amy Nicol</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">Objectives:</td>
-      <td style="text-align:left">
-        <p></p>
+      <th style="text-align:left">Objectives:</th>
+      <th style="text-align:left">
         <ul>
           <li>Reach alignment on near and long term goals</li>
           <li>Reinforce our obsession with making customers safer and more productive</li>
           <li>Bring awareness through key company updates and news</li>
           <li>Celebrate team achievements and patterns of success</li>
         </ul>
-      </td>
+      </th>
     </tr>
+  </thead>
+  <tbody></tbody>
+</table><table>
+  <thead>
     <tr>
-      <td style="text-align:left">Time:</td>
-      <td style="text-align:left">
-        <p></p>
+      <th style="text-align:left">Time:</th>
+      <th style="text-align:left">
         <ul>
           <li>Weekly meeting on Wednesdays from 8:00am to 8:25am Palo Alto time.</li>
         </ul>
-      </td>
+      </th>
     </tr>
-  </tbody>
-</table>Procedure:
-
-### **Before meeting:**
+  </thead>
+  <tbody></tbody>
+</table>### **Before meeting:**
 
 Note: T-minus counts are measured in "working days" \(weekdays, Monday through Friday\) prior to meeting day.
 
@@ -97,7 +99,7 @@ After the prep meeting, Vice Chair posts a screenshot of the final agenda into t
 
 ### **After meeting:**
 
-1. \(Vice Chair\) Share meeting recording (viewable only by signed-in users and non-downloadable) and link to feedback survey. [See an example here](https://community.mattermost.com/private-core/pl/nai7nsr61jnbzd67kg37853ybc). **Note**: Include the hashtag `#com-recording` somewhere in the post.
+1. \(Vice Chair\) Share meeting recording \(viewable only by signed-in users and non-downloadable\) and link to feedback survey. [See an example here](https://community.mattermost.com/private-core/pl/nai7nsr61jnbzd67kg37853ybc). **Note**: Include the hashtag `#com-recording` somewhere in the post.
 2. \(Vice Chair\) Post a link to the meeting recording in the header of the [Customer Obsession Meeting channel](https://community.mattermost.com/private-core/channels/cust-obs-meeting) and in the meeting notes.
 3. \(Vice Chair\) Collect feedback from survey and add to next meeting's draft agenda for Chair and Co-Chairs to review.
 

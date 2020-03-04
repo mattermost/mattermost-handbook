@@ -81,6 +81,7 @@
     * [Metrics Definitions](operations/business-operations/analytics/metrics-definitions.md)
     * [Looker](operations/business-operations/analytics/looker.md)
     * [Reports & Dashboards](operations/business-operations/analytics/reports-and-dashboards.md)
+    * [Targets](operations/business-operations/analytics/targets.md)
   * [Data Engineering](operations/business-operations/data-engineering.md)
   * [Salesforce Administration](operations/business-operations/salesforce-administration.md)
 * [Finance](operations/finance/README.md)

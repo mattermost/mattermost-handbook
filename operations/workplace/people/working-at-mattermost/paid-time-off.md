@@ -23,7 +23,7 @@ Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Pa
 3. If you are staffed in Canada, Germany or UK, we are required to track vacation up to the statutory amount. Any time off after that does not need to be recorded. [HR](mailto:hr@mattermost.com) will share an individual document tracker. 
 4. Enjoy your time off! 
 
-**Note** The intent of the Time Away Calendar is to maintain asynchronous communication. Please use the calendar to note any full days that you may not be available. This may include conferences, meet-ups and team off-sites. 
+**Note** The intent of the Time Away Calendar is to maintain asynchronous communication. Please use the calendar to note any full days that you may not be available. This may include conferences, meet-ups and team off-sites.
 
 ### Where to go to see who's out:
 

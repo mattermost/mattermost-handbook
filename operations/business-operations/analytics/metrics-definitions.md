@@ -144,7 +144,7 @@ _**What the customer bought normalized for one year length & reoccurs for length
 
 ### TCV vs. ACV vs. ARR
 
-Example: 
+Example:
 
 * Opportunity: [Example Opportunity](https://mattermost.lightning.force.com/lightning/r/Opportunity/0063600000eRMmcAAG/view)
 * Close Date: 2019-05-07
@@ -156,7 +156,7 @@ Example:
   * TCV one-time $250 in May 2019 
   * ARR $83 from June 2019 until June 2022
 
-![](../../../.gitbook/assets/image%20%2861%29.png)
+![](https://github.com/mattermost/mattermost-handbook/tree/361ff3b848b21f06fd8587e792144d81efed511e/.gitbook/assets/image%20%2861%29.png)
 
 ## Google Analytics
 
@@ -200,7 +200,7 @@ Net Promoter Score is a standardized measure used by many organizations to measu
   * Promoters \(score 9-10\) are loyal enthusiasts who will keep buying and refer others
   * Passives \(score 7-8\) are satisfied but unenthusiastic customers who are vulnerable
   * Detractors \(score 0-6\) are unhappy customers who can damage your brand
-* Net Promoter Score = 100 * \(% Promoters - % Detractors\)
+* Net Promoter Score = 100 \* \(% Promoters - % Detractors\)
   * NPS ranges from -100 \(every customer is a Detractor\) to 100 \(every customer is a Promoter\)
 * Mattermost's NPS is based off of a 1-10 ranking provided by customers
   * If customers provide rankings 2+ times in a day, the last ranking of the day is used for NPS
@@ -222,7 +222,7 @@ TEDAS stands for _Telemetry-Enabled Daily Active Servers_. It is the count of un
 
 ### Server Considerations
 
-TEDAS only measures the count of active production servers. The Mattermost.server\_daily\_details table is used to calculate TEDAS and only contains production servers. Mattermost.server\_daily\_details is derived from the Events.security table. 
+TEDAS only measures the count of active production servers. The Mattermost.server\_daily\_details table is used to calculate TEDAS and only contains production servers. Mattermost.server\_daily\_details is derived from the Events.security table.
 
 The Events.security table logs all server responses to Mattermost's call to collect telemetry data. The Server type responses include test, development, and production servers. Conditional logic is used to filter out non-production servers from the Events.security table and insert them into the Mattermost.server\_daily\_details table.
 
@@ -256,7 +256,7 @@ There are additional data quality issues within the Events.security table that n
 
 ## TEDAU
 
-**TEDAU** stands for _Telemetry-Enabled Daily Active Users_. It is a metric that takes the rolling 7-day average of the sum of all "Active Users" logged by [telemetry-enabled production servers](metrics-definitions.md#tedas) on a given date. The TEDAU calculation sums the active\_user\_count column in the Mattermost.server\_daily\_details table, and then averages that value over the last 7 days. 
+**TEDAU** stands for _Telemetry-Enabled Daily Active Users_. It is a metric that takes the rolling 7-day average of the sum of all "Active Users" logged by [telemetry-enabled production servers](metrics-definitions.md#tedas) on a given date. The TEDAU calculation sums the active\_user\_count column in the Mattermost.server\_daily\_details table, and then averages that value over the last 7 days.
 
 ### TEDAU Caveats
 
@@ -265,8 +265,6 @@ TEDAU is the rolling 7-day average sum of active users for only verified product
 #### Telemetry-Enabled Active Users vs. TEDAU Metric
 
 The distinction between an individual server's Telemetry-Enabled Active Users and the TEDAU metric is important to note. Telemetry-Enabled Active Users are the collection of users hosted by a telemetry-enabled production server, that have visited the Mattermost site in the last 24 hours. The TEDAU metric is the rolling 7-day average sum of these users across all servers
-
-
 
 ## Trials
 

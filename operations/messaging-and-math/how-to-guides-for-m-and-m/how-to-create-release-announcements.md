@@ -15,31 +15,38 @@ description: 50% Draft
 
 ## **Process**
 
-### A. (T-minus 20 working days) Blog Post Outline
+### A. \(T-minus 20 working days\) Blog Post Outline
+
 * Release Manager prepares bullet points and release headline for release announcement
-* Release Manager reviews the outline (benefits and order of features) with PMs before sending to Justin to work on
-  - Ask PMs to share specs or other details on why the features we are shipping were built, so that it is easier for marketing to identify which 1-2 features are highlighted in the title
+* Release Manager reviews the outline \(benefits and order of features\) with PMs before sending to Justin to work on
+  * Ask PMs to share specs or other details on why the features we are shipping were built, so that it is easier for marketing to identify which 1-2 features are highlighted in the title
 * Release Manager and PMs decide which sections of the release announcement will have an accompanying screenshot/photo
 
-### B. (T-minus 8 working days) First Draft
+### B. \(T-minus 8 working days\) First Draft
+
 * Author finishes blog post draft
 * Release manager checks that the guidelines in the Checklist for Review of Draft are met
-  - Ask: how would you rate the title? How can we make it 1 score better? Use this method for other parts of the blog draft, inlcuding screenshots
+  * Ask: how would you rate the title? How can we make it 1 score better? Use this method for other parts of the blog draft, inlcuding screenshots
 
-### C. (T-minus 7 working days) PM and Marketing Review
+### C. \(T-minus 7 working days\) PM and Marketing Review
+
 * PMs review feature content is technically correct
 * Marketing reviews the blog draft
 
-### D. (T-minus 6 working days) Head of PM Review
+### D. \(T-minus 6 working days\) Head of PM Review
+
 * Head of PM reviews the blog draft
 
-### E. (T-minus 5 working days) CEO Review
-* 24 hours prior to CEO review, Release Manager posts the blog draft in the Marketing channel with a hashtag (e.g. ``#mm520``) to make finding the blog draft easier (and at-mentions meeting attendees)
+### E. \(T-minus 5 working days\) CEO Review
 
-### F. (T-minus 2 working days) Set Up Blog Post in Wordpress
+* 24 hours prior to CEO review, Release Manager posts the blog draft in the Marketing channel with a hashtag \(e.g. `#mm520`\) to make finding the blog draft easier \(and at-mentions meeting attendees\)
+
+### F. \(T-minus 2 working days\) Set Up Blog Post in Wordpress
+
 * Author sets up the blog post in Wordpress and asks Release Manager and Marketing to review
 
-### G. (T-minus 0 working days) Blog Post and Tweets Published
+### G. \(T-minus 0 working days\) Blog Post and Tweets Published
+
 * Release Manager publishes the blog post
 * Author schedules tweets from blog post \(Tuesdays 10am PT, and Thursdays 10am if there's extra\)
 
@@ -56,13 +63,13 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    1. Introduce features with compelling, concise, specific descriptions
    2. If the feature is a filler for a release, be vague and add it at the end of the blog post, e.g. "Performance improvements to mobile" **\(please avoid when possible\)**
    3. Beta features should be at the bottom of the list
-   4. Lead with verbs (e.g. "Find most recent messages faster")
+   4. Lead with verbs \(e.g. "Find most recent messages faster"\)
    5. Start with benefits, then technical details
 3. **Body**
    1. Promote E10 and E20 features by adding `E10` and `E20` labels throughout the blog post for relevant features
    2. No spelling errors or broken links
-   3. Clarify type of release (feature or quality) in the paragraph that follows feature one-liners
-   4. MVP winner and security note (if applicable) are included
+   3. Clarify type of release \(feature or quality\) in the paragraph that follows feature one-liners
+   4. MVP winner and security note \(if applicable\) are included
    5. All features PM team wants to highlight are included
       1. **\(PM team owns\)** Check for technical accuracy and statement of benefits 
    6. \(**Author owns\)** All contributors are recognized with a screenshot 
@@ -89,6 +96,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 [Learn how to create screenshots and GIFs](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-screenshots-and-gifs)
 
 ## Language Guidelines
+
 1. Specify Desktop app or Mobile App if a feature is not dependent on the server release
 2. Use common wording, e.g. say "Servers" instead of "Sites"; say `plugins` not `plug-ins`; say "Browser" instead of "Webapp"
 3. Avoid phrases that are too vague, such as "Better messaging experience"
@@ -103,4 +111,5 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 
 [Example of tweet using banner template](https://twitter.com/iantien/status/1217457762772238336)
 
-![Screenshot for templates for announcements and Twitter banners, including guides](../../../.gitbook/assets/image%20%2862%29.png)
+![Screenshot for templates for announcements and Twitter banners, including guides](https://github.com/mattermost/mattermost-handbook/tree/33fb27c5f66665428f18fa12f47a8e867cc56e09/.gitbook/assets/image%20%2862%29.png)
+
