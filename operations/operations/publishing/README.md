@@ -1,16 +1,12 @@
----
-description: 1% draft
----
-
 # Publishing
 
 This page provides processes and guidelines for publishing in our public web properties.
 
-The goal is to have clear public web properties where it is easy to find solutions to problems or questions you have. Our main audiences include:
+The goal is to have clear public web properties where it is easy to find solutions to problems or questions you have for each of our adiences:
 
-* **Staff** can do their work effectively;
-* **Users** \(including developers, administrators and end users\) and **Buyers** easily adopt and purchase Mattermost;
-* **Contributors** can easily contribute to Mattermost.
+* **Staff** to do their work effectively;
+* **Users** \(including developers, administrators and end users\) and **Buyers** to easily adopt and purchase Mattermost;
+* **Contributors** to easily contribute to Mattermost.
 
 ## Principles
 
