@@ -1,17 +1,17 @@
 # Voice, Tone and Writing Style Guidelines
 
-Below are a start of voice, tone and writing style guidelines for public web properties to be iterated on:
+Below is a start of voice, tone and writing style guidelines for public web properties. This is a work in progress, to be iterated on:
 
 **Voice and Tone**:
 
-* Use simple, plain language that is easy to consume
-* Use direct, casual tone instead of an overly informal tone
+* Use simple, plain language that is easy to understand
+* Use direct, casual tone instead of an informal tone
 * Use the active voice
 
 **Writing Style**:
 
+* Write clearly and concisely - get to the point quickly and concisely without losing valuable information
 * Work on the premise that "Every page is page 1", as a large portion of users enters our documentation from a Google search
-* Get to the point quickly and concisely without losing valuable information
 * Focus on what the target audience wants to accomplish by being practical/outcome-focused
 * Break long sections into smaller, easily digestable subpages
 * Have at most one key point or action per paragraph
