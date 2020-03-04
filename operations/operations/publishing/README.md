@@ -28,7 +28,7 @@ The goal is to have clear public web properties where it is easy to find solutio
 
 ## Directly Responsible Individuals
 
-Below are the directly responsible individuals \(DRIs\) and success measures for each of our audiences:
+Below are the tentative directly responsible individuals \(DRIs\) and success measures for each of our audiences:
 
 | Audience | Owner | Success Measures |
 | :--- | :--- | :--- |
