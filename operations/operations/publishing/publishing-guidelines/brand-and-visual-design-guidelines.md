@@ -1,7 +1,3 @@
----
-description: 50% draft
----
-
 # Brand and Visual Design Guidelines
 
 ## The Mattermost Logo
