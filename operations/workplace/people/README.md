@@ -92,3 +92,9 @@ For example, monthly fee, salary, start date, title, etc. People ops will send y
 | Onboarding | [Onboarding Channel](https://community.mattermost.com/private-core/channels/onboarding)  |
 |  Anything People Ops  - not confidential  | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) |
 
+### BambooHR
+
+> * BambooHR is our Human Resources Information System.  
+> * The People Ops team uses BambooHR to store staff information, records and important documents, for HR reporting and analytics, and to create new hire onboarding and offboarding workflows. 
+> * Staff uses BambooHR to update their personal and emergency contact information, and to reference the organizational chart and staff directory. 
+> * To access the system go to https://mattermost.bamboohr.com/ and use your Mattermost credentials to log in. 
