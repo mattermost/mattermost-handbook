@@ -50,6 +50,46 @@ By default, people's user names and first names trigger mention notifications in
 
 As an alternative to saying `@alice.evans` using `AEE` lets you refer to the person in passing without pushing an alert to them. For staff members that want to be alerted to even passing mentions of their name, they can opt into that model by creating a [keyword notification](https://docs.mattermost.com/help/messaging/mentioning-teammates.html#words-that-trigger-mentions) on their three letter initials. 
 
+## Key Channels for Staff 
+
+The following table lists popular channels for Staff: 
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Purpose</th>
+      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Explanation and Link</th>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+      <td style="text-align:left">ANNOUNCE
+        <br />
+        <br />Asynchronous Announcements</td>
+      <td style="text-align:left">Announcements</td>
+      <td style="text-align:left"><b>Public channel in STAFF team </b>for making staff-wide announcements: https://community.mattermost.com/private-core/channels/announcements</td>
+    </tr>
+<tr>
+      <td style="text-align:left">ANNOUNCE
+        <br />
+        <br />Synchronous Announcements</td>
+      <td style="text-align:left">Customer Obsession Meeting</td>
+      <td style="text-align:left"><b>Public channel in STAFF team </b>for weekly all-staff meeting (see link in header for more info on "COM", past recordings and materials, etc.: https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com</td>
+    </tr>
+<tr>
+      <td style="text-align:left">ANNOUNCE
+        <br />
+        <br />New Staff Announcements</td>
+      <td style="text-align:left">Welcome</td>
+      <td style="text-align:left"><b>Public channel in STAFF team </b>for announcing and welcoming new staff members: https://community.mattermost.com/private-core/channels/welcome</td>
+    </tr>
+  </tbody>
+</table> 
+
+
+
+
 ## Channel Naming Conventions 
 
 Any Mattermost staff member can create, rename and archive channels on the pre-release server. When channels don't contain sensitive information they should default to **Public channel in CONTRIBUTORS team** and welcome participation by contributors.   
@@ -69,7 +109,7 @@ The following conventions are in place for channels with common purposes:
     </tr>
   </thead>
   <tbody>
-    <tr>
+<tr>
       <td style="text-align:left">BUILD
         <br />
         <br />Translation Discussion</td>
