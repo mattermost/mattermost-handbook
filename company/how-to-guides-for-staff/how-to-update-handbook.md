@@ -16,7 +16,7 @@ If this is your first time contributing to Mattermost, first read the [Mattermos
 - To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
 3. Make your edits. When you're ready to submit your changes, scroll to the bottom of the page to commit your changes and start a pull request.
 
-* Add a descriptive title and comments to summarize the changes made, then select **Create a new branch for this commit and start a pull request**.
+* Add a descriptive title if the default title isn't sufficient. Add an extended description to summarize the changes you've made. 
 * Click the **Propose file change** button.
 
 ![](../../.gitbook/assets/how-to-update-handbook-commit-changes.png)
