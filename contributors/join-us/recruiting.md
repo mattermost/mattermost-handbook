@@ -8,15 +8,15 @@ We support hiring in the following U.S. states:
 
 ## Hiring in new U.S. States
 
-Each time we hire in a new U.S. State we may be subject to new regulations, taxes and reporting obligations and we need time to prepare for compliant operations in new states ahead of doing business in state, which begins when we employ a new hire.
+Each time we hire in a new U.S. state we may be subject to new regulations, taxes, and reporting obligations and we need time to prepare for compliant operations in new states ahead of doing business in state, which begins when we employ a new hire.
 
-For U.S. states not on the above list, the recruiting team should provide at least 3 weeks notice ahead of a potential offer signing date that a new state would be added.
+For U.S. states not on the above list, the recruiting team should provide at least 3 weeks' notice ahead of a potential offer signing date that a new state would be added.
 
-To add a new U.S. State please DM @tim.quock to provide finance advanced notice and if a lead time of more than 3 weeks may be needed.
+To add a new U.S. state please DM @tim.quock to provide the Finance team with advance notice and confirm if a lead time of more than 3 weeks may be needed.
 
 ## We are not yet able to hire in the following regions/countries
 
-We're continuing to find ways to hire in more regions/countries, here's ones that are more difficult than others:
+We're continuing to find ways to hire in more regions/countries. These regions/countries are more difficult than others:
 
 Brazil, Iran, Russian Federation, China, Syria, Lebanon, North Korea
 
@@ -40,5 +40,4 @@ Each AA interviewer should have at least 3 reserved slots per week available for
 1. Hire/No Hire feedback from everyone on the interview loop
 2. Attachments of any work product produced during the interview loop
 3. Any open questions from interviewers that has not been covered 
-4. Notes on any backchannel references completed. For any confidential feedback please use SECRET NOTE with mention to the AA and leave our the name of the source.
-
+4. Notes on any backchannel references completed. For any confidential feedback please use SECRET NOTE with mention to the AA and leave out the name of the source
