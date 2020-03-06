@@ -73,7 +73,8 @@ Below is a list of approved reviewers.
 3. @rbradleyhaas, @michaelschiffmm: Signs off on changes to [business operations](https://handbook.mattermost.com/operations/business-operations).
 3. TBD: Signs off on changes to [messaging and math](https://handbook.mattermost.com/operations/messaging-and-math).
 4. TBD: Signs off on changes to [finance](https://handbook.mattermost.com/operations/finance).
-5. @natalie-hub, @HilaryClarke: Signs off on changes to [workplace](https://handbook.mattermost.com/operations/workplace)
+5. @natalie-hub, @HilaryClarke: Signs off on changes to [workplace](https://handbook.mattermost.com/operations/workplace).
+6. @it33: Signs off on changes to signing authority ([example](https://github.com/mattermost/mattermost-handbook/pull/60)).
 
 Each PR should be reviewed by at least one approved reviewer. A build check requiring at least one approved review prior to a merge is planned, similar to other Mattermost repositories.
 
