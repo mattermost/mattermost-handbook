@@ -12,7 +12,8 @@ If this is your first time contributing to Mattermost, first read the [Mattermos
 ### Editing an Existing Page
 
 1. The quickest way to begin is navigating to the page you want to edit in [Mattermost Handbook](https://handbook.mattermost.com/), then clicking the **Edit on GitHub** icon in the top right navigation. This opens the page in GitHub that you can edit.
-2. Then, click the **Edit** pencil icon in the top right corner. This opens a Markdown formatted document of the page. To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
+2. In GitHub click the pencil icon in the navigation bar (above the page header) called **Edit the file in your fork of this project** to open the editable Markdown format page. 
+- To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
 3. Make your edits. When you're ready to submit your changes, scroll to the bottom of the page to commit your changes.
 
 * Add a descriptive title and comments to summarize the changes made, then select **Create a new branch for this commit and start a pull request**.
