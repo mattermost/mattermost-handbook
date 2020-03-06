@@ -21,6 +21,7 @@ description: 50% Draft
 * Release Manager reviews the outline \(benefits and order of features\) with PMs before sending to Justin to work on
   * Ask PMs to share specs or other details on why the features we are shipping were built, so that it is easier for marketing to identify which 1-2 features are highlighted in the title
 * Release Manager and PMs decide which sections of the release announcement will have an accompanying screenshot/photo
+* Release Manager decides the theme / main highlight for the blog post. Consult with marketing and PM leads for final approval
 
 ### B. \(T-minus 8 working days\) First Draft
 
