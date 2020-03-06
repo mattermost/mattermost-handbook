@@ -27,7 +27,7 @@ If this is your first time contributing to Mattermost, first read the [Mattermos
 
 ![](../../.gitbook/assets/how-to-update-handbook-create-new-pull-request.png)
 
-Once a pull request has been submitted and the correct labels assigned, the review process begins. This includes aligning the content with the Style Guide, validating processes, and tagging any other relevant committers.
+Once a pull request has been submitted, a core committer with write-access assigns relevant reviewers and labels to kick off the review process.  The review process includes aligning the content with the Style Guide, validating the changes, and tagging any other relevant committers.
 
 Multiple committers may comment on your pull request and provide edits or suggestions which you can commit directly. You can also add line comments. Take a look at [Commenting on pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request) for more details.
 
