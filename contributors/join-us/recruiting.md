@@ -41,3 +41,4 @@ Each AA interviewer should have at least 3 reserved slots per week available for
 2. Attachments of any work product produced during the interview loop
 3. Any open questions from interviewers that has not been covered 
 4. Notes on any backchannel references completed. For any confidential feedback please use SECRET NOTE with mention to the AA and leave out the name of the source
+

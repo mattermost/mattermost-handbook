@@ -40,10 +40,10 @@ Reach out to us in [BizOps](https://community.mattermost.com/private-core/channe
 5. Scroll down
 6. Select "Create a new branch for this commit and start a pull request."
 7. Name your branch "update\_\[name of file you updated\]"
-   * If you updated _curr\_fy\_arr\_by\_mo.csv_, name it "_update\_curr\_fy\_arr\_by\_mo"_
+   * If you updated _arr\_by\_mo.csv_, name it "_update\_arr\_by\_mo"_
 8. Click "Propose file change"
 9. Name PR "Updating \[name of file you updated\]
-   * If you updated _curr\_fy\_arr\_by\_mo.csv_, name the PR "_Updating curr\_fy\_arr\_by\_mo"_
+   * If you updated _arr\_by\_mo.csv_, name the PR "_Updating arr\_by\_mo"_
 10. You do not need to fill out anything in the "Write" section
 11. Click "Create pull request"
 12. Notify us in [BizOps](https://community.mattermost.com/private-core/channels/bizops) that you have submitted a PR

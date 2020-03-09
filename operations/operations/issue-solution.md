@@ -1,4 +1,4 @@
-# Issue/Solution Proposal
+# Issue/Solution
 
 Issue/Solution Proposal is a tool for increasing clarity, speed and output in teams. This page describes the template and process to be used.
 
