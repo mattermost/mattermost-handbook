@@ -10,13 +10,13 @@ We support hiring in the following U.S. states:
 
 Each time we hire in a new U.S. state we may be subject to new regulations, taxes, and reporting obligations and we need time to prepare for compliant operations in new states ahead of doing business in state, which begins when we employ a new hire.
 
-For U.S. states not on the above list, the recruiting team should provide at least 3 weeks' notice ahead of a potential offer signing date that a new state would be added.
+For U.S. states not on the above list the recruiting team should provide at least 3 weeks' notice ahead of a potential offer signing date, indicating that a new state would be added.
 
-To add a new U.S. state please DM @tim.quock to provide the Finance team with advance notice and confirm if a lead time of more than 3 weeks may be needed.
+To add a new U.S. state please DM @tim.quock to provide the Finance team with advance notice, and indicate if a lead time of more than 3 weeks may be needed.
 
 ## We are not yet able to hire in the following regions/countries
 
-We're continuing to find ways to hire in more regions/countries. These regions/countries are more difficult than others:
+We're continuing to find ways to hire in more regions/countries, here are some that are more difficult than others:
 
 Brazil, Iran, Russian Federation, China, Syria, Lebanon, North Korea
 
@@ -24,7 +24,7 @@ Brazil, Iran, Russian Federation, China, Syria, Lebanon, North Korea
 
 To ensure the quality bar and culture of Mattermost is strong and rising, an "As Appropriate" interview is required with a senior, tenured Mattermost staff member for any FTE candidate before an offer can be extended.
 
-Typically the AA is the last person on the interview loop and scheduled in advance and cancelled if the candidate doesn't get through the loop--i.e. an AA interview should not slow down the interview process.
+Typically the AA is the last person on the interview loop and scheduled in advance and cancelled if the candidate doesn't get through the loop-- i.e. an AA interview should not slow down the interview process.
 
 The following list of people are approved as As Appropriate interviewers \(aka "AA"s\):
 
