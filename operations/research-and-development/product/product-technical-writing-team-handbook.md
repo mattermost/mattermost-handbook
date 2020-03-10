@@ -92,12 +92,18 @@ Mattermost documentation covers a number of different topics. For documentation,
 
 **Dev Review**
 
-* Admin Guide - Enterprise: Scott Bishel \(@sbishel\)
-* Admin Guide - Non-enterprise: Joram Wilander \(@jwilander\)
-* End User Guide - Mobile and desktop app: Elias Nahum \(@enahum\)
-* End User Guide - Other: Dean Whillier \(@deanwhillier\)
+It's not always clear which developer should be added as a reviewer for a pull request. In some cases you may be prompted to add a reviewer based on them having recently viewed or edited the file you're submitting in the PR. If not, one of the team leads listed below can be added as a reviewer for documentation relevant to their area of expertise: 
+
+* Enterprise: Scott Bishel \(@sbishel\)
+* Server/infra: George Goldberg \(@grundleborg\)
+* Cloud: Joram Wilander \(@jwilander\)
+* Mobile and desktop app: Elias Nahum \(@enahum\)
+* Webapp and desktop: Dean Whillier \(@deanwhillier\)
 * Integrations: Lev Brouk \(@levb\)
+* Security: Daniel Schalla \(@dschalla\)
+* DevOps: Jesse Hallam \(@lieut-data\)
 * Handbook and Process: Jason Blais \(@jasonblais\)
+
 
 #### Requesting Documentation via Doc Up
 
