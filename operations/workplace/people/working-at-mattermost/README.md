@@ -1,5 +1,5 @@
 ---
-description: A guide for Mattermost staff working anywhere
+description: A guide for Mattermost's distributed staff 
 ---
 
 # Working at Mattermost
