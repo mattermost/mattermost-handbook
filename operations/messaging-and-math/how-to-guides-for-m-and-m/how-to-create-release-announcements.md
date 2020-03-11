@@ -84,7 +84,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
          1. **High** - Beautiful, highly compelling, grabs attention in a social stream 
          2. **Medium** - Tells a story clearly, readable text, right size 
          3. **Low** - Bare minimum to call an image 
-   3. **\(Author owns\)** Draft Tweet text for all screenshots included
+   3. **\(Author owns\)** Draft Tweet text for all screenshots included as well as for MVP winner
       1. Contains version hashtag, e.g. \#mm520
 
 ## **Style Guidelines**
