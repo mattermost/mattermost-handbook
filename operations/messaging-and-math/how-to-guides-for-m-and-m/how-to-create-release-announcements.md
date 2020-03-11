@@ -84,7 +84,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
          1. **High** - Beautiful, highly compelling, grabs attention in a social stream 
          2. **Medium** - Tells a story clearly, readable text, right size 
          3. **Low** - Bare minimum to call an image 
-   3. **\(Author owns\)** Draft Tweet text for all screenshots included as well as for MVP winner
+   3. **\(Author owns\)** Draft Tweet text for all screenshots and MVP winner included
       1. Contains version hashtag, e.g. \#mm520
 
 ## **Style Guidelines**
@@ -113,4 +113,3 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 [Example of tweet using banner template](https://twitter.com/iantien/status/1217457762772238336)
 
 ![Screenshot for templates for announcements and Twitter banners, including guides](https://github.com/mattermost/mattermost-handbook/tree/33fb27c5f66665428f18fa12f47a8e867cc56e09/.gitbook/assets/image%20%2862%29.png)
-
