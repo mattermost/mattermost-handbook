@@ -12,19 +12,19 @@ The goal is to have clear public web properties where it is easy to find solutio
 
 **Trust**
 
-* consistent experience across public sites, including brand and voice
-* no inaccurate information
-* no "dead ends" where the user does not have a pathway to continue
-* no confidential information
+* Consistent experience across public sites, including brand and voice
+* No inaccurate information
+* No "dead ends" where the user does not have a pathway to continue
+* No confidential information
 
 **Growth**
 
-* effective self-service where anyone can find  solutions to problems or questions starting from a Google search
-* scalable processes and guidelines that empower everyone to contribute
+* Effective self-service where anyone can find solutions to problems or questions starting from a Google search
+* Scalable processes and guidelines that empower everyone to contribute
 
 **Iteration**
 
-* iteration over completeness, with constant openness to feedback
+* Iteration over completeness, with constant openness to feedback
 
 ## Directly Responsible Individuals
 
@@ -39,7 +39,6 @@ Below are the tentative directly responsible individuals \(DRIs\) and success me
 
 Please read the following articles to learn more:
 
-* [public web properties](https://handbook.mattermost.com/operations/operations/publishing/web-properties)
-* [publishing guidelines](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines)
-* [post-publication quality control process](https://handbook.mattermost.com/operations/operations/publishing/quality-control-process)
-
+* [Public web properties](https://handbook.mattermost.com/operations/operations/publishing/web-properties)
+* [Publishing guidelines](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines)
+* [Post-publication quality control process](https://handbook.mattermost.com/operations/operations/publishing/quality-control-process)
