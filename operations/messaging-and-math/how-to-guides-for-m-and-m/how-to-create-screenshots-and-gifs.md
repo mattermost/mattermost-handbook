@@ -26,6 +26,8 @@ When choosing what to highlight in the screenshot, follow this order:
   * Size your Mattermost Desktop App or browser to capture a screenshot approximately 900px by 640px, excluding browser navigation.
   * Use default 100% Zoom.
   * Tip: Close the right-hand sidebar, and close the team sidebar by leaving all but one team.
+* **Font Size:**
+  * Check that the font size is not too small.
 * **Visuals:**
   * Profile pictures and real people’s names should be filled out throughout the screenshot.
   * For the profile picture, use either normal-looking Avatars or stock photography from [istockphoto.com](https://www.istockphoto.com/).
