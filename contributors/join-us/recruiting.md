@@ -22,7 +22,7 @@ We currently have staff in the following U.S. states:
 
 * AZ CA CO FL GA IN KS MA MD MI MO NJ NV NY OK SC TN UT VA WA WI
 
-Preparing to hire an employee in a new state takes time, and we may be subject to new regulations, taxes, and reporting obligations. If a candidate is progressing in the interview process and would be living and working from a U.S. state not listed above, the Recruiter will DM @tim.quock with the state and the title of the position the candidate may fill at least 3 weeks prior to an anticipated offer. 
+Preparing to hire an employee in a new state takes time, and we may be subject to new regulations, taxes, and reporting obligations. If a candidate is progressing in the interview process and would be living and working from a U.S. state not listed above, the Recruiter will DM @tim.quock with the state and the title of the position the candidate may fill at least three weeks prior to an anticipated offer. 
 
 ### Relocating
 
