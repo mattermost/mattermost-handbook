@@ -11,7 +11,6 @@ Company agreements should only be signed by CEO, Ian Tien, after the approval of
   * Sponsored open source projects and paid simulations up to $600 USD
   * Unmodified Mattermost-authored Non-Disclosure Agreements 
   * Unmodified Mattermost-authored Partner Agreements 
-  * Investor quarterly reporting requests
 
 ## Who are Contract Accountability Owners \(CAOs\)? 
 
