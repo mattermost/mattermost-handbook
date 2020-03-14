@@ -92,12 +92,18 @@ Mattermost documentation covers a number of different topics. For documentation,
 
 **Dev Review**
 
-* Admin Guide - Enterprise: Scott Bishel \(@sbishel\)
-* Admin Guide - Non-enterprise: Joram Wilander \(@jwilander\)
-* End User Guide - Mobile and desktop app: Elias Nahum \(@enahum\)
-* End User Guide - Other: Dean Whillier \(@deanwhillier\)
+If your change requires dev review add the developer/s you've been working with as the reviewer/s. If you're unsure who to add as a dev reviewer you can select one of the team leads below: 
+
+* Enterprise: Scott Bishel \(@sbishel\)
+* Server/infra: George Goldberg \(@grundleborg\)
+* Cloud: Joram Wilander \(@jwilander\)
+* Mobile and desktop app: Elias Nahum \(@enahum\)
+* Webapp and desktop: Dean Whillier \(@deanwhillier\)
 * Integrations: Lev Brouk \(@levb\)
+* Security: Daniel Schalla \(@dschalla\)
+* DevOps: Jesse Hallam \(@lieut-data\)
 * Handbook and Process: Jason Blais \(@jasonblais\)
+
 
 #### Requesting Documentation via Doc Up
 
@@ -187,4 +193,3 @@ If you have any questions, you can post them in the [Documentation](https://comm
 Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated \(or created\) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation. The documentation can be as detailed or concise as deemed necessary - consider it an MVP which can be refined at a later stage.
 
 When submitting your PR, please include the **Editor Review** label and add @amyblais or @justinegeffen in GitHub as an approver.
-
