@@ -14,7 +14,7 @@ Hiring plans are created twice a year, and reviewed every quarter. Hiring Manage
 
 We are constantly working towards adding more countries/regions to this list, but it takes a lot of time and resources. This list will be updated as we are able to hire in additional countries/regions. 
 
-Due to local laws, there may be restrictions to which types of roles we can hire in each country/region.
+Due to local laws, there may be restrictions on which types of roles we can hire in each country/region.
 
 ### Hiring in the United States
 
