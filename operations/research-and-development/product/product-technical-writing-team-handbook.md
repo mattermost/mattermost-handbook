@@ -92,7 +92,7 @@ Mattermost documentation covers a number of different topics. For documentation,
 
 **Dev Review**
 
-It's not always clear which developer should be added as a reviewer for a pull request. In some cases you may be prompted to add a reviewer based on them having recently viewed or edited the file you're submitting in the PR. If not, one of the team leads listed below can be added as a reviewer for documentation relevant to their area of expertise: 
+If your change requires dev review add the developer/s you've been working with as the reviewer/s. If you're unsure who to add as a dev reviewer you can select one of the team leads below: 
 
 * Enterprise: Scott Bishel \(@sbishel\)
 * Server/infra: George Goldberg \(@grundleborg\)
@@ -193,4 +193,3 @@ If you have any questions, you can post them in the [Documentation](https://comm
 Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated \(or created\) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation. The documentation can be as detailed or concise as deemed necessary - consider it an MVP which can be refined at a later stage.
 
 When submitting your PR, please include the **Editor Review** label and add @amyblais or @justinegeffen in GitHub as an approver.
-
