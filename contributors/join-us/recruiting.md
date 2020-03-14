@@ -26,7 +26,7 @@ Preparing to hire an employee in a new state takes time, and we may be subject t
 
 ### Relocating
 
-Staff agreements are conditioned upon the region of residence noted in a staff member's contract. Location change requests should be discussed with HR and your MLT member. Staff must receive written approval from the Company prior to a region relocation.
+Staff agreements are conditioned upon the country/region of residence noted in a staff member's contract. Location change requests should be discussed with HR and your MLT member. Staff must receive written approval from the Company prior to a country/region relocation.
 
 ## Lever
 
