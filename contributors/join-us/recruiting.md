@@ -53,7 +53,7 @@ Each AA interviewer should have at least 3 reserved slots per week available for
 
 24 hours before an [AA interview](recruiting.md#as-appropriate-interviews-aa-s), the candidate's Lever profile should include:
 
-1. Hire/No Hire feedback from everyone on the interview loop
+1. Hire/No Hire feedback from everyone on the interview loop.
 2. Attachments of any work artifacts produced during the interview loop.
 3. Any open questions from interviewers that have not been covered.
 4. Notes on any backchannel references completed. For any confidential feedback please use SECRET NOTE with mention to the AA and leave out the name of the source.
