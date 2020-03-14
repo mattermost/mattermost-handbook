@@ -30,7 +30,7 @@ Staff agreements are conditioned upon the region of residence noted in a staff m
 
 ## Lever
 
-Lever is our Applicant Tracking System (ATS). It is where our Recruiters, Recruiting Coordinators, and Hiring Managers organize our open roles, track a candidate’s progress throughout the recruiting process, collect feedback, and record data. It is important that all candidates, interviews, and feedback are recorded accurately in Lever because all of our data and insights are pulled from Lever. Without accurate data in Lever, we aren’t able to iterate on the process to deliver a better hiring experience for candidates, hiring managers, and the business overall. 
+Lever is our Applicant Tracking System (ATS). It is where our Recruiters, Recruiting Coordinators, and Hiring Managers organize open roles, track a candidate’s progress throughout the recruiting process, collect feedback, and record data. It is important that all candidates, interviews, and feedback are recorded accurately in Lever because all of our data and insights are pulled from Lever. Without accurate data in Lever, we aren’t able to iterate on the process to deliver a better hiring experience for candidates, hiring managers, and the business overall. 
 
 All conversations about candidate feedback, referrals, or compensation are considered confidential and need to be discussed in Lever, and not in Mattermost. 
 
