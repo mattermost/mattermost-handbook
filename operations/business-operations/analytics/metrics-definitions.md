@@ -272,7 +272,7 @@ The distinction between an individual server's Telemetry-Enabled Active Users an
 
 ### MAU Engagement Lifecycle Segments
 
-Monthly active users are classified into **engagement lifecycle segments**. There are 5 engagement lifecycle segments: Persisted, First-Time Active, Reengaged, Newly Disengaged, and Disengaged. Each segment is derived from a user's event timeline. Each Engagement Lifecycle Segment is defined as follows:
+Monthly active users are categorized into **engagement lifecycle segments**. There are 5 engagement lifecycle segments: Persisted, First-Time Active, Reengaged, Newly Disengaged, and Disengaged. Each segment is derived from the timeline from when a user performs an event. Each Engagement Lifecycle Segment is defined as follows:
 
 * **First-Time Active**: The first time a user performs an event on the Mattermost platform and is classified as a Monthly Active User.
 * **Reengaged**: A user performs an event for the first time after >= 31 days of inactivity on the Mattermost platform.
@@ -284,7 +284,7 @@ Monthly active users are classified into **engagement lifecycle segments**. Ther
 
 #### MAU Events
 
-Currently, only a subset of possible events, dubbed "whitelist" events, count towards MAU.
+Currently only a subset of possible events, dubbed "whitelist" events, count towards MAU. The reason only a subset of events are captured is a result of exceeding Segment's (third-party event logging service) row limit. In the future, event logging will transition to rudder (another third-party event logging service), and the list of events that count towards MAU will become more expansive.
 
 ## Trials
 
