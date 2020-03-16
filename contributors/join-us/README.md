@@ -6,7 +6,7 @@ description: This section is 30% complete
 
 ## Join Us
 
-Thank you for your interest in joining the Mattermost community. Note: This section is being migrated from: https://docs.mattermost.com/guides/core.html\#joining-the-team.
+Thank you for your interest in joining the Mattermost community. Note: This section is being migrated from: [https://docs.mattermost.com/guides/core.html\#joining-the-team](https://docs.mattermost.com/guides/core.html#joining-the-team).
 
 ### Ways to Join
 
@@ -41,7 +41,7 @@ Help deliver professional services and commercial software for large, enterprise
 
 ### Learning about Mattermost
 
-Note: This section is work-in-progress, being migrated from: https://docs.mattermost.com/guides/core.html\#joining-the-team.
+Note: This section is work-in-progress, being migrated from: [https://docs.mattermost.com/guides/core.html\#joining-the-team](https://docs.mattermost.com/guides/core.html#joining-the-team).
 
 #### Exploring Mattermost as a Workplace
 
@@ -71,7 +71,7 @@ We don’t currently offer internships. If you’re interested in expanding your
 
 #### I’m interested in a staff position, how do I get noticed?
 
-If you haven’t yet experienced the product, you should do that as a first step by joining [our testing server](https://community.mattermost.com). 
+If you haven’t yet experienced the product, you should do that as a first step by joining [our testing server](https://community.mattermost.com).
 
 When you apply there’s a question about your experience with Mattermost and at a minimum you should have spent some time using the product and have some opinions on what you like and we might improve.
 
@@ -82,3 +82,4 @@ If you are technical, we hire about 70% of our R&D staff from our open source co
 Thank you for thinking of us. In general, we don’t work with agency or contingent recruiters unless they are referred from people we know who can vouch for success in working with you.
 
 Unless you fit this criteria, we would ask you remove us from your mailing list.
+

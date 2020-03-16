@@ -12,22 +12,20 @@ If this is your first time contributing to Mattermost, first read the [Mattermos
 ### Editing an Existing Page
 
 1. The quickest way to begin is navigating to the page you want to edit in [Mattermost Handbook](https://handbook.mattermost.com/), then clicking the **Edit on GitHub** icon in the top right navigation. This opens the page in GitHub that you can edit.
-2. In GitHub click the pencil icon in the navigation bar (above the page header) called **Edit the file in your fork of this project** to open the editable Markdown format page. 
-- To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
-3. Make your edits. When you're ready to submit your changes, scroll to the bottom of the page to commit your changes and start a pull request.
-
-* Add a descriptive title if the default title isn't sufficient. Add an extended description to summarize the changes you've made. 
-* Click the **Propose file change** button.
+2. In GitHub click the pencil icon in the navigation bar \(above the page header\) called **Edit the file in your fork of this project** to open the editable Markdown format page. 
+3. To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
+4. Make your edits. When you're ready to submit your changes, scroll to the bottom of the page to commit your changes and start a pull request.
+5. Add a descriptive title if the default title isn't sufficient. Add an extended description to summarize the changes you've made.
+6. Click the **Propose file change** button.
 
 ![](../../.gitbook/assets/how-to-update-handbook-commit-changes.png)
 
-4. On the next page, scroll down to compare changes with the original document and then select **Create pull request**. 
-
-5. Confirm that the title and description are correct. Then select **Create pull request**.  
+1. On the next page, scroll down to compare changes with the original document and then select **Create pull request**.
+2. Confirm that the title and description are correct. Then select **Create pull request**.
 
 ![](../../.gitbook/assets/how-to-update-handbook-create-new-pull-request.png)
 
-Once a pull request has been submitted, a core committer with write-access assigns relevant reviewers and labels to kick off the review process.  The review process includes aligning the content with the Style Guide, validating the changes, and tagging any other relevant committers.
+Once a pull request has been submitted, a core committer with write-access assigns relevant reviewers and labels to kick off the review process. The review process includes aligning the content with the Style Guide, validating the changes, and tagging any other relevant committers.
 
 Multiple committers may comment on your pull request and provide edits or suggestions which you can commit directly. You can also add line comments. Take a look at [Commenting on pull requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request) for more details.
 
@@ -74,10 +72,10 @@ Below is a list of approved reviewers.
 1. @jasonblais: Reviews major changes to handbook.mattermost.com, such as updates to the table of contents.
 2. @justinegeffen, @amyblais: Editor reviews of all submitted PRs for correct grammar and consistent style.
 3. @rbradleyhaas, @michaelschiffmm: Signs off on changes to [business operations](https://handbook.mattermost.com/operations/business-operations).
-3. TBD: Signs off on changes to [messaging and math](https://handbook.mattermost.com/operations/messaging-and-math).
-4. TBD: Signs off on changes to [finance](https://handbook.mattermost.com/operations/finance).
-5. @natalie-hub, @HilaryClarke: Signs off on changes to [workplace](https://handbook.mattermost.com/operations/workplace).
-6. @it33: Signs off on changes to signing authority ([example](https://github.com/mattermost/mattermost-handbook/pull/60)).
+4. TBD: Signs off on changes to [messaging and math](https://handbook.mattermost.com/operations/messaging-and-math).
+5. TBD: Signs off on changes to [finance](https://handbook.mattermost.com/operations/finance).
+6. @natalie-hub, @HilaryClarke: Signs off on changes to [workplace](https://handbook.mattermost.com/operations/workplace).
+7. @it33: Signs off on changes to signing authority \([example](https://github.com/mattermost/mattermost-handbook/pull/60)\).
 
 Each PR should be reviewed by at least one approved reviewer. A build check requiring at least one approved review prior to a merge is planned, similar to other Mattermost repositories.
 
@@ -85,5 +83,6 @@ Below is a list of permissions handbook contributors have access to:
 
 1. @jasonblais, @justinegeffen, @amyblais: Write permissions to the repository.
 2. @rbradleyhaas, @michaelschiffmm: Write permissions to the repository, but are not expected to make changes without reviews outside of [business operations](https://handbook.mattermost.com/operations/business-operations), nor make changes to table of contents without reviews. 
-4. Staff contributors: Submits changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, submit PR reviews, and be requested as reviewers.
-5. Non-staff contributors: Submits changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, and submit PR reviews.
+3. Staff contributors: Submits changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, submit PR reviews, and be requested as reviewers.
+4. Non-staff contributors: Submits changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, and submit PR reviews.
+

@@ -37,9 +37,7 @@ The following templates can be used for Issue/Solution preparation by copying th
 
 Note: Special thanks to [Matt Mochary](https://www.linkedin.com/in/matt-mochary-34bb4/) for the framework on which this system is based.
 
+## Log
 
-## Log 
-
-- [ISP for Version 2 of Issue/Solution Proposal](https://docs.google.com/document/d/1Y4nvp1wxVlVUJL8QF7yFF5IBwsuhbqycCgK6MLTrxiQ/edit)  
-
+* [ISP for Version 2 of Issue/Solution Proposal](https://docs.google.com/document/d/1Y4nvp1wxVlVUJL8QF7yFF5IBwsuhbqycCgK6MLTrxiQ/edit)  
 

@@ -42,3 +42,4 @@ Please read the following articles to learn more:
 * [Public web properties](https://handbook.mattermost.com/operations/operations/publishing/web-properties)
 * [Publishing guidelines](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines)
 * [Post-publication quality control process](https://handbook.mattermost.com/operations/operations/publishing/quality-control-process)
+

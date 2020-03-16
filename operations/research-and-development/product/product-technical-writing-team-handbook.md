@@ -92,7 +92,7 @@ Mattermost documentation covers a number of different topics. For documentation,
 
 **Dev Review**
 
-If your change requires dev review add the developer/s you've been working with as the reviewer/s. If you're unsure who to add as a dev reviewer you can select one of the team leads below: 
+If your change requires dev review add the developer/s you've been working with as the reviewer/s. If you're unsure who to add as a dev reviewer you can select one of the team leads below:
 
 * Enterprise: Scott Bishel \(@sbishel\)
 * Server/infra: George Goldberg \(@grundleborg\)
@@ -104,12 +104,11 @@ If your change requires dev review add the developer/s you've been working with 
 * DevOps: Jesse Hallam \(@lieut-data\)
 * Handbook and Process: Jason Blais \(@jasonblais\)
 
-
 #### Requesting Documentation via Doc Up
 
 Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the Doc Up plugin embedded in the post menu.
 
-![Access the Doc Up plugin by hovering over a message and clicking the &quot;...&quot; menu.](../../../.gitbook/assets/image%20%2831%29.png)
+![Access the Doc Up plugin by hovering over a message and clicking the &quot;...&quot; menu.](../../../.gitbook/assets/image%20%2852%29.png)
 
 When you select Doc Up and choose **Admin** as the issue type, an issue is generated in the GitHub docs repo, and added to the issues list. An update is listed in the Documentation channel, with the issue link.
 
@@ -193,3 +192,4 @@ If you have any questions, you can post them in the [Documentation](https://comm
 Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated \(or created\) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation. The documentation can be as detailed or concise as deemed necessary - consider it an MVP which can be refined at a later stage.
 
 When submitting your PR, please include the **Editor Review** label and add @amyblais or @justinegeffen in GitHub as an approver.
+
