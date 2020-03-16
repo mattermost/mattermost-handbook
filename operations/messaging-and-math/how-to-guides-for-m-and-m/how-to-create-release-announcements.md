@@ -60,7 +60,6 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    2. Communicate primary benefit
    3. Lead with the most exciting/impactful new feature
    4. Highlight at most 2 features
-   5. The audience should be focused on admins
 2. **Compelling, specific one-liners below hero image**
    1. Introduce features with compelling, concise, specific descriptions
    2. If the feature is a filler for a release, be vague and add it at the end of the blog post, e.g. "Performance improvements to mobile" **\(please avoid when possible\)**
@@ -73,8 +72,9 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    3. Clarify type of release \(feature or quality\) in the paragraph that follows feature one-liners
    4. MVP winner and security note \(if applicable\) are included
    5. All features PM team wants to highlight are included
-      1. **\(PM team owns\)** Check for technical accuracy and statement of benefits 
-   6. \(**Author owns\)** All contributors are recognized with a screenshot 
+      1. **\(PM team owns\)** Check for technical accuracy and statement of benefits
+   6. The audience is primarily focused on admins, then end users
+   7. \(**Author owns\)** All contributors are recognized with a screenshot 
       1. Names should not be red-underlined \(if they are, add them to the dictionary prior to taking a screenshot\)
       2. Screenshot not surrounded by a border
       3. Below the screenshot, include a text version of their names in small font with a link to their GitHub handle
