@@ -264,7 +264,27 @@ TEDAU is the rolling 7-day average sum of active users for only verified product
 
 #### Telemetry-Enabled Active Users vs. TEDAU Metric
 
-The distinction between an individual server's Telemetry-Enabled Active Users and the TEDAU metric is important to note. Telemetry-Enabled Active Users are the collection of users hosted by a telemetry-enabled production server, that have visited the Mattermost site in the last 24 hours. The TEDAU metric is the rolling 7-day average sum of these users across all servers
+The distinction between an individual server's Telemetry-Enabled Active Users and the TEDAU metric is important to note. Telemetry-Enabled Active Users are the collection of users hosted by a telemetry-enabled production server, that have visited the Mattermost site in the last 24 hours. The TEDAU metric is the rolling 7-day average sum of these users across all servers.
+
+## Monthly Active Users
+
+**Monthly Active Users (MAU)** are users that have performed an event on or within 30 days of a given date. User events are triggered when a user interacts with the Mattermost platform from their desktop or mobile device. After a user performs an event, that user will remain in MAU for 30 days. After that time the user will fall out of MAU and be classified as "Disengaged". 
+
+### MAU Engagement Lifecycle Segments
+
+Monthly active users are classified into **engagement lifecycle segments**. There are 5 engagement lifecycle segments: Persisted, First-Time Active, Reengaged, Newly Disengaged, and Disengaged. Each segment is derived from a user's event timeline. Each Engagement Lifecycle Segment is defined as follows:
+
+* **First-Time Active**: The first time a user performs an event on the Mattermost platform and is classified as a Monthly Active User.
+* **Reengaged**: A user performs an event for the first time after >= 31 days of inactivity on the Mattermost platform.
+* **Persisted**: A user that performed an event in the last 30 days that does not fall into "First-Time Active" or "Reengaged" MAU Engagement Lifecyle Segments.
+* **Newly Disgengaged**: A user, that was previously in MAU, that has not performed an event within 30 days of their last event. A user is only "Newly Disengaged" on the 31st day of inactivity. 
+* **Disengaged**: A user, that was previously in MAU, that has not performed an event > 31 days of their last event. A "Newly Disengaged" user becomes "Disengaged" on their 32nd+ day of inactivity.
+
+### MAU Considerations
+
+#### MAU Events
+
+Currently, only a subset of possible events, dubbed "whitelist" events, count towards MAU.
 
 ## Trials
 
