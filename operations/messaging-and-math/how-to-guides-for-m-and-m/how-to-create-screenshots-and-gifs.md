@@ -27,7 +27,7 @@ When choosing what to highlight in the screenshot, follow this order:
   * Use default 100% Zoom.
   * Tip: Close the right-hand sidebar, and close the team sidebar by leaving all but one team.
 * **Font Size:**
-  * Check that the font size is not too small.
+  * All text should have large enough font size so that text is easily readable.
 * **Visuals:**
   * Profile pictures and real people’s names should be filled out throughout the screenshot.
   * For the profile picture, use either normal-looking Avatars or stock photography from [istockphoto.com](https://www.istockphoto.com/).
@@ -96,7 +96,6 @@ Text is hard to read when image is reduced for sharing on blog posts, social med
 This enables sharing the image in documentation, social media and marketing content more easily.
 
 ![](../../../.gitbook/assets/image%20%2846%29.png)
-
 
 
 
