@@ -38,6 +38,7 @@
   * [MLT Metrics](operations/operations/metrics.md)
   * [Company Agreements](operations/operations/company-agreements.md)
   * [Company Cadence](operations/operations/company-cadence.md)
+  * [Company V2MOM Metrics](operations/operations/company-v2mom-metrics.md)
   * [Publishing](operations/operations/publishing/README.md)
     * [Public Web Properties](operations/operations/publishing/web-properties.md)
     * [Publishing Guidelines](operations/operations/publishing/publishing-guidelines/README.md)
