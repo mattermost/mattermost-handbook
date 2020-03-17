@@ -118,3 +118,16 @@ Links to previous staff enablement surveys:
 * [March 13, 2019 staff enablement survey](https://docs.google.com/forms/d/1RwHyliyW6-Hh87K0L9srNB2qpDdgnu1_THcgg4lfgRs/edit#response=ACYDBNgZGE2_rGr-IPo126aHqHfDHQHdZWRjJ-vw-blT4iu6PV-FKUNf51bK7-vl9s3wll0)
 * [September 18, 2019 staff enablement survey](https://docs.google.com/forms/d/15ezikBYd4HGbhP9RiZrmCyBGjMEo_G-V8DQAKKqa6wM/edit)
 
+
+## CEO Listening Tours
+
+CEO will be on a series of “listening tours” over Zoom to spend 25-50 minutes with different groups of 5-8 staff within a department to hear likes and wishes about the company. Managers of the team members in the group are typically not in the listening tour group. 
+
+The priority of the meeting is listening. During these sessions CEO takes copious notes and refrains from any commentary, though may ask follow-up questions.  
+
+At the end of the session CEO reads back what they heard. The notes are shared with the management chain between CEO and the group to share feedback. 
+
+It is the decision of managers on how to address the feedback at the team level and CEO will be able to incorporate the information at the company level.
+
+In the past, participants and managers of listening tours have found the meetings productive for uncovering blindspots at the company and within departments.  
+
