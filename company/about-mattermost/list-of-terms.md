@@ -2,7 +2,7 @@
 
 ## Current Terms
 
-The following lists current terms actively used at Mattermost. You can also see [Tombstoned Terms ](list-of-terms.md#tombstoned-terms) for terms that have either been modified or deprecated. We use Tombstoned Terms to preserve links to previous definitions so clarity is maintained. 
+The following lists current terms actively used at Mattermost. You can also see [Tombstoned Terms](list-of-terms.md#tombstoned-terms) for terms that have either been modified or deprecated. We use Tombstoned Terms to preserve links to previous definitions so clarity is maintained. 
 
 ### **0/5, 1/5, 2/5, 3/5, 4/5, 5/5**
 
