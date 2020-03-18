@@ -10,7 +10,7 @@ description: >-
 ## Company Key Info
 
 * [About Mattermost](../../company/about-mattermost/#mission): Mission, vision, company overview, history
-* [V2MOM](https://www.salesforce.com/blog/2013/04/how-to-create-alignment-within-your-company.html)s: How we run the business day-to-day
+* [V2MOM](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-v2mom)s: How we run the business day-to-day
   * [V2MOM Overview from Mattercon 2020](https://docs.google.com/presentation/d/1BDSaeW-M92gth_NM1vI23dtbFLBsYVIk/edit#slide=id.g6f3b66b1fb_0_337)
   * [V2MOM Q&A follow-up from Mattercon 2020](https://docs.google.com/spreadsheets/d/1uQ1-3QFTo1JsKE8yiopjs-Bp1JoZVg96twA6lLd1Tzo/edit#gid=1550509630)
 

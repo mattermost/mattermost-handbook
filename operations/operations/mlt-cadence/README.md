@@ -1,13 +1,29 @@
-# Management Leadership Team \(MLT\)
+---
+description: >-
+  Mattermost Leadership Team (MLT) consists of Mattermost department heads plus
+  the CEO
+---
 
-Mattermost Leadership Team \(MLT\) consists of Mattermost department heads plus the CEO
+# Management Leadership Team \(MLT\)
 
 This section outlines:
 
-* The VPMOM for MLT cadence summarizing purpose and measures
+* Introduction to MLT
 * The operations of administrative, tactical and strategic meetings
 * Process for alignment and cascading communications
 * Process for quarterly business reviews, planning and board meetings
+
+
+
+## Introduction to MLT
+
+* Ian Tien: Co-Founder and CEO
+* Corey Fuller: Co-Founder and CTO
+* Aneal Vallurupalli: VP, Finance
+* Alexis Schmidt: VP, Sales
+* Chris Overton: Vp, Engineering
+* Ken Olofsen: VP, Marketing
+* Lindsay Brock: Head of Product Management
 
 ## MLT Daily Admin
 
