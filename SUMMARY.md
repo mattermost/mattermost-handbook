@@ -33,7 +33,7 @@
 * [Company Operations](operations/operations/README.md)
   * [Management Leadership Team \(MLT\)](operations/operations/mlt-cadence/README.md)
     * [MLT Cadence V2MOM](operations/operations/mlt-cadence/mlt-cadence-vpmom.md)
-  * [Company Metrics](operations/operations/company-metrics/README.md)
+  * [Company Measures](operations/operations/company-metrics/README.md)
     * [V2MOM Metrics](operations/operations/company-metrics/company-v2mom-metrics.md)
     * [MLT Metrics](operations/operations/company-metrics/metrics.md)
   * [Company Cadence](operations/operations/company-cadence.md)
