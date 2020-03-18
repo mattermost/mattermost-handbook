@@ -29,7 +29,7 @@ You can vary your tone to fit the situation, just as you’d talk to an angry pe
 
 ## Writing Tenets
 
-* Work on the premise that "Every page is page 1", as a large portion of users enters our documentation from a Google search**
+* Work on the premise that "Every page is page 1", as a large portion of users enters our documentation from a Google search
 * Add a summary to the top of each page for readers to be able to quickly assess the content for suitability
 * Write clearly and concisely - get to the point quickly without losing valuable information
 * Focus on what the target audience wants to accomplish by being practical/outcome-focused
