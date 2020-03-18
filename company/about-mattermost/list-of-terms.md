@@ -28,7 +28,7 @@ An obvious error in Mattermost software that is typically a code defect. Changes
 
 ### **CAO**
 
-_Contract Accountability Owner_ is a [DRI](list-of-terms.md#dri) for ensuring a contract meets our guidelines and standards ahead of final approval by [a company signatory. ](../../operations/operations/company-agreements.md#who-can-sign-on-behalf-of-the-company). Also see [listing of CAOs](../../operations/operations/company-agreements.md#who-are-contract-accountability-owners-caos).
+_Contract Accountability Owner_ is a [DRI](list-of-terms.md#dri) for ensuring a contract meets our guidelines and standards ahead of final approval by [a company signatory](../../operations/operations/company-agreements.md#who-can-sign-on-behalf-of-the-company). Also see [listing of CAOs](../../operations/operations/company-agreements.md#who-are-contract-accountability-owners-caos).
 
 ### **COM**
 
