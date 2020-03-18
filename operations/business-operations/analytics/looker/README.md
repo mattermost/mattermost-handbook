@@ -20,11 +20,5 @@ Dashboards will be denoted with one of the following Stages in Looker.
 
 ### Dashboards & Looks
 
-
-
 ### Explores
-
-#### 
-
-
 

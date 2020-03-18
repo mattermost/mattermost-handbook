@@ -24,5 +24,3 @@ Learn more about targets, descriptions, owners, and data sources for MLT Scorebo
 
 Learn more about timeline, current status, owners for automating Mattermost Business Metrics
 
-
-

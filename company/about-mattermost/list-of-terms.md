@@ -2,25 +2,25 @@
 
 ## Current Terms
 
-The following lists current terms actively used at Mattermost. You can also see [Tombstoned Terms](list-of-terms.md#tombstoned-terms) for terms that have either been modified or deprecated. We use Tombstoned Terms to preserve links to previous definitions so clarity is maintained. 
+The following lists current terms actively used at Mattermost. You can also see [Tombstoned Terms](list-of-terms.md#tombstoned-terms) for terms that have either been modified or deprecated. We use Tombstoned Terms to preserve links to previous definitions so clarity is maintained.
 
 ### **0/5, 1/5, 2/5, 3/5, 4/5, 5/5**
 
 We use “x/5” to concisely communicate conviction. 0/5 means you don’t have a strong opinion, you are just sharing an idea or asking a question. 5/5 means you are highly confident and would stake your reputation on the opinion you’re expressing.
 
-Example: "0/5, I think before archiving a channel a user should type in the name of the channel to make sure they really want to do it" expresses low conviction and indifference in the suggestion. The decision maker should feel free to ignore the input. As another example: "4/5, I think before archiving a channel a user should type in the name of the channel to make sure they really want to do it" expresses high conviction and the decision maker may want to ask more questions to understand whether [emotion, assumption, or priority](mindsets.md#emotion-assumption-and-priority) is behind the feedback.  
+Example: "0/5, I think before archiving a channel a user should type in the name of the channel to make sure they really want to do it" expresses low conviction and indifference in the suggestion. The decision maker should feel free to ignore the input. As another example: "4/5, I think before archiving a channel a user should type in the name of the channel to make sure they really want to do it" expresses high conviction and the decision maker may want to ask more questions to understand whether [emotion, assumption, or priority](mindsets.md#emotion-assumption-and-priority) is behind the feedback.
 
-### Best Practices 
+### Best Practices
 
-We try not to use the term "best practice" at Mattermost, as it's counter-cultural to our focus on [iteration](list-of-terms.md#iteration), [self-awareness](./#leadership-principles), and [earn trust](./#leadership-principles). Iteration means there is always opportunity to grow and improve and so we never reach our "best". 
+We try not to use the term "best practice" at Mattermost, as it's counter-cultural to our focus on [iteration](list-of-terms.md#iteration), [self-awareness](./#leadership-principles), and [earn trust](./#leadership-principles). Iteration means there is always opportunity to grow and improve and so we never reach our "best".
 
 ### AA
 
 Refers to both an [As Appropriate interview](../../contributors/join-us/recruiting.md#as-appropriate-interviews-aa-s) as well as the [As Appropriate interviewer](../../contributors/join-us/recruiting.md#as-appropriate-interviews-aa-s). Final interview required before making a decision on a new hire.
 
-### AOR 
+### AOR
 
-_Area Of Responsibility_ defines the area for which a [DRI](list-of-terms.md#dri) is accountable. The [AOR page](../../operations/operations/areas-of-responsibility.md) provides information on AORs across the company. 
+_Area Of Responsibility_ defines the area for which a [DRI](list-of-terms.md#dri) is accountable. The [AOR page](../../operations/operations/areas-of-responsibility.md) provides information on AORs across the company.
 
 ### **Bug**
 
@@ -34,21 +34,21 @@ _Contract Accountability Owner_ is a [DRI](list-of-terms.md#dri) for ensuring a 
 
 COM is short for [Customer Obsession Meeting](https://docs.mattermost.com/process/training.html?#customer-obsession-all-hands-meeting), which is our “All Hands” meeting focused on how we’re aligning the company to serve our customers.
 
-### Country/Region 
+### Country/Region
 
-Because the term "country" may be either controversial or incorrect when describing a geographic area governed by a state-like political entity we use the term "country/region" to avoid any accidental or implied judgement on the independence of a region. If the term "country" appears to be incorrectly used, when "country/region" is more appropriate, please contact info@mattermost.com. 
+Because the term "country" may be either controversial or incorrect when describing a geographic area governed by a state-like political entity we use the term "country/region" to avoid any accidental or implied judgement on the independence of a region. If the term "country" appears to be incorrectly used, when "country/region" is more appropriate, please contact info@mattermost.com.
 
-### Customer 
+### Customer
 
-The primary external audience we are focused on for an initiative, which could be an end user without budget \(if our goal is adoption and engagement\) or a buyer \(if our objective for the initiative is revenue\). A customer does not include internal staff, since staff are not external. 
+The primary external audience we are focused on for an initiative, which could be an end user without budget \(if our goal is adoption and engagement\) or a buyer \(if our objective for the initiative is revenue\). A customer does not include internal staff, since staff are not external.
 
-### Dark Actions 
+### Dark Actions
 
-The act of using non-web-discoverable formats \(Mattermost channels requiring login, Google docs that aren't web searchable, Zoom call, email, etc.\) to share non-confidential information or processes. 
+The act of using non-web-discoverable formats \(Mattermost channels requiring login, Google docs that aren't web searchable, Zoom call, email, etc.\) to share non-confidential information or processes.
 
-Example: Giving someone instructions on how to set up OneLogin for MFA on the community server in a DM rather than writing it into a handbook entry for all new staff to use and re-use. 
+Example: Giving someone instructions on how to set up OneLogin for MFA on the community server in a DM rather than writing it into a handbook entry for all new staff to use and re-use.
 
-Dark actions create [false openness](list-of-terms.md#false-openness). [Open actions](list-of-terms.md#open-actions) are highly preferred. 
+Dark actions create [false openness](list-of-terms.md#false-openness). [Open actions](list-of-terms.md#open-actions) are highly preferred.
 
 ### **Dead Tarzan**
 
@@ -62,9 +62,9 @@ A term for shipping something that is far below quality standards. This term is 
 
 A specific type of [mana](list-of-terms.md#mana) for developers similar to “points” or “jelly beans” in an Agile/Scrum methodology. On average, full time Mattermost developers each complete tickets adding up to approximately 28 mana per week. A “small” item is 2 mana, a “medium” is 4, a “large” is 8 and any project bigger needs to be broken down into smaller tickets.
 
-### DRI 
+### DRI
 
-_Directly Responsible Individual_ means a human individual who is accountable for a given Area Of Responsibility. A DRI is a single person, not a group of people. If there is a shift schedule, define each shift as a separate AOR \(e.g. Tier 2 Mobile Support Escalations Weekdays 8am to 5pm Palo Alto time\). If you are unsure who is the DRI, make the AOR more specific until the DRI is clear. 
+_Directly Responsible Individual_ means a human individual who is accountable for a given Area Of Responsibility. A DRI is a single person, not a group of people. If there is a shift schedule, define each shift as a separate AOR \(e.g. Tier 2 Mobile Support Escalations Weekdays 8am to 5pm Palo Alto time\). If you are unsure who is the DRI, make the AOR more specific until the DRI is clear.
 
 ### **ESR**
 
@@ -78,7 +78,7 @@ If something is extremely difficult to understand, and yet still justified in th
 
 ### False Openness
 
-Keeping non-sensitive information that would be helpful for staff and community to know out of public web search through the use of dark actions. Often false openness is unintentional, though after staff members are educated on the topic and empowered to use [open actions](list-of-terms.md#open-actions), continued use of [dark actions](list-of-terms.md#dark-actions) would appear to be deliberate. 
+Keeping non-sensitive information that would be helpful for staff and community to know out of public web search through the use of dark actions. Often false openness is unintentional, though after staff members are educated on the topic and empowered to use [open actions](list-of-terms.md#open-actions), continued use of [dark actions](list-of-terms.md#dark-actions) would appear to be deliberate.
 
 ### **HW - Help Wanted**
 
@@ -88,23 +88,23 @@ Keeping non-sensitive information that would be helpful for staff and community 
 
 A beneficial change to code that is not fixing a bug.
 
-### Iteration 
+### Iteration
 
-Iteration means being able to quickly improve on something by shipping a minimally viable change in how we do things. It's the opposite of the "wait, wait, wait, ship" method we call the [Windows Vista Approach](list-of-terms.md#windows-vista-approach). 
+Iteration means being able to quickly improve on something by shipping a minimally viable change in how we do things. It's the opposite of the "wait, wait, wait, ship" method we call the [Windows Vista Approach](list-of-terms.md#windows-vista-approach).
 
 ### **LHS**
 
 The “Left-Hand Sidebar” in the Mattermost team site, used for navigation.
 
-### **Majority Regions** 
+### **Majority Regions**
 
-Countries and regions outside the United States are referred to as "majority regions". We use this term for a few reasons, a\) we use the word "majority" to remind everyone that the ~300M United States are only a tiny fraction \(&lt;5%\) of the world's 7 billion people \(many American companies refer to the U.S. as "domestic" and the rest of the world as "international" which is counter to the inclusive culture at Mattermost\), b\) we use "regions" instead of "countries" because there are political issues with some locations. 
+Countries and regions outside the United States are referred to as "majority regions". We use this term for a few reasons, a\) we use the word "majority" to remind everyone that the ~300M United States are only a tiny fraction \(&lt;5%\) of the world's 7 billion people \(many American companies refer to the U.S. as "domestic" and the rest of the world as "international" which is counter to the inclusive culture at Mattermost\), b\) we use "regions" instead of "countries" because there are political issues with some locations.
 
 For example, we should always refer to Taiwan as a "region" and not a "country" due to [geo-political issues](https://en.m.wikipedia.org/wiki/Taiwan#Political_and_legal_status).
 
 ### **Mana**
 
-An estimate of total energy, attention and effort required for a task--not a measure of amount of code to be changed or cumulative time needed for a change. 
+An estimate of total energy, attention and effort required for a task--not a measure of amount of code to be changed or cumulative time needed for a change.
 
 A one-line change to code can cost more mana than a 100-line change due to risk and the need for documentation, testing, support and all the other activities needed.
 
@@ -112,27 +112,27 @@ Every code change added has an initial and on-going mana cost in technical debt,
 
 ### **MLT**
 
-The “Mattermost Leadership Team”, senior leadership team and department heads working with the CEO in [MLT meetings and offsites](../../operations/operations/mlt-cadence/). 
+The “Mattermost Leadership Team”, senior leadership team and department heads working with the CEO in [MLT meetings and offsites](../../operations/operations/mlt-cadence/).
 
 ### Nerfs and Buffs
 
-Nerfs and buffs are the framework for setting culture at Mattermost.   
-  
-A "nerf" is a downgrade experience as the result of a behavior. For example, if half of a team is travelling to a conference and holds a team meeting in a hotel room, where remote colleagues can't see everyone in the room and audio is low quality, the team is "nerfing" their remote. They people in the hotel room are downgrading the experience of their remote colleagues.   
-  
-Under this framework, we want to discourage behavior that nerfs remote work--so if your team is in-person meeting with remote colleagues, please split-up to take the call from separate areas so everyone can be seen and heard.   
-  
-A "buff" is an upgrade experience as the result of a behavior. If a remote team is meeting on a topic with a clear, concise written proposal requesting asynchronous feedback, people who share high quality feedback asynchronously ahead of the meeting may have out-sized influence on iterations of the document ahead of the meeting, compared to people who don't provide asynchronous feedback ahead of the meeting. 
+Nerfs and buffs are the framework for setting culture at Mattermost.
+
+A "nerf" is a downgrade experience as the result of a behavior. For example, if half of a team is travelling to a conference and holds a team meeting in a hotel room, where remote colleagues can't see everyone in the room and audio is low quality, the team is "nerfing" their remote. They people in the hotel room are downgrading the experience of their remote colleagues.
+
+Under this framework, we want to discourage behavior that nerfs remote work--so if your team is in-person meeting with remote colleagues, please split-up to take the call from separate areas so everyone can be seen and heard.
+
+A "buff" is an upgrade experience as the result of a behavior. If a remote team is meeting on a topic with a clear, concise written proposal requesting asynchronous feedback, people who share high quality feedback asynchronously ahead of the meeting may have out-sized influence on iterations of the document ahead of the meeting, compared to people who don't provide asynchronous feedback ahead of the meeting.
 
 Here we want to buff asynchronous communication by focusing review on asynchronous comments ahead of live comments.
 
-Culture is the set of behaviors that are nerfed and buffed. As a remote-first culture we want to buff behavior that promotes asynchronous communication and remote work. We want to nerf behavior that creates unnecessary synchronous meetings. 
+Culture is the set of behaviors that are nerfed and buffed. As a remote-first culture we want to buff behavior that promotes asynchronous communication and remote work. We want to nerf behavior that creates unnecessary synchronous meetings.
 
-### Open Actions 
+### Open Actions
 
-Term for publicly documenting information in a web-discoverable format \(GitHub Issue, Staff Handbook entry, forum post, etc.\) prior to sharing guidance to staff and community members. We prefer open actions to [dark actions](list-of-terms.md#dark-actions). 
+Term for publicly documenting information in a web-discoverable format \(GitHub Issue, Staff Handbook entry, forum post, etc.\) prior to sharing guidance to staff and community members. We prefer open actions to [dark actions](list-of-terms.md#dark-actions).
 
-### PTO 
+### PTO
 
 _Paid Time Off_ is time away from work paid for by the company to staff, including holidays, vacations, and approved leaves of absence. See [PTO](../../operations/workplace/people/working-at-mattermost/paid-time-off.md).
 
@@ -142,11 +142,11 @@ The “Right-Hand Sidebar” in the Mattermost team site, used for navigation.
 
 ### **Spinmint**
 
-Spinmint refers to our first generation of automated infrastructure to spin up test servers to evaluate pull requests. The word "spin" comes from the original name of our company, "Spinpunch, Inc." \(before we became \("Mattermost, Inc."\) and the word "mint" as a short, unambiguous, easy-to-spell name referring to a [factory method pattern](https://en.wikipedia.org/wiki/Factory_method_pattern). 
+Spinmint refers to our first generation of automated infrastructure to spin up test servers to evaluate pull requests. The word "spin" comes from the original name of our company, "Spinpunch, Inc." \(before we became \("Mattermost, Inc."\) and the word "mint" as a short, unambiguous, easy-to-spell name referring to a [factory method pattern](https://en.wikipedia.org/wiki/Factory_method_pattern).
 
 ### **SpinWick**
 
-New test servers that use the cloud infrastructure and can be spun up on pull requests to test changes. The name is reference to first generation infrastructure, [spinmint](list-of-terms.md#spinmint), combined with an arbitrary reference to a movie that some people saw called “John Wick”. 
+New test servers that use the cloud infrastructure and can be spun up on pull requests to test changes. The name is reference to first generation infrastructure, [spinmint](list-of-terms.md#spinmint), combined with an arbitrary reference to a movie that some people saw called “John Wick”.
 
 ### Tombstoned
 
@@ -158,14 +158,15 @@ A reference to the major social media platforms: YouTube \(“You”\), Twitter 
 
 ### **Windows Vista Approach**
 
-Instead of working iteratively a "Windows Vista approach" attempts to ship significant changes in a complex one-time effort, which seems like a good idea at the time but ends up causing delays, wasted effort, and numerous avoidable errors.   
-  
+Instead of working iteratively a "Windows Vista approach" attempts to ship significant changes in a complex one-time effort, which seems like a good idea at the time but ends up causing delays, wasted effort, and numerous avoidable errors.
+
 This tempting, high risk approach is named after Microsoft’s “Windows Vista” operating system, one of its most famous examples.
 
 ## Tombstoned Terms
 
-The following is a list of terms no longer used with links to their definitions or notes on their deprecation. Tombstoned Terms use H3 headings on this page to distinguish them from active terms, which are H2 in heading formatting. 
+The following is a list of terms no longer used with links to their definitions or notes on their deprecation. Tombstoned Terms use H3 headings on this page to distinguish them from active terms, which are H2 in heading formatting.
 
 #### Tomb-stoned
 
 Previously hyphenated, now not hyphenated, see [Tombstoned](list-of-terms.md#tombstoned).
+

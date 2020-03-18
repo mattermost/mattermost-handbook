@@ -1,27 +1,25 @@
 # Dashboards
 
-**Only available to Looker early adopters. Please see the** [**Looker Page**](https://handbook.mattermost.com/operations/business-operations/analytics/looker)**.**                              
+**Only available to Looker early adopters. Please see the** [**Looker Page**](https://handbook.mattermost.com/operations/business-operations/analytics/looker)**.**
 
-### Community
+## Community
 
 * [GitHub Contributors Dashboard](https://mattermost.looker.com/dashboards/15)
 
-### Finance
+## Finance
 
 * [ARR Overview Dashboard](https://mattermost.looker.com/dashboards/14)
 
-### Product
+## Product
 
 * [NPS Dashboard](https://mattermost.looker.com/dashboards/16)
 * [TEDAU Overview Dashboard](https://mattermost.looker.com/dashboards/29)
 * [TEDAS Overview Dashboard](https://mattermost.looker.com/dashboards/28)
 
-### Top of Funnel
+## Top of Funnel
 
 * [Traffic & Organic Google Search](https://mattermost.looker.com/dashboards/5)
 * [Downloads Dashboard](https://mattermost.looker.com/dashboards/11)
 * [Contact Us Request Dashboard](https://mattermost.looker.com/dashboards/25)
 * [Trials Request Dashboard](https://mattermost.looker.com/dashboards/23)
-
-
 

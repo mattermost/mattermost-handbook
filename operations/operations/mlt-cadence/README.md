@@ -1,4 +1,4 @@
-# MLT Cadence
+# Management Leadership Team \(MLT\)
 
 Mattermost Leadership Team \(MLT\) consists of Mattermost department heads plus the CEO
 
