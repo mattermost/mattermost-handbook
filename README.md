@@ -39,4 +39,3 @@ That begins the cycle of feedback and iteration. While not all feedback will res
 ## Updating this handbook
 
 [Learn how to update this handbook through GitHub](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-update-handbook).
-
