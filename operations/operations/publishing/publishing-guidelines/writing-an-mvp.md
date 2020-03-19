@@ -1,6 +1,6 @@
 # Writing an MVP
 
-When you submit a PR for your contribution, please include documentation with it. The documentation can be submitted as a new file and you can use the example below for content and structural guidance:
+When you submit a PR for your contribution, it's encourged to include documentation with it. The documentation can be submitted as a new file and you can use the example below for content and structural guidance:
 
 ```
 ## Introduction and Context
