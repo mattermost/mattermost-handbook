@@ -71,32 +71,28 @@ Use [GIF Brewery](https://gfycat.com/gifbrewery) to create GIFs. Ensure there ar
 
 When you need to show a particular part of the product, don't crop the image and zoom past 100% to show the functionality. Example of what not to do: 
 
-![DO NOT use Zoom level other than 100% for screenshots](../../../.gitbook/assets/image%20%286%29.png)
+![DO NOT use Zoom level other than 100% for screenshots](../../../.gitbook/assets/screenshot_guidelines.png)
 
 #### Do show sub-components framed in grey \(\#F7F9FA\) background 
 
 Instead, show the sub-component at 100% zoom with a 12pt white border \(so there is white space\) and a grew \(\#F7F9FA\) background with no border, so the image is cleanly framed:
 
-![](../../../.gitbook/assets/image%20%2812%29.png)
+![](../../../.gitbook/assets/screenshot_guidelines2.png)
 
 #### Don't display watermarks and vendor names on screenshots or GIFs
 
 Example of what not to do \("Stop" and "created with gifrecorder.com" overlayed at the end of the GIF\):
 
-![](../../../.gitbook/assets/image%20%2845%29.png)
+![](../../../.gitbook/assets/screenshot_guidelines3.png)
 
 #### Don't take a screenshot at high resolution
 
 Text is hard to read when image is reduced for sharing on blog posts, social media and possibly in slides:
 
-![](../../../.gitbook/assets/image%20%2851%29.png)
+![](../../../.gitbook/assets/screenshot_guidelines4.png)
 
 #### Do size Mattermost to capture approximately a 900px by 640px area
 
 This enables sharing the image in documentation, social media and marketing content more easily.
 
-![](../../../.gitbook/assets/image%20%2846%29.png)
-
-
-
-
+![](../../../.gitbook/assets/screenshot_guidelines5.png)
