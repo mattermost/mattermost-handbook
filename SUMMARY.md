@@ -95,6 +95,7 @@
     * [Mattermost U.S. Consulting Agreements](operations/finance/risk-management/mattermost-templated-agreements.md)
 * [Workplace](operations/workplace/README.md)
   * [PeopleOps](operations/workplace/people/README.md)
+    * [HR Cadences](operations/workplace/people/working-at-mattermost/README.md)
     * [Working at Mattermost](operations/workplace/people/working-at-mattermost/README.md)
       * [Paid Time Off](operations/workplace/people/working-at-mattermost/paid-time-off.md)
       * [Travel](operations/workplace/people/working-at-mattermost/travel/README.md)
