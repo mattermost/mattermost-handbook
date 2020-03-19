@@ -1,6 +1,8 @@
+# HR Cadences
+
 This Section outlines HR Cadences for company wide operations. 
 
-### Listening Sessions 
+## Listening Sessions 
 
 Listening sessions are 1x1 meeting with your HR partner. The intent of the HR Listening Session is to connect with each team member 1x1 for a general pulse check at the org, team and individual level. All feedback is welcome, and the conversation may often center around [likes and wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes).
 
@@ -14,10 +16,10 @@ Your HR partner will schedule time with you via Google Calendar. The goal is to 
 
 Manager listening sessions will happen once a month. In addition to the above topics, this is also an opportunity for people managers to unpack questions around people management challenges, concerns and/or best practices. This feedback will also help drive future Manager Training topics.
 
-### Staff Enablement Survey
+## Staff Enablement Survey
 
 Information on [Staff Enablement Cadence](https://handbook.mattermost.com/operations/operations/company-cadence#staff-enablement-survey) can be found here. 
 
-#### Post-COM Survey Analysis
+### Post-COM Survey Analysis
 
 After the survey analysis is presented at [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com), HR will share Enablement Results with MLT as long as there are at least 5 submitted responses. The minimum response is 5 in order to preserve the anonymous nature of the survey. HR will work with MLT or the Team Lead to focus on relevant and actionable results based on the feedback. Next, MLT or Team Leads will share and discuss any next steps with the team. 
