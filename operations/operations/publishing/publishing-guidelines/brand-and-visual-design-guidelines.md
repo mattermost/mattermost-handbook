@@ -4,7 +4,7 @@
 
 The logos below are available for use in your integrations and applications that connect to Mattermost. Use of the logo is permitted so long as it’s used in a non-commercial way and does not imply endorsement by Mattermost, Inc.
 
-![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logo-intro%20%281%29.png)
+![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logo-intro.png)
 
 The Mattermost logomark is called **"the instrument"**. It represents four tools organizations need to achieve their highest priorities:
 
@@ -23,7 +23,7 @@ The Mattermost logo is available is vertical, horizontal and logomark-only versi
 
 **Vertical Logo:** Min size 70x39px
 
-![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logos-vertical%20%281%29.png)
+![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logos-vertical.png)
 
 **Logomark:** Min size 16x16px
 
@@ -35,7 +35,7 @@ The Mattermost logo is available is vertical, horizontal and logomark-only versi
 
 To ensure an uncluttered presentation, always maintain a full X space around the logo. The X height is always the height of the lowercase letter “m” in “Mattermost”. Use the safety area as an invisible border.
 
-![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logos-clearspace%20%281%29.png)
+![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logos-clearspace.png)
 
 #### Incorrect usage
 
