@@ -1,10 +1,16 @@
 ---
-description: 50% complete
+description: >-
+  This section details all of the different ways the company communicates and at
+  what cadence:
 ---
 
-# Company Cadence
+# Company Communications
 
-This section outlines cadence for company-wide operations.
+We have a number of different ways we communicate. Use the right side bar to jump to a specific area:
+
+* Customer Obsession Meetings \(COM\)
+* Surveys
+* CEO Listening Tours
 
 ## Customer Obsession Meeting \(aka "COM"\)
 
