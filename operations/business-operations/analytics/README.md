@@ -18,5 +18,5 @@ We are currently focused on:
 
 ### [Mattermost Business Metrics Rollout](https://docs.google.com/spreadsheets/d/1KzeqosK-yuRrkNsfujgM2wDXKd4KECvECNJbuZrG3Ek/edit?usp=sharing)
 
-Learn more about timeline, current status, owners for automating Mattermost Business Metrics
+Learn more about current status, owners, and targets for automating Mattermost Business Metrics
 
