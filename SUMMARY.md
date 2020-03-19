@@ -45,6 +45,7 @@
     * [Publishing Guidelines](operations/operations/publishing/publishing-guidelines/README.md)
       * [Brand and Visual Design Guidelines](operations/operations/publishing/publishing-guidelines/brand-and-visual-design-guidelines.md)
       * [Voice, Tone and Writing Style Guidelines](operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines.md)
+        * [Writing an MVP](operations/operations/publishing/publishing-guidelines/writing-an-mvp.md) 
       * [Confidentiality Guidelines](operations/operations/publishing/publishing-guidelines/confidentiality-guidelines.md)
     * [Post-Publication Quality Control Process](operations/operations/publishing/quality-control-process.md)
 * [Research & Development](operations/research-and-development/README.md)
