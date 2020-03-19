@@ -14,6 +14,10 @@ We are currently focused on:
 * Looker \(data visualization tool replacing Chartio\)
 * Automating Metrics
 
+## Q1FY21 Priorities
+
+![](../../.gitbook/assets/screen-shot-2020-03-16-at-12.04.23-am.png)
+
 ## Automating Mattermost Business Metrics
 
 ### [Mattermost Business Metrics Rollout](https://docs.google.com/spreadsheets/d/1KzeqosK-yuRrkNsfujgM2wDXKd4KECvECNJbuZrG3Ek/edit?usp=sharing)
