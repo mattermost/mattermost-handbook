@@ -1,10 +1,8 @@
 ---
-description: 'https://mattermost.productboard.com/'
+description: This page is a work in progress. 'https://mattermost.productboard.com/'
 ---
 
 # How to Use ProductBoard
-
-This page is a work in progress.
 
 ## **1 - Day in the life of a Product Manager**
 
