@@ -4,6 +4,17 @@ description: This page is a work in progress. 'https://mattermost.productboard.c
 
 # How to Use ProductBoard
 
+ProductBoard is used by Product Managers and Customer/Sales Teams for
+
+- feedback collection
+- feature validation
+- requirements gathering
+- feature prioritization/roadmap planning
+
+When a feature moves to "planned" the product team pushes it to Confluence and Jira (or wherever each team decides) to define the scope/spec and track work.
+
+Specifically, ProductBoard is used to decide what to build (and when), while other systems like Confluence or Jira are used to communicate and design on what exactly is being built at individual feature level.  
+
 ## **1 - Day in the life of a Product Manager**
 
 ### **1a- Reviewing new feedback from users and customers**
