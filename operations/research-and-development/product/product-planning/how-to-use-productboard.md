@@ -4,6 +4,8 @@ description: 'https://mattermost.productboard.com/'
 
 # How to Use ProductBoard
 
+This page is a work in progress.
+
 ## **1 - Day in the life of a Product Manager**
 
 ### **1a- Reviewing new feedback from users and customers**
