@@ -4,7 +4,7 @@ description: >-
   the CEO
 ---
 
-# Management Leadership Team \(MLT\)
+# Mattermost Leadership Team \(MLT\)
 
 This section outlines:
 
@@ -13,15 +13,13 @@ This section outlines:
 * Process for alignment and cascading communications
 * Process for quarterly business reviews, planning and board meetings
 
-
-
 ## Introduction to MLT
 
 * Ian Tien: Co-Founder and CEO
-* Corey Fuller: Co-Founder and CTO
+* Corey Hulen: Co-Founder and CTO
 * Aneal Vallurupalli: VP, Finance
 * Alexis Schmidt: VP, Sales
-* Chris Overton: Vp, Engineering
+* Chris Overton: VP, Engineering
 * Ken Olofsen: VP, Marketing
 * Lindsay Brock: Head of Product Management
 
@@ -401,4 +399,3 @@ VPMOMs, quarterly plans and proposed orgs are reviewed by MLT. Use the following
 * Methods
 
 MLT shares feedback on each VPMOM and quarterly plan. Cross-department dependencies documented.
-
