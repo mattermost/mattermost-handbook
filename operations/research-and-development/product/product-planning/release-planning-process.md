@@ -49,4 +49,4 @@ Before each quarter begins, we lock on plans for:
 
 We also update the backlog to show which items we are considering for 6 to 12 months out, but this list is flexible and gets updated each quarter based on any changes to company strategy, product goals, community needs, and market conditions.
 
-[Learn more about the release planning cadence](/operations/research-and-development/product/product-planning/roadmap-views).
+[Learn more about the release planning cadence](/operations/research-and-development/product/product-planning/release-planning-cadence).
