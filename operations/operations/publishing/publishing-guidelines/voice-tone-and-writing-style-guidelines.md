@@ -46,7 +46,7 @@ The Mattermost voice remains the same, even when the tone varies.
 * Focus on what the target audience wants to accomplish by being practical/outcome-focused
 * Break long sections into smaller, easily digestable subpages
 * Have at most one key point or action per paragraph
-* Refer to one thing or idea with the same word throughout the page.
+* Refer to one thing or idea with the same word throughout the page
 * Use ordered lists or bullets where appropriate, as they are generally easier to read than long blocks of text
 * Write for an international audience without idioms or expressions that people outside of your region are unlikely to understand
 * Minimize content so it can be found and remembered. Keep pages short, modular, and focused on a single topic
