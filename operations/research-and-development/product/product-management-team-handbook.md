@@ -1,7 +1,3 @@
----
-description: 1% DRAFT
----
-
 # Product Management Team Handbook
 
 ## Overview
@@ -14,6 +10,7 @@ The purpose of this playbook is to provide more details on the Product Manager r
 
 | Date | Edited By | Change Notes |
 | :--- | :--- | :--- |
+| 3/22/2020 | Jason Blais | Added process for storing customer recordings |
 | 2/5/2020 | Adam Clarkson | Added notes on Customer Request Rotation |
 | 2/2/2020 | Katie Wiersgalla | Updated Twitter, Customer Requests, PM meetings |
 | 8/30/2019 | Katie Wiersgalla | Update sections with additional resources |
@@ -480,6 +477,41 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
   * React with `:repeat:` if you retweeted the post.
   * React with `:no_entry_sign:` if you took no action.
 * Assign any unassigned Customer Requests.  If you are unsure of who to assign, ask during the PM Meeting. 
+
+#### Customer Recordings
+
+The Product Management team regularly meets with customers to discuss new product direction or to discuss product feedback with users and customers. 
+
+Calls are logged in Salesforce for the following reasons:
+
+* Others in the team can quickly discover if someone else recently had a product-focused discussion with the user or customer - and if so, may decide not to request another call in order to not overburden a single contact.
+* Single source of call recordings across the organization.
+* Ability to integrate notes and recordings from Salesforce to ProductBoard as insights, and from Salesforce to Mattermost as posts.
+
+Below is the process for logging calls in Salesforce:
+
+1. [Log in to Salesforce](https://login.salesforce.com/) with your Mattermost account. If you do not have an account, reach out to @elaine.yue on community.mattermost.com to request an account.
+2. In Salesforce, type in an account name in the search bar:
+
+![](../../../.gitbook/assets/call-recording-search.png)
+
+3. Click on account name under **Accounts** section:
+
+![](../../../.gitbook/assets/call-recording-accounts.png)
+
+4. In the resulting screen, hover over the **Activity History** in the account navigation bar, then select **Log a Call** in the upper right hand side of the screen.
+
+![](../../../.gitbook/assets/call-recording-log-call.png)
+
+5. Complete the following sections and select **Save**.
+
+  * **Subject**: Description of the call. Example: Product feedback discussion with Bobby Boughton.
+  * **Name**: Select contacts that attended the call.
+  * **Type**: Call.
+  * **Related To**: Defaults to account name, you typically do not need to change this field.
+  * **Comments**: Summary of call, including call notes and link to a recording.
+
+Calls across the product management team can be quickly accessed via [this Salesforce report](https://mattermost.lightning.force.com/lightning/r/Report/00O3p000005htC7EAI/view?0.source=alohaHeader). From here, you can see notes or recordings included within the call logs.
 
 ### Organizational Improvements
 
