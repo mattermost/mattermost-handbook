@@ -30,14 +30,14 @@ The Technical Writing team focuses primarily on the User Guide, Admin Guide, and
 
 #### @\[To Be Hired\]:
 
-* [Integration's Guide](https://docs.mattermost.com/guides/integration.html)
+* [Integrations Guide](https://docs.mattermost.com/guides/integration.html)
 * Feature documentation for:
   * Integrations team \(Jira, GitLab, Jenkins, ..\). This may involve some light admin docs to configure integrations/plugins.
   * Toolkit team \(Plugin framework, developer toolkit, …\)
 * Developer documentation for:
   * [developers.mattermost.com](https://developers.mattermost.com), including Contribute, Integrate and Extend sections
   * [api.mattermost.com](https://api.mattermost.com)
-  * general developer experience docs, e.g. code samples. Exact details TBD
+  * General developer experience docs, e.g. code samples. Exact details TBD
 * Developer-facing UI Content, such as the Integrations backstage
 * Community and doc review process
   * Exact split with Justine to be determined
@@ -145,15 +145,21 @@ If your documentation request/issue applies to a repository other than mattermos
 
 #### Jira Tickets
 
-The [Technical Writing Jira board](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=51) is a snapshot of the current Technical Writing workload. Feature and release writing is planned three sprints in advance. This ensures that ad-hoc work can be taken on.
+The [Technical Writing Jira board](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=61) is a snapshot of the current Technical Writing workload. Feature and release writing is planned three sprints in advance. This ensures that ad-hoc work can be taken on.
 
-If you have a documentation requirement, please create a ticket and include the following fields:
+If you have a feature documentation requirement, please create a ticket and include the following fields:
 
 * Label: Documentation
-* Team: Documentation 
+* Team: Tech Writing 
 * Assignee: Justine Geffen
 
 Depending on what is required, please also include a sprint as well as a fix version.
+
+If your request is not related to feature documentation, include the following fields:
+
+* Label: Documentation
+* Team: Tech Writing 
+* Assignee: <leave blank>
 
 **Jira Turnaround Time**
 
@@ -192,4 +198,3 @@ If you have any questions, you can post them in the [Documentation](https://comm
 Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated \(or created\) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation. The documentation can be as detailed or concise as deemed necessary - consider it an MVP which can be refined at a later stage.
 
 When submitting your PR, please include the **Editor Review** label and add @amyblais or @justinegeffen in GitHub as an approver.
-
