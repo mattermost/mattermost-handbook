@@ -16,7 +16,7 @@ Post-Onboarding Readiness is an internal measure based on feedback throughout a 
 
 Feedback is requested from the new colleague's peers throughout the 90-day Onboarding. These consistent check-ins help new colleagues, HR, and managers iterate with impact quickly. For example, one of the [V2MOM - Destination Workplace Measures](https://docs.google.com/presentation/d/1BDSaeW-M92gth_NM1vI23dtbFLBsYVIk/edit#slide=id.g6f2ea8cda4_8_1852) is to have fewer than 5% questions repeat month-over-month. 
 
-#### Onboarding Feedback to assess post-onboarding readiness 
+#### Onboarding Feedback to Assess Post-Onboarding Readiness 
 
 **Onboarding Surveys**
 TBD
