@@ -32,11 +32,12 @@ This is not a formal performance review. The intent is to align expectations and
 **New Colleague 90-Day Feedback Process**
 
  * **Managers**
-    * Complete a [new colleague peer panel form] for the new staff member. Notifications are sent to managers on a new colleague's date of employment. This kicks off the [review process](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#how-is-feedback-shared). 
-    * Managers receive a unique link with peer panel results after the survey is sent. 
+    * Complete a [new colleague peer panel form](https://www.surveymonkey.com/r/newcolleaguepanel)for the new staff member. Mattermost Notifications are sent to managers on a new colleague's 75th date of employment. This kicks off the [review process](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#how-is-feedback-shared). 
+    * Managers receive a unique link to track and view peer panel results after the survey is sent. 
     * People Ops share the new colleague's self-assessment once completed. 
  * **New Colleagues**
-    * Complete the [90-Day New Colleague Self-Assessment](https://forms.gle/vyZeGCfG57BoGuhB9). A notification is sent on day 75 with a reminder to complete the assessment. 
+    * Complete the 90-Day New Colleague Self Assessment. Links to the assessments are below. Please select the link based on your hire date. A Mattermost notification is sent on day 75 with a reminder to complete the assessment. 
+      * [90-Day New Colleague Self-Assessment. Start dates: Nov. 2019 - Jan 2020](https://www.surveymonkey.com/r/90daySelfAssessmentQ4FY20). 
  * **Peers**
     * Complete peer review via the Survey Monkey link you received or using one of the links below: 
      * [Q4 New Colleagues](https://www.surveymonkey.com/r/ZGC7ZN9) - Joined Mattermost between 1 Nov. 2019 to 31 Jan. 2020
