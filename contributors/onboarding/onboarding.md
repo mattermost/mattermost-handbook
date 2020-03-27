@@ -33,7 +33,7 @@ This is not a formal performance review. The intent is to align expectations and
 
  * **Managers**
     * Complete a [new colleague peer panel form] for the new staff member. Notifications are sent to managers on a new colleague's date of employmnet. This will kick off the [review process](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#how-is-feedback-shared). 
-    * Managers will recieve a unique link with peer panel results once the survey is sent. 
+    * Managers receive a unique link with peer panel results after the survey is sent. 
     * People Ops share the new colleague's self-assessment once completed. 
  * **New Colleagues**
     * Complete the [90-Day New Colleague Self-Assessment](https://forms.gle/vyZeGCfG57BoGuhB9). A notification is sent on day 75 with a reminder to complete the assessment. 
