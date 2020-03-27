@@ -12,7 +12,7 @@ Onboarding is an all-company partnership between a new colleague and Mattermost.
 
 ### Post-Onboarding Readiness 
 
-Post Onboarding Readiness is an internal measure based on feedback throughout a new team member’s first 90 days at Mattermost. There are multiple milestones throughout the onboarding process where feedback will be solicited. This feedback intends to assess how willing and enabled a new colleague is to bring their best self to Mattermost as it relates to their role expectations, team and company focuses and the Mattermost Leadership Principles. 
+Post-Onboarding Readiness is an internal measure based on feedback throughout a new team member’s first 90 days at Mattermost. There are multiple milestones throughout the onboarding process where feedback is solicited. This feedback assesses how willing and enabled a new colleague is to bring their best self to Mattermost as it relates to their role expectations, team and company focuses, and the Mattermost Leadership Principles. 
 
 Feedback will be requested throughout the 90-day Onboarding These consistent check-ins help new colleagues, HR and managers iterate with impact quickly. For example, one of the [V2MOM - Destination Workplace Measures](https://docs.google.com/presentation/d/1BDSaeW-M92gth_NM1vI23dtbFLBsYVIk/edit#slide=id.g6f2ea8cda4_8_1852) is to have fewer than 5% questions repeat month-over-month. 
 
