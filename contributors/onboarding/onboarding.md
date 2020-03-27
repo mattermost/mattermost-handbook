@@ -36,7 +36,7 @@ This is not a formal performance review. The intent is to align expectations and
     * Managers will recieve a unique link with peer panel results once the survey is sent. 
     * People Ops will share the new colleague's self evaluation once completed. 
  * **New Colleagues**
-    * Complete the [90-Day New Colleague Self Assessment](https://forms.gle/vyZeGCfG57BoGuhB9). Notifications are sent on day 75. 
+    * Complete the [90-Day New Colleague Self-Assessment](https://forms.gle/vyZeGCfG57BoGuhB9). A notification is sent on day 75 with a reminder to complete the assessment. 
  * **Peers**
     * Complete peer review via the Survey Monkey link you received or using one of the links below: 
      * [Q4 New Colleagues](https://www.surveymonkey.com/r/ZGC7ZN9) - Joined Mattermost between 1 Nov. 2019 to 31 Jan. 2020
