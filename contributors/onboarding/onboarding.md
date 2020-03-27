@@ -22,7 +22,7 @@ Feedback is requested from the new colleague's peers throughout the 90-day Onboa
 TBD
 
 **New Staff Feedback Session with CEO and HR**
-Similar to [CEO listening tours](https://handbook.mattermost.com/operations/operations/company-cadence#ceo-listening-tours) new colleagues will be asked to share [likes and wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes) about anything Mattermost and Onboarding. 
+Similar to [CEO listening tours](https://handbook.mattermost.com/operations/operations/company-cadence#ceo-listening-tours) in this session, new colleagues are asked to share [likes and wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes) about anything related to Mattermost and the Onboarding Program. 
 
 **New Colleague Feedback**
 The 90-Day Feedback provides a [360](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#how-is-feedback-shared) [shoulder check](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check) for new team members, managers and [HR](https://handbook.mattermost.com/operations/workplace/people#team) and MLT to understand and clarify potential blindspots as well as catch potential [brown m&ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms) early on. 
