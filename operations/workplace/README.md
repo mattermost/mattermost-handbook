@@ -58,7 +58,7 @@ The following table lists popular channels for Staff:
 | :--- | :--- | :--- |
 | ANNOUNCE  Asynchronous Announcements | <a href="https://community.mattermost.com/private-core/channels/announcements">Announcements</a> | **Public channel in STAFF team** for making staff-wide announcements |
 | ANNOUNCE  Synchronous Announcements | <a href="https://handbook.mattermost.com/operations/operations/company-cadence\#customer-obsession-meeting-aka-com">Customer Obsession Meeting</a> | **Public channel in STAFF team** for weekly all-staff meeting \(see link in header for more info on "COM", past recordings and materials, etc. |
-| ANNOUNCE  New Staff Announcements | <a href="https://community.mattermost.com/private-core/channels/welcome">Welcome</a> | **Public channel in STAFF team** for announcing and welcoming new staff members |
+| ANNOUNCE  New Staff Announcements | [Welcome](https://community.mattermost.com/private-core/channels/welcome) | **Public channel in STAFF team** for announcing and welcoming new staff members |
 
 ## Channel Naming Conventions
 
