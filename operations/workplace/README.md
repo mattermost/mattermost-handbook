@@ -18,9 +18,9 @@ It has three objectives:
 
 You can reach the server at:
 
-{% embed url="https://community.mattermost.com" caption="" %}
+{% embed url="https://community-release.mattermost.com" caption="" %}
 
-The server is also available via the URL [https://community.mattermost.com](https://community.mattermost.com) which receives the same regular pushes of partially tested code as [https://community-daily.mattermost.com](https://community-daily.mattermost.com) which offers daily builds.
+The server is also available via the URL [https://community-release.mattermost.com](https://community-release.mattermost.com). This server receives regular pushes of features and/or bug fixes of the next release for testing purposes. Additionally, you can use [https://community-daily.mattermost.com](https://community-daily.mattermost.com) which offers daily builds. 
 
 The server has two teams:
 
