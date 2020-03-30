@@ -4,7 +4,7 @@ description: Description of norms on Mattermost Community server
 
 # Workplace
 
-## What is the Mattermost pre-release server?
+## What is the Mattermost Pre-release Server?
 
 The Mattermost pre-release server runs the latest builds of Mattermost's software, including all open source code for Mattermost Team Edition as well as commercial code for Mattermost Enterprise Edition.
 
@@ -38,7 +38,7 @@ A confidential space for [Mattermost staff](../../contributors/contributors/comm
 
 #### Staff Usernames on the Mattermost Server
 
-All Mattermost staff hired after Jan 1, 2020 should have a username in the form of `@[FIRST_NAME]_[LAST_NAME]` for example "Alice Evans" should be `alice.evans`.
+All Mattermost staff members hired after Jan 1, 2020 should have a username in the form of `@[FIRST_NAME]_[LAST_NAME]` for example "Alice Evans" should be `alice.evans`.
 
 If there are duplicate first name and last names, the new person added should add a middle initial in the form of `@[FIRST_NAME].[MIDDLE_INITIAL].[LAST_NAME]` for example, "Alice Janice Evans" who joined after the first Alice Evans would be `@alice.j.evans`.
 
@@ -48,17 +48,17 @@ There are some user accounts that for legacy issues cannot use this format, for 
 
 By default, people's user names and first names trigger mention notifications in Mattermost. This can be distracting if people have the same first names, for example there are multiple people named "Chris" at Mattermost. If you want to mention someone without triggering a notification consider using their three letter initials, for example, "Alice Emily Evans" would be `AEE`.
 
-As an alternative to saying `@alice.evans` using `AEE` lets you refer to the person in passing without pushing an alert to them. For staff members that want to be alerted to even passing mentions of their name, they can opt into that model by creating a [keyword notification](https://docs.mattermost.com/help/messaging/mentioning-teammates.html#words-that-trigger-mentions) on their three letter initials.
+As an alternative to saying `@alice.evans` using `AEE` lets you refer to the person in passing without pushing an alert to them. For staff members that want to be alerted to even passing mentions of their name, they can opt in to that model by creating a [keyword notification](https://docs.mattermost.com/help/messaging/mentioning-teammates.html#words-that-trigger-mentions) on their three letter initials.
 
 ## Key Channels for Staff
 
 The following table lists popular channels for Staff:
 
-| Purpose | Name | Explanation and Link |
+| Purpose | Name | Explanation |
 | :--- | :--- | :--- |
-| ANNOUNCE  Asynchronous Announcements | [Announcements](https://community.mattermost.com/private-core/channels/announcements) | **Public channel in STAFF team** for making staff-wide announcements |
+| ANNOUNCE  Asynchronous Announcements | [Announcements](https://community.mattermost.com/private-core/channels/announcements) | **Public channel in STAFF team** for making staff-wide announcements. |
 | ANNOUNCE  Synchronous Announcements | [Customer Obsession Meeting](https://handbook.mattermost.com/operations/operations/company-cadence\#customer-obsession-meeting-aka-com) | **Public channel in STAFF team** for weekly all-staff meeting \(see link in header for more info on "COM", past recordings and materials, etc. |
-| ANNOUNCE  New Staff Announcements | [Welcome](https://community.mattermost.com/private-core/channels/welcome) | **Public channel in STAFF team** for announcing and welcoming new staff members |
+| ANNOUNCE  New Staff Announcements | [Welcome](https://community.mattermost.com/private-core/channels/welcome) | **Public channel in STAFF team** for announcing and welcoming new staff members. |
 
 ## Channel Naming Conventions
 
