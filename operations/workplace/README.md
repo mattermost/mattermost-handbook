@@ -28,7 +28,7 @@ The server has two teams:
 
 URL: [https://community.mattermost.com/core](https://community.mattermost.com/core/messages/@github)
 
-Available to anyone who'd like to join the server using either an email and password account \([you can sign-up for a free account online](https://pre-release.mattermost.com/signup_user_complete)\) or a Mattermost staff account, which is set up via OneLogin and requires MFA either through OneLogin or Google Authenticator.
+Available to anyone who'd like to join the server using either an email and password account \([you can sign-up for a free account online](https://community.mattermost.com/signup_user_complete)\) or a Mattermost staff account, which is set up via OneLogin and requires MFA either through OneLogin or Google Authenticator.
 
 ### **Staff Team**
 
