@@ -10,9 +10,9 @@ The Mattermost pre-release server runs the latest builds of Mattermost's softwar
 
 It has three objectives:
 
-* Provide a workplace for Mattermost Staff 
-* Test pre-released builds of our core products
-* Engage with our [communities ](../../contributors/contributors/community.md)including contributors and partners 
+* Provide a workplace for Mattermost staff.
+* Test pre-released builds of our core products.
+* Engage with our [communities ](../../contributors/contributors/community.md)including contributors and partners.
 
 **The Mattermost pre-release server is NOT A PRODUCTION SERVER.** It is a live view of work-in-progress and will contain bugs and have occasional downtime.
 
@@ -28,7 +28,7 @@ The server has two teams:
 
 URL: [https://community.mattermost.com/core](https://community.mattermost.com/core/messages/@github)
 
-Available to anyone who'd like to join the server using either an email and password account \([you can sign-up for a free account online](https://pre-release.mattermost.com/signup_user_complete)\) or a Mattermost staff account, which is set up via OneLogin and requires MFA either through OneLogin or Google Authenticator
+Available to anyone who'd like to join the server using either an email and password account \([you can sign-up for a free account online](https://pre-release.mattermost.com/signup_user_complete)\) or a Mattermost staff account, which is set up via OneLogin and requires MFA either through OneLogin or Google Authenticator.
 
 ### **Staff Team**
 
@@ -38,7 +38,7 @@ A confidential space for [Mattermost staff](../../contributors/contributors/comm
 
 #### Staff Usernames on the Mattermost Server
 
-All Mattermost staff hired after Jan 1, 2020 should have a username in the form of `@[FIRST_NAME]_[LAST_NAME]` for example "Alice Evans" should be `alice.evans`
+All Mattermost staff hired after Jan 1, 2020 should have a username in the form of `@[FIRST_NAME]_[LAST_NAME]` for example "Alice Evans" should be `alice.evans`.
 
 If there are duplicate first name and last names, the new person added should add a middle initial in the form of `@[FIRST_NAME].[MIDDLE_INITIAL].[LAST_NAME]` for example, "Alice Janice Evans" who joined after the first Alice Evans would be `@alice.j.evans`.
 
