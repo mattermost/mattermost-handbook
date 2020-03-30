@@ -129,7 +129,7 @@
 * [MatterCon](contributors/mattercon/README.md)
   * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
 
-## Staff Experience
+## Staff Experience \[WIP\] <a id="staff-experience"></a>
 
 * [1. About the Handbook](staff-experience/1.-about-the-handbook/README.md)
   * [\[Keep existing\]](staff-experience/1.-about-the-handbook/keep-existing.md)
