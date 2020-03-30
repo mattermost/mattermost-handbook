@@ -20,7 +20,7 @@ You can reach the server at:
 
 {% embed url="https://pre-release.mattermost.com" caption="" %}
 
-The server is also available via the URL [https://community.mattermost.com](https://community.mattermost.com) which receives the same regular pushes of partially tested code as [https://pre-release.mattermost.com](https://pre-release.mattermost.com) and [https://daily-community.mattermost.com](https://daily-community.mattermost.com) which offers daily builds.
+The server is also available via the URL [https://community.mattermost.com](https://community.mattermost.com) which receives the same regular pushes of partially tested code as [https://pre-release.mattermost.com](https://pre-release.mattermost.com) and [https://community-daily.mattermost.com](https://daily-community.mattermost.com) which offers daily builds.
 
 The server has two teams:
 
