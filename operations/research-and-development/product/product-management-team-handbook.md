@@ -14,6 +14,7 @@ The purpose of this playbook is to provide more details on the Product Manager r
 
 | Date | Edited By | Change Notes |
 | :--- | :--- | :--- |
+| 3/31/2020 | Lindsay Brock | Add level descriptions |
 | 2/5/2020 | Adam Clarkson | Added notes on Customer Request Rotation |
 | 2/2/2020 | Katie Wiersgalla | Updated Twitter, Customer Requests, PM meetings |
 | 8/30/2019 | Katie Wiersgalla | Update sections with additional resources |
@@ -30,12 +31,12 @@ Product Managers are organized within the R&D area of Mattermost; however, they 
 
 Product Managers are responsible for carrying out the strategic priorities of the product. They are tasked with ensuring the product is profitable by meeting customers and users existing and future needs. Understanding that each client and user have their own set of specific requirements, use cases, and preferences; a Product Manager must understand the patterns across a broad range of input and focus on exploiting value in the areas that will provide the greatest return for the largest audience.
 
-### Guiding Principles for the PM role
+### Guiding Principles for the PM role (WIP) 
 
 * [Company Values](https://docs.mattermost.com/process/handbook.html#values)
 * Mindsets
-  * Other background reading / books
-  * 
+* Recommended Reading
+* 
 * What fundamental philosophies are predominant?
   * Pragmatic Marketing: “Your opinion, although interesting, is irrelevant.”
     * It’s all about the customer/user/buyer’s opinion/want/need
@@ -48,11 +49,56 @@ Product Managers are responsible for carrying out the strategic priorities of th
 
 ## Recruiting - WIP
 
-### “The ideal candidate”
+### “The ideal candidate” (WIP) 
 
 * Skills
 * Experience
 * Mindset
+
+### Levels
+
+#### Product Manager I
+
+Owns an area of the product end to end. Influences and executes defined projects across strategy, engineering and marketing functions.
+
+Given product goals, recommends product suggestions and priorities. Shows good judgment when prioritizing work, and effectively articulates the rationale behind it. Works with design, developers, and testers (including both staff and contributors) to align on priorities and execute on roadmap plans. Adept at making suggestions to help their team work in a high impact way. Asks questions and provides feedback that helps raise the quality bar of the team’s work as a whole.
+
+Effectively communicates with marketing, sales, and support teams to ensure the successful launch of feature and projects with some guidance and support from more senior product managers. Highly responsive to questions about product and roadmap questions, they act as a liaison by representing their team to other departments. Works with support team to address issues and document solutions and best practices. Demos new product features effectively on customer calls. Can effectively articulate key product differentiators based on their knowledge of the market and competitors. Communicates with customers to validate designs and product ideas. When gathering feature suggestions and feedback, makes sure to identify the underlying need driving requests.
+
+Learns new skills and establishes goals and context quickly by asking precise questions. Proactively provides project status updates. Gets things done, doesn’t drop the ball. 
+
+
+#### Product Manager II
+
+Owns a large area of the product end to end. 
+
+Participates in defining product goals, quantitative and qualitative, for area of ownership, and recommends product and roadmap plans to achieve that goal. Works with design, developers, and testers (including both staff and contributors) to align on priorities and execute on roadmap plans. Highly skilled at identifying potential blind spots, and taking action to mitigate risk.
+
+Highly valued by the sales team, marketing, and support teams for their quality work and feedback. They ensure business value for product and roadmap are communicated effectively externally. Provides demos, demo training and sales support working with field teams to win and expand customer accounts. Demonstrates strong insights about our customers, based on a deep knowledge acquired through strong customer research skills. Gathers data effectively from sales and support teams to make good decisions.
+
+Drops fluidly into different projects, ramps quickly and contributes to successful outcomes. Makes good teams great.
+
+#### Senior Product Manager
+
+Uses deep knowledge of customer, product, competitors and market to define, own and lead a product or significant product areas across strategy, engineering and marketing functions.
+
+Recommends product goals for their area of ownership, and influences high level goals for the product in general. Develops, socializes and articulates compelling product roadmap and aligns processes and people to deliver it at high quality. Beneficially influences pricing, packaging, positioning and messaging decisions from the perspective of a product owner. 
+
+Sought after throughout the organization as a spokesperson for product value and roadmap. 
+
+A highly respected authority by colleagues across the company and the community, they are someone who others look to for advice and mentorship. Has the ability to train and significantly develop product management related skills in colleagues and new hires
+
+#### Lead Product Manager 
+
+Manages other product managers. Accountable for leading teams and defining responsibilities and deliverables of individual contributors and ensuring their success. Given ambiguous or high level direction, lays out vision and plan to deliver successful outcomes.
+
+Participates in team planning, recruiting, hiring and onboarding processes and effectively influences candidates to join the company. Develops a pipeline of recruiting candidates by building relationships with the community. 
+
+Responsible for setting vision and direction for their area of ownership, and for acting as a spokesperson for product value and roadmap internally and externally.
+
+#### Principal Product Manager
+
+Sought out as an authority in the industry, influencing industry direction and standards through the development and dissemination of thought leadership work, and through the building of world-class products. Sets and delivers long term vision for entire products and product lines. Works fluidly across departments to set organizational objectives and direction. Engages with peers in external organizations to shape joint plans for key initiatives. Rapidly understands disparate viewpoints across different functions and departments, and aligns thinking and efforts to influence the direction of large scale cross-departmental efforts.
 
 ### Recruiting process
 
