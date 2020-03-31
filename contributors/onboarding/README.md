@@ -42,5 +42,5 @@ This is not a formal performance review. The intent is to align expectations and
       * [90-Day New Colleague Self-Assessment. Start dates: Nov. 2019 - Jan 2020](https://www.surveymonkey.com/r/90daySelfAssessmentQ4FY20). 
  * **Peers**
     * Complete peer review via the Survey Monkey link you received or using one of the links below: 
-     * [Q4 New Colleagues](https://www.surveymonkey.com/r/ZGC7ZN9) - Joined Mattermost between 1 Nov. 2019 to 31 Jan. 2020
+      * [Q4 New Colleagues](https://www.surveymonkey.com/r/ZGC7ZN9) - Joined Mattermost between 1 Nov. 2019 to 31 Jan. 2020.
      * Q1 FY21 New Colleagues - link tbd
