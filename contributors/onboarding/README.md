@@ -8,7 +8,7 @@ description: >-
 
 Welcome to Mattermost Onboarding! The goal of the Onboarding program is to welcome and enable new colleagues into a safe and compliant working environment with a strong sense of belonging within their first 90 days at Mattermost. 
 
-Onboarding is an all-company partnership between a new colleague and Mattermost. Specifically, a new colleague’s manager, functional and working teams, onboarding [peers](https://docs.google.com/document/d/1DQULEvgOhGeEGLTzdOlSvo858vo94zmnMN8sygi-lHk/edit?ts=5e21f202), [HR](https://handbook.mattermost.com/operations/workplace/people#team) and MLT. 
+Onboarding is an all-company partnership between a new colleague and Mattermost. Specifically this includes a new colleague’s manager, functional and working teams, onboarding [peers](https://docs.google.com/document/d/1DQULEvgOhGeEGLTzdOlSvo858vo94zmnMN8sygi-lHk/edit?ts=5e21f202), [HR](https://handbook.mattermost.com/operations/workplace/people#team) and MLT. 
 
 ### Post-Onboarding Readiness 
 
