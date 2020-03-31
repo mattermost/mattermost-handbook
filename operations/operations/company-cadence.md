@@ -111,10 +111,11 @@ After the prep meeting, Vice Chair posts a screenshot of the final agenda into t
 
 Every 6 months we'll be asking staff to spend around 3 minutes completing a staff enablement survey of 12 engagement questions, plus identifying their organizational leader. ‌
 
-* Survey is announced in COM meeting
+* Enablement Survey will be announced in COM meeting 1-week before the survey goes live
+* Survey link will be shared at the beginning of COM 
 * Link is posted in COM channel with "Thumbs Up" emoji reaction
 * All staff are asked to complete the survey and signal completion by clicking on Thumbs Up
-* Meeting is concluded after Thumbs Up count reaches attendee count
+* Ideally, the meeting will conclude after Thumbs Up count reaches attendee count but this is not a requirement. 
 * An analysis of the results should be prepared and presented in the next 2-4 weeks in COM
 
 Links to previous staff enablement surveys:
