@@ -113,7 +113,7 @@ Every 6 months we'll be asking staff to spend around 3 minutes completing a staf
 
 * Enablement Survey will be announced in COM meeting one week before the survey goes live.
 * The survey link will be shared at the beginning of COM.
-* The link is posted in COM channel with "Thumbs Up" emoji reaction.
+* The link will be posted in the COM channel with "Thumbs Up" emoji reaction.
 * All staff are asked to complete the survey and signal completion by clicking on "Thumbs Up".
 * Ideally, the meeting will conclude after "Thumbs Up" count reaches attendee count but this is not a requirement. 
 * An analysis of the results should be prepared and presented within the next 2 - 4 weeks in COM.
