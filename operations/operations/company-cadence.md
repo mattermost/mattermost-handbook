@@ -116,7 +116,7 @@ Every 6 months we'll be asking staff to spend around 3 minutes completing a staf
 * Link is posted in COM channel with "Thumbs Up" emoji reaction
 * All staff are asked to complete the survey and signal completion by clicking on "Thumbs Up".
 * Ideally, the meeting will conclude after Thumbs Up count reaches attendee count but this is not a requirement. 
-* An analysis of the results should be prepared and presented in the next 2-4 weeks in COM
+* An analysis of the results should be prepared and presented within the next 2 - 4 weeks in COM.
 
 Links to previous staff enablement surveys:
 
