@@ -26,6 +26,7 @@ TBD
 Similar to [CEO listening tours](https://handbook.mattermost.com/operations/operations/company-cadence#ceo-listening-tours) in this session, new colleagues are asked to share [likes and wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes) about anything related to Mattermost and the Onboarding Program. 
 
 **New Colleague Feedback**
+
 The 90-Day Feedback provides a [360](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#how-is-feedback-shared) [shoulder check](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check) for new team members, managers, [HR](https://handbook.mattermost.com/operations/workplace/people#team), and MLT to understand and clarify potential blindspots as well as catch potential [brown M&Ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms) early on. 
 
 This is not a formal performance review. The intent is to align expectations and improve performance early on. Peer feedback is not anonymous. Managers may request additional context from the panel to help increase the new colleague's performance and Post-Onboarding Readiness. Managers should evaluate the peer feedback against their own expectations of the new colleague's role. In some cases, expectations may need to be reset with peers. Uncovering blindspots early on helps avoid future confusion or misaligned efforts. 
