@@ -111,11 +111,12 @@ After the prep meeting, Vice Chair posts a screenshot of the final agenda into t
 
 Every 6 months we'll be asking staff to spend around 3 minutes completing a staff enablement survey of 12 engagement questions, plus identifying their organizational leader. ‌
 
-* Survey is announced in COM meeting
-* Link is posted in COM channel with "Thumbs Up" emoji reaction
-* All staff are asked to complete the survey and signal completion by clicking on Thumbs Up
-* Meeting is concluded after Thumbs Up count reaches attendee count
-* An analysis of the results should be prepared and presented in the next 2-4 weeks in COM
+* The enablement survey will be announced in COM one week before the survey goes live.
+* The survey link will be shared at the beginning of COM.
+* The link will be posted in the COM channel with "Thumbs Up" emoji reaction.
+* All staff are asked to complete the survey and signal completion by clicking on "Thumbs Up".
+* Ideally, the meeting will conclude after "Thumbs Up" count reaches attendee count but this is not a requirement. 
+* An analysis of the results should be prepared and presented within the next 2 - 4 weeks in COM.
 
 Links to previous staff enablement surveys:
 
@@ -133,4 +134,3 @@ At the end of the session CEO reads back what they heard. The notes are shared w
 It is the decision of managers on how to address the feedback at the team level and CEO will be able to incorporate the information at the company level.
 
 In the past, participants and managers of listening tours have found the meetings productive for uncovering blindspots at the company and within departments.
-
