@@ -1,6 +1,6 @@
-# Writing an MVP
+# Writing and submitting documentation with your PR
 
-Our technical documentation lives at [docs.mattermost.com](https://docs.mattermost.com), primarily written using ReStructured Text, using Sphinx and Write The Docs as our build and theme tools. 
+Our user, admin, and technical documentation lives at [docs.mattermost.com](https://docs.mattermost.com), primarily written using ReStructured Text, using Sphinx and Write The Docs as our build and theme tools. 
 
 If your PR is for a new feature, major update to an existing feature, or a fix that impacts the current documentation, it's recommended that you include documentation around the change. This is helpful in providing context for reviewers, and also expedites the content being added to the technical documentation. 
 
