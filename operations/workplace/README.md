@@ -11,7 +11,7 @@ The Mattermost pre-release server runs the latest builds of Mattermost's softwar
 It has three objectives:
 
 * Provide a workplace for Mattermost staff.
-* Test pre-released builds of our core products.
+* Test work-in-progress builds of our core products.
 * Engage with our [communities ](../../contributors/contributors/community.md)including contributors and partners.
 
 **The Mattermost Community server is NOT A PRODUCTION SERVER.** It is a live view of work-in-progress and will contain bugs and have occasional downtime.
