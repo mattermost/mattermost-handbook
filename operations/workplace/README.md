@@ -4,7 +4,7 @@ description: Description of norms on Mattermost Community server
 
 # Workplace
 
-## What is the Mattermost Pre-release Server?
+## What is the Mattermost Community Server?
 
 The Mattermost pre-release server runs the latest builds of Mattermost's software, including all open source code for Mattermost Team Edition as well as commercial code for Mattermost Enterprise Edition.
 
