@@ -18,7 +18,7 @@ Customer Web Portal will provide a portal for customers to self-serve product pu
 
 
 ## blapi (Business Logic API)
-blapi is responsible for surfacing billings, licensing, and customer data to the Customer Web Portal, generating required records in SFDC to enable reporting and sales processes, and converting SFDC records to information required to run Customer Web Portal.
+blapi is responsible for surfacing billings, licensing, and customer data to the Customer Web Portal, generating required records in SFDC to enable reporting and sales processes, converting SFDC records to information required to run Customer Web Portal, and lastly charging credit cards in Stripe.
 * [blapi Documentation](https://docs.google.com/document/d/1Qj_NyQIVYOmOraNkSWUKpM_Cz9Oq9K1HKDz689M4gkA/edit?usp=sharing)
 * [OpenAPI Schema](https://github.com/mattermost/blapi/blob/master/openapi.json)
 
