@@ -87,6 +87,7 @@
       * [Explores](operations/business-operations/analytics/looker/explores.md)
     * [Targets](operations/business-operations/analytics/targets.md)
   * [Data Engineering](operations/business-operations/data-engineering.md)
+  * [Self Service](operations/business-operations/self-service.md)
   * [Salesforce Administration](operations/business-operations/salesforce-administration.md)
 * [Finance](operations/finance/README.md)
   * [Naming Files and Agreements](operations/finance/naming-files-and-agreements.md)
