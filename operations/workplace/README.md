@@ -14,7 +14,7 @@ It has three objectives:
 * Test pre-released builds of our core products.
 * Engage with our [communities ](../../contributors/contributors/community.md)including contributors and partners.
 
-**The Mattermost pre-release server is NOT A PRODUCTION SERVER.** It is a live view of work-in-progress and will contain bugs and have occasional downtime.
+**The Mattermost Community server is NOT A PRODUCTION SERVER.** It is a live view of work-in-progress and will contain bugs and have occasional downtime.
 
 You can reach the server at:
 
