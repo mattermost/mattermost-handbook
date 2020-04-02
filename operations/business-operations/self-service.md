@@ -1,8 +1,7 @@
 # Self-Service
 
 
-![](https://github.com/mattermost/mattermost-handbook/blob/rbradleyhaas/.gitbook/assets/self-service.png)
-
+![](../../.gitbook/assets/self-service.png)
 
 #### Self Service will be enabled throught the combined capabilities of three ongoing projects
 * Customer Web Portal
