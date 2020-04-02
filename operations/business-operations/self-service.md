@@ -22,8 +22,8 @@
 
 
 ## Current Phases Being Scope
-* Phase 1: Purchases Under $5k
-* Phase 2: Renewals and Upgrades Under $5k
-* Phase 3: Mattermost Private Cloud Beta Trial
-* Phase 4: Co-Termed Expansion / True-Up Automation
-* Phase 5: Advanced Organization & Account Management
+* **Phase 1:** Purchases Under $5k
+* **Phase 2:** Renewals and Upgrades Under $5k
+* **Phase 3:** Mattermost Private Cloud Beta Trial
+* **Phase 4:** Co-Termed Expansion / True-Up Automation
+* **Phase 5:** Advanced Organization & Account Management
