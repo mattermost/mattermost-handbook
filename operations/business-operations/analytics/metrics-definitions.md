@@ -229,7 +229,7 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 
 * **Solved -** Support agent provides a solution to the customer. Status in the solved status for 48 hours before it is set to “Closed” status While the ticket is in a “Solved” status any response from the customer will re-open the ticket.
 
-* **Closed -** The support agent provides the customer with a solution that resolves their issue. A response to the ticket will open a new ticket.
+* **Closed -** If no response is recorded a ticket in a Solved status will be set to Closed automatically after 48 hours. A response to the ticket will open a new ticket.
 
 #### Ticket Level
 
@@ -245,7 +245,7 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 
 * **First reply time:** The duration between ticket creation and the first public agent reply on the ticket. 
 
-* **Next reply time:** The duration between ticket's first reply time and next reply time.
+* **Next reply time:** The duration between ticket's first reply time and next reply time, unless otherwise communicated.
 
 ##### SLA's
 
