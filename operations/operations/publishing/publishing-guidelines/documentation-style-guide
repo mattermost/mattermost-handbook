@@ -41,16 +41,12 @@ help them decide if the document is the one that they want.
 If the document contains more than four sections or subsections, add a table of contents to help the user
 navigate the document, see :ref:`table-of-contents`.
 
-### Introductory Paragraph
+### Introductory paragraph
 
 Each page should have an introduction that acts as a short description of the document. The short description
 should be a single paragraph of no more than three sentences. 
 
-### Contents
-
-### Screenshots 
-
-## Using ReStructuredText Markup (rst)
+## Using ReStructuredText markup (rst)
 
 The reStructuredText specification allows for a certain degree of flexibility in 
 markup to achieve your goals. For example, you can use any one of more than a dozen characters for 
@@ -61,40 +57,38 @@ where Markdown is used.
 
 Use the following markup conventions in Mattermost documentation:
 
-Page Titles
------------
+### Page titles
 
 Underline page titles using `=`, with no overline. Underlines should be as long as the title text. For example:
 
-.. code-block:: none
+.. code-block:: sh
 
-  Document Title
+  Document title
   ==============
 
-Section Titles
---------------
+### Section titles
+
 
 Underline using `-` for section titles. For example:
 
-.. code-block:: none
+.. code-block:: sh
 
-  Section Title
+  Section title
   -------------
 
 Underline subsections using `~` for the first subsection level, and `^` for the second subsection level. For example:
 
-.. code-block:: none
+.. code-block:: sh
 
-  Subsection One
+  Subsection one
   ~~~~~~~~~~~~~~
 
-  Subsection Two
+  Subsection two
   ^^^^^^^^^^^^^^
 
 .. _table-of-contents:
 
-Table of Contents
------------------
+### Table of contents
 
 Insert a table of contents into a document using the following format:
 
@@ -103,8 +97,7 @@ Insert a table of contents into a document using the following format:
   .. contents::
       :backlinks: top
 
-Inline Markup
--------------
+### Inline Markup
 
 Bold
   Use double asterisks. For example: ``**bold text**``.
@@ -115,14 +108,11 @@ Italic
 Monospace
   Use double backquotes. For example: ````monospace text````
 
-.. _arbitrary-text-label:
-
-Bullet Lists
-------------
+### Bullet lists
 
 For bullet lists and sublists, use ``-`` before the list item. For example:
 
-.. code-block:: none
+.. code-block:: sh
 
   - list item one
   - list item two
@@ -130,8 +120,7 @@ For bullet lists and sublists, use ``-`` before the list item. For example:
     - sublist item two
   - list item three
 
-Numbered Lists and Procedure Steps
-----------------------------------
+### Numbered lists and procedure steps
 
 Create numbered lists and procedure steps using numbers for the top-level list and lower case alpha characters for the first nested list. For example:
 
@@ -145,35 +134,30 @@ Create numbered lists and procedure steps using numbers for the top-level list a
 
   3. This is item three.
 
-Name-value Groups
------------------
+### Name-value groups
 
 To create a name-value group such as a definition list, type the term on a line by itself. On the next line, indent the definition. For example:
 
-.. code-block:: none
+.. code-block:: sh
 
   Total Users
     The total number of active accounts created on your system. Excludes inactive accounts.
   Total Teams
     The total number of teams created on your system.
 
-External Links
----------------
+### External links
 
 URLs are automatically rendered as links in Sphinx; however, where possible, it is preferred that hyperlinks are created within the text of a sentence. Hyperlinks within a sentence can be created using the following formatting:
 
 ``Link display text <URL-of-website>`__``, for example:
 
-.. code-block:: none
+.. code-block:: sh
 
   `Mattermost Manifesto <https://www.mattermost.org/manifesto/>`__
 
 The link renders as: `Mattermost Manifesto <https://www.mattermost.org/manifesto/>`__
 
-.. _relative-links-in-rst:
-
-Internal Links to Mattermost Docs
-----------------------------------
+### Internal links to Mattermost documentation
 
 The Sphinx processor extends reStructuredText to implement references, called roles, to locations within a documentation set. The two roles that are relevant in Mattermost documentation are the ``:doc:`` role and the ``:ref:`` role.
 
@@ -193,8 +177,7 @@ The ``:ref:`` role is a two-part construct. One part is the link itself, and the
 
   .. _arbitrary-text-label:
 
-  Bullet Lists
-  ------------
+### Bullet Lists
 
 To generate a link to the section, use the ``:ref:`` role as follows:
 
@@ -204,8 +187,7 @@ To generate a link to the section, use the ``:ref:`` role as follows:
 
 The Sphinx processor creates a relative link to the section, and uses the section title as the link text. On output, the link looks like this: "For more information about bullet lists, see :ref:`arbitrary-text-label`."
 
-Images
-------
+### Images
 
 Use the following construct to insert an image:
 
@@ -242,8 +224,7 @@ Then insert the following image directive at the bottom of the document:
 
 .. _literal-blocks:
 
-Literal Blocks
---------------
+### Literal blocks
 
 To use a literal block with no syntax highlighting, use the Sphinx code-block directive with the language set to ``none``. For example:
 
