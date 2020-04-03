@@ -213,6 +213,71 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 * Mattermost's NPS is based off of a 1-10 ranking provided by customers
   * If customers provide rankings 2+ times in a day, the last ranking of the day is used for NPS
 
+## Support Tickets
+
+### Definitions
+
+#### Ticket Status
+
+* **New -** Ticket created that has not been assigned a support agent.
+
+* **Pending -** The support agent asks the customer a question and is waiting for their response.
+
+* **Pending - Do not Close -** Checkbox on the ticket. This is used for tickets that are expected to be open for a long period of time. This stops the clock. Examples are customer requests ticket remain open after a solution is provided, the customer is on vacation, or the customer is out ill.
+
+* **On Hold -** The support agent reaches out to an internal team and is waiting to hear back. Any ticket that is tied to a JIRA ticket is placed on hold. Internal teams include product, development or customer success.
+
+* **Solved -** Support agent provides a solution to the customer. Status in the solved status for 48 hours before it is set to “Closed” status While the ticket is in a “Solved” status any response from the customer will re-open the ticket.
+
+* **Closed -** The support agent provides the customer with a solution that resolves their issue. A response to the ticket will open a new ticket.
+
+#### Ticket Level
+
+* **Level 1: Critical Business Impact:** Critical issue on production system preventing business operations. A large number of users are prevented from working, and no procedural workaround is available.
+
+* **Level 2: Major Business Impact:** Major issue on the production system severely impacting business operations.
+
+* **Level 3: Moderate Business Impact:** Moderate issue causing a partial or non-critical loss of functionality on the production system. A small number of users are affected.
+
+* **Level 4: Minor Business Impact:** Minor issue on non-production system or question, comment, feature request, documentation issue or other non-impacting issues.
+
+#### Ticket Measures
+
+* **First reply time:** The duration between ticket creation and the first public agent reply on the ticket. 
+
+* **Next reply time:** The duration between ticket's first reply time and next reply time.
+
+##### SLA's
+
+###### First Reply Time - Premium and E20 only
+
+**Premium**
+* L1 - 1 hour
+* L2 - 2 hours
+* L3 - 8 hours
+* L4 - 24 hours
+
+**E20**
+* L1 - 4 hours
+* L2 - 8 hours
+* L3 - 24 hours
+* L4 - next business day
+
+###### Next Reply Time
+
+**Premium**
+* L1 - 2 hours
+* L2 - 4 hours
+* L3 - 24 hours
+* L4 - 24 hours
+
+**E20**
+* L1 - 4 hours
+* L2 - 8 hours
+* L3 - 24 hours
+* L4 - 24 hours
+
+
 ## TEDAS
 
 TEDAS stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique, [production servers](metrics-definitions.md#server-considerations) sending telemetry \(“activity"\) data to Mattermost on a given date. Each component of TEDAS can be described as follows:
