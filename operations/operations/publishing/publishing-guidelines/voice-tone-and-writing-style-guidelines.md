@@ -59,7 +59,7 @@ Spell out numbers when the number is the first word in a sentence or is less tha
 
 **Punctuation: Commas**
 
-We use the Oxford (serial) comma in our documentation. For example: "Mattermost's writing style is clear, concise, and simple" as opposed to "Mattermost's writing style is clear, concise and simple".)
+We use the Oxford (serial) comma in our documentation. For example: "Mattermost's writing style is clear, concise, and simple" as opposed to "Mattermost's writing style is clear, concise and simple").
 
 **Capitalization**
 
