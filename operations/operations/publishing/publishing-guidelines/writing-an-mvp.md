@@ -13,7 +13,7 @@ You can contribute documentation in one of the following ways:
 We don't expect a huge body of documentation or that it's perfectly-written - but rather a clear, concise outline of the change which can be added to our documentation. The content can be provided as a list, or you can use the example below for content and structural guidance if your documentation is quite detailed:
 
 ```
-## Introduction and Context
+## Introduction and context
 *Details of the current feature/function and what the contribution fixes or adds. This can be presented as bullet points. For example:*
 "This adds a new property to be used by the desktop app in the same way other properties are being used for the user profile view. This change is part of the configuration settings in System Console and is also included in the CLI."
 
@@ -27,7 +27,7 @@ We don't expect a huge body of documentation or that it's perfectly-written - bu
 For the CLI, the following parameters needs to be added: 
 (include parameter/s)
 
-## Code Samples (if applicable)
+## Code samples (if applicable)
 *Include any code samples that should be included in the user-facing documentation.*
 
 ## Troubleshooting/Known Issues (if applicable)
