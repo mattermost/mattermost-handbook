@@ -339,6 +339,10 @@ TEDAU is the rolling 7-day average sum of active users for only verified product
 
 The distinction between an individual server's Telemetry-Enabled Active Users and the TEDAU metric is important to note. Telemetry-Enabled Active Users are the collection of users hosted by a telemetry-enabled production server, that have visited the Mattermost site in the last 24 hours. The TEDAU metric is the rolling 7-day average sum of these users across all servers.
 
+## Server Activations
+
+A **Server Activation** is defined as the first date a production server sends telemetry data to Mattermost. In order to send telemetry data to Mattermost, a production server must be setup and activated by the end user. When a production server is first activated its telemetry feature is automatically enabled, which sends security diagnostics information to Mattermost via Segment (soon transitioning to Rudder). The server will continue to send this information on a daily basis until this telemetry feature is disabled by a system admin. A server activation is only captured and counted on the first telemetry-enabled date associated with a specific server.
+
 ## Monthly Active Users
 
 **Monthly Active Users \(MAU\)** are users that have performed an event on or within 30 days of a given date. User events are triggered when a user interacts with the Mattermost platform from their desktop or mobile device. After a user performs an event, that user will remain in MAU for 30 days. After that time the user will fall out of MAU and be classified as "Disengaged".
