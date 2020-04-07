@@ -21,6 +21,8 @@ description: 50% Draft
 * Release Manager reviews the outline \(benefits and order of features\) with PMs before sending to Justin to work on
   * Ask PMs to share specs or other details on why the features we are shipping were built, so that it is easier for marketing to identify which 1-2 features are highlighted in the title
 * Release Manager and PMs decide which sections of the release announcement will have an accompanying screenshot/photo
+* Release Manager leads the team to arrive at a decision on the theme / main highlight for the blog post. Consult with marketing and PM leads for final approval
+  * Take into consideration whether a feature is highly requested, what is the overall impact of all marketed features, and whether a feature is at risk of being cut
 
 ### B. \(T-minus 8 working days\) First Draft
 
@@ -71,8 +73,9 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    3. Clarify type of release \(feature or quality\) in the paragraph that follows feature one-liners
    4. MVP winner and security note \(if applicable\) are included
    5. All features PM team wants to highlight are included
-      1. **\(PM team owns\)** Check for technical accuracy and statement of benefits 
-   6. \(**Author owns\)** All contributors are recognized with a screenshot 
+      1. **\(PM team owns\)** Check for technical accuracy and statement of benefits
+   6. The audience is primarily focused on admins, then end users
+   7. \(**Author owns\)** All contributors are recognized with a screenshot 
       1. Names should not be red-underlined \(if they are, add them to the dictionary prior to taking a screenshot\)
       2. Screenshot not surrounded by a border
       3. Below the screenshot, include a text version of their names in small font with a link to their GitHub handle
@@ -83,7 +86,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
          1. **High** - Beautiful, highly compelling, grabs attention in a social stream 
          2. **Medium** - Tells a story clearly, readable text, right size 
          3. **Low** - Bare minimum to call an image 
-   3. **\(Author owns\)** Draft Tweet text for all screenshots included
+   3. **\(Author owns\)** Draft Tweet text for all screenshots and MVP winner included
       1. Contains version hashtag, e.g. \#mm520
 
 ## **Style Guidelines**
@@ -112,4 +115,3 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 [Example of tweet using banner template](https://twitter.com/iantien/status/1217457762772238336)
 
 ![Screenshot for templates for announcements and Twitter banners, including guides](https://github.com/mattermost/mattermost-handbook/tree/33fb27c5f66665428f18fa12f47a8e867cc56e09/.gitbook/assets/image%20%2862%29.png)
-
