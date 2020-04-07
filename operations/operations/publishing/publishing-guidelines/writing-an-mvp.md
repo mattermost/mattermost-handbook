@@ -2,13 +2,13 @@
 
 Our user, admin, and technical documentation lives at [docs.mattermost.com](https://docs.mattermost.com), primarily written using ReStructured Text, using Sphinx and Write The Docs as our build and theme tools. 
 
-If your PR is for a new feature, major update to an existing feature, or a fix that impacts the current documentation, it's recommended that you include documentation around the change. This is helpful in providing context for reviewers, and also expedites the content being added to the technical documentation. 
+If your PR is for a new feature, major update to an existing feature, or a fix that impacts the current documentation, it's recommended that you include documentation around the change. This is helpful in providing context for reviewers, and also ensures the content can be added to the documentation quickly. 
 
 You can contribute documentation in one of the following ways: 
 
-* Update the relevant page in the technical documentation, and submit a PR for that. This PR is submitted to the docs repo, is reviewed by the relevant team members, and merged from there. 
+* Update the relevant page on [docs.mattermost.com](https://docs.mattermost.com), and submit a PR for that. This PR is submitted to the docs repo, is reviewed by the relevant team members, and merged from there. 
 
-* Submit the documentation as a new file, including the context and changes, any code samples, and processes. You can submit this as part of your PR, or you can open a new PR in the docs repo and include a link to your open code PR. 
+* Submit your documentation as a new file, including the context and changes, any code samples, and processes. You can submit this as part of your PR, or you can open a new PR in the docs repo and include a link to your open code PR. 
 
 We don't expect a huge body of documentation or that it's perfectly-written - but rather a clear, concise outline of the change which can be added to our documentation. The content can be provided as a list, or you can use the example below for content and structural guidance if your documentation is quite detailed:
 
@@ -37,4 +37,4 @@ For the CLI, the following parameters needs to be added:
 
 Once your PR is submitted, there's a review process that includes an editorial review, a PM review, and sometimes a dev review. During the editorial review, editors may make punctuation and/or terminology changes and commit them to save time on the review process. This only applies to punctuation/terminology - content suggestions and questions will follow the usual review and discussion process.
 
-Once the review is complete, we'll move your documentation contribution to the appropriate part of the guide (if it's not there already) and then merge it. We'll share the URL and you can edit it at any time if you need to.
+Once the review is complete, we'll move your contribution to the appropriate part of [docs.mattermost.com](https://docs.mattermost.com) (if it's not there already) and then merge it. We'll share the URL and you can edit it at any time if you need to.
