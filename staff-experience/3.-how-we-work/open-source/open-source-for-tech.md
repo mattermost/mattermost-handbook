@@ -1,2 +1,0 @@
-# Open source for tech
-

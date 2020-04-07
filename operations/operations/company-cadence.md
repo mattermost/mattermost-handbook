@@ -64,9 +64,7 @@ This is a weekly all-staff meeting focused on increasing alignment and awareness
     </tr>
   </thead>
   <tbody></tbody>
-</table>Note: T-minus counts are measured in "working days" \(weekdays, Monday through Friday\) prior to meeting day.
-
-**1 - T-4:** Chair and Vice Chair meet to prepare agenda and actions to prepare for meeting. Vice Chair posts draft agenda to [Customer Obs Prep channel](https://community-release.mattermost.com/private-core/channels/cust-obs-prep) and labels it as 1% draft.
+</table>**1 - T-4:** Chair and Vice Chair meet to prepare agenda and actions to prepare for meeting. Vice Chair posts draft agenda to [Customer Obs Prep channel](https://community-release.mattermost.com/private-core/channels/cust-obs-prep) and labels it as 1% draft.
 
 1. Vice Chair works 1-1 with presenters to prepare for them.
 2. Team members can share  meeting agenda topics with Vice Chair via direct message. Must be shared at least 24 hours prior to meeting start and be aligned with the meeting objectives above.
@@ -134,3 +132,4 @@ At the end of the session CEO reads back what they heard. The notes are shared w
 It is the decision of managers on how to address the feedback at the team level and CEO will be able to incorporate the information at the company level.
 
 In the past, participants and managers of listening tours have found the meetings productive for uncovering blindspots at the company and within departments.
+

@@ -91,3 +91,4 @@ The Mattermost website is developed with the following architecture:
 * Case Studies
 * Resources, including training and blog
 * Docs, including installation and configuration
+
