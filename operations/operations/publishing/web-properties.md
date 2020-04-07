@@ -8,11 +8,11 @@ Below is a summary of our public web properties, including their target content,
 
 | Domain | Content | Publishing System | Content Owner | Quality Control Owner |
 | :--- | :--- | :--- | :--- | :--- |
-|  | Technical product documentation for end users, administrators and developers | Exploring Hugo with Markdown\*\* | [Justine Geffen](http://github.com/justinegeffen) | [Justine Geffen](http://github.com/justinegeffen) and [Amy Blais](http://github.com/amyblais) |
-|  | Technical articles, guides, videos, and courses | Exploring Hugo with Markdown\*\* | [Jeff Wayman](http://github.com/jwayman) | [Jeff Wayman](http://github.com/jwayman) |
-|  | Contributor documentation and relevant community communications | Exploring Hugo with Markdown\*\* | [Joram Wilander](http://github.com/jwilander) | [Joram Wilander](http://github.com/jwilander) |
-|  | Self-service support content, including knowledge-based FAQs | TBD | Craig Willis | Craig Willis |
-| handbook.mattermost.com | Internal processes for company operations and recruiting | GitBook with Markdown | [Jason Blais](http://github.com/jasonblais) | [Justine Geffen](http://github.com/justinegeffen) and [Amy Blais](http://github.com/amyblais) |
+| docs.mattermost.com | Technical product documentation for end users, administrators and developers | Exploring Hugo with Markdown\*\* | [Justine Geffen](http://github.com/justinegeffen) | [Justine Geffen](http://github.com/justinegeffen) and [Amy Blais](http://github.com/amyblais) |
+| TBD | Technical articles, guides, videos, and courses | Exploring Hugo with Markdown\*\* | [Jason Blais](http://github.com/jasonblais) | [Sebastian Faase](https://github.com/faase) |
+| TBD | Contributor documentation and relevant community communications | Exploring Hugo with Markdown\*\* | [Joram Wilander](http://github.com/jwilander) | [Joram Wilander](http://github.com/jwilander) |
+| TBD | Self-service support content, including knowledge-based FAQs | TBD | Craig Willis | Craig Willis |
+| handbook.mattermost.com | Internal processes for company operations and recruiting | GitBook with Markdown | [Hilary Clarke](https://github.com/hilaryclarke) | [Justine Geffen](http://github.com/justinegeffen) and [Amy Blais](http://github.com/amyblais) |
 | mattermost.com | Commercial site, including blogs, product offerings, customer case studies and more | Wordpress | Zach Trayner | Lauren Nguyen |
 
 \*\* We are exploring Hugo as the system of choice for documentation sites, given it supports advanced search, Markdown language and a GitHub review process to ensure consistent quality across the site. [https://github.com/mattermost/mattermost-documentation](https://github.com/mattermost/mattermost-documentation)
