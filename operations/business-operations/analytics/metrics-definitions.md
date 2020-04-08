@@ -33,9 +33,12 @@
 Customer Success Account Health Score represents the overall health of a Mattermost SFDC Account
 
 * **Account Has Open Opportunity w/ Renewal Risk Status = 'At Risk'**
-  * Account Health Score = 20
+  * Account Health Score = 20%
 * **Account Has Open Opportunity w/ Renewal Risk Status = 'Early Warning'**
-  * Account Health Score = 50
+  * Account Health Score = 50%
+  
+* **_Note - If account has open opportunity w/renewal risk status of At Risk or Early Warning, it will override all other Healthscore metrics._
+
 * **Account Has No Open Opportunity w/ Renewal Risk Status = 'At Risk or 'Early Warning'**
   * _**Account Health Score = Tenure Score + License End Score + Ticket Score + Task Score**_
     * **Tenure Score = 25 \* Tenure Health %**
