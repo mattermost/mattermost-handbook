@@ -51,7 +51,6 @@ Complete the following [Banking Form](https://docs.google.com/forms/d/e/1FAIpQLS
 
 Due to data privacy concerns, lack of an unqualified opinion on the internal controls of the institution, and/or acting as a separate/intermediary banking facility, we currently do not support the following facilities:
 
-* Transferwise
 * Paypal
 * Venmo
 * XE
