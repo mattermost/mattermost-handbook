@@ -4,39 +4,43 @@ description: Description of norms on Mattermost Community server
 
 # Workplace
 
-## What is the Mattermost Community Server?
+## What is the Mattermost community server?
 
-The Mattermost pre-release server runs the latest builds of Mattermost's software, including all open source code for Mattermost Team Edition as well as commercial code for Mattermost Enterprise Edition.
+What is the Mattermost Community Server?
 
-It has three objectives:
+The Mattermost community server runs the latest stable build of Mattermost's software, including all open source code for Mattermost Team Edition as well as commercial code for Mattermost Enterprise Edition.
+
+It has two objectives:
 
 * Provide a workplace for Mattermost staff.
-* Test pre-released builds of our core products.
-* Engage with our [communities ](../../contributors/contributors/community.md)including contributors and partners.
+* Engage with our [communities ](../../contributors/contributors/community.md), including users, contributors and partners.
 
-**The Mattermost Community server is NOT A PRODUCTION SERVER.** It is a live view of work-in-progress and will contain bugs and have occasional downtime.
+**The Mattermost community server is not a production server and has occasional downtime.**
 
 You can reach the server at:
 
-{% embed url="https://community-release.mattermost.com" caption="" %}
+{% embed url="https://community.mattermost.com" caption="" %}
 
-The server is also available via the URL [https://community-release.mattermost.com](https://community-release.mattermost.com). This server receives regular pushes of features and/or bug fixes of the next release for testing purposes. Additionally, you can use [https://community-daily.mattermost.com](https://community-daily.mattermost.com) which offers daily builds. 
+The server is also available via the following URLs, primarily used to test pre-release features:
+
+ - [https://community-release.mattermost.com](https://community-release.mattermost.com), which runs our upcoming stable release. This server includes work-in-progress features, will contain bugs and have occasional downtime. This server receives regular pushes of features and/or bug fixes of the next release for testing purposes.
+ - [https://community-daily.mattermost.com](https://community-daily.mattermost.com), which runs latest builds of Mattermost's software, including all pre-release features of our core products. It is the most unstable version of the Mattermost community server. Bugs and occasional downtime is expected as this server receives daily pushes of features and/or bug fixes for testing purposes.
 
 The server has two teams:
 
-### **Contributors Team**
+### Contributors team
 
 URL: [https://community.mattermost.com/core](https://community.mattermost.com/core/messages/@github)
 
 Available to anyone who'd like to join the server using either an email and password account \([you can sign-up for a free account online](https://community.mattermost.com/signup_user_complete)\) or a Mattermost staff account, which is set up via OneLogin and requires MFA either through OneLogin or Google Authenticator.
 
-### **Staff Team**
+### Staff team
 
 URL: [https://community.mattermost.com/private-core](https://community.mattermost.com/private-core/channels/fy21-devops-awareness)
 
-A confidential space for [Mattermost staff](../../contributors/contributors/community.md#mattermost-staff) requiring a Mattermost OneLogin account and MFA**.**
+A confidential space for [Mattermost staff](../../contributors/contributors/community.md#mattermost-staff) requiring a Mattermost OneLogin account and MFA.
 
-#### Staff Usernames on the Mattermost Server
+#### Staff usernames on the Mattermost server
 
 All Mattermost staff members hired after Jan 1, 2020 should have a username in the form of `@[FIRST_NAME]_[LAST_NAME]` for example "Alice Evans" should be `alice.evans`.
 
@@ -50,7 +54,7 @@ By default, people's user names and first names trigger mention notifications in
 
 As an alternative to saying `@alice.evans` using `AEE` lets you refer to the person in passing without pushing an alert to them. For staff members that want to be alerted to even passing mentions of their name, they can opt in to that model by creating a [keyword notification](https://docs.mattermost.com/help/messaging/mentioning-teammates.html#words-that-trigger-mentions) on their three letter initials.
 
-## Key Channels for Staff
+## Key channels for staff
 
 The following table lists popular channels for Staff:
 
@@ -60,7 +64,7 @@ The following table lists popular channels for Staff:
 | ANNOUNCE  Synchronous Announcements | [Customer Obsession Meeting](https://handbook.mattermost.com/operations/operations/company-cadence\#customer-obsession-meeting-aka-com) | **Public channel in STAFF team** for weekly all-staff meeting \(see link in header for more info on "COM", past recordings and materials, etc. |
 | ANNOUNCE  New Staff Announcements | [Welcome](https://community.mattermost.com/private-core/channels/welcome) | **Public channel in STAFF team** for announcing and welcoming new staff members. |
 
-## Channel Naming Conventions
+## Channel naming conventions
 
 Any Mattermost staff member can create, rename and archive channels on the pre-release server. When channels don't contain sensitive information they should default to **Public channel in CONTRIBUTORS team** and welcome participation by contributors.
 
