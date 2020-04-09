@@ -27,7 +27,7 @@ A section title is not required if you have only one section.
 Use a title that accurately reflects the content of the document. People scan the table of contents 
 looking for answers; it's often faster than using the built-in search engine.
 
-Use title case for document titles. For more information and an example of capitalization, see :ref:`capital`.
+Use title case for document titles (e.g. "This is an article about documentation").
 
 ### Abstract
 
