@@ -13,15 +13,17 @@ If this is your first time contributing to Mattermost, first read the [Mattermos
 
 1. The quickest way to begin is navigating to the page you want to edit in [Mattermost Handbook](https://handbook.mattermost.com/), then clicking the **Edit on GitHub** icon in the top right navigation. This opens the page in GitHub that you can edit.
 2. In GitHub click the pencil icon in the navigation bar \(above the page header\) called **Edit the file in your fork of this project** to open the editable Markdown format page. 
-3. To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
-4. Make your edits. When you're ready to submit your changes, scroll to the bottom of the page to commit your changes and start a pull request.
-5. Add a descriptive title if the default title isn't sufficient. Add an extended description to summarize the changes you've made.
-6. Click the **Propose file change** button.
+
+  * To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
+
+3. Make your edits. When you're ready to submit your changes, scroll to the bottom of the page to commit your changes and start a pull request.
+4. Add a descriptive title if the default title isn't sufficient. Add an extended description to summarize the changes you've made.
+5. Click the **Propose file change** button.
 
 ![](../../.gitbook/assets/how-to-update-handbook-commit-changes.png)
 
-1. On the next page, scroll down to compare changes with the original document and then select **Create pull request**.
-2. Confirm that the title and description are correct. Then select **Create pull request**.
+7. On the next page, scroll down to compare changes with the original document and then select **Create pull request**.
+8. Confirm that the title and description are correct. Then select **Create pull request**.
 
 ![](../../.gitbook/assets/how-to-update-handbook-create-new-pull-request.png)
 
