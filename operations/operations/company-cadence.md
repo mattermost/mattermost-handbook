@@ -64,9 +64,7 @@ This is a weekly all-staff meeting focused on increasing alignment and awareness
     </tr>
   </thead>
   <tbody></tbody>
-</table>Note: T-minus counts are measured in "working days" \(weekdays, Monday through Friday\) prior to meeting day.
-
-**1 - T-4:** Chair and Vice Chair meet to prepare agenda and actions to prepare for meeting. Vice Chair posts draft agenda to [Customer Obs Prep channel](https://community-release.mattermost.com/private-core/channels/cust-obs-prep) and labels it as 1% draft.
+</table>**1 - T-4:** Chair and Vice Chair meet to prepare agenda and actions to prepare for meeting. Vice Chair posts draft agenda to [Customer Obs Prep channel](https://community-release.mattermost.com/private-core/channels/cust-obs-prep) and labels it as 1% draft.
 
 1. Vice Chair works 1-1 with presenters to prepare for them.
 2. Team members can share  meeting agenda topics with Vice Chair via direct message. Must be shared at least 24 hours prior to meeting start and be aligned with the meeting objectives above.
@@ -111,11 +109,12 @@ After the prep meeting, Vice Chair posts a screenshot of the final agenda into t
 
 Every 6 months we'll be asking staff to spend around 3 minutes completing a staff enablement survey of 12 engagement questions, plus identifying their organizational leader. ‌
 
-* Survey is announced in COM meeting
-* Link is posted in COM channel with "Thumbs Up" emoji reaction
-* All staff are asked to complete the survey and signal completion by clicking on Thumbs Up
-* Meeting is concluded after Thumbs Up count reaches attendee count
-* An analysis of the results should be prepared and presented in the next 2-4 weeks in COM
+* The enablement survey will be announced in COM one week before the survey goes live.
+* The survey link will be shared at the beginning of COM.
+* The link will be posted in the COM channel with "Thumbs Up" emoji reaction.
+* All staff are asked to complete the survey and signal completion by clicking on "Thumbs Up".
+* Ideally, the meeting will conclude after "Thumbs Up" count reaches attendee count but this is not a requirement. 
+* An analysis of the results should be prepared and presented within the next 2 - 4 weeks in COM.
 
 Links to previous staff enablement surveys:
 

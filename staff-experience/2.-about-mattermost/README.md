@@ -1,2 +1,0 @@
-# 2. About Mattermost
-
