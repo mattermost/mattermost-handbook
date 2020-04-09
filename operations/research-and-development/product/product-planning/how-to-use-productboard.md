@@ -71,22 +71,9 @@ Note that each time you update the status of a feature or add a comment, anyone 
 3.  Add any important detail about the feature that is missing or that would be valuable to others that might need to help you validate or gather requirements for the feature. 
 4. Assign Releases - Features can have one or many releases assigned as they may appear on different roadmap/planning views for different purposes. Below is an outline of our current structure of releases in Product Board:
 
- - Planning Estimates
-
-   - H1 Plan
-   - H2 Plan (tentative)
-   - Backlog
-   - Community Contract or Bounty
-
- - Exact Releases (when known)
-
-   - Examples: 5.22, 5.24, 1.30, Mattermost 6.0
-
- - Sequence
-
-   - Now
-   - Next
-   - Later
+ - **Planning Estimates**: H1 Plan, H2 Plan (tentative), Backlog, Community Contract or Bounty
+ - **Exact Releases** (when known). Examples: 5.22, 5.24, 1.30, Mattermost 6.0
+ - **Sequence**: Now, Next, Later
 
 #### Do’s and Don’ts
 
@@ -109,7 +96,7 @@ Note that each time you update the status of a feature or add a comment, anyone 
 * Do not rename/remove/adjust driver weights in prioritization score model (see screenshot)
 * Do not rename or adjust these prioritization score models: 
 
-  ![](../../../../.gitbook/assets/productboard-prioritization-scores.png)
+![](../../../../.gitbook/assets/productboard-prioritization-scores.png)
 
 ### 1d - Setting Driver Values
 
@@ -163,15 +150,15 @@ As a **Contributor** in Product Board, you have access to view the [master featu
 
 Within the detailed view of individual features, you can view the full list of insights added by other PMs, CSMs, SAs or Support Managers. You will also have the option to add insight directly to the feature itself. As you can see in the image below:
 
-  ![](../../../../.gitbook/assets/productboard-prioritization-insights-master-feature-list.png)
+![](../../../../.gitbook/assets/productboard-prioritization-insights-master-feature-list.png)
 
 ### 2d - Adding feedback (via Chrome extension)
 
-Using the official [ProductBoard Chrome Extension](https://chrome.google.com/webstore/detail/productboard-make-product/mlpbdkpkicfkhgagnoamdcimmhdkakni) you can easily add notes from any page within chrome (including SFDC, Zendesk, Github, Hacker News, Mattermost web, etc.). The extensions is very easy to use and should streamline your workflow dramatically.
+Using the official [ProductBoard Chrome Extension](https://chrome.google.com/webstore/detail/productboard-make-product/mlpbdkpkicfkhgagnoamdcimmhdkakni) you can easily add notes from any page within chrome (including SFDC, Zendesk, GitHub, HackerNews, Mattermost web, etc.). The extensions is very easy to use and should streamline your workflow dramatically.
 
 As long as you are logged into ProductBoard, the connectivity to the mattermost insights board is secure and seamless.
 
-  ![](../../../../.gitbook/assets/productboard-prioritization-chrome-extension.png)
+![](../../../../.gitbook/assets/productboard-prioritization-chrome-extension.png)
 
 **Pro Tip**: If you keep your call notes in a browser app (such as Google Docs), you can highlight the sections related to feedback and quickly send them over to ProductBoard with the extension.
 
