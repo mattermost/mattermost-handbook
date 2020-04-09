@@ -12,7 +12,7 @@ Hiring plans are created twice a year, and reviewed every quarter. Hiring Manage
 
 * Canada, Finland, Georgia, Germany, Mauritius, Philippines, South Africa, Turkey, United Kingdom, United States
 
-We are constantly working towards adding more countries/regions to this list, but it takes a lot of time and resources. This list will be updated as we are able to hire in additional countries/regions. 
+We are constantly working towards adding more countries/regions to this list, but it takes a lot of time and resources. This list will be updated as we are able to hire in additional countries/regions.
 
 Due to local laws, there may be restrictions on which types of roles we can hire in each country/region.
 
@@ -22,7 +22,7 @@ We currently have staff in the following U.S. states:
 
 * AZ CA CO FL GA IN KS MA MD MI MO NJ NV NY OK SC TN UT VA WA WI
 
-Preparing to hire an employee in a new state takes time, and we may be subject to new regulations, taxes, and reporting obligations. If a candidate is progressing in the interview process and would be living and working from a U.S. state not listed above, the Recruiter will DM @tim.quock with the state and the title of the position the candidate may fill at least three weeks prior to an anticipated offer. 
+Preparing to hire an employee in a new state takes time, and we may be subject to new regulations, taxes, and reporting obligations. If a candidate is progressing in the interview process and would be living and working from a U.S. state not listed above, the Recruiter will DM @tim.quock with the state and the title of the position the candidate may fill at least three weeks prior to an anticipated offer.
 
 ### Relocating
 
@@ -30,11 +30,11 @@ Staff agreements are conditioned upon the country/region of residence noted in a
 
 ## Lever
 
-Lever is our Applicant Tracking System (ATS). It is where our Recruiters, Recruiting Coordinators, and Hiring Managers organize open roles, track a candidate’s progress throughout the recruiting process, collect feedback, and record data. It is important that all candidates, interviews, and feedback are recorded accurately in Lever because all of our data and insights are pulled from Lever. Without accurate data in Lever, we aren’t able to iterate on the process to deliver a better hiring experience for candidates, hiring managers, and the business overall. 
+Lever is our Applicant Tracking System \(ATS\). It is where our Recruiters, Recruiting Coordinators, and Hiring Managers organize open roles, track a candidate’s progress throughout the recruiting process, collect feedback, and record data. It is important that all candidates, interviews, and feedback are recorded accurately in Lever because all of our data and insights are pulled from Lever. Without accurate data in Lever, we aren’t able to iterate on the process to deliver a better hiring experience for candidates, hiring managers, and the business overall.
 
-All conversations about candidate feedback, referrals, or compensation are considered confidential and need to be discussed in Lever, and not in Mattermost. 
+All conversations about candidate feedback, referrals, or compensation are considered confidential and need to be discussed in Lever, and not in Mattermost.
 
-Hiring Managers and interviewers commit to submitting feedback in Lever within 12 hours of the interview. 
+Hiring Managers and interviewers commit to submitting feedback in Lever within 12 hours of the interview.
 
 ## As Appropriate Interviews \("AA"s\)
 
@@ -57,3 +57,4 @@ Each AA interviewer should have at least 3 reserved slots per week available for
 2. Attachments of any work artifacts produced during the interview loop.
 3. Any open questions from interviewers that have not been covered.
 4. Notes on any backchannel references completed. For any confidential feedback please use SECRET NOTE with mention to the AA and leave out the name of the source.
+

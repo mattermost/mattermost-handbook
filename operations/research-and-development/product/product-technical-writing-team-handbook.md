@@ -108,7 +108,7 @@ If your change requires dev review add the developer/s you've been working with 
 
 Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the Doc Up plugin embedded in the post menu.
 
-![Access the Doc Up plugin by hovering over a message and clicking the &quot;...&quot; menu.](../../../.gitbook/assets/image%20%2852%29.png)
+![Access the Doc Up plugin by hovering over a message and clicking the &quot;...&quot; menu.](https://github.com/mattermost/mattermost-handbook/tree/c599ecb3099db323d84d21139fcf298c360cee64/.gitbook/assets/image%20%2852%29.png)
 
 When you select Doc Up and choose **Admin** as the issue type, an issue is generated in the GitHub docs repo, and added to the issues list. An update is listed in the Documentation channel, with the issue link.
 
@@ -159,7 +159,7 @@ If your request is not related to feature documentation, include the following f
 
 * Label: Documentation
 * Team: Tech Writing 
-* Assignee: <leave blank>
+* Assignee: 
 
 **Jira Turnaround Time**
 
@@ -198,3 +198,4 @@ If you have any questions, you can post them in the [Documentation](https://comm
 Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated \(or created\) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation. The documentation can be as detailed or concise as deemed necessary - consider it an MVP which can be refined at a later stage.
 
 When submitting your PR, please include the **Editor Review** label and add @amyblais or @justinegeffen in GitHub as an approver.
+

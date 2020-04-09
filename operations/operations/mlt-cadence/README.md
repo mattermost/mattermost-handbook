@@ -4,7 +4,7 @@ description: >-
   the CEO
 ---
 
-# Mattermost Leadership Team \(MLT\)
+# Management Leadership Team \(MLT\)
 
 This section outlines:
 
@@ -114,9 +114,7 @@ MLT Daily Admin consists of:
     </tr>
   </thead>
   <tbody></tbody>
-</table>#### **Any time up to 12 hours before 8:31am Palo Alto time on weekdays**
-
-Before meeting use `/standup` command to post updates to peers in the channel of what’s important:
+</table>Before meeting use `/standup` command to post updates to peers in the channel of what’s important:
 
 ```text
 /standup
@@ -399,3 +397,4 @@ VPMOMs, quarterly plans and proposed orgs are reviewed by MLT. Use the following
 * Methods
 
 MLT shares feedback on each VPMOM and quarterly plan. Cross-department dependencies documented.
+
