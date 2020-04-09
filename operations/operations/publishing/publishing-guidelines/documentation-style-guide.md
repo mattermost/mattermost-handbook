@@ -94,16 +94,29 @@ Insert a table of contents into a document using the following format:
       :backlinks: top
 ```  
     
-### Inline Markup
+### Text formatting
+-----------------
 
-Bold
-  Use double asterisks. For example: `**bold text**`.
+Use highlighting of text to visually set off words and phrases that are important to readers. Content that should be highlighted includes file names, UI controls, and window titles. The following table has a comprehensive list with examples.
 
-Italic
-  Use single asterisk. For example: `*italic text*`.
-
-Monospace
-  Use double backquotes. For example: ```monospace text```
+| Text          | Format        | Example             |
+| ------------- |:-------------:| -------------------:|
+| Commands      | ` ``monospace`` ` | "At the command line, type ``sudo apt-get install nginx``." |
+| Directory name| ` ``monospace`` ` | ``/opt/mattermost`` |
+| File name     | ` ``monospace`` ` | ``config.py`` |
+| Inline code   | ` ``monospace`` ` | ``fmt.Printf("2 times %d = %d\n", x, y )`` |
+| Keystrokes    | ` ``monospace`` ` | "Type ``https://`` in the string field." |
+| Screen output | ` ``monospace`` ` | See :ref:`literal-blocks` for an example. |
+| Parameter values | ` ``monospace`` `| "Set the *auto-config* parameter to ``false``" |
+| Field names       | ``**bold**`` | "Enter the font in the **Display Font** field." |
+| Clickable control |  ``**bold**`` | "Click **File > Save**."|
+| Citations      | ``*italic*`` | "Read the book *Clean Code* by Robert Martin." |
+| Window titles | ``*italic*``| "The *Account Settings* window opens." |
+| User account names      | ``*italic*`` | "Log in to the *mysql* account." |
+| Parameter names | ``*italic*``| "Set the *auto-config* parameter to ``false``" |
+| Keyboard buttons      | Key1+Key2 | "Press CTRL+U to upload a file." |
+| Placeholder field | {placeholder}| "Use the URL in the form of {hostname}.mattermost.com/{team}." |    `  `  
+                   
 
 ### Bullet lists
 
