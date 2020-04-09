@@ -104,6 +104,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 2. Use common wording, e.g. say "Servers" instead of "Sites"; say `plugins` not `plug-ins`; say "Browser" instead of "Webapp"
 3. Avoid phrases that are too vague, such as "Better messaging experience"
 4. Do not use internal names of features, such as "Unread toasts", "Deep linking"
+5. Say "You" instead of "Users" to talk directly to the reader
 
 ## One great screenshot a month
 
