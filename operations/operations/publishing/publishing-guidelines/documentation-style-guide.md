@@ -36,10 +36,10 @@ It often helps to write the abstract first, as it provides a framework for the c
 description is displayed in the search results along with the page title. People read the description to 
 help them decide if the document is the one that they want.
 
-### Table of Contents
+### Table of contents
 
 If the document contains more than four sections or subsections, add a table of contents to help the user
-navigate the document, see :ref:`table-of-contents`.
+navigate the document. The table of contents should be added below the abstract. 
 
 ### Introductory paragraph
 
@@ -52,10 +52,10 @@ The reStructuredText specification allows for a certain degree of flexibility in
 markup to achieve your goals. For example, you can use any one of more than a dozen characters for 
 section title underlines, and you have the option of using an overline in addition to an underline.
 
-The majority of Mattermost technical documentation is written in ``.rst``. However, there are some instances
+The majority of Mattermost technical documentation is written in `.rst`. However, there are some instances
 where Markdown is used. 
 
-Use the following markup conventions in Mattermost documentation:
+Use the following conventions when writing in `.rst`. 
 
 ### Page titles
 
@@ -100,14 +100,14 @@ Bold
   Use double asterisks. For example: `**bold text**`.
 
 Italic
-  Use single asterisk. For example: ``*italic text*``.
+  Use single asterisk. For example: `*italic text*`.
 
 Monospace
   Use double backquotes. For example: ```monospace text```
 
 ### Bullet lists
 
-For bullet lists and sublists, use ``-`` before the list item. For example:
+For bullet lists and sublists, use `-` before the list item. For example:
 
 ```
   - list item one
@@ -136,9 +136,9 @@ Create numbered lists and procedure steps using numbers for the top-level list a
 To create a name-value group such as a definition list, type the term on a line by itself. On the next line, indent the definition. For example:
 
 ```
-  Total Users
+  Total users
     The total number of active accounts created on your system. Excludes inactive accounts.
-  Total Teams
+  Total teams
     The total number of teams created on your system.
 ```
 
@@ -152,7 +152,7 @@ URLs are automatically rendered as links in Sphinx; however, where possible, it 
   `Mattermost Manifesto <https://www.mattermost.org/manifesto/>`__
 ```
 
-The link renders as: `Mattermost Manifesto <https://www.mattermost.org/manifesto/>`__
+The link renders as: [Mattermost Manifesto](https://www.mattermost.org/manifesto/).
 
 ### Internal links to Mattermost documentation
 
@@ -160,7 +160,7 @@ The Sphinx processor extends reStructuredText to implement references, called ro
 
 The `:doc:` role is used for creating relative links to other documents. The `:ref:` role is used for creating relative links to arbitrary locations within the documentation set, including within the same document. In both cases, the HTML output is a relative URL for the target location.
 
-The following example uses the `:doc:` role to link to the `Integrations Overview` page. The source file is called `integrations.rst` and is in the `overview` directory.
+The following example uses the `:doc:` role to link to the **Integrations Overview** page. The source file is called `integrations.rst` and is in the `overview` directory.
 
 ```
   For more information about integrating with Mattermost, see :doc:`../overview/integrations`.
@@ -227,18 +227,20 @@ To use a literal block with no syntax highlighting, use the Sphinx code-block di
   .. code-block:: none
 ```
 
-### Code Blocks with Syntax Highlighting
+### Code blocks with syntax highlighting
 
-To create a code block with syntax highlighting, use the Sphinx code-block directive with the language set to the language that you want highlighted. `Many languages are available <http://pygments.org/docs/lexers/>`__, but in Mattermost documentation the most likely ones are as follows:
+To create a code block with syntax highlighting, use the Sphinx code-block directive with the language set to the language that you want highlighted. [Many languages are available](http://pygments.org/docs/lexers/), but in Mattermost documentation the most likely ones are as follows:
 
+```
 - go
 - rest
 - html
 - javascript
 - coffee
 - bash
+```
 
-The following example is a block of Go code using the :linenos: option, which causes line numbers to be displayed.
+The following example is a block of Go code.
 
 ```
   .. code-block:: go
@@ -249,18 +251,6 @@ The following example is a block of Go code using the :linenos: option, which ca
   		c.Err = err
   		return
   	}
-```
-
-The example produces the following output:
-
-``` go
-  :linenos:
-
-  newPassword := props["new_password"]
-	if err := utils.IsPasswordValid(newPassword); err != nil {
-		c.Err = err
-		return
-	}
 ```
 
 ## Using Markdown
