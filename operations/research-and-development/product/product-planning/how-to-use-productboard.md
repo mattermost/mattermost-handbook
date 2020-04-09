@@ -109,17 +109,27 @@ Note that each time you update the status of a feature or add a comment, anyone 
 * Do not rename/remove/adjust driver weights in prioritization score model (see screenshot)
 * Do not rename or adjust these prioritization score models: 
 
-  ![](../../../../.gitbook/assets/productboard-prioritization scores.png)
+  ![](../../../../.gitbook/assets/productboard-prioritization-scores.png)
 
-### 1d - Organizing the Roadmap board
+### 1d - Setting Driver Values
+
+To help score and evaluate priority of features, we attempt to calculate and communicate “the why” in the [master feature list](https://mattermost.productboard.com/feature-board/1097524-master-feature-list). There are 3 custom score columns that we identified as sources of feature work:
+
+* **Market Demand**: Requests/problems to solve coming from prospects or customers
+* **Product Strategy**: Packaging & pricing, strategic positioning, branding, etc
+* **Operations**: Code debt, testing infrastructure, performance, maintenance, etc
+
+Each of these custom score columns has its own specific drivers that you can rate from 1-5. The more data you include here for each feature, the more accurate and useful the prioritization board will be. 
+
+### 1e - Organizing the Roadmap Board
 
 To be added in phase 2 of ProductBoard rollout \(ETA April\).
 
-### 1e - Organizing features in the Public Portal
+### 1f - Organizing features in the Public Portal
 
 To be added in phase 3 of ProductBoard rollout \(ETA Q2/FY21\)
 
-### 1f - Key links in ProductBoard
+### 1g - Key links in ProductBoard
 
 * [Insights Board](https://mattermost.productboard.com/insights)
   * [Personal Inbox](https://mattermost.productboard.com/insights/my-inbox)
@@ -131,11 +141,49 @@ To be added in phase 3 of ProductBoard rollout \(ETA Q2/FY21\)
   * [Prioritization Matrix](https://mattermost.productboard.com/feature-board/1097533-prioritization-matrix)
 * [ProductBoard Support](https://help.productboard.com/en/)
 
-## 2 - Day in the life of a Customer Support Manager
+## 2 - Day in the life of a Customer Support Manager, Customer Success Manager or Solution Architect
 
-To be added by Feb 12.
+### 2a - Adding feedback
 
-## 3 - Day in the life of a Customer Success Manager or Solution Architect
+New feedback from users and customers is sent to the [Insights Board](https://mattermost.productboard.com/insights). Typically these are submitted by product managers, support, customer success managers or sales through integrations with email, Zapier, Zendesk or others.
 
-To be added by Feb 12.
+### 2b - Creating notes
+
+You can add a new note to capture feedback from a customer call. This is used to help identify customer problems, wants/needs, feature lack, and any other areas for improvement that stem from interacting with customers. Essentially, think of this as a place to communicate the most important takeaways from customer calls that product teams can help you with. 
+
+Important points about notes:
+
+* Notes are specific to a customer/prospect
+* Notes can include multiple requests (PMs can apply multiple elements from the note to different features if necessary)
+* If you are not sure if the request or feedback should apply to an existing feature, you can simply capture the feedback as a note and assign to the PM overseeing that area (or just leave unassigned). We can then apply insights from
+
+### 2c - Adding insights directly to a an existing feature
+
+As a **Contributor** in Product Board, you have access to view the [master feature list](https://mattermost.productboard.com/feature-board/1097524-master-feature-list). This is the view where the Product team organizes and prioritizes new features and functionality that is being considered or planned for Mattermost. You can search and browse all features and ideas and even read the notes and portal cards from PMs for a detailed description of the feature/idea. In the case of planned features, you will have complete insight into the status of the feature and a rough idea of where it sits on the roadmap. 
+
+Within the detailed view of individual features, you can view the full list of insights added by other PMs, CSMs, SAs or Support Managers. You will also have the option to add insight directly to the feature itself. As you can see in the image below:
+
+  ![](../../../../.gitbook/assets/productboard-prioritization-insights-master-feature-list.png)
+
+### 2d - Adding feedback (via Chrome extension)
+
+Using the official [ProductBoard Chrome Extension](https://chrome.google.com/webstore/detail/productboard-make-product/mlpbdkpkicfkhgagnoamdcimmhdkakni) you can easily add notes from any page within chrome (including SFDC, Zendesk, Github, Hacker News, Mattermost web, etc.). The extensions is very easy to use and should streamline your workflow dramatically.
+
+As long as you are logged into ProductBoard, the connectivity to the mattermost insights board is secure and seamless.
+
+  ![](../../../../.gitbook/assets/productboard-prioritization-chrome-extension.png)
+
+**Pro Tip**: If you keep your call notes in a browser app (such as Google Docs), you can highlight the sections related to feedback and quickly send them over to ProductBoard with the extension.
+
+## 3 - Frequently Asked Questions (FAQ)
+
+### What is the difference between Confluence and Product Board?
+
+ProductBoard is for ideation, validation, prioritization and requirements gathering. It will help us with all of the following:
+
+* Deciding **what** to build and **why**
+* Deciding **when** to build it (and the order in which to build it in)
+* Sharing our planning progress with internal and external stakeholders
+
+The Enterprise team uses Confluence for communicating in detail both the **what** (requirements we gathered) and the **why** (problem/use cases we're solving for) to the dev team - after we decided to build something. They will determine the how. They will also spec it out further in Confluence, and track progress in JIRA.
 
