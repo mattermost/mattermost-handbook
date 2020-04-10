@@ -100,7 +100,7 @@ Insert a table of contents into a document using the following format:
 Use highlighting of text to visually set off words and phrases that are important to readers. Content that should be highlighted includes file names, UI controls, and window titles. The following table has a comprehensive list with examples.
 
 | Text          | Format        | Example             |
-| ------------- |:-------------:| -------------------:|
+| ------------- |:-------------:| --------------------|
 | Commands      | ` ``monospace`` ` | "At the command line, type ``sudo apt-get install nginx``." |
 | Directory name| ` ``monospace`` ` | ``/opt/mattermost`` |
 | File name     | ` ``monospace`` ` | ``config.py`` |
