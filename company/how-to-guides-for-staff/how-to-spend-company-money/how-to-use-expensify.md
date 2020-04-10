@@ -202,6 +202,10 @@ If you are located in the United States, you are required to set up your banking
 
 If you are located in Canada or employed through OWS, you will receive reimbursement via OWS. All reports once Final Approved should be downloaded and submitted to Cindy Hindley `cindy@openworldservices.net`
 
+### United Kingdom and Germany
+
+If you are located in either the United Kingdom or Germany, please submit your expense reports on the 5th and 15th of every month, so that you can be reimbursed on the 15th and 25th of each month. Submissions made on the 5th will be reimbursed on the 15th and submissions made on the 15th will be reimbursed on the 25th of each month. The primary reason for this is to give your manager time to review and for Finance to be able to review expenses for proper classification and timely submission to our accounting teams in the United Kingdom and Germany.
+
 ### Rest of World \(ROW\)
 
 For everyone else, a Bill.com account will need to be setup. If you already have a bill.com account and being reimbursed by Mattermost at this time, you may disregard. If you are needing to set up a bill.com account, please work with the [Accounts Payable Team](mailto:ap@mattermost.com) who will create your profile in bill.com for you. If you are uncertain, please reach out to the [Accounts Payable Team](mailto:ap@mattermost.com) for guidance. To ensure accuracy and expediency, please complete [Mattermost Banking Information Form](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#banking-form) which the [Accounts Payable Team](mailto:ap@mattermost.com) will use to setup your credentials.
