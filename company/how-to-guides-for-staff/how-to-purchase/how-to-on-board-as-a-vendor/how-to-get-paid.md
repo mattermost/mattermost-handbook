@@ -6,7 +6,7 @@ description: 99%
 
 **Effective Date**: January 1, 2020
 
-### Payments Made By Mattermost
+### Payments made by Mattermost
 
 #### United States
 
@@ -18,36 +18,36 @@ If you are a vendor, refer to the [Bank Form](https://handbook.mattermost.com/co
 
 If you are a staff member located in Canada or if your contract is with Open World Services \(OWS\), payroll will be made to you in accordance with OWS policy. For expense reimbursement, please follow the [OWS Reimbursement Process](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#open-world-services-ows).
 
-#### Rest of World
+#### Rest of world
 
 If you are a vendor, a contractor, or a staff member located outside the United States and Canada, Mattermost requires a primary banking institution as a method of payment, as we use Bill.com for invoice processing, expense reimbursement, and payment. The currency in which payment is made is based on the currency stated within the agreement signed with Mattermost. The person or legal entity the bank account is registered to must be in the name of the contracting individual/entity.
 
-_Example 1_: a staff member named John Smith is located in Spain and signed a consulting agreement with Mattermost, Inc. under his surname, John Smith must have the following banking institution setup:
+_Example 1_: A staff member named John Smith is located in Spain and signed a consulting agreement with Mattermost, Inc. under his surname, John Smith must have the following banking institution setup:
 
-* The bank account is located in Spain
-* The bank account is his name or other known surname
+* The bank account is located in Spain.
+* The bank account is his name or other known surname.
 
-_Example 2_: a staff member named John Smith is located in Spain and signed a consulting agreement with Mattermost, Inc. under his LLC titled Better Coding, John Smith must have the following banking institution setup:
+_Example 2_: A staff member named John Smith is located in Spain and signed a consulting agreement with Mattermost, Inc. under his LLC titled Better Coding, John Smith must have the following banking institution setup:
 
-* The bank account is located in Spain
-* The bank account is in the name of Better Coding, LLC
+* The bank account is located in Spain.
+* The bank account is in the name of Better Coding, LLC.
 
 If you are a staff member located outside of the United States and Canada, your expense reimbursements will be made through Bill.com. As noted above, Mattermost requires banking information from a primary banking institution to be able to make reimbursements through Bill.com. You will receive your expense reimbursement no later than 15th and end of each month. 
 
 Refer to the [Bank Form](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#banking-form) section for guidance on registering so you get paid.
 
-## Payment Registration with Mattermost
+## Payment registration with Mattermost
 
-### Banking Form
+### Banking form
 
-Complete the following [Banking Form](https://docs.google.com/forms/d/e/1FAIpQLScw5E8h2z7QOuoabPjvcCqQ4mMdiPikXNODEaCGbuI4IsgF-w/viewform?usp=pp_url) to properly register your credentials with Mattermost
+Complete the following [Banking Form](https://docs.google.com/forms/d/e/1FAIpQLScw5E8h2z7QOuoabPjvcCqQ4mMdiPikXNODEaCGbuI4IsgF-w/viewform?usp=pp_url) to properly register your credentials with Mattermost.
 
-### Primary Payment Reimbursement Facilities
+### Primary payment reimbursement facilities
 
 * Silicon Valley Bank
 * Bill.com
 
-### Facilities Not Accepted At This Time
+### Facilities not accepted at this time
 
 Due to data privacy concerns, lack of an unqualified opinion on the internal controls of the institution, and/or acting as a separate/intermediary banking facility, we currently do not support the following facilities:
 
@@ -60,6 +60,3 @@ Due to data privacy concerns, lack of an unqualified opinion on the internal con
 * Currencies Direct
 * Worldfirst
 * All other facilities that are not primary at this time
-
-## 
-
