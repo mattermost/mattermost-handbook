@@ -96,7 +96,7 @@ Note that each time you update the status of a feature or add a comment, anyone 
 * Do not rename/remove/adjust driver weights in prioritization score model (see screenshot).
 * Do not rename or adjust these prioritization score models.
 
-![](../../../../.gitbook/assets/productboard-prioritization-scores.png)
+![](../../../../.gitbook/assets/productboard-prioritization.png)
 
 ### 1d - Setting driver values
 
@@ -150,7 +150,7 @@ As a **Contributor** in ProductBoard, you have access to view the [master featur
 
 Within the detailed view of individual features, you can view the full list of insights added by other PMs, CSMs, SAs, or Support Managers. You will also have the option to add insight directly to the feature itself. As you can see in the image below:
 
-![](../../../../.gitbook/assets/productboard-prioritization-insights-master-feature-list.png)
+![](../../../../.gitbook/assets/productboard-insights-master-feature-list.png)
 
 ### 2d - Adding feedback (via Chrome extension)
 
@@ -158,7 +158,7 @@ Using the official [ProductBoard Chrome Extension](https://chrome.google.com/web
 
 As long as you are logged into ProductBoard, the connectivity to the Mattermost insights board is secure and seamless.
 
-![](../../../../.gitbook/assets/productboard-prioritization-chrome-extension.png)
+![](../../../../.gitbook/assets/productboard-chrome-extension.png)
 
 **Pro tip**: If you keep your call notes in a browser app (such as Google Docs), you can highlight the sections related to feedback and quickly send them over to ProductBoard with the extension.
 
