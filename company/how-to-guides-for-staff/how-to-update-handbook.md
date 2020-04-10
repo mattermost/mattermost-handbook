@@ -22,7 +22,7 @@ If this is your first time contributing to Mattermost, first read the [Mattermos
 
 ![](../../.gitbook/assets/how-to-update-handbook-commit-changes.png)
 
-7. On the next page, scroll down to compare changes with the original document and then select **Create pull request**.
+6. On the next page, scroll down to compare changes with the original document and then select **Create pull request**.
 8. Confirm that the title and description are correct. Then select **Create pull request**.
 
 ![](../../.gitbook/assets/how-to-update-handbook-create-new-pull-request.png)
@@ -87,4 +87,3 @@ Below is a list of permissions handbook contributors have access to:
 2. @rbradleyhaas, @michaelschiffmm: Write permissions to the repository, but are not expected to make changes without reviews outside of [business operations](https://handbook.mattermost.com/operations/business-operations), nor make changes to table of contents without reviews. 
 3. Staff contributors: Submits changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, submit PR reviews, and be requested as reviewers.
 4. Non-staff contributors: Submits changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, and submit PR reviews.
-
