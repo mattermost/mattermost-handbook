@@ -23,7 +23,7 @@ If this is your first time contributing to Mattermost, first read the [Mattermos
 ![](../../.gitbook/assets/how-to-update-handbook-commit-changes.png)
 
 6. On the next page, scroll down to compare changes with the original document and then select **Create pull request**.
-8. Confirm that the title and description are correct. Then select **Create pull request**.
+7. Confirm that the title and description are correct. Then select **Create pull request**.
 
 ![](../../.gitbook/assets/how-to-update-handbook-create-new-pull-request.png)
 
