@@ -1,10 +1,29 @@
 ---
-description: 1% Draft
+description: 
 ---
 
 # Leaves of Absence
 
 The People Team will continue to update this page to include entity-specific Leave entitlements. Local regulation will override any Mattermost policy, and each Mattermost policy will run concurrent to the local regulations of similar criteria. Reach out to [HR](mailto:hr@mattermost.com) with any questions. 
+
+### COVID-19 Sick and Family Leave Notices 
+
+If you or a family has been affected by COVID-19, please reach out to HR. Below is a list of postings or government sites with more information for regions where Mattermost has an entity: 
+* Canada
+  * [Canada Public Health Updates](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/being-prepared.html)
+  * [Government of Ontario: The 2019 Novel Coronavirus (COVID-19)](https://www.ontario.ca/page/2019-novel-coronavirus?_ga=2.160478013.1455656515.1583773791-62136392.1566417448)
+  * [COVID-19 Update for Albertans](https://www.alberta.ca/coronavirus-info-for-albertans.aspx)
+* Germany
+  * [Germany - Health Ministry Updates](https://www.bundesgesundheitsministerium.de/en/press/2020/coronavirus.html)
+* United Kingdom 
+  * [NHS - COVID Advice for Everyone](https://www.nhs.uk/conditions/coronavirus-covid-19/)
+* United States
+  * [Families First Coronavirus Response Act (FFCRA)](https://www.dol.gov/sites/dolgov/files/WHD/posters/FFCRA_Poster_WH1422_Non-Federal.pdf)
+  * [California - Summary of Benefits related to C19](https://www.labor.ca.gov/coronavirus2019/#chart)
+   * [San Franciscco - Paid Sick Leave C19 Ordinance](https://sfgov.org/olse/sites/default/files/OLSE%20Guidance%20-%20PSLO%20%20Coronavirus%20-%20Updated%2003.24.20.pdf)
+  * [New Jersey - C19 Statutes](https://www.nj.gov/labor/assets/PDFs/COVID-19%20SCENARIOS.pdf)
+  * [New York - Paid Sick Leave, C19](https://paidfamilyleave.ny.gov/system/files/documents/2020/03/covid-19-sick-leave-employees.pdf)
+ 
 
 #### Types of Leaves of Absence 
 
@@ -20,9 +39,10 @@ The People Team will continue to update this page to include entity-specific Lea
 
 #### Manager's Responsibilities during a Leave of Absence
 
-1. **Finalize the dates of leave.** Work with the staff member who is planning a leave. This should be completed at least 30 days prior to the leave date.
-2. **Approve dates in Bamboo.** Especially in instances where a birth date is not planned, the dates will be approximate and expected to adjust accordingly.
-3. **Create and communicate the plan for coverage. Managers should work with the staff member to create a coverage plan and identify training and documentation that will ensure responsibilities** [are covered.](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check)
+1. **Inform and meet with HR.** Every region has specific statutory sick and family leave requirements. Each situation may be different in eligibility criteria andd benefit amounts. 
+2. **Finalize the dates of leave.** Work with the staff member who is planning a leave. This should be completed at least 30 days prior to the leave date, when possible. 
+3. **Approve dates in Bamboo.** Especially in instances where a birth date is not planned, the dates will be approximate and expected to adjust accordingly.
+4. **Create and communicate the plan for coverage. Managers should work with the staff member to create a coverage plan and identify training and documentation that will ensure responsibilities** [are covered.](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check)
 
    **a.\) Temporary Staff.** A manager may utilize temporary staffing solutions as part of their coverage plan. Reach out to [People Ops](mailto:hr@mattermost.com) for assistance with temporary staffing agencies. 
 
