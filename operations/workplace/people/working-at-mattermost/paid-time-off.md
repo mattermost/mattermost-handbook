@@ -41,7 +41,7 @@ Please take off holidays relevant to your culture, resident [country/region](../
 
 ### Typical Public Holidays in Canada, Germany, UK, US
 
-We have entities in Germany, UK, Germany, and we have a large Canadian contingent, so below are holidays we’re expecting people from those countries to take off. These are not mandatory company holidays, just guidelines for people in specific [country/regions](../../../../company/about-mattermost/list-of-terms.md#country-region).
+We have entities in Germany, UK, US, and we have a large Canadian contingent, so below are holidays we’re expecting people from those countries to take off. These are not mandatory company holidays, just guidelines for people in specific [country/regions](../../../../company/about-mattermost/list-of-terms.md#country-region).
 
 **Entity Holidays for 2020:**
 
@@ -51,13 +51,13 @@ We have entities in Germany, UK, Germany, and we have a large Canadian contingen
 * Family Day/Islander Day (Canada) \(2/17/2020\)
 * Good Friday (All) \(4/10/2020\)
 * Easter Monday (Germany, UK) \(4/12/2020\)
-* Labour Day (Germany) \(5/01/2020\)
-* Early May Bank Holiday (UK) \(5/08/2020\)
+* Labour Day (Germany) \(5/1/2020\)
+* Early May Bank Holiday (UK) \(5/8/2020\)
 * Victoria Day (Canada) \(5/18/2020\)
 * Ascension Day (Germany) \(5/21/2020\)
 * Spring Bank Holiday (UK) \(5/25/2020\)
 * Memorial Day (US) \(5/25/2020\)
-* Whit Monday (Germany) \(6/01/2020\)
+* Whit Monday (Germany) \(6/1/2020\)
 * Canada Day (Canada) \(7/1/2020\)
 * Independence Day (US) \(7/3/2020\)
 * Civic Holiday/Provincial Day (Canada) \(8/3/2020\)
@@ -66,7 +66,7 @@ We have entities in Germany, UK, Germany, and we have a large Canadian contingen
 * Rememberance Day (Canada: BC, AB, PEI) \(11/11/2020\)
 * Thanksgiving (US) \(11/26/2020\)
 * Christmas Day (All)\(12/25/2020\)
-* Boxing Day (Canada: ON, Germany, UK) \(12/28/2020++\)
+* Boxing Day (Canada: ON, Germany, UK) \(12/28/2020\)
 
 It’s up to meeting chairs to decide whether to reschedule if few people can attend \(e.g. if there are a lot of Entity Staff in the meeting\).
 
