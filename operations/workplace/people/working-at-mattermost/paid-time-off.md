@@ -65,7 +65,7 @@ We have entities in Germany, UK, US, and we have a large Canadian contingent, so
 * Thanksgiving (Canada) \(10/12/2020\)
 * Rememberance Day (Canada: BC, AB, PEI) \(11/11/2020\)
 * Thanksgiving (US) \(11/26/2020\)
-* Christmas Day (All)\(12/25/2020\)
+* Christmas Day (All) \(12/25/2020\)
 * Boxing Day (Canada: ON, Germany, UK) \(12/28/2020\)
 
 It’s up to meeting chairs to decide whether to reschedule if few people can attend \(e.g. if there are a lot of Entity Staff in the meeting\).
