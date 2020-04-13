@@ -79,6 +79,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
       1. Names should not be red-underlined \(if they are, add them to the dictionary prior to taking a screenshot\)
       2. Screenshot not surrounded by a border
       3. Below the screenshot, include a text version of their names in small font with a link to their GitHub handle
+   8. One or more people on the team put themselves in the shoes of a system admin responsible for upgrading Mattermost, read through the announcement out loud, clicked on the links, and feel we've met our High Standards LP
 4. **Screenshots**
    1. [Follows screenshot guidelines](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-screenshots-and-gifs)
    2. Do not use screenshots rated at low quality
