@@ -94,7 +94,7 @@ Once your expense has been completed, you can add this to an existing Expense Re
 
 If you are a manager and reviewing a staff member's expense report, the below instructions should be followed:
 
-1. When an [Expense Report](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-use-expensify#creating-a-report) has been submitted by a staff member, Expensify will send a notification via email to the manager for review
+1. When an [Expense Report](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#creating-a-report) has been submitted by a staff member, Expensify will send a notification via email to the manager for review
 2. Click on the report name in the body of the email and you will be directed to Expensify where you can review the report
 3. Review each expense for accuracy and completeness as aligned in the Mattermost’s expense policy, and ensure a receipt is attached. Note: we require a receipt for all expenses.
 4. Once reviewed and approved, Select **\[Approve and Forward\]** \(as seen below\) on the option drop down and Expensify will designate a pre-populated email address.
