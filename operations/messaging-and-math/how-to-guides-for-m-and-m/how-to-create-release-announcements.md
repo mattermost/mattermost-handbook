@@ -57,6 +57,7 @@ description: 50% Draft
 The Release Manager \(Amy Blais\) owns the release announcement, including the following checklist items unless otherwise indicated:
 
 1. **Exciting title**
+The guidelines below are not strict. It is more important to make sure that the title motivates admins to upgrade, even if it means keeping the title short or leading with a competitor parity feature
    1. Do not lead with a competitor parity feature 
    2. Communicate primary benefit
    3. Lead with the most exciting/impactful new feature
