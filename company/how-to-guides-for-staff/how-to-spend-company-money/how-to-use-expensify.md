@@ -213,4 +213,4 @@ If you are located in either the United Kingdom or Germany, please submit your e
 
 ### Rest of World \(ROW\)
 
-For everyone else, a Bill.com account will need to be set up. If you do not have a Bill.com account and need to set one up, please work with the [Accounts Payable Team](mailto:ap@mattermost.com) who will create your profile in Bill.com for you. If you are uncertain, please reach out to the [Accounts Payable Team](mailto:ap@mattermost.com) for guidance. To ensure accuracy and expediency, please complete [Mattermost Banking Information Form](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#banking-form) which the [Accounts Payable Team](mailto:ap@mattermost.com) will use to set up your credentials.
+For everyone else, follow [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/how-to-get-paid) to set up your banking credentials. If you have questions, the [Accounts Payable Team](mailto:ap@mattermost.com) is here to support. 
