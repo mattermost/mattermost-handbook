@@ -275,7 +275,7 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 * L3 - 24 hours
 * L4 - next business day
 
-**Next Reply Time**
+**Next Reply Time - Premium and E20 only**
 
 **Premium**
 
@@ -290,6 +290,13 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 * L2 - 8 hours
 * L3 - 24 hours
 * L4 - 24 hours
+
+**CSAT**
+
+CSAT stands for _Customer Satisfaction Rating_. 24 hours after the ticket is set to closed, the end-user receives an email asking them to rate their experience.  In the email the end-user is presented with the question "How would you rate the support you received?"  Below the question is the option to select "Good, I'm satisfied" or "Bad, I'm unsatisfied" with the option to leave a comment about their experience.
+
+**CSAT Formula**
+Good, I'm Satisfied / Good I'm Satisfied + Bad I'm Unsatisfied
 
 ## TEDAS
 
