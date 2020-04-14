@@ -23,7 +23,7 @@ You can reach the server at:
 
 The server is also available via the following URLs, primarily used to test pre-release features:
 
- - [https://community-release.mattermost.com](https://community-release.mattermost.com), which runs our upcoming stable release. This server includes work-in-progress features, will contain bugs and have occasional downtime. This server receives regular pushes of features and/or bug fixes of the next release for testing purposes.
+ - [https://community-release.mattermost.com](https://community-release.mattermost.com), which runs our upcoming stable release. This server includes work-in-progress features, and can contain bugs and have occasional downtime. This server receives regular pushes of features and/or bug fixes of the next release for testing purposes.
  - [https://community-daily.mattermost.com](https://community-daily.mattermost.com), which runs latest builds of Mattermost's software, including all pre-release features of our core products. It is the most unstable version of the Mattermost community server. Bugs and occasional downtime is expected as this server receives daily pushes of features and/or bug fixes for testing purposes.
 
 The server has two teams:
