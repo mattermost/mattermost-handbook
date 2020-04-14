@@ -41,7 +41,8 @@ description: 50% Draft
 
 ### E. \(T-minus 5 working days\) CEO Review
 
-* 24 hours prior to CEO review, Release Manager posts the blog draft in the Marketing channel with a hashtag \(e.g. `#mm520`\) to make finding the blog draft easier \(and at-mentions meeting attendees\)
+* 24 hours prior to CEO review, Release Manager posts the blog draft in the Marketing channel with a hashtag \(e.g. `#mm520`\) to make finding the blog draft easier
+   * In the summary post, include the names of reviewers and the average score given by previous reviewers for the title and the one-liners 
 
 ### F. \(T-minus 2 working days\) Set Up Blog Post in Wordpress
 
@@ -57,8 +58,7 @@ description: 50% Draft
 The Release Manager \(Amy Blais\) owns the release announcement, including the following checklist items unless otherwise indicated:
 
 1. **Exciting title**
-The guidelines below are not strict. It is more important to make sure that the title motivates admins to upgrade, even if it means keeping the title short or leading with a competitor parity feature
-   1. Do not lead with a competitor parity feature 
+   1. Focus on the System Admin for Mattermost deciding whether to upgrade or buy E20 to empower end users (customer focus)
    2. Communicate primary benefit
    3. Lead with the most exciting/impactful new feature
    4. Highlight at most 2 features
