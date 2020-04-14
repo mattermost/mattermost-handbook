@@ -36,7 +36,7 @@ _Example 2_: a staff member named John Smith is located in Spain and signed a co
 * The bank account is located in Spain
 * The bank account is in the name of Better Coding, LLC
 
-If you provide information for your banking institution, your invoice and/or expense reimbursements will be made through Bill.com. As noted above, Mattermost requires banking information from a primary banking institution to be able to make reimbursements through Bill.com. You will receive your expense reimbursement no later than 15th and end of each month. 
+If you provide information for your banking institution, your invoice and/or expense reimbursements will be made through Bill.com. As noted above, Mattermost requires banking information from a primary banking institution to be able to make reimbursements through Bill.com. Approved expense reports are reimbursed either by the 15th or end of each month. 
 
 TransferWise
 
