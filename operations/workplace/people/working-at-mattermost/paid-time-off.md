@@ -68,8 +68,7 @@ We have entities in Germany, UK, US, and we have a large Canadian contingent, so
 * Christmas Day (All) \(12/25/2020\)
 * Boxing Day (Canada: ON, Germany, UK) \(12/28/2020\)
 
-It’s up to meeting chairs to decide whether to reschedule if few people can attend \(e.g. if there are a lot of Entity Staff in the meeting\).
-
+It’s up to meeting chairs to decide whether to reschedule if few people can attend \(e.g. if a large number of staff will not be attending the meeting\).
 
 
 
