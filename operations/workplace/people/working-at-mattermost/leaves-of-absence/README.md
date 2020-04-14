@@ -41,7 +41,7 @@ If you or a family member have been affected by COVID-19, please reach out to HR
 1. **Inform and meet with HR.** Every region has specific statutory sick and family leave requirements. Each situation may be different in eligibility criteria andd benefit amounts. 
 2. **Finalize the dates of leave.** Work with the staff member who is planning a leave. This should be completed at least 30 days prior to the leave date, when possible. 
 3. **Approve dates in Bamboo.** Especially in instances where a birth date is not planned, the dates will be approximate and expected to adjust accordingly.
-4. **Create and communicate the plan for coverage. Managers should work with the staff member to create a coverage plan and identify training and documentation that will ensure responsibilities** [are covered](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check).
+4. **Create and communicate the plan for coverage.** Managers should work with the staff member to create a coverage plan and identify training and documentation that will ensure responsibilities [are covered](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check).
 
    **a\) Temporary Staff.** A manager may utilize temporary staffing solutions as part of their coverage plan. Reach out to [People Ops](mailto:hr@mattermost.com) for assistance with temporary staffing agencies. 
 
