@@ -37,33 +37,38 @@ Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Pa
 
 ## Holidays
 
-Please take off holidays relevant to your culture, resident [country/region](../../../../company/about-mattermost/list-of-terms.md#country-region) and preferences. When doing so, please follow the time-off process in [Communicating Time Off](paid-time-off.md#communicating-time-off).
+Please take off holidays relevant to your culture, resident [country/region](../../../../company/about-mattermost/list-of-terms.md#country-region) and preferences. When doing so, please follow the time off process in [Communicating Time Off](paid-time-off.md#communicating-time-off).
 
-### Typical Canadian and U.S. Holidays
+### Typical Public Holidays in Canada, Germany, UK, US
 
-We’re headquartered in the US and have a large Canadian contingent, so below are holidays we’re expecting people from those countries to take off. These are not mandatory company holidays, just guidelines for people in specific [country/regions](../../../../company/about-mattermost/list-of-terms.md#country-region).
+We have entities in Germany, UK, US, and we have a large Canadian contingent, so below are holidays we’re expecting people from those countries to take off. These are not mandatory company holidays, just guidelines for people in specific [country/regions](../../../../company/about-mattermost/list-of-terms.md#country-region).
 
-**US and Canadian Holidays for 2020:**
+**Entity Holidays for 2020:**
 
-* New Year’s Day \(1/1/2020\)
-* US MLK Jr. Day \(1/20/2020\)
-* Canadian Family Day and US Presidents’ Day \(2/17/2020\)
-* US and Canadian Good Friday \(4/10/2020\)
-* Canadian Victoria Day \(5/18/2020\)
-* US Memorial Day \(5/25/2020\)
-* Canada Day \(7/1/2020\)
-* Canada Day additional statutory holiday \(7/2/2020\)
-* US Independence Day \(7/4/2020+\)
-* Canadian Civic / Provincial Day \(8/3/2020\)
-* US Labor Day, Canadian Labour Day \(9/7/2020\)
-* Canadian Thanksgiving \(10/12/2020\)
-* US Thanksgiving \(11/26/2020\)
-* US and Canadian Christmas Day \(12/25/2020\)
-* Canadian Boxing Day \(12/26/2020++\)
+* New Year’s Day (All) \(1/1/2020\)
+* MLK Jr. Day (US) \(1/20/2020\)
+* Presidents’ Day (US) \(2/17/2020\)
+* Family Day/Islander Day (Canada) \(2/17/2020\)
+* Good Friday (All) \(4/10/2020\)
+* Easter Monday (Germany, UK) \(4/12/2020\)
+* Labour Day (Germany) \(5/1/2020\)
+* Early May Bank Holiday (UK) \(5/8/2020\)
+* Victoria Day (Canada) \(5/18/2020\)
+* Ascension Day (Germany) \(5/21/2020\)
+* Spring Bank Holiday (UK) \(5/25/2020\)
+* Memorial Day (US) \(5/25/2020\)
+* Whit Monday (Germany) \(6/1/2020\)
+* Canada Day (Canada) \(7/1/2020\)
+* Independence Day (US) \(7/3/2020\)
+* Civic Holiday/Provincial Day (Canada) \(8/3/2020\)
+* Labor Day (US, Canada) \(9/7/2020\)
+* Thanksgiving (Canada) \(10/12/2020\)
+* Rememberance Day (Canada: BC, AB, PEI) \(11/11/2020\)
+* Thanksgiving (US) \(11/26/2020\)
+* Christmas Day (All) \(12/25/2020\)
+* Boxing Day (Canada: ON, Germany, UK) \(12/28/2020\)
 
-It’s up to meeting chairs to decide whether to reschedule if few people can attend \(e.g. if there are a lot of US or Canadians in the meeting\).
+It’s up to meeting chairs to decide whether to reschedule if few people can attend \(e.g. if a large number of staff will not be attending the meeting\).
 
-+July 4, 2020 \(the legal public holiday for US Independence Day\), falls on a Saturday. For staff, Friday, July 3, may be treated as a holiday.
 
-++December 26, 2020 falls on a Saturday.
 
