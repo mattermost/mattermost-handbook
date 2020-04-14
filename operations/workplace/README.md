@@ -13,7 +13,7 @@ The Mattermost community server runs the latest stable build of Mattermost's sof
 It has two objectives:
 
 * Provide a workplace for Mattermost staff.
-* Engage with our [communities ](../../contributors/contributors/community.md), including users, contributors and partners.
+* Engage with our [communities](../../contributors/contributors/community.md), including users, contributors and partners.
 
 **The Mattermost community server is not a production server and has occasional downtime.**
 
