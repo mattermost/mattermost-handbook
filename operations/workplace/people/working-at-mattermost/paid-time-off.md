@@ -37,7 +37,7 @@ Note: If you are taking [Pregnancy](leaves-of-absence/pregnancy-leave.md) or [Pa
 
 ## Holidays
 
-Please take off holidays relevant to your culture, resident [country/region](../../../../company/about-mattermost/list-of-terms.md#country-region) and preferences. When doing so, please follow the time-off process in [Communicating Time Off](paid-time-off.md#communicating-time-off).
+Please take off holidays relevant to your culture, resident [country/region](../../../../company/about-mattermost/list-of-terms.md#country-region) and preferences. When doing so, please follow the time off process in [Communicating Time Off](paid-time-off.md#communicating-time-off).
 
 ### Typical Public Holidays in Canada, Germany, UK, US
 
@@ -69,7 +69,6 @@ We have entities in Germany, UK, US, and we have a large Canadian contingent, so
 * Boxing Day (Canada: ON, Germany, UK) \(12/28/2020\)
 
 It’s up to meeting chairs to decide whether to reschedule if few people can attend \(e.g. if there are a lot of Entity Staff in the meeting\).
-
 
 
 
