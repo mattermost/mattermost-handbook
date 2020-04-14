@@ -46,7 +46,7 @@
       * [Brand and Visual Design Guidelines](operations/operations/publishing/publishing-guidelines/brand-and-visual-design-guidelines.md)
       * [Voice, Tone and Writing Style Guidelines](operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines.md)
         * [Documentation Style Guide](operations/operations/publishing/publishing-guidelines/documentation-style-guide.md)
-        * [Writing an MVP](operations/operations/publishing/publishing-guidelines/writing-an-mvp.md) 
+        * [Contribute to documentation](operations/operations/publishing/publishing-guidelines/submitting-documentation-with-your-PR.md) 
       * [Confidentiality Guidelines](operations/operations/publishing/publishing-guidelines/confidentiality-guidelines.md)
     * [Post-Publication Quality Control Process](operations/operations/publishing/quality-control-process.md)
   * [Previous Fiscal Year Information](operations/operations/previous-fiscal-year-information.md)
@@ -137,4 +137,3 @@
   * [R&D Onboarding](contributors/onboarding/r-and-d-onboarding.md)
 * [MatterCon](contributors/mattercon/README.md)
   * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
-
