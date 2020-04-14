@@ -65,7 +65,7 @@ We use the Oxford \(serial\) comma in our documentation. For example: "Mattermos
 
 Use sentence case for page titles, headings, and section titles \(e.g. "Writing guidelines for editors"\).
 
-Visit our [Style Guide](https://docs.mattermost.com/developer/style-guide.html) for more information.
+Visit our [Documentation Style Guide](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/documentation-style-guide) for more information.
 
 ## More Information
 
