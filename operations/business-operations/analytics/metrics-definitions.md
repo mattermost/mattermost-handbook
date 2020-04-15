@@ -313,6 +313,19 @@ TEDAS stands for _Telemetry-Enabled Daily Active Servers_. It is the count of un
     * Small/Medium teams typically leverage a single server.
     * Large teams can leverage Enterprise Edition features to create server clusters that allow them to scale their instance.
 
+### TEDAS: Additional Metric Considerations
+
+There are several ways to view the TEDAS metric, and there are several more ways to create metrics that are derivatives of TEDAS. Below are some of the ways to view, pivot, and/or filter the TEDAS metric to gather additional insights regarding the overall health of the business:
+
+* [TEDAS by First Telemetry-Enabled Date](https://mattermost.looker.com/looks/140):
+  * Provides the count of Telemetry-Enabled Servers trended by their first telemetry active date.
+  * Is an indicator of how many New, Telemetry-Enabled Production Servers are being stood up on any given date, week, month, year, etc. throughout the history of Mattermost.
+* [TEDAS >= 7 Days Old w/ Active Users](https://mattermost.looker.com/looks/141):
+  * The count of Telemetry-Enabled Servers that are >= 7 days old since their first telemetry active date w/ >= 1 active user logged on the server.
+* [TEDAS Churn Rate](https://mattermost.looker.com/looks/142):
+  * The rate (percentage) at which Telemetry-Enabled Servers leave the platform (churn) or disable telemetry within a given number of days since the server's first telemetry active date. 
+  * Typically (as of 4/15/20), 75-80% of new, Telemetry-Enabled Servers churn within the first 7 days of their first telemetry active date.
+
 ### Server Considerations
 
 TEDAS only measures the count of active production servers. The Mattermost.server\_daily\_details table is used to calculate TEDAS and only contains production servers. Mattermost.server\_daily\_details is derived from the Events.security table.
