@@ -14,20 +14,21 @@ same section. In most cases, a document has a title, an introductory paragraph, 
 Try to keep only one topic in a page. Shorter topics are easier to reuse in other documents, are 
 easier to write and edit, and are easier to translate.
 
+### Document title
+
+The title appears in the left-hand navigation and at the top of the table of contents. Use a title that accurately reflects the content of the document. People scan the table of contents looking for answers; it's often faster than using the built-in search engine. 
+
+**Use Title Case for document titles (e.g. "This is an Article about Documentation").**
+
+
 ### Document sections
 
 To make pages easier for people to quickly scan for the content that they're looking for, break your 
-document up into logical sections. Each section should have a title, and the title should relate 
-to the content of the section. Use sentence case for the section title.
+document up into logical sections. Each section should have a heading, and the heading should relate 
+to the content of the section. A section heading is not required if you have only one section.
 
-A section title is not required if you have only one section.
+**Use sentence case for the section heading (e.g. "This section is about types of headings").**
 
-### Document title
-
-Use a title that accurately reflects the content of the document. People scan the table of contents 
-looking for answers; it's often faster than using the built-in search engine.
-
-Use title case for document titles (e.g. "This is an article about documentation").
 
 ### Abstract
 
@@ -62,7 +63,7 @@ Use the following conventions when writing in `.rst`.
 Underline page titles using `=`, with no overline. Underlines should be as long as the title text. For example:
 
 ```
-  Document title
+  Document Title
   ==============
 ```
 
