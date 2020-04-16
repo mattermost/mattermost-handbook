@@ -72,7 +72,9 @@ Use [GIF Brewery](https://gfycat.com/gifbrewery) to create GIFs. Ensure there ar
 
 #### Don't zoom past 100% and pixelated images
 
-When you need to show a particular part of the product, don't crop the image and zoom past 100% to show the functionality.   Screenshots should be full-sized (no zoom-in, no resizing within GDoc), potentially stored in a TIF file. Example of what not to do: 
+When you need to show a particular part of the product, don't crop the image and zoom past 100% to show the functionality. Screenshots should be full-sized (no zoom-in, no resizing within Google Doc), potentially stored in a TIF file. For optimal quality on Mac screenshots, [see this help article](https://graphicdesign.stackexchange.com/questions/30081/highest-quality-website-screenshot/30142#30142).
+
+Example of what not to do: 
 
 ![DO NOT use Zoom level other than 100% for screenshots](../../../.gitbook/assets/screenshot_guidelines.png)
 
