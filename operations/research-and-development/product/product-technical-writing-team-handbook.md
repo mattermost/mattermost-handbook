@@ -31,12 +31,12 @@ The Technical Writing team focuses primarily on the User Guide, Admin Guide, and
 #### @sebastian.faase:
 
 - Identifying and ranking gaps and pain points among customers
-- Establish difference in voice and tone between CE and technical documents
-- Create customer centered guides for following critical points in deployment
+- Establish difference in voice and tone between Customer Education content and technical documentation
+- Create customer-centered guides for following critical points in deployment
   - Initial setup
   - License use after trial
   - License renewal
-  - Reducing customers need for MM Support
+  - Reducing customer need for Mattermost support
 
 #### @\[To Be Hired\]:
 
@@ -193,14 +193,14 @@ When it comes to identifying gaps and pain points, ranking them is important in 
 
 #### Identification
 
-- Monitor support tickets and get regular feedback from Support Engineers through the support channel
-- Ensure information flow with Solutions Architects and Customer Success Managers e.g. by receiving a regular report
-- Use already existing structures between Customer Support and Customer Success to avoid overhead; Customer Support is constantly sharing information with Customer Success Managers
+- Monitor support tickets and get regular feedback from Support Engineers through the Support channel.
+- Ensure information flow with Solution Architects and Customer Success Managers (e.g. by receiving a regular report).
+- Use existing communication structures between Customer Support and Customer Success to avoid overhead.
 
 #### Ranking
 
-- Use existing metrics from the ticket system like priority and customer revenue to rank identified issues
-- Compare Customer Support time put into issues to generated revenue for high impact
+- Use existing metrics (e.g. priority and customer revenue) from the ticket system to rank identified issues.
+- Compare Customer Support time put into issues to generated revenue for high impact.
 
 #### What is missing
 
@@ -230,4 +230,3 @@ If you have any questions, you can post them in the [Documentation](https://comm
 Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated \(or created\) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation. The documentation can be as detailed or concise as deemed necessary - consider it an MVP which can be refined at a later stage.
 
 When submitting your PR, please include the **Editor Review** label and add @amyblais or @justinegeffen in GitHub as an approver.
-
