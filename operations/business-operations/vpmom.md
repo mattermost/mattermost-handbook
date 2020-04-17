@@ -45,7 +45,8 @@ Business Operations exists to make all of the Mattermost functions wildly succes
 
 **Obstacles**
 
-* Clear systems ownership. Specifically GTM systems and IT systems.
+* Clear systems ownership. Specifically GTM systems.
+* Clear customer ownership. We rely on our customers to know their business and be available and engaged when working on solving a business problem together.
 * Alignment with R&D on who owns what. There are dozens of services that need to be built and it’s important to have alignment. 
 * Shifting priorities. It’s difficult to be efficient when we start a project and need to pivot to something else.
 * Staffing needs and Program spend.
