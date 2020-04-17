@@ -2,13 +2,23 @@
 
 Vision
 
-* Make other functions wildly successful by providing stellar support with process, tooling,  IT, and data-driven infrastructure and analytics
+* Business Operations exists to make all of the Mattermost functions wildly successful. We do this by providing the best possible People, Process and Systems.
 
 Values
 
-* Trust
-* Growth
-* Iteration
+* **Customer Love**
+    * BizOps exists to serve our customers, both internally and externally. To do this, we must focus on stellar customer service. 
+    * Everything we do is a product. We make sure that anything we ship is thorough, easy to use and documented. We pride ourselves on established customer SLAs and our ability to meet them consistently.
+* **Trust**
+    * We are the Trusted Advisor. We strive to stay “function-neutral”, doing what is best for the company, not one particular group or person.
+    * We are passionate about securing all of our data. Security compliance (GDPR, etc.) is not an option and we will strive daily to achieve that goal.
+    * We are transparent and open about what we can do and what we can’t. If we miss a deliverable in scope or deadline, we own it and work to ensure that never happens again. 
+    
+* **Ruthless Efficiency**
+    * We will automate tasks wherever possible, even if it means that it takes longer to get something done up front. 
+    * If a meeting can be 30 mins then it won’t be an hour. 
+    * We project manage to great detail, which keeps us on track and minimizes scope-creep and project slip.
+
 
 Methods
 
