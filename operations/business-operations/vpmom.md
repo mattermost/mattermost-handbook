@@ -2,7 +2,7 @@
 
 **Vision**
 
-* Business Operations exists to make all of the Mattermost functions wildly successful. We do this by providing the best possible People, Process and Systems.
+Business Operations exists to make all of the Mattermost functions wildly successful. We do this by providing the best possible People, Process and Systems.
 
 **Values**
 
@@ -22,27 +22,23 @@
 
 **Methods**
 
-* Analytics and Data Engineering
-You can’t impact what you can’t measure. Data is at the heart of everything we do at Mattermost. To move forward we must understand how the company is currently operating so that we can adjust, observe and react. This function provides the following:
+* Analytics and Data Engineering: You can’t impact what you can’t measure. Data is at the heart of everything we do at Mattermost. To move forward we must understand how the company is currently operating so that we can adjust, observe and react. This function provides the following:
     * Centralized Operational Data Store (ODS) and Data Warehouse (DWH)
     * Data Integration (ETL) framework for data movement and consolidation
     * Canonical definitions and documentations for all key metrics
     * Analytics support ranging from project based (i.e: ARR) to ongoing one-off requests
     * Analytics systems management: Salesforce, Looker, etc.
-* Customer Journey Operations
-When we talk about “The Customer Journey”, much of this happens because of Goto Market (GTM) Operations. This refers to all of the systems and processes used to make it happen
+* Customer Journey Operations: When we talk about “The Customer Journey”, much of this happens because of Goto Market (GTM) Operations. This refers to all of the systems and processes used to make it happen
     * Funnel Lifecycle Management
     * Sales and Marketing systems ownership and integrations
     * CJ specific reporting/dashboarding/alerting
     *Customer Success Operations: Renewals automations, Onboarding, Zendesk integrations, Health scores and more.
-* Billings, Licensing and Provisioning (BLP)
-Whenever a customer uses a Mattermost product, they need a license and they need to be provisioned. In the case of a paying customer, they also need to be billed. BLP encompasses all the systems and functions necessary to make that happen.
+* Billings, Licensing and Provisioning (BLP): Whenever a customer uses a Mattermost product, they need a license and they need to be provisioned. In the case of a paying customer, they also need to be billed. BLP encompasses all the systems and functions necessary to make that happen.
     * Self service portal/page
     * License and Provisioning services
     * Billings services
     * Tax collection for online purchases
-* MLT/MLX Support
-MLT is the Mattermost Leadership Team. MLX is the eXtended leadership team. Those groups set the strategic direction for the company and make sure things get done.
+* MLT/MLX Support: MLT is the Mattermost Leadership Team. MLX is the eXtended leadership team. Those groups set the strategic direction for the company and make sure things get done.
     * Strategic input
     * Project Management
     * Cross-functional support
@@ -51,9 +47,8 @@ MLT is the Mattermost Leadership Team. MLX is the eXtended leadership team. Thos
 
 * Clear systems ownership. Specifically GTM systems and IT systems.
 * Alignment with R&D on who owns what. There are dozens of services that need to be built and it’s important to have alignment. 
-* Staffing needs. Placeholder until final headcount plan is reviewed
 * Shifting priorities. It’s difficult to be efficient when we start a project and need to pivot to something else.
-
+* Staffing needs and Program spend.
 
 **Measures**
 
