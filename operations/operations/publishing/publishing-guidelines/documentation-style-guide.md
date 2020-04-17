@@ -18,7 +18,7 @@ easier to write and edit, and are easier to translate.
 
 The title appears in the left-hand navigation and at the top of the table of contents. Use a title that accurately reflects the content of the document. People scan the table of contents looking for answers; it's often faster than using the built-in search engine. 
 
-**Use Title Case for document titles (e.g. "This is an Article about Documentation").**
+**Use Title Case for document titles (e.g. "This is an Article about Documentation"). Where a word/title/name is lowercase, retain that casing in the title (e.g. "This Article Covers the mmctl Tool").**
 
 
 ### Document sections
@@ -27,7 +27,7 @@ To make pages easier for people to quickly scan for the content that they're loo
 document up into logical sections. Each section should have a heading, and the heading should relate 
 to the content of the section. A section heading is not required if you have only one section.
 
-**Use sentence case for the section heading (e.g. "This section is about types of headings").**
+**Use sentence case for the section heading (e.g. "This section is about types of headings") except where a word/phrase is a proper noun (e.g. "Mattermost"), the name of a country/region (e.g. "The United States of America"), and so on.**
 
 
 ### Abstract
