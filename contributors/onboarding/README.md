@@ -33,16 +33,16 @@ This is not a formal performance review. The intent is to align expectations and
 
 ### **New Colleague 90-Day Feedback Process**
 
-## * **Managers**
+#### **Managers**
     * Complete a [new colleague peer panel form](https://www.surveymonkey.com/r/newcolleaguepanel) for the new staff member. Mattermost Notifications are sent to managers on a new colleague's 75th date of employment. This kicks off the [review process](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#how-is-feedback-shared). 
     * Managers receive a unique link to track and view peer panel results after the survey is sent. 
     * People Ops share the new colleague's self-assessment once completed. 
     * Complete and share the [90-Day New Colleague Manager Feedback](https://docs.google.com/document/d/14eekRFrwZZILb7U9Xe1LXIlZf1PyOAnZpDSJE9_-niY/edit?userstoinvite=lauren%40mattermost.com&ts=5e8399b1&actionButton=1) with the new colleague and HR. 
      * Note: HR files the review in BambooHR so a new colleague can access at any time. Also, this review is part of the post-onboarding readiness metric assessment. This review is not a [formal review](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50/formal-review-process).  
-## * **New Colleagues**
+#### **New Colleagues**
     * Complete the 90-Day New Colleague Self Assessment. Links to the assessments are below. Please select the link based on your hire date. A Mattermost notification is sent on day 75 with a reminder to complete the assessment. 
       * [90-Day New Colleague Self-Assessment. Start dates: Nov. 2019 - Jan 2020](https://www.surveymonkey.com/r/90daySelfAssessmentQ4FY20). 
-## * **Peers**
+#### **Peers**
     * Complete peer review via the Survey Monkey link you received or using one of the links below: 
       * [Q4 FY20 New Colleagues](https://www.surveymonkey.com/r/90dQ4newcolleague) - Joined Mattermost between 1 November 2019 and 31 January 2020.
       * [Q1 FY21 New Colleagues](https://www.surveymonkey.com/r/FY21Q190DNewColleague) - Joined Mattermost between 1 February 2020 and 30 April 2020
