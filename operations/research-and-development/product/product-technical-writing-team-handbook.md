@@ -108,6 +108,8 @@ If your change requires dev review add the developer/s you've been working with 
 
 Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the Doc Up plugin embedded in the post menu.
 
+![Access the Doc Up plugin by hovering over a message and clicking the &quot;...&quot; menu.](../../../.gitbook/assets/doc-up-plugin.png)
+
 When you select Doc Up and choose **Admin** as the issue type, an issue is generated in the GitHub docs repo, and added to the issues list. An update is listed in the Documentation channel, with the issue link.
 
 You can also select **Developer** or **Company Handbook** to direct the Doc Up request to the appropriate repo.
