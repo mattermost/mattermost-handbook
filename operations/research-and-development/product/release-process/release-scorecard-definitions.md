@@ -62,15 +62,15 @@ https://docs.google.com/spreadsheets/d/1Aoj4OTaWoyrKIcQNiHH1MVoRG51T20Y_0w2tg5oV
 </tr>
 <tr class="odd">
 <td>Number of P1 bugs reported in production</td>
-<td>**Bug severity guidelines are in progress, after which a Jira query will be built</td>
+<td>Bug severity guidelines are in progress, after which a Jira query will be built</td>
 </tr>
 <tr class="even">
 <td>Number of P2 bugs reported in production</td>
-<td>**Bug severity guidelines are in progress, after which a Jira query will be built</td>
+<td>Bug severity guidelines are in progress, after which a Jira query will be built</td>
 </tr>
 <tr class="odd">
 <td>Number of P3 bugs reported in production</td>
-<td>**Bug severity guidelines are in progress, after which a Jira query will be built</td>
+<td>Bug severity guidelines are in progress, after which a Jira query will be built</td>
 </tr>
 </tbody>
 </table>
