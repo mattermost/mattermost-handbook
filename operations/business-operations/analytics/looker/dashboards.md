@@ -6,6 +6,12 @@
 
 * [GitHub Contributors Dashboard](https://mattermost.looker.com/dashboards/15)
 
+## Customer Success
+
+* [Customer Success Overview](https://mattermost.looker.com/dashboards/49)
+* [Customer Success Account Health Score](https://mattermost.looker.com/dashboards/36)
+* [Support Overview](https://mattermost.looker.com/dashboards/59)
+
 ## Finance
 
 * [ARR Overview Dashboard](https://mattermost.looker.com/dashboards/14)
