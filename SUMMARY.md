@@ -85,7 +85,6 @@
   * [M&M Asana Guidelines](operations/messaging-and-math/asana-guidelines.md)
 * [Sales](operations/sales.md)
 * [Customer Success](operations/customer-success/README.md)
-  * [Analytics](operations/customer-success/analytics.md)
 * [Business Operations](operations/business-operations/README.md)
   * [V2MOM](operations/business-operations/vpmom.md)
   * [Analytics](operations/business-operations/analytics/README.md)
