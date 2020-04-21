@@ -5,8 +5,7 @@
 ### Customer Success Key Info
 
 * [Customer Feedback](https://community.mattermost.com/private-core/channels/customer-feedback): Customer feedback archive and Feature Idea Flowchart
-* [Customer Support](https://community.mattermost.com/private-core/channels/community): Discussion, escalation process, feedback form, office hour notes
-* [Community Guidelines](https://sites.google.com/a/mattermost.com/core-team/community-forum-guidelines?pli=1): How to handle support forums. [sample community responses](https://docs.google.com/document/d/1WcVXpWA5QX1ukBC5vYYTqT5hErGb5bm8F1vHP9oZ21Q/edit)
+
 
 ### FY20 Customer Success \(TBA\)
 
