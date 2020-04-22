@@ -7,7 +7,7 @@
 * Joe Wai Tye - Suppor Engineer
 * Paul Rothrock - Customer Community Manager, Customer Success
 
-![](../../.gitbook/assets/Support-team-image-for-handbook.PNG)
+![](../../.gitbook/assets/Support-team-image-for-handbook.png)
 
 **Where to find us:**
 
