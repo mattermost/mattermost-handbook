@@ -10,5 +10,6 @@ Details of what the Support Team provides for our Enterprise Customers can be fo
 
 **Where to find us:**
 
-Mattermost Channels: Customer Support, Support Standup, Support Team
-Email: support@mattermost.com
+* Mattermost Channels: Customer Support, Support Standup
+* Support Team Email: support@mattermost.com
+* Customer Support Portal: https://support.mattermost.com
