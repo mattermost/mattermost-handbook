@@ -247,10 +247,10 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 
 #### Ticket Level
 
-* **Level 1: Critical Business Impact:** Critical issue on production system preventing business operations. A large number of users are prevented from working, and no procedural workaround is available.
-* **Level 2: Major Business Impact:** Major issue on the production system severely impacting business operations.
-* **Level 3: Moderate Business Impact:** Moderate issue causing a partial or non-critical loss of functionality on the production system. A small number of users are affected.
-* **Level 4: Minor Business Impact:** Minor issue on non-production system or question, comment, feature request, documentation issue or other non-impacting issues.
+* **Level 1: Urgent Business Impact:** Urgent issue on production system preventing business operations. A large number of users are prevented from working, and no procedural workaround is available.
+* **Level 2: High Business Impact:** Major issue on the production system severely impacting business operations.
+* **Level 3: Normal Business Impact:** Moderate issue causing a partial or non-critical loss of functionality on the production system. A small number of users are affected.
+* **Level 4: Low Business Impact:** Minor issue on non-production system or question, comment, feature request, documentation issue or other non-impacting issues.
 
 #### Ticket Measures
 
@@ -263,33 +263,33 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 
 **Premium**
 
-* L1 - 1 hour
-* L2 - 2 hours
-* L3 - 8 hours
-* L4 - 24 hours
+* L1 (Urgent) - 1 hour
+* L2 (High) - 2 hours
+* L3 (Normal) - 8 hours
+* L4 (Low) - 24 hours
 
 **E20**
 
-* L1 - 4 hours
-* L2 - 8 hours
-* L3 - 24 hours
-* L4 - next business day
+* L1 (Urgent) - 4 hours
+* L2 (High) - 8 hours
+* L3 (Normal) - 24 hours
+* L4 (Low) - next business day
 
 **Next Reply Time - Premium and E20 only**
 
 **Premium**
 
-* L1 - 2 hours
-* L2 - 4 hours
-* L3 - 24 hours
-* L4 - 24 hours
+* L1 (Urgent) - 2 hours
+* L2 (High) - 4 hours
+* L3 (Normal) - 24 hours
+* L4 (Low) - 24 hours
 
 **E20**
 
-* L1 - 4 hours
-* L2 - 8 hours
-* L3 - 24 hours
-* L4 - 24 hours
+* L1 (Normal) - 4 hours
+* L2 (High) - 8 hours
+* L3 (Normal) - 24 hours
+* L4 (Low) - 24 hours
 
 **CSAT**
 
