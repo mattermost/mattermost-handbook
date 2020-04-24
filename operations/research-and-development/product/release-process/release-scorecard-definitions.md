@@ -62,15 +62,15 @@ https://docs.google.com/spreadsheets/d/1Aoj4OTaWoyrKIcQNiHH1MVoRG51T20Y_0w2tg5oV
 </tr>
 <tr class="odd">
 <td>Number of P1 bugs reported in production</td>
-<td>Count of major issues reported in documentation or marketing by customers, CSMs, Support or Product. E.g. dot releases from customer reports, undocumented breaking changes.</td>
+<td>Count of major issues reported in product, documentation or marketing by customers, CSMs, Support or Product. E.g. dot releases from customer reports, undocumented breaking changes.</td>
 </tr>
 <tr class="even">
 <td>Number of P2 bugs reported in production</td>
-<td>Count of medium level issues reported in documentation or marketing by customers, CSMs, Support or Product. E.g. dot releases from customer reports, undocumented breaking changes.</td>
+<td>Count of medium level issues reported in product, documentation or marketing by customers, CSMs, Support or Product. E.g. dot releases from customer reports, undocumented breaking changes.</td>
 </tr>
 <tr class="odd">
 <td>Number of P3 bugs reported in production</td>
-<td>Count of small issues reported in documentation or marketing by customers, CSMs, Support or Product. E.g. dot releases from customer reports, undocumented breaking changes.</td>
+<td>Count of small issues reported in product, documentation or marketing by customers, CSMs, Support or Product. E.g. dot releases from customer reports, undocumented breaking changes.</td>
 </tr>
 </tbody>
 </table>
