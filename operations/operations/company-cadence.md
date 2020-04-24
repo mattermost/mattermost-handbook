@@ -123,13 +123,22 @@ Links to previous staff enablement surveys:
 
 ## CEO Listening Tours
 
-CEO will be on a series of “listening tours” over Zoom to spend 25-50 minutes with different groups of 5-8 staff within a department to hear likes and wishes about the company. Managers of the team members in the group are typically not in the listening tour group.
+Listening to feedback is vital to iteration, and to continually improving everything we do.
 
-The priority of the meeting is listening. During these sessions CEO takes copious notes and refrains from any commentary, though may ask follow-up questions.
+Feedback and listening is at the core of our self-awareness leadership principle. We have annonymous feedback available in every weekly Customer Obsession/All-Hands Meeting. 
 
-At the end of the session CEO reads back what they heard. The notes are shared with the management chain between CEO and the group to share feedback.
+CEO Listening Tours happen over Zoom in meetings around 25-30 minutes with different groups of 5-8 staff, typically withing a department or in a related function. Managers of the team members in the group are typically not in the listening tour group.
 
-It is the decision of managers on how to address the feedback at the team level and CEO will be able to incorporate the information at the company level.
+Some notes about Listening Tours: 
 
-In the past, participants and managers of listening tours have found the meetings productive for uncovering blindspots at the company and within departments.
+- It's an opportunity to hear from staff about their likes and wishes, which could be about their team, their department, the company in general, or on any topic. These could be likes and wishes off the top of your head, or maybe it's something you've been thinking about for a while. 
 
+- The priority of the meeting is listening. During these sessions CEO takes notes and refrains from commentary, though may ask follow-up questions. 
+
+- At the end of the session CEO reads back what they heard. The notes are shared with the management chain between CEO and the group to share feedback.
+
+- It is up to managers on how to process and address the feedback at the team level and CEO will be able to incorporate the information at the company level.
+
+- In the past, participants and managers of listening tours have found the meetings productive for uncovering blindspots at the company and within departments.
+
+If you're not able to make a particular listening meeting, please ping Amy Nicol to add you to a different slot. 
