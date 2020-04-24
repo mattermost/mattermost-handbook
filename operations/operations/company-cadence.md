@@ -131,7 +131,7 @@ CEO Listening Tours happen over Zoom in meetings around 25-30 minutes with diffe
 
 Some notes about Listening Tours: 
 
-- It's an opportunity to hear from staff about their likes and wishes, which could be about their team, their department, the company in general, or on any topic. These could be likes and wishes off the top of your head, or maybe it's something you've been thinking about for a while. 
+- It's an opportunity to hear from staff about their likes and wishes, which could be about their team, their department, the company in general, or on any topic. These could be likes and wishes off the top of your head, or maybe something you've been thinking about for a while. 
 
 - The priority of the meeting is listening. During these sessions CEO takes notes and refrains from commentary, though may ask follow-up questions. 
 
