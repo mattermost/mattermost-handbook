@@ -120,14 +120,17 @@ Review the issue in the [docs repo](https://github.com/mattermost/docs/issues?q=
 
 **Turnaround Time**
 
-When the issue has been created, please follow these guidelines to assign appropriate \[labels\] \([https://developers.mattermost.com/contribute/getting-started/labels](https://developers.mattermost.com/contribute/getting-started/labels)\). This ensures that the issues are prioritized appropriately.
+When the issue has been created, please follow these guidelines to assign [labels](https://developers.mattermost.com/contribute/getting-started/labels). This ensures that the issues are prioritized appropriately.
 
 You can expect the following approximate turnaround times:
 
 * Urgent issues \(bug, customer request/dealbreaker\): Acknowledged within 24 hours.
 * General issues: Acknowledged within 48 hours.
 
-There are a number of variables at play and providing a hard and fast time-frame for completion. A rough guideline is between 3 and 5 days for most work and 2 - 3 weeks for larger projects. Larger projects might be moved to Jira if appropriate.
+There are a number of variables at play, such as review process, current workload, and type of work required which makes it difficult to provide a hard and fast time-frame for completion. 
+
+A rough guideline is between 3 and 5 days for the writing/editing portion of the work and 2 - 3 weeks for larger projects (these projects might be moved to Jira if required). 
+
 
 **Assignees**
 
