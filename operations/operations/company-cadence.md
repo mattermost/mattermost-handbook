@@ -137,7 +137,7 @@ Some notes about Listening Tours:
 
 - At the end of the session the CEO reads back what they heard. The notes are shared with the management team/s of the group.
 
-- It is up to managers on how to process and address the feedback at the team level and CEO will be able to incorporate the information at the company level.
+- It's then up to managers to decide how to process and address the feedback at the team level. The CEO can also incorporate the information at the company level.
 
 - In the past, participants and managers of listening tours have found the meetings productive for uncovering blindspots at the company and within departments.
 
