@@ -127,7 +127,7 @@ Listening to feedback is vital to iteration and to continually improve everythin
 
 Feedback and listening is at the core of our self-awareness leadership principle. We have annonymous feedback available in every weekly Customer Obsession/All-Hands Meeting. 
 
-CEO Listening Tours happen over Zoom in meetings around 25-30 minutes with different groups of 5-8 staff, typically withing a department or in a related function. Managers of the team members in the group are typically not in the listening tour group.
+CEO Listening Tours happen over Zoom in meetings around 25-30 minutes with different groups of 5-8 staff, typically within the same department or in a related function. Managers of the team members in the group are typically not included in the meeting.
 
 Some notes about Listening Tours: 
 
