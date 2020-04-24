@@ -123,7 +123,7 @@ Links to previous staff enablement surveys:
 
 ## CEO Listening Tours
 
-Listening to feedback is vital to iteration, and to continually improving everything we do.
+Listening to feedback is vital to iteration and to continually improve everything we do.
 
 Feedback and listening is at the core of our self-awareness leadership principle. We have annonymous feedback available in every weekly Customer Obsession/All-Hands Meeting. 
 
