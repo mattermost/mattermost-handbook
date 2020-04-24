@@ -299,6 +299,8 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
             - Upgrade dependancies for webapp, server, and Redux
        - Week after release (for GitLab dev owner)
             - [Submit GitLab Omnibus RC install of Mattermost](https://mattermost.atlassian.net/browse/MM-9872)
+       - The week of code complete:
+            - [Add telemetry for new configuration settings in the release](https://mattermost.atlassian.net/browse/MM-24483)
     - Confirm that [mattermost-docker](https://github.com/mattermost/mattermost-docker/releases) has been updated to the latest version (contact the maintainer via direct message on community server if necessary)
     - Contact owners of [community installers](http://www.mattermost.org/installation/) or submit PRs to update install version number
       - For Puppet, Heroku, and Ansible Playbook, post to Installers and Images channel announcing the new release. See [example](https://community.mattermost.com/core/pl/fgjqthmn67nujjtx4fcrn1hd9a)
