@@ -135,7 +135,7 @@ Some notes about Listening Tours:
 
 - The priority of the meeting is listening. During these sessions CEO takes notes and refrains from commentary, though may ask follow-up questions. 
 
-- At the end of the session CEO reads back what they heard. The notes are shared with the management chain between CEO and the group to share feedback.
+- At the end of the session the CEO reads back what they heard. The notes are shared with the management team/s of the group.
 
 - It is up to managers on how to process and address the feedback at the team level and CEO will be able to incorporate the information at the company level.
 
