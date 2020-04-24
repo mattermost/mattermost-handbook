@@ -141,4 +141,4 @@ Some notes about Listening Tours:
 
 - In the past, participants and managers of listening tours have found the meetings productive for uncovering blindspots at the company and within departments.
 
-If you're not able to make a particular listening meeting, please ping Amy Nicol to add you to a different slot. 
+If you're not able to make a particular listening meeting, please ping @amy.nicol to add you to a different slot. 
