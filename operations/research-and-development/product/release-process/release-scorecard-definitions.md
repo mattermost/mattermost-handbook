@@ -91,7 +91,7 @@ https://docs.google.com/spreadsheets/d/1Aoj4OTaWoyrKIcQNiHH1MVoRG51T20Y_0w2tg5oV
 <tbody>
 <tr class="odd">
 <td>Number of misses in each release cycle</td>
-<td>Count of issues encountered during the release cycle. E.g. no early advance notification of upcoming deprecated ESR.</td>
+<td>Count of issues encountered during the release cycle. E.g. no process for an early advance notification for upcoming deprecated ESR.</td>
 </tr>
 <tr class="even">
 <td>Number of setbacks to users/staff resulting in a negative reaction</td>
