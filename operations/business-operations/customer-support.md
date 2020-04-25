@@ -16,7 +16,7 @@ Details of what the Support Team provides for our Enterprise Customers can be fo
 
 **Mattermost Ticketing System**
 
-To ensure that all issues raised with the Mattermost Support Team can be easily tracked, updated, and resolved, the Support Team uses [Zendesk](https://www.zendesk.com/) as their case management software.
+To ensure that all issues raised with the Mattermost Support Team can be easily tracked, updated, and resolved the Support Team uses [Zendesk](https://www.zendesk.com/) to manage cases.
 Customers can access the Support Portal and submit/view their tickets via https://support.mattermost.com. 
 
 **New Users to Mattermost Support**
