@@ -71,7 +71,7 @@ Any case that can’t be resolved by the Support Team is escalated to the Matter
 - Sustained Engineering
 - Product
 - Customer Success
-- MLTx
+- Mattermost Leadership Team (MLT)
 
 **Action plan created**
 
