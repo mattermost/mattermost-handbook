@@ -30,7 +30,7 @@ If you’ve worked with the Mattermost Support Team before and have existing or 
 
 ## Ticket management 
 
-## Ticket Creation ##
+### Ticket creation 
 
 When submitting a Support Ticket to the Mattermost Support Team we recommend that you use the ‘Submit a Request’ option from with the Support Portal.  This will ensure that we get the required information from you.
 
