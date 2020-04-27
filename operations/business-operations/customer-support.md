@@ -61,7 +61,7 @@ Note: Descriptions of each status can be found [here](https://handbook.mattermos
 
 Some technical issues may need to be addressed by our Engineering Team for further investigation. If this is the case, you will be notified via the Support Ticket and the following internal steps will be carried out.
 
-## Customer Support/Sustaining Engineering Team ##
+## Customer Support/Sustained Engineering Team
 
 Any case that can’t be resolved by the Support Team is escalated to the Mattermost Sustaining Engineering Team for their review.
 
