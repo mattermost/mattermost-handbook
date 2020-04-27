@@ -82,7 +82,7 @@ Any case that can’t be resolved by the Support Team is escalated to the Matter
  - The fix is tested internally
  - An update is provided via the Support Ticket
 
-**The fix is Moved to Production**
+**The fix is moved to Production**
 
  - The fix is released to the latest Production version of Mattermost for download 
  - An update is provided via the Support Ticket
