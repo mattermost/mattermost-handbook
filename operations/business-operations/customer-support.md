@@ -53,7 +53,7 @@ To ensure that we can assist our customers most efficiently it's important that 
 
  ## Ticket workflow
 
-While working with our customers the Support Team will us the following ticket statuses to manage the ticket, New, Open, Pending, Solved, and Closed.  The workflow will be as follows:
+The Support Team use the following ticket statuses to manage customer tickets: New, Open, Pending, Solved, and Closed. The workflow will be as follows:
 
 Note: Descriptions of each status can be found [here](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#support-tickets).
  
