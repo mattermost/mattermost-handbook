@@ -87,6 +87,6 @@ Any case that can’t be resolved by the Support Team is escalated to the Matter
  - The fix is released to the latest Production version of Mattermost for download 
  - An update is provided via the Support Ticket
 
-**Urgent & High Ticket Escalation Process for Premier Support Customers**
+**Urgent and high priority ticket escalation process for Premium Support customers**
 
 For urgent and high priority issues from our Premium Support customers, an automated escalation process will be activated to ensure 24x7 cover for these issues.
