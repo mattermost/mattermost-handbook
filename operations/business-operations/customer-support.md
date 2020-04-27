@@ -51,7 +51,7 @@ To ensure that we can assist our customers most efficiently it's important that 
 | **Mobile device**     |Please select which type of device you are experiencing the issue on.            |
 | **Attachments**     |Add screenshots, logs, etc to the ticket here.            |
 
- ## Ticket Workflow ##
+ ## Ticket workflow
 
 While working with our customers the Support Team will us the following ticket statuses to manage the ticket, New, Open, Pending, Solved, and Closed.  The workflow will be as follows:
 
