@@ -8,7 +8,7 @@ Details of what the Support Team provides for our Enterprise Customers can be fo
 
 ![](../../.gitbook/assets/Support-team-image-for-handbook.png)
 
-## Where to find us:
+## Where to find us
 
 * Mattermost Channels: Customer Support, Support Standup
 * Enterprise Support Team Email: support@mattermost.com
