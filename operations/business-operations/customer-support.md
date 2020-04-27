@@ -59,7 +59,7 @@ Note: Descriptions of each status can be found [here](https://handbook.mattermos
  
 ## Issue Escalation Process ##
 
-Some technical issues may need to be addressed by our Engineering Team.  When this occurs you will be notified via the Support Ticket and the following internal steps will be carried out.
+Some technical issues may need to be addressed by our Engineering Team for further investigation. If this is the case, you will be notified via the Support Ticket and the following internal steps will be carried out.
 
 ## Customer Support/Sustaining Engineering Team ##
 
