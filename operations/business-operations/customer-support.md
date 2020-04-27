@@ -4,7 +4,7 @@ The team is based across three continents to ensure a follow the sun approach to
 
 Details of what the Support Team provides for our Enterprise Customers can be found [here](https://mattermost.com/support/), this includes our support options and SLA’s.
 
-## Meet the Team: 
+## Meet the team
 
 ![](../../.gitbook/assets/Support-team-image-for-handbook.png)
 
