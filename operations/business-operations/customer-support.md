@@ -14,7 +14,7 @@ Details of what the Support Team provides for our Enterprise Customers can be fo
 * Enterprise Support Team Email: support@mattermost.com
 * Customer Support Portal: https://support.mattermost.com
 
-## Mattermost Ticketing System 
+## Mattermost ticketing system 
 
 To ensure that all issues raised with the Mattermost Support Team can be easily tracked, updated, and resolved, the Support Team uses Zendesk as their case management software.
 
