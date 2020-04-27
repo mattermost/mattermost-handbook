@@ -20,7 +20,7 @@ To ensure that all issues raised with the Mattermost Support Team can be easily 
 
 Customers can access the Support Portal and submit/view their tickets via https://support.mattermost.com.  
 
-## New Users to Mattermost Support ##
+## New Mattermost Support users
 
 If you are new to Mattermost Support you can click [here](https://mattermost.zendesk.com/auth/v2/login/registration?auth_origin=327479%2Ctrue%2Ctrue&brand_id=327479&return_to=https%3A%2F%2Fsupport.mattermost.com%2Fhc%2Fen-us&theme=hc) to set up and verify your account.
 
