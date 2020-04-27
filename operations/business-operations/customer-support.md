@@ -63,7 +63,7 @@ Some technical issues may need to be addressed by our Engineering Team for furth
 
 ## Customer Support/Sustained Engineering Team
 
-Any case that can’t be resolved by the Support Team is escalated to the Mattermost Sustaining Engineering Team for their review.
+Any case that can’t be resolved by the Support Team is escalated to the Mattermost Sustained Engineering Team (SET) for their review.
 
 **If the issue is confirmed as a product issue then a Pull Request is created and where necessary members of the following Teams are involved:**
 
