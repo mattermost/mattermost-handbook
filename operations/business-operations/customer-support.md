@@ -4,17 +4,17 @@ The team is based across three continents to ensure a follow the sun approach to
 
 Details of what the Support Team provides for our Enterprise Customers can be found [here](https://mattermost.com/support/), this includes our support options and SLA’s.
 
-## Meet the Team: ##
+## Meet the Team: 
 
 ![](../../.gitbook/assets/Support-team-image-for-handbook.png)
 
-## Where to find us: ##
+## Where to find us:
 
 * Mattermost Channels: Customer Support, Support Standup
 * Enterprise Support Team Email: support@mattermost.com
 * Customer Support Portal: https://support.mattermost.com
 
-## Mattermost Ticketing System ##
+## Mattermost Ticketing System 
 
 To ensure that all issues raised with the Mattermost Support Team can be easily tracked, updated, and resolved, the Support Team uses Zendesk as their case management software.
 
@@ -90,5 +90,3 @@ Any case that can’t be resolved by the Support Team is escalated to the Matter
 **Urgent & High Ticket Escalation Process for Premier Support Customers**
 
 For urgent and high priority issues from our Premium Support customers, an automated escalation process will be activated to ensure 24x7 cover for these issues.
-
-
