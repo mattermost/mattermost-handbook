@@ -34,7 +34,7 @@ If you’ve worked with the Mattermost Support Team before and have existing or 
 
 When submitting a Support Ticket to the Mattermost Support Team we recommend that you use the ‘Submit a Request’ option from with the Support Portal.  This will ensure that we get the required information from you.
 
-## Support Ticket Request Form ##
+### Support ticket request form 
 
 To ensure that we can assist our customers most efficiently it’s imperative that as much information is provided when submitting the ticket.  For details of what details should be provided you should review our Troubleshooting Guide which can be found [here](https://docs.mattermost.com/guides/administrator.html#troubleshooting).
 
