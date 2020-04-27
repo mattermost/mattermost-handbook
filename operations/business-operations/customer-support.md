@@ -69,7 +69,7 @@ Any case that can’t be resolved by the Support Team is escalated to the Matter
 
 - Support
 - Sustained Engineering
- - Product
+- Product
  - Customer Success
  - Executives
 
