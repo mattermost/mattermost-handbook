@@ -73,7 +73,7 @@ Any case that can’t be resolved by the Support Team is escalated to the Matter
 - Customer Success
 - MLTx
 
-**Action Plan Created**
+**Action plan created**
 
  - The customer is updated via the Support Ticket with the plan to address the issue.
 
