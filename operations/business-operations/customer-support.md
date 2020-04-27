@@ -36,7 +36,7 @@ When you submit a Support Ticket to the Mattermost Support Team, you can use **S
 
 ### Support ticket request form 
 
-To ensure that we can assist our customers most efficiently it’s imperative that as much information is provided when submitting the ticket.  For details of what details should be provided you should review our Troubleshooting Guide which can be found [here](https://docs.mattermost.com/guides/administrator.html#troubleshooting).
+To ensure that we can assist our customers most efficiently it's important that as much information as possible is provided when submitting the ticket. More details around the required information is listed in our [Troubleshooting Guide](https://docs.mattermost.com/guides/administrator.html#troubleshooting).
 
 |Field | Description |
 |------|-------------|
