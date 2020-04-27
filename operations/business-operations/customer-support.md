@@ -77,7 +77,7 @@ Any case that can’t be resolved by the Support Team is escalated to the Matter
 
  - The customer is updated via the Support Ticket with the plan to address the issue.
 
-**Action Plan Executed**
+**Action plan executed**
 
  - The fix is tested internally
  - An update is provided via the Support Ticket
