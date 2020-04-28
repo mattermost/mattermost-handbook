@@ -42,7 +42,7 @@ To ensure that we can assist our customers most efficiently it's important that 
 |------|-------------|
 | **CC**  |Add additional email addresses of those who you would like to receive notifications of this issue.|
 | **Subject** |A brief description of the issue.            |
-| **Priority**     |Urgent, High, Normal, or Low, descriptions of these priority ratings can be found here.              |
+| **Priority**     |Urgent, High, Normal, or Low, descriptions of these priority ratings can be found [here](https://mattermost.com/support/).              |
 | **Category**     |Select a category that best fits the product area affected by the issue raised.            |
 | **Description**     |Provide as much detail as possible to enable the Support Team to recreate the issue.  Please refer to the troubleshooting guide for what’s required.            |
 | **Environment**     |Select the environment where you are experiencing the issue.            |
