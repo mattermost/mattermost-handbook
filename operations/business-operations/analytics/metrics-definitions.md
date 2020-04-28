@@ -163,8 +163,6 @@ Example:
   * TCV one-time $250 in May 2019 
   * ARR $83 from June 2019 until June 2022
 
-![](https://github.com/mattermost/mattermost-handbook/tree/361ff3b848b21f06fd8587e792144d81efed511e/.gitbook/assets/image%20%2861%29.png)
-
 ## Google Analytics
 
 All Google Analytics data in Snowflake is at a **daily** level. See [limitations](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#google-analytics-limitations).
