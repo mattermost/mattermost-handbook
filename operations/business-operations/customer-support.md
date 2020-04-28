@@ -59,7 +59,7 @@ The Support Team use the following ticket statuses to manage customer tickets: N
 
 Note: Descriptions of each status can be found [here](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#support-tickets).
  
-## Issue Escalation Process ##
+## Issue escalation process
 
 Some technical issues may need to be addressed by our Engineering Team for further investigation. If this is the case, you will be notified via the Support Ticket and the following internal steps will be carried out.
 
