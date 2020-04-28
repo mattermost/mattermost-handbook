@@ -238,7 +238,8 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 
 * **New -** Ticket created that has not been assigned a support agent.
 * **Waiting on customer -** The support agent asks the customer a question and is waiting for their response.
-* **Waiting on customer - Do not Close -** Checkbox on the ticket. This is used for tickets that are expected to be open for a long period of time. This stops the clock. Examples are customer requests ticket remain open after a solution is provided, the customer is on vacation, or the customer is out ill.
+* **Waiting on customer - Do not Close -** Checkbox on the ticket. This is used for tickets that are expected to be open for a long period of time. This stops the clock. 
+Examples include: The customer requests that the ticket remain open after a solution is provided, the customer is on vacation, or the customer is out ill.
 * **On Hold -** The support agent reaches out to an internal team and is waiting to hear back. Internal teams include product, development, or customer success. Any ticket that is tied to a Jira ticket is placed "On Hold".
 * **Solved -** Support agent provides a solution to the customer. A ticket remains in a "Solved" status for 48 hours before it is set to “Closed”. While the ticket is in a “Solved” status any response from the customer will reopen the ticket.
 * **Closed -** If no response is recorded after 48 hours, a ticket in a "Solved" status will automatically be set to "Closed". Any response to the ticket after that period of time will open a new ticket.
