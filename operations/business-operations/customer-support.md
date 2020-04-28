@@ -55,7 +55,7 @@ To ensure that we can assist our customers most efficiently it's important that 
 
 The Support Team use the following ticket statuses to manage customer tickets: New, Open, Pending, Solved, and Closed. The workflow will be as follows:
 
-![](../../.gitbook/assets/Support_Process_Workflow.jpg)
+![](../../.gitbook/assets/Support_Process_Workflow.png)
 
 Note: Descriptions of each status can be found [here](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#support-tickets).
  
@@ -63,7 +63,7 @@ Note: Descriptions of each status can be found [here](https://handbook.mattermos
 
 Some technical issues may need to be addressed by our Engineering Team for further investigation. If this is the case, you will be notified via the Support Ticket and the following internal steps will be carried out.
 
-![](../../.gitbook/assets/Escalation_Process.jpg)
+![](../../.gitbook/assets/Escalation_Process.png)
 
 ## Customer Support/Sustained Engineering Team
 
