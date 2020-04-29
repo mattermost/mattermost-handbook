@@ -185,13 +185,13 @@ The Technical Product Writer/s form part of the PR review/approval process. When
 
 The [Documentation Style guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide) and [UI text guidelines](https://docs.mattermost.com/process/documentation-UItext-guidelines.html).
 
-## Customer Education Responsibilities
+## Customer Education Processes
 
-### Identifying and ranking gaps and pain points among customers
+### Resolve gaps and painpoints among customers
 
-When it comes to identifying gaps and pain points, ranking them is important in order to correctly prioritize.
+To resolve gaps and pain points, identify and rank them in priority order.
 
-#### Identification
+#### Identify
 
 - Monitor support tickets and get regular feedback from Support Engineers through the Support channel.
 - Ensure information flow with Solution Architects and Customer Success Managers (e.g. by receiving a regular report).
