@@ -27,7 +27,7 @@ Mattermost uses time-based releases for the following reasons:
 - **Iteration**: Having a set release cadence enables us to release new features and bug fixes early and often; in a feature-based release cycle, a release may get delayed by days or even weeks if surprises arise during the release cycle
 - **Community**: A time-based release cycle is preferred among developer communities, especially in open source. Contributors are aware of the release schedule and often aim to complete development by a specified date so that the feature makes it into a release. However, if those dates are missed, we can simply deliver the community-built feature on the next release. Doing feature-based releases with the community is risky, since there is generally less influence on when exactly the work is completed.
 
-You can find step-by-step details of the release planning process and timelines at https://handbook.mattermost.com/operations/research-and-development/product/release-process
+You can find step-by-step details of the release planning process and timelines at https://handbook.mattermost.com/operations/research-and-development/product/release-process.
 
 ## Monthly release planning cadence
 
