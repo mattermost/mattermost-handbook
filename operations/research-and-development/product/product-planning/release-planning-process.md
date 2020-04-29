@@ -7,6 +7,7 @@ There are three distinctive characteristics that influence our release planning 
 3. Monthly release planning cadence
 
 ## Agile development cycle
+
 The waterfall model follows a linear approach to software development where each phase in the process only begins after the previous phase is complete. The intent of this approach is to deliver a feature to customers once all the agreed upon requirements are completed.
 
 An agile methodology is a more iterative approach. Components of the work is shared with customers as they are completed for feedback and validation - this may include Beta releases, prototypes or even wireframes during the design stage. The intent is that customers have more opportunities to influence decisions and enables development teams to change direction faster if needed.
@@ -26,7 +27,7 @@ Mattermost uses time-based releases for the following reasons:
 - **Iteration**: Having a set release cadence enables us to release new features and bug fixes early and often; in a feature-based release cycle, a release may get delayed by days or even weeks if surprises arise during the release cycle
 - **Community**: A time-based release cycle is preferred among developer communities, especially in open source. Contributors are aware of the release schedule and often aim to complete development by a specified date so that the feature makes it into a release. However, if those dates are missed, we can simply deliver the community-built feature on the next release. Doing feature-based releases with the community is risky, since there is generally less influence on when exactly the work is completed.
 
-You can find step-by-step details of the release planning process and timelines at https://docs.mattermost.com/guides/core.html#release-process
+You can find step-by-step details of the release planning process and timelines at https://handbook.mattermost.com/operations/research-and-development/product/release-process
 
 ## Monthly release planning cadence
 
@@ -36,7 +37,7 @@ Given our monthly, time-based releases and an agile development cycle, Mattermos
 
 At Mattermost, our planning cadence consists of:
 
-- **Yearl*y** - Company fiscal year and long term product strategy planning
+- **Yearly** - Company fiscal year and long term product strategy planning
 - **Quarterly** - Release Plan and Quarterly OKR planning
 - **Monthly** - Check in on OKR status
 
