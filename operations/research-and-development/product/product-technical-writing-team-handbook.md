@@ -30,13 +30,15 @@ The Technical Writing team focuses primarily on the User Guide, Admin Guide, and
 
 #### @sebastian.faase:
 
-- Identifying and ranking gaps and pain points among customers
-- Establish difference in voice and tone between Customer Education content and technical documentation
-- Create customer-centered guides for following critical points in deployment
-  - Initial setup
-  - License use after trial
-  - License renewal
-  - Reducing customer need for Mattermost support
+- Training and Education guide
+  - Enterprise rollout guide for self-serve post-sales technical onboarding
+  - Improved Enterprise Edition feature usage and renewal rate
+  - Reduced customer need for Mattermost support
+- Liaison between product and sales/customer success to provide educational content to customers
+  - Identify gaps and painpoints among customers
+  - Prioritize customer education content generation
+  - Attend customer calls undergoing enterprise onboarding
+- Tone and writing style guide for customer education
 
 #### @\[To Be Hired\]:
 
