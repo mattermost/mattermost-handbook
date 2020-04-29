@@ -197,11 +197,6 @@ When it comes to identifying gaps and pain points, ranking them is important in 
 - Ensure information flow with Solution Architects and Customer Success Managers (e.g. by receiving a regular report).
 - Use existing communication structures between Customer Support and Customer Success to avoid overhead.
 
-#### Ranking
-
-- Use existing metrics (e.g. priority and customer revenue) from the ticket system to rank identified issues.
-- Compare Customer Support time put into issues to generated revenue for high impact.
-
 #### What is missing
 
 - Direct information flow with CSM and SA
