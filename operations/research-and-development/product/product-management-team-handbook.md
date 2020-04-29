@@ -742,7 +742,7 @@ To officially release a feature, it should meet the following criteria:
 7. **Logged**: Audit log entries have been added to allow system admins to troubleshoot issues
 8. **Compliant**: Anything needed for compliance is tracked in logs
 
-### How to create redirects for in-product documentation?
+### How do I create redirects for in-product documentation?
 
 Documentation that is linked in-product should always use a redirect from www.mattermost.com instead of the docs.mattermost.com site, to ensure links are not broken in the event that they are moved on the docs site.
 
