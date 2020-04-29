@@ -199,10 +199,10 @@ To resolve gaps and pain points, identify and rank them in priority order.
 - Ensure information flow with Solution Architects and Customer Success Managers (e.g. by receiving a regular report).
 - Use existing communication structures between Customer Support and Customer Success to avoid overhead.
 
-#### What is missing
+#### Ranking
 
-- Direct information flow with CSM and SA
-- Statistics about money spent to money made on solved issues
+- Use existing metrics (e.g. priority and customer revenue) from the ticket system to rank identified issues.
+- Compare Customer Support time put into issues to generated revenue for high impact.
 
 ## Community Documentation Involvement
 
