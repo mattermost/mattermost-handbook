@@ -148,6 +148,6 @@ How to participate in listening tours:
 1. **Join us** - Attend the scheduled meeting, or if it's not convenient, ping @amy.nicol to join a different meeting slot.
 2. **Share about yourself** - Please introduce yourself with the group (even if we all know each other), with your name, your role, the city and country you're in, and what time it is there. 
 3. **Share a like and a wish** - If you'd like to share feedback, in the form of a like and a wish, please share it when you feel appropriate. Your feedback can be about anything, something recent ("Wish Zoom was more stable") or something you've been thinking about or talking about for a while ("Really like the Social Coffee channel and meeting people across the company"). 
-4. **Confirm you've been heard** - As feedback is read back, share if what you had to say has been accurated captured to be shared with our leadership team, execs and managers.
+4. **Confirm you've been heard** - As feedback is read back, share if what you had to say has been accurately captured to be shared with our leadership team, execs, and managers.
 
 Listening tours are just another way we gather feedback so we can iterate and improve everything we do. Thank you for helping speed us on our journey of continual improvement. 
