@@ -97,4 +97,4 @@ For urgent and high priority issues from our Premium Support customers, an autom
 
 ## Support Team metrics
 
-THe Support Team is driven by three key metrics, First Reply Time, Next Reply Time and Customer Satisfaction.  Deatils of these metrics for our enterprise customers can found [here](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#support-tickets).
+The Support Team is driven by three key metrics, First Reply Time, Next Reply Time and Customer Satisfaction.  Deatils of these metrics for our enterprise customers can be found [here](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#support-tickets).
