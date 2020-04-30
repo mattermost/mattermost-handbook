@@ -94,3 +94,7 @@ Any case that can’t be resolved by the Support Team is escalated to the Matter
 **Urgent and high priority ticket escalation process for Premium Support customers**
 
 For urgent and high priority issues from our Premium Support customers, an automated escalation process will be activated to ensure 24x7 cover for these issues.
+
+## Support Team metrics
+
+THe Support Team is driven by three key metrics, First Reply Time, Next Reply Time and Customer Satisfaction.  Deatils of these metrics for our enterprise customers can found [here](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#support-tickets).
