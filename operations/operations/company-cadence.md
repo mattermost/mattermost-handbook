@@ -133,7 +133,7 @@ Some notes about Listening Tours:
 
 - It's an opportunity to hear from staff about their likes and wishes, which could be about their team, their department, the company in general, or on any topic. These could be likes and wishes off the top of your head, or maybe something you've been thinking about for a while. This simulates an open feedback session at MatterCon where we would ask people to share their thoughts and feelings. 
 
-- The priority of the meeting is listening. During these sessions the CEO takes notes and refrains from commentary, though may ask follow-up questions. Notes are "default open" to be shared with managers, executives and anyone in the company. 
+- The priority of the meeting is listening. During these sessions the CEO takes notes and refrains from commentary, though may ask follow-up questions. Notes are "default open" to be shared with managers, executives, and anyone in the company. 
 
 - At the end of the session the CEO reads back what they heard. The notes are shared with the management team/s of the group.
 
