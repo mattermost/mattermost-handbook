@@ -63,7 +63,7 @@ T-minus counts measure "working days" (weekdays other than major holidays concur
 
 # I. (T-plus 3 working days)
 
-1. Hold a Hackathon demo call, scheduled for 2 hours, with an additional hour for extra time. This time is used for participants to present their project. Invite the entire Mattermost company to the call as optional attendee.
+1. Hold a Hackathon demo call, scheduled for 2 hours, with an additional hour for extra time. This time is used for participants to present their project. Invite the entire Mattermost organization to the call as optional attendees.
 
   - Provide guidelines and best practices for creating presentations (both for staff and community).
   - Three minutes allowed per Hackathon participant. For multiple submissions, five minutes total is allowed to present.
