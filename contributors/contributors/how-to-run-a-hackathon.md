@@ -14,7 +14,7 @@ T-minus counts measure "working days" (weekdays other than major holidays concur
   - Avoid overlap with significant release dates, such as release testing or feature complete. Recommended time is starting a Hackathon within a week after feature complete.
   - Avoid overlap with significant company dates that take significant amount of developers' time, such as performance evaluations.
   - Avoid overlap with significant community dates, such as major developer conferences/events.
-  - Avoid starting on a Friday - this results in a kick-off call on a late evening for Europe/Asia, effectively meaning the Hackathon starts on a weekend in those areas.
+  - Avoid starting on a Friday - this results in a kick-off call in the late evening for Europe/Asia, effectively meaning the Hackathon starts on a weekend in those areas.
   - Previous Hackathons ran for 2 days with presentations on the third date. Last time developers suggested adding a third date to allow more time for polish and increased quality.
 
 2. Identify at least 1 or 2 developers to partner with during the Hackathon. Start by reaching out to either VP Engineering or Dev Leads to hear their recommendations.
