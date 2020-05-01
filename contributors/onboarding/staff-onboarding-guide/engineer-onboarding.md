@@ -81,7 +81,7 @@ This is the general timeline and expectations for new engineers starting at Matt
 
 * Dev lead will give you your performance evaluation
 * A self survey will be sent to you
-* Surveys will be sent out to your peers
+* Surveys will be sent out to your peers and you are:
   * Evaluated on what is being done well, what could be improved
   * Evaluated on core values
 * Goal here is to let you know how you’re performing and to help you improve and be a better engineer
