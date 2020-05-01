@@ -13,10 +13,10 @@ The New Staff Performance Review is intended to provide align expectations and [
   * Peer review results will be shared with the direct manager once survey is sent. 
   * People Ops will share the new staff's self evaluation upon completion. 
 * **New Staff Members** 
-  * Complete the [90-day New Staff Self Evaluation](https://forms.gle/1sBugpCAJgm6FyWj9) form. Notifications are sent after on day 75,  but staff can begin their [90-day New Staff Self Evaluation](https://forms.gle/1sBugpCAJgm6FyWj9) ahead of the notification. 
+  * Complete the [90-day New Staff Self Evaluation](https://www.surveymonkey.com/r/BB5HSBR) form. Notifications are sent after on day 75,  but staff can begin their [90-day New Staff Self Evaluation](https://www.surveymonkey.com/r/BB5HSBR) ahead of the notification. 
   * New Staff Members to send a copy of their self evaluation to People. 
 * **Peers** 
-  * Complete a peer review via a [feedback](https://handbook.mattermost.com/operations/people/performance-reviews-50#how-is-feedback-shared) form sent from People.
+  * Complete a peer review via a [feedback](https://www.surveymonkey.com/r/TYSRHRW) form sent from People.
 
   
 
