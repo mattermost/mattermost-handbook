@@ -56,7 +56,7 @@ This is the general timeline and expectations for new engineers starting at Matt
 * Begin to participate in some spec/design/technical meetings
   * Provide feedback/ask questions, have an active role in the meetings
 * Mentor for each week is a different teammate
-  * Meet for at least 10-15 minutes everyday
+  * Meet for at least 10-15 minutes each day
 * Meet with dev lead
   * Meet once a week and start regular weekly 1-1s
 * Work on some medium size tickets
