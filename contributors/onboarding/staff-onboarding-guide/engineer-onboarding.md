@@ -92,7 +92,7 @@ This is the general timeline and expectations for new engineers starting at Matt
 * Begin acting on any feedback given during the performance evaluation
 * Start taking a more active role in the open source community
   * Proactively answer questions in channels
-  * Create help wanted tickets and mentor contributors working on them
+  * Create Help Wanted tickets and mentor contributors working on them
   * Find a community buddy (a contributor you interact with fairly often)
 * Start helping to answer customer support questions
 
