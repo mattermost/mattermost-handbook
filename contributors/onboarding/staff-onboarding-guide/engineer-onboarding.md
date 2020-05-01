@@ -41,7 +41,7 @@ This is the general timeline and expectations for new engineers starting at Matt
   * Sit in on some spec/design/technical meetings, your dev lead should send you invites to these meetings
   * Do some code reviews, your dev lead should assign you to some
 * Introduction meetings
-  * Meet with a different team member for 30min each day
+  * Meet with a different team member for 30 minutes each day
 * Mentor for the week is a senior teammate
   * Meet for at least 10-15 minutes each day
 * Meet with dev lead
