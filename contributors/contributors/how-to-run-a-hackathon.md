@@ -45,7 +45,7 @@ T-minus counts measure "working days" (weekdays other than major holidays concur
 # E. (T-minus 15 working days)
 
 1. Create Meetup links for Hackathon idea presentation, kick-off and demos. For examples, see [Mattermost Meetup page](https://www.meetup.com/mattermost/).
-2. Share the Hackathon externally via Reddit, GitHub, Discourse and the [community server](https://community.mattermost.com). For examples, see previous [Reddit post](https://www.reddit.com/r/Mattermost/comments/dvvsm4/mattermost_hackathon_nov_22_26/), and [GitHub issue](https://github.com/mattermost/mattermost-server/issues/13087).
+2. Share the Hackathon externally via Reddit, GitHub, Discourse, and the [community server](https://community.mattermost.com). For examples, see previous [Reddit post](https://www.reddit.com/r/Mattermost/comments/dvvsm4/mattermost_hackathon_nov_22_26/), and [GitHub issue](https://github.com/mattermost/mattermost-server/issues/13087).
 3. Publish a blog post announcing the Hackathon to the Mattermost community, which links back to the landing page for details on how to participate.
 
 # F. (T-minus 10 working days)
