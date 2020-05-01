@@ -84,7 +84,7 @@ This is the general timeline and expectations for new engineers starting at Matt
 * Surveys will be sent out to your peers and you are:
   * Evaluated on what is being done well, what could be improved
   * Evaluated on core values
-* Goal here is to let you know how you’re performing and to help you improve and be a better engineer
+* The goal is to let you know how you’re performing and to help you improve and be a better engineer
 
 ## Weeks 13-16 (Month 4): Act on your performance evaluation and focus on community
 
