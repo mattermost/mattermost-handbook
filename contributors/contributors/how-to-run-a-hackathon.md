@@ -22,7 +22,7 @@ T-minus counts measure "working days" (weekdays other than major holidays concur
 ## B. (T-minus 30 working days)
 
 1. Put together a project plan, including task description, start date, due date, owner, and any additional notes. [See an example](https://docs.google.com/spreadsheets/d/15iiLPzJjlajHQVgQa9HulW9WfBauIlnkCOJ07oKz7_U).
-2. Identify 1 or 2 members in marketing to partner with, who can help with tweets, blog posts and other marketing content to generate awareness of the Hackathon.
+2. Identify one or two members in Marketing to partner with, who can help with tweets, blog posts, and other marketing content to generate awareness of the Hackathon.
 3. Identify 1 or 2 members in ops to partner with, who can help with meeting scheduling, SWAG and other operational tasks.
 
 # C. (T-minus 25 working days)
