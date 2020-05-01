@@ -133,6 +133,7 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Update package version in [Mattermost DockerFile](https://github.com/mattermost/mattermost-server/blob/master/build/Dockerfile#L7)
     - Master is tagged and branched and `Release Candidate 1` is cut (e.g. 3.5.0-RC1) according to the Release Candidate Checklist in `mattermost/process`
     - After branching, the database version in `sql_upgrade.go` on master is set to the next scheduled release version (e.g., 3.6.0)
+    - Update version for each [Mattermost Helm chart](https://hub.helm.sh/charts/mattermost)
 
 ### H. (T-minus 8 working days) Release Candidate Testing
 
@@ -297,6 +298,8 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
             - Test RC1 with the latest GitLab build during release testing cycle
        - Release week (for dependancies owner)
             - Upgrade dependancies for webapp, server, and Redux
+       - Release week (for NPM package owners)
+            - [NPM updates](https://mattermost.atlassian.net/browse/MM-24659)
        - Week after release (for GitLab dev owner)
             - [Submit GitLab Omnibus RC install of Mattermost](https://mattermost.atlassian.net/browse/MM-9872)
        - The week of code complete:
