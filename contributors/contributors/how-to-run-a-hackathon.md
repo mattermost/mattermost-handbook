@@ -39,7 +39,7 @@ T-minus counts measure "working days" (weekdays other than major holidays concur
 
 1. Announce the Hackathon internally by posting in [Private Staff Discussion channel](https://community.mattermost.com/private-core/channels/platform) and sharing on R\&D weekly meeting.
 2.  Schedule a kick-off call with all Hackathon stakeholders, including
-    the developer, marketing and ops members identified previously.
+    the developer, Marketing, and Ops members identified previously.
 3.  Define and set up metrics to measure impact of the Hackathon. Examples include: number of participants (staff + community separately), number of submissions, number of submissions shipped as a core feature or as a plugin in the marketplace.
 
 # E. (T-minus 15 working days)
