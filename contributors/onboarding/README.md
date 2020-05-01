@@ -50,4 +50,4 @@ This is not a formal performance review. The intent is to align expectations and
 
 * Complete peer review via the Survey Monkey link you received or using one of the links below: 
   * [Q4 FY20 New Colleagues](https://www.surveymonkey.com/r/90dQ4newcolleague) - Joined Mattermost between 1 November 2019 and 31 January 2020.
-  * [Q1 FY21 New Colleagues](https://www.surveymonkey.com/r/FY21Q190DNewColleague) - Joined Mattermost between 1 February 2020 and 30 April 2020
+  * [Q1 FY21 New Colleagues](https://www.surveymonkey.com/r/FY21Q190DNewColleague) - Joined Mattermost between 1 February 2020 and 30 April 2020.
