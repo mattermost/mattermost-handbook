@@ -298,7 +298,7 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
             - Test RC1 with the latest GitLab build during release testing cycle
        - Release week (for dependancies owner)
             - Upgrade dependancies for webapp, server, and Redux
-       - Release week
+       - Release week (for NPM package owners)
             - [NPM updates](https://mattermost.atlassian.net/browse/MM-24659)
        - Week after release (for GitLab dev owner)
             - [Submit GitLab Omnibus RC install of Mattermost](https://mattermost.atlassian.net/browse/MM-9872)
