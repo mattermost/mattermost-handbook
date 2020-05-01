@@ -10,7 +10,7 @@ T-minus counts measure "working days" (weekdays other than major holidays concur
 
 1. Decide dates for the Hackathon. Some things to take into consideration:
 
-  - Avoid overlap with major holidays in US, Canada, Europe or Asia (including Australia and Japan).
+  - Avoid overlap with major holidays in US, Canada, Europe, or Asia (including Australia and Japan).
   - Avoid overlap with significant release dates, such as release testing or feature complete. Recommended time is starting a Hackathon within a week after feature complete.
   - Avoid overlap with significant company dates that take significant amount of developers' time, such as performance evaluations.
   - Avoid overlap with significant community dates, such as major developer conferences/events.
