@@ -15,7 +15,7 @@ T-minus counts measure "working days" (weekdays other than major holidays concur
   - Avoid overlap with significant company dates that take significant amount of developers' time, such as performance evaluations.
   - Avoid overlap with significant community dates, such as major developer conferences/events.
   - Avoid starting on a Friday - this results in a kick-off call in the late evening for Europe/Asia, effectively meaning the Hackathon starts on a weekend in those areas.
-  - Previous Hackathons ran for 2 days with presentations on the third date. Last time developers suggested adding a third date to allow more time for polish and increased quality.
+  - Previous Hackathons ran for two days with presentations on the third date. At the end of the most recent Hackathon participating developers suggested adding a third day to allow more time for polish and increased quality.
 
 2. Identify at least 1 or 2 developers to partner with during the Hackathon. Start by reaching out to either VP Engineering or Dev Leads to hear their recommendations.
 
