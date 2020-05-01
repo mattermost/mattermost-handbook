@@ -2,7 +2,7 @@
 
 This page outlines best practices and recommended steps for running a Hackathon.
 
-Previously, Hackathons have run twice a year with one coinciding with MatterCon. In future, Hackathons may be run 3 or 4 times a year.
+Previously, Hackathons have run twice a year with one coinciding with MatterCon. In future, Hackathons may be run three or four times a year.
 
 T-minus counts measure "working days" (weekdays other than major holidays concurrent in US and Canada) prior to the Hackathon day. All times are based on 8:00am ([Palo Alto Time](http://everytimezone.com/)) unless otherwise stated.
 
