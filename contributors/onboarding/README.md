@@ -39,7 +39,7 @@ This is not a formal performance review. The intent is to align expectations and
 * Managers receive a unique link to track and view peer panel results after the survey is sent. 
 * People Ops share the new colleague's self-assessment once completed. 
 * Complete and share the [90-Day New Colleague Manager Feedback](https://docs.google.com/document/d/14eekRFrwZZILb7U9Xe1LXIlZf1PyOAnZpDSJE9_-niY/edit?userstoinvite=lauren%40mattermost.com&ts=5e8399b1&actionButton=1) with the new colleague and HR. 
-  * Note: HR files the review in BambooHR so a new colleague can access at any time. Also, this review is part of the post-onboarding readiness metric assessment. This review is not a [formal review](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50/formal-review-process).  
+  * Note: HR files the review in BambooHR so a new colleague can access it at any time. Also, this review is part of the Post-Onboarding Readiness metric assessment. This review is not a [formal review](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50/formal-review-process).  
 
 #### New Colleagues
 
