@@ -31,7 +31,7 @@ T-minus counts measure "working days" (weekdays other than major holidays concur
 2. Create a landing page for the Hackathon, which contains all information and to which other communication items are linked to.
 
   - This can be a webpage such as [one for Feb/2019 Hackfest](https://mattermost.com/hackfest2019/) or a GitHub repository such as [one for Nov/2019 Hackathon](https://github.com/mattermost/mattermost-hackathon-nov2019).
-  - All processes and documentations should be clearly included on this landing page. This should include process for finding and assigning teams, and submission guidelines. FAQs can be incorporated as needed.
+  - All processes and documentation should be clearly included on this landing page, including a process for finding and assigning teams and project submission guidelines. FAQs can be incorporated as needed.
 
 3. Create a GitHub repository for submitting Hackathon projects. This can be the same as the landing page if a GitHub repository is used for it.
 
