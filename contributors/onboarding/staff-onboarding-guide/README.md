@@ -2,7 +2,7 @@
 description: 10% complete.
 ---
 
-# Staff On-boarding
+# Staff Onboarding
 
 ## Contents
 
