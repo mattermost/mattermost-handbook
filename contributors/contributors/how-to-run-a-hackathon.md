@@ -28,7 +28,7 @@ T-minus counts measure "working days" (weekdays other than major holidays concur
 # C. (T-minus 25 working days)
 
 1. Work with Ops to decide on what SWAG to send for participation - both for contributors and staff.
-2. Create a landing page for the Hackathon, which contains all information and to which other communication items are linked to.
+2. Create a landing page for the Hackathon, which contains all information and to which other communication items are linked.
 
   - This can be a webpage such as [one for Feb/2019 Hackfest](https://mattermost.com/hackfest2019/) or a GitHub repository such as [one for Nov/2019 Hackathon](https://github.com/mattermost/mattermost-hackathon-nov2019).
   - All processes and documentation should be clearly included on this landing page, including a process for finding and assigning teams and project submission guidelines. FAQs can be incorporated as needed.
