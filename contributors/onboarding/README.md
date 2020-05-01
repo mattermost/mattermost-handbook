@@ -35,7 +35,7 @@ This is not a formal performance review. The intent is to align expectations and
 
 #### Managers
 
-* Complete a [new colleague peer panel form](https://www.surveymonkey.com/r/newcolleaguepanel) for the new staff member. Mattermost Notifications are sent to managers on a new colleague's 75th date of employment. This kicks off the [review process](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#how-is-feedback-shared). 
+* Complete a [new colleague peer panel form](https://www.surveymonkey.com/r/newcolleaguepanel) for the new staff member. Mattermost notifications are sent to managers on a new colleague's 75th date of employment. This kicks off the [review process](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#how-is-feedback-shared). 
 * Managers receive a unique link to track and view peer panel results after the survey is sent. 
 * People Ops share the new colleague's self-assessment once completed. 
 * Complete and share the [90-Day New Colleague Manager Feedback](https://docs.google.com/document/d/14eekRFrwZZILb7U9Xe1LXIlZf1PyOAnZpDSJE9_-niY/edit?userstoinvite=lauren%40mattermost.com&ts=5e8399b1&actionButton=1) with the new colleague and HR. 
