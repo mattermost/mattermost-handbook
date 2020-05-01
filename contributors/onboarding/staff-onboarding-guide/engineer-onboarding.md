@@ -103,7 +103,7 @@ This is the general timeline and expectations for new engineers starting at Matt
   * Could be something you built on a past project
   * Be the “go to” person for that area
   * Tends to happen naturally if you take true ownership of the projects you’ve worked on
-* Create some help wanted tickets/campaigns to get the community involved in your area of authority
+* Create some Help Wanted tickets/campaigns to get the community involved in your area of authority
   * Focus on high impact tasks
   * Think about what you would work on if there were three of you, and use the community to help you as your clones
 * Complete engineering responsibilities and deliverables on pace with fellow teammates
