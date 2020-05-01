@@ -67,7 +67,7 @@ T-minus counts measure "working days" (weekdays other than major holidays concur
 
   - Provide guidelines and best practices for creating presentations (both for staff and community).
   - Three minutes allowed per Hackathon participant. For participants with multiple submissions, five minutes total is allowed for the presentations.
-  - Ask participants who can't attend to submit a demo video, which are shared during the call.
+  - Ask participants who can't attend to submit a demo video, which is shared during the call.
 
 # J. (T-plus 5 working days)
 
