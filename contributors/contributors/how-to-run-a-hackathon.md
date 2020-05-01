@@ -17,7 +17,7 @@ T-minus counts measure "working days" (weekdays other than major holidays concur
   - Avoid starting on a Friday - this results in a kick-off call in the late evening for Europe/Asia, effectively meaning the Hackathon starts on a weekend in those areas.
   - Previous Hackathons ran for two days with presentations on the third date. At the end of the most recent Hackathon participating developers suggested adding a third day to allow more time for polish and increased quality.
 
-2. Identify at least 1 or 2 developers to partner with during the Hackathon. Start by reaching out to either VP Engineering or Dev Leads to hear their recommendations.
+2. Identify at least one or two developers to partner with during the Hackathon. Start by reaching out to either VP Engineering or Dev Leads to hear their recommendations.
 
 ## B. (T-minus 30 working days)
 
