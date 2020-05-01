@@ -103,7 +103,7 @@ Review the [Release Features & Bug Guidelines](https://docs.google.com/document/
     - Update package version in [Mattermost DockerFile](https://github.com/mattermost/mattermost-server/blob/master/build/Dockerfile#L7)
     - Master is tagged and branched and `Release Candidate 1` is cut (e.g., 3.5.0-RC1) according to the Release Candidate Checklist in ``mattermost/process``
     - After branching, the database version in `sql_upgrade.go` on master is set to the next scheduled release version (e.g., 3.6.0)
-    - Update version for [Mattermost Helm](https://hub.helm.sh/charts/mattermost/mattermost-team-edition/3.5.1)
+    - Update version for each [Mattermost Helm chart](https://hub.helm.sh/charts/mattermost)
 
 ### G. (T-minus 10 working days) Release Candidate Testing
 
