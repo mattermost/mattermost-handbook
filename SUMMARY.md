@@ -87,6 +87,7 @@
     * [How to write Mattermost Case Studies](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-write-mattermost-case-studies.md)
     * [How to write guest blog posts for Mattermost Apps and Services](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-write-guest-blog-posts-for-mattermost-apps-and-services.md)
     * [How to write Mattermost Recipes](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-write-mattermost-recipes.md)
+    * [How to compose tweets](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-compose-tweets.md)
     * [How to create a split test for web page](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-a-split-test-for-web-page.md)
     * [How to run meetups](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-run-meetups.md)
     * [How to run executive dinners](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-run-executive-dinners.md)
