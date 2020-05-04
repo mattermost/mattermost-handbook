@@ -230,6 +230,24 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 * Mattermost's NPS is based off of a 1-10 ranking provided by customers
   * If customers provide rankings 2+ times in a day, the last ranking of the day is used for NPS
 
+## Renewal Rate
+
+#### ∑ Account Gross Renewals ÷ ∑ Account Available Renewals 
+
+* Account Available Renewal Amount: Amount up for renewal at an Account level by qtr
+* Account Gross Renewal Amount: Amount booked, up to Available Renewal, at an Account level by qtr
+  * Hint: Gross Renewals = MIN(Available Renewals,Renewal Bookings)
+* Example 1:
+  * Account: Account 1
+  * Account Available Renewals Q4: $100k
+  * Account Renewal Bookings Q4: $130k
+  * Account Gross Renewals Q4: $100k
+* Example 2:
+  * Account: Account 2
+  * Account Available Renewals Q4: $100k
+  * Account Renewal Bookings Q4: $70k
+  * Account Gross Renewals Q4: $70k
+
 ## Support Tickets
 
 ### Definitions
