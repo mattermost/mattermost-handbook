@@ -111,7 +111,7 @@ Community Coordinator: Jason Blais
 
 #### [Documentation Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
 
-Documentation Contributors update, edit and create new documentation, help text, training and other materials to help the community get the most out of Mattermost software. Core documentation is found at [https://docs.mattermost.com](https://docs.mattermost.com/) and contributions can be made via the open source repository at [https://github.com/mattermost/docs/](https://github.com/mattermost/docs/)
+Documentation Contributors update, edit and create new documentation, help text, training and other materials to help the community get the most out of Mattermost software. Core documentation is found at [https://docs.mattermost.com](https://docs.mattermost.com/) and contributions can be made via the open source repository at [https://github.com/mattermost/docs/](https://github.com/mattermost/docs/).
 
 Community Coordinator: Jason Blais and Justine Geffen
 
@@ -160,4 +160,3 @@ When possible, influence contributors to apply themselves to the highest impact 
 #### [Mattermost Staff](https://docs.mattermost.com/process/community-overview.html#contents)
 
 Mattermost staff are paid by Mattermost, Inc. to take on any of the contributor roles mentioned above, as well as to develop and support Mattermost Enterprise Edition as a commercial extension of the Mattermost open source project for large and sophisticated organizations.
-
