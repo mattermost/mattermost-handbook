@@ -69,7 +69,7 @@ As of April 2019, [over 1,800 open source projects on GitHub reference Mattermos
 * **SaaS-based Integration Solutions** - Includes connectivity and integration with services like Twitter, Zendesk, Salesforce and hundreds of other extensions with services like Zapier.
 * **Programming Solutions** - Includes language-specific drivers and connectors to simplify the work of other developers.
 * **Mattermost User Experience Plug-Ins** - Includes server and client-side plug-ins that enhance the native capabilities of a Mattermost server, such as voice, video, and screensharing with Zoom’s self-hosted or vendor-hosted solutions.
-* **Federated Experiences** - Includes bridges with IRC, Slack and other messaging applications through solutions like Matterbridge.
+* **Federated Experiences** - Includes bridges with IRC, Slack, and other messaging applications through solutions like Matterbridge.
 * **Custom User Experiences** - Includes integrations into Terminal and Pidgin built off the same core APIs as Mattermost’s Web, Desktop, iOS and Android experiences.
 
 Community Coordinator: Jason Blais
