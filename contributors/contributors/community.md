@@ -66,7 +66,7 @@ There are many ways to contribute:
 As of April 2019, [over 1,800 open source projects on GitHub reference Mattermost](https://github.com/search?q=mattermost). Solution Builders create a host of technologies to empower Mattermost software to solve real world problems. Technologies include:
 
 * **Self-hosted Integration Solutions** - Includes connectivity and integration with third-party applications such as Jira, Confluence, GitLab, Jenkins, and other tools.
-* **SaaS-based Integration Solutions** - Includes connectivity and integration with services like Twitter, Zendesk, Salesforce and hundreds of other extensions with services like Zapier.
+* **SaaS-based Integration Solutions** - Includes connectivity and integration with services like Twitter, Zendesk, Salesforce, and hundreds of other extensions with services like Zapier.
 * **Programming Solutions** - Includes language-specific drivers and connectors to simplify the work of other developers.
 * **Mattermost User Experience Plug-Ins** - Includes server and client-side plug-ins that enhance the native capabilities of a Mattermost server, such as voice, video, and screensharing with Zoom’s self-hosted or vendor-hosted solutions.
 * **Federated Experiences** - Includes bridges with IRC, Slack, and other messaging applications through solutions like Matterbridge.
