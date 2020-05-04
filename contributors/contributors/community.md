@@ -131,7 +131,7 @@ Community Coordinator: Amy Blais
 
 #### [Deployment Solution Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
 
-Deployment Solutions Contributors create packaging and automation for making it easier to deploy Mattermost, using tools such as Docker, Kubernetes and other leading virtualization and orchestration solutions. See [Deployment Solutions Programs](https://docs.mattermost.com/guides/orchestration.html) for guidance on how to build to common Mattermost standards.
+Deployment Solutions Contributors create packaging and automation for making it easier to deploy Mattermost, using tools such as Docker, Kubernetes, and other leading virtualization and orchestration solutions. See [Deployment Solutions Programs](https://docs.mattermost.com/guides/orchestration.html) for guidance on how to build to common Mattermost standards.
 
 Community Coordinator: Jason Blais and Amy Blais
 
