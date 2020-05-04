@@ -230,7 +230,7 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 * Mattermost's NPS is based off of a 1-10 ranking provided by customers
   * If customers provide rankings 2+ times in a day, the last ranking of the day is used for NPS
 
-## Renewal Rate (Booking)
+## Renewal Rate (Bookings)
 
 #### ∑ Account Gross Renewals ÷ ∑ Account Available Renewals 
 
