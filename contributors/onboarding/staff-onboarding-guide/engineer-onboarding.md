@@ -63,7 +63,7 @@ This is the general timeline and expectations for new engineers starting at Matt
 
 ## Weeks 5-8 (Month 2): Work on your first project as dev owner
 
-* Begin work on your first large ish task and be the dev owner of it
+* Begin work on your first relatively large task (40 mana) and be the dev owner of it
 * Act as the dev owner in the spec/design/technical meetings
 * Write up a brief technical specification if necessary
 * Work on small/medium tickets each sprint alongside the larger task
