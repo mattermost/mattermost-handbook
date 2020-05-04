@@ -125,7 +125,7 @@ Community Coordinator: TBD
 
 #### [Knowledge Base Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
 
-Knowledge Base Contributors share feedback, questions and answers on Mattermost through forums for [trouble shooting](https://www.mattermost.org/troubleshoot/), [feature proposals](https://www.mattermost.org/feature-ideas/), GitHub issues and the [Mattermost community server](https://community.mattermost.com/).
+Knowledge Base Contributors share feedback, questions, and answers on Mattermost through forums for [trouble shooting](https://www.mattermost.org/troubleshoot/), [feature proposals](https://www.mattermost.org/feature-ideas/), GitHub issues, and the [Mattermost community server](https://community.mattermost.com/).
 
 Community Coordinator: Amy Blais
 
