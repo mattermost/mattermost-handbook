@@ -6,43 +6,43 @@ description: 1% Draft
 
 ## Technical Writing Team Handbook
 
-The Technical Writing team focuses primarily on the User Guide, Admin Guide, and Developer documentation.
+The Technical Writing team focuses primarily on Technical Documentation (including the User's Guide, Admin's Guide, and Developer documentation) and on Customer Education content.
 
 ### Areas of Responsibility
 
 #### @justine.geffen:
 
-* [Administrator's Guide](https://docs.mattermost.com/guides/administrator.html)
-* Admin-facing UI Content, such as the System Console
-* Feature documentation for:
-  * Cloud team \(Mattermost Cloud, Kubernetes, operator, helm, ..\)
-  * Enterprise team \(SAML, compliance, permissions, ..\)
-  * Platform team \(CLI, config settings, ..\)
-* GitLab
-  * [GitLab Mattermost docs](https://docs.gitlab.com/omnibus/gitlab-mattermost/%20)
-  * GitLab helm chart docs
-* Google Analytics/Documentation metrics
+* Documentation for high impact product areas
+  * DevOps Command Center
+  * Cloud
+  * Self-serve customer journey
+* Documentation metrics
+  * Docs page ratings via Google Analytics
+  * Google Analytics metrics for page visits, read times and bounce rates
+* Consultation and guidance for R&D feature team release documentation
+  * Contributing to product documentation
+  * Writing MVP documentation
 * Community and doc review process
   * Process for Doc Up plugin
-  * Docs review and coordination with @amy.blais
+  * Docs review and coordination with @sebastian.faase, with @amy.blais as a backup
   * Community Help Wanted doc issues
   * Documentation Handbook and Style Guide maintenance
 
-#### @\[To Be Hired\]:
+The following areas remain a collaborative effort between Product Managers, Engineers and Technical Writers, until additional headcount is reached. Please assume @jason.blais as the directly responsible individual.
 
+* [Mattermost Overview](https://docs.mattermost.com/overview/index.html)
+* [User's Guide](https://docs.mattermost.com/guides/user.html)
+* [Administrator's Guide](https://docs.mattermost.com/guides/administrator.html)
 * [Integrations Guide](https://docs.mattermost.com/guides/integration.html)
-* Feature documentation for:
-  * Integrations team \(Jira, GitLab, Jenkins, ..\). This may involve some light admin docs to configure integrations/plugins.
-  * Toolkit team \(Plugin framework, developer toolkit, …\)
+* GitLab documentation for:
+  * [GitLab Mattermost docs](https://docs.gitlab.com/omnibus/gitlab-mattermost/%20)
+  * GitLab helm chart docs
 * Developer documentation for:
   * [developers.mattermost.com](https://developers.mattermost.com), including Contribute, Integrate and Extend sections
   * [api.mattermost.com](https://api.mattermost.com)
-  * General developer experience docs, e.g. code samples. Exact details TBD
+  * General developer experience docs, e.g. code samples, best practices and tutorials
+* Admin-facing UI Content, such as the System Console
 * Developer-facing UI Content, such as the Integrations backstage
-* Community and doc review process
-  * Exact split with Justine to be determined
-
-Note: Some areas not listed above, such as the [User's Guide](https://docs.mattermost.com/guides/user.html), will remain a collaborative effort between Product Managers and Technical Writers. Please assume @jason.blais as the directly responsible individual.
 
 ### Processes
 
@@ -130,7 +130,6 @@ You can expect the following approximate turnaround times:
 There are a number of variables at play, such as review process, current workload, and type of work required which makes it difficult to provide a hard and fast time-frame for completion. 
 
 A rough guideline is between 3 and 5 days for the writing/editing portion of the work and 2 - 3 weeks for larger projects (these projects might be moved to Jira if required). 
-
 
 **Assignees**
 
