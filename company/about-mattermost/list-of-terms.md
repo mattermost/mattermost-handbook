@@ -120,9 +120,9 @@ Nerfs and buffs are the framework for setting culture at Mattermost.
 
 A "nerf" is a downgraded experience as the result of a behavior. 
 
-For example, if half of a team is traveling to a conference and holds a team meeting in a hotel room—and the other half calls in remotely—they can't see everyone in the room and audio is low quality, then the team is "nerfing" their remote colleagues. The people in the hotel room are downgrading the experience of their remote colleagues.
+For example, if half of a team is traveling to a conference and holds a team meeting in a hotel room and the other half calls in remotely but they can't see everyone in the room and audio is low quality, then the team is "nerfing" their remote colleagues. The people in the hotel room are downgrading the experience of their remote colleagues.
 
-Under this framework, we want to discourage behavior that nerfs remote work—so if your team is in-person meeting with remote colleagues, please split-up to take the call from separate areas so everyone can be seen and heard.
+Under this framework, we want to discourage behavior that nerfs remote work, so if your team is holding in-person meeting with remote colleagues, please split up to take the call from separate areas so everyone can be seen and heard.
 
 A "buff" is an upgrade experience as the result of a behavior. If a remote team is meeting on a topic with a clear, concise written proposal requesting asynchronous feedback, people who share high-quality feedback asynchronously ahead of the meeting may have an out-sized influence on iterations of the document ahead of the meeting, compared to people who don't provide asynchronous feedback ahead of the meeting.
 
@@ -171,4 +171,3 @@ The following is a list of terms no longer used with links to their definitions 
 #### Tomb-stoned
 
 Previously hyphenated, now not hyphenated, see [Tombstoned](list-of-terms.md#tombstoned).
-
