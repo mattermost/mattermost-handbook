@@ -38,7 +38,7 @@ The Technical Writing team focuses primarily on the User Guide, Admin Guide, and
   - Identify gaps and painpoints among customers
   - Prioritize customer education content generation
   - Attend customer calls undergoing enterprise onboarding
-- Tone and writing style guide for customer education
+- Tone and writing style guide for Customer Education content
 
 #### @\[To Be Hired\]:
 
