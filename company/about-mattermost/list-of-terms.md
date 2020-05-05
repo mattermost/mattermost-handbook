@@ -124,7 +124,7 @@ For example, if half of a team is traveling to a conference and holds a team mee
 
 Under this framework, we want to discourage behavior that nerfs remote work—so if your team is in-person meeting with remote colleagues, please split-up to take the call from separate areas so everyone can be seen and heard.
 
-A "buff" is an upgrade experience as the result of a behavior. If a remote team is meeting on a topic with a clear, concise written proposal requesting asynchronous feedback, people who share high quality feedback asynchronously ahead of the meeting may have out-sized influence on iterations of the document ahead of the meeting, compared to people who don't provide asynchronous feedback ahead of the meeting.
+A "buff" is an upgrade experience as the result of a behavior. If a remote team is meeting on a topic with a clear, concise written proposal requesting asynchronous feedback, people who share high-quality feedback asynchronously ahead of the meeting may have an out-sized influence on iterations of the document ahead of the meeting, compared to people who don't provide asynchronous feedback ahead of the meeting.
 
 Here we want to buff asynchronous communication by focusing review on asynchronous comments ahead of live comments.
 
