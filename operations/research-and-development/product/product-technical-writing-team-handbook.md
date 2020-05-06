@@ -56,7 +56,7 @@ The Technical Writing team focuses primarily on the User Guide, Admin Guide, and
 
 Note: Some areas not listed above, such as the [User's Guide](https://docs.mattermost.com/guides/user.html), will remain a collaborative effort between Product Managers and Technical Writers. Please assume @jason.blais as the directly responsible individual.
 
-### Technical Docs Processes
+### Technical Documentation Processes
 
 The processes around documentation, such as SLAs for issues and requesting documentation assistance are detailed below.
 
