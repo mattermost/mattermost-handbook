@@ -28,6 +28,18 @@ The Technical Writing team focuses primarily on Technical Documentation (includi
   * Community Help Wanted doc issues
   * Documentation Handbook and Style Guide maintenance
 
+#### @sebastian.faase:
+
+- [Training and Education guide](https://docs.mattermost.com/guides/education.html)
+  - Enterprise rollout guide for self-serve post-sales technical onboarding
+  - Improved Enterprise Edition feature usage and renewal rate
+  - Reduced customer need for Mattermost support
+- Liaison between product and sales/customer success to provide educational content to customers
+  - Identify gaps and painpoints among customers
+  - Prioritize customer education content generation
+  - Attend customer calls undergoing enterprise onboarding
+- Tone and writing style guide for Customer Education content
+
 The following areas remain a collaborative effort between Product Managers, Engineers and Technical Writers, until additional headcount is reached. Please assume @jason.blais as the directly responsible individual.
 
 * [Mattermost Overview](https://docs.mattermost.com/overview/index.html)
@@ -44,7 +56,7 @@ The following areas remain a collaborative effort between Product Managers, Engi
 * Admin-facing UI Content, such as the System Console
 * Developer-facing UI Content, such as the Integrations backstage
 
-### Processes
+### Technical Documentation Processes
 
 The processes around documentation, such as SLAs for issues and requesting documentation assistance are detailed below.
 
@@ -176,6 +188,23 @@ The Technical Product Writer/s form part of the PR review/approval process. When
 #### Formatting and Style Guide
 
 The [Documentation Style guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide) and [UI text guidelines](https://docs.mattermost.com/process/documentation-UItext-guidelines.html).
+
+## Customer Education Processes
+
+### Resolve gaps and painpoints among customers
+
+To identify, rank and resolve customer pain points. Priority is based on customer impact, measured by an increase in enterprise 90-day onboarding NPS, and post-sales technical onboarding without R&D involvement.
+
+#### Identify
+
+- Monitor support tickets and get regular feedback from Support Engineers through the Support channel.
+- Ensure information flow with Solution Architects and Customer Success Managers (e.g. by receiving a regular report).
+- Use existing communication structures between Customer Support and Customer Success to avoid overhead.
+
+#### Ranking
+
+- Use existing metrics (e.g. priority and customer revenue) from the ticket system to rank identified issues.
+- Compare Customer Support time put into issues to generated revenue for high impact.
 
 ## Community Documentation Involvement
 
