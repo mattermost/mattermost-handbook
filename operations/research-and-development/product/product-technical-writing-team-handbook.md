@@ -30,7 +30,7 @@ The Technical Writing team focuses primarily on the User Guide, Admin Guide, and
 
 #### @sebastian.faase:
 
-- Training and Education guide
+- [Training and Education guide](https://docs.mattermost.com/guides/education.html)
   - Enterprise rollout guide for self-serve post-sales technical onboarding
   - Improved Enterprise Edition feature usage and renewal rate
   - Reduced customer need for Mattermost support
