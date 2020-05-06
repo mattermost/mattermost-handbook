@@ -191,7 +191,7 @@ The [Documentation Style guide](https://docs.mattermost.com/guides/core.html#doc
 
 ### Resolve gaps and painpoints among customers
 
-To resolve gaps and pain points, identify and rank them in priority order.
+To identify, rank and resolve customer pain points. Priority is based on customer impact, measured by an increase in enterprise 90-day onboarding NPS, and post-sales technical onboarding without R&D involvement.
 
 #### Identify
 
