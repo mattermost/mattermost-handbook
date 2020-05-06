@@ -8,6 +8,7 @@ Michael Schiff, Head of Business Operations
 * Rachel Bradley-Haas - Manager, Analytics
 * Eric Nelson - Senior Data Analyst
 * Emily Hollinger - Senior Customer Success Analyst
+* Craig Willis - Senior Director, Customer Support
 
 BizOps 101 [presentation](https://docs.google.com/presentation/d/1GEnR2P6jGpa-coonhJE2kUzg35CotKsv-0C_p1tbHvk/edit#slide=id.g3cd66a78ce_0_5)
 

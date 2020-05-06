@@ -41,7 +41,8 @@ description: 50% Draft
 
 ### E. \(T-minus 5 working days\) CEO Review
 
-* 24 hours prior to CEO review, Release Manager posts the blog draft in the Marketing channel with a hashtag \(e.g. `#mm520`\) to make finding the blog draft easier \(and at-mentions meeting attendees\)
+* 24 hours prior to CEO review, Release Manager posts the blog draft in the Marketing channel with a hashtag \(e.g. `#mm520`\) to make finding the blog draft easier
+   * In the summary post, include the names of reviewers and the average score given by previous reviewers for the title and the one-liners 
 
 ### F. \(T-minus 2 working days\) Set Up Blog Post in Wordpress
 
@@ -57,7 +58,7 @@ description: 50% Draft
 The Release Manager \(Amy Blais\) owns the release announcement, including the following checklist items unless otherwise indicated:
 
 1. **Exciting title**
-   1. Do not lead with a competitor parity feature 
+   1. Focus on the System Admin for Mattermost deciding whether to upgrade or buy E20 to empower end users (customer focus)
    2. Communicate primary benefit
    3. Lead with the most exciting/impactful new feature
    4. Highlight at most 2 features
@@ -79,6 +80,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
       1. Names should not be red-underlined \(if they are, add them to the dictionary prior to taking a screenshot\)
       2. Screenshot not surrounded by a border
       3. Below the screenshot, include a text version of their names in small font with a link to their GitHub handle
+   8. One or more people on the team put themselves in the shoes of a System Admin responsible for upgrading Mattermost and have read through the announcement out loud, clicked on the links, and feel we've met our [High Standards leadership principle](https://handbook.mattermost.com/company/about-mattermost#leadership-principles)
 4. **Screenshots**
    1. [Follows screenshot guidelines](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-screenshots-and-gifs)
    2. Do not use screenshots rated at low quality
@@ -104,6 +106,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 2. Use common wording, e.g. say "Servers" instead of "Sites"; say `plugins` not `plug-ins`; say "Browser" instead of "Webapp"
 3. Avoid phrases that are too vague, such as "Better messaging experience"
 4. Do not use internal names of features, such as "Unread toasts", "Deep linking"
+5. Say "You" instead of "Users" to talk directly to the reader
 
 ## One great screenshot a month
 

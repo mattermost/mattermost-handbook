@@ -163,8 +163,6 @@ Example:
   * TCV one-time $250 in May 2019 
   * ARR $83 from June 2019 until June 2022
 
-![](https://github.com/mattermost/mattermost-handbook/tree/361ff3b848b21f06fd8587e792144d81efed511e/.gitbook/assets/image%20%2861%29.png)
-
 ## Google Analytics
 
 All Google Analytics data in Snowflake is at a **daily** level. See [limitations](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#google-analytics-limitations).
@@ -232,6 +230,24 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 * Mattermost's NPS is based off of a 1-10 ranking provided by customers
   * If customers provide rankings 2+ times in a day, the last ranking of the day is used for NPS
 
+## Renewal Rate (Bookings)
+
+#### ∑ Account Gross Renewals ÷ ∑ Account Available Renewals 
+
+* Account Available Renewal Amount: Amount up for renewal at an Account level by qtr
+* Account Gross Renewal Amount: Amount booked, up to Available Renewal, at an Account level by qtr
+  * Hint: Gross Renewals = MIN(Available Renewals,Renewal Bookings)
+* Example 1:
+  * Account: Account 1
+  * Account Available Renewals Q4: $100k
+  * Account Renewal Bookings Q4: $130k
+  * Account Gross Renewals Q4: $100k
+* Example 2:
+  * Account: Account 2
+  * Account Available Renewals Q4: $100k
+  * Account Renewal Bookings Q4: $70k
+  * Account Gross Renewals Q4: $70k
+
 ## Support Tickets
 
 ### Definitions
@@ -239,18 +255,19 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 #### Ticket Status
 
 * **New -** Ticket created that has not been assigned a support agent.
-* **Pending -** The support agent asks the customer a question and is waiting for their response.
-* **Pending - Do not Close -** Checkbox on the ticket. This is used for tickets that are expected to be open for a long period of time. This stops the clock. Examples are customer requests ticket remain open after a solution is provided, the customer is on vacation, or the customer is out ill.
-* **On Hold -** The support agent reaches out to an internal team and is waiting to hear back. Any ticket that is tied to a JIRA ticket is placed on hold. Internal teams include product, development or customer success.
-* **Solved -** Support agent provides a solution to the customer. Status in the solved status for 48 hours before it is set to “Closed” status While the ticket is in a “Solved” status any response from the customer will re-open the ticket.
-* **Closed -** If no response is recorded a ticket in a Solved status will be set to Closed automatically after 48 hours. A response to the ticket will open a new ticket.
+* **Waiting on customer -** The support agent asks the customer a question and is waiting for their response.
+* **Waiting on customer - Do not Close -** Checkbox on the ticket. This is used for tickets that are expected to be open for a long period of time. This stops the clock. 
+Examples include: The customer requests that the ticket remain open after a solution is provided, the customer is on vacation, or the customer is out ill.
+* **On Hold -** The support agent reaches out to an internal team and is waiting to hear back. Internal teams include product, development, or customer success. Any ticket that is tied to a Jira ticket is placed "On Hold".
+* **Solved -** Support agent provides a solution to the customer. A ticket remains in a "Solved" status for 48 hours before it is set to “Closed”. While the ticket is in a “Solved” status any response from the customer will reopen the ticket.
+* **Closed -** If no response is recorded after 48 hours, a ticket in a "Solved" status will automatically be set to "Closed". Any response to the ticket after that period of time will open a new ticket.
 
 #### Ticket Level
 
-* **Level 1: Critical Business Impact:** Critical issue on production system preventing business operations. A large number of users are prevented from working, and no procedural workaround is available.
-* **Level 2: Major Business Impact:** Major issue on the production system severely impacting business operations.
-* **Level 3: Moderate Business Impact:** Moderate issue causing a partial or non-critical loss of functionality on the production system. A small number of users are affected.
-* **Level 4: Minor Business Impact:** Minor issue on non-production system or question, comment, feature request, documentation issue or other non-impacting issues.
+* **Level 1: Urgent Business Impact:** Urgent issue on production system preventing business operations. A large number of users are prevented from working, and no procedural workaround is available.
+* **Level 2: High Business Impact:** Major issue on the production system severely impacting business operations.
+* **Level 3: Normal Business Impact:** Moderate issue causing a partial or non-critical loss of functionality on the production system. A small number of users are affected.
+* **Level 4: Low Business Impact:** Minor issue on non-production system or question, comment, feature request, documentation issue or other non-impacting issues.
 
 #### Ticket Measures
 
@@ -263,33 +280,40 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 
 **Premium**
 
-* L1 - 1 hour
-* L2 - 2 hours
-* L3 - 8 hours
-* L4 - 24 hours
+* L1 (Urgent) - 1 hour
+* L2 (High) - 2 hours
+* L3 (Normal) - 8 hours
+* L4 (Low) - 24 hours
 
 **E20**
 
-* L1 - 4 hours
-* L2 - 8 hours
-* L3 - 24 hours
-* L4 - next business day
+* L1 (Urgent) - 4 hours
+* L2 (High) - 8 hours
+* L3 (Normal) - 24 hours
+* L4 (Low) - next business day
 
-**Next Reply Time**
+**Next Reply Time - Premium and E20 only**
 
 **Premium**
 
-* L1 - 2 hours
-* L2 - 4 hours
-* L3 - 24 hours
-* L4 - 24 hours
+* L1 (Urgent) - 2 hours
+* L2 (High) - 4 hours
+* L3 (Normal) - 24 hours
+* L4 (Low) - 24 hours
 
 **E20**
 
-* L1 - 4 hours
-* L2 - 8 hours
-* L3 - 24 hours
-* L4 - 24 hours
+* L1 (Normal) - 4 hours
+* L2 (High) - 8 hours
+* L3 (Normal) - 24 hours
+* L4 (Low) - 24 hours
+
+**CSAT**
+
+CSAT stands for _Customer Satisfaction Rating_. 24 hours after the ticket is set to closed, the end-user receives an email asking them to rate their experience.  In the email the end-user is presented with the question "How would you rate the support you received?"  Below the question is the option to select "Good, I'm satisfied" or "Bad, I'm unsatisfied" with the option to leave a comment about their experience.
+
+**CSAT Formula**
+Good, I'm Satisfied / Good I'm Satisfied + Bad I'm Unsatisfied
 
 ## TEDAS
 
@@ -305,6 +329,19 @@ TEDAS stands for _Telemetry-Enabled Daily Active Servers_. It is the count of un
   * Each team/organization can have one-to-many servers installed to host their instance.
     * Small/Medium teams typically leverage a single server.
     * Large teams can leverage Enterprise Edition features to create server clusters that allow them to scale their instance.
+
+### TEDAS: Additional Metric Considerations
+
+There are several ways to view the TEDAS metric, and there are several more ways to create metrics that are derivatives of TEDAS. Below are some of the ways to view, pivot, and/or filter the TEDAS metric to gather additional insights regarding the overall health of the business:
+
+* [TEDAS by First Telemetry-Enabled Date](https://mattermost.looker.com/looks/140):
+  * Provides the count of Telemetry-Enabled Servers trended by their first telemetry active date.
+  * Is an indicator of how many New, Telemetry-Enabled Production Servers are being stood up on any given date, week, month, year, etc. throughout the history of Mattermost.
+* [TEDAS >= 7 Days Old w/ Active Users](https://mattermost.looker.com/looks/141):
+  * The count of Telemetry-Enabled Servers that are >= 7 days old since their first telemetry active date w/ >= 1 active user logged on the server.
+* [TEDAS Churn Rate](https://mattermost.looker.com/looks/142):
+  * The rate (percentage) at which Telemetry-Enabled Servers leave the platform (churn) or disable telemetry within a given number of days since the server's first telemetry active date. 
+  * Typically (as of 4/15/20), 75-80% of new, Telemetry-Enabled Servers churn within the first 7 days of their first telemetry active date.
 
 ### Server Considerations
 
@@ -387,4 +424,3 @@ Currently only a subset of possible events, dubbed "whitelist" events, count tow
 **Enterprise Trial Requests**
 
 * Number of trial license requests via [https://mattermost.com/trial](https://mattermost.com/trial) from Named Accounts or Enterprises with 5,000+ employees, in America, EMEA, Australia or Japan.
-
