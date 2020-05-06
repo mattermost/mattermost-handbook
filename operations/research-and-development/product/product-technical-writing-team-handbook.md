@@ -56,17 +56,17 @@ The following areas remain a collaborative effort between Product Managers, Engi
 * Admin-facing UI Content, such as the System Console
 * Developer-facing UI Content, such as the Integrations backstage
 
-### Technical Documentation Processes
+## Technical Documentation Processes
 
 The processes around documentation, such as SLAs for issues and requesting documentation assistance are detailed below.
 
-#### Contributing to Documentation
+### Contributing to Documentation
 
 The basic outline for getting started with contributions is provided in the [README](https://github.com/mattermost/docs/blob/master/README.md) of the docs repo. If you have write access to the repo, you can create a branch off master and work on that.
 
 Once complete, submit your Pull Request \(PR\). Ensure that you assign appropriate approvers and labels. You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review) - it applies to various types of contributions including documentation.
 
-#### Submitting Documentation With Your PR
+### Submitting Documentation With Your PR
 
 We want to empower everyone to contribute to our documentation, and be comfortable submitting documentation for contributions. As such, we don't expect every contribution to adhere to our style guide when first submitted.
 
@@ -85,7 +85,7 @@ You can read more about the review process [here](https://developers.mattermost.
 
 Note: This process does not apply to the [API Documentation requirements](https://github.com/mattermost/mattermost-api-reference).
 
-#### Adding Reviewers to PRs
+### Adding Reviewers to PRs
 
 Mattermost documentation covers a number of different topics. For documentation, the following reviewers are recommended:
 
@@ -116,7 +116,7 @@ If your change requires dev review add the developer/s you've been working with 
 * DevOps: Jesse Hallam \(@lieut-data\)
 * Handbook and Process: Jason Blais \(@jasonblais\)
 
-#### Requesting Documentation via Doc Up
+### Requesting Documentation via Doc Up
 
 Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the Doc Up plugin embedded in the post menu.
 
@@ -155,9 +155,9 @@ We really want the community to own the docs as much as possible. In light of th
 
 If your documentation request/issue applies to a repository other than mattermost/docs, you can use the **Docs Needed** and **Editor Review** labels and/or ping @justinegeffen or @amyblais.
 
-### General Contribution Workflow
+## General Contribution Workflow
 
-#### Jira Tickets
+### Jira Tickets
 
 The [Technical Writing Jira board](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=61) is a snapshot of the current Technical Writing workload. Feature and release writing is planned three sprints in advance. This ensures that ad-hoc work can be taken on.
 
@@ -181,11 +181,11 @@ If the Jira ticket is for documentation related to a release, the documentation 
 
 If the Jira ticket is for general documentation, depending on the current workload, you can generally expect it to be completed within five business days.
 
-#### Editing Requests
+### Editing Requests
 
 The Technical Product Writer/s form part of the PR review/approval process. When submitting a PR for documentation, please add the **Editor Review** label. Once the editor has signed off on the PR they will remove the label. When all the requested reviews are complete, the **Reviews Complete** label will be applied and the changes merged.
 
-#### Formatting and Style Guide
+### Formatting and Style Guide
 
 The [Documentation Style guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide) and [UI text guidelines](https://docs.mattermost.com/process/documentation-UItext-guidelines.html).
 
