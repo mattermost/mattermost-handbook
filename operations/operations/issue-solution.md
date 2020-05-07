@@ -10,7 +10,7 @@ A Issue/Solution Proposal template is drafted clearly stating the problem to be 
 
 Clear statement of the problem we are trying to solve. Drafted by one or more stakeholders.
 
-Begin this section with _"\[TIME\_TO\_READ\] minutes to read"_ this section in italics, where \[TIME\_TO\_READ\] is an estimate of the time to read the draft \(Issue and Proposed Solution\) in minutes.
+Begin this section with _"\[TIME\_TO\_READ\] minutes to read"_ in italics, where \[TIME\_TO\_READ\] is an estimate of the time to read the draft \(Issue and Proposed Solution\) in minutes.
 
 ### **Solution**
 
