@@ -6,7 +6,7 @@ description: 50% Draft
 
 ## **Goals**
 
-* Focus on the System Admin for Mattermost deciding whether to upgrade or buy E20 to empower end users (customer focus)
+* Get the System Admin for Mattermost excited to upgrade or to buy E20 to empower end users
 * Everything should be ready to share
   * Every paragraph feels like it's ready to copy and paste into a tweet
   * Every person we thank who is on Twitter, we Tweet to them
