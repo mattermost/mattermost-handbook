@@ -22,13 +22,13 @@ description: 50% Draft
 * Release Manager leads the team to arrive at a decision on the theme / main highlight for the blog post. Consult with marketing and PM leads for final approval
   * Take into consideration whether a feature is highly requested, what is the overall impact of all marketed features, and whether a feature is at risk of being cut
 
-### B. \(T-minus 9 working days\) First Draft
+### B. \(T-minus 11 working days\) First Draft
 
 * Author finishes blog post draft
 * Release manager checks that the guidelines in the Checklist for Review of Draft are met
   * Ask: how would you rate the title? How can we make it 1 score better? Use this method for other parts of the blog draft, inlcuding screenshots
 
-### C. \(T-minus 8 working days\) PM and Marketing Review
+### C. \(T-minus 10 working days\) PM and Marketing Review
 
 * PMs review feature content is technically correct
 * Marketing reviews the blog draft
