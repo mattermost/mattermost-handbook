@@ -107,6 +107,10 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 4. Do not use internal names of features, such as "Unread toasts", "Deep linking"
 5. Say "You" instead of "Users" to talk directly to the reader
 
+## Scoring Guidelines
+
+
+
 ## One great screenshot a month
 
 1. Each monthly release R&D should aspire to come up with a "Hero" screenshot following guidelines to use as the splash image for the release.
