@@ -68,9 +68,62 @@ For all new staff members, to request a new MacBook, Lenovo or other laptop, ple
 * **Macbook 15”**- For developers choosing to use Macs, we recommend getting a [MacBook Pro 15-inch retina with 512GB of storage and 32GB of memory](https://www.apple.com/shop/buy-mac/macbook-pro/15-inch-space-gray-2.6ghz-6-core-512gb) or similar. As an example, other teams may not require 32GB memory or 512GB of storage. 
 * **PC** - Any suitable laptop with comparable specifications and lower or similar cost to the recommended MacBook. Many of our engineers use Lenovo laptops from the Thinkpad X, T or P series. If in doubt, we recommend a Lenovo Thinkpad T series.
 
-#### Mobile Devices: 
+### MOBILE DEVICE POLICY: 
 
-Developers who work on mobile need to be able to test Mattermost on iOS and Android devices. Mattermost will cover the cost of whichever type of device you don’t use as your existing personal device. As with our Ownership policy, the $1,000 threshold applies and the device will need to be returned to Mattermost if you leave the company. 
+The Mattermost mobile phone policy enables the use of mobile devices for customer-facing roles or those providing repeating on-call service in a secure fashion.
+
+#### Subscription
+
+If you are using your phone primarily for business related matters as defined by your local tax laws, we will reimburse up to 100 USD. Common positions or roles where mobile reimbursement may be needed include the following:
+
+* Customer-facing roles: 
+    * Account Executives
+    * Customer Success Managers
+    * Sales Leadership
+    * Sales Engineering
+* On-call roles: 
+    * Software Design Engineer
+    * Build Engineer
+    * Security Engineer
+    * Site Reliability Engineer
+    * Support Engineers
+
+For all other positions, we will reimburse up to 50 USD.
+If you are unsure if you qualify for a customer facing role or on-call role, reach out to your manager and follow the Manager Approval process.
+
+The company does not currently provide mobile phone subscriptions in a centralized fashion. Subscriptions should be organized by the employee and expensed monthly. Mattermost recommends the usage of a monthly subscription model where possible.
+
+#### Hardware
+The company standard device is an iPhone SE that should be ordered by the employee and expensed. Currently no other platforms are supported.
+
+Usage of a company phone mandatory for the following staff groups:
+* Security Engineer
+
+Usage of a company phone voluntary for the following staff groups:
+* People who are participating in on-call rotations, with approval from their direct manager and not part of a mandatory staff group
+
+Continued usage of personal phones for business is endorsed and acceptable within the voluntary group. Remaining staff groups are currently not eligible for a company mobile phone. The scope of the staff groups may be modified in the future, resulting in changes in mandatory and voluntary groups.
+
+#### Mobile Device Management (MDM)
+
+In order to protect company information, usage of a mobile device management (MDM) solution is mandatory for a company provided phone. An MDM must not be configured when using a personal phone.
+
+When the device has been lost, the MDM solution enables the company to remotely wipe the phone to ensure protection of customer data and additionally enforce security policies on the device. 
+
+#### Process
+
+Each employee can order the hardware and subscription if they are part of an eligible group. Afterwards expense it according to the current process each month for the subscription and once for the hardware.
+
+After the hardware was received, it is mandatory to register with our Mobile Device Management (MDM) provider following this process [link here] and our [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). This must be completed within 5 business days after the device was received.
+
+The employee is allowed to request a new phone every 3 years according to the mobile phone policy at that point. Earlier replacement is possible if the phone is damaged or otherwise prevents required business usage.
+
+When the work relationship between a staff member and the company ends the company phone must be wiped and then sent back together with the company notebook to the responsible process owner.
+
+#### Acceptable Use
+
+The company phone may only be used for work-related purposes. Personal usage is explicitly discouraged outside of emergency situations. Mattermost is not responsible for any personal data loss upon an remotely initiated device wipe.
+
 
 ### EQUIPMENT REPLACEMENT
 
@@ -156,13 +209,6 @@ Use your best judgment if a rental car is needed. It is recommended to use Uber,
 ## OTHER EXPENSES
 
 The company will reimburse for the following expenses if you need it for work or use it mainly for business, and local law allows us to pay for it without incurring taxes. 
-
-**Cell or mobile subscription**: if you are using your phone primarily for business related matters, we will reimburse. Common positions or roles where mobile reimbursement may be needed include the following:
-
-* Customer-facing roles with high phone use: Account Executives, Customer Success Managers, Sales Leadership, Sales Engineering, 
-* On-call roles: Staff rotating in and out of 24x7 escalation responsibilities where phone escalation is expected and common 
-
-If you are needing cell phone reimbursement and are outside of the common positions or departments approved, please follow [Manager Approval](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#manager-approval) process. 
 
 **Flexible office space**: If working from home is not practical, you may rent out a co-working space at the expense of the company. This can include non-traditional spaces that require a membership as long as you average ~3 working days per week at the space. Any agreement must be between the team member and the co-working space \(i.e. Mattermost will not sign or appear on the agreement\). All expenses must be submitted through Expensify. The Company will not be responsible for any expense that relates to office space subsequent to the termination of service between Mattermost and the staff member.
 
