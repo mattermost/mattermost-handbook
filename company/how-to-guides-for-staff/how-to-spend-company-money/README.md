@@ -97,13 +97,15 @@ The company does not currently provide mobile phone subscriptions in a centraliz
 #### Hardware
 The company standard device is an iPhone SE that should be ordered by the employee and expensed. Currently no other platforms are supported.
 
-Usage of a company phone mandatory for the following staff groups:
+Usage of a company phone **mandatory** for the following staff groups:
 * Security Engineer
 
-Usage of a company phone voluntary for the following staff groups:
+Usage of a company phone **voluntary** for the following staff groups:
 * People who are participating in on-call rotations, with approval from their direct manager and not part of a mandatory staff group
 
 Continued usage of personal phones for business is endorsed and acceptable within the voluntary group. Remaining staff groups are currently not eligible for a company mobile phone. The scope of the staff groups may be modified in the future, resulting in changes in mandatory and voluntary groups.
+
+Developers who work on mobile need to be able to test Mattermost on iOS and Android devices. Mattermost will cover the cost of whichever type of device you don’t use as your existing personal and/or company-provided device. As with our Ownership policy, the $1,000 threshold applies and the device will need to be returned to Mattermost if you leave the company. 
 
 #### Mobile Device Management (MDM)
 
@@ -115,7 +117,7 @@ When the device has been lost, the MDM solution enables the company to remotely 
 
 Each employee can order the hardware and subscription if they are part of an eligible group. Afterwards expense it according to the current process each month for the subscription and once for the hardware.
 
-After the hardware was received, it is mandatory to register with our Mobile Device Management (MDM) provider following this process [link here] and our [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). This must be completed within 5 business days after the device was received.
+After the hardware was received, it is mandatory to register with our Mobile Device Management (MDM) provider following this process [link pending] and our [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). This must be completed within 5 business days after the device was received.
 
 The employee is allowed to request a new phone every 3 years according to the mobile phone policy at that point. Earlier replacement is possible if the phone is damaged or otherwise prevents required business usage.
 
@@ -229,4 +231,3 @@ For anything requiring manager approval, please complete the following steps
 3. If the manager approves this as legitimate business need, the manager is required to contact Finance for spending approval at [expenses@mattermost.com](mailto:expenses@mattermost.com)
 4. If/When approved, approval email will be sent to the staff member and Manager
 5. Staff member must attach the approval to the Expensify expense report
-
