@@ -68,7 +68,7 @@ For all new staff members, to request a new MacBook, Lenovo or other laptop, ple
 * **Macbook 15”**- For developers choosing to use Macs, we recommend getting a [MacBook Pro 15-inch retina with 512GB of storage and 32GB of memory](https://www.apple.com/shop/buy-mac/macbook-pro/15-inch-space-gray-2.6ghz-6-core-512gb) or similar. As an example, other teams may not require 32GB memory or 512GB of storage. 
 * **PC** - Any suitable laptop with comparable specifications and lower or similar cost to the recommended MacBook. Many of our engineers use Lenovo laptops from the Thinkpad X, T or P series. If in doubt, we recommend a Lenovo Thinkpad T series.
 
-### MOBILE DEVICE POLICY: 
+### MOBILE DEVICE POLICY
 
 The Mattermost mobile phone policy enables the use of mobile devices for customer-facing roles or those providing repeating on-call service in a secure fashion.
 
@@ -89,7 +89,8 @@ If you are using your phone primarily for business related matters as defined by
     * Support Engineers
 
 For all other positions, we will reimburse up to 50 USD.
-If you are unsure if you qualify for a customer facing role or on-call role, reach out to your manager and follow the Manager Approval process.
+
+If you are unsure if you qualify for a customer facing role or on-call role, reach out to your manager and follow the [Manager Approval process](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#manager-approval).
 
 The company does not currently provide mobile phone subscriptions in a centralized fashion. Subscriptions should be organized by the employee and expensed monthly. Mattermost recommends the usage of a monthly subscription model where possible.
 
@@ -123,7 +124,6 @@ When the work relationship between a staff member and the company ends the compa
 #### Acceptable Use
 
 The company phone may only be used for work-related purposes. Personal usage is explicitly discouraged outside of emergency situations. Mattermost is not responsible for any personal data loss upon an remotely initiated device wipe.
-
 
 ### EQUIPMENT REPLACEMENT
 
