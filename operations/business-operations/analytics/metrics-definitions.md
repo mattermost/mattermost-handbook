@@ -238,12 +238,14 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 
 Renewal Metrics in simple terms:
 * Available Renewals (**X**): Total dollar amount of licenses ending is in the Renewal Qtr
-* Renewal Rate (**Y%**): Total Won Amount (up to Available Renewal Amount) divided by Available Renewals where:
+* Renewal Rate (**Y%**): Total Won Amount ÷ Available Renewals where:
   * Won Opportunity License start date falls in the Renewal Qtr
   * Won Opportunity Product Line Type = 'Ren'
-* Forecasted Renewal Rate (**Z%**) - Total Open Amount * Probability + Won Amount (up to Available Renewal Amount) divided by Available Renewals where:
-  * Won & Open Opportunity License start date falls in the Renewal Qtr
+  * Won Amount <= Available Renewal Amount
+* Forecasted Renewal Rate (**Z%**): Won Amount + (Total Open Amount * Probability) ÷ Available Renewals where:
+  * Won & Open Opportunity License Start Date falls in the Renewal Qtr
   * Won & Open Opportunity Product Line Type = 'Ren'
+  * Won & Open Amount <= Available Renewal Amount
 * Target (**A**): Target Total Bookings set for the Renewal Qtr by Finance
 * Actual (**B**): Total Bookings **Won** in the Renewal Qtr where Product Line Type = 'Ren'
 * Target vs Actual aka TvA (**C%**): Actual ÷ Target
