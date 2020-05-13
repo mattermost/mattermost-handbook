@@ -234,7 +234,7 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 
 ### Renewal Metrics Reporting
 
-IMAGE
+![](../../../../.gitbook/assets/renewal_metrics_handbook.png)
 
 Renewal Metrics in simple terms:
 * Available Renewals (**X**) - Total dollar amount of licenses ending is in the Renewal Qtr
