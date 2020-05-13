@@ -44,7 +44,7 @@ No pull requests for major features should be **merged** to the current release 
     - Queue a list of MVP candidates in alphabetical order to the MVP Discussion channel [See example](https://community.mattermost.com/core/pl/3its7ifbw7dh58obpasdszf1mr)
     - Draft Changelog in a WIP PR with updates for highlights, feature additions, known issues, compatibility updates for deprecated features, config.json, [database changes](https://github.com/mattermost/mattermost-server/blob/master/store/sqlstore/upgrade.go), [API changes](https://github.com/mattermost/mattermost-server/commits/master/model/client.go), and [WebSocket event changes](https://github.com/mattermost/mattermost-server/blob/master/model/websocket_message.go#L13); [see example](http://docs.mattermost.com/administration/changelog.html#compatibility)
       - Note the type of release and add a link to release doc that defines the type (https://docs.mattermost.com/process/release-faq.html#release-overview)
-    - Review [supported OS versions](https://docs.mattermost.com/install/requirements.html#server-software) and review that [software requirements](https://docs.mattermost.com/install/requirements.html#software-requirements) are up-to-date based on [these step-by-step guidelines](https://docs.mattermost.com/process/software-requirements.html)
+    - Review [supported OS versions](https://docs.mattermost.com/install/requirements.html#server-software) and review that [software requirements](https://docs.mattermost.com/install/requirements.html#software-requirements) are up-to-date based on [these step-by-step guidelines](https://handbook.mattermost.com/operations/research-and-development/product/development-process/software-requirements)
     - Ask PMs if there are any notable breaking changes or deprecated features in the release
     - Update [Upgrade Guide](https://docs.mattermost.com/administration/important-upgrade-notes.html) with any special notes for upgrading to the new version
     - Start posting a daily list of open and submitted bugs and PRs (posted until zero bugs or day of release)
@@ -133,6 +133,7 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Update package version in [Mattermost DockerFile](https://github.com/mattermost/mattermost-server/blob/master/build/Dockerfile#L7)
     - Master is tagged and branched and `Release Candidate 1` is cut (e.g. 3.5.0-RC1) according to the Release Candidate Checklist in `mattermost/process`
     - After branching, the database version in `sql_upgrade.go` on master is set to the next scheduled release version (e.g., 3.6.0)
+    - Update version for each [Mattermost Helm chart](https://hub.helm.sh/charts/mattermost)
 
 ### H. (T-minus 8 working days) Release Candidate Testing
 
@@ -297,6 +298,8 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
             - Test RC1 with the latest GitLab build during release testing cycle
        - Release week (for dependancies owner)
             - Upgrade dependancies for webapp, server, and Redux
+       - Release week (for NPM package owners)
+            - [NPM updates](https://mattermost.atlassian.net/browse/MM-24659)
        - Week after release (for GitLab dev owner)
             - [Submit GitLab Omnibus RC install of Mattermost](https://mattermost.atlassian.net/browse/MM-9872)
        - The week of code complete:

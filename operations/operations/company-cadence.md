@@ -125,15 +125,15 @@ Links to previous staff enablement surveys:
 
 Listening to feedback is vital to iteration and to continually improve everything we do.
 
-Feedback and listening is at the core of our self-awareness leadership principle. We have annonymous feedback available in every weekly Customer Obsession/All-Hands Meeting. 
+Feedback and listening is at the core of our self-awareness leadership principle. We have 1-1s with managers, regular pulse and engagement surveys, People team outreach and conversations, and annonymous feedback available in every weekly Customer Obsession/All-Hands Meeting. CEO Listening Tours are another way we listen. 
 
 CEO Listening Tours happen over Zoom in meetings around 25-30 minutes with different groups of 5-8 staff, typically within the same department or in a related function. Managers of the team members in the group are typically not included in the meeting.
 
 Some notes about Listening Tours: 
 
-- It's an opportunity to hear from staff about their likes and wishes, which could be about their team, their department, the company in general, or on any topic. These could be likes and wishes off the top of your head, or maybe something you've been thinking about for a while. 
+- It's an opportunity to hear from staff about their likes and wishes, which could be about their team, their department, the company in general, or on any topic. These could be likes and wishes off the top of your head, or maybe something you've been thinking about for a while. This simulates an open feedback session at MatterCon where we would ask people to share their thoughts and feelings. 
 
-- The priority of the meeting is listening. During these sessions the CEO takes notes and refrains from commentary, though may ask follow-up questions. 
+- The priority of the meeting is listening. During these sessions the CEO takes notes and refrains from commentary, though may ask follow-up questions. Notes are "default open" to be shared with managers, executives, and anyone in the company. 
 
 - At the end of the session the CEO reads back what they heard. The notes are shared with the management team/s of the group.
 
@@ -142,3 +142,12 @@ Some notes about Listening Tours:
 - In the past, participants and managers of listening tours have found the meetings productive for uncovering blindspots at the company and within departments.
 
 If you're not able to make a particular listening meeting, please ping @amy.nicol to add you to a different slot. 
+
+How to participate in listening tours: 
+
+1. **Join us** - Attend the scheduled meeting, or if it's not convenient, ping @amy.nicol to join a different meeting slot.
+2. **Share about yourself** - Please introduce yourself with the group (even if we all know each other), with your name, your role, the city and country you're in, and what time it is there. 
+3. **Share a like and a wish** - If you'd like to share feedback, in the form of a like and a wish, please share it when you feel appropriate. Your feedback can be about anything, something recent ("Wish Zoom was more stable") or something you've been thinking about or talking about for a while ("Really like the Social Coffee channel and meeting people across the company"). 
+4. **Confirm you've been heard** - As feedback is read back, share if what you had to say has been accurately captured to be shared with our leadership team, execs, and managers.
+
+Listening tours are just another way we gather feedback so we can iterate and improve everything we do. Thank you for helping speed us on our journey of continual improvement. 

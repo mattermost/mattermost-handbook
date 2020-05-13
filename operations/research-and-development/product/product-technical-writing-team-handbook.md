@@ -6,55 +6,67 @@ description: 1% Draft
 
 ## Technical Writing Team Handbook
 
-The Technical Writing team focuses primarily on the User Guide, Admin Guide, and Developer documentation.
+The Technical Writing team focuses primarily on Technical Documentation (including the User's Guide, Admin's Guide, and Developer documentation) and on Customer Education content.
 
 ### Areas of Responsibility
 
 #### @justine.geffen:
 
-* [Administrator's Guide](https://docs.mattermost.com/guides/administrator.html)
-* Admin-facing UI Content, such as the System Console
-* Feature documentation for:
-  * Cloud team \(Mattermost Cloud, Kubernetes, operator, helm, ..\)
-  * Enterprise team \(SAML, compliance, permissions, ..\)
-  * Platform team \(CLI, config settings, ..\)
-* GitLab
-  * [GitLab Mattermost docs](https://docs.gitlab.com/omnibus/gitlab-mattermost/%20)
-  * GitLab helm chart docs
-* Google Analytics/Documentation metrics
+* Documentation for high impact product areas
+  * DevOps Command Center
+  * Cloud
+  * Self-serve customer journey
+* Documentation metrics
+  * Docs page ratings via Google Analytics
+  * Google Analytics metrics for page visits, read times and bounce rates
+* Consultation and guidance for R&D feature team release documentation
+  * Contributing to product documentation
+  * Writing MVP documentation
 * Community and doc review process
   * Process for Doc Up plugin
-  * Docs review and coordination with @amy.blais
+  * Docs review and coordination with @sebastian.faase, with @amy.blais as a backup
   * Community Help Wanted doc issues
   * Documentation Handbook and Style Guide maintenance
 
-#### @\[To Be Hired\]:
+#### @sebastian.faase:
 
+- [Training and Education guide](https://docs.mattermost.com/guides/education.html)
+  - Enterprise rollout guide for self-serve post-sales technical onboarding
+  - Improved Enterprise Edition feature usage and renewal rate
+  - Reduced customer need for Mattermost support
+- Liaison between product and sales/customer success to provide educational content to customers
+  - Identify gaps and painpoints among customers
+  - Prioritize customer education content generation
+  - Attend customer calls undergoing enterprise onboarding
+- Tone and writing style guide for Customer Education content
+
+The following areas remain a collaborative effort between Product Managers, Engineers and Technical Writers, until additional headcount is reached. Please assume @jason.blais as the directly responsible individual.
+
+* [Mattermost Overview](https://docs.mattermost.com/overview/index.html)
+* [User's Guide](https://docs.mattermost.com/guides/user.html)
+* [Administrator's Guide](https://docs.mattermost.com/guides/administrator.html)
 * [Integrations Guide](https://docs.mattermost.com/guides/integration.html)
-* Feature documentation for:
-  * Integrations team \(Jira, GitLab, Jenkins, ..\). This may involve some light admin docs to configure integrations/plugins.
-  * Toolkit team \(Plugin framework, developer toolkit, …\)
+* GitLab documentation for:
+  * [GitLab Mattermost docs](https://docs.gitlab.com/omnibus/gitlab-mattermost/%20)
+  * GitLab helm chart docs
 * Developer documentation for:
   * [developers.mattermost.com](https://developers.mattermost.com), including Contribute, Integrate and Extend sections
   * [api.mattermost.com](https://api.mattermost.com)
-  * General developer experience docs, e.g. code samples. Exact details TBD
+  * General developer experience docs, e.g. code samples, best practices and tutorials
+* Admin-facing UI Content, such as the System Console
 * Developer-facing UI Content, such as the Integrations backstage
-* Community and doc review process
-  * Exact split with Justine to be determined
 
-Note: Some areas not listed above, such as the [User's Guide](https://docs.mattermost.com/guides/user.html), will remain a collaborative effort between Product Managers and Technical Writers. Please assume @jason.blais as the directly responsible individual.
-
-### Processes
+## Technical Documentation Processes
 
 The processes around documentation, such as SLAs for issues and requesting documentation assistance are detailed below.
 
-#### Contributing to Documentation
+### Contributing to Documentation
 
 The basic outline for getting started with contributions is provided in the [README](https://github.com/mattermost/docs/blob/master/README.md) of the docs repo. If you have write access to the repo, you can create a branch off master and work on that.
 
 Once complete, submit your Pull Request \(PR\). Ensure that you assign appropriate approvers and labels. You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review) - it applies to various types of contributions including documentation.
 
-#### Submitting Documentation With Your PR
+### Submitting Documentation With Your PR
 
 We want to empower everyone to contribute to our documentation, and be comfortable submitting documentation for contributions. As such, we don't expect every contribution to adhere to our style guide when first submitted.
 
@@ -73,7 +85,7 @@ You can read more about the review process [here](https://developers.mattermost.
 
 Note: This process does not apply to the [API Documentation requirements](https://github.com/mattermost/mattermost-api-reference).
 
-#### Adding Reviewers to PRs
+### Adding Reviewers to PRs
 
 Mattermost documentation covers a number of different topics. For documentation, the following reviewers are recommended:
 
@@ -104,7 +116,7 @@ If your change requires dev review add the developer/s you've been working with 
 * DevOps: Jesse Hallam \(@lieut-data\)
 * Handbook and Process: Jason Blais \(@jasonblais\)
 
-#### Requesting Documentation via Doc Up
+### Requesting Documentation via Doc Up
 
 Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the Doc Up plugin embedded in the post menu.
 
@@ -131,7 +143,6 @@ There are a number of variables at play, such as review process, current workloa
 
 A rough guideline is between 3 and 5 days for the writing/editing portion of the work and 2 - 3 weeks for larger projects (these projects might be moved to Jira if required). 
 
-
 **Assignees**
 
 Documentation does not have to be written by the Technical Product Writer/s. You can raise an issue, complete the requirement, and submit a Pull Request.
@@ -144,9 +155,9 @@ We really want the community to own the docs as much as possible. In light of th
 
 If your documentation request/issue applies to a repository other than mattermost/docs, you can use the **Docs Needed** and **Editor Review** labels and/or ping @justinegeffen or @amyblais.
 
-### General Contribution Workflow
+## General Contribution Workflow
 
-#### Jira Tickets
+### Jira Tickets
 
 The [Technical Writing Jira board](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=61) is a snapshot of the current Technical Writing workload. Feature and release writing is planned three sprints in advance. This ensures that ad-hoc work can be taken on.
 
@@ -170,13 +181,30 @@ If the Jira ticket is for documentation related to a release, the documentation 
 
 If the Jira ticket is for general documentation, depending on the current workload, you can generally expect it to be completed within five business days.
 
-#### Editing Requests
+### Editing Requests
 
 The Technical Product Writer/s form part of the PR review/approval process. When submitting a PR for documentation, please add the **Editor Review** label. Once the editor has signed off on the PR they will remove the label. When all the requested reviews are complete, the **Reviews Complete** label will be applied and the changes merged.
 
-#### Formatting and Style Guide
+### Formatting and Style Guide
 
 The [Documentation Style guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide) and [UI text guidelines](https://docs.mattermost.com/process/documentation-UItext-guidelines.html).
+
+## Customer Education Processes
+
+### Resolve gaps and painpoints among customers
+
+To identify, rank and resolve customer pain points. Priority is based on customer impact, measured by an increase in enterprise 90-day onboarding NPS, and post-sales technical onboarding without R&D involvement.
+
+#### Identify
+
+- Monitor support tickets and get regular feedback from Support Engineers through the Support channel.
+- Ensure information flow with Solution Architects and Customer Success Managers (e.g. by receiving a regular report).
+- Use existing communication structures between Customer Support and Customer Success to avoid overhead.
+
+#### Ranking
+
+- Use existing metrics (e.g. priority and customer revenue) from the ticket system to rank identified issues.
+- Compare Customer Support time put into issues to generated revenue for high impact.
 
 ## Community Documentation Involvement
 

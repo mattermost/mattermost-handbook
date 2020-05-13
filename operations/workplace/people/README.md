@@ -43,7 +43,6 @@ HR
 
 * 🧑@natalie.jew - [Natalie Jew](https://mattermost.bamboohr.com/employees/employee.php?id=174&page=2077) - Director of HR  
 * 🧑@lynn.conway - [Lynn Conway](https://mattermost.bamboohr.com/employees/employee.php?id=207&page=2077) - HR Generalist 
-* 🧑@camille.harris - [Camille Harris](https://mattermost.bamboohr.com/employees/employee.php?id=48&page=2077) - HR Specialist
 
 Recruiting
 

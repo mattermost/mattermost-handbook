@@ -10,6 +10,10 @@ The success of Mattermost as an open source platform for messaging-based workflo
 
 The Mattermost community has two parts, Users and Contributors, detailed below.
 
+{% hint style="info" %}
+Interested in contributing to Mattermost? [Learn about all the ways to get involved with our community](https://mattermost.com/contribute/).
+{% endhint %}
+
 * [Users](https://docs.mattermost.com/process/community-overview.html#users)
   * [End Users](https://docs.mattermost.com/process/community-overview.html#end-users)
   * [IT Administrators](https://docs.mattermost.com/process/community-overview.html#it-administrators)
@@ -59,14 +63,14 @@ There are many ways to contribute:
 
 #### [Solution Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
 
-As of July 2018, [over 1000 open source projects on GitHub reference Mattermost](https://github.com/search?q=mattermost). Solution Builders create a host of technologies to empower Mattermost software to solve real world problems. Technologies include:
+As of April 2019, [over 1,800 open source projects on GitHub reference Mattermost](https://github.com/search?q=mattermost). Solution Builders create a host of technologies to empower Mattermost software to solve real world problems. Technologies include:
 
-* **Self-hosted Integration Solutions** - Includes connectivity and integration with 3rd party applications such as Jira, Confluence, GitLab, Jenkins and other tools
-* **SaaS-based Integration Solutions** - Includes connectivity and integration with services like Twitter, Zendesk, Salesforce and hundreds of other extensions with services like Zapier.
-* **Programming Solutions** - Includes language-specific drivers and connectors to simplify the work of other developers
-* **Mattermost User Experience Plug-Ins** - Includes server and client-side plug-ins that enhance the native capabilities of a Mattermost server, such as voice, video and screensharing with Zoom’s self-hosted or vendor-hosted solutions.
-* **Federated Experiences** - Includes bridges with IRC, Slack and other messaging applications through solutions like Matterbridge
-* **Custom User Experiences** - Includes integrations into Terminal and Pidgin built off the same core APIs as Mattermost’s Web, Desktop, iOS and Android experiences
+* **Self-hosted Integration Solutions** - Includes connectivity and integration with third-party applications such as Jira, Confluence, GitLab, Jenkins, and other tools.
+* **SaaS-based Integration Solutions** - Includes connectivity and integration with services like Twitter, Zendesk, Salesforce, and hundreds of other extensions with services like Zapier.
+* **Programming Solutions** - Includes language-specific drivers and connectors to simplify the work of other developers.
+* **Mattermost User Experience Plug-Ins** - Includes server and client-side plug-ins that enhance the native capabilities of a Mattermost server, such as voice, video, and screensharing with Zoom’s self-hosted or vendor-hosted solutions.
+* **Federated Experiences** - Includes bridges with IRC, Slack, and other messaging applications through solutions like Matterbridge.
+* **Custom User Experiences** - Includes integrations into Terminal and Pidgin built off the same core APIs as Mattermost’s Web, Desktop, iOS, and Android experiences.
 
 Community Coordinator: Jason Blais
 
@@ -74,12 +78,12 @@ Community Coordinator: Jason Blais
 
 You are welcome to document your contributions to the Mattermost open source project in your resume or on LinkedIn in any matter you feel is accurate. Below is an example of an entry:
 
-* Title: `Open Source Solution Builder`
+* Title: `Open Source Solution Contributor`
 * Organization/Company: `Mattermost`
 * Location: `[Where you did your work]`
 * From: `[Date started]`
 * I currently work here: `Check "Yes" if you continue to maintain your work`
-* Headline: `Solution builder for Mattermost open source project`
+* Headline: `Solution contributor for Mattermost open source project`
 * Description: `[Description of your solution, its benefit to end users, and link to project. Example: "Maintainer of Mattermost-Zoom plugin which offers voice, video and screensharing for Mattermost end users through Zoom integration, either through a self-hosted private cloud deployment or a vendor-hosted SaaS service from Zoom. See the project at https://github.com/mattermost/mattermost-plugin-zoom."]`
 
 Other contributor types beyond Solution Contributors are welcome to use and modify this LinkedIn template to document their contributions as well.
@@ -97,7 +101,7 @@ Platform Contributors provide improvements to the core Mattermost open source pr
 
 All contributors Level 2 and above are eligible for a [custom-printed Mattermost Mug](https://forum.mattermost.org/t/limited-edition-mattermost-mugs/143) acknowledging their role in the open source project.
 
-Community Coordinator: Eric Sethna
+Community Coordinator: Jason Blais and Ben Schumacher
 
 #### [Translation Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
 
@@ -107,9 +111,9 @@ Community Coordinator: Jason Blais
 
 #### [Documentation Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
 
-Documentation Contributors update, edit and create new documentation, help text, training and other materials to help the community get the most out of Mattermost software. Core documentation is found at [https://docs.mattermost.com](https://docs.mattermost.com/) and contributions can be made via the open source repository at [https://github.com/mattermost/docs/](https://github.com/mattermost/docs/)
+Documentation Contributors update, edit, and create new documentation, help text, training, and other materials to help the community get the most out of Mattermost software. Core documentation is found at [https://docs.mattermost.com](https://docs.mattermost.com/) and contributions can be made via the open source repository at [https://github.com/mattermost/docs/](https://github.com/mattermost/docs/).
 
-Community Coordinator: Justin Reynolds
+Community Coordinator: Jason Blais and Justine Geffen
 
 #### [Quality Assurance Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
 
@@ -121,21 +125,21 @@ Community Coordinator: TBD
 
 #### [Knowledge Base Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
 
-Knowledge Base Contributors share feedback, questions and answers on Mattermost through forums for [trouble shooting](https://www.mattermost.org/troubleshoot/), [feature proposals](https://www.mattermost.org/feature-ideas/), Github issues and the [Mattermost community server](https://community.mattermost.com/).
+Knowledge Base Contributors share feedback, questions, and answers on Mattermost through forums for [trouble shooting](https://www.mattermost.org/troubleshoot/), [feature proposals](https://www.mattermost.org/feature-ideas/), GitHub issues, and the [Mattermost community server](https://community.mattermost.com/).
 
 Community Coordinator: Amy Blais
 
 #### [Deployment Solution Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
 
-Deployment Solutions Contributors create packaging and automation for making it easier to deploy Mattermost, using tools such as Docker, Kubernetes and other leading virtualization and orchestration solutions. See [Deployment Solutions Programs](https://docs.mattermost.com/guides/orchestration.html) for guidance on how to build to common Mattermost standards.
+Deployment Solutions Contributors create packaging and automation for making it easier to deploy Mattermost, using tools such as Docker, Kubernetes, and other leading virtualization and orchestration solutions. See [Deployment Solutions Programs](https://docs.mattermost.com/guides/orchestration.html) for guidance on how to build to common Mattermost standards.
 
-Community Coordinator: Amy Blais
+Community Coordinator: Jason Blais and Amy Blais
 
 #### [UX Design Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
 
 UX Design Contributors influence the design of the Mattermost user experience through discussion in the `ux-design` channel on the Mattermost continous integration server at [https://community.mattermost.com/core/channels/ux-design](https://community.mattermost.com/core/channels/ux-design) and through contributions to the [Mattermost User Experience Guidelines](https://docs.mattermost.com/developer/fx-guidelines.html) on [GitHub](https://github.com/mattermost/docs/blob/master/source/developer/fx-guidelines.rst).
 
-Community Coordinator: Mike Gamble
+Community Coordinator: Andrew Brown
 
 #### [Coordination Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
 
@@ -156,4 +160,3 @@ When possible, influence contributors to apply themselves to the highest impact 
 #### [Mattermost Staff](https://docs.mattermost.com/process/community-overview.html#contents)
 
 Mattermost staff are paid by Mattermost, Inc. to take on any of the contributor roles mentioned above, as well as to develop and support Mattermost Enterprise Edition as a commercial extension of the Mattermost open source project for large and sophisticated organizations.
-
