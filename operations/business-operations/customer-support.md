@@ -32,9 +32,9 @@ If you’ve worked with the Mattermost Support Team before and have existing or 
 
 ### Ticket creation 
 
-When you submit a Support Ticket to the Mattermost Support Team, you can use **Submit a Request** in the Support Portal. This ensures that we get the information we need to assist you.
+When you submit a Support Ticket to the Mattermost Support Team, you can use [**Submit a Request**](https://support.mattermost.com/hc/en-us/requests/new?ticket_form_id=360000640492) in the Support Portal. This ensures that we get the information we need to assist you.
 
-### Support ticket request form 
+### Technical Support ticket request form 
 
 To ensure that we can assist our customers most efficiently it's important that as much information as possible is provided when submitting the ticket. More details around the required information is listed in our [Troubleshooting Guide](https://docs.mattermost.com/guides/administrator.html#troubleshooting).
 
@@ -51,13 +51,11 @@ To ensure that we can assist our customers most efficiently it's important that 
 | **Mobile device**     |Please select which type of device you are experiencing the issue on.            |
 | **Attachments**     |Add screenshots, logs, etc to the ticket here.            |
 
- ## Ticket workflow
+ ## Ticket workflow (Technical Support)
 
-The Support Team use the following ticket statuses to manage customer tickets: New, Open, Pending, Solved, and Closed. The workflow will be as follows:
+The Technical Support Team use the following ticket statuses to manage customer tickets: New, Open, Pending, Solved, and Closed. The workflow will be as follows:
 
 ![](../../.gitbook/assets/Support_Process_Workflow.png)
-
-Note: Descriptions of each status can be found [here](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#support-tickets).
  
 ## Issue escalation process
 
@@ -103,3 +101,40 @@ The Support Team is driven by three key metrics:
 - Customer Satisfaction.  
 
 Details of these metrics for our Enterprise customers can be found [here](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#support-tickets).
+
+## Sales Support
+
+Support is also provided for customers using our self-service portal which can be access [here](https://customers.mattermost.com/signup). Customer requesting assistance from here will be directed to [this](https://support.mattermost.com/hc/en-us/requests/new?ticket_form_id=360000852671) page.
+
+## Ticket workflow (Sales Support)
+
+The Sales Support Team use a slightly difernet workflow to the Technical Support Team and this can be seen here:
+
+![](../../.gitbook/assets/Sales_Support_Process_Workflow.png)
+
+Note: Descriptions of each status can be found [here](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#support-tickets).
+
+### Sales Support ticket request form 
+
+The following information is requested when contacting Sales Support:
+
+|Field | Description |
+|------|-------------|
+| **CC**  |Add additional email addresses of those who you would like to receive notifications of this issue.|
+| **Subject** |A brief description of the issue.            |
+| **Category**     |Select a category that best fits the product area affected by the issue raised.            |
+| **Description**     |Provide as much detail as possible regarding the issue.              |
+| **Attachments**     |Add screenshots, logs, etc to the ticket here.    
+
+### Sales Support categories
+
+The following categories are availble for submiting tickets to the Sales Support Team:
+
+|Name | Description |
+|------|-------------|
+| **Credit Card Issues**  |Problems regarding issues with credit card paymemnt|
+| **General** |For issues that don't fit the other categories            |
+| **Licensing**     |For questions regarding the licensing of the Mattermost Product            |
+| **Pricing**     |For questions regarding the pricing of Mattermost              |
+| **Product**     |For questions about the different products offered.  PLease note, for Technical Support please click [here](https://support.mattermost.com/hc/en-us/requests/new?ticket_form_id=360000640492)  |
+| **Renewals**     |For questions regarding license renewals  |
