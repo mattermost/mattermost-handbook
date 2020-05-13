@@ -140,6 +140,7 @@
 
 * [Contributors](contributors/contributors/README.md)
   * [Mattermost Community](contributors/contributors/community.md)
+  * [Mattermost Community](contributors/contributors/help-wanted.md)
   * [How to run a Hackathon](contributors/contributors/how-to-run-a-hackathon.md)
 * [Join Us](contributors/join-us/README.md)
   * [Recruiting](contributors/join-us/recruiting.md)
