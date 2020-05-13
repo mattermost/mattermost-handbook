@@ -230,23 +230,61 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 * Mattermost's NPS is based off of a 1-10 ranking provided by customers
   * If customers provide rankings 2+ times in a day, the last ranking of the day is used for NPS
 
-## Renewal Rate (Bookings)
+## Renewals
 
-#### ∑ Account Gross Renewals ÷ ∑ Account Available Renewals 
+### Renewal Metrics Reporting
 
-* Account Available Renewal Amount: Amount up for renewal at an Account level by qtr
-* Account Gross Renewal Amount: Amount booked, up to Available Renewal, at an Account level by qtr
-  * Hint: Gross Renewals = MIN(Available Renewals,Renewal Bookings)
-* Example 1:
-  * Account: Account 1
-  * Account Available Renewals Q4: $100k
-  * Account Renewal Bookings Q4: $130k
-  * Account Gross Renewals Q4: $100k
-* Example 2:
-  * Account: Account 2
-  * Account Available Renewals Q4: $100k
-  * Account Renewal Bookings Q4: $70k
-  * Account Gross Renewals Q4: $70k
+IMAGE
+
+Renewal Metrics in simple terms:
+* Available Renewals (**X**) - Total dollar amount of licenses ending is in the Renewal Qtr
+* Renewal Rate (**Y%**) - Total Won Amount (up to Available Renewal Amount) divided by Available Renewals where:
+  * Won Opportunity License start date falls in the Renewal Qtr
+  * Won Opportunity Product Line Type = 'Ren'
+* Forecasted Renewal Rate (**Z%**) - Total Open Amount * Probability + Won Amount (up to Available Renewal Amount) divided by Available Renewals, where:
+  * Won & Open Opportunity License start date falls in the Renewal Qtr
+  * Won & Open Opportunity Product Line Type = 'Ren'
+* Target (**A**) - Target Total Bookings set for the Renewal Qtr by Finance
+* Actual (**B**) - Total Bookings **Closed** in the Renewal Qtr where Product Line Type = 'Ren'
+* Target vs Actual aka TvA (**C%**) - Actual ÷ Target
+
+### Renewal Target vs Actual (TvA)
+
+* Calculation: **Renewal Actual ÷ Renewal Target**
+* Renewal Target
+  * Target set in a given period (Mo, Qtr, FY) by Finance
+* Renewal Actual
+  * Total Bookings **Won** in a given period (Mo, Qtr, FY) where Product Line Type = 'Ren'
+
+### Renewal Rate (Bookings)
+
+* Calculation: **∑ Gross Renewals ÷ ∑ Available Renewals**
+* Available Renewals
+  * Amount up for renewal at Account level by qtr
+* Gross Renewals
+  * Renewal amount booked (up to Available Renewal Amount) where **License Start** is in a given Qtr
+  * Calculation: MIN(Available Renewals,Renewal Bookings)
+  * Example 1:
+    * Account: Account 1
+    * Available Renewals Q4: $100k
+    * Renewal Bookings Q4: $130k
+    * Gross Renewals Q4: $100k
+  * Example 2:
+    * Account: Account 2
+    * Available Renewals Q4: $100k
+    * Renewal Bookings Q4: $70k
+    * Gross Renewals Q4: $70k
+
+### Forecasted Renewal Rate (Bookings)
+
+* Calculation: **(∑ Gross Renewals + ∑ Forecasted Renewals) ÷ ∑ Available Renewals**
+* Available Renewals (See Above)
+* Gross Renewals (See Above)
+* Open Renewal Amount
+  * Renewal amount for open Opportunities where **License Start** is in a given Qtr
+* Forecasted Renewals
+  * Open Renewal Amount * Probability + Gross Renewal Amount (up to Available Renewal Amount)
+  * Calculation: MIN(Available Renewals,(Open Renewal Amount * Probability + Renewal Bookings)
 
 ## Support Tickets
 
