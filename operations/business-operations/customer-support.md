@@ -104,7 +104,7 @@ Details of these metrics for our Enterprise customers can be found [here](https:
 
 ## Sales Support
 
-Support is also provided for customers using our self-service portal which can be access [here](https://customers.mattermost.com/signup). Customer requesting assistance from here will be directed to [this](https://support.mattermost.com/hc/en-us/requests/new?ticket_form_id=360000852671) page.
+Support is also provided for customers using our self-service portal which can be accessed [here](https://customers.mattermost.com/signup). Customers requesting assistance from here will be directed to the [**Submit a Request**](https://support.mattermost.com/hc/en-us/requests/new?ticket_form_id=360000852671) page.
 
 ## Ticket workflow (Sales Support)
 
