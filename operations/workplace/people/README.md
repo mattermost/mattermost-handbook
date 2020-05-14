@@ -17,6 +17,7 @@ description: >-
 | :--- | :--- | :--- |
 | 5/14/2020 | Natalie Jew | Added Staff Enablement question descriptions |
 | 5/14/2020 | Lynn Conway | Updated 90-Day review notification time |
+| 5/14/2020 | Lynn Conway | Added offboarding instructions for managers |
 
 
 ## Key Channels and Resources
