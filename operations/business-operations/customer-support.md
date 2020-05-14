@@ -132,7 +132,7 @@ The following categories are availble for submiting tickets to the Sales Support
 
 |Name | Description |
 |------|-------------|
-| **Credit Card Issues**  |Problems regarding issues with credit card paymemnt|
+| **Credit Card Issues**  |Problems regarding issues with credit card payment.|
 | **General** |For issues that don't fit the other categories            |
 | **Licensing**     |For questions regarding the licensing of the Mattermost Product            |
 | **Pricing**     |For questions regarding the pricing of Mattermost              |
