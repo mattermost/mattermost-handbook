@@ -124,7 +124,7 @@ The following information is requested when contacting Sales Support:
 | **Subject** |A brief description of the issue.            |
 | **Category**     |Select a category that best fits the product area affected by the issue raised.            |
 | **Description**     |Provide as much detail as possible regarding the issue.              |
-| **Attachments**     |Add screenshots, logs, etc to the ticket here.    
+| **Attachments**     |Add screenshots, logs, etc. to the ticket.    
 
 ### Sales Support categories
 
