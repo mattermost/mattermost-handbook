@@ -11,6 +11,14 @@ description: >-
 
 * **DO NOT share confidential HR information in the Mattermost pre-release server** \(a.k.a. [http://community.mattermost.com\](http://community.mattermost.com%29\) as it runs pre-production releases of Mattermost software and occasionally requires debugging of data stores. Use [BambooHR](https://mattermost.bamboohr.com/) to handle passport information, ID numbers and other sensitive data. HR issues \(e.g. health, extenuating circumstances, etc.\) should be discussed in @mattermost.com emails only. 
 
+### Change Log
+
+| Date | Edited By | Change Notes |
+| :--- | :--- | :--- |
+| 5/14/2020 | Natalie Jew | Added Staff Enablement question descriptions |
+| 5/14/2020 | Lynn Conway | Updated 90-Day review notification time |
+
+
 ## Key Channels and Resources
 
 * Performance Reviews
