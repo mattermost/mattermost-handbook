@@ -15,8 +15,8 @@ description: >-
 
 | Date | Edited By | Change Notes |
 | :--- | :--- | :--- |
-| 5/14/2020 | Natalie Jew | Add Staff Enablement question descriptions |
-| 5/14/2020 | Lynn Conway | Updated 90-Day Review Notification time |
+| 5/14/2020 | Natalie Jew | Added Staff Enablement question descriptions |
+| 5/14/2020 | Lynn Conway | Updated 90-Day review notification time |
 
 
 ## Key Channels and Resources
