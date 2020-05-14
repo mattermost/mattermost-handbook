@@ -108,7 +108,7 @@ Support is also provided for customers using our self-service portal which can b
 
 ## Ticket workflow (Sales Support)
 
-The Sales Support Team use a slightly difernet workflow to the Technical Support Team and this can be seen here:
+The Sales Support Team use a slightly different workflow to the Technical Support Team which is illustrated here:
 
 ![](../../.gitbook/assets/Sales_Support_Process_Workflow.png)
 
