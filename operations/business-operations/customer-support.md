@@ -135,6 +135,6 @@ The following categories are availble for submiting tickets to the Sales Support
 | **Credit Card Issues**  |Problems regarding issues with credit card payment.|
 | **General** |For issues that don't fit the other categories.            |
 | **Licensing**     |For questions regarding the licensing of the Mattermost Product.            |
-| **Pricing**     |For questions regarding the pricing of Mattermost              |
+| **Pricing**     |For questions regarding the pricing of Mattermost.              |
 | **Product**     |For questions about the different products offered.  PLease note, for Technical Support please click [here](https://support.mattermost.com/hc/en-us/requests/new?ticket_form_id=360000640492)  |
 | **Renewals**     |For questions regarding license renewals  |
