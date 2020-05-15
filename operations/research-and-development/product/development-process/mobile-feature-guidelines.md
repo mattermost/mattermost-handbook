@@ -1,6 +1,6 @@
 # Mobile Feature Guidelines 
 
-New product features should consider the mobile client at the same level of importance as the webapp client. For new features implemented on the server or webapp, please consider the mobile client through these lenses:
+New product features should consider the mobile client at the same level of importance as the web app client. For new features implemented on the server or web app, please consider the mobile client through these lenses:
 
 ## #1 Are mobile app code changes needed?
 
