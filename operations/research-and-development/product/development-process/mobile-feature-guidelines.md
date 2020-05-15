@@ -28,7 +28,7 @@ Bonus: Legacy servers (i.e. < v5.0) don't have post metadata, don't rely on it.
 - API requests will fail on mobile because network conditions are much more variable than on desktop. As such defaults need to be carefully chosen to avoid failing requests breaking or blocking core user functionality. As an example, if the default for a channel is set to be read only until a permission API request grants the user permissions, this is likely to result in a poor user experience in bad networks. 
 
 When in doubt, [the default if an API request fails should not change existing behavior, or a failed API request should either do nothing or notify the user somehow](https://github.com/mattermost/mattermost-mobile/blob/master/app/mm-redux/actions/preferences.ts#L18).
-- [Retries should be added to important API requests](https://github.com/mattermost/mattermost-mobile/blob/master/app/actions/views/channel.js#L607)
+- [Retries should be added to important API requests](https://github.com/mattermost/mattermost-mobile/blob/master/app/actions/views/channel.js#L607).
 
 ## #4 Client Performance Impact
 
