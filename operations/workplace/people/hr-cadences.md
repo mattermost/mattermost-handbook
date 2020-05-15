@@ -11,7 +11,7 @@ Listening sessions are 1x1 meeting with your HR partner. The intent of the HR Li
 Feedback themes will help drive HR priorities, communication and/or clarification efforts and even coaching opportunities for managers and leaders.
 
 **Cadence** 
-The goal is monthly for managers and quarterly for non-managers. Your HR partner will schedule time with you via Google Calendar. This may change due to HR team bandwidth. However, every staff member is encouraged to schedule time with someone on HR if there is not an existing scheduled meeting or if there’s an urgent topic.
+The goal is monthly for managers and quarterly for non-managers. Your HR partner will schedule time with you via Google Calendar. This may change due to HR team bandwidth. However, every staff member is encouraged to schedule time with someone on HR even if there isn't an existing scheduled meeting or if there’s an urgent topic.
 
 Manager listening sessions will happen once a month. In addition to the above topics, this is also an opportunity for people managers to unpack questions around people management challenges, concerns and/or best practices. This feedback will also help drive future Manager Training topics.
 
@@ -80,4 +80,3 @@ Staff Net Promoter Score is a health index measuring overall engagement, happine
 After the survey analysis is presented at [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com), HR will share Enablement Results with MLT as long as there are at least 5 submitted responses. The minimum response is 5 in order to preserve the anonymous nature of the survey. HR will work with MLT or the Team Lead to focus on relevant and actionable results based on the feedback. Next, MLT or Team Leads will share and discuss any next steps with the team.
 
 Post-survey actions start with team conversations and are further contextualized with pulse surveys and listening sessions to help understand blindspots and brown M&Ms. With bi-annual surveys, post-survey action planning should be iterative throughout the year. 
-
