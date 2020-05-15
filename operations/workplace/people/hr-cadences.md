@@ -88,7 +88,7 @@ How to see the opportunities is an area we need to improve and make transparent 
 Understanding where you are today and what the next step may be improves transparency to opportunities. Matching your unique talent combination with work is a team effort between an individual, manager, and Mattermost. 
 
 #### **Q13. How likely are you to recommend Mattermost as a place to work?** 
-Staff Net Promoter Score is a health index measuring overall engagement, happiness and loyalty. sNPS is a common indicator of attrition, both voluntary and involuntary. Understanding how Promoters, Detractors and Passives rate each category gives us, Mattermost, an opportunity to retain talent, improve performance and the staff experience. 
+Staff Net Promoter Score (SNPS) is a health index measuring overall engagement, happiness, and loyalty. SNPS is a common indicator of attrition, both voluntary and involuntary. Understanding how Promoters, Detractors, and Passives rate each category gives us, Mattermost, an opportunity to retain talent, improve performance, and enhance the staff experience. 
 
 
 ### Post-COM Survey Analysis
