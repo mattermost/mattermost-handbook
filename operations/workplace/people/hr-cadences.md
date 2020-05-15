@@ -26,7 +26,7 @@ We value high trust over micromanagement and want to continuously improve how we
 ### Cadence
 * Every 6 months, March and September 
 * [additional logistics can be found here](https://handbook.mattermost.com/operations/operations/company-cadence#staff-enablement-survey)
-* Post-action planning at team and company level 
+* Post-action planning at team and company level.
 
 ### Past Surveys 
 * [March 2020 - Staff Engagement Survey](https://docs.google.com/presentation/d/1bkUQOCvJyYX-695gpZI7SJal14AWefFx5fJQxTOJKlI/edit#slide=id.g730cbfe72a_0_9)
