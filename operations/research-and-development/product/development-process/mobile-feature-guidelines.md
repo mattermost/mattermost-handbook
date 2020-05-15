@@ -13,7 +13,7 @@ While not every web app feature needs parity with mobile, this is a discussion t
 
 ## #2 Backwards Compatibility
 
-- Mobile releases must be backwards compatible with at least all server versions back to the [oldest supported ESR](https://docs.mattermost.com/administration/extended-support-release.html?highlight=esr). Question to ask during design: What is the expected behaviour on a new server with an old app, or a new app with an old server? Example: 
+- Mobile releases must be backwards compatible with at least all server versions back to the [oldest supported ESR](https://docs.mattermost.com/administration/extended-support-release.html?highlight=esr). An important question to ask during design is: What is the expected behavior on a new server with an old app, or a new app with an old server? Example: 
   - New mobile app with an old server: If the server is running older code and does not support the new feature, we can’t allow users to access the feature from a new mobile app. 
     - Example: Hide the “Mark as Unread” option if the server is older than v5.18
       - [Use the isMinimumServerVersion helper function](https://github.com/mattermost/mattermost-mobile/blob/master/app/screens/post_options/index.js#L49)
