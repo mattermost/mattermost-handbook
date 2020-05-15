@@ -7,7 +7,7 @@ New product features should consider the mobile client at the same level of impo
 - A good rule of thumb is that if there are web app repo code changes (outside of the System Console UI), mobile code changes are needed to support the feature. 
 
 While not every web app feature needs parity with mobile, this is a discussion to have with the Product Managers and UX team, and a decision to be made in the requirements gathering phase of feature design.
-- If a feature requires mobile code changes, the mobile team PM (Eric Sethna) should be made aware of the feature **before** it’s committed to the feature teams quarterly roadmap. Please involve the mobile team PM in roadmap planning and quarterly OKR planning discussions. The same applies even if the feature team will be doing the mobile implementation themselves, given that the mobile team will be involved in code reviews, testing and should provide guidance on the feature implementation.
+- If a feature requires mobile code changes, the Mobile Team PM (Eric Sethna) should be made aware of the feature before it’s committed to the feature team's quarterly roadmap. Please involve the Mobile Team PM in roadmap planning and quarterly OKR planning discussions. The same applies even if the feature team will be doing the mobile implementation themselves, given that the Mobile Team will be involved in code reviews, testing, and should provide guidance on the feature implementation.
 - During design and spec development of any feature that will involve mobile code changes, please involve the mobile PM (Eric Sethna) and mobile dev lead (Elias Nahum) at all stakeholder checkpoints  including requirements gathering, design option exploration, and final design review. 
 
 
