@@ -81,7 +81,11 @@ Performance reviews are completed once or twice a year, depending on the team's 
 Giving and receiving feedback are often avoided because the topic is discomforting. Fostering the value of [iteration](https://docs.google.com/presentation/d/1BDSaeW-M92gth_NM1vI23dtbFLBsYVIk/edit#slide=id.g6f3b66b1fb_0_352) depends on the willingness to objectively hear and share feedback in order to grow individually, as a team and at Mattermost. 
 
 #### **Q12. This last year, I have had opportunities to grow at Mattermost.** 
-Mattermost is fast-paced and high trust and from a bird’s eye view there are seemingly multiple opportunities to learn, grow and progress. The balance is seeing these opportunities and matching to the individual characteristics of Q3 and Q7.  How to see the opportunities is an area we need to improve and make transparent so each person has access to what growth trajectories are available at Mattermost. The foundation of this begins with understanding [job levels](https://docs.google.com/spreadsheets/d/1kNsl7JUWDQ8MhWonys9dR3osrxEWYkKVIoECfFKSQzw/edit#gid=0). Understanding where you are today and what the next step may be improves transparency to opportunities. Matching your unique talent combination with work is a team effort between an individual, manager and Mattermost. 
+Mattermost is fast-paced and high trust and from a bird’s eye view there are multiple opportunities to learn, grow, and progress. The balance is seeing these opportunities and matching them to the individual characteristics of Q3 and Q7. 
+
+How to see the opportunities is an area we need to improve and make transparent so each person has access to what growth trajectories are available at Mattermost. The foundation of this begins with understanding [job levels](https://docs.google.com/spreadsheets/d/1kNsl7JUWDQ8MhWonys9dR3osrxEWYkKVIoECfFKSQzw/edit#gid=0). 
+
+Understanding where you are today and what the next step may be improves transparency to opportunities. Matching your unique talent combination with work is a team effort between an individual, manager, and Mattermost. 
 
 #### **Q13. How likely are you to recommend Mattermost as a place to work?** 
 Staff Net Promoter Score is a health index measuring overall engagement, happiness and loyalty. sNPS is a common indicator of attrition, both voluntary and involuntary. Understanding how Promoters, Detractors and Passives rate each category gives us, Mattermost, an opportunity to retain talent, improve performance and the staff experience. 
