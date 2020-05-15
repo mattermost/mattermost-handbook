@@ -17,7 +17,7 @@ Manager listening sessions will happen once a month. In addition to the above to
 
 ## Staff Enablement Survey
 
-Staff enablement data provides a benchmark understanding of how staff feel or don’t feel enabled in the workplace. This is also a predictor of satisfaction and business outcomes. Quantitative data is a starting point to gather qualitative data for customized action planning.
+Staff enablement data provides a benchmark understanding of the level of enablement felt by staff in the workplace. This is also a predictor of satisfaction and business outcomes. Quantitative data is a starting point to gather qualitative data for customized action planning.
 
 Mattermost uses Gallup’s 12 Engagement questions to assess how enabled staff at Mattermost feel. The [Gallup](https://q12.gallup.com/Help/en-us/Answers/164468) research indicates 12 of the biggest indicators of high-performing teams in terms of critical outcomes such as productivity, profitability, safety and recognition. We use all 12 questions because each  topics asked about are deeply important to the Mattermost  staff experience. We value high trust over micromanagement and want to continuously improve how we enable all staff to bring their best self to work. The bi-annual engagement survey helps HR, MLT and Managers focus on high impact initiatives that mean the most to the staff experience. 
 
