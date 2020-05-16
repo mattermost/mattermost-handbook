@@ -4,7 +4,7 @@ description: >-
   the CEO
 ---
 
-# Management Leadership Team \(MLT\)
+# Mattermost Leadership Team \(MLT\)
 
 This section outlines:
 
@@ -17,8 +17,8 @@ This section outlines:
 
 * Ian Tien: Co-Founder and CEO
 * Corey Hulen: Co-Founder and CTO
+* Chandar Venkatamaran: Chief Product Officer
 * Aneal Vallurupalli: VP, Finance
-* Alexis Schmidt: VP, Sales
 * Chris Overton: VP, Engineering
 * Ken Olofsen: VP, Marketing
 * Lindsay Brock: Head of Product Management
