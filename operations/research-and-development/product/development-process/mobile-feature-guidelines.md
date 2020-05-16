@@ -10,8 +10,7 @@ While not every web app feature needs parity with mobile, this is a discussion t
 - If a feature requires mobile code changes, the Mobile Team PM (Eric Sethna) should be made aware of the feature before it’s committed to the feature team's quarterly roadmap. Please involve the Mobile Team PM in roadmap planning and quarterly OKR planning discussions. The same applies even if the feature team will be doing the mobile implementation themselves, given that the Mobile Team will be involved in code reviews, testing, and should provide guidance on the feature implementation.
 - During design and spec development of any feature that will involve mobile code changes, please involve the Mobile PM (Eric Sethna) and Mobile dev lead (Elias Nahum) at all stakeholder checkpoints  including requirements gathering, design option exploration, and final design review. 
 
-
-## #2 Backwards Compatibility
+## #2 Backwards compatibility
 
 - Mobile releases must be backwards compatible with at least all server versions back to the [oldest supported ESR](https://docs.mattermost.com/administration/extended-support-release.html?highlight=esr). An important question to ask during design is: What is the expected behavior on a new server with an old app, or a new app with an old server? Example: 
   - New mobile app with an old server: If the server is running older code and does not support the new feature, we can’t allow users to access the feature from a new mobile app. 
@@ -23,14 +22,14 @@ While not every web app feature needs parity with mobile, this is a discussion t
 - For new features, consider a `minserverversion` check that only executes the code if the server connected to the app is newer than xyz. [See example to disable or not the position field when editing the profile](https://github.com/mattermost/mattermost-mobile/blob/ee4b85edcfee8316db08c31ec5b2a26afb343bd3/app/screens/edit_profile/index.js#L29).
 Bonus: Legacy servers (i.e. < v5.0) don't have post metadata, don't rely on it.
 
-## #3 Variable Network Conditions
+## #3 Variable network conditions
 
 - API requests will fail on mobile because network conditions are much more variable than on desktop. As such defaults need to be carefully chosen to avoid failing requests breaking or blocking core user functionality. As an example, if the default for a channel is set to be read only until a permission API request grants the user permissions, this is likely to result in a poor user experience in bad networks. 
 
 When in doubt, [the default if an API request fails should not change existing behavior, or a failed API request should either do nothing or notify the user somehow](https://github.com/mattermost/mattermost-mobile/blob/master/app/mm-redux/actions/preferences.ts#L18).
 - [Retries should be added to important API requests](https://github.com/mattermost/mattermost-mobile/blob/master/app/actions/views/channel.js#L607).
 
-## #4 Client Performance Impact
+## #4 Client performance iImpact
 
 - Mobile devices vary significantly in their computing capabilities, as such performance should be top of mind when developing mobile features.
 - Minimize requests where possible, make requests in parallel if possible, batch dispatches wherever possible. 
