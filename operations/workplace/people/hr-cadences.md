@@ -24,7 +24,7 @@ Mattermost uses Gallup’s 12 Engagement questions to assess how enabled staff a
 We value high trust over micromanagement and want to continuously improve how we enable all staff to bring their best self to work. The bi-annual engagement survey helps HR, MLT, and Managers focus on high impact initiatives that mean the most to the staff experience. 
 
 ### Cadence
-* Every 6 months, March and September 
+* Every six months (in March and September).
 * [Additional logistics can be found here](https://handbook.mattermost.com/operations/operations/company-cadence#staff-enablement-survey).
 * Post-action planning at team and company level.
 
