@@ -93,6 +93,6 @@ Staff Net Promoter Score (SNPS) is a health index measuring overall engagement, 
 
 ### Post-COM Survey Analysis
 
-After the survey analysis is presented at [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com), HR will share Enablement Results with MLT as long as there are at least 5 submitted responses. The minimum response is 5 in order to preserve the anonymous nature of the survey. HR will work with MLT or the Team Lead to focus on relevant and actionable results based on the feedback. Next, MLT or Team Leads will share and discuss any next steps with the team.
+After the survey analysis is presented at [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com), HR will share Enablement Results with MLT as long as there are at least five submitted responses. The minimum response is five in order to preserve the anonymous nature of the survey. HR will work with MLT or the Team Lead to focus on relevant and actionable results based on the feedback. Next, MLT or Team Leads will share and discuss any next steps with the team.
 
 Post-survey actions start with team conversations and are further contextualized with pulse surveys and listening sessions to help understand blindspots and brown M&Ms. With bi-annual surveys, post-survey action planning should be iterative throughout the year. 
