@@ -72,6 +72,7 @@
       * [Release Tips](operations/research-and-development/product/release-process/release-tips.md)
       * [Release Scorecard Definitions](operations/research-and-development/product/release-process/release-scorecard-definitions.md)
     * [Development Process](operations/research-and-development/product/development-process/README.md)
+      * [Mobile Feature Guidelines](operations/research-and-development/product/development-process/mobile-feature-guidelines.md)
       * [Deprecation Policy](operations/research-and-development/product/development-process/deprecated-features.md)
       * [Mattermost Software Requirements Process](operations/research-and-development/product/development-process/software-requirements.md)
       * [Creating New Jira Bug Tickets](operations/research-and-development/product/development-process/new-bug-tickets.md)
