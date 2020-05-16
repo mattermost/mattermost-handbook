@@ -29,7 +29,7 @@ We value high trust over micromanagement and want to continuously improve how we
 * Post-action planning at team and company level.
 
 ### Past Surveys 
-* [March 2020 - Staff Engagement Survey](https://docs.google.com/presentation/d/1bkUQOCvJyYX-695gpZI7SJal14AWefFx5fJQxTOJKlI/edit#slide=id.g730cbfe72a_0_9)
+* [March 2020 - Staff Engagement Survey](https://docs.google.com/presentation/d/1bkUQOCvJyYX-695gpZI7SJal14AWefFx5fJQxTOJKlI/edit#slide=id.g730cbfe72a_0_9).
 
 For additional information on Gallup [see the Gallup website](https://www.gallup.com/corporate/212381/who-we-are.aspx). You can review the list of questions ahead of taking the survey. Each question is important to Mattermost as it relates to our leadership principles, remote teams, and shared values of Trust, Growth, and Iteration.  
 
