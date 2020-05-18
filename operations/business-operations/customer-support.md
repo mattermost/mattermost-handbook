@@ -82,7 +82,7 @@ The following categories are availble for submiting tickets to the Technical Sup
 |System Console|Tickets regarding System Console functionality|
 |Upgrading|Tickets regarding Upgrading functionality|
 |User Interface|Tickets regarding User Interface functionality|
-|User,  Team & Channel Management|Tickets regarding User,  Team & Channel Management functionality|
+|User, Team & Channel Management|Tickets regarding User, Team & Channel Management functionality|
 |User issue|Tickets regarding emd user issues such as password resets|
 
  ## Ticket workflow (Technical Support)
