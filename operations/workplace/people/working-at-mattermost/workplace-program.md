@@ -16,11 +16,9 @@ This activity is managed by Lynn Conway.
 
 ### Yoga Session
 
-If you'd like to give your mind and body a quick break during your busy day sign up for a yoga session [need budget approval]! There is one yoga session per week with alternating early and late day sessions to cover timezones.
+If you'd like to give your mind and body a quick break during your busy day sign up for a yoga session {need budget approval}! 
 
-  - {Insert dates and times here}
-
-{Insert link to sign up}
+There is one yoga session per week on Wednesdays with alternating early and late day sessions to cover timezones. Times for each week will be posted to the Social channel: https://community.mattermost.com/private-core/channels/social
 
 This activity is managed by Lynn Conway.
 
