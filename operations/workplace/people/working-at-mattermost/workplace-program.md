@@ -16,9 +16,9 @@ This activity is managed by Lynn Conway.
 
 ### Yoga Session
 
-If you'd like to give your mind and body a quick break during your busy day sign up for a yoga session {need budget approval}! 
+If you'd like to give your mind and body a quick break during your busy day sign up for a yoga session! 
 
-There is one yoga session per week on Wednesdays with alternating early and late day sessions to cover timezones. Times for each week will be posted to the Social channel: https://community.mattermost.com/private-core/channels/social
+Check out dates and times for yoga sessions in the Social channel: https://community.mattermost.com/private-core/channels/social
 
 This activity is managed by Lynn Conway.
 
@@ -32,27 +32,7 @@ This activity is managed by R&D.
 
 ### Trivia Hour
 
-Cadence: There are two trivia sessions per month with alternating early and late day sessions to cover timezones.
-
-  - {Insert dates and times here}
-
-{Insert link to sign up}
-
-Logistics: Trivia Teams will be randomized through [Zoom Breakout Rooms](https://support.zoom.us/hc/en-us/articles/206476093-Enabling-breakout-rooms).
-
-  - Host // XX TO DO
-
-    - Responsible for Trivia questions and hosting the event 
-    - Suggestion: Host sign-ups, to allow all staff to participate in trivia events 
-
-  - Prize // XXX TO DO
-
-    - Mattermost Badge? 
-    - MM Swag (can have a select few options to choose from, non-apparel for ease of selection)?  
-
-{Insert link to sign up}
-
-This activity is managed by {person}.
+Coming soon! Trivia Hours are being formalized at: https://github.com/mattermost/mattermost-handbook/issues/230
 
 ## Celebration and Sympathy Gifts
 
