@@ -18,6 +18,7 @@ description: 50% Draft
 * Release Manager prepares bullet points and release headline for release announcement
 * Release Manager reviews the outline \(benefits and order of features\) with PMs before sending to Justin to work on
   * Ask PMs to share specs or other details on why the features we are shipping were built, so that it is easier for marketing to identify which 1-2 features are highlighted in the title
+  * Do not include plugins that haven't been added to the Plugin Marketplace by code complete deadline to avoid cutting those plugins from the blog post draft in the last minute if any development issues arise
 * Release Manager and PMs decide which sections of the release announcement will have an accompanying screenshot/photo
 * Release Manager leads the team to arrive at a decision on the theme / main highlight for the blog post. Consult with marketing and PM leads for final approval
   * Take into consideration whether a feature is highly requested, what is the overall impact of all marketed features, and whether a feature is at risk of being cut
