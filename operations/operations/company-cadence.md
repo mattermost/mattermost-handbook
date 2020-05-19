@@ -107,7 +107,7 @@ After the prep meeting, Vice Chair posts a screenshot of the final agenda into t
 
 ## Staff Enablement Survey
 
-Every 6 months we'll be asking staff to spend around 3 minutes completing a staff enablement survey of 12 engagement questions, plus identifying their organizational leader. ‌
+Every 6 months we'll be asking staff to spend around 3 minutes completing a [staff enablement survey of 12 engagement questions](https://handbook.mattermost.com/operations/workplace/people/hr-cadences#staff-enablement-survey), plus identifying their organizational leader. ‌
 
 * The enablement survey will be announced in COM one week before the survey goes live.
 * The survey link will be shared at the beginning of COM.
