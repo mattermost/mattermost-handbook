@@ -69,6 +69,6 @@ Remember them with a gift to show you have them in your mind. You can request to
 Notes:
 
   - Multiple requests for the same event are combined into a single gift.
-  - All gifts will be sent to the address on file on their Bamboo profiles
+  - All gifts will be sent to the address on file on their Bamboo profile.
   - Before submitting a request, please confirm with the team member that their shipping address and phone number is currently up to date on their Bamboo profile, and ask them to update it if it is not current.
   - Note that if someone is hospitalized, we send the sympathy gift to the hospital if we know the location.
