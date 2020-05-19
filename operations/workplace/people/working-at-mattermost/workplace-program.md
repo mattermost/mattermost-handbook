@@ -28,7 +28,7 @@ This activity is managed by Lynn Conway.
 
 Into video games? Then join your fellow team to battle for the best at 11:30am Palo Alto time each Friday.
 
-{Insert link to sign up}
+Join the Social: Video Gaming channel to participate: https://community.mattermost.com/private-core/channels/social-gaming
 
 This activity is managed by R&D.
 
