@@ -131,6 +131,7 @@
       * [Leaves of Absence](operations/workplace/people/working-at-mattermost/leaves-of-absence/README.md)
         * [Pregnancy Leave](operations/workplace/people/working-at-mattermost/leaves-of-absence/pregnancy-leave.md)
         * [Baby Bonding Parental Leave](operations/workplace/people/working-at-mattermost/leaves-of-absence/baby-bonding-parental-leave.md)
+      * [Workplace Program](operations/workplace/people/working-at-mattermost/workplace-program.md)
     * [Performance Reviews](operations/workplace/people/performance-reviews-50/README.md)
       * [Performance Review Timeline Winter 2019](operations/workplace/people/performance-reviews-50/performance-review-timeline-winter-2019.md)
       * [Formal Review Process](operations/workplace/people/performance-reviews-50/formal-review-process.md)
