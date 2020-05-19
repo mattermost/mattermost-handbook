@@ -61,7 +61,7 @@ This activity is managed by {person}.
 At Mattermost, we like to share celebrations of life milestones and sympathy with our team members!
 
 If you know someone who is either
-Celebrating a special milestone such as wedding engagements, weddings and childbirth; or
+- Celebrating a special milestone such as wedding engagements, weddings, and childbirth; or
 - Undergoing a major life event such as the passing of a family member/significant other, or is injured, ill or hospitalized
 
 Remember them with a gift to show you have them in your mind. You can request to send a celebration or sympathy gift to a team member by completing the [Celebration and Sympathy Gifts Request form](https://docs.google.com/forms/d/1_ltFCvZhItVNWS6JV-glOnk1aU-d9oOfUZrW3zEiWhg/edit).
