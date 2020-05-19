@@ -126,13 +126,21 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 </thead>
 <tbody>
 <tr class="odd">
-<td>Title is clear and compelling to a system admin. 1 - System admin doesn’t understand what’s in the release. 5 - System admin sort of understands what’s in the release, but may misinterpret things. 10 - System admin understands what’s in our release in the fewest possible words, and is excited about the upgrade and the fewest 
-</td>
+<td><p>Title is clear and compelling to a system admin.</p>
+<p>1 - System admin doesn’t understand what’s in the release.</p>
+<p>5 - System admin sort of understands what’s in the release, but may misinterpret things.</p>
+<p>10 - System admin understands what’s in our release in the fewest possible words, and is excited about the upgrade and the fewest.</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td>Intro paragraph and bullet points are clear and tell a system admin all they need to know. 1 - System admin finds announcement confusing and inaccurate. 5 - System admin gets the gist of the announcement, but finds at least one thing confusing. 10 - So clear, system admin barely has to read the rest of the announcement.
-</td>
+<td>Intro paragraph and bullet points are clear and tell a system admin all they need to know.</p>
+<p>1 - System admin finds announcement confusing and inaccurate.</p>
+<p>5 - System admin gets the gist of the announcement, but finds at least one thing confusing.</p>
+<p>10 - So clear, system admin barely has to read the rest of the announcement.</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
