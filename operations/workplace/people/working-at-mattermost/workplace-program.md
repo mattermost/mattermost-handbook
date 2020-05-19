@@ -12,7 +12,7 @@ Grab a (remote) coffee or tea, and socialize with a Mattermost team member for 3
 
 [Sign up for coffee time](https://docs.google.com/spreadsheets/d/1MoHM7tI61F0gFMigcwaSYOBCKxvJAAiAVaefHWM8wBQ/edit#gid=0) and you will randomly be paired up with another team member for coffee time, twice a month.
 
-This activity is managed by Lynn Conway.
+This activity is managed by People Team.
 
 ### Yoga Session
 
@@ -20,7 +20,7 @@ If you'd like to give your mind and body a quick break during your busy day sign
 
 Check out dates and times for yoga sessions in the Social channel: https://community.mattermost.com/private-core/channels/social
 
-This activity is managed by Lynn Conway.
+This activity is managed by People Team.
 
 ### Video Game Hour
 
@@ -28,7 +28,7 @@ Into video games? Then join your fellow team to battle for the best at 11:30am P
 
 Join the Social: Video Gaming channel to participate: https://community.mattermost.com/private-core/channels/social-gaming
 
-This activity is managed by R&D.
+This activity is managed by R&D Team.
 
 ### Trivia Hour
 
