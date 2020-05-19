@@ -1,6 +1,6 @@
 # Mattermost Workplace Program
 
-To build friendships and stronger relationships within and across departments, Mattermost promotes several opportunities for staff members to connect with others across the organization.
+To foster friendships and stronger relationships within and across departments, Mattermost promotes several opportunities for staff members to connect with others across the organization.
 
 ## Social Activities
 
