@@ -51,6 +51,40 @@ To ensure that we can assist our customers most efficiently it's important that 
 | **Mobile device**     |Please select which type of device you are experiencing the issue on.            |
 | **Attachments**     |Add screenshots, logs, etc to the ticket here.            |
 
+## Ticket categories (Technical Support)
+
+The following categories are availble for submiting tickets to the Technical Support Team:
+
+|Name | Description |
+|------|-------------|
+|General inquiry|Tickets regarding general Mattermost functionality|
+|AD/LDAP|Tickets regarding AD/LDAP functionality|
+|Authentication & Provisioning|Tickets regarding Authentication & Provisioning functionality|
+|Compliance & Auditing|Tickets regarding Compliance & Auditing functionality|
+|Connectivity|Tickets regarding Connectivity functionality|
+|Customization & Branding|Tickets regarding Customization & Branding functionality|
+|Data Export and Import|Tickets regarding Data Export and Import functionality|
+|Database|Tickets regarding Database functionality|
+|Desktop|Tickets regarding Desktop functionality|
+|Developer Toolkit|Tickets regarding Developer Toolkit functionality|
+|DevOps Command Center|Tickets regarding DevOps Command Center functionality|
+|General|Tickets regarding General functionality|
+|Installation|Tickets regarding Installation functionality|
+|Integrations|Tickets regarding Integrations functionality|
+|Invitation & Login|Tickets regarding Invitation & Login functionality|
+|Messaging|Tickets regarding Messaging functionality|
+|Mobile|Tickets regarding Mobile functionality|
+|Notifications & Status|Tickets regarding Notifications & Status functionality|
+|Onboarding|Tickets regarding Onboarding functionality|
+|Roles & Permissions|Tickets regarding Roles & Permissions functionality|
+|Search|Tickets regarding Search functionality|
+|Server Issues|Tickets regarding Server Issues functionality|
+|System Console|Tickets regarding System Console functionality|
+|Upgrading|Tickets regarding Upgrading functionality|
+|User Interface|Tickets regarding User Interface functionality|
+|User, Team & Channel Management|Tickets regarding User, Team & Channel Management functionality|
+|User issue|Tickets regarding emd user issues such as password resets|
+
  ## Ticket workflow (Technical Support)
 
 The Technical Support Team use the following ticket statuses to manage customer tickets: New, Open, Pending, Solved, and Closed. The workflow will be as follows:
@@ -126,7 +160,7 @@ The following information is requested when contacting Sales Support:
 | **Description**     |Provide as much detail as possible regarding the issue.              |
 | **Attachments**     |Add screenshots, logs, etc. to the ticket.    
 
-### Sales Support categories
+### Ticket categories (Sales Support)
 
 The following categories are availble for submiting tickets to the Sales Support Team:
 
