@@ -24,7 +24,7 @@ This activity is managed by People Team.
 
 ### Video Game Hour
 
-Into video games? Then join your fellow team to battle for the best at 11:30am Palo Alto time each Friday.
+Into video games? Then join your fellow team to battle for the best at 10:30am Palo Alto time each Friday.
 
 Join the Social: Video Gaming channel to participate: https://community.mattermost.com/private-core/channels/social-gaming
 
