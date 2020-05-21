@@ -126,19 +126,19 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Title is clear and compelling to a system admin.</p>
-<p>1 - System admin doesn’t understand what’s in the release and the title is not customer focused and does not focus on the System Admin for Mattermost deciding whether to upgrade or buy E20 to empower end users.</p>
-<p>5 - System admin somewhat understands what’s in the release, but may misinterpret things. The title somewhat focuses on the System Admin for Mattermost deciding whether to upgrade or buy E20 to empower end users.</p>
+<td><p>Title is clear and compelling to a system admin and focuses on the System Admin for Mattermost deciding whether to upgrade or buy E20 to empower end users.</p>
+<p>1 - System admin doesn’t understand what’s in the release and the title is not customer focused.</p>
+<p>5 - System admin somewhat understands what’s in the release, but may misinterpret things. The title is somewhat customer focused.</p>
 <p>10 - System admin understands what’s in our release in the fewest possible words, and is excited about the upgrade. The title is customer focused and focuses on the System Admin for Mattermost deciding whether to upgrade or buy E20 to empower end users.</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td>Intro paragraph and bullet points are clear and tell a system admin all they need to know.</p>
+<td>Intro paragraph and bullet points are clear and tell a system admin all they need to know with compelling, concise, and specific descriptions.</p>
 <p>1 - System admin finds intro paragraph and bullet points confusing and inaccurate.</p>
 <p>5 - System admin gets the gist of the announcement, but finds at least one thing confusing.</p>
-<p>10 - System admin finds that the intro paragraph and bullet points introduce features with compelling, concise and specific descriptions./p></td>
+<p>10 - System admin finds that the intro paragraph and bullet points introduce features with compelling, concise and specific descriptions.</p></td>
 <td></td>
 <td></td>
 <td></td>
