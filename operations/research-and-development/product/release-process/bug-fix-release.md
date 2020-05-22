@@ -73,7 +73,7 @@ Review the [Release Features & Bug Guidelines](https://docs.google.com/document/
     - Submit `NOTICE.txt` PRs for any new libraries added from dev, and ensure they are cherry-picked to quality release branch
     - If there are any breaking compatibility changes in the release, open an issue in the [GitLab Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab) to make sure GitLab is aware. Post a link to the issue in the Release Discussion channel
     - Ask UX to [create a "Hero" screenshot as the splash image for the release blog post](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements#one-great-screenshot-a-month)
-    - Start drafting [release summary slide deck](https://docs.google.com/presentation/d/1HndB1oe8-JabPseP3H-4wZtP0SqOU0IKjQpMoqfnSo0/edit#slide=id.p2) to prepare for posting for MTL and CSM
+    - Start drafting [a release summary slide deck](https://docs.google.com/presentation/d/1HndB1oe8-JabPseP3H-4wZtP0SqOU0IKjQpMoqfnSo0/edit#slide=id.p2) for MTL and CSMs for the next release
 3. Dev:
     - Prioritize reviewing, updating, and merging of pull requests for current release until there are no more tickets in the pull request queue marked for the current release
 4. QA:
