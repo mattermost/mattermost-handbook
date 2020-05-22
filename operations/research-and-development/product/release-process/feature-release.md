@@ -87,6 +87,7 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Post a reminder to devs in the Release Discussion channel of the the code complete date with the list of open and submitted bugs and PRs [see example](https://community.mattermost.com/core/pl/coggyys9atg7fqyam81q3gkmoo)
     - Ask PMs to review the Jira tickets remaining in the current release fix version and push those that won't make it to the next fix version
     - Ask PMs and Tech writer to complete release documentation by T-2 deadline. [Example request](https://community.mattermost.com/core/pl/w4oobh4zpigsfbqskx5ix5jgxo)
+    - Finalize [release summary slide deck](https://docs.google.com/presentation/d/1HndB1oe8-JabPseP3H-4wZtP0SqOU0IKjQpMoqfnSo0/edit#slide=id.p2) to prepare for posting for MTL and CSMs
 3. Leads:
     - Finalize roadmap for next release, and identify planned marketing bullet points
 4. Marketing:
@@ -201,7 +202,6 @@ Day after which only **S1 regressions** should be fixed (crashes, security vulne
     - Verify all items in the last posted release checklist are complete
     - Verify that the final translations PR for the release is submitted
     - Update **Known Issues** section with any significant issues that were found and not fixed for the final release
-    - Start drafting a release summary for Support/Sales highlighting key things (e.g., new features, breaking changes, things we want feedback on, and potential support issues)
 3. QA:
     - Verify all Jira tickets other than newly-filed bugs have been tested, verified, and closed
     - As bug fixes are merged and RCs are cut, verify fixes on new RCs, and post in Release Channel after testing
