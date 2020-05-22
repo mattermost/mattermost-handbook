@@ -70,7 +70,6 @@ Note that each time you update the status of a feature or add a comment, anyone 
 2. Make sure all features that fall under your area of responsibility are assigned to you.
 3. Add any important detail about the feature that is missing or that would be valuable to others that might need to help you validate or gather requirements for the feature. 
 4. Assign Releases: Features can have one or many releases assigned as they may appear on different roadmap/planning views for different purposes. Below is an outline of our current structure of releases in Product Board:
-
  - **Planning Estimates**: H1 Plan, H2 Plan (tentative), Backlog, Community Contract, or Bounty
  - **Exact Releases** (when known): Examples: 5.22, 5.24, 1.30, Mattermost 6.0
  - **Sequence**: Now, Next, Later
