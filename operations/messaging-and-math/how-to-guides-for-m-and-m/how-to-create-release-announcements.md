@@ -18,6 +18,7 @@ description: 50% Draft
 * Release Manager prepares bullet points and release headline for release announcement
 * Release Manager reviews the outline \(benefits and order of features\) with PMs before sending to Justin to work on
   * Ask PMs to share specs or other details on why the features we are shipping were built, so that it is easier for marketing to identify which 1-2 features are highlighted in the title
+  * Do not include plugins that haven't been added to the Plugin Marketplace by code complete deadline to avoid cutting those plugins from the blog post draft in the last minute if any development issues arise
 * Release Manager and PMs decide which sections of the release announcement will have an accompanying screenshot/photo
 * Release Manager leads the team to arrive at a decision on the theme / main highlight for the blog post. Consult with marketing and PM leads for final approval
   * Take into consideration whether a feature is highly requested, what is the overall impact of all marketed features, and whether a feature is at risk of being cut
@@ -72,6 +73,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    2. No spelling errors or broken links
    3. Clarify type of release \(feature or quality\) in the paragraph that follows feature one-liners
    4. MVP winner and security note \(if applicable\) are included
+      1. Ask Hanna for an image of the MVP winner's coaster to include in the blog and a tweet
    5. All features PM team wants to highlight are included
       1. **\(PM team owns\)** Check for technical accuracy and statement of benefits
    6. The audience is primarily focused on admins, then end users
@@ -106,6 +108,43 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 3. Avoid phrases that are too vague, such as "Better messaging experience"
 4. Do not use internal names of features, such as "Unread toasts", "Deep linking"
 5. Say "You" instead of "Users" to talk directly to the reader
+
+## Scoring Guidelines
+
+<table>
+<colgroup>
+<col style="width: 46%" />
+<col style="width: 53%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Rating of clarity from 1 to 10</th>
+<th>Product</th>
+<th>Marketing</th>
+<th>System Admin representative</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Title is clear and compelling to a System Admin. Focuses on the System Admin deciding whether to upgrade or buy E20 to empower end users.</p>
+<p>1 - System Admin doesn’t understand what is in the release and the title does not focus on the System Admin deciding whether to upgrade or buy E20 to empower end users.</p>
+<p>5 - System Admin understands what is in the release, but may misinterpret things. The title somewhat focuses on the System Admin deciding whether to upgrade or buy E20 to empower end users.</p>
+<p>10 - System Admin clearly understands what is in the release in the fewest possible words, and is excited about the upgrade. The title focuses on the System Admin deciding whether to upgrade or buy E20 to empower end users.</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Intro paragraph and bullet points are clear. They tell a System Admin all they need to know with compelling, concise, and specific descriptions.</p>
+<p>1 - System Admin finds intro paragraph and bullet points confusing or inaccurate.</p>
+<p>5 - System Admin has a basic understanding of the release, but finds at least one thing confusing.</p>
+<p>10 - Intro paragraph and bullet points introduce features with compelling, concise and specific descriptions.</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## One great screenshot a month
 
