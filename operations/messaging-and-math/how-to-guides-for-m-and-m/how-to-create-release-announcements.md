@@ -136,7 +136,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 </tr>
 <tr class="even">
 <td>Intro paragraph and bullet points are clear. They tell a System Admin all they need to know with compelling, concise, and specific descriptions.</p>
-<p>1 - System admin finds intro paragraph and bullet points confusing and inaccurate.</p>
+<p>1 - System Admin finds intro paragraph and bullet points confusing or inaccurate.</p>
 <p>5 - System admin gets the gist of the announcement, but finds at least one thing confusing.</p>
 <p>10 - System admin finds that the intro paragraph and bullet points introduce features with compelling, concise and specific descriptions.</p></td>
 <td></td>
