@@ -73,8 +73,7 @@ Note that each time you update the status of a feature or add a comment, anyone 
  - **Planning Estimates**: H1 Plan, H2 Plan (tentative), Backlog, Community Contract, or Bounty
  - **Exact Releases** (when known): Examples: 5.22, 5.24, 1.30, Mattermost 6.0
  - **Sequence**: Now, Next, Later
- 
- 5. Setting the Status:  There are 6 statuses throughout the life of a feature:
+5. Setting the Status:  There are 6 statuses throughout the life of a feature:
  - **Idea**: When you have a single request or an idea for a feature it starts out in this status. As new customer insights come in, you will be able to attach them to this idea to validate and measure demand. 
  - **Under Consideration**: This status is used to identify features that are demand validated, but we remain undecided if we will build them (for various reasons).
  - **Planned**: Features that we have validated and decided to build are planned. These features should all have a release assigned (if scheduling is unknown, assign to the release called `backlog`. 
