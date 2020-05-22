@@ -127,8 +127,8 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 <tbody>
 <tr class="odd">
 <td><p>Title is clear and compelling to a System Admin. Focuses on the System Admin deciding whether to upgrade or buy E20 to empower end users.</p>
-<p>1 - System Admin doesn’t understand what is in the release and the title is not customer focused.</p>
-<p>5 - System Admin understands what is in the release, but may misinterpret things. The title is somewhat customer focused.</p>
+<p>1 - System Admin doesn’t understand what is in the release and the title does not focus on the System Admin deciding whether to upgrade or buy E20 to empower end users.</p>
+<p>5 - System Admin understands what is in the release, but may misinterpret things. The title somewhat focuses on the System Admin deciding whether to upgrade or buy E20 to empower end users.</p>
 <p>10 - System Admin clearly understands what is in the release in the fewest possible words, and is excited about the upgrade. The title focuses on the System Admin deciding whether to upgrade or buy E20 to empower end users.</p></td>
 <td></td>
 <td></td>
