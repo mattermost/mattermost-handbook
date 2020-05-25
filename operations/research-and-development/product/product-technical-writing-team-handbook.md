@@ -66,6 +66,26 @@ The basic outline for getting started with contributions is provided in the [REA
 
 Once complete, submit your Pull Request \(PR\). Ensure that you assign appropriate approvers and labels. You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review) - it applies to various types of contributions including documentation.
 
+### Submitting Feature Documentation (PMs)
+
+Feature documentation is a joint effort between Product Managers and Technical Writers. In the same way that we want to empower everyone to contribute to our documentation, Product Managers are encouraged to write MVP documentation for their product/feature. 
+
+**Note**: Due to the cadence of the release cycle, feature documentation needs to be complete and submitted as per the process below in order to ensure it's included in the documentation update. 
+
+The supplied content can be provided informally, in bullet points, or rough notes in a Google Doc and refinements are made collaboratively. This is a guideline of what MVP feature documentation can include:
+
+* A link to the feature/product's tech spec
+* Links to any relevant Jira/GitHub issues
+* A description of the product/feature/update which forms the basis of the documentation
+* Steps for any processes or procedures (configuration of a feature, troubleshooting, etc)
+* Any FAQs or troubleshooting questions if relevant
+* Configuration settings and examples for the ``config.json`` file if relevant
+* (If possible) Suggestions of where in the docs the content should go
+
+When the content has been refined, the updates are made to the documentation, and a PR opened against the relevant documentation branch for the feature. A further review process may be required before the PR is approved. 
+
+You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review).
+
 ### Submitting Documentation With Your PR
 
 We want to empower everyone to contribute to our documentation, and be comfortable submitting documentation for contributions. As such, we don't expect every contribution to adhere to our style guide when first submitted.
