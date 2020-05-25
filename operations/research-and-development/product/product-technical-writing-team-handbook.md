@@ -70,7 +70,7 @@ Once complete, submit your Pull Request \(PR\). Ensure that you assign appropria
 
 Feature documentation is a joint effort between Product Managers and Technical Writers. In the same way that we want to empower everyone to contribute to our documentation, Product Managers are encouraged to write MVP documentation for their product/feature. 
 
-**Note**: Due to the cadence of the release cycle, feature documentation needs to be complete and submitted as per the process below in order to ensure it's included in the documentation update. 
+**Note**: Due to the cadence of the release cycle, feature documentation needs to be complete and submitted as per the process below at least ten days prior to release to ensure it's included in the documentation update. 
 
 The supplied content can be provided informally, in bullet points, or rough notes in a Google Doc and refinements are made collaboratively. This is a guideline of what MVP feature documentation can include:
 
