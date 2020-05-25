@@ -72,7 +72,7 @@ Feature documentation is a joint effort between Product Managers and Technical W
 
 **Note**: Due to the cadence of the release cycle, feature documentation needs to be complete and submitted as per the process below at least ten days prior to release to ensure it's included in the documentation update. 
 
-The supplied content can be provided informally, in bullet points, or rough notes in a Google Doc and refinements are made collaboratively. This is a guideline of what MVP feature documentation can include:
+The supplied content can be provided informally, in bullet points, or rough notes in a Google Doc and refinements are made collaboratively. This is a guideline of what MVP feature documentation includes:
 
 * A link to the feature/product's tech spec
 * Links to any relevant Jira/GitHub issues
