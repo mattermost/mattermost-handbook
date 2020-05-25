@@ -218,17 +218,52 @@ As soon as one session ends, there is then an opportunity to start a new session
 
 ## Net Promoter Score \(NPS\)
 
-Net Promoter Score is a standardized measure used by many organizations to measure and understand customer experience. It is a good indicator of customer satisfaction and growth. Mattermost NPS is calculated using user NPS responses provided by users with the NPS plugin enabled on their Mattermost server. Users can submit multiple scores, so in order to accurately represent NPS, the latest score is used when calculating current NPS. To track NPS historically, the latest user score submitted on or before the historical record month is used.
+Net Promoter Score is a standardized measure used by many organizations to measure and understand user experience. It is an indicator of user satisfaction and predicts buisness growth. 
 
-* Net Promoter Score \(NPS\) measures customer experience and predicts business growth
-* Respondents are grouped as follows:
-  * Promoters \(score 9-10\) are loyal enthusiasts who will keep buying and refer others
-  * Passives \(score 7-8\) are satisfied but unenthusiastic customers who are vulnerable
-  * Detractors \(score 0-6\) are unhappy customers who can damage your brand
-* Net Promoter Score = 100 \* \(% Promoters - % Detractors\)
-  * NPS ranges from -100 \(every customer is a Detractor\) to 100 \(every customer is a Promoter\)
-* Mattermost's NPS is based off of a 1-10 ranking provided by customers
-  * If customers provide rankings 2+ times in a day, the last ranking of the day is used for NPS
+### NPS Survey
+Mattermost NPS data is collected using an in-product survey on servers where the [User Satisfaction Survey plugin](https://docs.mattermost.com/integrations/net-promoter-score.html) is enabled. 
+
+Users answer the question "How likely are you to recommend Mattermost?" by selecting a 0-10 score and can provide additional written feedback about their experience. Selecting a score and providing feedback are optional.
+
+### NPS Calculation
+
+Net Promoter Score is computed as **\(% Promoters - % Detractors\)** and ranges from -100 \(every user is a Detractor\) to +100 \(every user is a Promoter\) 
+  * Promoters \(score 9-10\): Loyal enthusiasts who will keep buying and refer others
+  * Passives \(score 7-8\): Satisfied but unenthusiastic users who are vulnerable
+  * Detractors \(score 0-6\): Unhappy users who can damage your brand
+
+If users edit their response to the survey on any particular server version, only the latest rating on each server version is used for computing NPS. Test server data is also removed via the [excludable servers list]() and by trimming any responses submitted on a server version that has not been publically available for 21 days (time delay before an NPS survey is triggered after a server upgrade). 
+
+### Quarterly Trailing NPS
+
+Quarterly Trailing NPS represents the NPS score computed based on survey submissions received in the last 90 days. We use quarterly trailing NPS because:
+
+1. Encompases responses across all server versions that are in use by customers, meaning it is representative of the state of user experience that customers are facing today.   
+2. 
+NPS by version is volatile 
+2. NPS by version version varies based on when certain large servers enter the survey window
+2. significant enough N across releases
+3. 
+
+Quarterly trailing NPS 
+
+This is the ideal representation for the state of Mattermost NPS today. Quarterly training NPS provides  
+
+
+is the ideal representation of NPS in the 
+
+7 days: 0.8-1k responses
+30 days: 4k
+90 days: 13k
+
+
+### NPS by Release Version 
+
+calculated using user NPS responses provided by users with the NPS plugin enabled on their Mattermost server. Users can submit multiple scores, so in order to accurately represent NPS, the latest score is used when calculating current NPS. To track NPS historically, the latest user score submitted on or before the historical record month is used.
+
+### Written Response Feedback
+
+
 
 ## Renewals
 
