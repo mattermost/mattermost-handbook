@@ -82,9 +82,9 @@ The supplied content can be provided informally, in bullet points, or rough note
 * Configuration settings and examples for the ``config.json`` file if relevant
 * (If possible) Suggestions of where in the docs the content should go
 
-When the content has been refined, the updates are made to the documentation, and a PR opened against the relevant documentation branch for the feature. A further review process may be required before the PR is approved. 
+When the content has been refined, the Technical Writer updates the documentation and opens a PR against the relevant documentation branch for the feature. A further review process may be required before the PR is approved. 
 
-You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review).
+You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review). 
 
 ### Submitting Documentation With Your PR
 
