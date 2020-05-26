@@ -294,7 +294,7 @@ Renewal Metrics in simple terms:
 * Forecasting is a weekly process where Sales, CS and Sales Manager communicate how much business they will close within a given period, usually the current quarter. This is done by reviewing all of the deals closed, along with deals currently open in the pipeline and coming up with a "Commit" and "Upside".
 
 * Forecasting Definitions:
-  * Commit: "I will close at least this much business this quarter."
+  * Forecast: "I will close at least this much business this quarter. It is my likely amount I can close."
   * Upside: "In addition there is a chance I will close this much additional business, but don't count on it."
 
 * Forecasting Category Definitions: These categories are assigned based on Opportunity Sales stage in Salesforce.
@@ -303,6 +303,19 @@ Renewal Metrics in simple terms:
   * Best Case: The deal is looking promising, but I cannot commit it will happen on the current Close Date.
   * Pipeline: I am working on this deal and I am not comfortable forecasting it just yet.
   * Omitted: This deal is Closed Lost.
+
+* Forecast Process: Steps followed in the weekly forecast calls with Sales Managers
+  * In attendance: Sales Manager, John Thompson, Melissa, Ian, Schiff, and appropriate CSM
+  * The Sales Manager drives the call
+  * New New (New and Expansion) business
+    * Discuss forecast and upside for the quarter
+    * What's closed since we last met along with any notable highlights.
+  * Renewals business
+    * Discuss forecast and upside for the quarter
+    * What's closed since we last met along with any notable highlights.
+   
+  
+  
   
 ## Support Tickets
 
