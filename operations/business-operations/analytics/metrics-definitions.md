@@ -288,6 +288,22 @@ Renewal Metrics in simple terms:
   * Open Renewal Amount * Probability + Gross Renewal Amount (up to Available Renewal Amount)
   * Calculation: MIN(Available Renewals,(Open Renewal Amount * Probability + Renewal Bookings)
 
+## Sales
+### Forecasting
+
+* Forecasting is a weekly process where Sales, CS and Sales Manager communicate how much business they will close within a given period, usually the current quarter. This is done by reviewing all of the deals closed, along with deals currently open in the pipeline and coming up with a "Commit" and "Upside".
+
+* Forecasting Definitions:
+  * Commit: "I will close at least this much business this quarter."
+  * Upside: "In addition there is a chance I will close this much additional business, but don't count on it."
+
+* Forecasting Category Definitions: These categories are assigned based on Opportunity Sales stage in Salesforce.
+  * Close: The deal is Closed Won.
+  * Commit: This deal will happen based on the current Opportunity Close Date.
+  * Best Case: The deal is looking promising, but I cannot commit it will happen on the current Close Date.
+  * Pipeline: I am working on this deal and I am not comfortable forecasting it just yet.
+  * Omitted: This deal is Closed Lost.
+  
 ## Support Tickets
 
 ### Definitions
