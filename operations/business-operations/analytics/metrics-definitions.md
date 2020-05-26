@@ -291,28 +291,29 @@ Renewal Metrics in simple terms:
 ## Sales
 ### Forecasting
 
-* Forecasting is a weekly process where Sales, CS and Sales Manager communicate how much business they will close within a given period, usually the current quarter. This is done by reviewing all of the deals closed, along with deals currently open in the pipeline and coming up with a "Commit" and "Upside".
+* Forecasting is a weekly process where Sales, CS and Sales Management communicate how much business they will close within a given period, usually the current quarter. 
 
 * Forecasting Definitions:
   * Forecast: "I will close at least this much business this quarter. It is my likely amount I can close."
-  * Upside: "In addition there is a chance I will close this much additional business, but don't count on it."
+  * Upside: "There is a chance I will close this much additional business, but don't count on it."
 
-* Forecasting Category Definitions: These categories are assigned based on Opportunity Sales stage in Salesforce.
-  * Close: The deal is Closed Won.
-  * Commit: This deal will happen based on the current Opportunity Close Date.
-  * Best Case: The deal is looking promising, but I cannot commit it will happen on the current Close Date.
-  * Pipeline: I am working on this deal and I am not comfortable forecasting it just yet.
+* Forecasting Category Definitions: These categories are assigned based on Opportunity Sales stagesin Salesforce.
+  * Close: The deal is Closed Won. It is already showing up in Won and Actuals reports. It is not considered part of the Open Pipeline.
+  * Commit: Rep is guaranteeing this deal will happen based on the current Opportunity Close Date.
+  * Best Case: The deal is looking promising, but cannot commit it will happen on the current Close Date.
+  * Pipeline: The deal is in the early stages. Not comfortable forecasting it just yet.
   * Omitted: This deal is Closed Lost.
 
-* Forecast Process: Steps followed in the weekly forecast calls with Sales Managers
-  * In attendance: Sales Manager, John Thompson, Melissa, Ian, Schiff, and appropriate CSM
-  * The Sales Manager drives the call
+* Forecast Process. The following are the steps followed in the weekly forecast calls with Sales Managers:
+  * In attendance: Sales Manager, John Thompson, Melissa, Ian, Schiff, and appropriate CSM(s)
+  * The Sales Manager drives the call.
+  * It is driven off the Sales (Choose Segment) dashboard.
   * New New (New and Expansion) business
-    * Discuss forecast and upside for the quarter. Has it changed? Summary highlights of changes.
+    * Discuss forecast and upside for the quarter. Has it changed? Summarize highlights of changes.
     * What's closed since we last met along with any notable highlights.
-    * Review Open Pipeline. All key deals based on size, logo, competitive wins. Discuss what help is needed from MLT to get the deal done.
+    * Review Open Pipeline. All key deals based on size, logo, competitive wins. Discuss what help is needed from MLT to get the deal done. Also discuss any big deal movements in terms of progress or slip.
   * Renewals business
-    * Discuss forecast and upside for the quarter.Has it changed? Summary highlights of changes.
+    * Discuss forecast and upside for the quarter. Has it changed? Summary highlights of changes.
     * What's closed since we last met along with any notable highlights.
     * Review Open Pipeline. All key deals based on size, logo, competitive wins. Discuss At Risk and Early Warning. Discuss what help is needed from MLT to get the deal done.
    * Lead pipeline
@@ -320,6 +321,9 @@ Renewal Metrics in simple terms:
      * Where are they now?
      * Pipeline generated
      * Reason for Recycle and Junk
+   * Old and New follow-ups
+     * Review any old business and follow-ups that are noted in the Revenue Manager Asana board
+     * Summarize any new action items moving forward.
    
   
   
