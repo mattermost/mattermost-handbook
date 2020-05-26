@@ -308,11 +308,18 @@ Renewal Metrics in simple terms:
   * In attendance: Sales Manager, John Thompson, Melissa, Ian, Schiff, and appropriate CSM
   * The Sales Manager drives the call
   * New New (New and Expansion) business
-    * Discuss forecast and upside for the quarter
+    * Discuss forecast and upside for the quarter. Has it changed? Summary highlights of changes.
     * What's closed since we last met along with any notable highlights.
+    * Review Open Pipeline. All key deals based on size, logo, competitive wins. Discuss what help is needed from MLT to get the deal done.
   * Renewals business
-    * Discuss forecast and upside for the quarter
+    * Discuss forecast and upside for the quarter.Has it changed? Summary highlights of changes.
     * What's closed since we last met along with any notable highlights.
+    * Review Open Pipeline. All key deals based on size, logo, competitive wins. Discuss At Risk and Early Warning. Discuss what help is needed from MLT to get the deal done.
+   * Lead pipeline
+     * Review MQL Pipeline at the bottom
+     * Where are they now?
+     * Pipeline generated
+     * Reason for Recycle and Junk
    
   
   
