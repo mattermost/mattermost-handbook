@@ -288,6 +288,42 @@ Renewal Metrics in simple terms:
   * Open Renewal Amount * Probability + Gross Renewal Amount (up to Available Renewal Amount)
   * Calculation: MIN(Available Renewals,(Open Renewal Amount * Probability + Renewal Bookings)
 
+## Sales
+### Forecasting
+
+* Forecasting is a weekly process where Sales, CS and Sales Manager communicate how much business they will close within a given period, usually the current quarter. This is done by reviewing all of the deals closed, along with deals currently open in the pipeline and coming up with a "Commit" and "Upside".
+
+* Forecasting Definitions:
+  * Forecast: "I will close at least this much business this quarter. It is my likely amount I can close."
+  * Upside: "In addition there is a chance I will close this much additional business, but don't count on it."
+
+* Forecasting Category Definitions: These categories are assigned based on Opportunity Sales stage in Salesforce.
+  * Close: The deal is Closed Won.
+  * Commit: This deal will happen based on the current Opportunity Close Date.
+  * Best Case: The deal is looking promising, but I cannot commit it will happen on the current Close Date.
+  * Pipeline: I am working on this deal and I am not comfortable forecasting it just yet.
+  * Omitted: This deal is Closed Lost.
+
+* Forecast Process: Steps followed in the weekly forecast calls with Sales Managers
+  * In attendance: Sales Manager, John Thompson, Melissa, Ian, Schiff, and appropriate CSM
+  * The Sales Manager drives the call
+  * New New (New and Expansion) business
+    * Discuss forecast and upside for the quarter. Has it changed? Summary highlights of changes.
+    * What's closed since we last met along with any notable highlights.
+    * Review Open Pipeline. All key deals based on size, logo, competitive wins. Discuss what help is needed from MLT to get the deal done.
+  * Renewals business
+    * Discuss forecast and upside for the quarter.Has it changed? Summary highlights of changes.
+    * What's closed since we last met along with any notable highlights.
+    * Review Open Pipeline. All key deals based on size, logo, competitive wins. Discuss At Risk and Early Warning. Discuss what help is needed from MLT to get the deal done.
+   * Lead pipeline
+     * Review MQL Pipeline at the bottom
+     * Where are they now?
+     * Pipeline generated
+     * Reason for Recycle and Junk
+   
+  
+  
+  
 ## Support Tickets
 
 ### Definitions
