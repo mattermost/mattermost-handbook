@@ -61,7 +61,7 @@ For all new staff members, to request a new MacBook, Lenovo, or other laptop, pl
 **Non-Developers**
 
 * **Lenovo** - Most of our customers are Windows-based and so we recommend Windows-based machines, such as the [Lenovo X1 Carbon](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-6th-Gen/p/22TP2TXX16G) or similar for work machines. 
-* **MacBook 13”** - For non-developers choosing Macs we recommend getting a [MacBook Air 13-inch retina display with 256GB of storage and 8GB of memory](https://www.apple.com/shop/buy-mac/macbook-air/space-gray-1.6ghz-dual-core-processor-with-turbo-boost-up-to-3.6ghz-256gb#) or similar.
+* **MacBook 13”** - For non-developers choosing Macs we recommend getting a [MacBook Air 13-inch retina display with 256 GB of storage and 8 GB of memory](https://www.apple.com/shop/buy-mac/macbook-air/space-gray-1.6ghz-dual-core-processor-with-turbo-boost-up-to-3.6ghz-256gb#) or similar.
 
 **Developers**
 
