@@ -16,7 +16,7 @@ Interested in contributing to Mattermost? [Learn about all the ways to get invol
 
 ### Users
 
-In general, all members of the Mattermost community are users of the open source project. They may be end users on a system, administrators, or developers on the Mattermost platform in some way, and the common bond we all share is we benefit from the project’s continued and growing success.
+In general, all members of the Mattermost community are users of the open source project. They can range from end users and system administrators, to developers on the Mattermost platform in some way. The common bond we all share is that we benefit from the project’s continued and growing success.
 
 The user community has a number of segments:
 
