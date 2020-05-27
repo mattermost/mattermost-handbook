@@ -30,7 +30,7 @@ People deploying Mattermost and supporting end users.
 
 #### System Integrators
 
-People who extend and customize Mattermost privately but who do not share back their work with the open source community are considered “users”. When the same people decide to share their work with others in the community they are recognized as “contributors”
+People who extend and customize Mattermost privately but who do not share back their work with the open source community (for a range of reasons, often related to confidentiality) are considered “users”. When users are able to share their work with others in the community they are recognized as “contributors”.
 
 #### Customers
 
