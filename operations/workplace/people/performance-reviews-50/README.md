@@ -40,7 +40,7 @@ Feedback is solicited in a 360-degree style to incorporate feedback from peers. 
 
 ## **What is the process?**
 
-All Staff will take part in the Annual Winter Performance Review Process. Some teams will take part in a mid-year review cycle. This mid-year review cycle is a helpful checkpoint for feedback. Compensation will only be reviewed during the annual Winter Performance Review cycle. If you have recently joined, your manager may prefer to wait for the [90 day New Colleague review](https://handbook.mattermost.com/contributors/onboarding#new-colleague-90-day-feedback-process) in lieu of the formal review processes. 
+All Staff will take part in the Annual Winter Performance Review Process. R&D will take part in a mid-year review cycle. The intent of the mid-year review cycle is to promote timely performance feedback. As other teams grow in size, mid-year reviews may extend to additional teams. Compensation is only reviewed during the annual Winter Performance Review cycle. If you have recently joined, your manager may prefer to wait for the [90 day New Colleague review](https://handbook.mattermost.com/contributors/onboarding#new-colleague-90-day-feedback-process) in lieu of the formal review processes. 
 
 * Placeholder for link to Mid-Year Review
   * Criteria: Staff members at Mattermost between 90 days and 6 months 
