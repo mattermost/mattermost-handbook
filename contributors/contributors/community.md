@@ -34,7 +34,7 @@ People who extend and customize Mattermost privately but who do not share back t
 
 #### Customers
 
-Organizations that purchase Mattermost Enterprise Edition as an extension of the Mattermost open source project for advanced features. While the Mattermost roadmap is focused on benefiting the broad community, large customers may accelerate certain parts of the roadmap they find most valuable through large purchases of Enterprise Edition licenses.
+Organizations that purchase Mattermost Enterprise Edition as an extension of the Mattermost open source project for advanced features are known as "customers". While the Mattermost roadmap is focused on benefiting the broad community, large customers may accelerate certain parts of the roadmap they find most valuable through purchasing large numbers of Enterprise Edition licenses.
 
 ### Contributors
 
