@@ -10,7 +10,7 @@ At Mattermost, we want you to be successful from Day 1. As staff members, you ar
 
 ## Mattermost Guidelines
 
-Mattermost’s policy for spending company money is influenced by GitLab, who [open sources its policy on spending company money online](https://about.gitlab.com/handbook/spending-company-money/) and who has been [highly successful in an open, frugal, iterative culture](https://about.gitlab.com/2019/09/17/gitlab-series-e-funding/),
+Mattermost’s policy for spending company money is influenced by GitLab, who [open sources its policy on spending company money online](https://about.gitlab.com/handbook/spending-company-money/) and who has been [highly successful in an open, frugal, iterative culture](https://about.gitlab.com/2019/09/17/gitlab-series-e-funding/).
 
 1. Spend company money like it is your own money. 
 2. You [don't have to ask permission](https://m.signalvnoise.com/you-dont-have-my-permission/) before making purchases on behalf of the company. When in doubt, inform your manager before the purchase or as soon as possible after the purchase. 
