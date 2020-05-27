@@ -46,7 +46,7 @@ There are many ways to contribute:
 
 #### Solution Contributors
 
-As of April 2019, [over 1,800 open source projects on GitHub reference Mattermost](https://github.com/search?q=mattermost). Solution Builders create a host of technologies to empower Mattermost software to solve real world problems. Technologies include:
+As of May 2020, [over 1,900 open source projects on GitHub reference Mattermost](https://github.com/search?q=mattermost). Solution Contributors create a host of technologies to empower Mattermost software to solve real world problems. Technologies include:
 
 * **Self-hosted Integration Solutions** - Includes connectivity and integration with third-party applications such as Jira, Confluence, GitLab, Jenkins, and other tools.
 * **SaaS-based Integration Solutions** - Includes connectivity and integration with services like Twitter, Zendesk, Salesforce, and hundreds of other extensions with services like Zapier.
