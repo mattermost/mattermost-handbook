@@ -167,7 +167,7 @@ The following links provide further detail regarding location-specific per diems
 * [GSA annual per diem rates for the US](https://www.gsa.gov/travel/plan-book/per-diem-rates/per-diem-rates-lookup)
 * [Foreign Per Diem Rates by Location administered by the US Department of State](https://aoprals.state.gov/web920/per_diem.asp)
 
-When dining with another staff member on one check, the senior most person is responsible for payment. When submitting your receipt in Expensify, include the names of all staff members who attended.
+When dining with another staff member on one check, the most senior person is responsible for payment. When submitting your receipt in Expensify, include the names of all staff members who attended.
 
 ### AIRFARE AND TRAVELING
 
