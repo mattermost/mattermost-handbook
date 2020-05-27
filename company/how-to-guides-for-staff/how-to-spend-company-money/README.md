@@ -14,7 +14,7 @@ Mattermost’s policy for spending company money is influenced by GitLab, who [o
 
 1. Spend company money like it is your own money. 
 2. You [don't have to ask permission](https://m.signalvnoise.com/you-dont-have-my-permission/) before making purchases on behalf of the company. When in doubt, inform your manager before the purchase or as soon as possible after the purchase. 
-3. It's uncommon for you to need all of the items listed below. Use your best judgement and buy them as you need them. If you wonder if something is common, feel free to ask [People Ops](https://community.mattermost.com/private-core/channels/ask-people-team) \(and in turn, People Ops should update the list\).
+3. It's uncommon for you to need all of the items listed below. Use your best judgement and buy them as you need them. If you wonder whether something is considered common, feel free to ask [People Ops](https://community.mattermost.com/private-core/channels/ask-people-team) \(and in turn, People Ops should update the list\).
 4. You may privately use Mattermost property, a laptop for example, to check your private emails or watch a movie as long as it does not violate the law, harm Mattermost, or interfere with Intellectual Property.
 5. It is generally easiest and fastest for you to make any purchases for office supplies yourself and expense them. If you are unable to pay for any supplies yourself, please reach out to [People Ops](https://community.mattermost.com/private-core/channels/ask-people-team).
 6. If you make a purchase that will cost Mattermost $1000 USD \(or over\), this is classified as company property, you will be required to return the item\(s\) if you leave the company.
