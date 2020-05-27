@@ -102,7 +102,7 @@ Community Coordinator: Jason Blais and Justine Geffen
 
 Quality Assurance Contributors help find, confirm and report product defects via our process at [https://www.mattermost.org/filing-issues/](https://www.mattermost.org/filing-issues/). Anyone who encounters a verifiable defect is welcome to file a bug on the system.
 
-Bonus: When QA Contributor finds and reports a bug on a release candidate build of Mattermost prior to the final release of the system, the can be awarded a [Mattermost Bug Hunter Award](https://forum.mattermost.org/t/mattermost-bug-hunter-awards/4979) for their contribution.
+Bonus: When a QA Contributor finds and reports a bug on a release candidate build of Mattermost prior to the final release of the system, they can be awarded a [Mattermost Bug Hunter Award](https://forum.mattermost.org/t/mattermost-bug-hunter-awards/4979) for their contribution.
 
 Community Coordinator: TBD
 
