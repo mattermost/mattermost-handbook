@@ -185,7 +185,7 @@ Staff members may retain points earned for hotel stays. However, hotel reservati
 
 ### MILEAGE REIMBURSEMENT
 
-We will reimburse mileage according to local laws of the country your contract is legally signed. For example, a contract with Mattermost, Inc. would be subject to IRS mileage reimbursement at the [US rate per mile](http://www.irs.gov/Tax-Professionals/Standard-Mileage-Rates). For approval, you must add a screenshot of a map to the expense in Expensify indicating the mileage.
+We will reimburse mileage according to local laws of the country in which your contract is legally signed. For example, a contract with Mattermost, Inc. would be subject to IRS mileage reimbursement at the [US rate per mile](http://www.irs.gov/Tax-Professionals/Standard-Mileage-Rates). For approval, you must add a screenshot of a map to the expense in Expensify indicating the mileage.
 
 * [US rate per mile](http://www.irs.gov/Tax-Professionals/Standard-Mileage-Rates) 
 * [Canada rate per KM](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/benefits-allowances/automobile/automobile-motor-vehicle-allowances/automobile-allowance-rates.html)
