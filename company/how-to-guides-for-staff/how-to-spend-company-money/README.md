@@ -229,5 +229,5 @@ For anything requiring manager approval, please complete the following steps:
 1. Reach out to your manager/department head regarding the approval.
 2. Give the business reason need and \(if applicable\) date/s if approval relates to an event or conference.
 3. If the manager approves this as legitimate business need, the manager is required to contact Finance for spending approval at [expenses@mattermost.com](mailto:expenses@mattermost.com).
-4. If/when approved, approval email will be sent to the staff member and manager.
+4. If/when approved, an approval email will be sent to the staff member and manager.
 5. Staff member must attach the approval to the Expensify expense report.
