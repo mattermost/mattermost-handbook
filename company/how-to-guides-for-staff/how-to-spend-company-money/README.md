@@ -65,7 +65,7 @@ For all new staff members, to request a new MacBook, Lenovo, or other laptop, pl
 
 **Developers**
 
-* **MacBook 15”** - For developers choosing to use Macs, we recommend getting a [MacBook Pro 15-inch retina with 512GB of storage and 32GB of memory](https://www.apple.com/shop/buy-mac/macbook-pro/15-inch-space-gray-2.6ghz-6-core-512gb) or similar. As an example, other teams may not require 32GB memory or 512GB of storage. 
+* **MacBook 15”** - For developers choosing to use Macs, we recommend getting a [MacBook Pro 15-inch retina with 512 GB of storage and 32 GB of memory](https://www.apple.com/shop/buy-mac/macbook-pro/15-inch-space-gray-2.6ghz-6-core-512gb) or similar. As an example, other teams may not require 32 GB memory or 512 GB of storage. 
 * **PC** - Any suitable laptop with comparable specifications and lower or similar cost to the recommended MacBook. Many of our engineers use Lenovo laptops from the Thinkpad X, T, or P series. If in doubt, we recommend a Lenovo Thinkpad T series.
 
 ### MOBILE DEVICE POLICY
