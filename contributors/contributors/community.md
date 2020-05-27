@@ -40,7 +40,7 @@ Organizations that purchase Mattermost Enterprise Edition as an extension of the
 
 Contributors are a subset of the Mattermost community who help increase the overall benefits of Mattermost for others. This may be as simple as offering feature ideas, reporting bugs, or offering professional installation and deployment services. Or it can be as complex as building whole new products based on Mattermost, or contributing code to the underlying software.
 
-The work of all contributors is valued, appreciated and recognized as a driving force behind the project’s growth.
+The work of all contributors is valued, appreciated, and recognized as a driving force behind the project’s growth.
 
 There are many ways to contribute:
 
