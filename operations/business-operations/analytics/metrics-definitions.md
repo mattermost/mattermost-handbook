@@ -240,7 +240,7 @@ Net Promoter Score is a standardized measure used by many organizations to measu
   * Forecast: "I will close at least this much business this quarter. It is my likely amount I can close."
   * Upside: "There is a chance I will close this much additional business, but don't count on it."
 
-* Forecasting Category Definitions: These categories are assigned based on Opportunity Sales stagesin Salesforce.
+* Forecasting Category Definitions: These categories are assigned based on Opportunity Sales stages in Salesforce.
   * Close: The deal is Closed Won. It is already showing up in Won and Actuals reports. It is not considered part of the Open Pipeline.
   * Commit: Rep is guaranteeing this deal will happen based on the current Opportunity Close Date.
   * Best Case: The deal is looking promising, but cannot commit it will happen on the current Close Date.
