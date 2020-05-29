@@ -44,5 +44,12 @@ All Staff will take part in the Annual Winter Performance Review Process. R&D wi
 
 * Placeholder for link to Mid-Year Review
   * Criteria: Staff members at Mattermost between 90 days and 6 months 
-* [Winter Review Process](https://handbook.mattermost.com/operations/people/performance-reviews-50/formal-review-process)
+* [Formal Review Process](https://handbook.mattermost.com/operations/people/performance-reviews-50/formal-review-process)
+  * Criteria: Staff members at Mattermost at least 6 months 
 
+# R&D Mid-Year Performance Review 2020 - Timeline & Forms
+
+* R&D Mid-Year Performance Review 2020 - Timeline
+* [Peer Review Survey](https://www.surveymonkey.com/r/3GJPBYH) - Sent via Survey Monkey
+* [Self-Assessment Template](https://drive.google.com/drive/u/0/folders/1qfgm6zfu5paP1j80CWHjEb3s0kHQi-rd) - Sent via BambooHR
+* [Performance Evaluation - Manager's Template](https://drive.google.com/drive/u/0/folders/1qfgm6zfu5paP1j80CWHjEb3s0kHQi-rd) - Sent via BambooHR
