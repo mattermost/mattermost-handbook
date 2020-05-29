@@ -40,9 +40,9 @@ Feedback is solicited in a 360-degree style to incorporate feedback from peers. 
 
 ## **What is the process?**
 
-We are incorporating a 90d New Hire Feedback Survey that will greatly mimic this process. If you have recently joined, your manager may prefer to wait for the full 90 days for your review. Otherwise, you will take part in a Formal or Informal review process.
+All Staff will take part in the Annual Winter Performance Review Process. R&D will take part in a mid-year review cycle. The intent of the mid-year review cycle is to promote timely performance feedback. As other teams grow in size, mid-year reviews may extend to additional teams. Compensation is only reviewed during the annual Winter Performance Review cycle. If you have recently joined, your manager may prefer to wait for the [90 day New Colleague review](https://handbook.mattermost.com/contributors/onboarding#new-colleague-90-day-feedback-process) in lieu of the formal review processes. 
 
-* [Informal Review Process](https://handbook.mattermost.com/operations/people/performance-reviews-50/informal-review-process)
+* Placeholder for link to Mid-Year Review
   * Criteria: Staff members at Mattermost between 90 days and 6 months 
 * [Formal Review Process](https://handbook.mattermost.com/operations/people/performance-reviews-50/formal-review-process)
   * Criteria: Staff members at Mattermost at least 6 months 

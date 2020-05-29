@@ -96,7 +96,7 @@ Here are some guidelines around this:
 
 * When submitting a PR, please include updated documentation if applicable. 
 * The documentation update can be in the form of a bullet list or an outline.
-* Label the PR as **Docs Needed** and tag @justinegeffen or @amyblais.
+* Label the PR as **Docs Needed**/**Editor Review** and tag @justinegeffen or @amyblais.
 * The documentation you've submitted will be reviewed.
 * At times, the editors may make and commit stylistic changes \(such as punctuation\) but any content changes will be added as a suggestion for the submitter's consideration. 
 * Once the PR is approved, it will be merged, and the documentation will be updated. 
@@ -205,15 +205,21 @@ If the Jira ticket is for general documentation, depending on the current worklo
 
 The Technical Product Writer/s form part of the PR review/approval process. When submitting a PR for documentation, please add the **Editor Review** label. Once the editor has signed off on the PR they will remove the label. When all the requested reviews are complete, the **Reviews Complete** label will be applied and the changes merged.
 
+### Providing Editorial Feedback
+
+If you're asked to provide editorial feedback on a PR, and it's your first editorial feedback request, first read up on the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review) to get an idea of what's expected in terms of turnaround time, type of feedback, and so on.
+
+Editorial feedback is based on the guidelines laid out in the [Documentation Style Guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide) as well as the [Voice, Tone, and Writing Style Guide](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines). 
+
 ### Formatting and Style Guide
 
-The [Documentation Style guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide) and [UI text guidelines](https://docs.mattermost.com/process/documentation-UItext-guidelines.html).
+The [Documentation Style Guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide) and [UI text guidelines](https://docs.mattermost.com/process/documentation-UItext-guidelines.html). 
 
 ## Customer Education Processes
 
 ### Resolve gaps and painpoints among customers
 
-To identify, rank and resolve customer pain points. Priority is based on customer impact, measured by an increase in enterprise 90-day onboarding NPS, and post-sales technical onboarding without R&D involvement.
+To identify, rank, and resolve customer pain points. Priority is based on customer impact, measured by an increase in enterprise 90-day onboarding NPS, and post-sales technical onboarding without R&D involvement.
 
 #### Identify
 
@@ -246,6 +252,6 @@ If you have any questions, you can post them in the [Documentation](https://comm
 
 ### Engineering/Developer Documentation
 
-Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated \(or created\) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation. The documentation can be as detailed or concise as deemed necessary - consider it an MVP which can be refined at a later stage.
+Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated \(or created\) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation. 
 
-When submitting your PR, please include the **Editor Review** label and add @amyblais or @justinegeffen in GitHub as an approver.
+Visit the [Contribute to Documentation](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/submitting-documentation-with-your-pr) page to get started with submitting documentation with your PR. You can read more about the review process [here (https://developers.mattermost.com/contribute/getting-started/code-review). 
