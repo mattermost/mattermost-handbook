@@ -12,26 +12,33 @@ You can contribute documentation in one of the following ways:
 
 We don't expect a huge body of documentation or that it's perfectly-written - but rather a clear, concise outline of the change which can be added to our documentation. The content can be provided as a list, rough notes, or you can use the example below for content and structural guidance if your documentation is quite detailed. 
 
+----------------------------
+
 \## Introduction and context\
 *Details of the current feature/function and what the contribution fixes or adds. This can be presented as bullet points. For example:*
+
 "This adds a new property to be used by the desktop app in the same way other properties are being used for the user profile view. This change is part of the configuration settings in System Console and is also included in the CLI."
 
 \## Configuration or Installation (if applicable)\
 *Provide configuration and set up steps in the context of the change/feature. For example:*
+
 "The steps needed to configure this are as follows: 
 1. Navigate to **System Console > MenuItem > MenuItem**.
 2. Set the setting to ``true``. 
 3, Click **Save**.
 
 For the CLI, the following parameters needs to be added: 
-(include parameter/s)
+(include parameter/s)"
 
 \## Code samples (if applicable)\
 *Include any code samples that should be included in the user-facing documentation.*
 
 \## Troubleshooting/Known Issues (if applicable)\
 *Include any known issues or limitations that may affect how the feature/process works. For example:*
+
 "This only works in 5.19, and is not compatible with macOS."
+
+----------------------------------------------------------------
 
 You can find additional guidance around formatting [here](https://docs.mattermost.com/help/messaging/formatting-text.html#headings). 
 
