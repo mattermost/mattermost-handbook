@@ -14,8 +14,7 @@ We don't expect a huge body of documentation or that it's perfectly-written - bu
 
 ----------------------------
 
-\## Introduction and context
-
+\## Introduction and context\
 *Details of the current feature/function and what the contribution fixes or adds. This can be presented as bullet points. For example:*
 
 "This adds a new property to be used by the desktop app in the same way other properties are being used for the user profile view. This change is part of the configuration settings in System Console and is also included in the CLI."
