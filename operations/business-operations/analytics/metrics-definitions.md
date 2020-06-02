@@ -243,7 +243,7 @@ Based on the above calculation method, we can apply a time window (Quarterly Tra
 
 NPS by Server Version is a lagging metric since we need to collect a statistically significant sample size before reporting NPS for a server version. Based on histroical data, ~2000 unique user responses (~1.5-2 months post-ship) are required for the NPS of a particular server version to stabilize. 
 
-NPS by server version can be volatile since it can be affected by the upgrade cadence of heavy usage servers. We typically see a surge in responses when surveys are triggered (21 days after server upgrade) for servers with large DAU that can impact the NPS trend for that server version. Quarterly trailing NPS is not as affected by this since the sample size is larger and responses are submitted on various server versions. 
+NPS by server version can be volatile since it can be affected by the upgrade cadence of heavy usage servers. We typically see a surge in responses when surveys are triggered (21 days after server upgrade) for servers with large DAU, which can impact the NPS trend for that server version. Quarterly trailing NPS is not as affected by this since the sample size is larger and responses are submitted on various server versions. 
 
 ### Written Response Feedback
 
