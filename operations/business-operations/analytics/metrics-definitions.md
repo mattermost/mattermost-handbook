@@ -247,12 +247,12 @@ NPS by Server Version can be volatile since it can be affected by the upgrade ca
 
 ### Written Response Feedback
 
-Users can optionally submit written responses to the NPS survey. These responses are reviewed and categorized by the PM team to allow us to [stack rank](https://docs.google.com/spreadsheets/d/1cWqg_djHd_Xmq7cuG0YZj-lKmafgCHU_dU4KfRkClrY/edit#gid=0) certain initiatives for roadmap planning based on their impact to NPS, reach and effort to design, implement and test.
+Users can optionally submit written responses to the NPS survey. These responses are reviewed and categorized by the PM team to allow us to stack rank certain initiatives for roadmap planning based on their impact to NPS, reach and effort to design, implement and test.
 
 To determine impact to NPS, we can:
 1. Segment the reponses based on written feedback from users who are detractors or passives (See the NPS Feedback section of the [NPS dashboard](https://mattermost.looker.com/dashboards/147))
-2. Segment the responses based on the feedback category to analyze [what requested product enhancements equate to the lowest NPS scores from users](https://docs.google.com/spreadsheets/d/1g6Uv5BHm54TEnXfUPBFzj_IYysqxUMt3ifgdemRPAKU/edit#gid=1937727547).
-3. View overall [number of responses by feedback category](https://docs.google.com/spreadsheets/d/1g6Uv5BHm54TEnXfUPBFzj_IYysqxUMt3ifgdemRPAKU/edit#gid=831069489).
+2. Segment the responses based on the feedback category to analyze what requested product enhancements equate to the lowest NPS scores from users
+3. View overall number of responses by feedback category
 
 
 ## Sales
