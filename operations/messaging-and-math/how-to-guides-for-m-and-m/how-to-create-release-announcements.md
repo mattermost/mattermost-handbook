@@ -106,7 +106,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 
 ## Language Guidelines
 
-1. Simple language with no buzz words
+1. Use simple language with no buzzwords
 2. Specify Desktop app or Mobile App if a feature is not dependent on the server release
 3. Use common wording, e.g. say "Servers" instead of "Sites"; say `plugins` not `plug-ins`; say "Browser" instead of "Webapp"
 4. Avoid phrases that are too vague, such as "Better messaging experience"
