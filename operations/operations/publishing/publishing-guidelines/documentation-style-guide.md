@@ -1,18 +1,16 @@
 # Documentation Style Guide
 
-When writing for Mattermost, always think about the audience that will be reading your writing. Mattermost’s 
-audience can vary, but we typically communicate with a technical audience and want to present Mattermost as 
-being a friend of the practitioner in development, IT, and operations. It must be accurate and clear, be 
-presented with a style and tone that is appropriate for technical content, and easy to navigate.
+When writing for Mattermost, always think about the audience that will be reading your writing. Mattermost’s audience can vary, but we typically communicate with a technical audience and want to present Mattermost as being a friend of the practitioner in development, IT, and operations. It must be accurate and clear, be presented with a style and tone that is appropriate for technical or educational content, and easy to navigate.
 
 ## Document structure
 
-Structure and organization are an important part of a document's ease of use and its understandability. 
-Information should be organized and presented in a logical order, with similar subjects grouped together in the 
-same section. In most cases, a document has a title, an introductory paragraph, and one or more sections.
+Structure and organization are an important part of a document's ease of use and its understandability. Information should be organized and presented in a logical order, with similar subjects grouped together in the same section. In most cases, a document has a title, an introductory paragraph, and one or more sections.
 
-Try to keep only one topic in a page. Shorter topics are easier to reuse in other documents, are 
-easier to write and edit, and are easier to translate.
+Try to keep only one topic in a page. Shorter topics are easier to reuse in other documents, are easier to write and edit, and are easier to translate.
+
+### Educational guides
+
+An exception are educational guides. In their abstract they set clear expectations for a well defined audience, can have more then one topic in a page, and do not require an introductory paragraph. First person writing can be used, as they need to keep the reader interested in the subject.
 
 ### Document title
 
@@ -23,38 +21,28 @@ The title appears in the left-hand navigation and at the top of the table of con
 
 ### Document sections
 
-To make pages easier for people to quickly scan for the content that they're looking for, break your 
-document up into logical sections. Each section should have a heading, and the heading should relate 
-to the content of the section. A section heading is not required if you have only one section.
+To make pages easier for people to quickly scan for the content that they're looking for, break your document up into logical sections. Each section should have a heading, and the heading should relate to the content of the section. A section heading is not required if you have only one section.
 
 **Use sentence case for the section heading (e.g. "This section is about types of headings") except where a word/phrase is a proper noun (e.g. "Mattermost"), the name of a country/region (e.g. "The United States of America"), and so on.**
 
 
 ### Abstract
 
-The abstract provides a high-level overview of the content, includes context, and outlines the value or goal to the reader. 
-It often helps to write the abstract first, as it provides a framework for the content that follows. Keep in mind that the 
-description is displayed in the search results along with the page title. People read the description to 
-help them decide if the document is the one that they want.
+The abstract provides a high-level overview of the content, includes context, and outlines the value or goal to the reader. It often helps to write the abstract first, as it provides a framework for the content that follows. Keep in mind that the description is displayed in the search results along with the page title. People read the description to help them decide if the document is the one that they want.
 
 ### Table of contents
 
-If the document contains more than four sections or subsections, add a table of contents to help the user
-navigate the document. The table of contents should be added below the abstract. 
+If the document contains more than four sections or subsections, add a table of contents to help the user navigate the document. The table of contents should be added below the abstract. 
 
 ### Introductory paragraph
 
-Each page should have an introduction that acts as a short description of the document. The short description
-should be a single paragraph of no more than three sentences. 
+Each page should have an introduction that acts as a short description of the document. The short description should be a single paragraph of no more than three sentences. 
 
 ## Using ReStructuredText markup (rst)
 
-The reStructuredText specification allows for a certain degree of flexibility in 
-markup to achieve your goals. For example, you can use any one of more than a dozen characters for 
-section title underlines, and you have the option of using an overline in addition to an underline.
+The reStructuredText specification allows for a certain degree of flexibility in markup to achieve your goals. For example, you can use any one of more than a dozen characters for section title underlines, and you have the option of using an overline in addition to an underline.
 
-The majority of Mattermost technical documentation is written in `.rst`. However, there are some instances
-where Markdown is used. 
+The majority of Mattermost technical documentation is written in `.rst`. However, there are some instances where Markdown is used. 
 
 Use the following conventions when writing in `.rst`. 
 
@@ -269,5 +257,4 @@ The following example is a block of Go code.
 
 ## Using Markdown
 
-The Mattermost Handbook is written in Markdown, and you can read more about using Markdown 
-in the [Formatting Text](https://docs.mattermost.com/help/messaging/formatting-text.html) section of the User's Guide.
+The Mattermost Handbook is written in Markdown, and you can read more about using Markdown in the [Formatting Text](https://docs.mattermost.com/help/messaging/formatting-text.html) section of the User's Guide.
