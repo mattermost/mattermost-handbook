@@ -232,18 +232,18 @@ Based on the above calculation method, we can apply a time window (Quarterly Tra
 
 [Quarterly Trailing NPS](https://mattermost.looker.com/dashboards/147) represents the NPS score computed based on survey submissions received in the last 90 days. We target a 90 day window of NPS responses because it:
 
-1. Encompases responses across all server versions that are currently in use by customers (with surveys enabled), meaning it is representative of the state of user experience that customers are facing today.
+1. Encompasses responses across all server versions that are currently in use by customers (with surveys enabled), meaning it is representative of the state of user experience that customers are facing today.
 2. Ensures we have a [statistically significant sample size](https://www.checkmarket.com/sample-size-calculator/) representing the [server versions currently in use](https://mattermost.looker.com/looks/203?toggle=dat,det,pik).
-3. Helps us capture week-week variations in NPS while being less volatile than NPS by server version given the larger sample size
+3. Helps us capture week-to-week variations in NPS while being less volatile than NPS by server version given the larger sample size
 
 
 ### NPS by Server Version
 
 [NPS by Server Version](https://mattermost.looker.com/dashboards/147) represents the NPS score computed based on survey submissions on a specific server version. While Quarterly Trailing NPS provides a representation of the state of user experience that our customers are facing, NPS by Server Version provides a representation of the user experience offered by the product in particular releases. As such, it's used heavily by the PM team to track the success of particular product team initiatives as they ship.
 
-NPS by Server Version is a lagging metric since we need to collect a statistically significant sample size before reporting NPS for a server version. Based on histroical data, ~2000 unique user responses (~1.5-2 months post-ship) are required for the NPS of a particular server version to stabilize. 
+NPS by Server Version is a lagging metric since we need to collect a statistically significant sample size before reporting NPS for a server version. Based on historical data, ~2000 unique user responses (~1.5-2 months post-ship) are required for the NPS of a particular server version to stabilize. 
 
-NPS by server version can be volatile since it can be affected by the upgrade cadence of heavy usage servers. We typically see a surge in responses when surveys are triggered (21 days after server upgrade) for servers with large DAU, which can impact the NPS trend for that server version. Quarterly trailing NPS is not as affected by this since the sample size is larger and responses are submitted on various server versions. 
+NPS by Server Version can be volatile since it can be affected by the upgrade cadence of heavy usage servers. We typically see a surge in responses when surveys are triggered (21 days after server upgrade) for servers with large DAU, which can impact the NPS trend for that server version. Quarterly trailing NPS is not as affected by this since the sample size is larger and responses are submitted on various server versions. 
 
 ### Written Response Feedback
 
