@@ -1,6 +1,6 @@
 # Review Process
 
-This is the review process for the mid-year and winter (formal) performance reviews. Note: links to the peer request and peer feedback forms will be either included or specified in each review timeline. Also, calibration will differ between mid-year and winter. See Timeline for detailed instruction.
+This is the review process for the Mid-Year and Winter (formal) Performance Reviews. Note: Links to the peer request and peer feedback forms will be either included or specified in each review timeline. Also, calibration will differ between Mid-Year and Winter. See Timeline for detailed instructions.
 
 1. **Confirm level expectations for roles are up to date.** If any level descriptions need to be updated or written, complete it before the review cycle begins. 
 2. **Manager preparation.** Before each review cycle, managers read the performance review chapter in High Output Management. After reading the chapter, any new managers have 30 minutes scheduled with the CEO to discuss it and set expectations for the review process. 
@@ -11,4 +11,3 @@ This is the review process for the mid-year and winter (formal) performance revi
 **Note:** Once a Manager completes the review via their signature in BambooHR, the feedback form will be automatically shared with the direct report. It is helpful to share the review ahead of the 1:1 meeting to give an opportunity to read feedback, but please plan timing accordingly.  
 9. **Calibration.** Managers meet to review and discuss feedback and assessments to ensure consistency in evaluation against the criteria for your role and level. HR will review performance, role expectations and analysis of local market compensation rates and recommend any adjustments to compensation. 
 10. **Review discussion.** You and your manager will meet to discuss your achievements in the past review period, the peer, self and manager feedback, any compensation changes recommended by HR, and opportunities to further grow and develop.
-
