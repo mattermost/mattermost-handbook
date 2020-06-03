@@ -55,7 +55,7 @@ The Mattermost voice remains the same, even when the tone varies.
 
 **Language**
 
-Write documents in English. Use American spelling, and avoid constructs where you are forced to write either *he* or *she* or *his* or *her*. You can use *they* or *their* as singular forms instead.
+Write documents in English. Use American spelling, and avoid constructs where you are forced to write either *he* or *she*, or *his* or *her*. You can use *they* or *their* as singular forms instead.
 
 **Numbers**
 
