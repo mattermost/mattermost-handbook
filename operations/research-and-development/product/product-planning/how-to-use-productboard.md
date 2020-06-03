@@ -194,6 +194,9 @@ You will also have access to the [release tracking view](https://mattermost.prod
 
 The portals will serve as our internal (and, in the future, external) communication of our product roadmap. You will have access to all internal product portals where we outline what we've released, what we're working on now, next and later.
 
+To view the portal, login to [mattermost.productboard.com](https://mattermost.productboard.com) using your OneLogin account then click on the fourth icon in the left-hand navigation (see below):
+
+
 ## 5 - Frequently Asked Questions (FAQ)
 
 ### What is the difference between Confluence and ProductBoard?
