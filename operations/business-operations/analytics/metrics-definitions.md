@@ -216,6 +216,8 @@ As soon as one session ends, there is then an opportunity to start a new session
 
 * WIP
 
+## Net Promoter Score (NPS)
+
 ### NPS Survey
 Mattermost NPS data is collected using an in-product survey on servers where the [User Satisfaction Survey plugin](https://docs.mattermost.com/integrations/net-promoter-score.html) is enabled. Users answer the question "How likely are you to recommend Mattermost?" by selecting a 0-10 score and can provide additional written feedback about their experience. Selecting a score and providing feedback are optional.
 
@@ -250,6 +252,7 @@ NPS by Server Version can be volatile since it can be affected by the upgrade ca
 Users can optionally submit written responses to the NPS survey. These responses are reviewed and categorized by the PM team to allow us to stack rank certain initiatives for roadmap planning based on their impact to NPS, reach and effort to design, implement and test.
 
 To determine impact to NPS, we can:
+
 1. Segment the reponses based on written feedback from users who are detractors or passives (See the NPS Feedback section of the [NPS dashboard](https://mattermost.looker.com/dashboards/147))
 2. Segment the responses based on the feedback category to analyze what requested product enhancements equate to the lowest NPS scores from users
 3. View overall number of responses by feedback category
