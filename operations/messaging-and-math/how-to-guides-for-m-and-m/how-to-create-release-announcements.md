@@ -97,7 +97,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 
 1. Highlight past successes: Cross link to promote traffic 
 2. Links tell a story: Links should indicate the content they lead to without clicking, avoid "read this blog post" and instead "learn more about the incident response alpha program"
-3. Actionable (e.g., taking steps 1-3, including links)
+3. Actionable (e.g. downloading the latest mobile app release, including links)
 4. Clear, concise and consistent throughout
 
 ## Screenshot Guidelines
