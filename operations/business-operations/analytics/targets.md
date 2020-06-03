@@ -9,11 +9,30 @@ Targets are stored in our Data Warehouse to automate **Target vs Actual** & **At
 
 ### Existing Targets
 
-### Upcoming Targets
+* Top Line Level
+  * [ARR](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#arr-annual-recurring-revenue)
+    * ARR by Month
+    * ARR Churn by Month
+    * ARR Expansion by Month
+    * ARR New by Month
+  * [Bookings](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#bookings)
+    * Bookings by Month
+    * New Bookings by Month
+    * Expansion Bookings by Month
+    * New & Expansion Bookings by Month
+    * Renewal Bookings by Quarter
+* Segment Level
+  * New & Expansion Attainment by Segment by Month
+    * New & Expansion Attainment = New & Expansion Bookings + Leftover Expansion
+  * Renewal Bookings by Segment by Quarter
+* Rep Level (AE/CSM)
+  * New & Expansion Attainment by Rep by Month
+    * New & Expansion Attainment = New & Expansion Bookings + Leftover Expansion
 
-* ARR by Month
-* Downloads by Month
+* ### Upcoming Targets
+
 * TEDAS 7 Day
+* Renewal Bookings by Rep by Quarter
 
 ### Requesting a New Target
 
