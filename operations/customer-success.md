@@ -6,4 +6,3 @@
 
 * [Customer Feedback](https://community.mattermost.com/private-core/channels/customer-feedback): Customer feedback archive and Feature Idea Flowchart
 
-

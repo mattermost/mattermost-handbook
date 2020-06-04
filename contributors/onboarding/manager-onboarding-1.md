@@ -2,7 +2,7 @@
 description: Things People Managers Must Know
 ---
 
-# Manager Onboarding - 1%
+# Manager Onboarding
 
 ## People Manager Approvals
 

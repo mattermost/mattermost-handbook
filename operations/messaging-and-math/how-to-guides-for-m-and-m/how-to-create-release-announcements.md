@@ -41,7 +41,7 @@ description: 50% Draft
 ### E. \(T-minus 5 working days\) CEO Review
 
 * 24 hours prior to CEO review, Release Manager posts the blog draft in the Marketing channel with a hashtag \(e.g. `#mm520`\) to make finding the blog draft easier
-   * In the summary post, include the names of reviewers and the average score given by previous reviewers for the title and the one-liners 
+  * In the summary post, include the names of reviewers and the average score given by previous reviewers for the title and the one-liners 
 
 ### F. \(T-minus 2 working days\) Set Up Blog Post in Wordpress
 
@@ -58,7 +58,7 @@ description: 50% Draft
 The Release Manager \(Amy Blais\) owns the release announcement, including the following checklist items unless otherwise indicated:
 
 1. **Exciting title**
-   1. Focus on the System Admin for Mattermost deciding whether to upgrade or buy E20 to empower end users (customer focus)
+   1. Focus on the System Admin for Mattermost deciding whether to upgrade or buy E20 to empower end users \(customer focus\)
    2. Clear headline stating the purpose, e.g., "launching X", "ending support for Y", "announcing Z"
    3. Communicate primary benefit
    4. Lead with the most exciting/impactful new feature
@@ -97,7 +97,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 
 1. Highlight past successes: Cross link to promote traffic 
 2. Links tell a story: Links should indicate the content they lead to without clicking, avoid "read this blog post" and instead "learn more about the incident response alpha program"
-3. Actionable (e.g. downloading the latest mobile app release, including links)
+3. Actionable \(e.g. downloading the latest mobile app release, including links\)
 4. Clear, concise and consistent throughout
 
 ## Screenshot Guidelines
@@ -116,38 +116,50 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 ## Scoring Guidelines
 
 <table>
-<colgroup>
-<col style="width: 46%" />
-<col style="width: 53%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Rating of clarity from 1 to 10</th>
-<th>Product</th>
-<th>Marketing</th>
-<th>System Admin representative</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Title is clear and compelling to a System Admin. Focuses on the System Admin deciding whether to upgrade or buy E20 to empower end users.</p>
-<p>1 - System Admin doesn’t understand what is in the release and the title does not focus on the System Admin deciding whether to upgrade or buy E20 to empower end users.</p>
-<p>5 - System Admin understands what is in the release, but may misinterpret things. The title somewhat focuses on the System Admin deciding whether to upgrade or buy E20 to empower end users.</p>
-<p>10 - System Admin clearly understands what is in the release in the fewest possible words, and is excited about the upgrade. The title focuses on the System Admin deciding whether to upgrade or buy E20 to empower end users.</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Intro paragraph and bullet points are clear. They tell a System Admin all they need to know with compelling, concise, and specific descriptions.</p>
-<p>1 - System Admin finds intro paragraph and bullet points confusing or inaccurate.</p>
-<p>5 - System Admin has a basic understanding of the release, but finds at least one thing confusing.</p>
-<p>10 - Intro paragraph and bullet points introduce features with compelling, concise and specific descriptions.</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th style="text-align:left">Rating of clarity from 1 to 10</th>
+      <th style="text-align:left">Product</th>
+      <th style="text-align:left">Marketing</th>
+      <th style="text-align:left">System Admin representative</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p>Title is clear and compelling to a System Admin. Focuses on the System
+          Admin deciding whether to upgrade or buy E20 to empower end users.</p>
+        <p>1 - System Admin doesn&#x2019;t understand what is in the release and
+          the title does not focus on the System Admin deciding whether to upgrade
+          or buy E20 to empower end users.</p>
+        <p>5 - System Admin understands what is in the release, but may misinterpret
+          things. The title somewhat focuses on the System Admin deciding whether
+          to upgrade or buy E20 to empower end users.</p>
+        <p>10 - System Admin clearly understands what is in the release in the fewest
+          possible words, and is excited about the upgrade. The title focuses on
+          the System Admin deciding whether to upgrade or buy E20 to empower end
+          users.</p>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>Intro paragraph and bullet points are clear. They tell a System Admin
+          all they need to know with compelling, concise, and specific descriptions.</p>
+        <p>1 - System Admin finds intro paragraph and bullet points confusing or
+          inaccurate.</p>
+        <p>5 - System Admin has a basic understanding of the release, but finds at
+          least one thing confusing.</p>
+        <p>10 - Intro paragraph and bullet points introduce features with compelling,
+          concise and specific descriptions.</p>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
 </table>
 
 ## One great screenshot a month
@@ -158,3 +170,4 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 4. If a screenshot isn't available to highlight in the release use a conceptual banner based on [R&D Twitter Banner Template](https://community.mattermost.com/files/6bc4cot5xbyi8cfxesgyx6aqdw/public?h=HKLm3FZvOvpylxVk7mUYmeaBQ_rFV_JCEAZ2w5z9fg4) \(shown below\)
 
 [Example of tweet using banner template](https://twitter.com/iantien/status/1217457762772238336)
+

@@ -19,7 +19,7 @@ The Mattermost logo is available is vertical, horizontal and logomark-only versi
 
 **Horizontal Logo:** Min size 100x16px
 
-![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logos-horizontal%20%281%29.png)
+![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logos-horizontal.png)
 
 **Vertical Logo:** Min size 70x39px
 
@@ -27,7 +27,7 @@ The Mattermost logo is available is vertical, horizontal and logomark-only versi
 
 **Logomark:** Min size 16x16px
 
-![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logos-logomarks%20%281%29.png)
+![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logos-logomarks.png)
 
 ### Usage Guidelines
 
@@ -87,7 +87,7 @@ Product-specific typography guidelines coming soon…
 
 Powerpoint and Google Slides Templates coming soon…
 
-![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-presentation-sample-slides%20%281%29.png)
+![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-presentation-sample-slides.png)
 
 ## Website Guidelines
 

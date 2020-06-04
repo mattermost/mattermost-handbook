@@ -118,7 +118,7 @@ The “Mattermost Leadership Team”, senior leadership team and department head
 
 Nerfs and buffs are the framework for setting culture at Mattermost.
 
-A "nerf" is a downgraded experience as the result of a behavior. 
+A "nerf" is a downgraded experience as the result of a behavior.
 
 For example, if half of a team is traveling to a conference and holds a team meeting in a hotel room and the other half calls in remotely but they can't see everyone in the room and audio is low quality, then the team is "nerfing" their remote colleagues. The people in the hotel room are downgrading the experience of their remote colleagues.
 
@@ -171,3 +171,4 @@ The following is a list of terms no longer used with links to their definitions 
 #### Tomb-stoned
 
 Previously hyphenated, now not hyphenated, see [Tombstoned](list-of-terms.md#tombstoned).
+

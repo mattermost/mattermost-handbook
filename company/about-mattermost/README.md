@@ -84,7 +84,9 @@ Mattermost, Inc is a commercial open source company with a subscription-based, [
       </td>
     </tr>
   </tbody>
-</table>For more information, see our [Product Overview](https://docs.mattermost.com/overview/product.html). and open source repository at [https://github.com/mattermost/](https://github.com/mattermost/)
+</table>
+
+For more information, see our [Product Overview](https://docs.mattermost.com/overview/product.html). and open source repository at [https://github.com/mattermost/](https://github.com/mattermost/)
 
 ## Company
 
@@ -104,7 +106,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 |  |  |  |
 | :--- | :--- | :--- |
-| The Mattermost logomark is called "the instrument".   It represents four tools organizations need to achieve their highest priorities:   A **compass** for direction, a **clock** to set pace, a **meter** to measure output, and a **dial** representing inputs--the contribution of everyone on the team.  |  | ![](../../.gitbook/assets/image%20%2820%29.png) |
+| The Mattermost logomark is called "the instrument".   It represents four tools organizations need to achieve their highest priorities:   A **compass** for direction, a **clock** to set pace, a **meter** to measure output, and a **dial** representing inputs--the contribution of everyone on the team.  |  | ![](../../.gitbook/assets/image%20%2811%29%20%281%29.png) |
 
 See [brand guidelines](https://mattermost.org/brand-guidelines/) for usage guidance. 
 

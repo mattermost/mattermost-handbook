@@ -27,7 +27,7 @@ All expenses should be submitted in a timely manner and therefore we request tha
 
 ### Creating a report
 
-You can create a report in Expensify in two ways: 
+You can create a report in Expensify in two ways:
 
 1. Create the report before you incur expense and add the expenses as they arise or, 
 2. Consolidate all your expenses from your trip/event/onboarding and apply them to the report. 
@@ -213,4 +213,5 @@ If you are located in either the United Kingdom or Germany, please submit your e
 
 ### Rest of World \(ROW\)
 
-For everyone else, follow [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/how-to-get-paid) to set up your banking credentials. If you have questions, the [Accounts Payable Team](mailto:ap@mattermost.com) is here to support. 
+For everyone else, follow [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/how-to-get-paid) to set up your banking credentials. If you have questions, the [Accounts Payable Team](mailto:ap@mattermost.com) is here to support.
+

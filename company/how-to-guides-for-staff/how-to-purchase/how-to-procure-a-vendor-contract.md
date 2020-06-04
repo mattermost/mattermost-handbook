@@ -85,7 +85,9 @@ All contracts are to address either Ian Tien \(CEO\) or Aneal Vallurupalli \(VP 
       <td style="text-align:left">(650) 667-8512</td>
     </tr>
   </tbody>
-</table> \* Ian Tien or Aneal Vallurupalli’s personal phone number should not be used
+</table>
+
+ \* Ian Tien or Aneal Vallurupalli’s personal phone number should not be used
 
 #### Is Your Contract an [MTA](https://handbook.mattermost.com/operations/finance/risk-management#mattermost-templated-agreement)?
 

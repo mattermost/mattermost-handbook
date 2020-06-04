@@ -16,7 +16,7 @@ We have a number of different ways we communicate. Use the right side bar to jum
 
 This is a weekly all-staff meeting focused on increasing alignment and awareness of how the company, departments, teams and individuals serve our customers.
 
-[Customer Obsession](../../company/about-mattermost/#leadership-principles) is a key leadership principle and we emphasize its priority when we bring the company together. Colleagues who come from companies that aren't obsessed with customers have suggested we refer to this meeting as "All Hands" and not expect everything we announce--from [spending company money](../../company/how-to-guides-for-staff/how-to-spend-company-money/) to [recruiting new talent](../../contributors/join-us/staff-recruiting.md)--to be framed in the context of serving customers. Such expectations are typical and common, and therefore we don't have "All Hands" meetings and instead have "Customer Obsession Meetings" to continually remind us that our focus on customers is atypical and uncommon.
+[Customer Obsession](../../company/about-mattermost/#leadership-principles) is a key leadership principle and we emphasize its priority when we bring the company together. Colleagues who come from companies that aren't obsessed with customers have suggested we refer to this meeting as "All Hands" and not expect everything we announce--from [spending company money](../../company/how-to-guides-for-staff/how-to-spend-company-money/) to [recruiting new talent](https://github.com/mattermost/mattermost-handbook/tree/4a241930346416200010e46da1b90367c85eda95/contributors/join-us/staff-recruiting.md)--to be framed in the context of serving customers. Such expectations are typical and common, and therefore we don't have "All Hands" meetings and instead have "Customer Obsession Meetings" to continually remind us that our focus on customers is atypical and uncommon.
 
 |  |  |
 | :--- | :--- |
@@ -37,7 +37,9 @@ This is a weekly all-staff meeting focused on increasing alignment and awareness
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Objectives:</th>
@@ -52,7 +54,9 @@ This is a weekly all-staff meeting focused on increasing alignment and awareness
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Time:</th>
@@ -64,7 +68,7 @@ This is a weekly all-staff meeting focused on increasing alignment and awareness
     </tr>
   </thead>
   <tbody></tbody>
-</table>**1 - T-4:** Chair and Vice Chair meet to prepare agenda and actions to prepare for meeting. Vice Chair posts draft agenda to [Customer Obs Prep channel](https://community-release.mattermost.com/private-core/channels/cust-obs-prep) and labels it as 1% draft.
+</table>
 
 1. Vice Chair works 1-1 with presenters to prepare for them.
 2. Team members can share  meeting agenda topics with Vice Chair via direct message. Must be shared at least 24 hours prior to meeting start and be aligned with the meeting objectives above.
@@ -126,29 +130,26 @@ Links to previous staff enablement surveys:
 
 Listening to feedback is vital to iteration and to continually improve everything we do.
 
-Feedback and listening is at the core of our self-awareness leadership principle. We have 1-1s with managers, regular pulse and engagement surveys, People team outreach and conversations, and annonymous feedback available in every weekly Customer Obsession/All-Hands Meeting. CEO Listening Tours are another way we listen. 
+Feedback and listening is at the core of our self-awareness leadership principle. We have 1-1s with managers, regular pulse and engagement surveys, People team outreach and conversations, and annonymous feedback available in every weekly Customer Obsession/All-Hands Meeting. CEO Listening Tours are another way we listen.
 
 CEO Listening Tours happen over Zoom in meetings around 25-30 minutes with different groups of 5-8 staff, typically within the same department or in a related function. Managers of the team members in the group are typically not included in the meeting.
 
-Some notes about Listening Tours: 
+Some notes about Listening Tours:
 
-- It's an opportunity to hear from staff about their likes and wishes, which could be about their team, their department, the company in general, or on any topic. These could be likes and wishes off the top of your head, or maybe something you've been thinking about for a while. This simulates an open feedback session at MatterCon where we would ask people to share their thoughts and feelings. 
+* It's an opportunity to hear from staff about their likes and wishes, which could be about their team, their department, the company in general, or on any topic. These could be likes and wishes off the top of your head, or maybe something you've been thinking about for a while. This simulates an open feedback session at MatterCon where we would ask people to share their thoughts and feelings.
+* The priority of the meeting is listening. During these sessions the CEO takes notes and refrains from commentary, though may ask follow-up questions. Notes are "default open" to be shared with managers, executives, and anyone in the company.
+* At the end of the session the CEO reads back what they heard. The notes are shared with the management team/s of the group.
+* It's then up to managers to decide how to process and address the feedback at the team level. The CEO can also incorporate the information at the company level.
+* In the past, participants and managers of listening tours have found the meetings productive for uncovering blindspots at the company and within departments.
 
-- The priority of the meeting is listening. During these sessions the CEO takes notes and refrains from commentary, though may ask follow-up questions. Notes are "default open" to be shared with managers, executives, and anyone in the company. 
+If you're not able to make a particular listening meeting, please ping @amy.nicol to add you to a different slot.
 
-- At the end of the session the CEO reads back what they heard. The notes are shared with the management team/s of the group.
-
-- It's then up to managers to decide how to process and address the feedback at the team level. The CEO can also incorporate the information at the company level.
-
-- In the past, participants and managers of listening tours have found the meetings productive for uncovering blindspots at the company and within departments.
-
-If you're not able to make a particular listening meeting, please ping @amy.nicol to add you to a different slot. 
-
-How to participate in listening tours: 
+How to participate in listening tours:
 
 1. **Join us** - Attend the scheduled meeting, or if it's not convenient, ping @amy.nicol to join a different meeting slot.
-2. **Share about yourself** - Please introduce yourself with the group (even if we all know each other), with your name, your role, the city and country you're in, and what time it is there. 
-3. **Share a like and a wish** - If you'd like to share feedback, in the form of a like and a wish, please share it when you feel appropriate. Your feedback can be about anything, something recent ("Wish Zoom was more stable") or something you've been thinking about or talking about for a while ("Really like the Social Coffee channel and meeting people across the company"). 
+2. **Share about yourself** - Please introduce yourself with the group \(even if we all know each other\), with your name, your role, the city and country you're in, and what time it is there. 
+3. **Share a like and a wish** - If you'd like to share feedback, in the form of a like and a wish, please share it when you feel appropriate. Your feedback can be about anything, something recent \("Wish Zoom was more stable"\) or something you've been thinking about or talking about for a while \("Really like the Social Coffee channel and meeting people across the company"\). 
 4. **Confirm you've been heard** - As feedback is read back, share if what you had to say has been accurately captured to be shared with our leadership team, execs, and managers.
 
-Listening tours are just another way we gather feedback so we can iterate and improve everything we do. Thank you for helping speed us on our journey of continual improvement. 
+Listening tours are just another way we gather feedback so we can iterate and improve everything we do. Thank you for helping speed us on our journey of continual improvement.
+

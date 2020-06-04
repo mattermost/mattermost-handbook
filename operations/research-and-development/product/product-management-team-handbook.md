@@ -557,7 +557,9 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Objectives:</th>
@@ -572,7 +574,9 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Time:</th>
@@ -584,7 +588,9 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Meeting Preparation</th>
@@ -601,7 +607,9 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">During Meeting</th>
@@ -620,7 +628,9 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Post Meeting</th>
@@ -633,7 +643,9 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
     </tr>
   </thead>
   <tbody></tbody>
-</table>\#\#\#\# Monthly Roadmap Q&A - Pre-sales and Support \| \| \| \| :--- \| :--- \|
+</table>
+
+\\#\\#\\#\\# Monthly Roadmap Q&A - Pre-sales and Support \\| \\| \\| \\| :--- \\| :--- \\|
 
 <table>
   <thead>
@@ -650,7 +662,9 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Objectives:</th>
@@ -666,7 +680,9 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Time:</th>
@@ -679,7 +695,9 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Meeting Preparation</th>
@@ -697,7 +715,9 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">During Meeting</th>
@@ -712,7 +732,9 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Post Meeting</th>
@@ -727,7 +749,7 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
   <tbody></tbody>
 </table>
 
-## Frequently Asked Questions (FAQ)
+## Frequently Asked Questions \(FAQ\)
 
 ### Can we take this feature out of beta?
 
@@ -751,10 +773,11 @@ To set up a redirect, you must have admin access to www.mattermost.com. Marketin
 If you have access, follow these steps:
 
 1. Log in to the administration panel for www.mattermost.com.
-2. From the left-hand sidebar, go to **SEO \> Redirects**.
+2. From the left-hand sidebar, go to **SEO &gt; Redirects**.
 3. On the top of the screen, ensure you are on the **Redirects - Yoast SEO** page header on the **Redirects** tab.
-4. Under **Type**, choose `301 Moved Permanently` option (this is the default option).
+4. Under **Type**, choose `301 Moved Permanently` option \(this is the default option\).
 5. In the **Old url** field, enter in the new direct you want to use in-product in the format of `/pl/default-page-description`. Update the page description with your page information.
 6. In the **Url** field, enter in the full URL to the page on docs.mattermost.com.
 7. Click the **Add Redirect** botton and verify your entry is added to the list. You may need to page through to find your entry.
 8. Test your redirect URL. This will be the URL in the format of `https://www.mattermost.com/pl/default-page-description.html`.
+

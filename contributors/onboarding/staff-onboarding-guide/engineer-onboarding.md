@@ -1,15 +1,15 @@
-# Mattermost Engineer Onboarding Timeline & Expectations
+# Engineer Onboarding Timeline & Expectations
 
 This is the general timeline and expectations for new engineers starting at Mattermost. It is meant to guide new engineers, help them focus on the right tasks, and set expectations to help them be successful at Mattermost. It is not a hard timeline in any sense and circumstances may shorten, lengthen or re-order the timeline.
 
 ## Week 1: Focus on environment setup and introductions
 
-* Set up equipment and environment (e.g. complete the day 1 checklist)
+* Set up equipment and environment \(e.g. complete the day 1 checklist\)
   * Get laptop, set up developer environment
   * Clone enterprise repo
-  * Log in to all accounts (Gmail, GitHub, JIRA, OneLogin, Community, Community Daily)
+  * Log in to all accounts \(Gmail, GitHub, JIRA, OneLogin, Community, Community Daily\)
   * Expense equipment
-  * HR set up (benefits, health insurance, etc.)
+  * HR set up \(benefits, health insurance, etc.\)
 * Meet the team
   * Meet with a different team member for 30 minutes each day
 * Meet with your dev lead
@@ -22,16 +22,16 @@ This is the general timeline and expectations for new engineers starting at Matt
   * Developer Hangouts
   * Video Game Hour
 * Join important channels
-  * https://community.mattermost.com/core/channels/developers
-  * https://community.mattermost.com/core/channels/developers-meeting
-  * https://community.mattermost.com/core/channels/thank-you
-  * https://community.mattermost.com/private-core/channels/announcements
-  * https://community.mattermost.com/private-core/channels/confidential-bugs
-  * https://community.mattermost.com/private-core/channels/off-topic
+  * [https://community.mattermost.com/core/channels/developers](https://community.mattermost.com/core/channels/developers)
+  * [https://community.mattermost.com/core/channels/developers-meeting](https://community.mattermost.com/core/channels/developers-meeting)
+  * [https://community.mattermost.com/core/channels/thank-you](https://community.mattermost.com/core/channels/thank-you)
+  * [https://community.mattermost.com/private-core/channels/announcements](https://community.mattermost.com/private-core/channels/announcements)
+  * [https://community.mattermost.com/private-core/channels/confidential-bugs](https://community.mattermost.com/private-core/channels/confidential-bugs)
+  * [https://community.mattermost.com/private-core/channels/off-topic](https://community.mattermost.com/private-core/channels/off-topic)
 * Read and understand the core values
-  * https://handbook.mattermost.com/company/about-mattermost#leadership-principles
+  * [https://handbook.mattermost.com/company/about-mattermost\#leadership-principles](https://handbook.mattermost.com/company/about-mattermost#leadership-principles)
 * Review video calling etiquette
-  * http://hulen.com/video-conf-peevs/
+  * [http://hulen.com/video-conf-peevs/](http://hulen.com/video-conf-peevs/)
 * Work on 1-3 small tickets to get used to dev processes
 * Introduction at the R&D Meeting
 
@@ -61,15 +61,15 @@ This is the general timeline and expectations for new engineers starting at Matt
   * Meet once a week and start regular weekly 1-1s
 * Work on some medium size tickets
 
-## Weeks 5-8 (Month 2): Work on your first project as dev owner
+## Weeks 5-8 \(Month 2\): Work on your first project as dev owner
 
-* Begin work on your first relatively large task (40 mana) and be the dev owner of it
+* Begin work on your first relatively large task \(40 mana\) and be the dev owner of it
 * Act as the dev owner in the spec/design/technical meetings
 * Write up a brief technical specification if necessary
 * Work on small/medium tickets each sprint alongside the larger task
 * It is expected that your first project takes longer to complete than usual
 
-## Weeks 9-11 (Month 3): Work on more and/or larger projects as dev owner
+## Weeks 9-11 \(Month 3\): Work on more and/or larger projects as dev owner
 
 * Take what you learned being dev owner on your first project and improve upon it
 * Act as dev owner and write technical specs for more and larger projects
@@ -86,17 +86,17 @@ This is the general timeline and expectations for new engineers starting at Matt
   * Evaluated on core values
 * The goal is to let you know how you’re performing and to help you improve and be a better engineer
 
-## Weeks 13-16 (Month 4): Act on your performance evaluation and focus on community
+## Weeks 13-16 \(Month 4\): Act on your performance evaluation and focus on community
 
 * Continue to improve on fulfilling engineering responsibilities and completing quality deliverables in a timely fashion
 * Begin acting on any feedback given during the performance evaluation
 * Start taking a more active role in the open source community
   * Proactively answer questions in channels
   * Create Help Wanted tickets and mentor contributors working on them
-  * Find a community buddy (a contributor you interact with fairly often)
+  * Find a community buddy \(a contributor you interact with fairly often\)
 * Start helping to answer customer support questions
 
-## Weeks 17-20 (Month 5): Become an authority
+## Weeks 17-20 \(Month 5\): Become an authority
 
 * Start to become an authority on some part of the product/codebase
   * Begin thinking about what part of the code you want to “own”, what do you want to be known for at Mattermost
@@ -108,4 +108,5 @@ This is the general timeline and expectations for new engineers starting at Matt
   * Think about what you would work on if there were three of you, and use the community to help you as your clones
 * Complete engineering responsibilities and deliverables on pace with fellow teammates
 
-## Weeks 21+ (Month 6+): Continue to grow as an engineer, be a leader in the community, and be an integral part of the Mattermost engineering org
+## Weeks 21+ \(Month 6+\): Continue to grow as an engineer, be a leader in the community, and be an integral part of the Mattermost engineering org
+

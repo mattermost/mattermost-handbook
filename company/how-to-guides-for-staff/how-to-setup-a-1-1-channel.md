@@ -2,7 +2,7 @@
 description: 50% complete.
 ---
 
-# How to setup a 1-1 channel
+# How to set up a 1-1 channel
 
 ## Getting Started
 

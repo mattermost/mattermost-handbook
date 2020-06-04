@@ -55,7 +55,7 @@ The Mattermost voice remains the same, even when the tone varies.
 
 **Language**
 
-Write documents in English. Use American spelling, and avoid constructs where you are forced to write either *he* or *she*, or *his* or *her*. You can use *they* or *their* as singular forms instead.
+Write documents in English. Use American spelling, and avoid constructs where you are forced to write either _he_ or _she_, or _his_ or _her_. You can use _they_ or _their_ as singular forms instead.
 
 **Numbers**
 
@@ -94,3 +94,4 @@ For example: "Sharing this link lets other users view the linked message" as opp
 These guidelines were inspired by [Stripe's knowledge base content](https://document360.io/blog/tear-down-of-stripe-knowledge-base/) and [by other sites shared in this Document360 article](https://document360.io/blog/10-knowledge-base-software-best-practice-examples/).
 
 [Learn more about recommendations, analysis and next steps.](https://docs.google.com/document/d/1LNAgmKKtmRN1T7UCvOgcUbGiFfk8UXqcmCgF80-sVyQ)
+

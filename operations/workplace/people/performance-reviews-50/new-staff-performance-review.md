@@ -4,9 +4,9 @@ description: An Informal Performance Review
 
 # New Staff Performance Review
 
-The New Staff Performance Review is intended to provide align expectations and [improve performance](https://handbook.mattermost.com/operations/people/performance-reviews-50#what-is-the-purpose-of-a-performance-review) early on. prior to a new staff member's 90th date. 
+The New Staff Performance Review is intended to provide align expectations and [improve performance](https://handbook.mattermost.com/operations/people/performance-reviews-50#what-is-the-purpose-of-a-performance-review) early on. prior to a new staff member's 90th date.
 
-#### Review Process 
+## Review Process
 
 * **Managers**
   * Complete [request to indicate 4-6 peers ](https://www.surveymonkey.com/r/newcolleaguepanel)of the new staff member. Notifications are sent to managers on a new staff's 65th date of employment. This will kick-off the review [process](https://handbook.mattermost.com/operations/people/performance-reviews-50#how-is-feedback-shared). 
@@ -17,6 +17,4 @@ The New Staff Performance Review is intended to provide align expectations and [
   * New Staff Members to send a copy of their self evaluation to People. 
 * **Peers** 
   * Complete a peer review via a [feedback](https://www.surveymonkey.com/r/TYSRHRW) form sent from People.
-
-  
 

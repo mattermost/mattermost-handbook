@@ -58,7 +58,9 @@ MLT Daily Admin consists of:
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Heads-up</th>
@@ -76,7 +78,9 @@ MLT Daily Admin consists of:
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">FYI</th>
@@ -94,7 +98,9 @@ MLT Daily Admin consists of:
     </tr>
   </thead>
   <tbody></tbody>
-</table><table>
+</table>
+
+<table>
   <thead>
     <tr>
       <th style="text-align:left">Sensitive issues</th>
@@ -114,7 +120,7 @@ MLT Daily Admin consists of:
     </tr>
   </thead>
   <tbody></tbody>
-</table>Before meeting use `/standup` command to post updates to peers in the channel of what’s important:
+</table>
 
 ```text
 /standup

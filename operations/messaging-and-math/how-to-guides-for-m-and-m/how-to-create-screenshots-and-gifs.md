@@ -46,7 +46,7 @@ When choosing what to highlight in the screenshot, follow this order:
   * Make the first message in the center pane fully visible right below the channel header.
 * **Team list**
   * Connect team names to channel names, e.g. Contributors, Developers, Toolkit, etc. to contribute to a broader overall theme and story.
-  * E.g. could use icons of different maps, or city skylines, to indicate offices of different teams, or business units of a bank (customer service, security, research, etc.), etc.
+  * E.g. could use icons of different maps, or city skylines, to indicate offices of different teams, or business units of a bank \(customer service, security, research, etc.\), etc.
 * **Clarity:** 
   * Avoid showing any text with acronyms and abbreviations.
   * Do not show any bugs or defects.
@@ -72,13 +72,13 @@ Use [GIF Brewery](https://gfycat.com/gifbrewery) to create GIFs. Ensure there ar
 
 #### Don't zoom past 100% and pixelated images
 
-When you need to show a particular part of the product, don't crop the image and zoom past 100% to show the functionality. Screenshots should be full-sized (no zoom-in, no resizing within Google Doc), potentially stored in a TIF file. For optimal quality on Mac screenshots, [see this help article](https://graphicdesign.stackexchange.com/questions/30081/highest-quality-website-screenshot/30142#30142).
+When you need to show a particular part of the product, don't crop the image and zoom past 100% to show the functionality. Screenshots should be full-sized \(no zoom-in, no resizing within Google Doc\), potentially stored in a TIF file. For optimal quality on Mac screenshots, [see this help article](https://graphicdesign.stackexchange.com/questions/30081/highest-quality-website-screenshot/30142#30142).
 
-Example of what not to do: 
+Example of what not to do:
 
 ![DO NOT use Zoom level other than 100% for screenshots](../../../.gitbook/assets/screenshot_guidelines.png)
 
-#### Do show sub-components framed in grey \(\#F7F9FA\) background 
+#### Do show sub-components framed in grey \(\#F7F9FA\) background
 
 Instead, show the sub-component at 100% zoom with a 12pt white border \(so there is white space\) and a grew \(\#F7F9FA\) background with no border, so the image is cleanly framed:
 
@@ -101,3 +101,4 @@ Text is hard to read when image is reduced for sharing on blog posts, social med
 This enables sharing the image in documentation, social media and marketing content more easily.
 
 ![](../../../.gitbook/assets/screenshot_guidelines5.png)
+

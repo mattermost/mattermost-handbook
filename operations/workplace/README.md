@@ -23,8 +23,8 @@ You can reach the server at:
 
 The server is also available via the following URLs, primarily used to test pre-release features:
 
- - [https://community-release.mattermost.com](https://community-release.mattermost.com), which runs our upcoming stable release. This server includes work-in-progress features, and can contain bugs and have occasional downtime. This server receives regular pushes of features and/or bug fixes of the next release for testing purposes.
- - [https://community-daily.mattermost.com](https://community-daily.mattermost.com), which runs latest builds of Mattermost's software, including all pre-release features of our core products. It is the most unstable version of the Mattermost community server. Bugs and occasional downtime is expected as this server receives daily pushes of features and/or bug fixes for testing purposes.
+* [https://community-release.mattermost.com](https://community-release.mattermost.com), which runs our upcoming stable release. This server includes work-in-progress features, and can contain bugs and have occasional downtime. This server receives regular pushes of features and/or bug fixes of the next release for testing purposes.
+* [https://community-daily.mattermost.com](https://community-daily.mattermost.com), which runs latest builds of Mattermost's software, including all pre-release features of our core products. It is the most unstable version of the Mattermost community server. Bugs and occasional downtime is expected as this server receives daily pushes of features and/or bug fixes for testing purposes.
 
 The server has two teams:
 
@@ -61,7 +61,7 @@ The following table lists popular channels for Staff:
 | Purpose | Name | Description |
 | :--- | :--- | :--- |
 | ANNOUNCE  Asynchronous Announcements | [Announcements](https://community.mattermost.com/private-core/channels/announcements) | **Public channel in STAFF team** for making staff-wide announcements. |
-| ANNOUNCE  Synchronous Announcements | [Customer Obsession Meeting](https://handbook.mattermost.com/operations/operations/company-cadence\#customer-obsession-meeting-aka-com) | **Public channel in STAFF team** for weekly all-staff meeting \(see link in header for more info on "COM", past recordings and materials, etc. |
+| ANNOUNCE  Synchronous Announcements | [Customer Obsession Meeting](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com) | **Public channel in STAFF team** for weekly all-staff meeting \(see link in header for more info on "COM", past recordings and materials, etc. |
 | ANNOUNCE  New Staff Announcements | [Welcome](https://community.mattermost.com/private-core/channels/welcome) | **Public channel in STAFF team** for announcing and welcoming new staff members. |
 
 ## Channel naming conventions
@@ -149,3 +149,4 @@ The following conventions are in place for channels with common purposes:
     </tr>
   </tbody>
 </table>
+

@@ -1,4 +1,4 @@
-# How to update handbook
+# How to update the handbook
 
 ## Guidelines
 
@@ -12,18 +12,16 @@ If this is your first time contributing to Mattermost, first read the [Mattermos
 ### Editing an Existing Page
 
 1. The quickest way to begin is navigating to the page you want to edit in [Mattermost Handbook](https://handbook.mattermost.com/), then clicking the **Edit on GitHub** icon in the top right navigation. This opens the page in GitHub that you can edit.
-2. In GitHub click the pencil icon in the navigation bar \(above the page header\) called **Edit the file in your fork of this project** to open the editable Markdown format page. 
-
-  * To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
-
+2. In GitHub click the pencil icon in the navigation bar \(above the page header\) called **Edit the file in your fork of this project** to open the editable Markdown format page.
+   * To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
 3. Make your edits. When you're ready to submit your changes, scroll to the bottom of the page to commit your changes and start a pull request.
 4. Add a descriptive title if the default title isn't sufficient. Add an extended description to summarize the changes you've made.
 5. Click the **Propose file change** button.
 
 ![](../../.gitbook/assets/how-to-update-handbook-commit-changes.png)
 
-6. On the next page, scroll down to compare changes with the original document and then select **Create pull request**.
-7. Confirm that the title and description are correct. Then select **Create pull request**.
+1. On the next page, scroll down to compare changes with the original document and then select **Create pull request**.
+2. Confirm that the title and description are correct. Then select **Create pull request**.
 
 ![](../../.gitbook/assets/how-to-update-handbook-create-new-pull-request.png)
 
@@ -89,3 +87,4 @@ Below is a list of permissions handbook contributors have access to:
 2. @rbradleyhaas, @michaelschiffmm: Write permissions to the repository, but are not expected to make changes without reviews outside of [business operations](https://handbook.mattermost.com/operations/business-operations), nor make changes to table of contents without reviews. 
 3. Staff contributors: Submits changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, submit PR reviews, and be requested as reviewers.
 4. Non-staff contributors: Submits changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, and submit PR reviews.
+
