@@ -154,7 +154,7 @@ Staying informed of status changes and comments on a feature is easy in ProductB
 
 ![add-followers2](https://user-images.githubusercontent.com/20331166/83704445-f6be5d80-a5c6-11ea-9ce5-6daf1f7b55ac.png)
 
-[Learn more about ProductBoard notifications](https://help.productboard.com/en/articles/1252670-how-do-notifications-work)
+[Learn more about ProductBoard notifications](https://help.productboard.com/en/articles/1252670-how-do-notifications-work).
 
 ### 2b - Adding feedback
 
