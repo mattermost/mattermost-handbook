@@ -100,7 +100,9 @@ MLT Daily Admin consists of:
       </td>
     </tr>
   </tbody>
-</table>### **Stand-Up Post**
+</table>
+
+### **Stand-Up Post**
 
 **Any time up to 12 hours before 8:31am Palo Alto time on weekdays**
 
