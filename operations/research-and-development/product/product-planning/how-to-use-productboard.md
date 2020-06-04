@@ -144,11 +144,19 @@ To be added \(ETA Q2/FY21\)
 
 ## 2 - Day in the life of a Customer Support Manager, Customer Success Manager, or Solution Architect
 
-### 2a - Adding feedback
+### 2a - Stay up to date on feature status updates
+
+Staying informed of status changes and comments on a feature is fairly easy to do in ProductBoard. You'll simply need to locate the feature on the [Master Feature List](https://mattermost.productboard.com/feature-board/1097524-master-feature-list), open the feature details card by clicking on the feature name, then add yourself as a follower by clicking on the `+` symbol on the bottom left side of the feature details card (See below):
+
+![add-followers2](https://user-images.githubusercontent.com/20331166/83704445-f6be5d80-a5c6-11ea-9ce5-6daf1f7b55ac.png)
+
+For more information on how ProductBoard notifications work [click here](https://help.productboard.com/en/articles/1252670-how-do-notifications-work)
+
+### 2b - Adding feedback
 
 New feedback from users and customers is sent to the [Insights Board](https://mattermost.productboard.com/insights). Typically these are submitted by product managers, support, customer success managers, or sales through integrations with email, Zapier, Zendesk, or others.
 
-### 2b - Creating notes
+### 2c - Creating notes
 
 You can add a new note to capture feedback from a customer call. This is used to help identify customer problems, wants/needs, feature lack, and any other areas for improvement that stem from interacting with customers. Essentially, think of this as a place to communicate the most important takeaways from customer calls that product teams can help you with. 
 
@@ -158,7 +166,7 @@ Important points about notes:
 * Notes can include multiple requests (PMs can apply multiple elements from the note to different features if necessary).
 * If you are not sure if the request or feedback should apply to an existing feature, you can simply capture the feedback as a note and assign to the PM overseeing that area (or just leave unassigned). 
 
-### 2c - Adding insights directly to an existing feature
+### 2d - Adding insights directly to an existing feature
 
 As a **Contributor** in ProductBoard, you have access to view the [master feature list](https://mattermost.productboard.com/feature-board/1097524-master-feature-list). This is the view where the Product team organizes and prioritizes new features and functionality that is being considered or planned for Mattermost. You can search and browse all features and ideas and even read the notes and portal cards from PMs for a detailed description of the feature/idea. In the case of planned features, you will have complete insight into the status of the feature and a rough idea of where it sits on the roadmap. 
 
@@ -166,7 +174,7 @@ Within the detailed view of individual features, you can view the full list of i
 
 ![](../../../../.gitbook/assets/productboard-insights-master-feature-list.png)
 
-### 2d - Adding feedback (via Chrome extension)
+### 2e - Adding feedback (via Chrome extension)
 
 Using the official [ProductBoard Chrome Extension](https://chrome.google.com/webstore/detail/productboard-make-product/mlpbdkpkicfkhgagnoamdcimmhdkakni) you can easily add notes from any page within chrome (including SFDC, Zendesk, GitHub, HackerNews, Mattermost web, etc.). The extensions is very easy to use and should streamline your workflow dramatically.
 
