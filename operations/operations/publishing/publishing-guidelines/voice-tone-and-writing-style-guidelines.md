@@ -77,6 +77,11 @@ Use the second person and avoid the first person.
 
 For example: "View the status in the Status pane" as opposed to "We’ll view the status in the Status pane".
 
+<<<<<<< HEAD
+=======
+An exception are educational guides, as first person writing helps them to keep the reader interested in  the subject.
+
+>>>>>>> ff9e53e... rework to add differences to sections
 **Voice**
 
 Use active voice in preference to passive voice. Active voice has the subject of a sentence doing the action. In passive voice, the subject has an action done to it.
