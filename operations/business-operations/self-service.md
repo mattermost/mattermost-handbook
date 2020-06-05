@@ -4,7 +4,7 @@
 
 ### Self Service is enabled through the combined capabilities of three major components
 
-* Customer Web Portal
+* Customer Portal
 * blapi \(Business Logic API\)
 * License Generator
 
@@ -12,9 +12,9 @@
 
 **Ask questions [here](https://community.mattermost.com/private-core/channels/customer-portal)**
 
-## Customer Web Portal
+## Customer Portal
 
-Customer Web Portal will provide a portal for customers to self-serve product purchases through Mattermost, reducing time to purchase and manual fulfillment time.
+Customer Portal will provide a portal for customers to self-serve product purchases through Mattermost, reducing time to purchase and manual fulfillment time.
 
 * PM: Eric Sadur
 * Technical Lead: Joram Wilander
@@ -24,7 +24,7 @@ Customer Web Portal will provide a portal for customers to self-serve product pu
 
 ## blapi \(Business Logic API\)
 
-blapi is responsible for surfacing billings, licensing, and customer data to the Customer Web Portal, generating required records in SFDC to enable reporting and sales processes, converting SFDC records to information required to run Customer Web Portal, and lastly charging credit cards in Stripe.
+blapi is responsible for surfacing billings, licensing, and customer data to the Customer Portal, generating required records in SFDC to enable reporting and sales processes, converting SFDC records to information required to run Customer Portal, and lastly charging credit cards in Stripe.
 
 * PM: Rachel Bradley-Haas
 * Technical Lead: Alex Dovenmuehle
