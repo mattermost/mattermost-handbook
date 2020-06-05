@@ -4,13 +4,13 @@ Sensitive topics listed below are escalated to a [Community Escalations channel]
 
 When an issue relating to a sensitive topic is raised (for example, on GitHub issues, Twitter, or elsewhere), it should be posted in the Community Escalations channel with an @-mention to the list of approved responders related to that particular issue.
 
-## Escalation Process
+## Escalation process
 
 Raising an issue is the responsibility of whoever is managing community responses in a given forum. However, it is also open for anyone at the company to escalate an issue that they see.
 
 It is then the responsibility of the approved responders to review the issue and choose an owner for responding (if a response is appropriate). By default, ownership is delegated to the first person on the list of approved responders. 
 
-## Sensitive Topics
+## Sensitive topics
 
 Below are topics that only approved responders can engage. If you’d like to be an approved responder for one or more of the topics, we welcome the help! [Sign up here](// XX Need a link), and you will be added to the next training session.
 
