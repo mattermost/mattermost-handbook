@@ -8,7 +8,8 @@
 * blapi \(Business Logic API\)
 * License Generator
 
-**Find the Self Service Roadmap in [ProductBoard](https://mattermost.productboard.com/roadmap)**
+**Find the Self Service Roadmap in [ProductBoard](	
+https://mattermost.productboard.com/roadmap/1657337-customer-portal-roadmap)**
 
 **Ask questions [here](https://community.mattermost.com/private-core/channels/customer-portal)**
 
