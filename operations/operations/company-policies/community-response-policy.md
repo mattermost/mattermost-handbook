@@ -10,7 +10,7 @@ Raising an issue is the responsibility of whoever is managing community response
 
 It is then the responsibility of the approved responders to review the issue and choose an owner for responding (if a response is appropriate). By default, ownership is delegated to the first person on the list of approved responders. 
 
-## Sensitive topics
+## Sensitive Topics
 
 Below are topics that only approved responders can engage. If you’d like to be an approved responder for one or more of the topics, we welcome the help! [Sign up here](// XX Need a link), and you will be added to the next training session.
 
