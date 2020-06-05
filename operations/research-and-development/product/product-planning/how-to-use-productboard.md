@@ -4,14 +4,14 @@ description: 'https://mattermost.productboard.com/'
 
 # How to use ProductBoard
 
-ProductBoard is used by Product Managers and Customer/Sales Teams for
+ProductBoard is used by Product Managers and Customer/Sales Teams for:
 
 - Feedback collection
 - Feature validation
 - Requirements gathering
 - Feature prioritization/roadmap planning
 
-When a feature moves to "planned" the product team pushes it to Confluence and Jira (or wherever each team decides) to define the scope/spec and track work.
+When a feature moves to "planned" the Product team pushes it to Confluence and Jira (or wherever each team decides) to define the scope/spec and track work.
 
 Specifically, ProductBoard is used to decide what to build (and when), while other systems like Confluence or Jira are used to communicate and design on what exactly is being built at individual feature level.  
 
@@ -19,7 +19,7 @@ Specifically, ProductBoard is used to decide what to build (and when), while oth
 
 ### **1a- Reviewing new feedback from users and customers**
 
-New feedback from users and customers is sent to the [Insights Board](https://mattermost.productboard.com/insights). Typically these are submitted by fellow product managers, support, customer success managers, or sales through integrations with email, Zapier, Zendesk, or others.
+New feedback from users and customers is sent to the [Insights Board](https://mattermost.productboard.com/insights). Typically these are submitted by fellow Product Managers, Support, Customer Success Managers, or Sales through integrations with email, Zapier, Zendesk, or others.
 
 When in the Insights Board, you can either go to your [Personal Inbox](https://mattermost.productboard.com/insights/my-inbox) or a [Shared Team Inbox](https://mattermost.productboard.com/insights/shared-inbox) to review feedback. When you find something relevant to your initiatives, highlight it in the notes and click the pencil icon to attach it to a feature.
 
@@ -95,7 +95,7 @@ Two very important notes regarding this integration:
 
 * Do reorder your features and play around with scoring your features.
 * Do add sub-components if you feel they are appropriate and do not exist anywhere else.
-* Do create your own feature views with custom prioritization scores (using existing drivers)
+* Do create your own feature views with custom prioritization scores (using existing drivers).
 * Do post requests for all of the following in the ProductBoard channel.
 
   * New drivers or edits to driver names.
@@ -109,7 +109,7 @@ Two very important notes regarding this integration:
 * Do not reorder top level components - learn more about components, subcomponents, and features.
 * Do not remove/rename any components or sub-components.
 * Do not rename or adjust others' prioritization score models.
-* Do not remove or rename drivers
+* Do not remove or rename drivers.
 
 ![](../../../../.gitbook/assets/productboard-prioritization.png)
 
@@ -193,6 +193,10 @@ You will also have access to the [release tracking view](https://mattermost.prod
 ### 4a - Now, Next & Later in the Portal view
 
 The portals will serve as our internal (and, in the future, external) communication of our product roadmap. You will have access to all internal product portals where we outline what we've released, what we're working on now, next and later.
+
+To view the portal, log in to [mattermost.productboard.com](https://mattermost.productboard.com) using your OneLogin account then click on the fourth icon in the left-hand navigation):
+
+![](../../../../.gitbook/assets/productboard_portal_nav.png)
 
 ## 5 - Frequently Asked Questions (FAQ)
 
