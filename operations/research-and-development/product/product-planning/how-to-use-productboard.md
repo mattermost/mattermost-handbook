@@ -146,7 +146,7 @@ To be added \(ETA Q2/FY21\)
 
 ### 2a - Stay up to date on feature status updates
 
-Staying informed of status changes and comments on a feature is easy in ProductBoard. You'll need to
+Staying informed of status changes and comments on a feature is easy in ProductBoard:
 
  1. Locate the feature on the [Master Feature List](https://mattermost.productboard.com/feature-board/1097524-master-feature-list)
  2. Open the feature details card by clicking on the feature name
