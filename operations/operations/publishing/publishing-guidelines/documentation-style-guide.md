@@ -26,7 +26,7 @@ To make pages easier for people to quickly scan for the content that they're loo
 
 The abstract provides a high-level overview of the content, includes context, and outlines the value or goal to the reader. It often helps to write the abstract first, as it provides a framework for the content that follows. Keep in mind that the description is displayed in the search results along with the page title. People read the description to help them decide if the document is the one that they want. 
 
-For educational guides they additionally set clear expectations for a well defined audience.
+An exception is Customer Education content where this is replaced by Learning Objectives which set clear expectations for a well-defined audience.
 
 ### Table of contents
 
@@ -36,7 +36,7 @@ If the document contains more than four sections or subsections, add a table of 
 
 Each page should have an introduction that acts as a short description of the document. The short description should be a single paragraph of no more than three sentences. 
 
-An introductory paragraph is not needed for educational guides.
+An exception is Customer Education content where the introduction is replaced by the Learning Objectives section.
 
 ## Using ReStructuredText markup (rst)
 

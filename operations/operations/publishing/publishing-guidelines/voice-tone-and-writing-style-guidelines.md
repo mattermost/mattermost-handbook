@@ -77,7 +77,7 @@ Use the second person and avoid the first person.
 
 For example: "View the status in the Status pane" as opposed to "We’ll view the status in the Status pane".
 
-An exception are educational guides, as first person writing helps them to keep the reader interested in  the subject.
+An exception is Customer Education content which can be written in first or second person to keep the audience focused and interested.
 
 **Voice**
 
