@@ -168,7 +168,7 @@ Important points about notes:
 
 * Notes are specific to a customer/prospect.
 * Notes can include multiple requests (PMs can apply multiple elements from the note to different features if necessary).
-* If you are not sure if the request or feedback should apply to an existing feature, you can simply capture the feedback as a note and assign to the PM overseeing that area (or just leave unassigned). 
+* If you are not sure if the request or feedback should apply to an existing feature, you can simply capture the feedback as a note, assign it to the PM overseeing that area, or leave it unassigned.  
 
 ### 2d - Adding insights directly to an existing feature
 
