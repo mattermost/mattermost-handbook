@@ -162,7 +162,7 @@ New feedback from users and customers is sent to the [Insights Board](https://ma
 
 ### 2c - Creating notes
 
-You can add a new note to capture feedback from a customer call. This is used to help identify customer problems, wants/needs, feature lack, and any other areas for improvement that stem from interacting with customers. Essentially, think of this as a place to communicate the most important takeaways from customer calls that product teams can help you with. 
+You can add a new note to capture feedback from a customer call. This is used to help identify customer problems, wants/needs, feature shortcomings, and any other areas for improvement that stem from interacting with customers. Essentially, think of this as a place to communicate the most important takeaways from customer calls that the Product team can help you with. 
 
 Important points about notes:
 
