@@ -158,7 +158,7 @@ Staying informed of status changes and comments on a feature is easy in ProductB
 
 ### 2b - Adding feedback
 
-New feedback from users and customers is sent to the [Insights Board](https://mattermost.productboard.com/insights). Typically these are submitted by product managers, support, customer success managers, or sales through integrations with email, Zapier, Zendesk, or others.
+New feedback from users and customers is sent to the [Insights Board](https://mattermost.productboard.com/insights). Typically these are submitted by Product Managers, Support, Customer Success Managers, or Sales through integrations with email, Zapier, Zendesk, or others.
 
 ### 2c - Creating notes
 
