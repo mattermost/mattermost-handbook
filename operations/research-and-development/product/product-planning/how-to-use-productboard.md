@@ -149,7 +149,7 @@ To be added \(ETA Q2/FY21\)
 Staying informed of status changes and comments on a feature is easy in ProductBoard:
 
  1. Locate the feature on the [Master Feature List](https://mattermost.productboard.com/feature-board/1097524-master-feature-list).
- 2. Open the feature details card by clicking on the feature name
+ 2. Click on the feature name to open the feature details card.
  3. Add yourself as a follower by clicking on the `+` symbol in the bottom left corner of the feature details card.
 
 ![add-followers2](https://user-images.githubusercontent.com/20331166/83704445-f6be5d80-a5c6-11ea-9ce5-6daf1f7b55ac.png)
