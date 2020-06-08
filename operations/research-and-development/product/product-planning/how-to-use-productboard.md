@@ -176,7 +176,7 @@ As a **Contributor** in ProductBoard, you have access to view the [master featur
 
 You can search and browse all features and ideas and even read the notes and portal cards from PMs for a detailed description of the feature/idea. In the case of planned features, you will have complete insight into the status of the feature and a rough idea of where it sits on the roadmap. 
 
-Within the detailed view of individual features, you can view the full list of insights added by other PMs, CSMs, SAs, or Support Managers. You will also have the option to add insight directly to the feature itself. As you can see in the image below:
+Within the detailed view of individual features, you can view the full list of insights added by other PMs, CSMs, SAs, or Support Managers. You also have the option to add insight directly to the feature itself.
 
 ![](../../../../.gitbook/assets/productboard-insights-master-feature-list.png)
 
