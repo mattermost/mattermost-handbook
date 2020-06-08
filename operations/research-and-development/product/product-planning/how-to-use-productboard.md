@@ -182,7 +182,7 @@ Within the detailed view of individual features, you can view the full list of i
 
 ### 2e - Adding feedback (via Chrome extension)
 
-Using the official [ProductBoard Chrome Extension](https://chrome.google.com/webstore/detail/productboard-make-product/mlpbdkpkicfkhgagnoamdcimmhdkakni) you can easily add notes from any page within chrome (including SFDC, Zendesk, GitHub, HackerNews, Mattermost web, etc.). The extensions is very easy to use and should streamline your workflow dramatically.
+Using the official [ProductBoard Chrome Extension](https://chrome.google.com/webstore/detail/productboard-make-product/mlpbdkpkicfkhgagnoamdcimmhdkakni) you can add notes from any page within Chrome (including SFDC, Zendesk, GitHub, HackerNews, Mattermost web, etc.) and streamline your workflow dramatically.
 
 As long as you are logged into ProductBoard, the connectivity to the Mattermost insights board is secure and seamless.
 
