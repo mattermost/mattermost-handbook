@@ -338,7 +338,8 @@ Examples include: The customer requests that the ticket remain open after a solu
 #### Ticket Measures
 
 * **First reply time:** The duration between ticket creation and the first public agent reply on the ticket.
-* **Next reply time:** The duration between ticket's first reply time and next reply time, unless otherwise communicated.
+* **Next reply time:** The duration between a customers ticket update and the next public agent reply on the ticket, unless otherwise communicated.
+* **Regular Update:** The duration between public agent updates for tickets not in a Pending status.
 
 **SLA's**
 
@@ -346,33 +347,49 @@ Examples include: The customer requests that the ticket remain open after a solu
 
 **Premium**
 
-* L1 (Urgent) - 1 hour
-* L2 (High) - 2 hours
-* L3 (Normal) - 8 hours
-* L4 (Low) - 24 hours
+* L1 (Urgent) - 1 hour (Calendar hours)
+* L2 (High) - 2 hours (Calendar hours)
+* L3 (Normal) - 8 hours (Business hours) 
+* L4 (Low) - 24 hours (Business hours)
 
 **E20**
 
-* L1 (Urgent) - 4 hours
-* L2 (High) - 8 hours
-* L3 (Normal) - 24 hours
-* L4 (Low) - next business day
+* L1 (Urgent) - 4 hours (Calendar hours)
+* L2 (High) - 8 hours (Calendar hours)
+* L3 (Normal) - 24 hours (Business hours)
+* L4 (Low) - 48 hours (Business hours)
 
 **Next Reply Time - Premium and E20 only**
 
 **Premium**
 
-* L1 (Urgent) - 2 hours
-* L2 (High) - 4 hours
-* L3 (Normal) - 24 hours
-* L4 (Low) - 24 hours
+* L1 (Urgent) - 2 hours (Calendar hours)
+* L2 (High) - 4 hours (Calendar hours)
+* L3 (Normal) - 24 hours (Business hours)
+* L4 (Low) - 24 hours (Business hours)
 
 **E20**
 
-* L1 (Normal) - 4 hours
-* L2 (High) - 8 hours
-* L3 (Normal) - 24 hours
-* L4 (Low) - 24 hours
+* L1 (Urgent) - 4 hours (Calendar hours)
+* L2 (High) - 8 hours (Calendar hours)
+* L3 (Normal) - 24 hours (Business hours)
+* L4 (Low) - 24 hours (Business hours)
+
+**Regular Updates - Premium and E20 only**
+
+**Premium**
+
+* L1 (Urgent) - 4 hours (Calendar hours)
+* L2 (High) - 8 hours (Calendar hours)
+* L3 (Normal) - 48 hours (Business hours)
+* L4 (Low) - 48 hours (Business hours)
+
+**E20**
+
+* L1 (Urgent) - 8 hours (Calendar hours)
+* L2 (High) - 16 hours (Calendar hours)
+* L3 (Normal) - 48 hours (Business hours)
+* L4 (Low) - 48 hours (Business hours)
 
 **CSAT**
 
