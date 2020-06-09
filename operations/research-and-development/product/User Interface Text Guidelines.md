@@ -157,7 +157,7 @@ dialog boxes, labels, and prompts.
 <tbody>
 <tr class="odd">
 <td>Menu</td>
-<td>![](../../../.gitbook/assets/menuimage)</td>
+<td>![](../../../.gitbook/assets/menuimage.png)</td>
 <td>Headline style</td>
 <td><ul>
 <li>Noun, noun phrase, or verb</li>
