@@ -1,4 +1,4 @@
-**Offboarding Instructions for Managers**
+# Offboarding Instructions for Managers
 
 Forward resignation letter/email to MLT member and HR hr@mattermost.com. The resignation letter/email will be stored in Bamboo. 
 A resignation letter/email is required from departing staff. In most cases and depending upon the statutory requirements in the staff member’s country/region, a minimum of two weeks' notice is required for voluntary departures. 

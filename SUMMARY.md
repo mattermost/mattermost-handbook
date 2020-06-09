@@ -138,6 +138,7 @@
       * [Formal Review Process](operations/workplace/people/performance-reviews-50/formal-review-process.md)
       * [New Staff Performance Review](operations/workplace/people/performance-reviews-50/new-staff-performance-review.md)
       * [Informal Review Process](operations/workplace/people/performance-reviews-50/informal-review-process.md)
+    * [Offboarding Instructions for Managers](operations/workplace/people/offboarding.md)
   * [Groups](operations/workplace/groups.md)
   * [Approvals and Iteration](operations/workplace/approvals-and-iteration.md)
 
