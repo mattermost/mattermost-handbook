@@ -19,7 +19,7 @@ The Mattermost logo is available is vertical, horizontal and logomark-only versi
 
 **Horizontal Logo:** Min size 100x16px
 
-![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logos-horizontal%20%281%29.png)
+![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logos-horizontal.png)
 
 **Vertical Logo:** Min size 70x39px
 
@@ -27,7 +27,7 @@ The Mattermost logo is available is vertical, horizontal and logomark-only versi
 
 **Logomark:** Min size 16x16px
 
-![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logos-logomarks%20%281%29.png)
+![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logos-logomarks.png)
 
 ### Usage Guidelines
 
@@ -77,7 +77,7 @@ Below is a sample of the core colours we've been using in the latest branding in
 
 The main typefaces used are [Metropolis](https://github.com/chrismsimpson/Metropolis) and [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro). Metropolis is primarily used for section headings and titles. Source Sans Pro is used for body and description texts.
 
-![](https://github.com/mattermost/mattermost-handbook/tree/d3ccaf59e4a88d7f97e12fc567f53e8b6926c5ae/.gitbook/assets/brand-and-visual-design-guidelines-type-sample.png)
+![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-type-sample.png)
 
 For the full set of typography guidelines specific to the website visit the [Mattermost.com Styleguide](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb-colors)
 
@@ -87,7 +87,7 @@ Product-specific typography guidelines coming soon…
 
 Powerpoint and Google Slides Templates coming soon…
 
-![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-presentation-sample-slides%20%281%29.png)
+![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-presentation-sample-slides.png)
 
 ## Website Guidelines
 
