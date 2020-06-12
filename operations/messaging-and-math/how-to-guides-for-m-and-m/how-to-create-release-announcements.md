@@ -16,11 +16,11 @@ description: 50% Draft
 ### A. \(T-minus 20 working days\) Blog Post Outline
 
 * Release Manager prepares bullet points and release headline for release announcement
-* Release Manager reviews the outline \(benefits and order of features\) with PMs before sending to Justin to work on
-  * Ask PMs to share specs or other details on why the features we are shipping were built, so that it is easier for marketing to identify which 1-2 features are highlighted in the title
+* Release Manager reviews the outline \(benefits and order of features\) with PMs
+  * Ask PMs to share specs or other details on why the features we are shipping were built, so that it is easier to identify which 1-2 features are highlighted in the title
   * Do not include plugins that haven't been added to the Plugin Marketplace by code complete deadline to avoid cutting those plugins from the blog post draft in the last minute if any development issues arise
 * Release Manager and PMs decide which sections of the release announcement will have an accompanying screenshot/photo
-* Release Manager leads the team to arrive at a decision on the theme / main highlight for the blog post. Consult with marketing and PM leads for final approval
+* Release Manager leads PMs to arrive at a decision on the theme / main highlight for the blog post
   * Take into consideration whether a feature is highly requested, what is the overall impact of all marketed features, and whether a feature is at risk of being cut
 
 ### B. \(T-minus 11 working days\) First Draft
@@ -48,15 +48,14 @@ description: 50% Draft
 
 The Release Manager \(Amy Blais\) owns the release announcement, including the following checklist items unless otherwise indicated:
 
-1. **Exciting title**
+1. **Exciting headline and subtitle**
    1. Focus on the System Admin for Mattermost deciding whether to upgrade or buy E20 to empower end users (customer focus)
    2. Clear headline stating the purpose, e.g., "launching X", "ending support for Y", "announcing Z"
-   3. Lead with the most exciting/impactful new feature
-   4. Summarize the whole release, not just one or two main features
+   3. Subtitle summarizes the whole release, not just one or two main features. Lead with the most exciting/impactful new feature
 2. **Compelling, specific one-liners**
    1. Introduce features with compelling, concise, specific descriptions
    2. If the feature is a filler for a release, be vague and add it at the end of the blog post, e.g. "Performance improvements to mobile" **\(please avoid when possible\)**
-   3. Beta features should be at the bottom of the list
+   3. Experimental and Beta features should be at the bottom of the list
    4. Lead with verbs \(e.g. "Find most recent messages faster"\)
 3. **Body**
    1. Promote E10 and E20 features by adding `E10` and `E20` labels throughout the blog post for relevant features
@@ -65,22 +64,23 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    3. The audience is primarily focused on admins, then end users
    4. No spelling errors or broken links
    5. Clarify type of release \(feature or quality\) at the bottom of the blog
-   6. MVP winner and security note \(if applicable\) are included
+   6. One or more people on the team put themselves in the shoes of a System Admin responsible for upgrading Mattermost and have read through the announcement out loud, clicked on the links, and feel we've met our [High Standards leadership principle](https://handbook.mattermost.com/company/about-mattermost#leadership-principles)
+4. **Thank-you's and call-to-actions
+   1. 6. MVP winner and security note \(if applicable\) are included
       1. Ask Hanna for an image of the MVP winner's coaster to include in the blog and a tweet
-   7. \(**Author owns\)** All contributors are recognized with a screenshot 
+   2. \(**Marketing owns\)** All contributors are recognized with a screenshot 
       1. Names should not be red-underlined \(if they are, add them to the dictionary prior to taking a screenshot\)
       2. Screenshot not surrounded by a border
       3. Below the screenshot, include a text version of their names in small font with a link to their GitHub handle
-   8. One or more people on the team put themselves in the shoes of a System Admin responsible for upgrading Mattermost and have read through the announcement out loud, clicked on the links, and feel we've met our [High Standards leadership principle](https://handbook.mattermost.com/company/about-mattermost#leadership-principles)
-4. **Screenshots**
+   3. **\(Marketing owns\)** Draft Tweet text for all screenshots and MVP winner included
+      1. Contains version hashtag, e.g. \#mm520
+5. **Screenshots**
    1. [Follows screenshot guidelines](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-screenshots-and-gifs)
    2. Do not use screenshots rated at low quality
       1. **\(Author owns\)** Rate each image High, Medium, Low quality
          1. **High** - Beautiful, highly compelling, grabs attention in a social stream 
          2. **Medium** - Tells a story clearly, readable text, right size 
-         3. **Low** - Bare minimum to call an image 
-   3. **\(Author owns\)** Draft Tweet text for all screenshots and MVP winner included
-      1. Contains version hashtag, e.g. \#mm520
+         3. **Low** - Bare minimum to call an image
 
 ## **Style Guidelines**
 
