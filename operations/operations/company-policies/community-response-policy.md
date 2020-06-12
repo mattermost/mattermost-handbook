@@ -12,24 +12,24 @@ It is then the responsibility of the approved responders to review the issue and
 
 ## Sensitive topics
 
-Below are topics that only approved responders can engage. If you’d like to be an approved responder for one or more of the topics, we welcome the help! [Sign up here](// XX Need a link), and you will be added to the next training session.
+While anyone can escalate a sensitive topic, only approved responders listed below can engage. If you’d like to be an approved responder for one or more of the topics, we welcome the help! Reach out to @jason.blais on community.mattermost.com, and you will be added to the next training session.
 
 1 - Non-regulatory **Privacy/Telemetry** where opinions are at play more than legal or regulatory issues 
-* Approved Responders: Head of Community, Head of PM, CPO, CEO
+* Approved Responders: Head of Community, Lead PM, CPO, CEO
 * Loop in: CEO
 * Template Response: To be added
 
 2 - Product-related **Regulations/GDPR**, and other legal issues
-* Approved Responders: Head of Community, Head of PM, Head of Legal, CPO, CEO
-* Loop in: Head of Legal, Head of PM
+* Approved Responders: Head of Community, Lead PM, Head of Legal, CPO, CEO
+* Loop in: Head of Legal, Lead PM
 * Template Response: To be added
 
 3 - **Licensing**, including open source and commercial license inquiries
-* Approved Responders: Head of Community, Head of PM, CEO
+* Approved Responders: Head of Community, Lead PM, CEO
 * Template Response: To be added
 
 4 - **Packaging**, including requests for making an Enterprise feature free
-* Approved Responders: Head of PM, CPO
+* Approved Responders: Lead PM, CPO
 * Template Response: To be added
 
 5 - **Workplace policies**, including hiring locations
@@ -38,17 +38,17 @@ Below are topics that only approved responders can engage. If you’d like to be
 
 6 - **Security vulnerabilities**
 * Approved Responders: Head of Community, Head of Security, Security PM, VP Eng
-* Loop in:  Head of Security, Security PM, VP Eng
+* Loop in: Head of Security, Security PM, VP Eng
 * Template Response: To be added
 
 7 - **Illicit use**
-* Approved Responders: Head of Community, Head of Marketing, CEO
-* Loop in: Head of Legal, Head of Marketing
+* Approved Responders: Head of Community, VP Marketing, CEO
+* Loop in: Head of Legal, VP Marketing
 * Template Response: To be added
 
 8 - Marketing-related **Regulations/GDPR**, and other legal issues
-* Approved Responders: Head of Community, Head of Marketing, Head of Legal, CEO
-* Loop in: Head of Marketing, Head of Legal 
+* Approved Responders: Head of Community, VP Marketing, Head of Legal, CEO
+* Loop in: VP Marketing, Head of Legal 
 * Template Response: To be added
 
 9 - **Governmental data request**, e.g. US government requesting user/customer data under US jurisdiction
@@ -67,3 +67,19 @@ Anyone in the company is welcome and encouraged to respond, regardless of the me
 In cases where a staff member who is not on the approved responder list engages with a sensitive topic, one of the approved responders will contact the member in Mattermost to remind them of the community response policy, and ask if they would be interested in becoming an approved responder for one or more of the topics.
 
 Please note that we do not want to discourage you from engaging with the community! If you ever have questions about whether a topic is considered sensitive, ask in the “Community Escalations” channel or ask 1-1 from the Head of Community.
+
+### Roles
+
+Below is the list of members mapped to each role mentioned as an approved responder:
+
+* CEO: Ian Tien
+* CPO: Chandar Venkatamaran
+* VP Eng: Chris Overton
+* VP Finance: Aneal Vallurupalli
+* VP Marketing: Ken Olofsen
+* Director of HR: Natalie Jew
+* Lead PM: Lindsay Brock, Katie Wiersgalla
+* Head of Legal: Aneal Vallurupalli
+* Head of Security: Daniel Schalla
+* Head of Community: Jason Blais
+* Security PM: Katie Wiersgalla
