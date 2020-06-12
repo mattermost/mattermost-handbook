@@ -38,11 +38,6 @@ description: 50% Draft
 
 * Head of PM reviews the blog draft
 
-### E. \(T-minus 5 working days\) CEO Review
-
-* 24 hours prior to CEO review, Release Manager posts the blog draft in the Marketing channel with a hashtag \(e.g. `#mm520`\) to make finding the blog draft easier
-   * In the summary post, include the names of reviewers and the average score given by previous reviewers for the title and the one-liners 
-
 ### F. \(T-minus 2 working days\) Set Up Blog Post in Wordpress
 
 * Author sets up the blog post in Wordpress and asks Release Manager and Marketing to review
@@ -149,12 +144,3 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 </tr>
 </tbody>
 </table>
-
-## One great screenshot a month
-
-1. Each monthly release R&D should aspire to come up with a "Hero" screenshot following guidelines to use as the splash image for the release.
-2. Communicate primary benefit in the title
-3. Keep the title short, use sentence case, and ensure there are no orphans or widows
-4. If a screenshot isn't available to highlight in the release use a conceptual banner based on [R&D Twitter Banner Template](https://community.mattermost.com/files/6bc4cot5xbyi8cfxesgyx6aqdw/public?h=HKLm3FZvOvpylxVk7mUYmeaBQ_rFV_JCEAZ2w5z9fg4) \(shown below\)
-
-[Example of tweet using banner template](https://twitter.com/iantien/status/1217457762772238336)
