@@ -12,7 +12,7 @@ Confirm Communication Plan with HR:
 - Confirm whether a backfill is required. HR will reach out to the Recruitment team to kick off discussions about a backfill. 
 - The Team Admin will arrange for the return of company equipment. 
 
-Complete the [Manager Offboarding Checklist](https://docs.google.com/forms/d/1xjLBIuhuy-S6BciNJBTxmWKRbdslPzlrwh7n1T7geQk/edit) to communicate to Security & Biz Ops:
+Complete the [Manager Offboarding Checklist](https://docs.google.com/forms/d/e/1FAIpQLSewceUYNUG10fxDX8X7ucjeESE49R2mkHrzHFBXmKz01vZK-A/viewform) to communicate to Security & Biz Ops:
 - Systems that need to be deprovisioned.
 - Confirm whether emails need to be forwarded to the member/selected team member for a period following staff member’s departure.
 - Confirm if any company-owned files in Gdrive that need to be transferred to you.
