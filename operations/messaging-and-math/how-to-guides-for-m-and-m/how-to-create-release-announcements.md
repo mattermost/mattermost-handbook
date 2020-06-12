@@ -65,7 +65,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    4. No spelling errors or broken links
    5. Clarify type of release \(feature or quality\) at the bottom of the blog
    6. One or more people on the team put themselves in the shoes of a System Admin responsible for upgrading Mattermost and have read through the announcement out loud, clicked on the links, and feel we've met our [High Standards leadership principle](https://handbook.mattermost.com/company/about-mattermost#leadership-principles)
-4. **Thank-you's and call-to-actions
+4. **Thank-you's and call-to-actions**
    1. 6. MVP winner and security note \(if applicable\) are included
       1. Ask Hanna for an image of the MVP winner's coaster to include in the blog and a tweet
    2. \(**Marketing owns\)** All contributors are recognized with a screenshot 
