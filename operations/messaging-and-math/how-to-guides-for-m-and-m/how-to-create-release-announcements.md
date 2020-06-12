@@ -55,24 +55,22 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 1. **Exciting title**
    1. Focus on the System Admin for Mattermost deciding whether to upgrade or buy E20 to empower end users (customer focus)
    2. Clear headline stating the purpose, e.g., "launching X", "ending support for Y", "announcing Z"
-   3. Communicate primary benefit
-   4. Lead with the most exciting/impactful new feature
-   5. Highlight at most 2 features
-2. **Compelling, specific one-liners below hero image**
+   3. Lead with the most exciting/impactful new feature
+   4. Summarize the whole release, not just one or two main features
+2. **Compelling, specific one-liners**
    1. Introduce features with compelling, concise, specific descriptions
    2. If the feature is a filler for a release, be vague and add it at the end of the blog post, e.g. "Performance improvements to mobile" **\(please avoid when possible\)**
    3. Beta features should be at the bottom of the list
    4. Lead with verbs \(e.g. "Find most recent messages faster"\)
-   5. Start with benefits, then technical details
 3. **Body**
    1. Promote E10 and E20 features by adding `E10` and `E20` labels throughout the blog post for relevant features
-   2. No spelling errors or broken links
-   3. Clarify type of release \(feature or quality\) in the paragraph that follows feature one-liners
-   4. MVP winner and security note \(if applicable\) are included
-      1. Ask Hanna for an image of the MVP winner's coaster to include in the blog and a tweet
-   5. All features PM team wants to highlight are included
+   2. All features PM team wants to highlight are included
       1. **\(PM team owns\)** Check for technical accuracy and statement of benefits
-   6. The audience is primarily focused on admins, then end users
+   3. The audience is primarily focused on admins, then end users
+   4. No spelling errors or broken links
+   5. Clarify type of release \(feature or quality\) at the bottom of the blog
+   6. MVP winner and security note \(if applicable\) are included
+      1. Ask Hanna for an image of the MVP winner's coaster to include in the blog and a tweet
    7. \(**Author owns\)** All contributors are recognized with a screenshot 
       1. Names should not be red-underlined \(if they are, add them to the dictionary prior to taking a screenshot\)
       2. Screenshot not surrounded by a border
