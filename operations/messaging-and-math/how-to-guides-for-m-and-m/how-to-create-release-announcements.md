@@ -25,18 +25,14 @@ description: 50% Draft
 
 ### B. \(T-minus 11 working days\) First Draft
 
-* Author finishes blog post draft
+* PM leads finish the blog post draft
 * Release manager checks that the guidelines in the Checklist for Review of Draft are met
   * Ask: how would you rate the title? How can we make it 1 score better? Use this method for other parts of the blog draft, inlcuding screenshots
 
-### C. \(T-minus 10 working days\) PM and Marketing Review
+### C. \(T-minus 10 working days\) Head of PM, Sales and Marketing Reviews
 
-* PMs review feature content is technically correct
-* Marketing reviews the blog draft
-
-### D. \(T-minus 7 working days\) Head of PM Review
-
-* Head of PM reviews the blog draft
+* Head of PM starts to review the title, intro and content
+* Sales and Marketing also review the blog draft
 
 ### F. \(T-minus 2 working days\) Set Up Blog Post in Wordpress
 
