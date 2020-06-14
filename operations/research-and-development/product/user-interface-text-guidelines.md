@@ -123,3 +123,144 @@ Bullets should omit periods unless the bullet text is more than one sentence.
 **Button labels**
 
 Button labels should always omit periods or punctuation.
+
+## Guidelines for UI elements
+
+Use this table when writing the text for UI elements such as windows, dialog boxes, labels, and prompts.
+
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 30%" />
+<col style="width: 10%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Element</th>
+<th>Image</th>
+<th>Capitalization</th>
+<th>Phrasing</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Menu</td>
+<td>![](../../../.gitbook/assets/menuimage.png)</td>
+<td>Headline style</td>
+<td><ul>
+<li>Noun, noun phrase, or verb</li>
+<li>No punctuation</li>
+<li>Not more than three words</li>
+<li>Action after clicking is obvious, without needing someone to click to discover</li>
+</ul></td>
+<td><ul>
+<li><em>Members</em></li>
+<li><em>Account Preferences</em></li>
+<li><em>Log Out</em></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Tooltip</td>
+<td>![](../../../.gitbook/assets/tooltipimage.png)</td>
+<td>Sentence style</td>
+<td><ul>
+<li>Sentence fragment or sentence</li>
+<li>No punctuation</li>
+<li>Include articles (<em>a</em>, <em>an</em>, <em>the</em>)</li>
+<li>Keep it short</li>
+</ul></td>
+<td><ul>
+<li><em>Start a Zoom meeting</em></li>
+<li><em>Flag for following up</em></li>
+<li><em>Remove from this list</em></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>In-field text</td>
+<td>![](../../../.gitbook/assets/fieldimage.png)</td>
+<td>Sentence style</td>
+<td><ul>
+<li>Sentence fragment, sentence, or word that's an example of a valid entry</li>
+<li>No punctuation</li>
+<li>Include articles (<em>a</em>, <em>an</em>, <em>the</em>)</li>
+</ul></td>
+<td><ul>
+<li><em>Add a comment</em></li>
+<li><em>Search</em></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Action button</td>
+<td>![](../../../.gitbook/assets/actionimage.png)</td>
+<td>Headline style</td>
+<td><ul>
+<li>Verb or verb phrase</li>
+<li>No longer than 3 words</li>
+<li>No articles (<em>a</em>, <em>an</em>, <em>the</em>)</li>
+<li>Exceptions: <em>OK</em>, <em>Yes</em>, <em>No</em></li>
+</ul></td>
+<td><ul>
+<li><em>Add Comment</em></li>
+<li><em>Edit</em></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Label before a UI element</td>
+<td>![](../../../.gitbook/assets/labelimage.png)</td>
+<td>Sentence style</td>
+<td><ul>
+<li>Noun, verb, or sentence fragment that's the title of the UI element</li>
+<li>End with a colon where it precedes another UI element such as a radio button or check box</li>
+<li>Include articles (<em>a</em>, <em>an</em>, <em>the</em>)</li>
+</ul></td>
+<td><ul>
+<li><em>Sign in with:</em></li>
+<li><em>Other words, separated by commas:</em></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Label after a UI element</td>
+<td>![](../../../.gitbook/assets/label_afterimage.png)</td>
+<td>Sentence style</td>
+<td><ul>
+<li>Noun, verb, or sentence fragment</li>
+<li>No punctuation</li>
+<li>Brief (lengthier explanations belong to help text)</li>
+</ul></td>
+<td><ul>
+<li><em>Channels grouped by type</em></li>
+<li><em>Alphabetically</em></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Help text</td>
+<td>![](../../../.gitbook/assets/helptextimage.png)</td>
+<td>Sentence style</td>
+<td>Complete sentences, with punctuation</td>
+<td><ul>
+<li><em>You can add 20 more people.</em></li>
+<li><em>People are invited automatically to join the channel.</em></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Title</td>
+<td>![](../../../.gitbook/assets/titleimage.png)</td>
+<td>Headline style</td>
+<td><ul>
+<li>Sentence fragment or sentence</li>
+<li>No punctuation</li>
+</ul></td>
+<td><ul>
+<li><em>Notification Preferences for Channel</em></li>
+<li><em>Contributors</em></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+.. [*] For headline style, capitalize all words except those with 3 letters or fewer, articles (*a*, *an*, *the*), prepositions (*on*, *to*, *in*, *from*, *of*), and coordinating conjunctions (*and*, *but*, *or*, *for*). Despite these exceptions, always capitalize the first and last word. For sentence style, capitalize only the first word.
+
+![](../../../.gitbook/assets/uitable2.png)
