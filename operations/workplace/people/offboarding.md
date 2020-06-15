@@ -15,7 +15,7 @@ Confirm Communication Plan with HR:
 Complete the [Manager Offboarding Checklist](https://docs.google.com/forms/d/e/1FAIpQLSewceUYNUG10fxDX8X7ucjeESE49R2mkHrzHFBXmKz01vZK-A/viewform) to communicate to Security & Biz Ops:
 - Systems that need to be deprovisioned.
 - Confirm whether emails need to be forwarded to the member/selected team member for a period following staff member’s departure.
-- Confirm if any company-owned files in Gdrive that need to be transferred to you.
+- Confirm if there are any company-owned files in Gdrive that need to be transferred to you.
 - Review and approve any outstanding expense reports. 
 
 If applicable, communicate to the Finance Team:
