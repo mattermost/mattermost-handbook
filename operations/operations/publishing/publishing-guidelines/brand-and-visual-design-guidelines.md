@@ -113,6 +113,6 @@ Alternatively, community projects may concatenate names containing Mattermost, f
 
 ## Company Short Description
 
-Mattermost is an open source Slack-alternative built for enterprise. Thousands of companies use Mattermost for secure, compliant workplace messaging across web, PC and phones with archiving, search, corporate SSO, and integration with over 700 third-party applications. Available under MIT license in 16 languages, Mattermost offers peace-of-mind, value, control, and freedom from lock-in for organizations around the world.
+Mattermost is an open source Slack-alternative built for enterprise. Thousands of companies use Mattermost for secure, compliant workplace messaging across web, PC, and phones; leveraging archiving, search, corporate SSO, and integration with hundreds of third-party applications. Available under MIT license in 16 languages, Mattermost offers peace of mind, value, control, and freedom from lock-in for organizations around the world. Learn more at https://mattermost.com/.
 
 Learn more at [https://mattermost.com/](https://mattermost.com/).
