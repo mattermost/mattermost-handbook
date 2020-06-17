@@ -79,6 +79,16 @@ For example: "View the status in the Status pane" as opposed to "We’ll view th
 
 An exception is Customer Education content which can be written in first or second person to keep the audience focused and interested.
 
+For example: 
+> While Mattermost provides options to make mobile deployment as easy as possible, it will take time and iteration. 
+>
+>We are here to [support](https://link-to-support-section) you.
+
+as opposed to
+> Deploying the Mattermost Mobile App will take time and iteration.
+
+
+
 **Voice**
 
 Use active voice in preference to passive voice. Active voice has the subject of a sentence doing the action. In passive voice, the subject has an action done to it.
