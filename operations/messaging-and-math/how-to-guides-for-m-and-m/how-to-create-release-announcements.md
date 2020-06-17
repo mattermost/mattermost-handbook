@@ -57,7 +57,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    2. If the feature is a filler for a release, be vague and add it at the end of the blog post, e.g. "Performance improvements to mobile" **\(please avoid when possible\)**
    3. Experimental and Beta features should be at the bottom of the list
    4. Lead with verbs \(e.g. "Find most recent messages faster"\)
-   5. Categorize features under Enterprise and Team Edition headings
+   5. Categorize features under **Enterprise Edition** and **Team Edition** headings
    6. Clarify type of release \(feature or quality\) in the intro paragraph
 3. **Body**
    1. Promote E10 and E20 features by adding `E10 Edition` and `E20 Edition` labels throughout the blog post for relevant features
