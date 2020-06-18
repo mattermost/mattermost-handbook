@@ -1,12 +1,12 @@
 ---
-description: 1% DRAFT. Overview of Marketing department and where to find materials
+description: Overview of Marketing department and where to find materials
 ---
 
 # Messaging and Math
 
 ## Why "Messaging and Math"?
 
-Rather than always call a department "Marketing"--which is an extremely broad term that involves every interaction prospects, customers, our broader [community](../../contributors/contributors/community.md) and the industry has with our brand, product and company--we use the short-hand "Messaging and Math" to refer to the core functions of the department:
+Rather than always call a department "Marketing"--which is a broad term that involves every interaction prospects, customers, our broader [community](../../contributors/contributors/community.md) and the industry has with our brand, product and company--we use "Messaging and Math" to refer to the core functions of the department:
 
 **MESSAGING:** Define and refine the message we send to audiences \(prospects, customers, community and industry\) about our position and value. This work spans product marketing, corporate marketing, brand, PR, AR and corporate communications.
 
@@ -20,18 +20,15 @@ M&M works largely in Mattermost, Asana, and Zoom in North American timezone.
 
 Messaging
 
-* @lauren.nguyen - Product marketing 
-* @adam.gross - Adviser 
 * @lindsay.brock - Product management 
-* @zach.trayner - Website manager 
-  * @josh.day - WayFX website agency
+* @josh.day - WayFX website agency
 * @justin.reynolds - Copywriting
+* @adam.gross - Adviser 
 
 Math
 
-* @leah.liebler - Revenue marketing 
 * @kendall.reicherter - Marketing operations 
-* @amanda.venezia - Events, paid campaigns 
+* @hanna.part - General marketing 
 
 **Cadence**
 
