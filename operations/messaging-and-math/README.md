@@ -28,7 +28,7 @@ Messaging
 Math
 
 * @kendall.reicherter - Marketing operations 
-* @hanna.part - General marketing 
+* @hanna.park - General marketing 
 
 **Cadence**
 
@@ -91,4 +91,3 @@ Weekly check-in to clear tactical issues:
 ### Tools
 
 * M&M runs largely in Asana and Mattermost     DRI for this page: Jason Blais 
-
