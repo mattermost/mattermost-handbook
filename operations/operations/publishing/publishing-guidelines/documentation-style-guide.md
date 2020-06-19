@@ -35,7 +35,7 @@ Clearly name the audience as it can be narrow (System Administrators), but also 
 
 - How will the reader benefit from the guide - what exact knowledge is taught?
 - How long will it take to work through the guide?
-- What similar topics are not covered?
+- What similar topics are not covered in this guide?
 
 ### Table of contents
 
