@@ -6,7 +6,7 @@ description: Overview of Marketing department and where to find materials
 
 ## Why "Messaging and Math"?
 
-Rather than always call a department "Marketing"--which is a broad term that involves every interaction prospects, customers, our broader [community](../../contributors/contributors/community.md) and the industry has with our brand, product and company--we use "Messaging and Math" to refer to the core functions of the department:
+Rather than always call a department "Marketing"--which is a broad term that involves every interaction prospects, customers, our broader [community](../../contributors/contributors/community.md) and the industry has with our brand, product and company - we use "Messaging and Math" to refer to the core functions of the department:
 
 **MESSAGING:** Define and refine the message we send to audiences \(prospects, customers, community and industry\) about our position and value. This work spans product marketing, corporate marketing, brand, PR, AR, and corporate communications.
 
