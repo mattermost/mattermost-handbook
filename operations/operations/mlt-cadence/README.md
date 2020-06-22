@@ -20,7 +20,6 @@ This section outlines:
 * Chandar Venkatamaran: Chief Product Officer
 * Aneal Vallurupalli: VP, Finance
 * Chris Overton: VP, Engineering
-* Ken Olofsen: VP, Marketing
 * Lindsay Brock: Head of Product Management
 
 ## MLT Daily Admin
