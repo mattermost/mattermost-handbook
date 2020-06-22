@@ -8,7 +8,7 @@ Details of what the Support Team provides for our Enterprise Customers can be fo
 ## Where to find us
 
 * Mattermost Channels: [~Customer Support](https://community.mattermost.com/private-core/channels/community) & [~Support Standup](https://community.mattermost.com/private-core/channels/support-standup)
-* Enterprise Support Team Email: (support@mattermost.com)[https://mail.google.com/mail/?view=cm&fs=1&to=support@mattermost.com]
+* Enterprise Support Team Email: [support@mattermost.com](https://mail.google.com/mail/?view=cm&fs=1&to=support@mattermost.com)
 * Customer Support Portal: https://support.mattermost.com
 
 ## Mattermost ticketing system 
