@@ -25,7 +25,7 @@ description: 50% complete
   * Omitted: This deal is Closed Lost.
 
 * Forecast Process. The following are the steps followed in the weekly forecast calls with Sales Managers:
-  * In attendance: Sales Manager, John Thompson, Melissa, Ian, Schiff, and appropriate CSM(s)
+  * In attendance: Sales Manager, Ian, Schiff, and appropriate CSM(s)
   * The Sales Manager drives the call.
   * It is driven off the Sales (Choose Segment) dashboard.
   * New New (New and Expansion) business
