@@ -47,8 +47,6 @@ Candidate meets leadership team in 1-1s to mutually assess potential to work tog
 
 * VP Eng, [Chris Overton](https://www.linkedin.com/in/chris-overton-62b235/), is in Johnson City, Tennessee
 * CTO, [Corey Hulen](https://www.linkedin.com/in/coreyhulen/), is in the Seattle, Washington area
-* VP Marketing, [Ken Olofsen](https://www.linkedin.com/in/kolofsen/), is in Oakland, California 
-* VP Sales, [Alexis Schmidt](https://www.linkedin.com/in/alexis-schmidt-4819281/), is in Hillsborough, California 
 * VP Finance, [Aneal Vallurupalli](https://www.linkedin.com/in/aneal-vallurupalli-4b573a38/), is in San Francisco, California 
 * CEO, [Ian Tien](https://www.linkedin.com/in/iantien/), is in Palo Alto, California 
 

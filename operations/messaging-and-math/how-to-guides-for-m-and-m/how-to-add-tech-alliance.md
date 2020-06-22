@@ -10,7 +10,7 @@
 
 2. Sales Ops reviews the information, and either contacts the partner for additional details or forwards the information to Marketing: 
 
- - Sales Ops contacts: Melissa Warner, Elaine Yue
- - Marketing contact: Lauren Nguyen
+ - Sales Ops contacts: Elaine Yue
+ - Marketing contact: TBD
 
 3. Marketing team creates an Asana task [in the Web Dev Asana board](https://app.asana.com/0/1118355038043647/board) and adds the partner information to https://mattermost.com/partners/. 

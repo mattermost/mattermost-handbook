@@ -13,7 +13,7 @@ description: >-
   * Onboarding and Offboarding a user
   * Requesting a new feature that isn't for Sales or CS
   * Reporting an issue
-* Sales related: @melissa.warner @elaine.yue 
+* Sales related: @elaine.yue
   * Lead management
   * Opportunity Pipeline management
   * Forecasting
