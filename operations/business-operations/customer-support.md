@@ -4,14 +4,11 @@ The team is based across three continents to ensure a follow-the-sun approach to
 
 Details of what the Support Team provides for our Enterprise Customers can be found [here](https://mattermost.com/support/), this includes our support options and SLAs.
 
-## Meet the team
-
-![](../../.gitbook/assets/Support-team-image-for-handbook.png)
 
 ## Where to find us
 
-* Mattermost Channels: Customer Support, Support Standup
-* Enterprise Support Team Email: support@mattermost.com
+* Mattermost Channels: [~Customer Support](https://community.mattermost.com/private-core/channels/community) & [~Support Standup](https://community.mattermost.com/private-core/channels/support-standup)
+* Enterprise Support Team Email: (support@mattermost.com)[https://mail.google.com/mail/?view=cm&fs=1&to=support@mattermost.com]
 * Customer Support Portal: https://support.mattermost.com
 
 ## Mattermost ticketing system 
