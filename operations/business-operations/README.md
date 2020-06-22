@@ -2,8 +2,9 @@
 
 Where to find us:
 
-* Mattermost: BizOps, Analytics
-* Email: bizops@mattermost.com
+* Mattermost: [~BizOps](https://community.mattermost.com/private-core/channels/bizops
+) & [~Analytics](https://community.mattermost.com/private-core/channels/analytics-2)
+* Email: [bizops@mattermost.com](https://mail.google.com/mail/?view=cm&fs=1&to=bizops@mattermost.com)
 
 ![](../../.gitbook/assets/bizops_image.png)
 
