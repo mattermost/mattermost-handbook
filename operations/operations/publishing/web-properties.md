@@ -12,8 +12,8 @@ Below is a summary of our public web properties, including their target content,
 | TBD | Technical articles, guides, videos, and courses | Exploring Hugo with Markdown\*\* | [Jason Blais](http://github.com/jasonblais) | [Sebastian Faase](https://github.com/faase) |
 | TBD | Contributor documentation and relevant community communications | Exploring Hugo with Markdown\*\* | [Joram Wilander](http://github.com/jwilander) | [Joram Wilander](http://github.com/jwilander) |
 | TBD | Self-service support content, including knowledge-based FAQs | TBD | Michael Schiff | Michael Schiff |
-| handbook.mattermost.com | Internal processes for company operations and recruiting | GitBook with Markdown | [Hilary Clarke](https://github.com/hilaryclarke) | [Justine Geffen](http://github.com/justinegeffen) and [Amy Blais](http://github.com/amyblais) |
-| mattermost.com | Commercial site, including blogs, product offerings, customer case studies, and more | Wordpress | Zach Trayner | Lauren Nguyen |
+| handbook.mattermost.com | Internal processes for company operations and recruiting | GitBook with Markdown | [Jason Blais](http://github.com/jasonblais), [Justine Geffen](http://github.com/justinegeffen) and [Amy Blais](http://github.com/amyblais) | [Jason Blais](http://github.com/jasonblais), [Justine Geffen](http://github.com/justinegeffen) and [Amy Blais](http://github.com/amyblais) |
+| mattermost.com | Commercial site, including blogs, product offerings, customer case studies, and more | Wordpress | TBD | TBD |
 
 \*\* We are exploring Hugo as the system of choice for documentation sites, given it supports advanced search, Markdown language, and a GitHub review process to ensure consistent quality across the site [https://github.com/mattermost/mattermost-documentation](https://github.com/mattermost/mattermost-documentation).
 
@@ -72,11 +72,11 @@ A sample architecture for contributors may look like:
 * Platform and Solution Development, including content in [https://developers.mattermost.com](https://developers.mattermost.com)
 * Translations
 * Documentation
-* etc. 
+* etc.
 
 ### .../support
 
-No information architecture is yet defined, but in general it will consist of
+No information architecture is yet defined, but in general it will consist of:
 
 * Support Resources \(including peer-to-peer forums\)
 * Knowledge Base FAQs
@@ -91,4 +91,3 @@ The Mattermost website is developed with the following architecture:
 * Case Studies
 * Resources, including training and blog
 * Docs, including installation and configuration
-
