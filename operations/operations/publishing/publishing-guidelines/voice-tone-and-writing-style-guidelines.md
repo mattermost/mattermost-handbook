@@ -1,6 +1,6 @@
-# Voice, Tone and Writing Style Guidelines
+# Voice, Tone, and Writing Style Guidelines
 
-Below is a start of voice, tone and writing style guidelines for public web properties. This is a work in progress, to be iterated on. Some of the content in this document is borrowed from the [Mattermost Editorial Style Guide](https://docs.google.com/document/d/1XWjtWdF77qKdxDso_-aC_S1c3E0ohOoxCRL_PIf3pco/edit#), which is managed by the Marketing team.
+Below is a start of voice, tone, and writing style guidelines for public web properties. This is a work in progress, to be iterated on. Some of the content in this document is borrowed from the [Mattermost Editorial Style Guide](https://docs.google.com/document/d/1XWjtWdF77qKdxDso_-aC_S1c3E0ohOoxCRL_PIf3pco/edit#), which is managed by the Marketing team.
 
 Some of the recommendations across the documents, such as punctuating lists and heading capitalization are not currently aligned but will be iterated on for alignment across all web properties.
 
@@ -53,44 +53,10 @@ The Mattermost voice remains the same, even when the tone varies.
 
 ## Writing style
 
-**Language**
+Visit our [Documentation Style Guide](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/documentation-style-guide) for information and examples.
 
-Write documents in English. Use American spelling, and avoid constructs where you are forced to write either *he* or *she*, or *his* or *her*. You can use *they* or *their* as singular forms instead.
-
-**Numbers**
-
-Spell out numbers when the number is the first word in a sentence or is less than or equal to ten, otherwise use numeric digits. Use commas to make long number strings easier to read.
-
-**Punctuation: Commas**
-
-We use the Oxford \(serial\) comma in our documentation. For example: "Mattermost's writing style is clear, concise, and simple" as opposed to "Mattermost's writing style is clear, concise and simple"\).
-
-**Capitalization**
-
-Use sentence case for page titles, headings, and section titles \(e.g. "Writing guidelines for editors"\).
-
-Visit our [Documentation Style Guide](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/documentation-style-guide) for more information.
-
-**Person**
-
-Use the second person and avoid the first person.
-
-For example: "View the status in the Status pane" as opposed to "We’ll view the status in the Status pane".
-
-**Voice**
-
-Use active voice in preference to passive voice. Active voice has the subject of a sentence doing the action. In passive voice, the subject has an action done to it.
-
-For example: "The system opens the Status pane" as opposed to: "The Status pane will be opened by the system".
-
-**Tense**
-
-Use the present tense.
-
-For example: "Sharing this link lets other users view the linked message" as opposed to "Sharing this link will let other users view the linked message".
-
-## More Information
+## More information
 
 These guidelines were inspired by [Stripe's knowledge base content](https://document360.io/blog/tear-down-of-stripe-knowledge-base/) and [by other sites shared in this Document360 article](https://document360.io/blog/10-knowledge-base-software-best-practice-examples/).
 
-[Learn more about recommendations, analysis and next steps.](https://docs.google.com/document/d/1LNAgmKKtmRN1T7UCvOgcUbGiFfk8UXqcmCgF80-sVyQ)
+[Learn more about recommendations, analysis, and next steps](https://docs.google.com/document/d/1LNAgmKKtmRN1T7UCvOgcUbGiFfk8UXqcmCgF80-sVyQ).
