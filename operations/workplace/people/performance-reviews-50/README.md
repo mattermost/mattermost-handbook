@@ -49,7 +49,7 @@ All Staff will take part in the Annual Winter Performance Review Process. R&D wi
 
 # R&D Mid-Year Performance Review 2020 - Timeline & Forms
 
-* R&D Mid-Year Performance Review 2020 - Timeline
+* [R&D Mid-Year Performance Review 2020 - Timeline](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50/midyear-performance-review-timeline-2020)
 * [Peer Review Survey](https://www.surveymonkey.com/r/3GJPBYH) - Sent via Survey Monkey
 * [Self-Assessment Template](https://drive.google.com/drive/u/0/folders/1qfgm6zfu5paP1j80CWHjEb3s0kHQi-rd) - Sent via BambooHR
 * [Performance Evaluation - Manager's Template](https://drive.google.com/drive/u/0/folders/1qfgm6zfu5paP1j80CWHjEb3s0kHQi-rd) - Sent via BambooHR
