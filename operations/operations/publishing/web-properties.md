@@ -13,7 +13,7 @@ Below is a summary of our public web properties, including their target content,
 | TBD | Contributor documentation and relevant community communications | Exploring Hugo with Markdown\*\* | [Joram Wilander](http://github.com/jwilander) | [Joram Wilander](http://github.com/jwilander) |
 | TBD | Self-service support content, including knowledge-based FAQs | TBD | Michael Schiff | Michael Schiff |
 | handbook.mattermost.com | Internal processes for company operations and recruiting | GitBook with Markdown | [Jason Blais](http://github.com/jasonblais) | [Justine Geffen](http://github.com/justinegeffen) and [Amy Blais](http://github.com/amyblais) |
-| mattermost.com | Commercial site, including blogs, product offerings, customer case studies, and more | Wordpress | [Hanna Parks](https://github.com/hannaparks) | [Asaad Mahmood](https://github.com/asaadmahmood) |
+| mattermost.com | Commercial site, including blogs, product offerings, customer case studies, and more | Wordpress | [Hanna Park](https://github.com/hannaparks) | [Asaad Mahmood](https://github.com/asaadmahmood) |
 
 \*\* We are exploring Hugo as the system of choice for documentation sites, given it supports advanced search, Markdown language, and a GitHub review process to ensure consistent quality across the site [https://github.com/mattermost/mattermost-documentation](https://github.com/mattermost/mattermost-documentation).
 
