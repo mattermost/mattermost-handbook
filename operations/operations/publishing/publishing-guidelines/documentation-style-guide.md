@@ -47,6 +47,39 @@ navigate the document. The table of contents should be added below the abstract.
 Each page should have an introduction that acts as a short description of the document. The short description
 should be a single paragraph of no more than three sentences. 
 
+## Writing style
+
+### Language
+
+Write documents in English. Use American spelling, and avoid constructs where you are forced to write either *he* or *she*, or *his* or *her*. You can use *they* or *their* as singular forms instead.
+
+### Numbers
+
+Spell out numbers when the number is the first word in a sentence or is less than or equal to ten (i.e. one to nine), otherwise use numeric digits (i.e., 10 upwards). Use commas to make long number strings easier to read.
+
+### Commas
+
+We use the Oxford \(serial\) comma in our documentation. For example: "Mattermost's writing style is clear, concise, and simple" as opposed to "Mattermost's writing style is clear, concise and simple"\).
+
+### Person
+
+Use the second person and avoid the first person.
+
+For example: "View the status in the Status pane" as opposed to "We’ll view the status in the Status pane".
+
+### Voice
+
+Use active voice in preference to passive voice. Active voice has the subject of a sentence doing the action. In passive voice, the subject has an action done to it.
+
+For example: "The system opens the Status pane" as opposed to: "The Status pane will be opened by the system".
+
+### Tense
+
+Use the present tense.
+
+For example: "Sharing this link lets other users view the linked message" as opposed to "Sharing this link will let other users view the linked message".
+
+
 ## Using ReStructuredText markup (rst)
 
 The reStructuredText specification allows for a certain degree of flexibility in 
@@ -269,5 +302,4 @@ The following example is a block of Go code.
 
 ## Using Markdown
 
-The Mattermost Handbook is written in Markdown, and you can read more about using Markdown 
-in the [Formatting Text](https://docs.mattermost.com/help/messaging/formatting-text.html) section of the User's Guide.
+The Mattermost Handbook is written in Markdown, and you can read more about using Markdown in the [Formatting Text](https://docs.mattermost.com/help/messaging/formatting-text.html) section of the User's Guide.
