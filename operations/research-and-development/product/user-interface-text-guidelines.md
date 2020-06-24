@@ -2,7 +2,7 @@
 
 ## UX Writing Principles
 
-Following the Writing Guidelines below will ensure communications to our users feel like they are coming from the same voice.
+Following these guidelines ensures that in-product communication to our users has the the same, consistent, voice.
 
 **Concise**
 
