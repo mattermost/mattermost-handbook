@@ -408,4 +408,4 @@ Deactivating a user in Mattermost will result in MAU decreasing, as deactivated 
 
 **Enterprise Trial Requests**
 
-* Number of trial license requests via [https://mattermost.com/trial](https://mattermost.com/trial) from Named Accounts or Enterprises with 5,000+ employees, in America, EMEA, Australia or Japan.
+* Number of trial license requests via [https://mattermost.com/trial](https://mattermost.com/trial) from Named Accounts or Enterprises with 5,000+ employees, in America, EMEA, Australia, or Japan.
