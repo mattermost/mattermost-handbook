@@ -41,7 +41,7 @@ If a system message contains variables (tokens):
 - Don't create plurals of variables by adding an "s".
 - If the variable is a noun, use a qualifier after the variable. For example, say **The {channel_name} channel was created** rather than **The {channel_name} was created**.
 
-System messages can be of the following types: **notification**, **confirmation**, **warning**, and **error**. The following sections contain guidelines that are specific to each of these types.
+System messages can be one of the following types: **notification**, **confirmation**, **warning**, and **error**. The following sections contain guidelines that are specific to each of these types.
 
 ### Notification messages
 
