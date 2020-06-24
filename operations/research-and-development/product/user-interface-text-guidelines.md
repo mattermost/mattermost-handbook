@@ -6,11 +6,11 @@ Following these guidelines ensures that in-product communication to our users ha
 
 **Concise**
 
-Use short words and sentences. Avoid unnecessary fluff.
+Use short words and sentences.
 
 **Clear**
 
-Always write for clarity and simplicity. Err on the side of simple language that can be understood by novice users and avoid vague terms.
+Always write for clarity and simplicity. Err on the side of simple language that can be understood by novice users, and avoid vague terms and jargon.
 
 **Consistent**
 
@@ -28,24 +28,24 @@ These guidelines cover two types of UI text:
 - Use the present tense to describe a current state or condition, and the future tense to state something that is very definitely going to happen.
 - Use the active voice, except for these cases:
   - If you’ll end up blaming the user. For example, don’t say **You entered an incorrect password**. Instead, say **The password is incorrect**.
-  - If you’re describing what just happened. For example, it’s okay to say **Your incoming webhook is set up**.
-  - If the subject (the doer of an action) is the Mattermost application itself. For example, it’s okay to say **The image is deleted** instead of **The server deleted the image**.
-- If you’re asking the user to do or not do something, use imperatives (command phrases). For example, say **Do not change the Hostname** instead of saying **It is not recommended to change the Hostname**. Better still, explain what could go wrong if they do or don’t do something. For example, say **Do not change the Hostname because if you do so <this bad thing will happen>**.
+  - If you’re describing what just happened. For example: **Your incoming webhook is set up**.
+  - If the subject (the doer of an action) is the Mattermost application itself. For example: **The image has been deleted** instead of **The server deleted the image**.
+- If you’re asking the user to do or not do something, use imperatives (command phrases). For example, use **Don't change the Hostname** instead of **It's not recommended to change the Hostname**. Better still, explain what could go wrong if they do or don’t do something. For example: **Don't change the Hostname because doing so <could cause this bad thing will happen>**.
 
 ### Guidelines for system messages
 
-Don’t blame the user. Inform them about what happened, explain why it happened, and suggest a way forward. Try to use complete sentences in your messages. A sentence phrase (an incomplete sentence) might sound okay in English but could present internationalization challenges.
+Don’t blame the user. Inform them about what happened, explain why it happened, and suggest a way forward. Try to use complete sentences in your messages. A sentence phrase (an incomplete sentence) might make sense in English but could present internationalization challenges.
 
-If a System Message contains variables (tokens):
-- Do not use verbs or adjectives as variables.
-- Do not create plurals of variables by adding an s.
-- If the variable is a noun, use a qualifier after the variable. For example, say **The {channel_name} channel was created** instead of saying **The {channel_name} was created**.
+If a system message contains variables (tokens):
+- Don't use verbs or adjectives as variables.
+- Don't create plurals of variables by adding an "s".
+- If the variable is a noun, use a qualifier after the variable. For example, say **The {channel_name} channel was created** rather than **The {channel_name} was created**.
 
-System Messages can be of the following types: **notification**, **confirmation**, **warning**, and **error**. The following sections contain guidelines that are specific to each of these types.
+System messages can be of the following types: **notification**, **confirmation**, **warning**, and **error**. The following sections contain guidelines that are specific to each of these types.
 
 ### Notification messages
 
-A notification message is for informing somebody about something that happened. Such messages do not need any user input, and do not prevent a user from continuing to use Mattermost.
+A notification message informs the user about an event or action that took place. These messages don't need any user input, and don't prevent the user from continuing to use Mattermost.
 
 - Use either a complete sentence or a sentence phrase.
 - If using a complete sentence, end it with a period.
@@ -55,7 +55,7 @@ A notification message is for informing somebody about something that happened. 
 
 ### Confirmation messages
 
-A confirmation message is for asking somebody to confirm whether the immediately preceding command should be proceeded with. The user cannot use Mattermost until a confirmation is given or denied.
+A confirmation message requires user input to confirm that they want to proceed with the action. Confirmation must be provided (either to continue or cancel) before the user can continue to use Mattermost.
 
 - Use complete sentences.
 - Include a question that has a Yes/No answer.
@@ -65,24 +65,24 @@ A confirmation message is for asking somebody to confirm whether the immediately
 
 ### Warning messages
 
-A warning message is for alerting somebody about something that might go wrong. The user can continue using Mattermost unless the warning message needs an explicit user input.
+A warning message alerts the user that something that might go wrong. They can continue using Mattermost unless the warning message needs user input.
 
 - Use complete sentences.
-- Explain what has happened or can happen, and what can go wrong as a consequence.
+- Explain what has happened, or can happen, and what may go wrong as a result.
 - Examples:
-  - **The Enterprise license expires in 2 days. If you do not renew it, some features will be disabled on licence expiry.**
-  - **If you claim this AD/LDAP account, you will no longer be able to log in with your email.**
+  - **The Enterprise license expires in 2 days. If it's not renewed, some features will be disabled on license expiry.**
+  - **If you claim this AD/LDAP account, you won't be able to log in with your email address.**
 
 ### Error messages
 
-An error message is for telling somebody that something went wrong. Errors prevent a user from doing a task or accessing a feature till the error is resolved.
+An error message informs the user that something went wrong. Errors prevent the user from completing a task or accessing a feature until the error is resolved.
 
 - Use complete sentences.
 - If what went wrong isn’t obvious, explain in one sentence.
 - If a solution or workaround isn’t obvious, suggest one.
 - Examples:
   - **Messages must have fewer than 120 characters.**
-  - **A connection to the marketplace server could not be established. Check your settings on the [System Console](<hyperlink>)**. 
+  - **A connection to the Plugin Marketplace server could not be established. Check your settings in the [System Console](<hyperlink>)**. 
   
 ## Button labels and links
 
@@ -100,29 +100,29 @@ Input labels should be as short and concise as possible and describe the input f
 
 **Titles** 
 
-Titles should use Sentence case. Exceptions would be when proper nouns are being used.
+Titles should use sentence case (e.g. **This article is about user interface content**) with the exception of proper nouns (e.g. **This article is about Mattermost**).
 
-**Button labels, input labels and navigation labels** 
+**Button labels, input labels, and navigation labels** 
 
-These labels should use Sentence case. Exceptions would be when proper nouns are being used.
+These labels should use sentence case. (e.g. **This article is about user interface content**) with the exception of proper nouns (e.g. **This article is about Mattermost**).
 
 ### Punctuation
 
 **Titles**
 
-Titles should omit periods unless the headline is more than one sentence.
+Titles shouldn't have periods unless the headline is more than one sentence.
 
 **Paragraphs**
 
-Paragraphs should always use proper punctuation.
+Paragraphs should always be properly punctuated.
 
 **Bullets**
 
-Bullets should omit periods unless the bullet text is more than one sentence.
+Bullets lists shouldn't have periods unless the bullet text is more than one sentence.
 
 **Button labels**
 
-Button labels should always omit periods or punctuation.
+Button labels shouldn't have periods or other punctuation.
 
 ## Guidelines for UI elements
 
@@ -164,7 +164,7 @@ Use this table when writing the text for UI elements such as windows, dialog box
 </tr>
 <tr class="even">
 <td>Tooltip</td>
-<td>![](../../../.gitbook/assets/tooltipimage.png)</td>
+<td>![](../../../.gitbook/assets/Tooltipimage.png)</td>
 <td>Sentence style</td>
 <td><ul>
 <li>Sentence fragment or sentence</li>
@@ -198,7 +198,7 @@ Use this table when writing the text for UI elements such as windows, dialog box
 <td>Headline style</td>
 <td><ul>
 <li>Verb or verb phrase</li>
-<li>No longer than 3 words</li>
+<li>No longer than three words</li>
 <li>No articles (<em>a</em>, <em>an</em>, <em>the</em>)</li>
 <li>Exceptions: <em>OK</em>, <em>Yes</em>, <em>No</em></li>
 </ul></td>
@@ -228,7 +228,7 @@ Use this table when writing the text for UI elements such as windows, dialog box
 <td><ul>
 <li>Noun, verb, or sentence fragment</li>
 <li>No punctuation</li>
-<li>Brief (lengthier explanations belong to help text)</li>
+<li>Brief (longer explanations belong to help text)</li>
 </ul></td>
 <td><ul>
 <li><em>Channels grouped by type</em></li>
@@ -261,6 +261,6 @@ Use this table when writing the text for UI elements such as windows, dialog box
 </tbody>
 </table>
 
-.. [*] For headline style, capitalize all words except those with 3 letters or fewer, articles (*a*, *an*, *the*), prepositions (*on*, *to*, *in*, *from*, *of*), and coordinating conjunctions (*and*, *but*, *or*, *for*). Despite these exceptions, always capitalize the first and last word. For sentence style, capitalize only the first word.
+.. [*] For headline style, capitalize all words except those with three letters or fewer, articles (*a*, *an*, *the*), prepositions (*on*, *to*, *in*, *from*, *of*), and coordinating conjunctions (*and*, *but*, *or*, *for*). Despite these exceptions, always capitalize the first and last word. For sentence case, capitalize only the first word.
 
 ![](../../../.gitbook/assets/uitable2.png)
