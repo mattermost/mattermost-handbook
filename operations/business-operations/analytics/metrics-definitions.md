@@ -394,7 +394,7 @@ Monthly active users are categorized into **engagement lifecycle segments**. The
 
 #### MAU Events
 
-Currently only a subset of possible events, dubbed "whitelist" events, count towards MAU. The reason only a subset of events are captured is a result of exceeding Segment's \(third-party event logging service\) row limit. In the future, event logging will transition to rudder \(another third-party event logging service\), and the list of events that count towards MAU will become more expansive.
+Currently only a subset of possible events, dubbed "whitelist" events, count towards MAU. The reason only a subset of events are captured is a result of exceeding Segment's \(third-party event logging service\) row limit. In the future, event logging will transition to Rudder \(another third-party event logging service\), and the list of events that count towards MAU will become more expansive.
 
 Deactivating a user in Mattermost will result in MAU decreasing, as deactivated users are filtered out of the statistic's query. However, reactivating a user in Mattermost will increase the MAU statistic. 
 
