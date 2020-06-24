@@ -32,7 +32,7 @@ These guidelines cover two types of UI text:
   - If the subject (the doer of an action) is the Mattermost application itself. For example, it’s okay to say **The image is deleted** instead of **The server deleted the image**.
 - If you’re asking the user to do or not do something, use imperatives (command phrases). For example, say **Do not change the Hostname** instead of saying **It is not recommended to change the Hostname**. Better still, explain what could go wrong if they do or don’t do something. For example, say **Do not change the Hostname because if you do so <this bad thing will happen>**.
 
-### Guidelines for System Messages
+### Guidelines for system messages
 
 Don’t blame the user. Inform them about what happened, explain why it happened, and suggest a way forward. Try to use complete sentences in your messages. A sentence phrase (an incomplete sentence) might sound okay in English but could present internationalization challenges.
 
