@@ -1,6 +1,6 @@
 # User Interface Text Guidelines
 
-## UX Writing Principles
+## UX writing principles
 
 Following these guidelines ensures that in-product communication to our users has the the same, consistent, voice.
 
