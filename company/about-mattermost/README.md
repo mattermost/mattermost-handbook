@@ -4,7 +4,7 @@ Mattermost, Inc. is a company based on the Mattermost open source project, which
 
 **What we do:** Mattermost, Inc. helps solve collaboration challenges for developers, operators & security teams so organizations can focus on business-critical tasks. 
 
-**Who we serve** We serve organizations that need to speed application delivery by improving collaboration while maintaining security and privacy. We help solve: 
+**Who we serve:** We serve organizations that need to speed application delivery by improving collaboration while maintaining security and privacy. We help solve: 
 
 * _Complicated communications:_ Silos across networks, data, tools, and teams causing delay, duplication, and re-work
 * _Unpredictable results:_ Teams approaching the same problems with inconsistent methods and outcomes, resulting in uncertainty and lack of trust 
@@ -109,4 +109,3 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 | The Mattermost logomark is called "the instrument".   It represents four tools organizations need to achieve their highest priorities:   A **compass** for direction, a **clock** to set pace, a **meter** to measure output, and a **dial** representing inputs - the contribution of everyone on the team.  |  | ![](../../.gitbook/assets/image%20%2820%29.png) |
 
 See [brand guidelines](https://mattermost.org/brand-guidelines/) for usage guidance. 
-
