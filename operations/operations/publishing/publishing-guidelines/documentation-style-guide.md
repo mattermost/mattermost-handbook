@@ -18,7 +18,6 @@ The title appears in the left-hand navigation and at the top of the table of con
 
 **Use Title Case for document titles (e.g. "This is an Article about Documentation"). Where a word/title/name is lowercase, retain that casing in the title (e.g. "This Article Covers the mmctl Tool").**
 
-
 ### Document sections
 
 To make pages easier for people to quickly scan for the content that they're looking for, break your document up into logical sections. Each section should have a heading, and the heading should relate to the content of the section. A section heading is not required if you have only one section.
@@ -64,7 +63,7 @@ We use the Oxford \(serial\) comma in our documentation.
 
 ### Capitalization
 
-Use Title Case for page names/titles.
+Use Title Case for document names/titles.
   - For example: "Deployment Guide for Organizations"
 
 Use Sentence case for section titles and headings.
@@ -154,7 +153,6 @@ Use highlighting of text to visually set off words and phrases that are importan
 | Keyboard buttons      | Key1+Key2 | "Press CTRL+U to upload a file." |
 | Placeholder field | {placeholder}| "Use the URL in the form of {hostname}.mattermost.com/{team}." |    `  `  
                    
-
 ### Bullet lists
 
 For bullet lists and sublists, use `-` before the list item.
