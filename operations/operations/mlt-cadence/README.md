@@ -9,9 +9,9 @@ description: >-
 This section outlines:
 
 * Introduction to MLT
-* The operations of administrative, tactical and strategic meetings
+* The operations of administrative, tactical, and strategic meetings
 * Process for alignment and cascading communications
-* Process for quarterly business reviews, planning and board meetings
+* Process for quarterly business reviews, planning, and board meetings
 
 ## Introduction to MLT
 
@@ -20,7 +20,6 @@ This section outlines:
 * Chandar Venkatamaran: Chief Product Officer
 * Aneal Vallurupalli: VP, Finance
 * Chris Overton: VP, Engineering
-* Ken Olofsen: VP, Marketing
 * Lindsay Brock: Head of Product Management
 
 ## MLT Daily Admin
@@ -29,9 +28,9 @@ The purpose of MLT Daily Admin is to clear day-to-day administrative items from 
 
 MLT Daily Admin consists of:
 
-1. **Standup Post:** A concise summary of Asks, Heads-ups, and FYIs for MLT peers from your department posted on working days 
-2. **MLT Sync:** A Zoom meeting for entire MLT up to 10 minutes starting at _8:31am Palo Alto time on working days._ 
-3. **MLT After Sync:** Spontaneous cross-departmental follow-ups not relevant to entire MLT after _end of MLT Sync until 8:55am Palo Alto time_ via Zoom or phone among MLT leaders
+1. **Standup Post:** A concise summary of Asks, Heads-ups, and FYIs for MLT peers from your department posted on working days.
+2. **MLT Sync:** A Zoom meeting for entire MLT up to 10 minutes starting at _8:31am Palo Alto time on working days._
+3. **MLT After Sync:** Spontaneous cross-departmental follow-ups not relevant to entire MLT after _end of MLT Sync until 8:55am Palo Alto time_ via Zoom or phone among MLT leaders.
 
 ### Topics for MLT Daily Admin
 
@@ -131,7 +130,7 @@ Most updates will look something like this:
 ##### Status Update for Tuesday 16 April 2019
 
 - Met with Alice Evans from Gartner - [Notes posted](XXX)
-- Carter Lee starts today as Director of BizOps 
+- Carter Lee starts today as Director of BizOps
 
 #standup-20190416 #standup
 ```
@@ -141,18 +140,18 @@ If there’s a lot to talk about, use this format:
 ```text
 ##### Status Update for Tuesday 16 April 2019
 
-Heads-up 
+Heads-up
 
-- CTO of ABC Co escalating ask for custom SAML provider, blocking purchase. Need R&D's help 
+- CTO of ABC Co escalating ask for custom SAML provider, blocking purchase. Need R&D's help
 
-FYI 
+FYI
 
 - Met with Alice Evans from Gartner - [Notes posted](XXX)
-- Carter Lee starts today as Director of BizOps 
+- Carter Lee starts today as Director of BizOps
 
 Asks
 
-- @john.smith can you share where things are with the Twitter issue brought up yesterday?  
+- @john.smith can you share where things are with the Twitter issue brought up yesterday?
 
 #standup-20190416 #standup
 ```
@@ -174,7 +173,7 @@ Asks
 
 ## MLT Weekly Tactical
 
-**Tuesdays 10:00am to 11:30am Palo Alto time with MLT**  
+**Tuesdays 10:00am to 11:30am Palo Alto time with MLT**
 The purpose of MLT Weekly Tactical is to keep MLT team on track to quarterly and annual targets. Discussions held in [MLT Weekly Tactical Channel](https://community.mattermost.com/private-core/channels/ijt-weekly-tactical).
 
 #### Process
@@ -182,12 +181,12 @@ The purpose of MLT Weekly Tactical is to keep MLT team on track to quarterly and
 * **\(0:00\) MLT Sync** - Complete MLT Sync and queue any last items for Weekly Tactical
 * **\(0:11\) Scoreboard Review -** Review Thematic Goal
   * Discuss red/yellows on Defining Objectives and Standard Operating Objectives
-  * Check that all objectives have measures and due dates 
-* \(0:45\) **Tactical Agenda -** Discuss queued items, 5m max per topic. Choose: 
+  * Check that all objectives have measures and due dates
+* \(0:45\) **Tactical Agenda -** Discuss queued items, 5m max per topic. Choose:
   * Discuss now
-  * Discuss later \(another Monthly Strategic or at another Weekly Tactical\) 
-  * Discuss 1-1/outside of MLT 
-* \(1:10\) **Decisions/Actions** - Summarize decisions/actions in writing 
+  * Discuss later \(another Monthly Strategic or at another Weekly Tactical\)
+  * Discuss 1-1/outside of MLT
+* \(1:10\) **Decisions/Actions** - Summarize decisions/actions in writing
 * \(1:20\) **Cascading Communications** - Decide what to communicate broadly
   * This includes Customer Obsession Meeting announcements with thank-yous
   * If meeting ends without agreement, Vice-Chair notes this in [MLT Weekly Tactical channel](https://community.mattermost.com/private-core/channels/ijt-weekly-tactical) with an `@all` mention
@@ -196,14 +195,14 @@ The purpose of MLT Weekly Tactical is to keep MLT team on track to quarterly and
 
 The purpose of MLT monthly strategic meeting is to achieve clarity and closure on strategic issues through review, discussion and decision on queued topics.
 
-* Meeting is monthly for 2-4 hours with Mattermost Leadership Team. 
-* Ad hoc meetings may also be called for strategic discussions using same format. 
+* Meeting is monthly for 2-4 hours with Mattermost Leadership Team.
+* Ad hoc meetings may also be called for strategic discussions using same format.
 
 **Pre-work**
 
 * \(Vice-Chair\) Agenda drafted based on queued topics in [MLT Monthly Strategic channel](https://community.mattermost.com/private-core/channels/monthly-strategic-mtg)
 * \(Vice-Chair\) Agenda posted in MLT Monthly Strategic [Scratch document](https://docs.google.com/document/d/1O6ok1Uvb8uuCCFaxYjkkPZCPfDFK8nlb7OGrmyfwtCc/edit)
-* \(MLT\) People who queue topics post relevant materials in Agenda 24 hours before meeting 
+* \(MLT\) People who queue topics post relevant materials in Agenda 24 hours before meeting
 
 **Meeting Cadence**
 
@@ -223,11 +222,11 @@ The MLT plan consists of:
 3. Financial plan, including revenue
 4. Headcount plan
 
-We’re currently focused on quarterly plans and will move to halves
+We’re currently focused on quarterly plans and will move to halves.
 
 #### Plan Expectations
 
-* Quarterly plans are locked for the quarter–Changeable only in MLT team meeting
+* Quarterly plans are locked for the quarter – Changeable only in MLT team meeting
 * Progress on quarter plans reviewed at the start of next quarter
 * Okay to reduce targets prior to 20 days before quarter end \(except revenue & pipeline\)
 * Quarterly plans are in context of annual VPMOM
@@ -347,8 +346,8 @@ As reviews happen, follow-up items are noted in RAPID format and meetings schedu
 
 #### Debrief Calls
 
-1. 25 minute debrief scheduled with each board member same day or the day after board meeting via their admins.
-2. 1 hour debrief with MLT scheduled same day after board meeting.
+1. 25 minute debrief scheduled with each board member same day or the day after board meeting via their admins
+2. 1 hour debrief with MLT scheduled same day after board meeting
 
 ## Fiscal Year Planning \(1%\) <a id="fiscal-year-planning"></a>
 
@@ -384,7 +383,7 @@ The focus of Q4 is arriving at a 99% draft of the plan for next fiscal with alig
 4. Department heads work with their teams, peer stakeholders and CEO to develop Department VPMOM from 50% to 99%
 5. 99% MLT VPMOM is reviewed by MLT and agreed
 6. 99% Department VPMOMs are reviewed by MLT peers and CEO and agreed
-7. Plan for next fiscal year is locked based on VPMOMs 
+7. Plan for next fiscal year is locked based on VPMOMs
 
 #### MLT VPMOM Review Process
 
@@ -397,4 +396,3 @@ VPMOMs, quarterly plans and proposed orgs are reviewed by MLT. Use the following
 * Methods
 
 MLT shares feedback on each VPMOM and quarterly plan. Cross-department dependencies documented.
-

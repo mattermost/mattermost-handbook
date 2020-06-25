@@ -4,14 +4,14 @@ description: 'https://mattermost.productboard.com/'
 
 # How to use ProductBoard
 
-ProductBoard is used by Product Managers and Customer/Sales Teams for
+ProductBoard is used by Product Managers and Customer/Sales Teams for:
 
 - Feedback collection
 - Feature validation
 - Requirements gathering
 - Feature prioritization/roadmap planning
 
-When a feature moves to "planned" the product team pushes it to Confluence and Jira (or wherever each team decides) to define the scope/spec and track work.
+When a feature moves to "planned" the Product team pushes it to Confluence and Jira (or wherever each team decides) to define the scope/spec and track work.
 
 Specifically, ProductBoard is used to decide what to build (and when), while other systems like Confluence or Jira are used to communicate and design on what exactly is being built at individual feature level.  
 
@@ -19,7 +19,7 @@ Specifically, ProductBoard is used to decide what to build (and when), while oth
 
 ### **1a- Reviewing new feedback from users and customers**
 
-New feedback from users and customers is sent to the [Insights Board](https://mattermost.productboard.com/insights). Typically these are submitted by fellow product managers, support, customer success managers, or sales through integrations with email, Zapier, Zendesk, or others.
+New feedback from users and customers is sent to the [Insights Board](https://mattermost.productboard.com/insights). Typically these are submitted by fellow Product Managers, Support, Customer Success Managers, or Sales through integrations with email, Zapier, Zendesk, or others.
 
 When in the Insights Board, you can either go to your [Personal Inbox](https://mattermost.productboard.com/insights/my-inbox) or a [Shared Team Inbox](https://mattermost.productboard.com/insights/shared-inbox) to review feedback. When you find something relevant to your initiatives, highlight it in the notes and click the pencil icon to attach it to a feature.
 
@@ -95,7 +95,7 @@ Two very important notes regarding this integration:
 
 * Do reorder your features and play around with scoring your features.
 * Do add sub-components if you feel they are appropriate and do not exist anywhere else.
-* Do create your own feature views with custom prioritization scores (using existing drivers)
+* Do create your own feature views with custom prioritization scores (using existing drivers).
 * Do post requests for all of the following in the ProductBoard channel.
 
   * New drivers or edits to driver names.
@@ -109,7 +109,7 @@ Two very important notes regarding this integration:
 * Do not reorder top level components - learn more about components, subcomponents, and features.
 * Do not remove/rename any components or sub-components.
 * Do not rename or adjust others' prioritization score models.
-* Do not remove or rename drivers
+* Do not remove or rename drivers.
 
 ![](../../../../.gitbook/assets/productboard-prioritization.png)
 
@@ -144,31 +144,45 @@ To be added \(ETA Q2/FY21\)
 
 ## 2 - Day in the life of a Customer Support Manager, Customer Success Manager, or Solution Architect
 
-### 2a - Adding feedback
+### 2a - Stay up to date on feature status updates
 
-New feedback from users and customers is sent to the [Insights Board](https://mattermost.productboard.com/insights). Typically these are submitted by product managers, support, customer success managers, or sales through integrations with email, Zapier, Zendesk, or others.
+Staying informed of status changes and comments on a feature is easy in ProductBoard:
 
-### 2b - Creating notes
+ 1. Locate the feature on the [Master Feature List](https://mattermost.productboard.com/feature-board/1097524-master-feature-list).
+ 2. Click on the feature name to open the feature details card.
+ 3. Add yourself as a follower by clicking on the `+` symbol in the bottom left corner of the feature details card.
 
-You can add a new note to capture feedback from a customer call. This is used to help identify customer problems, wants/needs, feature lack, and any other areas for improvement that stem from interacting with customers. Essentially, think of this as a place to communicate the most important takeaways from customer calls that product teams can help you with. 
+![add-followers2](https://user-images.githubusercontent.com/20331166/83704445-f6be5d80-a5c6-11ea-9ce5-6daf1f7b55ac.png)
+
+[Learn more about ProductBoard notifications](https://help.productboard.com/en/articles/1252670-how-do-notifications-work).
+
+### 2b - Adding feedback
+
+New feedback from users and customers is sent to the [Insights Board](https://mattermost.productboard.com/insights). Typically these are submitted by Product Managers, Support, Customer Success Managers, or Sales through integrations with email, Zapier, Zendesk, or others.
+
+### 2c - Creating notes
+
+You can add a new note to capture feedback from a customer call. This is used to help identify customer problems, wants/needs, feature shortcomings, and any other areas for improvement that stem from interacting with customers. Essentially, think of this as a place to communicate the most important takeaways from customer calls that the Product team can help you with. 
 
 Important points about notes:
 
 * Notes are specific to a customer/prospect.
 * Notes can include multiple requests (PMs can apply multiple elements from the note to different features if necessary).
-* If you are not sure if the request or feedback should apply to an existing feature, you can simply capture the feedback as a note and assign to the PM overseeing that area (or just leave unassigned). 
+* If you are not sure if the request or feedback should apply to an existing feature, you can simply capture the feedback as a note, assign it to the PM overseeing that area, or leave it unassigned.  
 
-### 2c - Adding insights directly to an existing feature
+### 2d - Adding insights directly to an existing feature
 
-As a **Contributor** in ProductBoard, you have access to view the [master feature list](https://mattermost.productboard.com/feature-board/1097524-master-feature-list). This is the view where the Product team organizes and prioritizes new features and functionality that is being considered or planned for Mattermost. You can search and browse all features and ideas and even read the notes and portal cards from PMs for a detailed description of the feature/idea. In the case of planned features, you will have complete insight into the status of the feature and a rough idea of where it sits on the roadmap. 
+As a **Contributor** in ProductBoard, you have access to view the [master feature list](https://mattermost.productboard.com/feature-board/1097524-master-feature-list). This is the view where the Product team organizes and prioritizes new features and functionality that is being considered or planned for Mattermost. 
 
-Within the detailed view of individual features, you can view the full list of insights added by other PMs, CSMs, SAs, or Support Managers. You will also have the option to add insight directly to the feature itself. As you can see in the image below:
+You can search and browse all features and ideas and even read the notes and portal cards from PMs for a detailed description of the feature/idea. In the case of planned features, you will have complete insight into the status of the feature and a rough idea of where it sits on the roadmap. 
+
+Within the detailed view of individual features, you can view the full list of insights added by other PMs, CSMs, SAs, or Support Managers. You also have the option to add insight directly to the feature itself.
 
 ![](../../../../.gitbook/assets/productboard-insights-master-feature-list.png)
 
-### 2d - Adding feedback (via Chrome extension)
+### 2e - Adding feedback (via Chrome extension)
 
-Using the official [ProductBoard Chrome Extension](https://chrome.google.com/webstore/detail/productboard-make-product/mlpbdkpkicfkhgagnoamdcimmhdkakni) you can easily add notes from any page within chrome (including SFDC, Zendesk, GitHub, HackerNews, Mattermost web, etc.). The extensions is very easy to use and should streamline your workflow dramatically.
+Using the official [ProductBoard Chrome Extension](https://chrome.google.com/webstore/detail/productboard-make-product/mlpbdkpkicfkhgagnoamdcimmhdkakni) you can add notes from any page within Chrome (including SFDC, Zendesk, GitHub, HackerNews, Mattermost web, etc.) and streamline your workflow dramatically.
 
 As long as you are logged into ProductBoard, the connectivity to the Mattermost insights board is secure and seamless.
 
@@ -193,6 +207,10 @@ You will also have access to the [release tracking view](https://mattermost.prod
 ### 4a - Now, Next & Later in the Portal view
 
 The portals will serve as our internal (and, in the future, external) communication of our product roadmap. You will have access to all internal product portals where we outline what we've released, what we're working on now, next and later.
+
+To view the portal, log in to [mattermost.productboard.com](https://mattermost.productboard.com) using your OneLogin account then click on the fourth icon in the left-hand navigation):
+
+![](../../../../.gitbook/assets/productboard_portal_nav.png)
 
 ## 5 - Frequently Asked Questions (FAQ)
 

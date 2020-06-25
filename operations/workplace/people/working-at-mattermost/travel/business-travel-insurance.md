@@ -19,8 +19,8 @@ While traveling, it is important you have on-hand at all times your [Employee ID
 
 ## Visa Application
 
-If you are traveling on behalf of Mattermost and need a visa application, please complete the [Visa Travel Letter Generation Form](https://drive.google.com/file/d/1Eqo4Y7jses8p1uUPfOhxnb4Rp3RMXlCW/view?usp=sharing). It is important to note that you're responsible for knowing visa requirements for travel from your country of origin. If you require an invitation letter or other documents specific to your consulate, please route all questions and requests to `People@mattermost.com`.
+If you are traveling on behalf of Mattermost and need a visa application, please complete the [Visa Travel Letter Generation Form](https://drive.google.com/file/d/1Eqo4Y7jses8p1uUPfOhxnb4Rp3RMXlCW/view?usp=sharing). It is important to note that you're responsible for knowing visa requirements for travel from your country/region of origin. If you require an invitation letter or other documents specific to your consulate, please route all questions and requests to `People@mattermost.com`.
 
 ## Reporting A Claim
 
-For type of coverage and to report a claim, refer to the [Guide to Reporting Claims](https://drive.google.com/file/d/16EhtGmq16dHe2JVsKjlyXbCNZgUmKW3j/view?usp=sharing). For further detail on the type of claims covered, refer to the [AIG claim guide](https://www.aig.com/individual). 
+For type of coverage and to report a claim, refer to the [Guide to Reporting Claims](https://drive.google.com/file/d/16EhtGmq16dHe2JVsKjlyXbCNZgUmKW3j/view?usp=sharing). For further detail on the type of claims covered, refer to the [AIG claim guide](https://www.aig.com/individual).
