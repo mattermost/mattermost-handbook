@@ -1,6 +1,6 @@
 # Documentation Style Guide
 
-When writing for Mattermost, always think about the audience that will be reading your writing. Mattermost’s audience can vary, but we typically communicate with a technical audience and want to present Mattermost as being a friend of the practitioner in development, IT, and operations. It must be accurate and clear, be presented with a style and tone that is appropriate for technical or educational content, and easy to navigate.
+When writing for Mattermost, always think about the audience that will be reading your writing. Mattermost’s audience can vary, but we typically communicate with a technical audience and want to present Mattermost as being a friend of the practitioner in development, IT, and operations. It must be accurate and clear, presented with a style and tone that is appropriate for technical or educational content, and easy to navigate.
 
 An exception is **Customer Education** content where the audience is placed at the center of attention, as opposed to technical documentation where it is the document's content that is the primary focus.
 
@@ -72,7 +72,7 @@ Use Sentence case for section titles and headings.
 ### Person
 
 Use the second person and avoid the first person.
-  - For example: "View the status in the Status pane." as opposed to "We’ll view the status in the Status pane."
+  - For example: "View the status in the **Status** pane." as opposed to "We’ll view the status in the **Status** pane."
 
 An exception is **Customer Education** content which can be written in first or second person to keep the audience focused and interested.
   - For example: "While Mattermost provides options to make mobile deployment as easy as possible, it will take time and iteration. We are here to [support](https://link-to-support-section) you." as opposed to "Deploying the Mattermost Mobile App will take time and iteration."
@@ -80,7 +80,7 @@ An exception is **Customer Education** content which can be written in first or 
 ### Voice
 
 Use active voice in preference to passive voice. Active voice has the subject of a sentence doing the action. In passive voice, the subject has an action done to it.
-  - For example: "The system opens the Status pane." as opposed to "The Status pane will be opened by the system."
+  - For example: "The system opens the **Status** pane." as opposed to "The **Status** pane will be opened by the system."
 
 ### Tense
 
@@ -167,7 +167,7 @@ For bullet lists and sublists, use `-` before the list item.
 
 ### Numbered lists and procedure steps
 
-Create numbered lists and procedure steps using numbers for the top-level list and lower case alpha characters for the first nested list.
+Create numbered lists and procedure steps using numbers for the top-level list and lowercase alpha characters for the first nested list.
 
 ```
   1. This is item one.
@@ -216,7 +216,7 @@ The following example uses the `:doc:` role to link to the **Integrations Overvi
 
 Note that the filename extension is not part of the construct. On output, the link looks like this: "For more information about integrating with Mattermost, see :doc:`../overview/integrations`." The Sphinx processor pulls in the title of the document to use as the link text.
 
-The `:ref:` role is a two-part construct. One part is the link itself, and the other part is the target. The target has the following form, and should preceed a section title:
+The `:ref:` role is a two-part construct. One part is the link itself, and the other part is the target. The target has the following form, and should precede a section title:
 
 ```
   .. _arbitrary-text-label:
