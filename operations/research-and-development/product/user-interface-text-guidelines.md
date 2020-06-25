@@ -148,7 +148,7 @@ Use this table when writing the text for UI elements such as windows, dialog box
 <tbody>
 <tr class="odd">
 <td>Menu</td>
-<td>![](../../../.gitbook/assets/menuimage.png)</td>
+<td><img src="../../../.gitbook/assets/menuimage.png"></td>
 <td>Headline style</td>
 <td><ul>
 <li>Noun, noun phrase, or verb</li>
@@ -164,7 +164,7 @@ Use this table when writing the text for UI elements such as windows, dialog box
 </tr>
 <tr class="even">
 <td>Tooltip</td>
-<td>![](../../../.gitbook/assets/Tooltipimage.png)</td>
+<td><img src="../../../.gitbook/assets/Tooltipimage.png"></td>
 <td>Sentence style</td>
 <td><ul>
 <li>Sentence fragment or sentence</li>
@@ -180,7 +180,7 @@ Use this table when writing the text for UI elements such as windows, dialog box
 </tr>
 <tr class="odd">
 <td>In-field text</td>
-<td>![](../../../.gitbook/assets/fieldimage.png)</td>
+<td><img src="../../../.gitbook/assets/fieldimage.png"></td>
 <td>Sentence style</td>
 <td><ul>
 <li>Sentence fragment, sentence, or word that's an example of a valid entry</li>
@@ -194,7 +194,7 @@ Use this table when writing the text for UI elements such as windows, dialog box
 </tr>
 <tr class="even">
 <td>Action button</td>
-<td>![](../../../.gitbook/assets/actionimage.png)</td>
+<td><img src="../../../.gitbook/assets/actionimage.png"></td>
 <td>Headline style</td>
 <td><ul>
 <li>Verb or verb phrase</li>
@@ -209,7 +209,7 @@ Use this table when writing the text for UI elements such as windows, dialog box
 </tr>
 <tr class="odd">
 <td>Label before a UI element</td>
-<td>![](../../../.gitbook/assets/labelimage.png)</td>
+<td><img src="../../../.gitbook/assets/labelimage.png"></td>
 <td>Sentence style</td>
 <td><ul>
 <li>Noun, verb, or sentence fragment that's the title of the UI element</li>
@@ -223,7 +223,7 @@ Use this table when writing the text for UI elements such as windows, dialog box
 </tr>
 <tr class="even">
 <td>Label after a UI element</td>
-<td>![](../../../.gitbook/assets/label_afterimage.png)</td>
+<td><img src="../../../.gitbook/assets/label_afterimage.png"></td>
 <td>Sentence style</td>
 <td><ul>
 <li>Noun, verb, or sentence fragment</li>
@@ -237,7 +237,7 @@ Use this table when writing the text for UI elements such as windows, dialog box
 </tr>
 <tr class="odd">
 <td>Help text</td>
-<td>![](../../../.gitbook/assets/helptextimage.png)</td>
+<td><img src="../../../.gitbook/assets/helptextimage.png"></td>
 <td>Sentence style</td>
 <td>Complete sentences, with punctuation</td>
 <td><ul>
@@ -247,7 +247,7 @@ Use this table when writing the text for UI elements such as windows, dialog box
 </tr>
 <tr class="even">
 <td>Title</td>
-<td>![](../../../.gitbook/assets/titleimage.png)</td>
+<td><img src="../../../.gitbook/assets/titleimage.png"></td>
 <td>Headline style</td>
 <td><ul>
 <li>Sentence fragment or sentence</li>
