@@ -14,7 +14,7 @@ The Technical Writing team focuses primarily on Technical Documentation (includi
 
 * Documentation for high impact product areas
   * DevOps Command Center
-  * Cloud
+  * Integrations
   * Self-serve customer journey
 * Documentation metrics
   * Docs page ratings via Google Analytics
@@ -40,21 +40,22 @@ The Technical Writing team focuses primarily on Technical Documentation (includi
   - Attend customer calls undergoing enterprise onboarding
 - Tone and writing style guide for Customer Education content
 
-The following areas remain a collaborative effort between Product Managers, Engineers and Technical Writers, until additional headcount is reached. Please assume @jason.blais as the directly responsible individual.
+The following areas remain a collaborative effort between Product Managers, Engineers, and Technical Writers, until additional headcount is reached. Please reach out to the [Documentation Working Group](https://community.mattermost.com/private-core/channels/dwg-documentation-working-group) for any questions. 
 
 * [Mattermost Overview](https://docs.mattermost.com/overview/index.html)
 * [User's Guide](https://docs.mattermost.com/guides/user.html)
 * [Administrator's Guide](https://docs.mattermost.com/guides/administrator.html)
-* [Integrations Guide](https://docs.mattermost.com/guides/integration.html)
 * GitLab documentation for:
   * [GitLab Mattermost docs](https://docs.gitlab.com/omnibus/gitlab-mattermost/%20)
   * GitLab helm chart docs
 * Developer documentation for:
-  * [developers.mattermost.com](https://developers.mattermost.com), including Contribute, Integrate and Extend sections
+  * [developers.mattermost.com](https://developers.mattermost.com), including Contribute, Integrate, and Extend sections
   * [api.mattermost.com](https://api.mattermost.com)
-  * General developer experience docs, e.g. code samples, best practices and tutorials
+  * General developer experience docs, e.g. code samples, best practices, and tutorials
 * Admin-facing UI Content, such as the System Console
 * Developer-facing UI Content, such as the Integrations backstage
+
+In addition, the [Mattermost Documentation Management and Maintenance guide](https://docs.google.com/document/d/1XuCto2lpi29rtMcwfNUsFSZLyGBDLYEqJ9ET2XlDu6M/edit#) provides details related to general documentation tasks and processes, applicable across the Mattermost documentation.
 
 ## Technical Documentation Processes
 
