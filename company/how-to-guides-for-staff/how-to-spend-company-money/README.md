@@ -155,7 +155,7 @@ Mattermost will cover work-related travel expenses for approved business travel.
 
 Spend company money like it’s your own. When traveling on behalf of Mattermost, average meal costs will vary by destination city and country. The two links below are helpful reference points for city and country averages. Note: 20% is considered the maximum gratuity for exceptional service. 
 
-The below links provide information regarding daily per diem guidance in the US as well as other countries.
+The below links provide a few examples regarding daily per diem guidance.
 
 * San Francisco 70 USD
 * New York 70 USD
