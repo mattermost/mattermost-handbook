@@ -79,6 +79,7 @@ The Mattermost mobile device policy enables the use of mobile devices for custom
 If you are using your device primarily for business-related matters as defined by your local tax laws, we will reimburse up to 100 USD. Positions or roles where mobile reimbursement may be needed include the following:
 
 * Customer-facing roles: 
+    * Account Executives
     * Customer Success Managers
     * Sales Leadership
     * Customer Engineering
