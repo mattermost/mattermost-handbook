@@ -8,7 +8,7 @@ description: >-
 
 At Mattermost, we want you to be successful from Day 1. As staff members, you're empowered to determine and purchase what you need in order to do your job. We value high impact over stringent expense rules and these expense guidelines are intended to help make decisions not hinder movement. Depending on country/region, some items may be way below or way above the averages listed. If you need to spend more to get the right equipment for you to be productive, we trust you’re making purchase decisions to optimize cost and efficiency. 
 
-If you're uncertain, feel free to reach out in the [Finance Team](https://community.mattermost.com/private-core/channels/expenses) channel.
+If you're uncertain, feel free to ask in the [Finance Team](https://community.mattermost.com/private-core/channels/expenses) channel, or direct message @isabel.alorro on Mattermost.
 
 ## Mattermost guidelines
 
