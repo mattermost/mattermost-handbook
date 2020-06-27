@@ -60,7 +60,7 @@ If you need vector versions of the logos, you can [download the EPS package](htt
 
 ## Color Guidelines
 
-Below is a sample of the core colours we've been using in the latest branding initiatives. For the full set of colors specific to the website visit the [UX/UI Style Guide](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb-colors)
+Below is a sample of the core colours we've been using in the latest branding initiatives. For the full set of colors specific to the website visit the [Mattermost.com StyleGuide](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb-colors)
 
 | Name | Swatch | Hex | RGB |
 | :--- | :--- | :--- | :--- |
@@ -79,7 +79,7 @@ The main typefaces used are [Metropolis](https://github.com/chrismsimpson/Metrop
 
 ![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-type-sample.png)
 
-For the full set of typography guidelines specific to the website visit the [UX/UI Style Guide](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb-colors).
+For the full set of typography guidelines specific to the website visit the [Mattermost.com StyleGuide](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb-colors).
 
 Product-specific typography guidelines coming soon.
 
@@ -91,7 +91,7 @@ Powerpoint and Google Slides Templates coming soon.
 
 ## Website Guidelines
 
-Website-specific guidelines can be found in the [UX/UI Style Guide](https://mattermost.wayfx.com/0ddc9bpne/p/07a9e9-misc).
+Website-specific guidelines can be found in the [Mattermost.com StyleGuide](https://mattermost.wayfx.com/0ddc9bpne/p/07a9e9-misc).
 
 ## Name Usage Guidelines
 
