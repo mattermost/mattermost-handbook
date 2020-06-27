@@ -3,7 +3,7 @@
 ## Getting started
 
 1. **Create a Google Doc** and name the file `[INITIALS_OF_FIRST_PERSON]-[INITIALS_OF_SECOND_PERSON] 1-1`.
-   - For example. if Bob Adrian Jones is meeting with Jen Tai Yin Lee, the title of the file would be `BAJ-JTL 1-1.`
+   - For example, if Bob Adrian Jones is meeting with Jen Tai Yin Lee, the title of the file would be `BAJ-JTL 1-1.`
    - Use three letter initials when possible since there may be people with the same initials. 
 2. **Share the file** with the other person, using the **Share** option in the Google Doc.
 3. Create a Direct Message channel in Mattermost and add the other person. 
