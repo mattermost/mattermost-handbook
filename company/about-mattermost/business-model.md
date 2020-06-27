@@ -12,14 +12,11 @@ The paid enterprise edition of Mattermost is built for **team managers** and **I
 
 We use the acronym "TACTICAL" to summarize the approach to maintaining differentiation of the paid version of our offerings to offerings a competitor may create from our open source code base:    
   
-**Test infrastructure** - We use [SaaS QA](https://www.rainforestqa.com/) which isn't included in the open source version.   
-**Alignment** - Developer features are free, paid features are for managers and IT pros, who are less likely to spend time and effort forking and maintaining open source project vs. deploying budgets to purchase paid features.   
-**Core committers** - We employ vast majority of core committers to keep project and business in sync   
-**Threat intelligence** - Mattermost's RDP means forks will lag in threat intelligence   
-**Innovation** - Monthly ship cycles and high velocity innovation rapidly lower the value of forks   
-**Compatibility** - Only genuine versions upgrade smoothly to new releases and security patches    
-**Architecture** - Modular architecture makes need to fork rare  
-**Licensing** - Trademark is registered internationally, forking requires renaming   
-  
-
-
+**Test infrastructure:** We use [SaaS QA](https://www.rainforestqa.com/) which isn't included in the open source version 
+**Alignment:** Developer features are free. Paid features are for managers and IT pros, who are less likely to spend time and effort forking and maintaining an open source project vs. deploying budgets to purchase paid features
+**Core committers:** We work with an active community of core committers to keep the project and business in sync
+**Threat intelligence:** Mattermost's RDP means forks will lag in threat intelligence
+**Innovation:** Monthly ship cycles and high velocity innovation rapidly lower the value of forks
+**Compatibility:** Only genuine versions upgrade smoothly to new releases and security patches 
+**Architecture:** Modular architecture makes the need to fork rare
+**Licensing:** Mattermost's trademark is registered internationally, forking requires renaming
