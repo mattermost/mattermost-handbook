@@ -25,22 +25,33 @@ We don't expect a huge body of documentation or that it's perfectly-written - bu
 "The steps needed to configure this are as follows: 
 1. Navigate to **System Console > MenuItem > MenuItem**.
 2. Set the setting to ``true``. 
-3, Click **Save**.
+3. Click **Save**.
 
 For the CLI, the following parameters needs to be added: 
 (include parameter/s)"
 
 \## Code samples (if applicable)\
-*Include any code samples that should be included in the user-facing documentation.*
+*Include any code samples that should be included in the user-facing documentation. For example:*
 
-\## Troubleshooting/Known Issues (if applicable)\
+```
+  .. code-block:: go
+    :linenos:
+
+    newPassword := props["new_password"]
+  	if err := utils.IsPasswordValid(newPassword); err != nil {
+  		c.Err = err
+  		return
+  	}
+```
+
+\## Troubleshooting/Known issues (if applicable)\
 *Include any known issues or limitations that may affect how the feature/process works. For example:*
 
 "This only works in 5.19, and is not compatible with macOS."
 
 ----------------------------------------------------------------
 
-You can find additional guidance around formatting [here](https://docs.mattermost.com/help/messaging/formatting-text.html#headings). 
+You can find additional guidance around formatting [here](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/documentation-style-guide#using-restructuredtext-markup-rst). 
 
 Once your PR is submitted, there's a review process that includes an editorial review, a PM review, and sometimes a dev review. During the editorial review, editors may make punctuation and/or terminology changes and commit them to save time on the review process. This only applies to punctuation/terminology - content suggestions and questions will follow the usual review and discussion process.
 
