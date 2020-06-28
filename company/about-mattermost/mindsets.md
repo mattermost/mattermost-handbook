@@ -46,7 +46,7 @@ When facing a high impact problem without a simple and obvious solution, focus y
 * Understanding how others have solved the same problem in an enduring way.
 * What vital changes, if any, are needed to apply a proven solution that works.
 
-**More:** Read GitLab's boring solutions mindset and Dan McKinley's blog post on [Choose boring technology](https://mcfunley.com/choose-boring-technology).
+**More:** Read GitLab's boring solutions mindset and Dan McKinley's blog post on [choosing boring technology](https://mcfunley.com/choose-boring-technology).
 
 ### Emotion, Assumption, and Priority
 
