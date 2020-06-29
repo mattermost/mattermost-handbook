@@ -81,6 +81,7 @@ Weekly check-in to clear tactical issues:
 * Customer References 
   * [📁](https://emojipedia.org/file-folder/) [Brand Designs](https://drive.google.com/drive/folders/0B62zW3fU_TcARUpPcUc4WlFEODQ): App icons, logos, fonts and more
   * [📁](https://emojipedia.org/file-folder/) [Editorial Guide](https://github.com/mattermost/mattermost-handbook/tree/8c222bd9dfaae1a9eed9ae585bf477f9709a93ea/document/d/1XWjtWdF77qKdxDso_-aC_S1c3E0ohOoxCRL_PIf3pco/edit/README.md#heading=h.mowcb1f5jyj7): Guidelines for copy and content 
+  * [📁](https://emojipedia.org/file-folder/) [Salesforce Report on Referencable Customers](https://mattermost.lightning.force.com/lightning/r/Report/00O3p000005qXSPEA2/edit): Lists customers across different stages of being a reference.   
 * Demand Gen Overviews
   * [💬](https://emojipedia.org/speech-balloon/) [Social Media ](https://docs.google.com/spreadsheets/d/1RskstYEc8QqcKNR6N3tPd2IqbWZlK0hJMg_5pLzKe7c/edit#gid=0)
   * [💬](https://emojipedia.org/speech-balloon/) Events
