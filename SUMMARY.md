@@ -82,6 +82,7 @@
       * [Creating New Jira Bug Tickets](operations/research-and-development/product/development-process/new-bug-tickets.md)
         * [Severity Levels for Bug Tickets](operations/research-and-development/product/development-process/bug-severity-guidelines.md)
         * [Jira Fix Versions](operations/research-and-development/product/development-process/jira-fix-versions.md)
+      * [User Interface Text Guidelines](operations/research-and-development/product/user-interface-text-guidelines.md)
     * [How to Guides for Product](operations/research-and-development/product/how-to-guides-for-product/README.md)
       * [How to Use ProductBoard](operations/research-and-development/product/product-planning/how-to-use-productboard.md)
       * [How to Update Integrations Directory](operations/research-and-development/product/how-to-guides-for-product/integrations-directory.md)
