@@ -1,7 +1,3 @@
----
-description: 1% complete.
----
-
 # Staff Onboarding
 
 ## Contents
