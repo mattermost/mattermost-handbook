@@ -28,23 +28,26 @@ Preparing to hire an employee in a new state takes time, and we may be subject t
 
 Mattermost Staff and Community members are eligible to receive a $500 USD referral bonus after the candidate they refer is hired and completes 90 days of service with Mattermost.
 
-**Referral Criteria**
+#### Referral Criteria
+
 * A candidate who is not currently being considered for a role at Mattermost.
 * A candidate who has been personally introduced and connected with a member of the Recruiting team or the Hiring Manager.
-Submitted in Lever
+* The candidate must be submitted in Lever.
 * Both the Staff member and the referred hire must be employed by Mattermost at the payroll date following 90 days of service to receive the bonus.
 
-**Who is not eligible to receive the bonus**
-* Co-founders, C-levels, and Vice Presidents are not eligible to receive the referral bonus. 
+#### Who is not eligible to receive the bonus
+
+* Co-founders, C-levels, and Vice Presidents are not eligible to receive the referral bonus.
 * Hiring Managers are not eligible to receive the bonus for staff that will report to them because hiring is a large part of a Manager's responsibilities.
 * Referral bonuses are not given if there are external recruiting agency fees associated with hiring the new Staff member.
 * Agencies and external recruiters without a contracted relationship with Mattermost are not eligible to receive the bonus.
 * Reach out to Director of HR (DM: @natalie.jew) with any referral bonus-eligibility questions.
 
-**Receiving the Referral Bonus**
-* Employees of a Mattermost entity receive payment through regular payroll
-* Contractors add the bonus amount to their invoices
-* Contributors receive payment through a third party payment, such as virtual gift card
+#### Receiving the Referral Bonus
+
+* Employees of a Mattermost entity receive payment through regular payroll.
+* Contractors add the bonus amount to their invoices.
+* Contributors receive payment through a third party payment, such as virtual gift card.
 
 ### Relocating
 
@@ -67,7 +70,7 @@ Typically the AA is the last person on the interview loop and scheduled in advan
 The following list of people are approved as As Appropriate interviewers \(aka "AA"s\):
 
 * Ian Tien, CEO and co-founder
-* Corey Hulen, CTO and co-founder 
+* Corey Hulen, CTO and co-founder
 
 Each AA interviewer should have at least 3 reserved slots per week available for AA interviews, ideally in different timezone ranges, providing capacity for 12 new hires per month per AA.
 
@@ -78,5 +81,4 @@ Each AA interviewer should have at least 3 reserved slots per week available for
 1. Hire/No Hire feedback from everyone on the interview loop.
 2. Attachments of any work artifacts produced during the interview loop.
 3. Any open questions from interviewers that have not been covered.
-4. Notes on any backchannel references completed. For any confidential feedback please use SECRET NOTE with mention to the AA and leave out the name of the source.
-
+4. Notes on any backchannel references completed. For any confidential feedback please use **SECRET NOTE** with mention to the AA and leave out the name of the source.
