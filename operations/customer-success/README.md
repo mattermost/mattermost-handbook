@@ -14,11 +14,9 @@ Deliver the ideal customer journey experience to all customers at scale.
 
 ### Customer Segmentation
 
-#### Vision
-
-- Goal: Deliver a great customer journey for all customers
-- Reality: Not all customers are created equally
-- Plan: Tailor the journey based on existing investment AND the opportunity to grow
+- **Goal:** Deliver a great customer journey for all customers
+- **Reality:** Not all customers are created equally
+- **Plan:** Tailor the journey based on existing investment AND the opportunity to grow
 
 See [Post Sales Customer Journey Playbook](https://docs.google.com/document/d/1WB9Qr4ZRjZixprLKiX6tlbb4784qw5luV3eqzk_9hyw/edit#heading=h.hy6fak6l0x08) for customer segmentation details.
 
