@@ -68,6 +68,8 @@ For all new staff members, to request a new MacBook, Lenovo, or other laptop, pl
 * **MacBook 15”** - For developers choosing to use Macs, we recommend getting a [MacBook Pro 15-inch retina with 512 GB of storage and 32 GB of memory](https://www.apple.com/shop/buy-mac/macbook-pro/15-inch-space-gray-2.6ghz-6-core-512gb) or similar. As an example, other teams may not require 32 GB memory or 512 GB of storage. 
 * **PC** - Any suitable laptop with comparable specifications and lower or similar cost to the recommended MacBook. Many of our engineers use Lenovo laptops from the Thinkpad X, T, or P series. If in doubt, we recommend a Lenovo Thinkpad T series.
 
+After the laptop is received, it is mandatory to register the laptop by completing our [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). If you purchased the laptop on your own and you need to sumbit an expense report, please include the email confirmation you receive after submitting the Asset Registration Form with your expense report. This must be completed within 5 business days after the laptop was received.
+
 ### MOBILE DEVICE POLICY
 
 The Mattermost mobile phone policy enables the use of mobile devices for customer-facing roles or those providing repeating on-call service in a secure fashion.
@@ -131,7 +133,7 @@ The company phone may only be used for work-related purposes. Personal usage is 
 
 #### Laptop
 
-Many staff members will use their company issued laptop until it breaks. That said, if your productivity is suffering, you can request a new laptop at any time. The average timeframe for equipment replacement is approximately three years. Laptops must be returned to the company or their drives wiped clean before they are disposed of.
+Many staff members will use their company issued laptop until it breaks. That said, if your productivity is suffering, you can request a new laptop at any time. The average timeframe for equipment replacement is approximately three years. Laptops must be returned to the company or their drives wiped clean before they are disposed of. After the laptop is purchased and received, it is mandatory to register the laptop by completing our [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). If you purchased your own replacement laptop and you need to sumbit an expense report, please include the email confirmation you receive after submitting the Asset Registration Form with your expense report. This must be completed within 5 business days after the laptop was received.
 
 #### Other 
 
