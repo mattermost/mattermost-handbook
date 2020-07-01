@@ -1,6 +1,6 @@
 # Customer Success
 
-## Vision
+## Purpose
 
 Deliver the ideal customer journey experience to all customers at scale.
 
