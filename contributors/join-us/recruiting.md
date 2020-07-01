@@ -24,6 +24,28 @@ We currently have staff in the following U.S. states:
 
 Preparing to hire an employee in a new state takes time, and we may be subject to new regulations, taxes, and reporting obligations. If a candidate is progressing in the interview process and would be living and working from a U.S. state not listed above, the Recruiter will DM @tim.quock with the state and the title of the position the candidate may fill at least three weeks prior to an anticipated offer.
 
+### Referral Program
+
+Mattermost Staff and Community members are eligible to receive a $500 USD referral bonus after the candidate they refer is hired and completes 90 days of service with Mattermost.
+
+**Referral Criteria**
+* A candidate who is not currently being considered for a role at Mattermost.
+* A candidate who has been personally introduced and connected with a member of the Recruiting team or the Hiring Manager.
+Submitted in Lever
+* Both the Staff member and the referred hire must be employed by Mattermost at the payroll date following 90 days of service to receive the bonus.
+
+**Who is not eligible to receive the bonus**
+* Co-founders, C-levels, and Vice Presidents are not eligible to receive the referral bonus. 
+* Hiring Managers are not eligible to receive the bonus for staff that will report to them because hiring is a large part of a Manager's responsibilities.
+* Referral bonuses are not given if there are external recruiting agency fees associated with hiring the new Staff member.
+* Agencies and external recruiters without a contracted relationship with Mattermost are not eligible to receive the bonus.
+* Reach out to Director of HR (DM: @natalie.jew) with any referral bonus-eligibility questions.
+
+**Receiving the Referral Bonus**
+* Employees of a Mattermost entity receive payment through regular payroll
+* Contractors add the bonus amount to their invoices
+* Contributors receive payment through a third party payment, such as virtual gift card
+
 ### Relocating
 
 Staff agreements are conditioned upon the country/region of residence noted in a staff member's contract. Location change requests should be discussed with HR and your MLT member. Staff must receive written approval from the Company prior to a country/region relocation.
