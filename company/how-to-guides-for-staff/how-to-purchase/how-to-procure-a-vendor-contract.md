@@ -73,8 +73,7 @@ All contracts are to address either Ian Tien \(CEO\) or Aneal Vallurupalli \(VP 
       <td style="text-align:left"><b>Contract Signer</b>
       </td>
       <td style="text-align:left">
-        <p>Ian Tien, CEO &gt; 5,000 USD</p>
-        <p>Aneal Vallurupallie &lt;= 5,000 USD</p>
+        <p>See Authorization Matrix</p>
       </td>
     </tr>
     <tr>
