@@ -97,7 +97,7 @@ _First Week Checklist_
 \[ \] Explore your Mattermost account settings, making note of your notification settings.
 - **Tip:** While you’re learning to use Mattermost, set your messages to send on CTRL+ENTER, so that using ENTER will insert a new line and not send the message immediately.
 
-\[ \] Learn how to format your messages using Markdown by reviewing [this guide](https://community-daily.mattermost.com/help/messaging).
+\[ \] Learn how to format your messages using Markdown by reviewing [this guide](https://community.mattermost.com/help/messaging).
 
 \[ \] Take Mattermost’s end user training [here](https://academy.mattermost.com/p/end-user-onboarding). Feel free to share any feedback with your manager.
 
