@@ -26,7 +26,7 @@ Preparing to hire an employee in a new state takes time, and we may be subject t
 
 ### Referral Program
 
-Mattermost Staff and Community members are eligible to receive a $500 USD referral bonus after the candidate they refer is hired and completes 90 days of service with Mattermost.
+Mattermost Staff and Community members are eligible to receive a $500 USD referral bonus if the candidate they refer is hired and completes 90 days of service with Mattermost.
 
 #### Referral Criteria
 
