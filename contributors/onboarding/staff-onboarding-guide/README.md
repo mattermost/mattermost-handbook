@@ -10,7 +10,7 @@
   * [Products](https://docs.mattermost.com/overview/product.html)
   * [Company](https://handbook.mattermost.com/company/about-mattermost/business-model)
   * [General Onboarding Checklist](https://handbook.mattermost.com/contributors/onboarding)
-  * [Departmental Onboarding Checklists](https://handbook.mattermost.com/contributors/onboarding)
+  * [Departmental Onboarding Checklists](https://handbook.mattermost.com/people/general-onboarding.html#contents)
 
 ### [Welcome to Mattermost](https://handbook.mattermost.com/people/general-onboarding.html#welcome-to-mattermost)
 
