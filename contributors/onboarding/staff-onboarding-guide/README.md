@@ -152,16 +152,14 @@ _First Week Checklist_
 
 \[1% draft. Placeholder for links to Departmental checklists\]
 
-* Exec onboarding
-* R&D onboarding
-
-> * [Product team onboarding](https://handbook.mattermost.com/operations/research-and-development/product/product-management-team-handbook#onboarding)
-> * [Engineering team onboarding](https://handbook.mattermost.com/contributors/onboarding/staff-onboarding-guide/engineer-onboarding)
-> * [Support onboarding](https://handbook.mattermost.com/operations/business-operations/customer-support)
-> * QA onboarding
-
-* G&A onboarding
-* Marketing onboarding
-* People team onboarding
-* [Sales onboarding](https://docs.google.com/document/d/1W3Yb3h7ZQ6oq0NhxPuUEjS6-u34spvdkg8VtUToxNQg/edit?ts=5d9bf9a6)
-* [Customer success](https://handbook.mattermost.com/operations/customer-success)
+- Exec onboarding
+- R&D onboarding
+  - [Product team onboarding](https://handbook.mattermost.com/operations/research-and-development/product/product-management-team-handbook#onboarding)
+  - [Engineering team onboarding](https://handbook.mattermost.com/contributors/onboarding/staff-onboarding-guide/engineer-onboarding)
+  - [Support onboarding](https://handbook.mattermost.com/operations/business-operations/customer-support)
+  - QA onboarding
+- G&A onboarding
+- Marketing onboarding
+- People team onboarding
+- [Sales onboarding](https://docs.google.com/document/d/1W3Yb3h7ZQ6oq0NhxPuUEjS6-u34spvdkg8VtUToxNQg/edit?ts=5d9bf9a6)
+- [Customer success](https://handbook.mattermost.com/operations/customer-success)
