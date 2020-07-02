@@ -144,13 +144,14 @@ Use highlighting of text to visually set off words and phrases that are importan
 | Keystrokes    | ` ``monospace`` ` | "Type ``https://`` in the string field." |
 | Screen output | ` ``monospace`` ` | See :ref:`literal-blocks` for an example. |
 | Parameter values | ` ``monospace`` `| "Set the *auto-config* parameter to ``false``" |
-| Field names       | ``**bold**`` | "Enter the font in the **Display Font** field." |
+| Field names       | ``**bold**`` | If the field has punctuation, include that in the formatting. For example "Enter the URL in the **Enter URL:** field."|
 | Clickable control |  ``**bold**`` | "Click **File > Save**."|
+| UI elements | ``**bold**``| "Open **Main Menu > Account Settings**." |
+| Dialog boxes | ``**bold**``| "The **Create Thread** window opens." |
 | Citations      | ``*italic*`` | "Read the book *Clean Code* by Robert Martin." |
-| Window titles | ``*italic*``| "The *Account Settings* window opens." |
-| User account names      | ``*italic*`` | "Log in to the *mysql* account." |
+| User account names | ``*italic*`` | "Log in to the *mysql* account." |
 | Parameter names | ``*italic*``| "Set the *auto-config* parameter to ``false``" |
-| Keyboard buttons      | Key1+Key2 | "Press CTRL+U to upload a file." |
+| Keyboard buttons  | Key1+Key2 | "Press CTRL+U to upload a file." |
 | Placeholder field | {placeholder}| "Use the URL in the form of {hostname}.mattermost.com/{team}." |    `  `  
                    
 ### Bullet lists
