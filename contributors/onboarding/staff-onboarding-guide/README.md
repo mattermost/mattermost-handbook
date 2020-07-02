@@ -88,7 +88,7 @@ _First Week Checklist_
 \[ \] Accept the invitation to your OneLogin account and switch your Mattermost account to use OneLogin from **Account Settings > Security > Sign-in Method > Switch to SAML**. Instructions are found [here](https://docs.google.com/presentation/d/1FsfSr6qgtjY4aCo_UoL7FSChwvX3iLXuCFKJYselxBo/edit#slide=id.p4). 
 - **Note:** You’ll find other apps, like LastPass and Zoom, there too.
 
-\[ \] Download the Mattermost Desktop App [here](https://about.mattermost.com/downloads) and log in to [https://community.mattermost.com](https://community.mattermost.com).
+\[ \] Download the Mattermost Desktop App [here](https://mattermost.com/download/#mattermostApps) and log in to [https://community.mattermost.com](https://community.mattermost.com).
 
 \[ \] Download the [Mattermost Mobile App](https://mattermost.com/download/#mattermostApps) on your smartphone and log in to [https://community.mattermost.com](https://community.mattermost.com) using your OneLogin account.
 
