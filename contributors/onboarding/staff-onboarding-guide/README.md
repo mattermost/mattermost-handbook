@@ -111,7 +111,7 @@ _First Week Checklist_
 
 \[ \] Share your GitHub username with @lynn.conway. You can, and are encouraged, to use your personal GitHub account. You may also create a GitHub account with your @mattermost email instead.
 
-\[ \] Connect GitHub and Mattermost via the instructions here: [&lt;jump to convo&gt;\]\(/core/pl/i4k6eke5t38gxxwrjtpeegbhwr\).
+\[ \] Connect GitHub and Mattermost via the instructions [here](https://community.mattermost.com/core/pl/i4k6eke5t38gxxwrjtpeegbhwr).
 
 \[ \] Join GitLab with your @mattermost email and contact @hanna.park to be added to the Mattermost group.
 
