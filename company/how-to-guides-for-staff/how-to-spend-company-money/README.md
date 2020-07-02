@@ -133,7 +133,7 @@ The company phone may only be used for work-related purposes. Personal usage is 
 
 #### Laptop
 
-Many staff members will use their company issued laptop until it breaks. That said, if your productivity is suffering, you can request a new laptop at any time. The average timeframe for equipment replacement is approximately three years. Laptops must be returned to the company or their drives wiped clean before they are disposed of. After the laptop is purchased and received, it is mandatory to register the laptop by completing our [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). If you purchased your own replacement laptop and you need to sumbit an expense report, please include the email confirmation you receive after submitting the Asset Registration Form with your expense report. This must be completed within 5 business days after the laptop was received.
+Many staff members will use their company issued laptop until it breaks. That said, if your productivity is suffering, you can request a new laptop at any time. The average timeframe for equipment replacement is approximately three years. Old laptops should be returned to the company. Replacement laptops should follow the registration process similar to new hires by completing our [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). 
 
 #### Other 
 
