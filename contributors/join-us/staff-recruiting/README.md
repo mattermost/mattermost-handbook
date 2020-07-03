@@ -115,7 +115,7 @@ Company pre-meet scores are as follows:
 
 ## Interview Process 
 
-Interview panels and the order of interviewers will be determined by the Hiring Manager during the Recruiter In-Take. Ahead of the first interview for a new req, the Recruiter will send the Interview Team a summary of the Interview Plan, including each Interviewer's Focus Area(s). Hiring Manager will also indicate the Interview Mid-Point which will also drive the Mid-Interview Syncs. 
+Interview panels and the order of interviewers is determined by the Hiring Manager during the Recruiter Intake. Ahead of the first interview for a new requisition, the Recruiter will send the Interview Team a summary of the Interview Plan, including each interviewer's focus area(s). Hiring Manager will also indicate the Interview Mid-Point which will also drive the Mid-Interview Syncs.
 
 For the purpose of a positive candidate experience and efficient use of mana, it's recommended that there be no more than four non-Hiring Manager and non-MLT interviewers. Ultimately, the Hiring Manager will decide how many interviewers are needed.
 
