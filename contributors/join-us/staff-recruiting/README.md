@@ -21,7 +21,7 @@ Your Recruiter is assigned based on the role and team. This may differ depending
 
 Your Recruiter will schedule an Intake Session after you’ve completed your Job Description. During this call, your Recruiter will work with you to ensure alignment on the level, ideal candidate profile, the interview process, and next steps.
 
-### Role Leveling 
+### Role leveling
 
 You can view the current [v1 Job Levels here](https://docs.google.com/spreadsheets/d/1kNsl7JUWDQ8MhWonys9dR3osrxEWYkKVIoECfFKSQzw/edit#gid=0). 
 
