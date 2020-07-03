@@ -185,5 +185,5 @@ This process will be managed by HR.
 
 ### Pre-onboarding process
 New colleagues will receive pre-onboarding instructions from the People team. Hiring Managers will also receive a request to indicate new systems for their new direct report.
-* The Recruiter will share the ICP with HR as part of the Offer Request. 
+* The Recruiter will share the ICP with HR as part of the Offer Request.
 * Hiring Managers should review the role ICP with the new hire during Onboarding to help align them to the role’s focus areas and help contextualize their priorities as they ramp-up with the team and their new peers.
