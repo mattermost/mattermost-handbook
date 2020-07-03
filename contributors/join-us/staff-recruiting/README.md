@@ -140,7 +140,7 @@ Ahead of MLT and AA interviews, the Recruiter may schedule a live mid-interview 
 
 **Logistics**
 * The Mid-Interview Sync will be pre-scheduled to occur after the last mid-interviewer completes. 
-* If there are multiple candidates for the same role, the sync may be scheduled after all candidates have gone through the last mid-interviewer. 
+* If there are multiple candidates for the same role, the sync may be scheduled after all candidates have gone through the last mid-interviewer.
 * If you are an interviewer and cannot make the scheduled sync, please make sure to submit complete feedback in Lever ahead of the scheduled sync. 
 
 ### Interview Project
