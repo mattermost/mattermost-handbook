@@ -136,7 +136,9 @@ In order to expedite the recruiting process for each candidate, please follow th
 * Potential [blindspots](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check) or [brown M&Ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms) that may require either a future interviewer to ask about or the Hiring Manager to cover during a reference check.
 
 ### Mid-Interview Sync
-Ahead of MLT and AA interviews, the Recruiter may schedule a live mid-interview sync to align on intent to move forward and any ICP criteria that need additional assessment.  If there are multiple candidates in the pipe, the Recruiter may ask the interview panel to rank the candidate pool. This exercise helps clear any potential blindspots or confusion around role expectations. It also allows the Recruiting team to prioritize the highest ranking candidates to complete the interview process, as appropriate. 
+Ahead of MLT and AA interviews, the Recruiter may schedule a live Mid-Interview Sync to align on intent to move forward and any ICP criteria that need additional assessment. 
+
+If there are multiple candidates in the pipe, the Recruiter may ask the interview panel to rank the candidate pool. This exercise helps clear any potential blindspots or confusion around role expectations. It also allows the Recruiting team to prioritize the highest ranking candidates to complete the interview process, as appropriate.
 
 **Logistics**
 * The Mid-Interview Sync will be pre-scheduled to occur after the last mid-interviewer completes. 
