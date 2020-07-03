@@ -129,7 +129,7 @@ In order to expedite the recruiting process for each candidate, please follow th
 1. Interviewers should submit their 1-4 rating in Lever within 1 hour of the interview completion. 
 2. Interviews should submit their full summary feedback within 24 hours of the interview. 
 
-**Tips on Sharing Candidate Feedback** 
+**Tips on sharing candidate feedback** 
 * **Required:** Lever’s 1-4 rating on the candidate.
 * Clearly state your opinion on how this candidate ranks compared to other candidates interviewed as it relates to your focus area. This should be objective and simple. For example: "Strong Yes for SRE, but not quite as technical in Kubernetes as John Doe."
 * Feedback on the specific skill/focus area assigned with examples to help contextualize your rating  
