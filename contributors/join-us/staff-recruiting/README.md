@@ -172,7 +172,7 @@ The order of approval will follow:
 
 After offer approval, the Recruiter, Team MLT member, or AA Interviewer will extend a verbal offer to the candidate. Upon verbal acceptance, the Director of HR will send the offer letter.
 
-### Extending an Offer 
+### Extending an offer 
 
 Recruiting will typically extend an offer, unless otherwise determined by the MLT team member or Hiring Manager. Exceptions may be made if the Team MLT memberor AA Interviewer prefers to extend the offer. 
 
