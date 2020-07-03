@@ -161,7 +161,7 @@ All take-home projects should list the expected amount of time to complete. This
 ### Reference Checks 
 WIP 
 
-### Offer Approval Process 
+### Offer approval process 
 Once reference checks are complete and an offer is ready to be made. The Recruiter will enter in the offer information in Lever for approval. 
 
 The order of approval will follow: 
