@@ -15,7 +15,7 @@ Once you have confirmation that your new headcount has been approved, you’re r
 
 Your Recruiter will be based on the role and team. This may differ depending on Recruiting Team bandwidth, and will be communicated on a case-by-case basis. 
 * Technical Individual Contributor Roles -- Teresa Novoa 
-* All others -- Natalie Jew 
+* All others - Natalie Jew
 
 ## Recruiter In-Take Session 
 
