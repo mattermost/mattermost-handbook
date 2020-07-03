@@ -17,7 +17,7 @@ Your Recruiter is assigned based on the role and team. This may differ depending
 * Technical Individual Contributor Roles -- Teresa Novoa 
 * All others - Natalie Jew
 
-## Recruiter In-Take Session 
+## Recruiter intake session
 
 Your Recruiter will schedule an Intake Session after you’ve completed your Job Description. During this call, your Recruiter will work with you to ensure alignment on the level, ideal candidate profile, the interview process, and next steps.
 
