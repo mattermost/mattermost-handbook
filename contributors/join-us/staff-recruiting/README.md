@@ -11,7 +11,7 @@ Hiring Managers should confirm with your Team's MLT that your new headcount requ
 
 ## Role Description 
 
-Once you have confirmation that your new headcount has been approved, you’re ready to begin the recruitment process. Complete the [Job Description portion](https://docs.google.com/document/d/1rpTI2NKu4H_781vpx_eD9Fku7go4gGDs1P7bJAMQvAU/edit#) and share with your Recruiter, who will schedule a [Recruiter In-Take Session](https://handbook.mattermost.com/contributors/join-us/staff-recruiting/Recruiting Cadences) to review the remainder of the in-take template. 
+Once you have confirmation that your new headcount has been approved, you’re ready to begin the recruitment process. Complete the [Job Description portion](https://docs.google.com/document/d/1rpTI2NKu4H_781vpx_eD9Fku7go4gGDs1P7bJAMQvAU/edit#) and share with your Recruiter, who will schedule a [Recruiter Intake Session](https://handbook.mattermost.com/contributors/join-us/staff-recruiting/recruiting-cadences.html) to review the remainder of the intake template. 
 
 Your Recruiter will be based on the role and team. This may differ depending on Recruiting Team bandwidth, and will be communicated on a case-by-case basis. 
 * Technical Individual Contributor Roles -- Teresa Novoa 
