@@ -165,7 +165,7 @@ WIP
 Once reference checks are complete and an offer is ready to be made. The Recruiter will enter in the offer information in Lever for approval.
 
 The order of approval will follow:
-1. HR Director 
+1. HR Director
 2. MLT team member 
 3. VP, Finance & Operations 
 4. CEO 
