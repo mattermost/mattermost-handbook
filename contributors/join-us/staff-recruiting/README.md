@@ -61,7 +61,7 @@ Hiring Managers can customize the questions asked during the Recruiter screen or
 * Have one main point of contact throughout the interview process.
 * Collect compensation requirements and verify location of residence 
 * Provide the candidate with more information on: Mattermost, the role, the recruiting process, and to understand the candidate’s: timeline, role/career aspirations, assess interest, compensation expectations and answer questions.
-* Hiring Managers can also request the Recruiter to ask specific questions as part of the Recruiter Screen. Hiring Managers can decide the set of questions during the Recruiter in-take.
+* Hiring Managers can also request the Recruiter to ask specific questions as part of the Recruiter Screen. Hiring Managers can decide the set of questions during the Recruiter Intake.
 
 ## Pre-Meet Scores \(Optional\) 
 
