@@ -38,7 +38,9 @@ P1 - Experience as an Engineer or a Lead for a team doing front-end/UI-UX work i
 
 ### Changing the ICP 
 
-The ICP is also a helpful indicator of talent pools. If a role is not gaining enough candidate pipeline or the candidate fit is off, the ICP enables Hiring Managers to efficiently determine appropriate tradeoffs as it relates to the P0 or P1 skills, experience and mindsets. For example, a Recruiter may find that we have filtered multiple candidates who do not have a specific P0 skill. As a result, a Hiring Manager may determine that it may be worth deprioritizing a specific qualification from P0 to P1 in order to widen the candidate pool. If an ICP is ever changed, the Recruiter will ensure that the hiring team is aligned to the change. 
+The ICP is also a helpful indicator of talent pools. If a role is not gaining enough candidate pipeline or the candidate fit is off, the ICP enables Hiring Managers to efficiently determine appropriate tradeoffs as it relates to the "P0" or "P1" skills, experience, and mindsets. 
+
+For example, a Recruiter may find that we have filtered multiple candidates who do not have a specific "P0" skill. As a result, a Hiring Manager may determine that it may be worth deprioritizing a specific qualification from "P0" to "P1" in order to widen the candidate pool. If an ICP is ever changed, the Recruiter will ensure that the hiring team is aligned to the change.
 
 ## Pre-Interview Screens
 Hiring Managers will review the Pre-Interview Screening process during the Recruiter In-Take Session. 
