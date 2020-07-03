@@ -168,7 +168,7 @@ The order of approval will follow:
 1. HR Director
 2. MLT team member 
 3. VP of Finance and Operations
-4. CEO 
+4. CEO
 
 After offer approval, the Recruiter, Team MLT or AA Interview will extend a verbal offer to the candidate. Upon verbal acceptance, the Director of HR will send the offer letter. 
 
