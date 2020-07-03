@@ -166,7 +166,7 @@ Once reference checks are complete and an offer is ready to be made. The Recruit
 
 The order of approval will follow:
 1. HR Director
-2. MLT team member 
+2. MLT member
 3. VP of Finance and Operations
 4. CEO
 
