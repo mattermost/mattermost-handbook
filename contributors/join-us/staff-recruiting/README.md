@@ -14,7 +14,7 @@ Hiring Managers should confirm with your team's MLT that your new headcount requ
 Once you have confirmation that your new headcount has been approved, you’re ready to begin the recruitment process. Complete the [Job Description portion](https://docs.google.com/document/d/1rpTI2NKu4H_781vpx_eD9Fku7go4gGDs1P7bJAMQvAU/edit#) and share with your Recruiter, who will schedule time to review the remainder of the Recruiting Intake template.
 
 Your Recruiter is assigned based on the role and team. This may differ depending on Recruiting Team bandwidth, and will be communicated on a case-by-case basis. 
-* Technical Individual Contributor Roles -- Teresa Novoa 
+* Technical individual contributor roles - Teresa Novoa
 * All others - Natalie Jew
 
 ## Recruiter intake session
