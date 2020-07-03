@@ -146,7 +146,7 @@ Ahead of MLT and AA interviews, the Recruiter may schedule a live mid-interview 
 ### Interview Project
 Candidates may be asked to complete a take-home project as part of the interview process. Hiring Managers will indicate this need during the Recruiting Intake. Hiring Managers can create their own project or reach out to Recruiting for sample projects.
 
-All take home projects should list the expected amount of time to complete. This provides candidates with expectation clarity. The Hiring Manager will indicate which stage of the recruiting process a take home will be given. The process for this stage will be standard for all roles: 
+All take-home projects should list the expected amount of time to complete. This provides candidates with expectation clarity. The Hiring Manager will indicate which stage of the recruiting process a take-home will be given. The process for this stage will be standard for all roles:
 
 1. Hiring Manager or Recruiter will inform the candidate of the Take Home project details and ask the candidate to complete either: 
  * [CLA](https://mattermost.org/mattermost-contributor-agreement/)if the Take Home project is a Community Ticket 
