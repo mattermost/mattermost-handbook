@@ -55,7 +55,7 @@ The Recruiter will also archive candidates that are located in countries/regions
 
 This is an optional step, but is highly recommended to improve candidate and job match ahead of any reach out. Hiring Managers can create a set of questions that every candidate will be asked to complete either as part of the application process or before the Recruiter Screen.
 
-### Recruiter Screen \(Optional\) 
+### Recruiter Screen \(optional\) 
 
 Hiring Managers can customize the questions asked during the Recruiter screen or they may decide to remove this stage and handle the first screen themselves. The purpose of this screen is to:
 * Have one main point of contact throughout the interview process.
