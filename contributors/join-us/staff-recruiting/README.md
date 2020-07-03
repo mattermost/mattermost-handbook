@@ -57,7 +57,7 @@ This is an optional step, but is highly recommended to improve candidate and job
 
 ### Recruiter Screen \(optional\) 
 
-Hiring Managers can customize the questions asked during the Recruiter screen or they may decide to remove this stage and handle the first screen themselves. The purpose of this screen is to:
+Hiring Managers can customize the questions asked during the Recruiter Screen or they may decide to remove this stage and handle the first screen themselves. The purpose of this screen is to:
 * Have one main point of contact throughout the interview process.
 * Collect compensation requirements and verify country/region of residence.
 * Provide the candidate with more information on: Mattermost, the role, the recruiting process, and to understand the candidate’s: timeline, role/career aspirations, assess interest, compensation expectations, and answer questions.
