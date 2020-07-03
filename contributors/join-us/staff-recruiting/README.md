@@ -33,7 +33,7 @@ The ICP should be a clear list of key skills, experiences, and/or mindsets that 
 
 The ICP will be used to align the sourcing, interview panel focus areas, and onboarding goals for this new role. For example, here’s an ICP for a [Lead Customer Journey Engineer](https://jobs.lever.co/mattermost/3c1dd4ff-b135-4bb7-8b14-73c4a8cd674f). The list below reflects the top skills and experience to source for candidates, the area of focus for the interview panel, and what the eventual new hire's onboarding goals will be based on.  
 
-P0 - 2+ Years experience leading a team of engineers
+**P0:** 2+ years of experience leading a team of engineers
 P1 - Experience as an Engineer or a Lead for a team doing front-end/UI-UX work in JavaScript, React, etc.
 
 ### Changing the ICP 
