@@ -113,7 +113,7 @@ Company pre-meet scores are as follows:
 * **Gender identity other than male \(+3\)**
 * **Lack of any university of college education \(+3\):** For someone to be highly successful in technology without a formal education is rare and team members will this profile can help us expand into new talent pools
 
-## Interview Process 
+## Interview process
 
 Interview panels and the order of interviewers is determined by the Hiring Manager during the Recruiter Intake. Ahead of the first interview for a new requisition, the Recruiter will send the Interview Team a summary of the Interview Plan, including each interviewer's focus area(s). Hiring Manager will also indicate the Interview Mid-Point which will also drive the Mid-Interview Syncs.
 
