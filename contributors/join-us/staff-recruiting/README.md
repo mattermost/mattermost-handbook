@@ -63,7 +63,7 @@ Hiring Managers can customize the questions asked during the Recruiter Screen or
 * Provide the candidate with more information on: Mattermost, the role, the recruiting process, and to understand the candidate’s: timeline, role/career aspirations, assess interest, compensation expectations, and answer questions.
 * Hiring Managers can also request the Recruiter to ask specific questions as part of the Recruiter Screen. Hiring Managers can decide the set of questions during the Recruiter Intake.
 
-## Pre-Meet Scores \(Optional\) 
+## Pre-meet scores \(optional\) 
 
 In the selection process prior to meeting candidates, hiring managers face two big challenges: 
 
