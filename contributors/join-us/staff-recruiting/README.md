@@ -150,7 +150,7 @@ Candidates may be asked to complete a take-home project as part of the interview
 
 All take-home projects should list the expected amount of time to complete. This provides candidates with expectation clarity. The Hiring Manager will indicate which stage of the recruiting process a take-home will be given. The process for this stage will be standard for all roles:
 
-1. Hiring Manager or Recruiter will inform the candidate of the Take Home project details and ask the candidate to complete either: 
+1. Hiring Manager or Recruiter will inform the candidate of the take-home project details and ask the candidate to complete either:
  * [CLA](https://mattermost.org/mattermost-contributor-agreement/)if the Take Home project is a Community Ticket 
  * NDA if the above doesn’t apply 
 2. Hiring Manager or Recruiter will send the candidate the Take Home instructions through Lever. 
