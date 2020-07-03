@@ -125,7 +125,7 @@ In order to expedite the recruiting process for each candidate, please follow th
 * Feedback on the specific skill/focus area assigned with examples to help contextualize your rating  
 * Potential [blindspots](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check) or [brown m&ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms) that may require either a future interviewer to ask about or the Hiring Manager to cover during a reference check.
 
-### Interview Project
+### Interview project
 Candidates may be asked to complete a project as part of the interview process. Hiring Managers will indicate this need during the in-take. Hiring Managers can create their own project. Reach out to Recruiting for sample projects. 
 
 All take home projects should list the expected amount of time to complete. This provides candidates with expectation clarity. The Hiring Manager will indicate which stage of the recruiting process a take home will be given. The process for this stage will be standard for all roles: 
