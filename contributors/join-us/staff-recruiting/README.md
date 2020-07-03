@@ -181,7 +181,7 @@ This process will be managed by HR.
 
 1. Once an offer is approved, the Recruiter will select the appropriate offer template based on candidates’s residence country/region and send for signatures.
 2. Upon full execution of a new Staff contract, the Recruiter will mark the candidate as “hired” in Lever and export the profile to BambooHR. 
-3. Once exported to BambooHR, an automatic New Starter Notification will be sent to the Hiring Team to kick-off the onboarding process. 
+3. Once exported to BambooHR, an automatic New Starter Notification will be sent to the Hiring Team to kick-off the onboarding process.
 
 ### Pre-Onboarding Process
 New Colleagues will receive pre-onboarding instructions from the People team. Hiring Managers will also receive a request to indicate new systems for their new direct report. 
