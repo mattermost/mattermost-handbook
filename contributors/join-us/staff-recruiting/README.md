@@ -179,7 +179,7 @@ Recruiting will typically extend an offer, unless otherwise determined by the ML
 ### Sending an Offer & Notifying Internal Teams 
 This process will be managed by HR. 
 
-1. Once an offer is approved, the Recruiter will select the appropriate offer template based on candidates’s residence region and send for signatures. 
+1. Once an offer is approved, the Recruiter will select the appropriate offer template based on candidates’s residence country/region and send for signatures.
 2. Upon full execution of a new Staff contract, the Recruiter will mark the candidate as “hired” in Lever and export the profile to BambooHR. 
 3. Once exported to BambooHR, an automatic New Starter Notification will be sent to the Hiring Team to kick-off the onboarding process. 
 
