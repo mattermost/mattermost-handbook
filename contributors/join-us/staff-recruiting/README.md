@@ -17,7 +17,7 @@ Your Recruiter will be based on the role and team. This may differ depending on 
 * Technical individual contributor roles - Teresa Novoa
 * All others -- Natalie Jew 
 
-### Role Leveling 
+### Role leveling 
 
 You can view the current [v1 Job Levels here](https://docs.google.com/spreadsheets/d/1kNsl7JUWDQ8MhWonys9dR3osrxEWYkKVIoECfFKSQzw/edit#gid=0). 
 **Note:** HR is also working with MLT to build v2 which will help provide additional clarity. If you are unsure about how to use or assign a level to a new job requisition, your Recruiter can help you walk through this as part of the Recruiter Intake. 
