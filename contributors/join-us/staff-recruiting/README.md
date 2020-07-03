@@ -29,7 +29,7 @@ You can view the current [v1 Job Levels here](https://docs.google.com/spreadshee
 
 ### Ideal Candidate Profile (ICP) 
 
-The ICP should be a clear list of key skills, experiences and/or mindsets that the Hiring Manager believes represent the Ideal Candidate. The Hiring Manager will be asked to stack rank the ICP list and use ‘P0’ to indicate "must haves" and 'P1' to indicate "nice to have" the ideal skills, experiences and mindsets. 
+The ICP should be a clear list of key skills, experiences, and/or mindsets that the Hiring Manager believes represent the Ideal Candidate. The Hiring Manager will be asked to stack-rank the ICP list and use "P0" to indicate "must-haves" and "P1" to indicate "nice-to-have" the ideal skills, experiences, and mindsets.
 
 The ICP will be used to align the sourcing, interview panel focus areas, and onboarding goals for this new role. For example, here’s an ICP for a [Lead Customer Journey Engineer](https://jobs.lever.co/mattermost/3c1dd4ff-b135-4bb7-8b14-73c4a8cd674f). The list below reflects the top skills and experience to source for candidates, the area of focus for the interview panel, and what the eventual new hire's onboarding goals will be based on.  
 
