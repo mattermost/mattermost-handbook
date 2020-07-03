@@ -51,7 +51,7 @@ Hiring Managers will review resumes and tag their Recruiter in Lever to indicate
 
 The Recruiter will also archive Candidates that are located in regions we are not able to hire or do not match the location target of the role. 
 
-### Post-Application Candidate Questions \(Optional\) 
+### Post-Application candidate questions \(optional\) 
 
 This is an optional step, but is highly recommended to improve candidate & job match ahead of any reach out. Hiring Managers can create a set of questions that every candidate will be asked to complete either as part of the application process or before the Recruiter Screen. 
 
