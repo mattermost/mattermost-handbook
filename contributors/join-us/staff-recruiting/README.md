@@ -53,7 +53,7 @@ The Recruiter will also archive candidates that are located in countries/regions
 
 ### Post-Application candidate questions \(optional\) 
 
-This is an optional step, but is highly recommended to improve candidate & job match ahead of any reach out. Hiring Managers can create a set of questions that every candidate will be asked to complete either as part of the application process or before the Recruiter Screen. 
+This is an optional step, but is highly recommended to improve candidate and job match ahead of any reach out. Hiring Managers can create a set of questions that every candidate will be asked to complete either as part of the application process or before the Recruiter Screen.
 
 ### Recruiter Screen \(Optional\) 
 
