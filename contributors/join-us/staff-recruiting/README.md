@@ -152,7 +152,7 @@ All take-home projects should list the expected amount of time to complete. This
 
 1. Hiring Manager or Recruiter will inform the candidate of the take-home project details and ask the candidate to complete either:
  * [CLA](https://mattermost.org/mattermost-contributor-agreement/) if the take-home project is a Community ticket.
- * NDA if the above doesn’t apply 
+ * NDA if the above doesn’t apply.
 2. Hiring Manager or Recruiter will send the candidate the Take Home instructions through Lever. 
 3. Upon completion, the Hiring Manager or Recruiter will complete the [Interview Project Gift Card Form](https://docs.google.com/forms/d/e/1FAIpQLSfMppjsYmEyrMmY3tXnKdAs_cvA21o0vHRcyuVN6uFOoU3_Eg/viewform) which will notify the People Team to send a Thank You gift to the candidate for completing the project.
 
