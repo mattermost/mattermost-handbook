@@ -132,7 +132,7 @@ In order to expedite the recruiting process for each candidate, please follow th
 **Tips on sharing candidate feedback** 
 * **Required:** Lever’s 1-4 rating on the candidate.
 * Clearly state your opinion on how this candidate ranks compared to other candidates interviewed as it relates to your focus area. This should be objective and simple. For example: "Strong Yes for SRE, but not quite as technical in Kubernetes as John Doe."
-* Feedback on the specific skill/focus area assigned with examples to help contextualize your rating  
+* Feedback on the specific skill/focus area assigned with examples to help contextualize your rating.
 * Potential [blindspots](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check) or [brown m&ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms) that may require either a future interviewer to ask about or the Hiring Manager to cover during a reference check.
 
 ### Mid-Interview Sync
