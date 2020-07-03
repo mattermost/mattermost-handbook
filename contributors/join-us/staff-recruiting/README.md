@@ -176,7 +176,7 @@ After offer approval, the Recruiter, Team MLT member, or AA Interviewer will ext
 
 Recruiting will typically extend an offer, unless otherwise determined by the MLT member or Hiring Manager. Exceptions may be made if the Team MLT member or AA Interviewer prefers to extend the offer.
 
-### Sending an Offer & Notifying Internal Teams 
+### Sending an offer and notifying internal teams 
 This process will be managed by HR. 
 
 1. Once an offer is approved, the Recruiter will select the appropriate offer template based on candidates’s residence country/region and send for signatures.
