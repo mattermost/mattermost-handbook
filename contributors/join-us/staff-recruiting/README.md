@@ -19,7 +19,7 @@ Your Recruiter will be based on the role and team. This may differ depending on 
 
 ## Recruiter In-Take Session 
 
-Your Recruiter will schedule an in-take session after you’ve completed your Job Description. During this call, your Recruiter will work with you to ensure alignment on the level, ideal candidate profile, the interview process and next steps. 
+Your Recruiter will schedule an Intake Session after you’ve completed your Job Description. During this call, your Recruiter will work with you to ensure alignment on the level, ideal candidate profile, the interview process, and next steps.
 
 ### Role Leveling 
 
