@@ -45,7 +45,7 @@ For example, a Recruiter may find that we have filtered multiple candidates who 
 ## Pre-Interview Screens
 Hiring Managers will review the Pre-Interview Screening process during the Recruiter Intake Session. 
 
-### Resume Screen 
+### Resume screen
 
 Hiring Managers will review resumes and tag their Recruiter in Lever to indicate interest in a candidate. Hiring Managers can review candidates that are in the **Shortlist** or **New Lead** stage. 
 
