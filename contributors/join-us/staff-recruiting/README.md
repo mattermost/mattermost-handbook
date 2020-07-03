@@ -49,7 +49,7 @@ Hiring Managers will review the Pre-Interview Screening process during the Recru
 
 Hiring Managers will review resumes and tag their Recruiter in Lever to indicate interest in a candidate. Hiring Managers can review candidates that are in the **Shortlist** or **New Lead** stage. 
 
-The Recruiter will also archive Candidates that are located in regions we are not able to hire or do not match the location target of the role. 
+The Recruiter will also archive candidates that are located in countries/regions we are not able to hire or do not match the location target of the role. 
 
 ### Post-Application candidate questions \(optional\) 
 
