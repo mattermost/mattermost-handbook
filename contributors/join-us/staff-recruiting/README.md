@@ -156,7 +156,7 @@ All take-home projects should list the expected amount of time to complete. This
 2. Hiring Manager or Recruiter will send the candidate the take-home project instructions through Lever.
 3. Upon completion, the Hiring Manager or Recruiter will complete the [Interview Project Gift Card Form](https://docs.google.com/forms/d/e/1FAIpQLSfMppjsYmEyrMmY3tXnKdAs_cvA21o0vHRcyuVN6uFOoU3_Eg/viewform) which will notify the People Team to send a Thank You gift to the candidate for completing the project.
 
-## Offer Stage
+## Offer stage
 
 ### Reference checks 
 WIP 
