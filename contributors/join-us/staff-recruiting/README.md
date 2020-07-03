@@ -11,15 +11,11 @@ Hiring Managers should confirm with your Team's MLT that your new headcount requ
 
 ## Role Description 
 
-Once you have confirmation that your new headcount has been approved, you’re ready to begin the recruitment process. Complete the [Job Description portion](https://docs.google.com/document/d/1rpTI2NKu4H_781vpx_eD9Fku7go4gGDs1P7bJAMQvAU/edit#) and share with your Recruiter, who will schedule time to review the remainder of the in-take template. 
+Once you have confirmation that your new headcount has been approved, you’re ready to begin the recruitment process. Complete the [Job Description portion](https://docs.google.com/document/d/1rpTI2NKu4H_781vpx_eD9Fku7go4gGDs1P7bJAMQvAU/edit#) and share with your Recruiter, who will schedule a [Recruiter In-Take Session](https://handbook.mattermost.com/contributors/join-us/staff-recruiting/Recruiting Cadences) to review the remainder of the in-take template. 
 
 Your Recruiter will be based on the role and team. This may differ depending on Recruiting Team bandwidth, and will be communicated on a case-by-case basis. 
 * Technical Individual Contributor Roles -- Teresa Novoa 
 * All others -- Natalie Jew 
-
-## Recruiter In-Take Session 
-
-Your Recruiter will schedule an in-take session after you’ve completed your Job Description. During this call, your Recruiter will work with you to ensure alignment on the level, ideal candidate profile, the interview process and next steps. 
 
 ### Role Leveling 
 
@@ -128,14 +124,6 @@ In order to expedite the recruiting process for each candidate, please follow th
 * Clearly state your opinion on how this candidate ranks compared to other candidates interviewed as it relates to your focus area. This should be objective and simple. For example: Strong Yes for SRE, but not quite as technical in Kubernetes as John Doe. 
 * Feedback on the specific skill/focus area assigned with examples to help contextualize your rating  
 * Potential [blindspots](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check) or [brown m&ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms) that may require either a future interviewer to ask about or the Hiring Manager to cover during a reference check.
-
-### Mid-Interview Sync
-Ahead of MLT and AA interviews, the Recruiter may schedule a live mid-interview sync to align on intent to move forward and any ICP criteria that need additional assessment.  If there are multiple candidates in the pipe, the Recruiter may ask the interview panel to rank the candidate pool. This exercise helps clear any potential blindspots or confusion around role expectations. It also allows the Recruiting team to prioritize the highest ranking candidates to complete the interview process, as appropriate. 
-
-**Logistics**
-* Mid-interview sync will be pre-scheduled to occur after the last mid-interviewer completes. 
-* If there are multiple candidates for the same role, the sync may be scheduled after all candidates have gone through the last mid-interviewer. 
-* If you are an interviewer and cannot make the scheduled sync, please make sure to submit complete feedback in Lever ahead of the scheduled sync. 
 
 ### Interview Project
 Candidates may be asked to complete a project as part of the interview process. Hiring Managers will indicate this need during the in-take. Hiring Managers can create their own project. Reach out to Recruiting for sample projects. 
