@@ -43,7 +43,7 @@ The ICP is also a helpful indicator of talent pools. If a role is not gaining en
 For example, a Recruiter may find that we have filtered multiple candidates who do not have a specific "P0" skill. As a result, a Hiring Manager may determine that it may be worth deprioritizing a specific qualification from "P0" to "P1" in order to widen the candidate pool. If an ICP is ever changed, the Recruiter will ensure that the hiring team is aligned to the change.
 
 ## Pre-Interview Screens
-Hiring Managers will review the Pre-Interview Screening process during the Recruiter In-Take Session. 
+Hiring Managers will review the Pre-Interview Screening process during the Recruiter Intake Session. 
 
 ### Resume Screen 
 
