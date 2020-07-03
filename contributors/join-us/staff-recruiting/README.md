@@ -143,7 +143,7 @@ If there are multiple candidates in the pipe, the Recruiter may ask the intervie
 **Logistics**
 * The Mid-Interview Sync will be pre-scheduled to occur after the last mid-interviewer completes. 
 * If there are multiple candidates for the same role, the sync may be scheduled after all candidates have gone through the last mid-interviewer.
-* If you are an interviewer and cannot make the scheduled sync, please make sure to submit complete feedback in Lever ahead of the scheduled sync. 
+* If you are an interviewer and cannot make the scheduled sync, please make sure to submit complete feedback in Lever ahead of the scheduled sync.
 
 ### Interview Project
 Candidates may be asked to complete a take-home project as part of the interview process. Hiring Managers will indicate this need during the Recruiting Intake. Hiring Managers can create their own project or reach out to Recruiting for sample projects.
