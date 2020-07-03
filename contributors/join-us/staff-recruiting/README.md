@@ -133,7 +133,7 @@ In order to expedite the recruiting process for each candidate, please follow th
 * **Required:** Lever’s 1-4 rating on the candidate.
 * Clearly state your opinion on how this candidate ranks compared to other candidates interviewed as it relates to your focus area. This should be objective and simple. For example: "Strong Yes for SRE, but not quite as technical in Kubernetes as John Doe."
 * Feedback on the specific skill/focus area assigned with examples to help contextualize your rating.
-* Potential [blindspots](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check) or [brown m&ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms) that may require either a future interviewer to ask about or the Hiring Manager to cover during a reference check.
+* Potential [blindspots](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check) or [brown M&Ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms) that may require either a future interviewer to ask about or the Hiring Manager to cover during a reference check.
 
 ### Mid-Interview Sync
 Ahead of MLT and AA interviews, the Recruiter may schedule a live mid-interview sync to align on intent to move forward and any ICP criteria that need additional assessment.  If there are multiple candidates in the pipe, the Recruiter may ask the interview panel to rank the candidate pool. This exercise helps clear any potential blindspots or confusion around role expectations. It also allows the Recruiting team to prioritize the highest ranking candidates to complete the interview process, as appropriate. 
