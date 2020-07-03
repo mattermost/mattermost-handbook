@@ -144,7 +144,7 @@ Ahead of MLT and AA interviews, the Recruiter may schedule a live mid-interview 
 * If you are an interviewer and cannot make the scheduled sync, please make sure to submit complete feedback in Lever ahead of the scheduled sync. 
 
 ### Interview Project
-Candidates may be asked to complete a project as part of the interview process. Hiring Managers will indicate this need during the in-take. Hiring Managers can create their own project. Reach out to Recruiting for sample projects. 
+Candidates may be asked to complete a take-home project as part of the interview process. Hiring Managers will indicate this need during the Recruiting Intake. Hiring Managers can create their own project or reach out to Recruiting for sample projects.
 
 All take home projects should list the expected amount of time to complete. This provides candidates with expectation clarity. The Hiring Manager will indicate which stage of the recruiting process a take home will be given. The process for this stage will be standard for all roles: 
 
