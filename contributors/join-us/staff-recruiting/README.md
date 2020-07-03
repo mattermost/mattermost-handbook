@@ -6,7 +6,7 @@ description: 1% complete.
 
 In order to continually increase what we offer to customers we need to continually source, assess, hire and onboard new staff members with [high standards](https://handbook.mattermost.com/contributors/onboarding/staff-onboarding-guide#leadership-principles). The below outlines the process for recruiting new staff into the company.  
 
-## How to Open a New Role 
+## How to open a new role 
 Hiring Managers should confirm with your team's MLT that your new headcount requisition has been approved. If not, your MLT team member should work with the Director of HR and VP of Finance and Operations to obtain approval. 
 
 ## Role Description 
