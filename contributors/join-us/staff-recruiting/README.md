@@ -9,7 +9,7 @@ In order to continually increase what we offer to customers we need to continual
 ## How to Open a New Role 
 Hiring Managers should confirm with your Team's MLT that your new headcount requisition has been approved. If not, your MLT team member should work with the Director of HR and VP Finance and Operations to gain approval. 
 
-## Role Description 
+## Role description 
 
 Once you have confirmation that your new headcount has been approved, you’re ready to begin the recruitment process. Complete the [Job Description portion](https://docs.google.com/document/d/1rpTI2NKu4H_781vpx_eD9Fku7go4gGDs1P7bJAMQvAU/edit#) and share with your Recruiter, who will schedule a [Recruiter Intake Session](https://handbook.mattermost.com/contributors/join-us/staff-recruiting/recruiting-cadences.html) to review the remainder of the intake template. 
 
