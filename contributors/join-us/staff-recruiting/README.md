@@ -139,7 +139,7 @@ In order to expedite the recruiting process for each candidate, please follow th
 Ahead of MLT and AA interviews, the Recruiter may schedule a live mid-interview sync to align on intent to move forward and any ICP criteria that need additional assessment.  If there are multiple candidates in the pipe, the Recruiter may ask the interview panel to rank the candidate pool. This exercise helps clear any potential blindspots or confusion around role expectations. It also allows the Recruiting team to prioritize the highest ranking candidates to complete the interview process, as appropriate. 
 
 **Logistics**
-* Mid-interview sync will be pre-scheduled to occur after the last mid-interviewer completes. 
+* The Mid-Interview Sync will be pre-scheduled to occur after the last mid-interviewer completes. 
 * If there are multiple candidates for the same role, the sync may be scheduled after all candidates have gone through the last mid-interviewer. 
 * If you are an interviewer and cannot make the scheduled sync, please make sure to submit complete feedback in Lever ahead of the scheduled sync. 
 
