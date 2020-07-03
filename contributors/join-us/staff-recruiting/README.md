@@ -170,7 +170,7 @@ The order of approval will follow:
 3. VP of Finance and Operations
 4. CEO
 
-After offer approval, the Recruiter, Team MLT or AA Interview will extend a verbal offer to the candidate. Upon verbal acceptance, the Director of HR will send the offer letter. 
+After offer approval, the Recruiter, Team MLT member, or AA Interviewer will extend a verbal offer to the candidate. Upon verbal acceptance, the Director of HR will send the offer letter.
 
 ### Extending an Offer 
 
