@@ -158,7 +158,7 @@ All take-home projects should list the expected amount of time to complete. This
 
 ## Offer Stage
 
-### Reference Checks 
+### Reference checks 
 WIP 
 
 ### Offer approval process 
