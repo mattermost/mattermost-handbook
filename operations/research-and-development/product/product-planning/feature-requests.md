@@ -12,7 +12,7 @@ The first one is [Uservoice](https://mattermost.uservoice.com/forums/306457-gene
 
 The second place is in Productboard. This is an internal tool, so only Mattermost Staff can view it. Anytime a customer or potential customer has feedback, it should be added to Productboard (see [documentation](https://handbook.mattermost.com/operations/research-and-development/product/how-to-guides-for-product/how-to-use-productboard#2b-adding-feedback)). 
 
-The product management team uses the information from both Uservoice and Jira to help prioritize features for the roadmap. 
+The Product Management team uses the information from both Uservoice and ProductBoard to help prioritize features for the roadmap. 
 
 ## **Filing Great Feature Requests**
 
