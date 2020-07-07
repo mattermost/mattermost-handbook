@@ -10,7 +10,7 @@ At Mattermost, we have two main places feature requests are tracked.
 
 The first one is [Uservoice](https://mattermost.uservoice.com/forums/306457-general). Uservoice is open to the public, and anyone is able to submit a request or upvote existing requests. We often send community members to this site when they request features. 
 
-The second place is in Productboard. This is an internal tool, so only Mattermost Staff can view it. Anytime a customer or potential customer has feedback, it should be added to Productboard (see [documentation](https://handbook.mattermost.com/operations/research-and-development/product/how-to-guides-for-product/how-to-use-productboard#2b-adding-feedback)). 
+The second place is in ProductBoard. This is an internal tool, so only Mattermost staff can view it. Anytime a customer or potential customer has feedback, [it should be added to ProductBoard](https://handbook.mattermost.com/operations/research-and-development/product/how-to-guides-for-product/how-to-use-productboard#2b-adding-feedback). 
 
 The Product Management team uses the information from both Uservoice and ProductBoard to help prioritize features for the roadmap. 
 
