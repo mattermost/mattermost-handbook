@@ -52,7 +52,7 @@ Dark actions create [false openness](list-of-terms.md#false-openness). [Open act
 
 ### Dead Tarzan
 
-Discarding an imperfect solution without a clearly thought out and working alternative. Based on idea of [Tarzan of the Jungle (https://en.wikipedia.org/wiki/Tarzan) letting go of a vine without having a new vine to swing to.
+Discarding an imperfect solution without a clearly thought out and working alternative. Based on idea of [Tarzan of the Jungle](https://en.wikipedia.org/wiki/Tarzan) letting go of a vine without having a new vine to swing to.
 
 ### Decking
 
