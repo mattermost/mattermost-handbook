@@ -26,7 +26,7 @@ All Mattermost Staff Members, including our CEO, who are spending money or signi
 
 [**Step 4**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-4-send-for-internal-signature): Send document to be signed internally
 
-[**Step 5**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-5-send-signed-contract-for-counter-signature): Obtain a counter-signed document
+- [**Step 5**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-5-send-signed-contract-for-counter-signature): Obtain a counter-signed document
 
 [**Step 6**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-6-upload-completed-contract): Send the final counter-signed agreement to the [Procurement Team](mailto:procurement@mattermost.com)
 
