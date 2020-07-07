@@ -20,7 +20,7 @@ All Mattermost Staff Members, including our CEO, who are spending money or signi
 - [**Step 1**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-1-send-for-budget-approval): Complete the [Purchase Order Form](https://docs.google.com/forms/d/e/1FAIpQLSd0zdXhAxYcH59wDnUoprgDi3aLdMBk3K3d3nNSmsqB2jtwAw/viewform?usp=sf_link) to get spend approval. This will kick-off the order requisition process and a Purchase Order Number \(PO-\#\) will be assigned
 
 
-[**Step 2**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-2-request-contract-from-vendor): If not an [MTA](https://handbook.mattermost.com/operations/finance/risk-management#mattermost-templated-agreement), request and send contracts to the [Procurement Team](mailto:procurement@mattermost.com)
+- [**Step 2**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-2-request-contract-from-vendor): If not an [MTA](https://handbook.mattermost.com/operations/finance/risk-management#mattermost-templated-agreement), request and send contracts to the [Procurement Team](mailto:procurement@mattermost.com)
 
 - [**Step 3**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-3-legal-review-and-approval): [LRA](https://handbook.mattermost.com/operations/finance/risk-management#mattermost-templated-agreement)
 
