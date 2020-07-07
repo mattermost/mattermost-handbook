@@ -173,7 +173,7 @@ Important points about notes:
 * If you are not sure if the request or feedback should apply to an existing feature, you can simply capture the feedback as a note, assign it to the PM overseeing that area, or leave it unassigned.  
 
 When filing a note in Productboard: 
-1. Add the customer name
+1. Add the customer name.
 2. Add as much detail about the request and/or feedback as possible. Sample questions to answer: 
   - What problem are they trying to solve? What is their specific use case? 
   - How are they solving the problem right now? How is the current solution working or not working for them? 
