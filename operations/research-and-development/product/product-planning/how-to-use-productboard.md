@@ -162,13 +162,24 @@ New feedback from users and customers is sent to the [Insights Board](https://ma
 
 ### 2c - Creating notes
 
-You can add a new note to capture feedback from a customer call. This is used to help identify customer problems, wants/needs, feature shortcomings, and any other areas for improvement that stem from interacting with customers. Essentially, think of this as a place to communicate the most important takeaways from customer calls that the Product team can help you with. 
+You can add a new note to capture feedback. This is used to help identify customer problems, wants/needs, feature shortcomings, and any other areas for improvement that stem from interacting with customers. Essentially, think of this as a place to communicate the most important takeaways from customers that the Product team can help you with. 
+
+Notes from customer calls should be filed in [Salesforce](https://docs.google.com/document/u/1/d/1Ilm0t8AUtjtOociqUYuLluuT4lxcDijaiIrZ8wcamJE/edit?ts=5e6f6c50). This automatically pushes the customer call notes into the Mattermost “Customer Feedback” channel for visibility, and also to Productboard so it can be processed by PMs. 
 
 Important points about notes:
 
 * Notes are specific to a customer/prospect.
 * Notes can include multiple requests (PMs can apply multiple elements from the note to different features if necessary).
 * If you are not sure if the request or feedback should apply to an existing feature, you can simply capture the feedback as a note, assign it to the PM overseeing that area, or leave it unassigned.  
+
+When filing a note in Productboard: 
+1. Add the customer name
+2. Add as much detail about the request and/or feedback as possible. Sample questions to answer: 
+  - What problem are they trying to solve? What is their specific use case? 
+  - How are they solving the problem right now? How is the current solution working or not working for them? 
+  - How is this problem affecting their business and users? 
+  - What is the priority for them to get it fixed?  Is the solution a blocker, a must-have, or a nice to have? 
+3. Add a title to the note that summarizes the problem, not the solution. 
 
 ### 2d - Adding insights directly to an existing feature
 
@@ -204,9 +215,9 @@ You will also have access to the [release tracking view](https://mattermost.prod
 
 ## 4 - Day in the life of a ProductBoard viewer (everyone)
 
-### 4a - Now, Next & Later in the Portal view
+### 4a - 3 Month, 6 Month and Future Candidate Roadmaps n the Portal view
 
-The portals will serve as our internal (and, in the future, external) communication of our product roadmap. You will have access to all internal product portals where we outline what we've released, what we're working on now, next and later.
+The portals will serve as our internal (and, in the future, external) communication of our product roadmap. You will have access to all internal product portals where we outline what we've released, what we're working on releasing in the next 3 months, 6 months, what we are considering for future candidates.
 
 To view the portal, log in to [mattermost.productboard.com](https://mattermost.productboard.com) using your OneLogin account then click on the fourth icon in the left-hand navigation):
 
