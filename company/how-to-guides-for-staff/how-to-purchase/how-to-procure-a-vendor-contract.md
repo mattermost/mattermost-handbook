@@ -16,7 +16,9 @@ All Mattermost Staff Members, including our CEO, who are spending money or signi
 
 ### TL;DR
 
-[**Step 1**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-1-send-for-budget-approval): Complete the [Purchase Order Form](https://docs.google.com/forms/d/e/1FAIpQLSd0zdXhAxYcH59wDnUoprgDi3aLdMBk3K3d3nNSmsqB2jtwAw/viewform?usp=sf_link) to get spend approval. This will kick-off the order requisition process and a Purchase Order Number \(PO-\#\) will be assigned
+
+- [**Step 1**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-1-send-for-budget-approval): Complete the [Purchase Order Form](https://docs.google.com/forms/d/e/1FAIpQLSd0zdXhAxYcH59wDnUoprgDi3aLdMBk3K3d3nNSmsqB2jtwAw/viewform?usp=sf_link) to get spend approval. This will kick-off the order requisition process and a Purchase Order Number \(PO-\#\) will be assigned
+
 
 [**Step 2**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-2-request-contract-from-vendor): If not an [MTA](https://handbook.mattermost.com/operations/finance/risk-management#mattermost-templated-agreement), request and send contracts to the [Procurement Team](mailto:procurement@mattermost.com)
 
@@ -135,4 +137,3 @@ Send the final countersigned contract to the [Procurement Team](mailto:%20procur
 ### Step 7: Vendor On-boarding and Invoice Processing
 
 For all vendor on-boarding questions, refer to the [How to on-board a vendor](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor) and [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid). Please be sure to communicate to your vendor that all invoices should include the **PO-\#** for reference.
-
