@@ -215,7 +215,7 @@ You will also have access to the [release tracking view](https://mattermost.prod
 
 ## 4 - Day in the life of a ProductBoard viewer (everyone)
 
-### 4a - 3 Month, 6 Month and Future Candidate Roadmaps n the Portal view
+### 4a - 3 Month, 6 Month and Future Candidate Roadmaps in the Portal view
 
 The portals will serve as our internal (and, in the future, external) communication of our product roadmap. You will have access to all internal product portals where we outline what we've released, what we're working on releasing in the next 3 months, 6 months, what we are considering for future candidates.
 
