@@ -217,7 +217,7 @@ You will also have access to the [release tracking view](https://mattermost.prod
 
 ### 4a - 3 Month, 6 Month and Future Candidate Roadmaps in the Portal view
 
-The portals will serve as our internal (and, in the future, external) communication of our product roadmap. You will have access to all internal product portals where we outline what we've released, what we're working on releasing in the next 3 months, 6 months, what we are considering for future candidates.
+The portals will serve as our internal (and, in the future, external) communication of our product roadmap. You'll have access to all internal product portals where we outline what we've released, what we're working on releasing in the next 3 months, 6 months, what we're considering for future candidates.
 
 To view the portal, log in to [mattermost.productboard.com](https://mattermost.productboard.com) using your OneLogin account then click on the fourth icon in the left-hand navigation):
 
