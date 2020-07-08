@@ -6,7 +6,7 @@ This page outlines the process for escalating sensitive topics within Mattermost
 
 There are several sensitive topics raised by the community that we want to address appropriately and consistently at all times.
 
-However, currently the struggles we have seen in our community is the unclarity on where we stand on each of the sensitive topics listed below. This unclarity often results in inconsistent responses that lead to confusion, or ingenuine responses that breaks the trust from our community. We want to stop both of these from happening.
+However, currently the struggles we have as a team is the unclarity on where Mattermost stands on each of the sensitive topics listed below. This unclarity often results in inconsistent responses that lead to confusion for our users, or ingenuine responses that breaks the trust from our community. We want to stop both of these from happening.
 
 This policy is put in place to compel us as a team to have a clear official point of view for each of the listed topics below, with standard responses that can be used by a broader team. Until a clear point of view is reached, a person or a group of people are assigned as the approved responders to avoid unnecessary confusion and broken trust with our users and our community.
 
