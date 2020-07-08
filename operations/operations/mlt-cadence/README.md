@@ -22,194 +22,76 @@ This section outlines:
 * Chris Overton: VP, Engineering
 * Lindsay Brock: Head of Product Management
 
-## MLT Daily Admin
+# MLT Cadance
 
-The purpose of MLT Daily Admin is to clear day-to-day administrative items from our other MLT meetings and from disruptive interruptions during the day.
+## MLT Weekly Business Review (WBR)
 
-MLT Daily Admin consists of:
+**Tuesdays 10:00am to 11:00am Palo Alto time with MLT**
 
-1. **Standup Post:** A concise summary of Asks, Heads-ups, and FYIs for MLT peers from your department posted on working days.
-2. **MLT Sync:** A Zoom meeting for entire MLT up to 10 minutes starting at _8:31am Palo Alto time on working days._
-3. **MLT After Sync:** Spontaneous cross-departmental follow-ups not relevant to entire MLT after _end of MLT Sync until 8:55am Palo Alto time_ via Zoom or phone among MLT leaders.
+**Required Attendees - MLT + Extended team (TBD)**
 
-### Topics for MLT Daily Admin
+The purpose of MLT WBR is to review the health of the business by reviewing our goals dashboard, identifying key risks/challenges/issues, and identifying owners for actions. Discussions held in [MLT WBR Channel](https://community.mattermost.com/private-core/channels/MLT-WBR).
 
-| Topic | Definition and Examples | Where to share in MLT Daily Admin |
-| :--- | :--- | :--- |
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Asks</th>
-      <th style="text-align:left">
-        <ul>
-          <li>MLT-level administrative ask (e.g. headcount plan late)</li>
-          <li>Escalations (e.g. help on urgent customer issue)</li>
-        </ul>
-      </th>
-      <th style="text-align:left">
-        <ul>
-          <li>Stand-up Post</li>
-          <li>MLT Sync</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Heads-up</th>
-      <th style="text-align:left">
-        <ul>
-          <li>Change in expectations (e.g. something may not delivered)</li>
-        </ul>
-      </th>
-      <th style="text-align:left">
-        <ul>
-          <li>Stand-up Post</li>
-          <li>MLT Sync</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left">FYI</th>
-      <th style="text-align:left">
-        <ul>
-          <li>MLT-level FYIs for yesterday or today</li>
-          <li>Include links to detail for people to learn more</li>
-        </ul>
-      </th>
-      <th style="text-align:left">
-        <ul>
-          <li>Stand-up only</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Sensitive issues</th>
-      <th style="text-align:left">
-        <ul>
-          <li>Item that is not appropriate to be written before it is discussed (e.g.
-            personal issues)</li>
-          <li>Omitted from Stand-up before MLT Sync, please add a note after meeting
-            so the information is archived</li>
-        </ul>
-      </th>
-      <th style="text-align:left">
-        <ul>
-          <li>MLT Sync only</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>Before meeting use `/standup` command to post updates to peers in the channel of what’s important:
-
-```text
-/standup
-
-- Met with Alice Evans from Gartner - [Notes posted](XXX)
-- Carter Lee starts today as Director of BizOps
-```
-
-If you post incorrectly, use the “Edit” option to update.
-
-Most updates will look something like this:
-
-```text
-##### Status Update for Tuesday 16 April 2019
-
-- Met with Alice Evans from Gartner - [Notes posted](XXX)
-- Carter Lee starts today as Director of BizOps
-
-#standup-20190416 #standup
-```
-
-If there’s a lot to talk about, use this format:
-
-```text
-##### Status Update for Tuesday 16 April 2019
-
-Heads-up
-
-- CTO of ABC Co escalating ask for custom SAML provider, blocking purchase. Need R&D's help
-
-FYI
-
-- Met with Alice Evans from Gartner - [Notes posted](XXX)
-- Carter Lee starts today as Director of BizOps
-
-Asks
-
-- @john.smith can you share where things are with the Twitter issue brought up yesterday?
-
-#standup-20190416 #standup
-```
-
-### **MLT Sync**
-
-**8:31am to 8:41am Palo Alto time**
-
-* Meeting starts promptly at 8:31am SF time
-* Each MLT member has ~60s for updates
-* Meeting ends at 8:41am SF time
-
-### **MLT After Sync**
-
-**8:42am SF time to 8:55am Palo Alto time**
-
-* 8:42am to 8:55am offers 14 minutes to talk through cross-team communication and administrative items outside of meeting
-* Use Zoom in DM channel or phone
-
-## MLT Weekly Tactical
-
-**Tuesdays 10:00am to 11:30am Palo Alto time with MLT**
-The purpose of MLT Weekly Tactical is to keep MLT team on track to quarterly and annual targets. Discussions held in [MLT Weekly Tactical Channel](https://community.mattermost.com/private-core/channels/ijt-weekly-tactical).
+#### Pre-work
+Dashboard to be updated by all owners by Tuesday 9am Palo Alto Time.
+2x2 prepared by each functional owner (TBD if reviewed separately or aggregated into one 2x2) (e.g., next product releases, marketing launches)
 
 #### Process
 
-* **\(0:00\) MLT Sync** - Complete MLT Sync and queue any last items for Weekly Tactical
-* **\(0:11\) Scoreboard Review -** Review Thematic Goal
-  * Discuss red/yellows on Defining Objectives and Standard Operating Objectives
-  * Check that all objectives have measures and due dates
-* \(0:45\) **Tactical Agenda -** Discuss queued items, 5m max per topic. Choose:
-  * Discuss now
-  * Discuss later \(another Monthly Strategic or at another Weekly Tactical\)
-  * Discuss 1-1/outside of MLT
-* \(1:10\) **Decisions/Actions** - Summarize decisions/actions in writing
-* \(1:20\) **Cascading Communications** - Decide what to communicate broadly
-  * This includes Customer Obsession Meeting announcements with thank-yous
-  * If meeting ends without agreement, Vice-Chair notes this in [MLT Weekly Tactical channel](https://community.mattermost.com/private-core/channels/ijt-weekly-tactical) with an `@all` mention
+* **\(0:10\) Review WBR Agenda Doc** - Time for all to read data
+* **\(0:15\) MLT Good News -** Always start with anyone wanting to share the good news, e.g., customer wins, new release delivered, new web page launched, etc.
+* **\(0:20\) V2MOM Metrics Dashboard Review -** Review Dashboard
+  * Discuss reds and new goals to create
+  * Discuss yellows and paths to green
+  * Review key updates to greens
+  * Create new action items and assign to owners in Asana 
+* **\(0:25\) 2X2 Business Review -** Review WBR 2x2 document summarizing:  
+  * State of the business
+    * Key business metrics (ARR, churn, customer count, health score)
+    * Big updates from Sales, R&D, Marketing, Finance, etc.
+  * Issues/Challenges/Risks
+    * Key customer issues (at-risk customers, deals, etc.)
+    * Key R&D risks/challenges/issues
+    * Key marketing risks/challenges
+  * Goals
+  * Upcoming Milestones
+  * Upcoming R&D milestones and dates
+  * Upcoming marketing milestones and dates
+* **\(0:55\) Decisions/Actions -** Summarize decisions/actions in writing 
 
-## MLT Monthly Strategic
+## MLT Weekly Executive Meeting 
 
-The purpose of MLT monthly strategic meeting is to achieve clarity and closure on strategic issues through review, discussion and decision on queued topics.
+**Tuesdays 11:00am to 12:00pm Palo Alto time with MLT**
 
-* Meeting is monthly for 2-4 hours with Mattermost Leadership Team.
-* Ad hoc meetings may also be called for strategic discussions using same format.
+**Required Attendees - MLT only + HR Representative**
 
-**Pre-work**
+The purpose of MLT Staff is to discuss MLT topics like CEO updates, board-level topics, hiring, sensitive HR-related announcements, company-wide programs like annual reviews & compensation, staff top of mind, etc.
 
-* \(Vice-Chair\) Agenda drafted based on queued topics in [MLT Monthly Strategic channel](https://community.mattermost.com/private-core/channels/monthly-strategic-mtg)
-* \(Vice-Chair\) Agenda posted in MLT Monthly Strategic [Scratch document](https://docs.google.com/document/d/1O6ok1Uvb8uuCCFaxYjkkPZCPfDFK8nlb7OGrmyfwtCc/edit)
-* \(MLT\) People who queue topics post relevant materials in Agenda 24 hours before meeting
+Ian to moderate through Asana.
 
-**Meeting Cadence**
 
-* MLT reviews, discusses, adjusts as needed, and agrees on Agenda for time allotted
-* MLT discusses each topic and reaches decisions for clarity and closure
-* \(20m before end of meeting\) Decisions/Actions are summarized
-* \(10m before end of meeting\) Cascading Communications are agreed
+## MLT Weekly Deep Dive Meeting
+
+**Wednesdays 9:00am to 10:30am Palo Alto time with MLT**
+
+**Required Attendees - MLT only + extended team (as appropriate by topic)  **
+
+The purpose of this new MLT weekly deep dive series is to achieve a deeper understanding and clarity on functional areas and/or strategic topics through reviews, discussions, and decisions.
+
+Topics are queued in a [central spreadsheet](https://docs.google.com/spreadsheets/d/1d_kBiMSsrjYVWX6JUjzNLruq8yQciIdIz-Vtmy69ygo/edit#gid=0) and prioritized by the Vice-Chair. Examples of topics are Cloud MVP, DevOps command center launch, customer journey & packaging proposals, marketing OKRs, etc.
+
+#### Pre-work
+
+* (Vice-Chair) Agenda drafted based on queued topics in a central google docs sheet
+* (Owner) Prepare narrative document for the meeting
+
+#### Process
+
+* 2 slots of 45 minutes each; Typically 2 topics for 2 slots but bigger topics can occupy 2 slots.
+* MLT reviews document for the first 15 minutes; discusses for the next 25 minutes to reach any decisions for clarity and closure.
+* (5m before end of slot) Decisions/actions are summarized
+
+
 
 ## MLT Planning
 
@@ -239,7 +121,7 @@ We’re currently focused on quarterly plans and will move to halves.
 
 The following should happen within a 2 week period, with 1-2 iterations in each step:
 
-1. CEO discusses company and department VPMOMs 1-1 with department heads to ensure alignment
+1. CEO discusses company and department V2MOMs 1-1 with department heads to ensure alignment
    * If applicable during the period, sales, CEO and finance set or adjust the revenue targets
 2. People meets with department heads to discuss current and future org structure
    * Include discussion on performance, potential and any FYIs
@@ -252,25 +134,25 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
 **T-Minus 2 Weeks to announcement.**
 
 * At Monthly Strategic Meeting:
-  * WIP VPMOMs, quarterly plan and proposed orgs reviewed by MLT
-  * MLT shares feedback on each VPMOM and quarterly plan
+  * WIP V2MOMs, quarterly plan and proposed orgs reviewed by MLT
+  * MLT shares feedback on each V2MOM and quarterly plan
   * Cross-department dependencies documented
   * Draft agenda
     * Review of MLT Plan Process
-    * Company VPMOM & Q2 plan
-    * Sales VPMOM, Q2 plan and proposed org
-    * R&D VPMOM, Q2 plan and proposed org
-    * Marketing VPMOM, Q2 plan and proposed org
-    * Customer Success VPMOM, Q2 plan and proposed org
-    * Finance VPMOM, Q2 plan and proposed org
-    * People VPMOM, Q2 plan and proposed org
+    * Company V2MOM & Q2 plan
+    * Sales V2MOM, Q2 plan and proposed org
+    * R&D V2MOM, Q2 plan and proposed org
+    * Marketing V2MOM, Q2 plan and proposed org
+    * Customer Success V2MOM, Q2 plan and proposed org
+    * Finance V2MOM, Q2 plan and proposed org
+    * People V2MOM, Q2 plan and proposed org
 * MLT socializes updates to high-level plan with their departments
 
 **Finalize Plan**
 
 **T-Minus 1 Week to announcement**
 
-* Company and VPMOMs updated given feedback
+* Company and V2MOMs updated given feedback
 * Financial plan adjusted
 * Headcount approvals published
 
@@ -278,25 +160,25 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
 
 **Week of announcement**
 
-* Company VPMOM shared at all-hands
-* Department VPMOMs are posted
+* Company V2MOM shared at all-hands
+* Department V2MOMs are posted
 * MLT presents company plan to their departments
 
 ## Quarterly Business Review \(QBR\)
 
-Each quarter we review process towards our VPMOMs and discuss achievements and opportunities.
-
-#### QBR VPMOM
-
-TBD
+Each quarter we review process towards our V2MOMs and discuss achievements and opportunities.
 
 #### Quarterly Business Review
 
-QBR is an exercise to increase output through concise, efficient review of quarterly goals for company and department in the context of VPMOMs.
+QBR is an exercise to increase output through concise, efficient review of quarterly goals for company and department in the context of V2MOMs.
 
 **Time and People**
 
-* Scheduled monthly for 3.5 hours with Mattermost Leadership Team.
+* Scheduled 1 week after quarter end and can be broken out into
+    * 90 mins for Sales QBR (30 mins for each region)   
+    * 45 mins CS QBR
+    * 2 hours for MLT QBR. (30 mins each for Product, Engineering, Q&A & Marketing) 
+
 
 **Prior to Meeting**
 
@@ -304,8 +186,8 @@ QBR is an exercise to increase output through concise, efficient review of quart
 
 **Agenda**
 
-* \(CEO\) Reviews [MLT Cadence VPMOM](http://handbook.mattermost.com/leadership/leadership-meetings.html#MLT-Cadence-VPMOM) \(10 minutes\)
-* \(Each department head\) Reviews quarterly goals in the context of VPMOMs, including the following \(25 minutes per person, including 5 minutes for review, 5 minutes for MLT to share written feedback, and 15 minutes for discussion\):
+* \(CEO\) Reviews [MLT Cadence V2MOM](http://handbook.mattermost.com/leadership/leadership-meetings.html#MLT-Cadence-VPMOM) \(10 minutes\)
+* \(Each department head\) Reviews quarterly goals in the context of V2MOMs, including the following \(25 minutes per person, including 5 minutes for review, 5 minutes for MLT to share written feedback, and 15 minutes for discussion\):
   * Goals for previous quarter
   * Previous quarter achievements and opportunities
   * Goals for current quarter
@@ -314,18 +196,6 @@ QBR is an exercise to increase output through concise, efficient review of quart
 * \(MLT\) Product strategy discussion \(30 minutes\)
 * \(MLT\) Review of actions and follow-ups \(10 minutes\)
 * \(MLT\) Review of cascading communication \(10 minutes\)
-
-#### Quarterly GTM Review
-
-QGR is a quarterly drilldown on sales, marketing and customer success in the context of VPMOMs. Agenda to be determined.
-
-#### Quarterly Product Review
-
-QPR is a review of product vision, near term roadmap and long term roadmap in the context of VPMOMs. Agenda to be determined.
-
-#### Quarterly Operations Review
-
-Review of non-GTM, non-R&D departments in context of VPMOMs. Agenda to be determined.
 
 #### QBR follow-ups
 
@@ -366,12 +236,12 @@ Typically there is not pressure for budget or headcount discussions in Q3, focus
 **Q3 Punchlist for Next Fiscal Year Planning**
 
 1. The company 3-year aspirations are reviewed
-2. A 1% MLT VPMOM for next fiscal year is drafted by CEO and reviewed with MLT department heads
-3. Department heads draft 1% Department VPMOMs for next fiscal year and review with peer stakeholders and CEO
-4. At Q3 Planning Offsite, MLT reviews 50% MLT VPMOM for next fiscal year developed from 1% draft
-5. At Q3 Planning Offsite, department heads present 50% Department VPMOMs, reviewed by peer stakeholders and CEO
+2. A 1% MLT V2MOM for next fiscal year is drafted by CEO and reviewed with MLT department heads
+3. Department heads draft 1% Department V2MOMs for next fiscal year and review with peer stakeholders and CEO
+4. At Q3 Planning Offsite, MLT reviews 50% MLT V2MOM for next fiscal year developed from 1% draft
+5. At Q3 Planning Offsite, department heads present 50% Department V2MOMs, reviewed by peer stakeholders and CEO
 6. Action items are documented and developed around Obstacles to success of next fiscal year
-7. 50% MLT and Department VPMOMs, plus Obstacles, are presented to department leaders
+7. 50% MLT and Department V2MOMs, plus Obstacles, are presented to department leaders
 
 #### Q4 Planning for next fiscal year
 
@@ -379,20 +249,20 @@ The focus of Q4 is arriving at a 99% draft of the plan for next fiscal with alig
 
 1. MLT and middle managers work through key Obstacles for next fiscal year
 2. Finance works with MLT to draft financials plan for next fiscal year
-3. CEO works with MLT to develop MLT VPMOM from 50% to 99%
-4. Department heads work with their teams, peer stakeholders and CEO to develop Department VPMOM from 50% to 99%
-5. 99% MLT VPMOM is reviewed by MLT and agreed
-6. 99% Department VPMOMs are reviewed by MLT peers and CEO and agreed
-7. Plan for next fiscal year is locked based on VPMOMs
+3. CEO works with MLT to develop MLT V2MOM from 50% to 99%
+4. Department heads work with their teams, peer stakeholders and CEO to develop Department V2MOM from 50% to 99%
+5. 99% MLT V2MOM is reviewed by MLT and agreed
+6. 99% Department V2MOMs are reviewed by MLT peers and CEO and agreed
+7. Plan for next fiscal year is locked based on V2MOMs
 
-#### MLT VPMOM Review Process
+#### MLT V2MOM Review Process
 
-VPMOMs, quarterly plans and proposed orgs are reviewed by MLT. Use the following order to review VPMOMs:
+V2MOMs, quarterly plans and proposed orgs are reviewed by MLT. Use the following order to review V2MOMs:
 
-* Measures
-* Priorities
 * Vision
-* Obstacles
+* Values
 * Methods
+* Obstacles
+* Measures
 
-MLT shares feedback on each VPMOM and quarterly plan. Cross-department dependencies documented.
+MLT shares feedback on each V2MOM and quarterly plan. Cross-department dependencies documented.
