@@ -12,7 +12,7 @@ The first one is [Uservoice](https://mattermost.uservoice.com/forums/306457-gene
 
 The second place is in productboard. Productboard is an internal tool used for tracking and prioritizing feature reqeusts. Customer-facing teams can add notes to productboard based on [this process](https://handbook.mattermost.com/operations/research-and-development/product/how-to-guides-for-product/how-to-use-productboard#2-day-in-the-life-of-a-customer-support-manager-customer-success-manager-or-solution-architect).
 
-The Product Management team uses the information from both Uservoice and ProductBoard to help prioritize features for the roadmap. 
+The Product Management team uses the information from both Uservoice and productboard to help prioritize features for the roadmap. 
 
 ## **Filing Great Feature Requests**
 
@@ -48,4 +48,3 @@ Please be aware that committing to a concrete timeline for a deal is the excepti
 
   
   
-
