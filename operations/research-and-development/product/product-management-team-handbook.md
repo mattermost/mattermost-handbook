@@ -158,12 +158,12 @@ Activities:
 Customer Obsession:
 
 * Join and introduce yourself in these channels, ask to join any and all customer calls - see if you can get a couple scheduled this week:
-  * [CSM:PM Engagement](https://community-daily.mattermost.com/private-core/channels/csmpm-engagement) \(Stu, Emily, Rosie, Jenn\)
-  * [Solution Architects](https://community-daily.mattermost.com/private-core/channels/solutions-architects)
-  * [Pre-Sales Support](https://community-daily.mattermost.com/private-core/channels/pre-sales-support)
+  * [CSM:PM Engagement](https://community.mattermost.com/private-core/channels/csmpm-engagement) \(Stu, Emily, Rosie, Jenn\)
+  * [Solution Architects](https://community.mattermost.com/private-core/channels/solutions-architects)
+  * [Pre-Sales Support](https://community.mattermost.com/private-core/channels/pre-sales-support)
 * Join and review the topics and posts in these channels to get a better understanding of our customers
-  * [Customer Feedback](https://community-daily.mattermost.com/private-core/channels/customer-feedback)
-  * [Customer Support](https://community-daily.mattermost.com/private-core/channels/community)
+  * [Customer Feedback](https://community.mattermost.com/private-core/channels/customer-feedback)
+  * [Customer Support](https://community.mattermost.com/private-core/channels/community)
 * Begin watching training videos on [academy.mattermost.com ](https://academy.mattermost.com/)
 * Begin reading [docs.mattermost.com](https://docs.mattermost.com/)
 
@@ -233,14 +233,14 @@ Activities:
   * Sales \(Sales - Steve, Lance, Phillip and Solution Architects - Mark, John, Christian\)
     * Sales team overview
     * Sales team priorities
-    * What competitors are we up against in sales
+    * What competitors are we up against
     * How does Sales team position the product
-    * What are typical challenges in sales
+    * What are typical challenges for the Sales team
     * Which sales do we win, which do we lose
     * What are the most common questions on configurations and trials
   * Marketing \(Marketing team lead\)
     * Marketing team overview
-    * What are the marketing team’s priorities
+    * What are the Marketing team’s priorities
     * What is our current messaging and positioning around Mattermost
     * What is needed from Product Managers
   * Mini competitive research projects
@@ -254,7 +254,7 @@ Activities:
   * Product Direction \(Lindsay, Product Lead\)
     * [Company VPMOM](https://handbook.mattermost.com/operations/operations)
     * [R&D V2MOM](https://docs.google.com/document/d/18tK7XmW2fGaUP2otiItHKcHyMGUf3kgnZxOQM6WB4zM/edit)
-    * Public Roadmap \(Staff Team &gt; [Roadmap channel](https://community-daily.mattermost.com/private-core/channels/roadmap)\)
+    * Public Roadmap \(Staff Team &gt; [Roadmap channel](https://community.mattermost.com/private-core/channels/roadmap)\)
     * Review videos on [Mattermost Academy](https://academy.mattermost.com/)
   * Technical Architecture \(Feature team dev lead\)
     * Reference:
@@ -306,7 +306,7 @@ Activities:
         * [Release Testing assignment example](https://docs.google.com/spreadsheets/d/1gW7i8uF3jd5wuHd5mJ7UdBQsMFVZwHKMXE7WOtlDa0k/edit#gid=1130032476)
     * Release process \(Amy, Release Manager\)
       * [Release process](https://docs.mattermost.com/guides/core.html#release-process)
-      * [Extended support release](https://docs.mattermost.com/administration/extended-support-release.html)
+      * [Extended Support Release](https://docs.mattermost.com/administration/extended-support-release.html)
 * Shadow feature team meetings and conversations
   * Contribute where possible \(reviewing research and design specs, filing Jira ticket bugs\)
   * Ramp up on a couple of ongoing projects or smaller projects
@@ -424,7 +424,7 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
   * May need to create Spinwick server by adding label = “Set up cloud test server”. The server is created in a few minutes
   * Add QA and UX resources as required
   * If there are config setting changes you will need to ask Development to change the setting for you
-  * If you need to test email notifications, you can set the email configuration based on on settings contained on [Github Internal Information Repository Platform-Private](https://github.com/lindalumitchell/platform-private/blob/af19e46ab3f6561e36a2b01b44edc6a0232d4755/config/spinmint-email.txt)
+  * If you need to test email notifications, you can set the email configuration based on on settings contained on [GitHub Internal Information Repository Platform-Private](https://github.com/lindalumitchell/platform-private/blob/af19e46ab3f6561e36a2b01b44edc6a0232d4755/config/spinmint-email.txt)
 
 #### Sprints \(Sprint Planning/Retros\)
 
@@ -515,7 +515,7 @@ In sync with the Twitter rotation, Product Managers rotate responsibility weekly
 
 #### Twitter Rotation
 
-Product Managers rotate responsibility weekly for monitoring and responding to Mattermost mentions on our corporate Twitter account. The PM on rotation can be found in the header of the [Mattermost Twitter channel](https://community-daily.mattermost.com/core/channels/twitter). The rotation switches on Monday and is scheduled alphabetically by first name. The PM on rotation will be mentioned on the first day of their rotation. The PM that was previously on rotation should reach out to the new PM on rotation to hand off the duties and to remind on the additional responsibilities of assigning unassigned Customer Requests. Below are the responsibilities of the PM on Twitter rotation:
+Product Managers rotate responsibility weekly for monitoring and responding to Mattermost mentions on our corporate Twitter account. The PM on rotation can be found in the header of the [Mattermost Twitter channel](https://community.mattermost.com/core/channels/twitter). The rotation switches on Monday and is scheduled alphabetically by first name. The PM on rotation will be mentioned on the first day of their rotation. The PM that was previously on rotation should reach out to the new PM on rotation to hand off the duties and to remind on the additional responsibilities of assigning unassigned Customer Requests. Below are the responsibilities of the PM on Twitter rotation:
 
 * Monitor Twitter channel in Mattermost Contributors Team: [https://community.mattermost.com/core/channels/twitter](https://community.mattermost.com/core/channels/twitter)
 * Respond to product inquiries, retweet, and like posts that we are tagged in per the guidelines outlined on [https://docs.mattermost.com/process/community-guidelines.html\#mattermost-twitter](https://docs.mattermost.com/process/community-guidelines.html#mattermost-twitter)
@@ -659,7 +659,7 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
         <ul>
           <li>Demo features that will be released in upcoming release</li>
           <li>Communicate important information regarding a feature</li>
-          <li>Answer questions regarding the feature (ie: use cases, technical questions,
+          <li>Answer questions regarding the feature (e.g. use cases, technical questions,
             etc)</li>
           <li>Share updates on any important upcoming product changes</li>
         </ul>
@@ -673,7 +673,7 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
       <th style="text-align:left">Time:</th>
       <th style="text-align:left">
         <ul>
-          <li>Monthly meeting on 2nd Monday of the Month from 8:30am to 9:00am Palo
+          <li>Monthly meeting on 2nd Monday of the month from 8:30am to 9:00am Palo
             Alto time.</li>
         </ul>
       </th>
