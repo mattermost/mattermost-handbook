@@ -378,7 +378,7 @@ Activities:
 * Capture SWAG estimates from design and developers to determine length project
 * Facilitate prioritization decisions in sprint and release planning meetings
 * Keep [Release Plan Roadmap](https://docs.google.com/spreadsheets/d/1v-ihzzAkFmO2T5UfF1wWYMgS3W6MwiNqfRQG79X3rSY/edit?usp=sharing) up to date with features queued for the release
-  * Prepare updates for the 
+  * Prepare updates for the
 
 #### Feature Design
 
@@ -539,10 +539,6 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
 
 #### PM Meeting
 
-|  |  |
-| :--- | :--- |
-
-
 <table>
   <thead>
     <tr>
@@ -634,7 +630,9 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
     </tr>
   </thead>
   <tbody></tbody>
-</table>\#\#\#\# Monthly Roadmap Q&A - Pre-sales and Support \| \| \| \| :--- \| :--- \|
+</table>
+
+### Monthly Roadmap Q&A - Pre-sales and Support
 
 <table>
   <thead>
