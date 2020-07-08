@@ -14,7 +14,7 @@ The second place is in productboard. Productboard is an internal tool used for t
 
 The Product Management team uses the information from both Uservoice and productboard to help prioritize features for the roadmap.
 
-## Filing Great Feature Requests
+## Filing great feature requests
 
 When filing a feature request, the most important thing to do is capture the "why" behind it. A great way to do this is by writing requests in the form of an "Experience Report". As described in the [golang wiki](https://github.com/golang/go/wiki/ExperienceReports):
 
@@ -28,11 +28,11 @@ If you're filing a feature request on behalf of a customer, make sure to also in
 * How important it is to them \(ideally, based on stack rank against their other requests\)
 * Links to any relevant conversations, Zendesk tickets, etc
 
-## Escalating a Feature Request
+## Escalating a feature request
 
 Generally speaking, feature requests are prioritized through our normal roadmap process. The roadmap provides an idea of where the feature falls on our prioritization list, but is not a committed release date.
 
-If a deal is dependent on committing to a concrete timeline for a feature, the sales team can escalate the request by sharing:
+If a deal is dependent on committing to a concrete timeline for a feature, the Sales team can escalate the request by sharing:
 
 * What is the request?
 * What is the timeline ask from the customer?
