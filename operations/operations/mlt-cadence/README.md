@@ -38,7 +38,7 @@ Dashboard to be updated by all owners by Tuesday 9am Palo Alto Time.
 
 #### Process
 
-* **\(0:10\) Review WBR Agenda Doc** - Time for all to read data
+* **\(0:10\) Review WBR Agenda Doc:** Time for all to read data
 * **\(0:15\) MLT Good News -** Always start with anyone wanting to share the good news, e.g., customer wins, new release delivered, new web page launched, etc.
 * **\(0:20\) V2MOM Metrics Dashboard Review -** Review Dashboard
   * Discuss reds and new goals to create
