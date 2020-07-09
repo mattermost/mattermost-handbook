@@ -76,7 +76,7 @@ Ian to moderate through Asana.
 
 **Required Attendees - MLT only + extended team (as appropriate by topic)  **
 
-The purpose of this new MLT weekly deep dive series is to achieve a deeper understanding and clarity on functional areas and/or strategic topics through reviews, discussions, and decisions.
+The purpose of this new MLT Weekly Deep Dive series is to achieve a deeper understanding and clarity on functional areas and/or strategic topics through reviews, discussions, and decisions.
 
 Topics are queued in a [central spreadsheet](https://docs.google.com/spreadsheets/d/1d_kBiMSsrjYVWX6JUjzNLruq8yQciIdIz-Vtmy69ygo/edit#gid=0) and prioritized by the Vice-Chair. Examples of topics are Cloud MVP, DevOps Command Center launch, customer journey and packaging proposals, marketing OKRs, etc.
 
