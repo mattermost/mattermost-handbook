@@ -150,7 +150,7 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
 
 **Finalize Plan**
 
-**T-Minus 1 Week to announcement**
+**T-Minus 1 week to announcement**
 
 * Company and V2MOMs updated given feedback
 * Financial plan adjusted
