@@ -131,7 +131,7 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
 
 **Review WIP Plan**
 
-**T-Minus 2 Weeks to announcement.**
+**T-Minus 2 Weeks to announcement**
 
 * At Monthly Strategic Meeting:
   * WIP V2MOMs, quarterly plan and proposed orgs reviewed by MLT
