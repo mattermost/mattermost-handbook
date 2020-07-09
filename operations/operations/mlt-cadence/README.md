@@ -34,7 +34,7 @@ The purpose of MLT WBR is to review the health of the business by reviewing our 
 
 #### Pre-work
 Dashboard to be updated by all owners by Tuesday 9am Palo Alto Time.
-2x2 prepared by each functional owner (TBD if reviewed separately or aggregated into one 2x2) (e.g., next product releases, marketing launches)
+* 2x2 prepared by each functional owner (TBD if reviewed separately or aggregated into one 2x2) (e.g., next product releases, marketing launches).
 
 #### Process
 
