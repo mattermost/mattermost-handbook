@@ -28,7 +28,7 @@ The People Ops team will update staff information as it relates to compensation 
 
 When using Google Drive, always save documents to the appropriate shared drive. When handling confidential or sensitive data in Google Docs.
 
-## Confidential Data in Google Docs
+## Confidential data in Google Docs
 
 Functional Leads are responsible for creating clear guidelines on how teams and working groups should organize any internal docs that contain [confidential data](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/confidentiality-guidelines). Teams that are required to handle confidential data should also have documented guidelines on data access based on role.
 
