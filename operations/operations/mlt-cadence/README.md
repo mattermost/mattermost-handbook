@@ -28,7 +28,7 @@ This section outlines:
 
 **Tuesdays 10:00am to 11:00am Palo Alto time with MLT**
 
-**Required Attendees - MLT + Extended team (TBD)**
+**Required attendees: MLT + extended team (TBD)**
 
 The purpose of MLT WBR is to review the health of the business by reviewing our goals dashboard, identifying key risks/challenges/issues, and identifying owners for actions. Discussions held in [MLT WBR Channel](https://community.mattermost.com/private-core/channels/MLT-WBR).
 
