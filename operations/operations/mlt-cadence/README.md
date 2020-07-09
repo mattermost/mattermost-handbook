@@ -22,7 +22,7 @@ This section outlines:
 * Chris Overton: VP, Engineering
 * Lindsay Brock: Head of Product Management
 
-# MLT Cadance
+# MLT Cadence
 
 ## MLT Weekly Business Review (WBR)
 
