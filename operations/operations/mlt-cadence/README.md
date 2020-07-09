@@ -57,7 +57,7 @@ Dashboard to be updated by all owners by Tuesday 9am Palo Alto Time.
   * Upcoming Milestones
   * Upcoming R&D milestones and dates
   * Upcoming marketing milestones and dates
-* **\(0:55\) Decisions/Actions -** Summarize decisions/actions in writing 
+* **\(0:55\) Decisions/Actions:** Summarize decisions/actions in writing 
 
 ## MLT Weekly Executive Meeting 
 
