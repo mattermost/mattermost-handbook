@@ -148,7 +148,7 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
     * People V2MOM, Q2 plan, and proposed org
 * MLT socializes updates to high-level plan with their departments
 
-**Finalize Plan**
+**Finalize plan**
 
 **T-Minus 1 week to announcement**
 
