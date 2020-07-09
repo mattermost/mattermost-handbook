@@ -24,7 +24,7 @@ The People Ops team will update staff information as it relates to compensation 
 5. The effective date will automatically populate the current date. 
 - If you're updating Department information, please use the first of the following month as the effective date. For example: If you're updating information on July 14th, 2020, please use an effective date of August 1, 2020. If this is an issue, please post the issue in the [Ask the People Team] (https://community.mattermost.com/private-core/channels/ask-people-team) channel. The change date affects Financial Reporting in Netsuite, if the issue requires Finance approval the HR Team will tag the appropriate DRI in channel.
 
-## Google Shared Drive
+## Shared Google Drive
 
 When using Google Drive, always save documents to the appropriate shared drive. When handling confidential or sensitive data in Google Docs.
 
