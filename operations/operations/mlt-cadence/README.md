@@ -141,7 +141,7 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
     * Review of MLT Plan Process
     * Company V2MOM and Q2 plan
     * Sales V2MOM, Q2 plan, and proposed org
-    * R&D V2MOM, Q2 plan and proposed org
+    * R&D V2MOM, Q2 plan, and proposed org
     * Marketing V2MOM, Q2 plan and proposed org
     * Customer Success V2MOM, Q2 plan and proposed org
     * Finance V2MOM, Q2 plan and proposed org
