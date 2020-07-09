@@ -82,7 +82,7 @@ Topics are queued in a [central spreadsheet](https://docs.google.com/spreadsheet
 
 #### Pre-work
 
-* (Vice-Chair) Agenda drafted based on queued topics in a central google docs sheet
+* (Vice-Chair) Agenda drafted based on queued topics in a central Google Doc
 * (Owner) Prepare narrative document for the meeting
 
 #### Process
