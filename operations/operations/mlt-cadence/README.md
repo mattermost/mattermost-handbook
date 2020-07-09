@@ -78,7 +78,7 @@ Ian to moderate through Asana.
 
 The purpose of this new MLT weekly deep dive series is to achieve a deeper understanding and clarity on functional areas and/or strategic topics through reviews, discussions, and decisions.
 
-Topics are queued in a [central spreadsheet](https://docs.google.com/spreadsheets/d/1d_kBiMSsrjYVWX6JUjzNLruq8yQciIdIz-Vtmy69ygo/edit#gid=0) and prioritized by the Vice-Chair. Examples of topics are Cloud MVP, DevOps command center launch, customer journey & packaging proposals, marketing OKRs, etc.
+Topics are queued in a [central spreadsheet](https://docs.google.com/spreadsheets/d/1d_kBiMSsrjYVWX6JUjzNLruq8yQciIdIz-Vtmy69ygo/edit#gid=0) and prioritized by the Vice-Chair. Examples of topics are Cloud MVP, DevOps Command Center launch, customer journey and packaging proposals, marketing OKRs, etc.
 
 #### Pre-work
 
