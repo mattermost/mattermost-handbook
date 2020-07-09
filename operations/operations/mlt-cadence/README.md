@@ -174,7 +174,7 @@ QBR is an exercise to increase output through concise, efficient review of quart
 
 **Time and people**
 
-* Scheduled 1 week after quarter end and can be broken out into
+* Scheduled 1 week after quarter end and can be broken out into:
     * 90 mins for Sales QBR (30 mins for each region)   
     * 45 mins CS QBR
     * 2 hours for MLT QBR. (30 mins each for Product, Engineering, Q&A & Marketing) 
