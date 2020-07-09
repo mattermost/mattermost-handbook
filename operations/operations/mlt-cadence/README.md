@@ -87,7 +87,7 @@ Topics are queued in a [central spreadsheet](https://docs.google.com/spreadsheet
 
 #### Process
 
-* 2 slots of 45 minutes each; Typically 2 topics for 2 slots but bigger topics can occupy 2 slots.
+* Two slots of 45 minutes each. Typically two topics - one for each slot. However, bigger topics can occupy two slots
 * MLT reviews document for the first 15 minutes; discusses for the next 25 minutes to reach any decisions for clarity and closure.
 * (5m before end of slot) Decisions/actions are summarized
 
