@@ -45,7 +45,7 @@ The purpose of MLT WBR is to review the health of the business by reviewing our 
   * Discuss yellows and paths to green
   * Review key updates to greens
   * Create new action items and assign to owners in Asana 
-* **\(0:25\) 2X2 Business Review -** Review WBR 2x2 document summarizing:  
+* **\(0:25\) 2X2 Business Review:** Review WBR 2x2 document summarizing:  
   * State of the business
     * Key business metrics (ARR, churn, customer count, health score)
     * Big updates from Sales, R&D, Marketing, Finance, etc.
