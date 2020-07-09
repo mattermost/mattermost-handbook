@@ -172,7 +172,7 @@ Each quarter we review process towards our V2MOMs and discuss achievements and o
 
 QBR is an exercise to increase output through concise, efficient review of quarterly goals for company and department in the context of V2MOMs.
 
-**Time and People**
+**Time and people**
 
 * Scheduled 1 week after quarter end and can be broken out into
     * 90 mins for Sales QBR (30 mins for each region)   
