@@ -139,7 +139,7 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
   * Cross-department dependencies documented
   * Draft agenda
     * Review of MLT Plan Process
-    * Company V2MOM & Q2 plan
+    * Company V2MOM and Q2 plan
     * Sales V2MOM, Q2 plan and proposed org
     * R&D V2MOM, Q2 plan and proposed org
     * Marketing V2MOM, Q2 plan and proposed org
