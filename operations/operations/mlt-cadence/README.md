@@ -65,7 +65,7 @@ The purpose of MLT WBR is to review the health of the business by reviewing our 
 
 **Required Attendees - MLT only + HR Representative**
 
-The purpose of MLT Staff is to discuss MLT topics like CEO updates, board-level topics, hiring, sensitive HR-related announcements, company-wide programs like annual reviews & compensation, staff top of mind, etc.
+The purpose of the MLT Weekly Executive Meeting is to discuss MLT topics like CEO updates, board-level topics, hiring, sensitive HR-related announcements, company-wide programs like annual reviews and compensation, staff top of mind, etc.
 
 Ian to moderate through Asana.
 
