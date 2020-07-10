@@ -391,7 +391,7 @@ Activities:
   * Fast, Obvious, Forgiving
 * Determine feature availability: Team Edition or Enterprise Edition
   * [stewardship principles](https://docs.mattermost.com/developer/manifesto.html#stewardship-principles-for-the-mattermost-open-source-project) that we use to guide whether a feature belongs in TE
-  * [TE vs EE from Ian](https://pre-release.mattermost.com/private-core/pl/m1o63kk3h7numxw3z116ft4ffw)
+  * [TE vs EE from Ian](https://community-release.mattermost.com/private-core/pl/m1o63kk3h7numxw3z116ft4ffw)
 * Determine Packaging/SKU \(E10 & E20\)
   * TE OR EE
     * [https://docs.mattermost.com/overview/product.html\#mattermost-editions](https://docs.mattermost.com/overview/product.html#mattermost-editions) 
