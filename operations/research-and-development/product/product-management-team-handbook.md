@@ -249,7 +249,7 @@ Activities:
   * Review documentation first and work with Support Lead or PM mentor to answer any questions documentation does not address
   * Update docs with answers as appropriate
 * Spend a couple weeks joining as many customer and prospect calls as possible
-  * Take detailed notes and post to [https://community-daily.mattermost.com/private-core/channels/customer-feedback](https://community-daily.mattermost.com/private-core/channels/customer-feedback)
+  * Take detailed notes and post to [https://community-daily.mattermost.com/private-core/channels/customer-feedback](https://community.mattermost.com/private-core/channels/customer-feedback)
 * Learn about the product
   * Product Direction \(Lindsay, Product Lead\)
     * [Company VPMOM](https://handbook.mattermost.com/operations/operations)
