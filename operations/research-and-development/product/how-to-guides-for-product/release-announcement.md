@@ -4,6 +4,8 @@ This document outlines how to write a release announcement and release tweets fo
 
 Each Product Manager is responsible for writing a release announcement for every feature, integration or announcement they want included in the release newsletter.
 
+[Here is an example of a previous completed release announcement.](https://docs.google.com/document/d/1BqgLFqvpYJFm6TfrqkCUyYIs666BL1nawpgw6a4CpGA/edit?usp=sharing)
+
 ## Overview
 
 It is important to think of the Release Announcement as a whole, as a press release.  We are communicating changes to our current and prospective customers so we want it to be exciting as well as informative.  The Release Announcement will be a coordinated document, with each product manager contributing their own features as sub-headlines.  The headline and first paragraph will be written by PM leads and the CPO after all other features have been provided. 
