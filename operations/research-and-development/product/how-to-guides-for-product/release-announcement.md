@@ -4,15 +4,16 @@ This document outlines how to write a release announcement and release tweets fo
 
 Each Product Manager is responsible for writing a release announcement for every feature, integration or announcement they want included in the release newsletter.
 
-Release announcements and tweets are due from Product Managers at T-14 (same as Code Complete). They should be provided to your Lead (Lindsay or Katie), who will coordinate all into one single document for the release. A final draft of the combined release annoucenment for the newsletter will be provided for review to CPO and MLT team by T-7. Finally, the approved release annoucenment will be provided to marketing by T-1. 
-
 ## Overview
 
 It is important to think of the Release Announcement as a whole, as a press release.  We are communicating changes to our current and prospective customers so we want it to be exciting as well as informative.  The Release Announcement will be a coordinated document, with each product manager contributing their own features as sub-headlines.  The headline and first paragraph will be written by PM leads and the CPO after all other features have been provided. 
 
+*Note: Consider using this information in ProductBoard for your features to validate the messaging and to keep consistency across channels.* 
+
+### Timeline
 A release announcement for each feature should be started early in the product planning process. Each Product Manager is directly responsible for writing the announcement for each of their features. For large product features or new products, a PRFAQ should be completed. For smaller features, a “mini-PRFAQ” should be completed in the form of a blog post. 
 
-*Note: Consider using this information in ProductBoard for your features to validate the messaging and to keep consistency across channels.* 
+Release announcements and tweets are due from Product Managers at T-14 (same as Code Complete). They should be provided to your Lead (Lindsay or Katie), who will coordinate all into one single document for the release. A final draft of the combined release annoucenment for the newsletter will be provided for review to CPO and MLT team by T-7. Finally, the approved release annoucenment will be provided to marketing by T-1. 
 
 ### Feature Headline
 
