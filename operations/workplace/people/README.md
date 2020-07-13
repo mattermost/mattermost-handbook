@@ -76,7 +76,7 @@ If you need a letter from Mattermost verifying your employment or contractor sta
 
 For example, monthly fee, salary, start date, title, etc. People Ops will send you the letter once it is completed.
 
-If you are a U.S. Staff Member and on payroll through TriNet, see [TriNet Contact Information](https://drive.google.com/file/d/15AdHLRB9CvMbeUStJ8laqlDJwPZZ2RT-/view?usp=sharing). Please make sure to include the TriNet Employer Code when you share TriNet contact information with your verifying institution. 
+If you are a U.S. staff member and on payroll through TriNet, see [TriNet Contact Information](https://drive.google.com/file/d/15AdHLRB9CvMbeUStJ8laqlDJwPZZ2RT-/view?usp=sharing). Please make sure to include the TriNet Employer Code when you share TriNet contact information with your verifying institution.
 
 ### Regular Compensation
 
