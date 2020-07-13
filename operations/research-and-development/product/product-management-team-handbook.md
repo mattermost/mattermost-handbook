@@ -402,7 +402,7 @@ Activities:
 
 #### Triage
 
-* Participate in 2x weekly Triage meetings \(may be daily towards end of release\)
+* Participate in daily Triage meetings \(not mandatory to join every meeting\)
 * Validate “Won’t fix”, “Won’t do” tickets.  Provide a final comment of approval so ticket can be closed by QA
 * Ensure tickets are assigned to teams and assigned a fix version
   * Jira Fix Version = “unscheduled” means ticket has enough information to be developed, but is not assigned to a specific release version
