@@ -459,7 +459,7 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
 
 #### Documentation
 
-* * Update/create documentation for features/PRs
+* Update/create documentation for features/PRs
   * Maintain documentation on feature proposals \(reference all design and development documentation\)
   * Release notes should be written targeting an international IT Admin
   * Guidelines for [documentation](https://handbook.mattermost.com/operations/research-and-development/product/product-technical-writing-team-handbook#submitting-feature-documentation-pms)
