@@ -2,11 +2,11 @@
 description: 1% Draft
 ---
 
-# Technical Writing Team Handbook
+# Technical Writing Handbook
 
-## Technical Writing Team Handbook
+## Technical Writing Handbook
 
-The Technical Writing team focuses primarily on Technical Documentation (including the User's Guide, Admin's Guide, and Developer documentation) and on Customer Education content.
+The Mattermost Technical Writers focuses primarily on Technical Documentation (including the User's Guide, Administrator's Guide, and Developer documentation) and on Customer Education content.
 
 ### Areas of Responsibility
 
@@ -40,7 +40,7 @@ The Technical Writing team focuses primarily on Technical Documentation (includi
   - Attend customer calls undergoing enterprise onboarding
 - Tone and writing style guide for Customer Education content
 
-The following areas remain a collaborative effort between Product Managers, Engineers, and Technical Writers, until additional headcount is reached. Please reach out to the [Documentation Working Group](https://community.mattermost.com/private-core/channels/dwg-documentation-working-group) for any questions. 
+The following areas remain a collaborative effort between Product Managers, Engineers, and Technical Writers, until additional headcount is reached. Please reach out to the [Documentation Working Group](https://community.mattermost.com/private-core/channels/dwg-documentation-working-group) for any questions.
 
 * [Mattermost Overview](https://docs.mattermost.com/overview/index.html)
 * [User's Guide](https://docs.mattermost.com/guides/user.html)
@@ -67,11 +67,11 @@ The basic outline for getting started with contributions is provided in the [REA
 
 Once complete, submit your Pull Request \(PR\). Ensure that you assign appropriate approvers and labels. You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review) - it applies to various types of contributions including documentation.
 
-### Submitting Feature Documentation (PMs)
+### Submitting Feature Documentation
 
-Feature documentation is a joint effort between Product Managers and Technical Writers. In the same way that we want to empower everyone to contribute to our documentation, Product Managers are encouraged to write MVP documentation for their product/feature. 
+Feature documentation is a joint effort between Product Managers and Technical Writers. In the same way that we want to empower everyone to contribute to our documentation, Product Managers are encouraged to write MVP documentation for their product/feature.
 
-**Note**: Due to the cadence of the release cycle, feature documentation needs to be complete and submitted as per the process below at least ten days prior to release to ensure it's included in the documentation update. 
+**Note**: Due to the cadence of the release cycle, feature documentation needs to be complete and submitted as per the process below at least ten days prior to release to ensure it's included in the documentation update.
 
 The supplied content can be provided informally, in bullet points, or rough notes in a Google Doc and refinements are made collaboratively. This is a guideline of what MVP feature documentation includes:
 
@@ -83,9 +83,16 @@ The supplied content can be provided informally, in bullet points, or rough note
 * Configuration settings and examples for the ``config.json`` file if relevant
 * (If possible) Suggestions of where in the docs the content should go
 
-When the content has been refined, the Technical Writer updates the documentation and opens a PR against the relevant documentation branch for the feature. A further review process may be required before the PR is approved. 
+When the content has been refined and approved in draft format:
 
-You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review). 
+* The Technical Writer creates a branch off the relevant documentation release branch
+* The documentation is updated with the approved content in that branch
+ * If there are multiple pages to update for a specific feature/change try keep them all in the same branch for ease of management
+* The PR is submitted and relevant reviewers added, including an editor, for final review
+ * Include the link to the server/webapp repo issue in your PR for reference purposes
+* Once all reviews are complete, the PR is marked as **Reviews Complete** and merged into the documentation release branch by @amyblais
+
+You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review).
 
 ### Submitting Documentation With Your PR
 
@@ -95,12 +102,12 @@ During the review process the editorial team also provides feedback on style ele
 
 Here are some guidelines around this:
 
-* When submitting a PR, please include updated documentation if applicable. 
-* The documentation update can be in the form of a bullet list or an outline.
-* Label the PR as **Docs Needed**/**Editor Review** and tag @justinegeffen or @amyblais.
-* The documentation you've submitted will be reviewed.
-* At times, the editors may make and commit stylistic changes \(such as punctuation\) but any content changes will be added as a suggestion for the submitter's consideration. 
-* Once the PR is approved, it will be merged, and the documentation will be updated. 
+* When submitting a PR, please include updated documentation if applicable
+* The documentation update can be in the form of a bullet list or an outline
+* Label the PR as **Docs Needed**/**Editor Review** and tag @justinegeffen or @amyblais
+* The documentation you've submitted will be reviewed
+* At times, the editors may make and commit stylistic changes \(such as punctuation\) but any content changes will be added as a suggestion for the submitter's consideration
+* Once the PR is approved, it will be merged, and the documentation will be updated
 
 You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review).
 
@@ -157,12 +164,12 @@ When the issue has been created, please follow these guidelines to assign [label
 
 You can expect the following approximate turnaround times:
 
-* Urgent issues \(bug, customer request/dealbreaker\): Acknowledged within 24 hours.
-* General issues: Acknowledged within 48 hours.
+* Urgent issues \(bug, customer request/dealbreaker\): Acknowledged within 24 hours
+* General issues: Acknowledged within 48 hours
 
-There are a number of variables at play, such as review process, current workload, and type of work required which makes it difficult to provide a hard and fast time-frame for completion. 
+There are a number of variables at play, such as review process, current workload, and type of work required which makes it difficult to provide a hard and fast time-frame for completion.
 
-A rough guideline is between 3 and 5 days for the writing/editing portion of the work and 2 - 3 weeks for larger projects (these projects might be moved to Jira if required). 
+A rough guideline is between 3 and 5 days for the writing/editing portion of the work and 2 - 3 weeks for larger projects (these projects might be moved to Jira if required).
 
 **Assignees**
 
@@ -174,7 +181,7 @@ For less urgent work, if no reply has been received within 48 hours, please ping
 
 We really want the community to own the docs as much as possible. In light of this, please mark your issue as “Help Wanted” so that community members are able to identify work that they’re able to assist with.
 
-If your documentation request/issue applies to a repository other than mattermost/docs, you can use the **Docs Needed** and **Editor Review** labels and/or ping @justinegeffen or @amyblais.
+If your documentation request/issue applies to a repository other than *mattermost/docs*, you can use the **Docs Needed** and **Editor Review** labels and/or ping @justinegeffen or @amyblais.
 
 ## General Contribution Workflow
 
@@ -185,16 +192,16 @@ The [Technical Writing Jira board](https://mattermost.atlassian.net/secure/Rapid
 If you have a feature documentation requirement, please create a ticket and include the following fields:
 
 * Label: Documentation
-* Team: Tech Writing 
-* Assignee: Justine Geffen
+* Team: Tech Writing
+* Assignee: Unassigned
 
 Depending on what is required, please also include a sprint as well as a fix version.
 
 If your request is not related to feature documentation, include the following fields:
 
 * Label: Documentation
-* Team: Tech Writing 
-* Assignee: 
+* Team: Tech Writing
+* Assignee:
 
 **Jira Turnaround Time**
 
@@ -210,11 +217,11 @@ The Technical Product Writer/s form part of the PR review/approval process. When
 
 If you're asked to provide editorial feedback on a PR, and it's your first editorial feedback request, first read up on the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review) to get an idea of what's expected in terms of turnaround time, type of feedback, and so on.
 
-Editorial feedback is based on the guidelines laid out in the [Documentation Style Guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide) as well as the [Voice, Tone, and Writing Style Guide](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines). 
+Editorial feedback is based on the guidelines laid out in the [Documentation Style Guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide) as well as the [Voice, Tone, and Writing Style Guide](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines).
 
 ### Formatting and Style Guide
 
-The [Documentation Style Guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide) and [UI text guidelines](https://docs.mattermost.com/process/documentation-UItext-guidelines.html). 
+The [Documentation Style Guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide) and [UI text guidelines](https://docs.mattermost.com/process/documentation-UItext-guidelines.html).
 
 ## Customer Education Processes
 
@@ -224,14 +231,14 @@ To identify, rank, and resolve customer pain points. Priority is based on custom
 
 #### Identify
 
-- Monitor support tickets and get regular feedback from Support Engineers through the Support channel.
-- Ensure information flow with Solution Architects and Customer Success Managers (e.g. by receiving a regular report).
-- Use existing communication structures between Customer Support and Customer Success to avoid overhead.
+- Monitor support tickets and get regular feedback from Support Engineers through the Support channel
+- Ensure information flow with Solution Architects and Customer Success Managers (e.g. by receiving a regular report)
+- Use existing communication structures between Customer Support and Customer Success to avoid overhead
 
 #### Ranking
 
-- Use existing metrics (e.g. priority and customer revenue) from the ticket system to rank identified issues.
-- Compare Customer Support time put into issues to generated revenue for high impact.
+- Use existing metrics (e.g. priority and customer revenue) from the ticket system to rank identified issues
+- Compare Customer Support time put into issues to generated revenue for high impact
 
 ## Community Documentation Involvement
 
@@ -241,7 +248,7 @@ A critical part of this development is documentation which ranges from feature d
 
 ### Feature Documentation
 
-Feature documentation is generally written by the technical product writers, within a specific time-frame aligned with releases. Community members are welcome to assist, if the time expectations are manageable.
+Feature documentation is generally written by the Product Manager and Technical Writer within a specific time-frame aligned with releases. Community members are welcome to assist, if the time expectations are manageable.
 
 Feature request documentation is usually located in the [mattermost-server](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+is%3Aissue+label%3ADocs%2FNeeded) repo and the [mattermost-webapp](https://github.com/mattermost/mattermost-webapp/pulls?q=is%3Aopen+is%3Apr+label%3ADocs%2FNeeded) repo and are labelled as “Docs Needed”. As these are tied to a release \(and a deadline\) it’s best to only take on the work if you’re sure you can complete it on time. It’s understood that community members contribute in their available time, which is why this type of documentation isn’t usually the best option to take on.
 
@@ -253,6 +260,6 @@ If you have any questions, you can post them in the [Documentation](https://comm
 
 ### Engineering/Developer Documentation
 
-Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated \(or created\) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation. 
+Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated \(or created\) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation.
 
-Visit the [Contribute to Documentation](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/submitting-documentation-with-your-pr) page to get started with submitting documentation with your PR. You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review). 
+Visit the [Contribute to Documentation](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/submitting-documentation-with-your-pr) page to get started with submitting documentation with your PR. You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review).
