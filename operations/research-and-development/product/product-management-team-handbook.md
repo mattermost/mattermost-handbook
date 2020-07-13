@@ -739,7 +739,7 @@ To officially release a feature, it should meet the following criteria:
 5. **Secure:** Reviewed internally for security, and included in future security reviews
 6. **Accessible:**: Accessibility has been added for user interface components
 7. **Logged:** Audit log entries have been added to allow system admins to troubleshoot issues
-8. **Compliant:**: Anything needed for compliance is tracked in logs
+8. **Compliant:** Anything needed for compliance is tracked in logs
 
 ### How do I create redirects for in-product documentation?
 
