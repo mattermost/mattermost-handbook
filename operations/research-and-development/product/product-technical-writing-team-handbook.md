@@ -193,7 +193,6 @@ If you have a feature documentation requirement, please create a ticket and incl
 
 * Label: Documentation
 * Team: Tech Writing
-* Assignee: Unassigned
 
 Depending on what is required, please also include a sprint as well as a fix version.
 
@@ -201,7 +200,6 @@ If your request is not related to feature documentation, include the following f
 
 * Label: Documentation
 * Team: Tech Writing
-* Assignee:
 
 **Jira Turnaround Time**
 
