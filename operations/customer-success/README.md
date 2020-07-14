@@ -105,7 +105,9 @@ Customer Reference is a customer story on how Mattermost made a positive impact 
 
 #### Logging a Customer Reference in Salesforce
 
-Mattermost uses Salesforce to log Customer References. Below are steps on how to log these references.
+Mattermost uses Salesforce to log Customer References. [Here is a quick video](https://drive.google.com/drive/u/0/folders/1k9M0wfolXf34XQndtqzLYcCBVkGsBob2) on how to log a Customer Reference in Salesforce.
+
+Below are detailed steps on how to log a Customer Reference in Salesforce.
 
 1. Search for account.
 2. Hover over **Customer Reference** under **Related Lists** and select **New**.
