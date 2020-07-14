@@ -37,14 +37,14 @@ These calls are logged in Salesforce for tracking and reporting purposes.
 
 #### Logging a Customer Feedback in Salesforce
 
-Below are the links to the training videos for licensed and non licensed customers.
+Below are the links to the training videos for enterprise and non-enterprise customers.
 
-[1) Non-licensed feedback calls](https://drive.google.com/drive/u/0/folders/1k9M0wfolXf34XQndtqzLYcCBVkGsBob2)
-[2) Licensed feedback calls](https://drive.google.com/drive/u/0/folders/1k9M0wfolXf34XQndtqzLYcCBVkGsBob2)
+[1) Non-Enterprise feedback calls](https://drive.google.com/drive/u/0/folders/1k9M0wfolXf34XQndtqzLYcCBVkGsBob2)
+[2) Enterprise feedback calls](https://drive.google.com/drive/u/0/folders/1k9M0wfolXf34XQndtqzLYcCBVkGsBob2)
 
 Below are detailed steps on how to log calls for licensed and non licensed customers.
 
-##### Licensed Customers
+##### Enterprise Customers
 1. Log into Salesforce.
 2. Type in account name in the search bar located in the middle of the screen.
 3. Select the account.
@@ -60,7 +60,7 @@ Below are detailed steps on how to log calls for licensed and non licensed custo
    - **Comments:** Details of the call or meeting.
  7. Select **Save**.
  
- ##### Non Licensed Customers - Account Exists in Salesforce
+ ##### Non-Enterprise Customers - Account Exists in Salesforce
 1. Search for an account in Salesforce. Select the account from the drop-down menu.
 2. If the Account exists, click on the account. 
 3. Hover over contacts to check that customer contact from the call exists.  If the contact does not exist, select the “new” button to create contact. 
@@ -74,7 +74,7 @@ Below are detailed steps on how to log calls for licensed and non licensed custo
 6. Fill in the highlighted sections. Select “Customer Feedback” as sub-type. 
 7. Select Save.
 
-##### Non Licensed Customers - Account Does Not Exist in Salesforce
+##### Non-Enterprise Customers - Account Does Not Exist in Salesforce
 1. Search for Account “Hold Public” in the search bar and select the account in the dropdown.
 2. Hover over contacts and select the “new” button to create contact. 
 3. Fill out the following fields and select Save.
