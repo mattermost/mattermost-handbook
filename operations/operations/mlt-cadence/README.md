@@ -233,7 +233,7 @@ In Q3 we have three goals:
 
 Typically there is not pressure for budget or headcount discussions in Q3, focus is strategy.
 
-**Q3 Punchlist for Next Fiscal Year Planning**
+**Q3 Punchlist for next fiscal year planning**
 
 1. The company 3-year aspirations are reviewed
 2. A 1% MLT V2MOM for next fiscal year is drafted by CEO and reviewed with MLT department heads
