@@ -250,7 +250,7 @@ The focus of Q4 is arriving at a 99% draft of the plan for next fiscal with alig
 1. MLT and middle managers work through key Obstacles for next fiscal year
 2. Finance works with MLT to draft financials plan for next fiscal year
 3. CEO works with MLT to develop MLT V2MOM from 50% to 99%
-4. Department heads work with their teams, peer stakeholders and CEO to develop Department V2MOM from 50% to 99%
+4. Department heads work with their teams, peer stakeholders, and CEO to develop Department V2MOM from 50% to 99%
 5. 99% MLT V2MOM is reviewed by MLT and agreed
 6. 99% Department V2MOMs are reviewed by MLT peers and CEO and agreed
 7. Plan for next fiscal year is locked based on V2MOMs
