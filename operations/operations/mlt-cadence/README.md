@@ -74,7 +74,7 @@ Ian to moderate through Asana.
 
 **Wednesdays 9:00am to 10:30am Palo Alto time with MLT**
 
-**Required Attendees - MLT only + extended team (as appropriate by topic)  **
+**Required attendees: MLT only + extended team (as appropriate by topic)**
 
 The purpose of this new MLT Weekly Deep Dive series is to achieve a deeper understanding and clarity on functional areas and/or strategic topics through reviews, discussions, and decisions.
 
