@@ -180,7 +180,7 @@ QBR is an exercise to increase output through concise, efficient review of quart
     * 2 hours for MLT QBR (30 mins each for Product, Engineering, G&A, and Marketing) 
 
 
-**Prior to Meeting**
+**Prior to meeting**
 
 * Materials for QBR agenda are shared by Friday prior to the QBR meeting.
 
