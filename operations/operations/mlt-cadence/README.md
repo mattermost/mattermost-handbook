@@ -186,7 +186,7 @@ QBR is an exercise to increase output through concise, efficient review of quart
 
 **Agenda**
 
-* \(CEO\) Reviews [MLT Cadence V2MOM](http://handbook.mattermost.com/leadership/leadership-meetings.html#MLT-Cadence-VPMOM) \(10 minutes\)
+* \(CEO\) Reviews [MLT Cadence V2MOM](https://handbook.mattermost.com/leadership/leadership-meetings.html#MLT-Cadence-VPMOM) \(10 minutes\)
 * \(Each department head\) Reviews quarterly goals in the context of V2MOMs, including the following \(25 minutes per person, including 5 minutes for review, 5 minutes for MLT to share written feedback, and 15 minutes for discussion\):
   * Goals for previous quarter
   * Previous quarter achievements and opportunities
