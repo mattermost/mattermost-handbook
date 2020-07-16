@@ -257,7 +257,7 @@ The focus of Q4 is arriving at a 99% draft of the plan for next fiscal with alig
 
 #### MLT V2MOM Review Process
 
-V2MOMs, quarterly plans and proposed orgs are reviewed by MLT. Use the following order to review V2MOMs:
+V2MOMs, quarterly plans, and proposed orgs are reviewed by MLT. Use the following order to review V2MOMs:
 
 * Vision
 * Values
