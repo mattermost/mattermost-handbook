@@ -1,4 +1,4 @@
-# How to Write a Release Announcement
+# How to Write a Feature Release Announcement
 
 This document outlines how to write a release announcement and release tweets for a feature. These are used at the release in our release newsletter and Twitter. 
 
@@ -15,7 +15,7 @@ It is important to think of the Release Announcement as a whole, as a press rele
 ### Timeline
 A release announcement for each feature should be started early in the product planning process. Each Product Manager is directly responsible for writing the announcement for each of their features. For large product features or new products, a PRFAQ should be completed. For smaller features, a “mini-PRFAQ” should be completed in the form of a blog post. 
 
-Release announcements and tweets are due from Product Managers at T-14 (same as Code Complete). They should be provided to your Lead (Lindsay or Katie), who will coordinate all into one single document for the release. A final draft of the combined release annoucenment for the newsletter will be provided for review to CPO and MLT team by T-7. Finally, the approved release annoucenment will be provided to marketing by T-1. 
+Release announcements and tweets are due from Product Managers at T-14, so a first draft can be completed by T-11, per our [release announcement process](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements). They should be provided to your Lead (Lindsay or Katie), who will coordinate all into one single document for the release. A final draft of the combined release annoucenment for the newsletter will be provided for review to CPO and MLT team by T-10. Finally, the approved release annoucenment will be provided to marketing by T-2 and published on release day. 
 
 ### Feature Headline
 
