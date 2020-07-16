@@ -86,7 +86,7 @@
     * [How to Guides for Product](operations/research-and-development/product/how-to-guides-for-product/README.md)
       * [How to Use ProductBoard](operations/research-and-development/product/product-planning/how-to-use-productboard.md)
       * [How to Update Integrations Directory](operations/research-and-development/product/how-to-guides-for-product/integrations-directory.md)
-      * [How to Write a Release Announcement](operations/research-and-development/product/how-to-guides-for-product/release-announcement.md)
+      * [How to Write a Feature Release Announcement](operations/research-and-development/product/how-to-guides-for-product/release-announcement.md)
     * [Product Management Team Handbook](operations/research-and-development/product/product-management-team-handbook.md)
     * [Technical Writing Team Handbook](operations/research-and-development/product/product-technical-writing-team-handbook.md)
   * [Engineering](operations/research-and-development/engineering.md)
