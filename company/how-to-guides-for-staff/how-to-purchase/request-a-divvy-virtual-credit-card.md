@@ -4,7 +4,7 @@ We strongly encourage staff members not to put system or program spend on person
 
 Staff members can request a virtual credit card in a couple of ways, depending on the nature of the request.
 
-### No Purchase Order form needed
+## No Purchase Order form needed
 
 A purchase order form is not requested if ALL of the following conditions are met:
 
