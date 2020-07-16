@@ -68,6 +68,8 @@ For all new staff members, to request a new MacBook, Lenovo, or other laptop, pl
 * **MacBook 15”** - For developers choosing to use Macs, we recommend getting a [MacBook Pro 15-inch retina with 512 GB of storage and 32 GB of memory](https://www.apple.com/shop/buy-mac/macbook-pro/15-inch-space-gray-2.6ghz-6-core-512gb) or similar. As an example, other teams may not require 32 GB memory or 512 GB of storage. 
 * **PC** - Any suitable laptop with comparable specifications and lower or similar cost to the recommended MacBook. Many of our engineers use Lenovo laptops from the Thinkpad X, T, or P series. If in doubt, we recommend a Lenovo Thinkpad T series.
 
+After your laptop is received, it is required that you register your laptop by completing an [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). If you purchased the laptop on your own and you are submitting an expense report for reimbursement, attach the Asset Registration email confirmation with your expense report. This step should be completed within 5 business days after your laptop was received.
+
 ### MOBILE DEVICE POLICY
 
 The Mattermost mobile phone policy enables the use of mobile devices for customer-facing roles or those providing repeating on-call service in a secure fashion.
@@ -131,7 +133,7 @@ The company phone may only be used for work-related purposes. Personal usage is 
 
 #### Laptop
 
-Many staff members will use their company issued laptop until it breaks. That said, if your productivity is suffering, you can request a new laptop at any time. The average timeframe for equipment replacement is approximately three years. Laptops must be returned to the company or their drives wiped clean before they are disposed of.
+Many staff members will use their company issued laptop until it breaks. That said, if your productivity is suffering, you can request a new laptop at any time. The average timeframe for equipment replacement is approximately three years. Old laptops should be returned to the company. Replacement laptops should follow the registration process similar to new hires by completing our [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). 
 
 #### Other 
 
