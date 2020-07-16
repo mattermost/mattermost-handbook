@@ -86,6 +86,20 @@ Use active voice in preference to passive voice. Active voice has the subject of
 
 Use the present tense.
   - For example: "Sharing this link lets other users view the linked message." as opposed to "Sharing this link will let other users view the linked message."
+  
+## Terminology Guide
+
+Throughout Mattermost, you’ll see the below words, terms are mentioned and used. Their definitions and reason for usage are defined below.
+
+| Terms          | Description        | Usage             |
+| ------------- |-------------| --------------------|
+| Mattermost | Used to refer to [Mattermost](https://mattermost.com/about-us/) the company and [Mattermost](https://mattermost.com/product/) the product. | <ul><li> E.g Mattermost is an open-source, self-hostable online chat service with file sharing, search, and integrations.</li> <li> E.g Configure Mattermost on your server.</li></ul> |
+| installation | Refers to an on-premises Mattermost environment comprising hardware (server/s), database, and filestore, etc which hosts the required files to run Mattermost. | <ul><li> E.g Create an installation manifest file. </li></ul> |
+| deployment | Used to refer to making a new installation widely accessible. It can also refer to releasing an updated version, patch, etc. | <ul><li> E.g Desktop App Deployment Guide. </li></ul> |
+| configuration | Used to describe the settings and customizations applied to Mattermost to change the appearance and behavior. | <ul><li> E.g Create a configuration file for Mattermost. </li></ul> |
+| Mattermost Server | Used to refer to the single Linux binary that is installed on the physical server which hosts your Mattermost installation. It is not used to refer to the product going beyond the binary name. Always capitalize the `Server` when referring to the name of the binary. | <ul><li> E.g Download the Mattermost Server binary. </li> <li> Since this migration happens before Mattermost is fully launched on your server. </li></ul>|
+| Mattermost server | Used to refer to the physical server on which you run Mattermost. It is also referred to as the customer’s Mattermost server. Always lowercase `server` when referring to the customer’s physical Mattermost server | <ul><li> E.g Your Mattermost server may need to be rebooted before changes are applied </li></ul> |
+
 
 ## Using ReStructuredText markup (rst)
 
