@@ -33,6 +33,7 @@ This section outlines:
 The purpose of MLT WBR is to review the health of the business by reviewing our goals dashboard, identifying key risks/challenges/issues, and identifying owners for actions. Discussions held in [MLT WBR Channel](https://community.mattermost.com/private-core/channels/MLT-WBR).
 
 #### Pre-work
+
 * Dashboard to be updated by all owners by Tuesday 9am Palo Alto Time.
 * 2x2 prepared by each functional owner (TBD if reviewed separately or aggregated into one 2x2) (e.g., next product releases, marketing launches).
 
@@ -69,7 +70,6 @@ The purpose of the MLT Weekly Executive Meeting is to discuss MLT topics like CE
 
 Ian to moderate through Asana.
 
-
 ## MLT Weekly Deep Dive Meeting
 
 **Wednesdays 9:00am to 10:30am Palo Alto time with MLT**
@@ -90,8 +90,6 @@ Topics are queued in a [central spreadsheet](https://docs.google.com/spreadsheet
 * Two slots of 45 minutes each. Typically two topics - one for each slot. However, bigger topics can occupy two slots
 * MLT reviews document for the first 15 minutes; discusses for the next 25 minutes to reach any decisions for clarity and closure
 * (Five minutes before end of slot) Decisions/actions are summarized
-
-
 
 ## MLT Planning
 
@@ -117,9 +115,9 @@ We’re currently focused on quarterly plans and will move to halves.
 
 **Drafting MLT Plan**
 
-**T-Minus 4 Weeks to announcement.**
+**T-Minus 4 Weeks to announcement**
 
-The following should happen within a 2 week period, with 1-2 iterations in each step:
+The following should happen within a 2 week period, with 1 - 2 iterations in each step:
 
 1. CEO discusses company and department V2MOMs 1-1 with department heads to ensure alignment
    * If applicable during the period, Sales, CEO, and Finance set or adjust the revenue targets
@@ -166,19 +164,14 @@ The following should happen within a 2 week period, with 1-2 iterations in each 
 
 ## Quarterly Business Review \(QBR\)
 
-Each quarter we review process towards our V2MOMs and discuss achievements and opportunities.
-
-#### Quarterly Business Review
-
-QBR is an exercise to increase output through concise, efficient review of quarterly goals for company and department in the context of V2MOMs.
+Each quarter we review process towards our V2MOMs and discuss achievements and opportunities. The QBR is an exercise to increase output through concise, efficient review of quarterly goals for company and department in the context of V2MOMs.
 
 **Time and people**
 
 * Scheduled 1 week after quarter end and can be broken out into:
-    * 90 mins for Sales QBR (30 mins for each region)   
+    * 90 mins for Sales QBR (30 mins for each region)
     * 45 mins CS QBR
-    * 2 hours for MLT QBR (30 mins each for Product, Engineering, G&A, and Marketing) 
-
+    * 2 hours for MLT QBR (30 mins each for Product, Engineering, G&A, and Marketing)
 
 **Prior to meeting**
 
@@ -197,7 +190,7 @@ QBR is an exercise to increase output through concise, efficient review of quart
 * \(MLT\) Review of actions and follow-ups \(10 minutes\)
 * \(MLT\) Review of cascading communication \(10 minutes\)
 
-#### QBR follow-ups
+#### QBR Follow-ups
 
 As reviews happen, follow-up items are noted in RAPID format and meetings scheduled based on RAPID assignments.
 
@@ -205,7 +198,7 @@ As reviews happen, follow-up items are noted in RAPID format and meetings schedu
 
 * Between 21st and end of the month
 * Scheduled 18 months in advance
-* Board deck is sent to Board 3 calendar days before Board meeting
+* Board deck is sent to Board three calendar days before Board meeting
 
 #### Meeting Structure
 
@@ -217,13 +210,13 @@ As reviews happen, follow-up items are noted in RAPID format and meetings schedu
 #### Debrief Calls
 
 1. 25 minute debrief scheduled with each board member same day or the day after board meeting via their admins
-2. 1 hour debrief with MLT scheduled same day after board meeting
+2. One hour debrief with MLT scheduled same day after board meeting
 
 ## Fiscal Year Planning \(1%\) <a id="fiscal-year-planning"></a>
 
 Preparation for the annual plan and budget for the next fiscal year begins in the second half of the current fiscal year.
 
-#### Q3 Planning for next fiscal year
+#### Q3 Planning for Next Fiscal Year
 
 In Q3 we have three goals:
 
@@ -233,7 +226,7 @@ In Q3 we have three goals:
 
 Typically there is not pressure for budget or headcount discussions in Q3, focus is strategy.
 
-**Q3 Punchlist for next fiscal year planning**
+**Q3 Punchlist for Next Fiscal Year Planning**
 
 1. The company 3-year aspirations are reviewed
 2. A 1% MLT V2MOM for next fiscal year is drafted by CEO and reviewed with MLT department heads
@@ -243,7 +236,7 @@ Typically there is not pressure for budget or headcount discussions in Q3, focus
 6. Action items are documented and developed around Obstacles to success of next fiscal year
 7. 50% MLT and Department V2MOMs, plus Obstacles, are presented to department leaders
 
-#### Q4 Planning for next fiscal year
+#### Q4 Planning for Next Fiscal Year
 
 The focus of Q4 is arriving at a 99% draft of the plan for next fiscal with alignment across MLT and departments, with key Obstacles mitigated, and headcount and budgets reviewed.
 
