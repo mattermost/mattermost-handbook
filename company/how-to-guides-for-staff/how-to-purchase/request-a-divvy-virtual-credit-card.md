@@ -22,7 +22,7 @@ Staff members can make a request by emailing AP@mattermost.com and provide the f
 * MLT Leader approving the request (MLT Leader should also be CC’d on the email request)
 * Vendor billing contact (if any)
 
-### Purchase Order form required
+## Purchase Order form required
 
 If any of the points above are not satisfied, staff members should follow the standardized [Procurement Process](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#procuring-a-vendor). As part of the process, the staff members complete a purchase order form. 
 After Legal has reviewed the Terms & Conditions and all [DocuSign procedures](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-4-send-for-internal-signature) have been taken, the Finance team will create a budget for the request on Divvy and provision a virtual credit card. 
