@@ -26,7 +26,7 @@ The People Ops team will update staff information as it relates to compensation 
 
 ## Shared Google Drive
 
-When using Google Drive, always save documents to the appropriate shared drive. When handling confidential or sensitive data in Google Docs.
+When using Google Drive, always save documents to the appropriate shared drive. When handling confidential or sensitive data in Google Docs, ensure that access to the shared drive is limited to the staff with that data access. 
 
 ## Confidential data in Google Docs
 
