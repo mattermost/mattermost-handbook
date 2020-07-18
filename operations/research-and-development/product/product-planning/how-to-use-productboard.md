@@ -6,14 +6,20 @@ description: 'https://mattermost.productboard.com/'
 
 Productboard is used by Product Managers and Customer/Sales Teams for:
 
-* Feedback collection.
-* Feature validation.
-* Requirements gathering.
-* Feature prioritization/roadmap planning.
+* Feedback collection
+* Feature validation
+* Requirements gathering
+* Feature prioritization/roadmap planning
 
 When a feature moves to "planned" the Product team pushes it to Confluence and Jira (or wherever each team decides) to define the scope/spec and track work.
 
 Specifically, productboard is used to decide what to build (and when), while other systems like Confluence or Jira are used to communicate and design on what exactly is being built at individual feature level.
+
+**Roles**
+
+**Makers:** Product Managers and Product Management leadership
+**Contributors:** Customer Engineers/Customer Support/UX/Dev Leadership
+**Viewers:** Everyone else with @mattermost.com email address
 
 ## 1 A day in the life of a Product Manager
 
@@ -70,7 +76,6 @@ Note that each time you update the status of a feature or add a comment, anyone 
 2. Make sure all features that fall under your area of responsibility are assigned to you.
 3. Add any important detail about the feature that is missing or that would be valuable to others that might need to help you validate or gather requirements for the feature. 
 4. **Assign Releases:** Features can have one or many releases assigned as they may appear on different roadmap/planning views for different purposes. Below is an outline of our current structure of releases in productboard:
- * **Planning Estimates:** H1 Plan, H2 Plan (tentative), Backlog, Community Contract, or Bounty.
  * **Exact Releases:** (when known) Examples: 5.22, 5.24, 1.30, Mattermost 6.0.
  * **Sequence:** Now, Next, Later.
 5. **Setting the Status:** There are six statuses throughout the life of a feature:
@@ -138,9 +143,7 @@ To be added \(ETA Q2/FY21\)
   * [Shared inbox](https://mattermost.productboard.com/insights/shared-inbox)
 * [Features](https://mattermost.productboard.com/feature-board)
   * [Master Feature list](https://mattermost.productboard.com/feature-board/1097524-master-feature-list)
-  * [Feature organization view](https://mattermost.productboard.com/feature-board/1097524-feature-organization)
-  * [Top requests](https://mattermost.productboard.com/feature-board/1097530-top-requests)
-  * [Prioritization matrix](https://mattermost.productboard.com/feature-board/1097533-prioritization-matrix)
+  * [Release tracking view](https://mattermost.productboard.com/feature-board/1097526-release-tracking-internal)
 * [productboard Support](https://help.productboard.com/en/)
 
 ## 2 A Day in the life of a Customer Support Manager, Customer Success Manager, or Solution Architect
@@ -177,7 +180,7 @@ As a **Contributor** in productboard, you have access to view the [Master Featur
 
 You can search and browse all features and ideas and even read the notes and portal cards from Product Managers for a detailed description of the feature/idea. In the case of planned features, you'll have complete insight into the status of the feature and a rough idea of where it sits on the roadmap.
 
-Within the detailed view of individual features, you can view the full list of insights added by other Product Managers, Customer Success Managers, Solutions Architects, or Support Managers. You also have the option to add insight directly to the feature itself.
+Within the detailed view of individual features, you can view the full list of insights added by other Product Managers, Customer Success Managers, Customer Engineers, or Support Engineers. You also have the option to add insight directly to the feature itself.
 
 ![](../../../../.gitbook/assets/productboard-insights-master-feature-list.png)
 
@@ -197,7 +200,7 @@ As long as you are logged into productboard, the connectivity to the Mattermost 
 
 As a **Contributor** in productboard, you have access to view the [Master Feature list](https://mattermost.productboard.com/feature-board/1097524-master-feature-list). This is the view where the Product team organizes and prioritizes new features and functionality that is being considered or planned for Mattermost. You can search and browse all features and ideas and even read the notes and portal cards from Product Managers for a detailed description of the feature/idea. In the case of planned features, you'll have complete insight into the status of the feature and a rough idea of where it sits on the roadmap. Although only Product Managers are able to modify the **Effort** estimate, it's highly encouraged for you to review and provide your feedback to your Product Manager as well!
 
-Within the detailed view of individual features, you can view the full list of insights added by other Product Managers, Customer Success Managers, Solutions Architects, or Support Managers.
+Within the detailed view of individual features, you can view the full list of insights added by other Product Managers, Customer Success Managers, Customer Engineers, or Support Engineers.
 
 ### 3b Monitoring the release schedule
 
