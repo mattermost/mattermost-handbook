@@ -6,7 +6,7 @@ description: 1% Draft
 
 ## Technical Writing Handbook
 
-The Mattermost Technical Writers focuses primarily on Technical Documentation (including the User's Guide, Administrator's Guide, and Developer documentation) and on Customer Education content.
+The Mattermost Technical Writers focus primarily on Technical Documentation (including the User's Guide, Administrator's Guide, and Developer documentation) and on Customer Education content.
 
 ### Areas of Responsibility
 
@@ -24,21 +24,9 @@ The Mattermost Technical Writers focuses primarily on Technical Documentation (i
   * Writing MVP documentation
 * Community and doc review process
   * Process for Doc Up plugin
-  * Docs review and coordination with @sebastian.faase, with @amy.blais as a backup
+  * Docs review and coordination with @amy.blais
   * Community Help Wanted doc issues
   * Documentation Handbook and Style Guide maintenance
-
-#### @sebastian.faase:
-
-- [Training and Education guide](https://docs.mattermost.com/guides/education.html)
-  - Enterprise rollout guide for self-serve post-sales technical onboarding
-  - Improved Enterprise Edition feature usage and renewal rate
-  - Reduced customer need for Mattermost support
-- Liaison between product and sales/customer success to provide educational content to customers
-  - Identify gaps and painpoints among customers
-  - Prioritize customer education content generation
-  - Attend customer calls undergoing enterprise onboarding
-- Tone and writing style guide for Customer Education content
 
 The following areas remain a collaborative effort between Product Managers, Engineers, and Technical Writers, until additional headcount is reached. Please reach out to the [Documentation Working Group](https://community.mattermost.com/private-core/channels/dwg-documentation-working-group) for any questions.
 
@@ -71,7 +59,7 @@ Once complete, submit your Pull Request \(PR\). Ensure that you assign appropria
 
 Feature documentation is a joint effort between Product Managers and Technical Writers. In the same way that we want to empower everyone to contribute to our documentation, Product Managers are encouraged to write MVP documentation for their product/feature.
 
-**Note**: Due to the cadence of the release cycle, feature documentation needs to be complete and submitted as per the process below at least ten days prior to release to ensure it's included in the documentation update.
+**Note:** Due to the cadence of the release cycle, feature documentation needs to be complete and submitted as per the process below at least ten days prior to release to ensure it's included in the documentation update.
 
 The supplied content can be provided informally, in bullet points, or rough notes in a Google Doc and refinements are made collaboratively. This is a guideline of what MVP feature documentation includes:
 
@@ -209,7 +197,7 @@ If the Jira ticket is for general documentation, depending on the current worklo
 
 ### Editing Requests
 
-The Technical Product Writer/s form part of the PR review/approval process. When submitting a PR for documentation, please add the **Editor Review** label. Once the editor has signed off on the PR they will remove the label. When all the requested reviews are complete, the **Reviews Complete** label will be applied and the changes merged.
+When submitting a PR for documentation, please add the **Editor Review** label. Once the Technical Writer/Editor has signed off on the PR they will remove the label. When all the requested reviews are complete, the **Reviews Complete** label will be applied and the changes merged.
 
 ### Providing Editorial Feedback
 
@@ -220,23 +208,6 @@ Editorial feedback is based on the guidelines laid out in the [Documentation Sty
 ### Formatting and Style Guide
 
 The [Documentation Style Guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide) and [UI text guidelines](https://docs.mattermost.com/process/documentation-UItext-guidelines.html).
-
-## Customer Education Processes
-
-### Resolve gaps and painpoints among customers
-
-To identify, rank, and resolve customer pain points. Priority is based on customer impact, measured by an increase in enterprise 90-day onboarding NPS, and post-sales technical onboarding without R&D involvement.
-
-#### Identify
-
-- Monitor support tickets and get regular feedback from Support Engineers through the Support channel
-- Ensure information flow with Solution Architects and Customer Success Managers (e.g. by receiving a regular report)
-- Use existing communication structures between Customer Support and Customer Success to avoid overhead
-
-#### Ranking
-
-- Use existing metrics (e.g. priority and customer revenue) from the ticket system to rank identified issues
-- Compare Customer Support time put into issues to generated revenue for high impact
 
 ## Community Documentation Involvement
 
