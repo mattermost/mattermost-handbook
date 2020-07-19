@@ -213,8 +213,8 @@ Activities:
 
 * Learn about our customers and users
   * Support
-    * Customers: Zendesk \(Paul\)
-      * Meet with Paul for Zendesk training and support overview
+    * Customers: Zendesk \(Sven\)
+      * Meet with Sven for Zendesk training and support overview
       * Join support standups for a week or two, and help out on support tickets
     * Community: GitHub, Forums \(Amy\)
   * Customer success \(Meet with a CSM - Emily Hollinger, Stu Doherty, Rosie Lane\)
@@ -230,7 +230,7 @@ Activities:
     * [Customer request triage](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=17&projectKey=CR&view=planning.nodetail&quickFilter=97) 
       * Track down estimates and early dev feasibility discussions on [Customer Requests](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=17&projectKey=CR&view=planning&selectedIssue=CR-132)
 * Learn about the market
-  * Sales \(Sales - Steve, Lance, Phillip and Solution Architects - Mark, John, Christian\)
+  * Sales \(Regional VPs and Customer Engineers\)
     * Sales team overview
     * Sales team priorities
     * What competitors are we up against
@@ -264,13 +264,13 @@ Activities:
       * Typical customer deployment
         * Sizing recommendations
   * Product areas: Functional Overview and Roadmap
-    * End User and Apps \(Eric Sethna\)
-    * Mobile \(Adam Clarkson\)
-    * Integrations \(Aaron Rothschild\)
-    * Administration and Enterprise \(Dennis Kittrell\)
-    * Incident Response \(Ian Tao\)
-    * Customer Journey and Monetization \(Eric Sadur\)
-    * Mattermost Private Cloud \(Katie Wiersgalla\)
+    * End user experience (\Desktop, Web, and Mobile client applications\) \(Eric Sethna\)
+    * Cloud \(Adam Clarkson\)
+    * App Marketplace and Developer Toolkit \(Aaron Rothschild\)
+    * Enterprise-grade \(Platform, Admin Console\) \(Dennis Kittrell\)
+    * Product-centric GTM \(Customer Portal, Customer Journey\) \(Eric Sadur\)
+    * Workflows \(Ian Tao\)
+    * Community \(Jason Blais\)
     * Reference:
       * [Roadmap - All teams](https://docs.google.com/spreadsheets/u/1/d/1v-ihzzAkFmO2T5UfF1wWYMgS3W6MwiNqfRQG79X3rSY/edit#gid=0)
       * [Engineering OKRs](https://docs.google.com/presentation/d/1u9WMZ95juJb-XokN3hPQeabYOQ9rqrE38np7Vnl566A/edit#slide=id.p)
@@ -466,7 +466,7 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
     * Any in product instructions or documentation should never contain hard-coded links.
     * A redirect page from about.mattermost.com should be used in product instructions. \(See instructions [here](https://handbook.mattermost.com/operations/research-and-development/product/product-management-team-handbook#how-do-i-create-redirects-for-in-product-documentation)\)
 * Maintain product accuracy on mattermost.com/product and roadmap
-* Author Forum and blog posts
+* Author [Forum](https://forum.mattermost.org/t/community-design-meeting-folded-reply-threads/6729/10), [blog](https://mattermost.com/blog/mattermost-launches-mattermost-superstars-program-for-contributors/) and [release announcement](https://mattermost.com/blog/mattermost-release-v5-25/) posts
   * Example \(link to Eric’s permissions post\)
 * Other Marketing \(eg; future webinars, event participation, etc\)
 
@@ -477,8 +477,7 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
 * Provide Roadmap status updates for Enterprise clients
 * Assist with Customer Support - Tier 2 on call weekly rotation
 * PMs should be on sales/customer calls often; if not on at least a couple per week then request to be added in the CSM:PM channel and Pre-sales channel
-  * Document and post feedback via the [Customer Feedback channel](https://community.mattermost.com/private-core/channels/customer-feedback
-)
+  * Document and post feedback via the [Customer Feedback channel](https://community.mattermost.com/private-core/channels/customer-feedback)
   * Add/update Jira tickets to capture feature requests
 * Participate in and contribute updates via the Customer Request Triage meeting
 * Verify bugs reported by customers
@@ -486,18 +485,18 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
 
 #### Customer Requests
 
-Feature and improvement requests from our Enterprise customers are logged by Sales Architects, Customer Success, and Support in a [Customer Request Jira project](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=17&projectKey=CR&view=planning&issueLimit=100).
+Feature and improvement requests from our Enterprise customers are logged by Customer Engineers, Customer Success, and Support in [productboard](https://mattermost.productboard.com/feature-board/1097524-master-feature-list).
 
-Please encourage collegues to add tickets when they are discussing requests in Mattermost channels, so that we have single source with all requests. Product Managers are responsible for reviewing Customer Requests regarding features and product improvements. New tickets may already be assigned to a PM based on area of responsibility. Please review tickets often to address newly created tickets and to update any older tickets as new information becomes available. For each ticket or request:
+Please encourage colleagues to file feedback in productboard when they are discussing requests in Mattermost channels, so that we have single source with all requests. PMs are responsible for reviewing the productboard feedback, and assigning it to relevant feature ideas. As they are reviewing the requests, PMs may also:
 
-* Work with Customer Success and Sales to clarify use cases, root issues they are trying to solve, and prioritization of request
-* Propose alternate solutions when they are available
-* Determine if the feature is a feature that we would add to the product
-* When an alternate solution is not available and we would add the feature to the product, get a high-level estimate of level of effort to develop a solution from the Engineering team
-* Add additional customer use cases to existing tickets. Encourage colleagues to add additional use cases to existing tickets as they gather information from their customer interactions
-* Link any implementation or design tickets to the request
-* Update the **Fix Version** of the feature to provide an indication of when the reporting request may be addressed. Generally, **Planned: Near Term** means it will be addressed in the next 1-3 releases, **Planned: Ongoing** means it's something that's being actively worked on, but progress may be slow, `Planned: Unscheduled` means we plan on addressing, but it is not currently on the roadmap, **Future Consideration** means we need to collect more details on use cases and demand before scheduling into a future roadmap and **Not Planned** means that we will not be working on addressing the request
-* Update the ticket status to **Closed** when a feature is completed
+* Work with Customer Success and Sales to clarify use cases, root issues, and pain points as well as the priority of the request to the customer
+* Propose alternate solutions and workarounds when they are available
+* Provide feedback on whether it's a "Won't Do" feature that we are unlikely to add to the product
+* Update the feature idea to link any implementation or design tickets
+* Update the **Effort** for the feature with a SWAG from the Engineering team
+* Update the feature idea to have a release timeframe (3 months, 6 months, future) or release version if the feature is planned
+
+After adding the feedback to the relevant idea in productboard, the PM comments and mentions the reporter so they are aware the feedback has been processed, and then marks the item as **Processed**.
 
 #### Customer Request Rotation
 
@@ -515,15 +514,9 @@ In sync with the Twitter rotation, Product Managers rotate responsibility weekly
 
 #### Twitter Rotation
 
-Product Managers rotate responsibility weekly for monitoring and responding to Mattermost mentions on our corporate Twitter account. The PM on rotation can be found in the header of the [Mattermost Twitter channel](https://community.mattermost.com/core/channels/twitter). The rotation switches on Monday and is scheduled alphabetically by first name. The PM on rotation will be mentioned on the first day of their rotation. The PM that was previously on rotation should reach out to the new PM on rotation to hand off the duties and to remind on the additional responsibilities of assigning unassigned Customer Requests. Below are the responsibilities of the PM on Twitter rotation:
+Product Managers rotate responsibility weekly for answering product question escalations on Twitter. Twitter is monitored by the marketing team, and they will @mention the PM on rotation in the Twitter channel when they need to escalate a question.
 
-* Monitor Twitter channel in Mattermost Contributors Team: [https://community.mattermost.com/core/channels/twitter](https://community.mattermost.com/core/channels/twitter)
-* Respond to product inquiries, retweet, and like posts that we are tagged in per the guidelines outlined on [https://docs.mattermost.com/process/community-guidelines.html\#mattermost-twitter](https://docs.mattermost.com/process/community-guidelines.html#mattermost-twitter)
-* Update posts in the Twitter channel with action taken
-  * React with `:heart:` if you liked the post
-  * React with `:repeat:` if you retweeted the post
-  * React with `:no_entry_sign:` if you took no action
-* Assign any unassigned Customer Requests. If you're unsure of who to assign, ask during the PM Meeting.
+The PM on rotation can be found in the header of the [Mattermost Twitter channel](https://community.mattermost.com/core/channels/twitter). The rotation switches on Monday and is scheduled alphabetically by first name. The PM on rotation will be mentioned on the first day of their rotation.
 
 ### Organizational Improvements
 
@@ -632,7 +625,7 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
   <tbody></tbody>
 </table>
 
-### Monthly Roadmap Q&A - Pre-sales and Support
+### Monthly Product:Sales Call
 
 <table>
   <thead>
@@ -640,7 +633,7 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
       <th style="text-align:left">Attendees:</th>
       <th style="text-align:left">
         <ul>
-          <li>All PMs, Release Manager, Sales, Customer Success, Product Marketing</li>
+          <li>All PMs; Optional: Sales, BizOps, Marketing departments</li>
           <li>Chair: Lindsay Brock</li>
           <li>Co-Chairs:</li>
           <li>Vice Chair:</li>
@@ -652,14 +645,11 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
 </table><table>
   <thead>
     <tr>
-      <th style="text-align:left">Objectives:</th>
+      <th style="text-align:left">Format:</th>
       <th style="text-align:left">
         <ul>
-          <li>Demo features that will be released in upcoming release</li>
-          <li>Communicate important information regarding a feature</li>
-          <li>Answer questions regarding the feature (e.g. use cases, technical questions,
-            etc)</li>
-          <li>Share updates on any important upcoming product changes</li>
+          <li>PMs share roadmap highlights: Focus is on features with clear release timelines, and a clear benefit to customers, so Sales knows what is coming up soon they can talk to customers about. Demos, PRFAQs, and designs are shared as needed to illustrate the benefits</li>
+          <li>Open Q&A</li>
         </ul>
       </th>
     </tr>
@@ -671,7 +661,7 @@ Product Managers rotate responsibility weekly for monitoring and responding to M
       <th style="text-align:left">Time:</th>
       <th style="text-align:left">
         <ul>
-          <li>Monthly meeting on 2nd Monday of the month from 8:30am to 9:00am Palo
+          <li>Monthly meeting on 2nd Monday of the month from 9:00am - 10:00am Palo
             Alto time.</li>
         </ul>
       </th>
