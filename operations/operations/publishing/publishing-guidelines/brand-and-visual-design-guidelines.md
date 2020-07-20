@@ -50,7 +50,7 @@ To ensure an uncluttered presentation, always maintain a full "X" space around t
 
 #### Vector Formats
 
-If you need vector versions of the logos, you can [download the EPS package](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/EPS-files.zip).
+If you need vector versions of the logos, you can [download the EPS package](../../../../.gitbook/assets/branding/logo-downloads/EPS-files.zip).
 
 #### PNG files
 
