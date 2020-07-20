@@ -4,13 +4,13 @@ description: How to write a one-page operational plan
 
 # How to V2MOM
 
-V2MOM is an exercise in awareness. When correctly implemented it results in total alignment across organizations while executing at high speed. V2MOM \(pronounced “Vee Pea Mom”\) is an acronym for vision, priorities, methods, obstacles, and measures and is expressed as a one-page document communicating these five areas of a strategy.
+V2MOM is an exercise in awareness. When correctly implemented it results in total alignment across organizations while executing at high speed. V2MOM \(pronounced “Vee Two Mom”\) is an acronym for vision, priorities, methods, obstacles, and measures and is expressed as a one-page document communicating these five areas of a strategy.
 
 V2MOMs are the API resourcing and ROI measures at our company.
 
 ## Structure
 
-Writing good V2MOMs is a critical skill for leadership in thinking through what they are asking of their organizations and concisely laying out how the organization should operate, make choices and measure progress.
+Writing good V2MOMs is a critical skill for leadership in thinking through what they are asking of their organizations and concisely laying out how the organization should operate, make choices, and measure progress.
 
 When you write a V2MOM, imagine that you’re posting it to both your organization and the company as a whole, and can have no further communication for the quarter. Your organization and its service providers within the company and outside the company, need to use your V2MOM to plan, prioritize, execute and make trade-offs during the quarter, and present to you at the end of the quarter what they have achieved based on what you have asked.
 
@@ -79,7 +79,7 @@ Measures
 
 **Commentary**
 
-In this V2MOM “Alignment” is the top priority. We note in the obstacles that the organization suffers from duplicate and conflicting SOPs today. If there was only one thing achieved in this V2MOM during the quarter it would be aligning SOPs with V2MOMs. This is measured by “All SOPs are clearly tied to a V2MOM”
+In this V2MOM “Alignment” is the top priority. We note in the obstacles that the organization suffers from duplicate and conflicting SOPs today. If there was only one thing achieved in this V2MOM during the quarter it would be aligning SOPs with V2MOMs. This is measured by “All SOPs are clearly tied to a V2MOM”.
 
 The next priority is “Documentation” with a measure of “90% of non-confidential SOPs can be found via a web search” to surface SOPs to further ensure alignment and removing conflict.
 
@@ -95,19 +95,19 @@ The following template is used to lock annual V2MOMs in one page. Anything that 
 # [TITLE] V2MOM Plan ([INITIALS OF DRI])
 
 Vision
-- [Define what you want to do in one sentence] 
+- [Define what you want to do in one sentence]
 
-Priorities 
+Priorities
 - [What are the relative priorities of the elements of your vision?]
 
 Methods
 - [What are the steps and actions everyone needs to take?]
-- [Include hiring and on-boarding if you plan to increase headcount] 
+- [Include hiring and on-boarding if you plan to increase headcount]
 
-Obstacles 
-- [What are the key challenges to be overcome to meet vision? (typically outside your control)] 
+Obstacles
+- [What are the key challenges to be overcome to meet vision? (typically outside your control)]
 
-Measures 
+Measures
 - [What are the actual results we want to deliver? (typically numbers)]
 
 [Commentary on anything RAPID should know that doesn't fit within the one-page V2MOM structure.]
@@ -122,4 +122,3 @@ One key difference is we use the term “Priorities” to describe the stack ran
 For example, a V2MOM for R&D may have the bulk of methods and measures on product delivery, and the Vision statement may have many elements, but when “High Quality” is clearly listed as the top priority it is unambiguous what our focus needs to be.
 
 Also, V2MOMs are defined by Mattermost and therefore can be optimized for our business and cadence. Whereas, V2MOMs have been used for over 20 years at different organizations, in different ways, in different eras, in different departments and when we tried using V2MOMs in the past they created too much inconsistency and confusion, despite good intentions.
-

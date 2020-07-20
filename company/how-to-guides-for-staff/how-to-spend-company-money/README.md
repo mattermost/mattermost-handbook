@@ -72,6 +72,8 @@ For all new staff members, to request a new MacBook, Lenovo, or other laptop, pl
 
 ### Mobile device policy
 
+After your laptop is received, it is required that you register your laptop by completing an [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). If you purchased the laptop on your own and you are submitting an expense report for reimbursement, attach the Asset Registration email confirmation with your expense report. This step should be completed within 5 business days after your laptop was received.
+
 The Mattermost mobile device policy enables the use of mobile devices for customer-facing roles or those providing repeating on-call service in a secure fashion.
 
 #### Subscription
@@ -134,7 +136,7 @@ The company device may only be used for work-related purposes. Personal usage is
 
 #### Laptop
 
-Many staff members will use their company issued laptop until it breaks. That said, if your productivity is suffering, you can request a new laptop at any time. The average timeframe for equipment replacement is approximately three years. Laptops must be returned to the company or their drives wiped clean before they are disposed of.
+Many staff members will use their company issued laptop until it breaks. That said, if your productivity is suffering, you can request a new laptop at any time. The average timeframe for equipment replacement is approximately three years. Old laptops should be returned to the company. Replacement laptops should follow the registration process similar to new hires by completing our [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). 
 
 #### Other 
 
