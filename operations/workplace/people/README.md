@@ -15,9 +15,10 @@ Description: >-
 
 | Date | Edited By | Change Notes |
 | :--- | :--- | :--- |
-| 5/14/2020 | Natalie Jew | Added Staff Enablement question descriptions |
-| 5/14/2020 | Lynn Conway | Updated 90-Day review notification time |
-| 5/14/2020 | Lynn Conway | Added offboarding instructions for managers |
+| 7/10/2020 | Natalie Jew | Updated Employment Verification |
+| 7/10/2020 | Natalie Jew | Added HR Systems |
+| 7/8/2020 | Natalie Jew | Added [Recruiting Process - stage descriptions](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#recruiter-intake-session) |
+| 7/8/2020 | Natalie Jew | Added [Referral Program](https://handbook.mattermost.com/contributors/join-us/recruiting#referral-program) |
 
 
 ## Key Channels and Resources
@@ -74,6 +75,8 @@ Palo Alto, CA, 94301
 If you need a letter from Mattermost verifying your employment or contractor status, please send the request to [hr@mattermost.com](mailto:hr0mattermost.com) citing what information is needed.
 
 For example, monthly fee, salary, start date, title, etc. People Ops will send you the letter once it is completed.
+
+If you are a U.S. staff member and on payroll through TriNet, see [TriNet Contact Information](https://drive.google.com/file/d/15AdHLRB9CvMbeUStJ8laqlDJwPZZ2RT-/view?usp=sharing). Please make sure to include the TriNet Employer Code when you share TriNet contact information with your verifying institution.
 
 ### Regular Compensation
 
