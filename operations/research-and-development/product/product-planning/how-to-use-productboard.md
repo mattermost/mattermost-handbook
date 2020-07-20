@@ -102,7 +102,7 @@ Two very important notes regarding this integration:
 * Do reorder your features and play around with scoring your features.
 * Do add sub-components if you feel they are appropriate and do not exist anywhere else.
 * Do create your own feature views with custom prioritization scores (using existing drivers).
-* Do post requests for all of the following in the productboard channel.
+* Do post requests for all of the following in the [productboard channel](https://community.mattermost.com/core/channels/pm-feature-request-and-roadmap-tool).
 
   * New drivers or edits to driver names.
   * New top level components.
