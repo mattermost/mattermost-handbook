@@ -163,8 +163,6 @@ Example:
   * TCV one-time $250 in May 2019 
   * ARR $83 from June 2019 until June 2022
 
-![](https://github.com/mattermost/mattermost-handbook/tree/361ff3b848b21f06fd8587e792144d81efed511e/.gitbook/assets/image%20%2861%29.png)
-
 ## Google Analytics
 
 All Google Analytics data in Snowflake is at a **daily** level. See [limitations](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#google-analytics-limitations).
@@ -218,20 +216,104 @@ As soon as one session ends, there is then an opportunity to start a new session
 
 * WIP
 
-## Net Promoter Score \(NPS\)
+## Net Promoter Score (NPS)
 
-Net Promoter Score is a standardized measure used by many organizations to measure and understand customer experience. It is a good indicator of customer satisfaction and growth. Mattermost NPS is calculated using user NPS responses provided by users with the NPS plugin enabled on their Mattermost server. Users can submit multiple scores, so in order to accurately represent NPS, the latest score is used when calculating current NPS. To track NPS historically, the latest user score submitted on or before the historical record month is used.
+### NPS Survey
+Mattermost NPS data is collected using an in-product survey on servers where the [User Satisfaction Survey plugin](https://docs.mattermost.com/integrations/net-promoter-score.html) is enabled. Users answer the question "How likely are you to recommend Mattermost?" by selecting a 0-10 score and can provide additional written feedback about their experience. Selecting a score and providing feedback are optional.
 
-* Net Promoter Score \(NPS\) measures customer experience and predicts business growth
-* Respondents are grouped as follows:
-  * Promoters \(score 9-10\) are loyal enthusiasts who will keep buying and refer others
-  * Passives \(score 7-8\) are satisfied but unenthusiastic customers who are vulnerable
-  * Detractors \(score 0-6\) are unhappy customers who can damage your brand
-* Net Promoter Score = 100 \* \(% Promoters - % Detractors\)
-  * NPS ranges from -100 \(every customer is a Detractor\) to 100 \(every customer is a Promoter\)
-* Mattermost's NPS is based off of a 1-10 ranking provided by customers
-  * If customers provide rankings 2+ times in a day, the last ranking of the day is used for NPS
+Net Promoter Score is computed as **\(% Promoters - % Detractors\)** and ranges from -100 \(every user is a Detractor\) to +100 \(every user is a Promoter\) 
+  * Promoters \(score 9-10\): Loyal enthusiasts who will keep buying and refer others
+  * Passives \(score 7-8\): Satisfied but unenthusiastic users who are vulnerable
+  * Detractors \(score 0-6\): Unhappy users who can damage your brand
 
+If users edit their response to the survey on any particular server version, only the latest rating on each server version is used for computing NPS. Test server data is also removed via the excludable servers list and by trimming any responses submitted on a server version that has not been publically available for 21 days (time delay before an NPS survey is triggered after a server upgrade).
+
+Based on the above calculation method, we can apply a time window (Quarterly Trailing NPS) and a version filter (NPS by Server Version) to represent and track the state of Mattermost NPS.  
+
+### Quarterly Trailing NPS
+
+[Quarterly Trailing NPS](https://mattermost.looker.com/dashboards/147) represents the NPS score computed based on survey submissions received in the last 90 days. We target a 90 day window of NPS responses because it:
+
+1. Encompasses responses across all server versions that are currently in use by customers (with surveys enabled), meaning it is representative of the state of user experience that customers are facing today.
+2. Ensures we have a [statistically significant sample size](https://www.checkmarket.com/sample-size-calculator/) representing the [server versions currently in use](https://mattermost.looker.com/looks/203?toggle=dat,det,pik).
+3. Helps us capture week-to-week variations in NPS while being less volatile than NPS by server version given the larger sample size
+
+
+### NPS by Server Version
+
+[NPS by Server Version](https://mattermost.looker.com/dashboards/147) represents the NPS score computed based on survey submissions on a specific server version. While Quarterly Trailing NPS provides a representation of the state of user experience that our customers are facing, NPS by Server Version provides a representation of the user experience offered by the product in particular releases. As such, it's used heavily by the PM team to track the success of particular product team initiatives as they ship.
+
+NPS by Server Version is a lagging metric since we need to collect a statistically significant sample size before reporting NPS for a server version. Based on historical data, ~2000 unique user responses (~1.5-2 months post-ship) are required for the NPS of a particular server version to stabilize. 
+
+NPS by Server Version can be volatile since it can be affected by the upgrade cadence of heavy usage servers. We typically see a surge in responses when surveys are triggered (21 days after server upgrade) for servers with large DAU, which can impact the NPS trend for that server version. Quarterly trailing NPS is not as affected by this since the sample size is larger and responses are submitted on various server versions. 
+
+### Written Response Feedback
+
+Users can optionally submit written responses to the NPS survey. These responses are reviewed and categorized by the PM team to allow us to stack rank certain initiatives for roadmap planning based on their impact to NPS, reach and effort to design, implement and test.
+
+To determine impact to NPS, we can:
+
+1. Segment the reponses based on written feedback from users who are detractors or passives (See the NPS Feedback section of the [NPS dashboard](https://mattermost.looker.com/dashboards/147))
+2. Segment the responses based on the feedback category to analyze what requested product enhancements equate to the lowest NPS scores from users
+3. View overall number of responses by feedback category
+
+### Renewal Metrics Reporting
+
+![](../../../.gitbook/assets/renewal_metrics_handbook.png)
+
+Renewal Metrics in simple terms:
+* Available Renewals (**X**): Total dollar amount of licenses ending is in the Renewal Qtr
+* Renewal Rate (**Y%**): Total Won Amount ÷ Available Renewals where:
+  * Won Opportunity License start date falls in the Renewal Qtr
+  * Won Opportunity Product Line Type = 'Ren'
+  * Won Amount <= Available Renewal Amount
+* Forecasted Renewal Rate (**Z%**): Won Amount + (Total Open Amount * Probability) ÷ Available Renewals where:
+  * Won & Open Opportunity License Start Date falls in the Renewal Qtr
+  * Won & Open Opportunity Product Line Type = 'Ren'
+  * Won & Open Amount <= Available Renewal Amount
+* Target (**A**): Target Total Bookings set for the Renewal Qtr by Finance
+* Actual (**B**): Total Bookings **Won** in the Renewal Qtr where Product Line Type = 'Ren'
+* Target vs Actual aka TvA (**C%**): Actual ÷ Target
+
+### Renewal Target vs Actual (TvA)
+
+* Calculation: **Renewal Actual ÷ Renewal Target**
+* Renewal Target
+  * Target set in a given period (Mo, Qtr, FY) by Finance
+* Renewal Actual
+  * Total Bookings **Won** in a given period (Mo, Qtr, FY) where Product Line Type = 'Ren'
+
+### Renewal Rate (Bookings)
+
+* Calculation: **∑ Gross Renewals ÷ ∑ Available Renewals**
+* Available Renewals
+  * Amount up for renewal at Account level by qtr
+* Gross Renewals
+  * Renewal amount booked (up to Available Renewal Amount) where **License Start** is in a given Qtr
+  * Calculation: MIN(Available Renewals,Renewal Bookings)
+  * Example 1:
+    * Account: Account 1
+    * Available Renewals Q4: $100k
+    * Renewal Bookings Q4: $130k
+    * Gross Renewals Q4: $100k
+  * Example 2:
+    * Account: Account 2
+    * Available Renewals Q4: $100k
+    * Renewal Bookings Q4: $70k
+    * Gross Renewals Q4: $70k
+
+### Forecasted Renewal Rate (Bookings)
+
+* Calculation: **(∑ Gross Renewals + ∑ Forecasted Renewals) ÷ ∑ Available Renewals**
+* Available Renewals (See Above)
+* Gross Renewals (See Above)
+* Open Renewal Amount
+  * Renewal amount for open Opportunities where **License Start** is in a given Qtr
+* Forecasted Renewals
+  * Open Renewal Amount * Probability + Gross Renewal Amount (up to Available Renewal Amount)
+  * Calculation: MIN(Available Renewals,(Open Renewal Amount * Probability + Renewal Bookings)
+
+  
 ## Support Tickets
 
 ### Definitions
@@ -239,18 +321,19 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 #### Ticket Status
 
 * **New -** Ticket created that has not been assigned a support agent.
-* **Pending -** The support agent asks the customer a question and is waiting for their response.
-* **Pending - Do not Close -** Checkbox on the ticket. This is used for tickets that are expected to be open for a long period of time. This stops the clock. Examples are customer requests ticket remain open after a solution is provided, the customer is on vacation, or the customer is out ill.
-* **On Hold -** The support agent reaches out to an internal team and is waiting to hear back. Any ticket that is tied to a JIRA ticket is placed on hold. Internal teams include product, development or customer success.
-* **Solved -** Support agent provides a solution to the customer. Status in the solved status for 48 hours before it is set to “Closed” status While the ticket is in a “Solved” status any response from the customer will re-open the ticket.
-* **Closed -** If no response is recorded a ticket in a Solved status will be set to Closed automatically after 48 hours. A response to the ticket will open a new ticket.
+* **Waiting on customer -** The support agent asks the customer a question and is waiting for their response.
+* **Waiting on customer - Do not Close -** Checkbox on the ticket. This is used for tickets that are expected to be open for a long period of time. This stops the clock. 
+Examples include: The customer requests that the ticket remain open after a solution is provided, the customer is on vacation, or the customer is out ill.
+* **On Hold -** The support agent reaches out to an internal team and is waiting to hear back. Internal teams include product, development, or customer success. Any ticket that is tied to a Jira ticket is placed "On Hold".
+* **Solved -** Support agent provides a solution to the customer. A ticket remains in a "Solved" status for 48 hours before it is set to “Closed”. While the ticket is in a “Solved” status any response from the customer will reopen the ticket.
+* **Closed -** If no response is recorded after 48 hours, a ticket in a "Solved" status will automatically be set to "Closed". Any response to the ticket after that period of time will open a new ticket.
 
 #### Ticket Level
 
-* **Level 1: Critical Business Impact:** Critical issue on production system preventing business operations. A large number of users are prevented from working, and no procedural workaround is available.
-* **Level 2: Major Business Impact:** Major issue on the production system severely impacting business operations.
-* **Level 3: Moderate Business Impact:** Moderate issue causing a partial or non-critical loss of functionality on the production system. A small number of users are affected.
-* **Level 4: Minor Business Impact:** Minor issue on non-production system or question, comment, feature request, documentation issue or other non-impacting issues.
+* **Level 1: Urgent Business Impact:** Urgent issue on production system preventing business operations. A large number of users are prevented from working, and no procedural workaround is available.
+* **Level 2: High Business Impact:** Major issue on the production system severely impacting business operations.
+* **Level 3: Normal Business Impact:** Moderate issue causing a partial or non-critical loss of functionality on the production system. A small number of users are affected.
+* **Level 4: Low Business Impact:** Minor issue on non-production system or question, comment, feature request, documentation issue or other non-impacting issues.
 
 #### Ticket Measures
 
@@ -263,33 +346,33 @@ Net Promoter Score is a standardized measure used by many organizations to measu
 
 **Premium**
 
-* L1 - 1 hour
-* L2 - 2 hours
-* L3 - 8 hours
-* L4 - 24 hours
+* L1 (Urgent) - 1 hour
+* L2 (High) - 2 hours
+* L3 (Normal) - 8 hours
+* L4 (Low) - 24 hours
 
 **E20**
 
-* L1 - 4 hours
-* L2 - 8 hours
-* L3 - 24 hours
-* L4 - next business day
+* L1 (Urgent) - 4 hours
+* L2 (High) - 8 hours
+* L3 (Normal) - 24 hours
+* L4 (Low) - next business day
 
 **Next Reply Time - Premium and E20 only**
 
 **Premium**
 
-* L1 - 2 hours
-* L2 - 4 hours
-* L3 - 24 hours
-* L4 - 24 hours
+* L1 (Urgent) - 2 hours
+* L2 (High) - 4 hours
+* L3 (Normal) - 24 hours
+* L4 (Low) - 24 hours
 
 **E20**
 
-* L1 - 4 hours
-* L2 - 8 hours
-* L3 - 24 hours
-* L4 - 24 hours
+* L1 (Normal) - 4 hours
+* L2 (High) - 8 hours
+* L3 (Normal) - 24 hours
+* L4 (Low) - 24 hours
 
 **CSAT**
 

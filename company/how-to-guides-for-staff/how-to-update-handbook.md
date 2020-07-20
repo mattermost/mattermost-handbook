@@ -1,8 +1,8 @@
-# How to update handbook
+# How to Update the Handbook
 
 ## Guidelines
 
-* **Be concise:** Say what is essential, not more. 
+* **Be concise:** Say what is essential, not more.
 * **Get feedback:** Have someone from your target audience read your draft to share feedback so you can [savor surprises](../about-mattermost/mindsets.md#savor-surprises).
 
 ## Steps
@@ -12,7 +12,7 @@ If this is your first time contributing to Mattermost, first read the [Mattermos
 ### Editing an Existing Page
 
 1. The quickest way to begin is navigating to the page you want to edit in [Mattermost Handbook](https://handbook.mattermost.com/), then clicking the **Edit on GitHub** icon in the top right navigation. This opens the page in GitHub that you can edit.
-2. In GitHub click the pencil icon in the navigation bar \(above the page header\) called **Edit the file in your fork of this project** to open the editable Markdown format page. 
+2. In GitHub click the pencil icon in the navigation bar \(above the page header\) called **Edit the file in your fork of this project** to open the editable Markdown format page.
 
   * To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
 
@@ -46,6 +46,8 @@ Creating a new page follows the same process as above, with two exceptions:
 * Navigate to that section of the handbook where you'd like to add the new page and select **Create new file**.
 * Add your new page to the [Handbook table of contents](https://github.com/mattermost/mattermost-handbook/blob/0.2.1/SUMMARY.md).
 
+[Watch a two-minute training video on how to create a new page in GitHub](https://drive.google.com/file/d/12JUpEdP3uU_bPxDVWdlEZv65v1tttlQn/view?usp=sharing).
+
 ![](../../.gitbook/assets/how-to-update-handbook-create-new-file.png)
 
 ### How do I update the left-hand navigation?
@@ -76,7 +78,7 @@ Below is a list of approved reviewers.
 3. @rbradleyhaas, @michaelschiffmm: Signs off on changes to [business operations](https://handbook.mattermost.com/operations/business-operations).
 4. TBD: Signs off on changes to [messaging and math](https://handbook.mattermost.com/operations/messaging-and-math).
 5. TBD: Signs off on changes to [finance](https://handbook.mattermost.com/operations/finance).
-6. @natalie-hub, @HilaryClarke: Signs off on changes to [workplace](https://handbook.mattermost.com/operations/workplace).
+6. @natalie-hub: Signs off on changes to [workplace](https://handbook.mattermost.com/operations/workplace).
 7. @it33: Signs off on changes to signing authority \([example](https://github.com/mattermost/mattermost-handbook/pull/60)\).
 
 Each PR should be reviewed by at least one approved reviewer. A build check requiring at least one approved review prior to a merge is planned, similar to other Mattermost repositories.
@@ -84,6 +86,6 @@ Each PR should be reviewed by at least one approved reviewer. A build check requ
 Below is a list of permissions handbook contributors have access to:
 
 1. @jasonblais, @justinegeffen, @amyblais: Write permissions to the repository.
-2. @rbradleyhaas, @michaelschiffmm: Write permissions to the repository, but are not expected to make changes without reviews outside of [business operations](https://handbook.mattermost.com/operations/business-operations), nor make changes to table of contents without reviews. 
-3. Staff contributors: Submits changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, submit PR reviews, and be requested as reviewers.
+2. @rbradleyhaas, @michaelschiffmm: Write permissions to the repository, but are not expected to make changes without reviews outside of [business operations](https://handbook.mattermost.com/operations/business-operations), nor make changes to table of contents without reviews.
+3. Staff contributors: Submit changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, submit PR reviews, and be requested as reviewers.
 4. Non-staff contributors: Submits changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, and submit PR reviews.

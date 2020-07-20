@@ -10,63 +10,50 @@ The success of Mattermost as an open source platform for messaging-based workflo
 
 The Mattermost community has two parts, Users and Contributors, detailed below.
 
-* [Users](https://docs.mattermost.com/process/community-overview.html#users)
-  * [End Users](https://docs.mattermost.com/process/community-overview.html#end-users)
-  * [IT Administrators](https://docs.mattermost.com/process/community-overview.html#it-administrators)
-  * [System Integrators](https://docs.mattermost.com/process/community-overview.html#system-integrators)
-  * [Customers](https://docs.mattermost.com/process/community-overview.html#customers)
-* [Contributors](https://docs.mattermost.com/process/community-overview.html#contributors)
-  * [Solution Contributors](https://docs.mattermost.com/process/community-overview.html#solution-contributors)
-  * [Platform Contributors](https://docs.mattermost.com/process/community-overview.html#platform-contributors)
-  * [Translation Contributors](https://docs.mattermost.com/process/community-overview.html#translation-contributors)
-  * [Documentation Contributors](https://docs.mattermost.com/process/community-overview.html#documentation-contributors)
-  * [Quality Assurance Contributors](https://docs.mattermost.com/process/community-overview.html#quality-assurance-contributors)
-  * [Knowledge Base Contributors](https://docs.mattermost.com/process/community-overview.html#knowledge-base-contributors)
-  * [Deployment Solution Contributors](https://docs.mattermost.com/process/community-overview.html#deployment-solution-contributors)
-  * [UX Design Contributors](https://docs.mattermost.com/process/community-overview.html#ux-design-contributors)
-  * [Coordination Contributors](https://docs.mattermost.com/process/community-overview.html#coordination-contributors)
-  * [Mattermost Staff](https://docs.mattermost.com/process/community-overview.html#mattermost-staff)
+{% hint style="info" %}
+Interested in contributing to Mattermost? [Learn about all the ways to get involved with our community](https://mattermost.com/contribute/).
+{% endhint %}
 
-### [Users](https://docs.mattermost.com/process/community-overview.html#contents)
+### Users
 
-In general, all members of the Mattermost community are users of the open source project. They may be end users on a system, administrators, or developers on the Mattermost platform in some way, and the common bond we all share is we benefit from the project’s continued and growing success.
+In general, all members of the Mattermost community are users of the open source project. They can range from end users and system administrators, to developers on the Mattermost platform in some way. The common bond we all share is that we benefit from the project’s continued and growing success.
 
 The user community has a number of segments:
 
-#### [End Users](https://docs.mattermost.com/process/community-overview.html#contents)
+#### End Users
 
 People using Mattermost to communicate and achieve their organization’s top priorities.
 
-#### [IT Administrators](https://docs.mattermost.com/process/community-overview.html#contents)
+#### IT Administrators
 
 People deploying Mattermost and supporting end users.
 
-#### [System Integrators](https://docs.mattermost.com/process/community-overview.html#contents)
+#### System Integrators
 
-People who extend and customize Mattermost privately but who do not share back their work with the open source community are considered “users”. When the same people decide to share their work with others in the community they are recognized as “contributors”
+People who extend and customize Mattermost privately but who do not share back their work with the open source community (for a range of reasons, often related to confidentiality) are considered “users”. When users are able to share their work with others in the community they are recognized as “contributors”.
 
-#### [Customers](https://docs.mattermost.com/process/community-overview.html#contents)
+#### Customers
 
-Organizations that purchase Mattermost Enterprise Edition as an extension of the Mattermost open source project for advanced features. While the Mattermost roadmap is focused on benefiting the broad community, large customers may accelerate certain parts of the roadmap they find most valuable through large purchases of Enterprise Edition licenses.
+Organizations that purchase Mattermost Enterprise Edition as an extension of the Mattermost open source project for advanced features are known as "customers". While the Mattermost roadmap is focused on benefiting the broad community, large customers may accelerate certain parts of the roadmap they find most valuable through purchasing large numbers of Enterprise Edition licenses.
 
-### [Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
+### Contributors
 
-A subset of the Mattermost community as “contributors” who help increase the overall benefits of Mattermost for others. This may be as simple as offering feature ideas or reporting bugs, offering professional services to install or deploy the system, or it can be as involved as building whole new products based on Mattermost, or contributing code to the underlying software.
+Contributors are a subset of the Mattermost community who help increase the overall benefits of Mattermost for others. This may be as simple as offering feature ideas, reporting bugs, or offering professional installation and deployment services. Or it can be as complex as building whole new products based on Mattermost, or contributing code to the underlying software.
 
-The work of all contributors is valued, appreciated and recognized as a driving force behind the project’s growth.
+The work of all contributors is valued, appreciated, and recognized as a driving force behind the project’s growth.
 
 There are many ways to contribute:
 
-#### [Solution Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
+#### Solution Contributors
 
-As of July 2018, [over 1000 open source projects on GitHub reference Mattermost](https://github.com/search?q=mattermost). Solution Builders create a host of technologies to empower Mattermost software to solve real world problems. Technologies include:
+As of May 2020, [over 1,900 open source projects on GitHub reference Mattermost](https://github.com/search?q=mattermost). Solution Contributors create a host of technologies to empower Mattermost software to solve real world problems. Technologies include:
 
-* **Self-hosted Integration Solutions** - Includes connectivity and integration with 3rd party applications such as Jira, Confluence, GitLab, Jenkins and other tools
-* **SaaS-based Integration Solutions** - Includes connectivity and integration with services like Twitter, Zendesk, Salesforce and hundreds of other extensions with services like Zapier.
-* **Programming Solutions** - Includes language-specific drivers and connectors to simplify the work of other developers
-* **Mattermost User Experience Plug-Ins** - Includes server and client-side plug-ins that enhance the native capabilities of a Mattermost server, such as voice, video and screensharing with Zoom’s self-hosted or vendor-hosted solutions.
-* **Federated Experiences** - Includes bridges with IRC, Slack and other messaging applications through solutions like Matterbridge
-* **Custom User Experiences** - Includes integrations into Terminal and Pidgin built off the same core APIs as Mattermost’s Web, Desktop, iOS and Android experiences
+* **Self-hosted Integration Solutions** - Includes connectivity and integration with third-party applications such as Jira, Confluence, GitLab, Jenkins, and other tools.
+* **SaaS-based Integration Solutions** - Includes connectivity and integration with services like Twitter, Zendesk, Salesforce, and hundreds of other extensions with services like Zapier.
+* **Programming Solutions** - Includes language-specific drivers and connectors to simplify the work of other developers.
+* **Mattermost User Experience Plug-Ins** - Includes server and client-side plug-ins that enhance the native capabilities of a Mattermost server, such as voice, video, and screensharing with Zoom’s self-hosted or vendor-hosted solutions.
+* **Federated Experiences** - Includes bridges with IRC, Slack, and other messaging applications through solutions like Matterbridge.
+* **Custom User Experiences** - Includes integrations into Terminal and Pidgin built off the same core APIs as Mattermost’s Web, Desktop, iOS, and Android experiences.
 
 Community Coordinator: Jason Blais
 
@@ -74,17 +61,17 @@ Community Coordinator: Jason Blais
 
 You are welcome to document your contributions to the Mattermost open source project in your resume or on LinkedIn in any matter you feel is accurate. Below is an example of an entry:
 
-* Title: `Open Source Solution Builder`
+* Title: `Open Source Solution Contributor`
 * Organization/Company: `Mattermost`
 * Location: `[Where you did your work]`
 * From: `[Date started]`
 * I currently work here: `Check "Yes" if you continue to maintain your work`
-* Headline: `Solution builder for Mattermost open source project`
+* Headline: `Solution contributor for Mattermost open source project`
 * Description: `[Description of your solution, its benefit to end users, and link to project. Example: "Maintainer of Mattermost-Zoom plugin which offers voice, video and screensharing for Mattermost end users through Zoom integration, either through a self-hosted private cloud deployment or a vendor-hosted SaaS service from Zoom. See the project at https://github.com/mattermost/mattermost-plugin-zoom."]`
 
-Other contributor types beyond Solution Contributors are welcome to use and modify this LinkedIn template to document their contributions as well.
+Other contributor types beyond Solution Contributors are also welcome to use and modify this LinkedIn template to document their contributions.
 
-#### [Platform Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
+#### Platform Contributors
 
 Platform Contributors provide improvements to the core Mattermost open source projects under [https://github.com/mattermost/](https://github.com/mattermost/). Contributions may be made at different levels of skill and impact:
 
@@ -97,47 +84,47 @@ Platform Contributors provide improvements to the core Mattermost open source pr
 
 All contributors Level 2 and above are eligible for a [custom-printed Mattermost Mug](https://forum.mattermost.org/t/limited-edition-mattermost-mugs/143) acknowledging their role in the open source project.
 
-Community Coordinator: Eric Sethna
+Community Coordinator: Jason Blais and Ben Schumacher
 
-#### [Translation Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
+#### Translation Contributors
 
 Translation Contributors can create and update translations to existing or new Mattermost languages at [https://translate.mattermost.com](https://translate.mattermost.com/). In addition, community members can become “Language owners” and help review, coordinate and supervise the translation of Mattermost into languages they speak.
 
 Community Coordinator: Jason Blais
 
-#### [Documentation Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
+#### Documentation Contributors
 
-Documentation Contributors update, edit and create new documentation, help text, training and other materials to help the community get the most out of Mattermost software. Core documentation is found at [https://docs.mattermost.com](https://docs.mattermost.com/) and contributions can be made via the open source repository at [https://github.com/mattermost/docs/](https://github.com/mattermost/docs/)
+Documentation Contributors update, edit, and create new documentation, help text, training, and other materials to help the community get the most out of Mattermost software. Core documentation is found at [https://docs.mattermost.com](https://docs.mattermost.com/) and contributions can be made via the open source repository at [https://github.com/mattermost/docs/](https://github.com/mattermost/docs/).
 
-Community Coordinator: Justin Reynolds
+Community Coordinator: Jason Blais and Justine Geffen
 
-#### [Quality Assurance Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
+#### Quality Assurance Contributors
 
 Quality Assurance Contributors help find, confirm and report product defects via our process at [https://www.mattermost.org/filing-issues/](https://www.mattermost.org/filing-issues/). Anyone who encounters a verifiable defect is welcome to file a bug on the system.
 
-Bonus: When QA Contributor finds and reports a bug on a release candidate build of Mattermost prior to the final release of the system, the can be awarded a [Mattermost Bug Hunter Award](https://forum.mattermost.org/t/mattermost-bug-hunter-awards/4979) for their contribution.
+Bonus: When a QA Contributor finds and reports a bug on a release candidate build of Mattermost prior to the final release of the system, they can be awarded a [Mattermost Bug Hunter Award](https://forum.mattermost.org/t/mattermost-bug-hunter-awards/4979) for their contribution.
 
 Community Coordinator: TBD
 
-#### [Knowledge Base Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
+#### Knowledge Base Contributors
 
-Knowledge Base Contributors share feedback, questions and answers on Mattermost through forums for [trouble shooting](https://www.mattermost.org/troubleshoot/), [feature proposals](https://www.mattermost.org/feature-ideas/), Github issues and the [Mattermost community server](https://community.mattermost.com/).
-
-Community Coordinator: Amy Blais
-
-#### [Deployment Solution Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
-
-Deployment Solutions Contributors create packaging and automation for making it easier to deploy Mattermost, using tools such as Docker, Kubernetes and other leading virtualization and orchestration solutions. See [Deployment Solutions Programs](https://docs.mattermost.com/guides/orchestration.html) for guidance on how to build to common Mattermost standards.
+Knowledge Base Contributors share feedback, questions, and answers on Mattermost through forums for [troubleshooting](https://www.mattermost.org/troubleshoot/), [feature proposals](https://www.mattermost.org/feature-ideas/), GitHub issues, and on the [Mattermost community server](https://community.mattermost.com/).
 
 Community Coordinator: Amy Blais
 
-#### [UX Design Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
+#### Deployment Solution Contributors
+
+Deployment Solutions Contributors create packaging and automation for making it easier to deploy Mattermost, using tools such as Docker, Kubernetes, and other leading virtualization and orchestration solutions. See [Deployment Solutions Programs](https://docs.mattermost.com/guides/orchestration.html) for guidance on how to build to common Mattermost standards.
+
+Community Coordinator: Jason Blais and Amy Blais
+
+#### UX Design Contributors
 
 UX Design Contributors influence the design of the Mattermost user experience through discussion in the `ux-design` channel on the Mattermost continous integration server at [https://community.mattermost.com/core/channels/ux-design](https://community.mattermost.com/core/channels/ux-design) and through contributions to the [Mattermost User Experience Guidelines](https://docs.mattermost.com/developer/fx-guidelines.html) on [GitHub](https://github.com/mattermost/docs/blob/master/source/developer/fx-guidelines.rst).
 
-Community Coordinator: Mike Gamble
+Community Coordinator: Andrew Brown
 
-#### [Coordination Contributors](https://docs.mattermost.com/process/community-overview.html#contents)
+#### Coordination Contributors
 
 Coordination Contributors help organize and align contributors from all the different roles above. When coordinating and leading a contributor community, key principles to keep in mind include:
 
@@ -153,7 +140,6 @@ Recognizing people’s contributions is vital to keeping them engaged. Leverage 
 
 When possible, influence contributors to apply themselves to the highest impact tickets and projects appropriate for their skill level. Meaningful contributions early in the contributor journey are a powerful way to draw people into the community.
 
-#### [Mattermost Staff](https://docs.mattermost.com/process/community-overview.html#contents)
+#### Mattermost Staff
 
 Mattermost staff are paid by Mattermost, Inc. to take on any of the contributor roles mentioned above, as well as to develop and support Mattermost Enterprise Edition as a commercial extension of the Mattermost open source project for large and sophisticated organizations.
-

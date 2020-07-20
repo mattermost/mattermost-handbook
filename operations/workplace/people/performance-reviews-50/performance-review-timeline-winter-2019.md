@@ -7,6 +7,3 @@
 * **December 2 - 3:** HR shares evaluations with Managers
 * **December 12 - 16:** Managers & HR calibrate 
 * **Starting December 20:** Managers finalize review with staff member  
-
-
-

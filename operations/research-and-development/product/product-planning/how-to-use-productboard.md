@@ -4,14 +4,14 @@ description: 'https://mattermost.productboard.com/'
 
 # How to use ProductBoard
 
-ProductBoard is used by Product Managers and Customer/Sales Teams for
+ProductBoard is used by Product Managers and Customer/Sales Teams for:
 
 - Feedback collection
 - Feature validation
 - Requirements gathering
 - Feature prioritization/roadmap planning
 
-When a feature moves to "planned" the product team pushes it to Confluence and Jira (or wherever each team decides) to define the scope/spec and track work.
+When a feature moves to "planned" the Product team pushes it to Confluence and Jira (or wherever each team decides) to define the scope/spec and track work.
 
 Specifically, ProductBoard is used to decide what to build (and when), while other systems like Confluence or Jira are used to communicate and design on what exactly is being built at individual feature level.  
 
@@ -19,7 +19,7 @@ Specifically, ProductBoard is used to decide what to build (and when), while oth
 
 ### **1a- Reviewing new feedback from users and customers**
 
-New feedback from users and customers is sent to the [Insights Board](https://mattermost.productboard.com/insights). Typically these are submitted by fellow product managers, support, customer success managers, or sales through integrations with email, Zapier, Zendesk, or others.
+New feedback from users and customers is sent to the [Insights Board](https://mattermost.productboard.com/insights). Typically these are submitted by fellow Product Managers, Support, Customer Success Managers, or Sales through integrations with email, Zapier, Zendesk, or others.
 
 When in the Insights Board, you can either go to your [Personal Inbox](https://mattermost.productboard.com/insights/my-inbox) or a [Shared Team Inbox](https://mattermost.productboard.com/insights/shared-inbox) to review feedback. When you find something relevant to your initiatives, highlight it in the notes and click the pencil icon to attach it to a feature.
 
@@ -70,10 +70,24 @@ Note that each time you update the status of a feature or add a comment, anyone 
 2. Make sure all features that fall under your area of responsibility are assigned to you.
 3. Add any important detail about the feature that is missing or that would be valuable to others that might need to help you validate or gather requirements for the feature. 
 4. Assign Releases: Features can have one or many releases assigned as they may appear on different roadmap/planning views for different purposes. Below is an outline of our current structure of releases in Product Board:
-
  - **Planning Estimates**: H1 Plan, H2 Plan (tentative), Backlog, Community Contract, or Bounty
  - **Exact Releases** (when known): Examples: 5.22, 5.24, 1.30, Mattermost 6.0
  - **Sequence**: Now, Next, Later
+5. Setting the Status:  There are 6 statuses throughout the life of a feature:
+ - **Idea**: When you have a single request or an idea for a feature it starts out in this status. As new customer insights come in, you will be able to attach them to this idea to validate and measure demand. 
+ - **Under Consideration**: This status is used to identify features that are demand validated, but we remain undecided if we will build them (for various reasons).
+ - **Planned**: Features that we have validated and decided to build are planned. These features should all have a release assigned (if scheduling is unknown, assign to the release called `backlog`. 
+ - **In Development**: All features actively being worked on by UX or R&D belong to this status. 
+ - **Postponed**: If a feature is cut from a release, followers of the feature need to be notified. Currently, productboard only notifies followers when a status changes or they are explicitly mentioned. We have added this status to ensure followers of a feature can stay informed when features are cut. 
+ - **Won't Do**: This is a status often used after the `Under Consideration` status if we decide for any reason not to build a feature that is demanded by the market. It's important to keep track of for future cases of demand. If you set a feature to this status, please be sure to provide the reason we won't do it. This reason should be in a format that can be shared with propspects/customers. 
+  
+### 1d - Pushing/Linking features in Jira
+
+We have enabled the ProductBoard Jira integration which allows us to both push features to Jira as new tickets as well as link existing Jira tickets to features. This is done from the detail view of a feature.
+Two very important notes regarding this integration:
+
+- Once linked, if you update the details (most importantly, the description) in either Jira or PB, they are synced and both will update
+- If you are linking an existing Jira ticket, be aware that your source will overwrite your destination
 
 #### Do’s and Don’ts
 
@@ -81,11 +95,12 @@ Note that each time you update the status of a feature or add a comment, anyone 
 
 * Do reorder your features and play around with scoring your features.
 * Do add sub-components if you feel they are appropriate and do not exist anywhere else.
+* Do create your own feature views with custom prioritization scores (using existing drivers).
 * Do post requests for all of the following in the ProductBoard channel.
 
+  * New drivers or edits to driver names.
   * New top level components.
   * Renaming, removal or reorganization of top level components.
-  * Requests for changes/additions to prioritization scores or drivers.
 
 * Do feel free to reach out to Dennis, Jason, or Aaron for any questions.
 
@@ -93,30 +108,29 @@ Note that each time you update the status of a feature or add a comment, anyone 
 
 * Do not reorder top level components - learn more about components, subcomponents, and features.
 * Do not remove/rename any components or sub-components.
-* Do not rename/remove/adjust driver weights in prioritization score model (see screenshot).
-* Do not rename or adjust these prioritization score models.
+* Do not rename or adjust others' prioritization score models.
+* Do not remove or rename drivers.
 
 ![](../../../../.gitbook/assets/productboard-prioritization.png)
 
-### 1d - Setting driver values
+### 1e - Setting driver values
 
-To help score and evaluate priority of features, we attempt to calculate and communicate “the why” in the [master feature list](https://mattermost.productboard.com/feature-board/1097524-master-feature-list). There are three custom score columns that we identified as sources of feature work:
+To help score and evaluate priority of features, you can calculate and communicate “the why” in a prioritization view (it is recommended to setup a custom view for your team's features). In addition to the `User Impact Score`, there are 2 custom score columns that we setup as examples. _Note: you likely want to setup your own custom scores based on your area's priorities._
 
-* **Market Demand**: Requests/problems to solve coming from prospects or customers.
-* **Product Strategy**: Packaging & pricing, strategic positioning, branding, etc.
-* **Operations**: Code debt, testing infrastructure, performance, maintenance, etc.
+* **Happiness**: Delighters & requests/problems to solve coming from prospects or customers.
+* **Ops & Strategy**: Test infrastructure, technical debt, performance, maintenance, support cost reduction, packaging & pricing, feature discovery, branding, etc.
 
 Each of these custom score columns has its own specific drivers that you can rate from 1-5. The more data you include here for each feature, the more accurate and useful the prioritization board will be. 
 
-### 1e - Organizing the Roadmap Board
+### 1f - Publishing features in the internal portal
 
-To be added in phase 2 of ProductBoard rollout \(ETA April\).
+To be added \(ETA May\).
 
-### 1f - Organizing features in the Public Portal
+### 1g - Publishing features in the public portal
 
-To be added in phase 3 of ProductBoard rollout \(ETA Q2/FY21\)
+To be added \(ETA Q2/FY21\)
 
-### 1g - Key links in ProductBoard
+### 1h - Key links in ProductBoard
 
 * [Insights Board](https://mattermost.productboard.com/insights)
   * [Personal Inbox](https://mattermost.productboard.com/insights/my-inbox)
@@ -130,31 +144,45 @@ To be added in phase 3 of ProductBoard rollout \(ETA Q2/FY21\)
 
 ## 2 - Day in the life of a Customer Support Manager, Customer Success Manager, or Solution Architect
 
-### 2a - Adding feedback
+### 2a - Stay up to date on feature status updates
 
-New feedback from users and customers is sent to the [Insights Board](https://mattermost.productboard.com/insights). Typically these are submitted by product managers, support, customer success managers, or sales through integrations with email, Zapier, Zendesk, or others.
+Staying informed of status changes and comments on a feature is easy in ProductBoard:
 
-### 2b - Creating notes
+ 1. Locate the feature on the [Master Feature List](https://mattermost.productboard.com/feature-board/1097524-master-feature-list).
+ 2. Click on the feature name to open the feature details card.
+ 3. Add yourself as a follower by clicking on the `+` symbol in the bottom left corner of the feature details card.
 
-You can add a new note to capture feedback from a customer call. This is used to help identify customer problems, wants/needs, feature lack, and any other areas for improvement that stem from interacting with customers. Essentially, think of this as a place to communicate the most important takeaways from customer calls that product teams can help you with. 
+![add-followers2](https://user-images.githubusercontent.com/20331166/83704445-f6be5d80-a5c6-11ea-9ce5-6daf1f7b55ac.png)
+
+[Learn more about ProductBoard notifications](https://help.productboard.com/en/articles/1252670-how-do-notifications-work).
+
+### 2b - Adding feedback
+
+New feedback from users and customers is sent to the [Insights Board](https://mattermost.productboard.com/insights). Typically these are submitted by Product Managers, Support, Customer Success Managers, or Sales through integrations with email, Zapier, Zendesk, or others.
+
+### 2c - Creating notes
+
+You can add a new note to capture feedback from a customer call. This is used to help identify customer problems, wants/needs, feature shortcomings, and any other areas for improvement that stem from interacting with customers. Essentially, think of this as a place to communicate the most important takeaways from customer calls that the Product team can help you with. 
 
 Important points about notes:
 
 * Notes are specific to a customer/prospect.
 * Notes can include multiple requests (PMs can apply multiple elements from the note to different features if necessary).
-* If you are not sure if the request or feedback should apply to an existing feature, you can simply capture the feedback as a note and assign to the PM overseeing that area (or just leave unassigned). 
+* If you are not sure if the request or feedback should apply to an existing feature, you can simply capture the feedback as a note, assign it to the PM overseeing that area, or leave it unassigned.  
 
-### 2c - Adding insights directly to an existing feature
+### 2d - Adding insights directly to an existing feature
 
-As a **Contributor** in ProductBoard, you have access to view the [master feature list](https://mattermost.productboard.com/feature-board/1097524-master-feature-list). This is the view where the Product team organizes and prioritizes new features and functionality that is being considered or planned for Mattermost. You can search and browse all features and ideas and even read the notes and portal cards from PMs for a detailed description of the feature/idea. In the case of planned features, you will have complete insight into the status of the feature and a rough idea of where it sits on the roadmap. 
+As a **Contributor** in ProductBoard, you have access to view the [master feature list](https://mattermost.productboard.com/feature-board/1097524-master-feature-list). This is the view where the Product team organizes and prioritizes new features and functionality that is being considered or planned for Mattermost. 
 
-Within the detailed view of individual features, you can view the full list of insights added by other PMs, CSMs, SAs, or Support Managers. You will also have the option to add insight directly to the feature itself. As you can see in the image below:
+You can search and browse all features and ideas and even read the notes and portal cards from PMs for a detailed description of the feature/idea. In the case of planned features, you will have complete insight into the status of the feature and a rough idea of where it sits on the roadmap. 
+
+Within the detailed view of individual features, you can view the full list of insights added by other PMs, CSMs, SAs, or Support Managers. You also have the option to add insight directly to the feature itself.
 
 ![](../../../../.gitbook/assets/productboard-insights-master-feature-list.png)
 
-### 2d - Adding feedback (via Chrome extension)
+### 2e - Adding feedback (via Chrome extension)
 
-Using the official [ProductBoard Chrome Extension](https://chrome.google.com/webstore/detail/productboard-make-product/mlpbdkpkicfkhgagnoamdcimmhdkakni) you can easily add notes from any page within chrome (including SFDC, Zendesk, GitHub, HackerNews, Mattermost web, etc.). The extensions is very easy to use and should streamline your workflow dramatically.
+Using the official [ProductBoard Chrome Extension](https://chrome.google.com/webstore/detail/productboard-make-product/mlpbdkpkicfkhgagnoamdcimmhdkakni) you can add notes from any page within Chrome (including SFDC, Zendesk, GitHub, HackerNews, Mattermost web, etc.) and streamline your workflow dramatically.
 
 As long as you are logged into ProductBoard, the connectivity to the Mattermost insights board is secure and seamless.
 
@@ -162,7 +190,29 @@ As long as you are logged into ProductBoard, the connectivity to the Mattermost 
 
 **Pro tip**: If you keep your call notes in a browser app (such as Google Docs), you can highlight the sections related to feedback and quickly send them over to ProductBoard with the extension.
 
-## 3 - Frequently Asked Questions (FAQ)
+## 3 - Day in the life of a Dev Lead
+
+### 3a - Viewing the master feature list and customer insights
+
+As a **Contributor** in ProductBoard, you have access to view the [master feature list](https://mattermost.productboard.com/feature-board/1097524-master-feature-list). This is the view where the Product team organizes and prioritizes new features and functionality that is being considered or planned for Mattermost. You can search and browse all features and ideas and even read the notes and portal cards from PMs for a detailed description of the feature/idea. In the case of planned features, you will have complete insight into the status of the feature and a rough idea of where it sits on the roadmap. Although only PMs are able to modify the `Effort` estimate, it is highly encouraged for you to review and provide your feedback to your PM as well!
+
+Within the detailed view of individual features, you can view the full list of insights added by other PMs, CSMs, SAs, or Support Managers.
+
+### 3b - Monitoring the Release Schedule
+
+You will also have access to the [release tracking view](https://mattermost.productboard.com/feature-board/1097526-release-tracking). From here you can monitor progress of all features company-wide (by release). This will be especially useful when a release is nearing to ensure that reporting of your team's progress (which features are on track or at risk) is communicated accurately.
+
+## 4 - Day in the life of a ProductBoard viewer (everyone)
+
+### 4a - Now, Next & Later in the Portal view
+
+The portals will serve as our internal (and, in the future, external) communication of our product roadmap. You will have access to all internal product portals where we outline what we've released, what we're working on now, next and later.
+
+To view the portal, log in to [mattermost.productboard.com](https://mattermost.productboard.com) using your OneLogin account then click on the fourth icon in the left-hand navigation):
+
+![](../../../../.gitbook/assets/productboard_portal_nav.png)
+
+## 5 - Frequently Asked Questions (FAQ)
 
 ### What is the difference between Confluence and ProductBoard?
 

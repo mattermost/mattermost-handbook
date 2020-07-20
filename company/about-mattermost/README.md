@@ -2,38 +2,38 @@
 
 Mattermost, Inc. is a company based on the Mattermost open source project, which is a messaging collaboration platform for team communication across mobile, web and PC with instant search, continuous archiving and unlimited integrations. Mattermost software is used by thousands of organizations around the world in 16 languages.
 
-WHAT WE DO: Mattermost, Inc. helps solve collaboration challenges for developers, operators & security teams so organizations can focus on business-critical tasks. 
+**What we do:** Mattermost, Inc. helps solve collaboration challenges for developers, operators & security teams so organizations can focus on business-critical tasks. 
 
-WHO WE SERVE: We serve organizations that need to speed application delivery by improving collaboration while maintaining security and privacy. We help solve: 
+**Who we serve:** We serve organizations that need to speed application delivery by improving collaboration while maintaining security and privacy. We help solve: 
 
-* _Complicated communications:_ Silos across networks, data, tools & teams causing delay, duplication and re-work
+* _Complicated communications:_ Silos across networks, data, tools, and teams causing delay, duplication, and re-work
 * _Unpredictable results:_ Teams approaching the same problems with inconsistent methods and outcomes, resulting in uncertainty and lack of trust 
 * _Outages and downtime:_ Lack of clarity and tooling increases and prolongs system failures, impacting business results and market confidence  
 
-WHAT WE OFFER: We help by providing a secure, privacy-conscious collaboration platform to build, operate, defend and heal software systems. Core benefits include: 
+**What we offer:** We help by providing a secure, privacy-conscious collaboration platform to build, operate, defend and heal software systems. Core benefits include: 
 
-* _Awareness:_ Privately deliver customized, cross-org data, alerting, & dashboards across web, PC & mobile increasing speed and efficiency 
-* _Process:_ Observe, prioritize, coordinate and escalate process & priorities in a tailored experience to increase predictability and trust across teams and organizations 
-* _Response:_ Solve issues proactively & reactively with data, people, tools & controls in one place, improving business outcomes and building market confidence
+* _Awareness:_ Privately deliver customized, cross-org data, alerting, and dashboards across web, PC, and mobile increasing speed and efficiency 
+* _Process:_ Observe, prioritize, coordinate, and escalate process and priorities in a tailored experience to increase predictability and trust across teams and organizations 
+* _Response:_ Solve issues proactively and reactively with data, people, tools, and controls in one place, improving business outcomes and building market confidence
 
 ## Mission
 
-Our mission is to make the world more safe and productive by developing and delivering secure, open source collaboration software that is trusted, flexible and offers fast time-to-value.
+Our mission is to make the world more safe and productive by developing and delivering secure, open source collaboration software that is trusted, flexible, and offers fast time-to-value.
 
 ## Leadership Principles
 
 Leadership principles are deliberate choices defining our behavior. When facing complexity, uncertainty, or ambiguity \(CUA\) we determine our point of view and our actions through the lens of our values:
 
-* **Customer Obsession** - We exist to make customers successful. In everything we do, start with customer perspective and work backwards. Earn and keep their trust.
-* **Ownership** - Own the outcomes of your activity. Don’t drop the ball. When we see a vacuum on something important, we jump in–we never say “it’s not my job.”
-* **High Impact** - Align work to our shared vision and focus on those priorities. When deciding to work on low impact or high impact projects, choose high impact.
-* **Self-Awareness** - We understand and seek to understand our strengths and growth opportunities, as individuals and organizations. We are open to critique and share critique constructively and respectfully.
-* **Insist on High Standards** — Have relentless high standards. Continually raise the bar for high-quality products and processes.
-* **Earn Trust** — Make decisions based on maximizing the trust of others in your judgement. Earn and keep people’s trust.
+* **Customer Obsession:** We exist to make customers successful. In everything we do, start with customer perspective and work backwards. Earn and keep their trust.
+* **Ownership:** Own the outcomes of your activity. Don’t drop the ball. When we see a vacuum on something important, we jump in – we never say “it’s not my job.”
+* **High Impact:** Align work to our shared vision and focus on those priorities. When deciding to work on low impact or high impact projects, choose high impact.
+* **Self-Awareness:** We understand and seek to understand our strengths and growth opportunities, as individuals and organizations. We are open to critique and share critique constructively and respectfully.
+* **Insist on High Standards:** Have relentless high standards. Continually raise the bar for high-quality products and processes.
+* **Earn Trust:** Make decisions based on maximizing the trust of others in your judgement. Earn and keep people’s trust.
 
 ## Market
 
-We see a $30B+ market opportunity in the collaboration space and the growth of “open source collaboration” accelerating vs proprietary solutions. Open source has already commoditized operating systems, databases, tooling and virtualization infrastructure. We see the entry of open source into the application layer driving fast adoption of a new generation of open source and open core solutions, inherently more flexible, trustworthy and economical than past models. 
+We see a $30B+ market opportunity in the collaboration space and the growth of “open source collaboration” accelerating vs proprietary solutions. Open source has already commoditized operating systems, databases, tooling, and virtualization infrastructure. We see the entry of open source into the application layer driving fast adoption of a new generation of open source and open core solutions, inherently more flexible, trustworthy, and economical than past models.
 
 ### Products and Business Model
 
@@ -61,12 +61,12 @@ Mattermost, Inc is a commercial open source company with a subscription-based, [
           in the open source core at no cost.</p>
         <p>Mattermost Team Edition is packaged as a single Linux binary that&#x2019;s
           straight forward to install and maintain, with automated deployment from
-          public cloud marketplaces including AWS, Azure, VMWare and GCP.</p>
+          public cloud marketplaces including AWS, Azure, VMWare, and GCP.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <p><b>Mattermost Enterprise Edition </b>
+        <p><b>Mattermost Enterprise Edition</b>
         </p>
         <p></p>
         <p><em>Audience: </em>IT organization needing to self-host workplace messaging
@@ -78,13 +78,15 @@ Mattermost, Inc is a commercial open source company with a subscription-based, [
           Edition offered under a proprietary license priced with a user-based annual
           subscription. It offers features designed for IT organizations to manage
           multiple teams of developers and other end users in high trust environments
-          with single-sign-on, Active Director/LDAP integration, eDiscovery support
+          with single-sign-on, Active Director/LDAP integration, eDiscovery support,
           and high availability deployment configurations.</p>
         <p>Different packages of commercial features are offered based on buyer needs.</p>
       </td>
     </tr>
   </tbody>
-</table>For more information, see our [Product Overview](https://docs.mattermost.com/overview/product.html). and open source repository at [https://github.com/mattermost/](https://github.com/mattermost/)
+</table>
+
+For more information, see our [Product Overview](https://docs.mattermost.com/overview/product.html) and open source repository at [https://github.com/mattermost/](https://github.com/mattermost).
 
 ## Company
 
@@ -104,7 +106,6 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 |  |  |  |
 | :--- | :--- | :--- |
-| The Mattermost logomark is called "the instrument".   It represents four tools organizations need to achieve their highest priorities:   A **compass** for direction, a **clock** to set pace, a **meter** to measure output, and a **dial** representing inputs--the contribution of everyone on the team.  |  | ![](../../.gitbook/assets/image%20%2820%29.png) |
+| The Mattermost logomark is called "the instrument".   It represents four tools organizations need to achieve their highest priorities:   A **compass** for direction, a **clock** to set pace, a **meter** to measure output, and a **dial** representing inputs - the contribution of everyone on the team.  |  | ![](../../.gitbook/assets/image%20%2820%29.png) |
 
 See [brand guidelines](https://mattermost.org/brand-guidelines/) for usage guidance. 
-

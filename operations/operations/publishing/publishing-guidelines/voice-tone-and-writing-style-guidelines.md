@@ -1,6 +1,6 @@
-# Voice, Tone and Writing Style Guidelines
+# Voice, Tone, and Writing Style Guidelines
 
-Below is a start of voice, tone and writing style guidelines for public web properties. This is a work in progress, to be iterated on. Some of the content in this document is borrowed from the [Mattermost Editorial Style Guide](https://docs.google.com/document/d/1XWjtWdF77qKdxDso_-aC_S1c3E0ohOoxCRL_PIf3pco/edit#), which is managed by the Marketing team.
+Below is a start of voice, tone, and writing style guidelines for public web properties. This is a work in progress, to be iterated on. Some of the content in this document is borrowed from the [Mattermost Editorial Style Guide](https://docs.google.com/document/d/1XWjtWdF77qKdxDso_-aC_S1c3E0ohOoxCRL_PIf3pco/edit#), which is managed by the Marketing team.
 
 Some of the recommendations across the documents, such as punctuating lists and heading capitalization are not currently aligned but will be iterated on for alignment across all web properties.
 
@@ -18,58 +18,43 @@ Mattermost's voice is:
 
 To achieve this, we keep the following principles in mind when writing content:
 
+* Write clearly and concisely - get to the point quickly without losing valuable information
 * Use simple, plain language that is easy to understand and avoid jargon
 * Use direct, casual tone instead of an informal tone
 * Use the active voice
 * Write short, active sentences and maintain a visual separation between page elements
+* Focus on what the target audience wants to accomplish by being practical/outcome-focused
+* Write for an international audience without idioms or expressions that people outside of your country/region are unlikely to understand
 
 We generally avoid the following statements and phrases as they're overused and vague:
 
 * Work better
 * Do better work, faster
 * Get more done in less time
-* Chat \(as a stand alone feature reference. However it is ok to use chat when describing a benefit "Create a Jira ticket without leaving your chat window" \)
-* DevOps teams 
+* Chat \(as a stand-alone feature reference. However it is ok to use chat when describing a benefit "Create a Jira ticket without leaving your chat window." \)
+* DevOps teams
 * Utilize \(instead, use “use”\)
 * High performance teams
-* Phrases that directly praise ourselves: “We’ve built an intuitive workplace messaging solution”, “It’s a joy to use”
+* Phrases that directly praise ourselves: “We’ve built an intuitive workplace messaging solution.”, “It’s a joy to use.”
 
-The appropriate tone differs across different mediums. We don’t write help documentation with the same tone as website copy. You can vary your tone to fit the situation, just as you’d talk to an angry person with a different tone than with an excited child. Voice is to tone as climate is to weather.
+The appropriate tone differs across different mediums. We don’t write technical and help documentation with the same tone as website copy or educational content. You can vary your tone to fit the situation, just as you’d talk to an angry person with a different tone than with an excited child. Voice is to tone as climate is to weather.
 
 The Mattermost voice remains the same, even when the tone varies.
 
-## Writing principles
+## Writing style
 
 * Work on the premise that "Every page is page 1", as a large portion of users enters our documentation from a Google search
 * Add a summary to the top of each page for readers to be able to quickly assess the content for suitability
-* Write clearly and concisely - get to the point quickly without losing valuable information
-* Focus on what the target audience wants to accomplish by being practical/outcome-focused
 * Break long sections into smaller, easily digestable subpages
 * Have at most one key point or action per paragraph
 * Refer to one thing or idea with the same word throughout the page
 * Use ordered lists or bullets where appropriate, as they are generally easier to read than long blocks of text
-* Write for an international audience without idioms or expressions that people outside of your region are unlikely to understand
 * Minimize content so it can be found and remembered. Keep pages short, modular, and focused on a single topic
 
-## Writing style
+Visit our [Documentation Style Guide](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/documentation-style-guide) for additional information and examples.
 
-**Numbers**
-
-Spell out numbers when the number is the first word in a sentence or is less than or equal to ten, otherwise use numeric digits. Use commas to make long numbers easier to read.
-
-**Punctuation: Commas**
-
-We use the Oxford \(serial\) comma in our documentation. For example: "Mattermost's writing style is clear, concise, and simple" as opposed to "Mattermost's writing style is clear, concise and simple"\).
-
-**Capitalization**
-
-Use sentence case for page titles, headings, and section titles \(e.g. "Writing guidelines for editors"\).
-
-Visit our [Documentation Style Guide](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/documentation-style-guide) for more information.
-
-## More Information
+## More information
 
 These guidelines were inspired by [Stripe's knowledge base content](https://document360.io/blog/tear-down-of-stripe-knowledge-base/) and [by other sites shared in this Document360 article](https://document360.io/blog/10-knowledge-base-software-best-practice-examples/).
 
 [Learn more about recommendations, analysis and next steps.](https://docs.google.com/document/d/1LNAgmKKtmRN1T7UCvOgcUbGiFfk8UXqcmCgF80-sVyQ)
-
