@@ -341,7 +341,7 @@ Examples include: The customer requests that the ticket remain open after a solu
 * **Next reply time:** The duration between a customer's ticket update and the next public agent reply on the ticket, unless otherwise communicated.
 * **Regular Update:** The duration between public agent updates for tickets not in a Pending status.
 
-**SLA's**
+**SLAs**
 
 **First Reply Time - Premium and E20 only**
 
