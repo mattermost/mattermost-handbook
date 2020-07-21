@@ -6,7 +6,7 @@ description: 1% Draft
 
 ## Technical Writing Handbook
 
-The Mattermost Technical Writers focus primarily on Technical Documentation (including the User's Guide, Administrator's Guide, and Developer documentation) and on Customer Education content.
+The Mattermost Technical Writers focus primarily on writing, editing, and maintaining technical documentation (including the User's Guide, Administrator's Guide, and Developer documentation).
 
 ### Areas of Responsibility
 
