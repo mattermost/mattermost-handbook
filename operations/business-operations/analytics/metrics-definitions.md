@@ -338,7 +338,7 @@ Examples include: The customer requests that the ticket remain open after a solu
 #### Ticket Measures
 
 * **First reply time:** The duration between ticket creation and the first public agent reply on the ticket.
-* **Next reply time:** The duration between a customers ticket update and the next public agent reply on the ticket, unless otherwise communicated.
+* **Next reply time:** The duration between a customer's ticket update and the next public agent reply on the ticket, unless otherwise communicated.
 * **Regular Update:** The duration between public agent updates for tickets not in a Pending status.
 
 **SLA's**
