@@ -213,7 +213,7 @@ Within the detailed view of individual features, you can view the full list of i
 
 You will also have access to the [release tracking view](https://mattermost.productboard.com/feature-board/1097526-release-tracking). From here you can monitor progress of all features company-wide (by release). This will be especially useful when a release is nearing to ensure that reporting of your team's progress (which features are on track or at risk) is communicated accurately.
 
-## 4 - Day in the life of a ProductBoard viewer (everyone)
+## 4 - Day in the life of a productboard viewer (everyone)
 
 ### 4a - 3 Month, 6 Month and Future Candidate Roadmaps in the Portal view
 
