@@ -162,7 +162,7 @@ New feedback from users and customers is sent to the [Insights Board](https://ma
 
 ### 2c - Creating notes
 
-You can add a new note to capture feedback. This is used to help identify customer problems, wants/needs, feature shortcomings, and any other areas for improvement that stem from interacting with customers. Essentially, think of this as a place to communicate the most important takeaways from customers that the Product team can help you with. 
+You can add a new note to capture feedback. This is used to help identify customer problems, wants/needs, feature shortcomings, and any other areas for improvement that stem from interacting with customers. Essentially, think of this as a place to communicate the most important takeaways from customers that the Product team can help you with.
 
 Notes from customer calls should be filed in [Salesforce](https://docs.google.com/document/u/1/d/1Ilm0t8AUtjtOociqUYuLluuT4lxcDijaiIrZ8wcamJE/edit?ts=5e6f6c50). This automatically pushes the customer call notes into the Mattermost “Customer Feedback” channel for visibility, and also to ProductBoard so it can be processed by PMs. 
 
