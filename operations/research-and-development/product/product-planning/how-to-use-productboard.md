@@ -178,7 +178,7 @@ When filing a note in productboard:
   - What problem are they trying to solve? What's their specific use case?
   - How are they solving the problem right now? How is the current solution working or not working for them?
   - How is this problem affecting their business and users?
-  - What is the priority for them to get it fixed? Is the solution a blocker, a must-have, or a nice to have?
+  - What's the priority for them to get it fixed? Is the solution a blocker, a must-have, or a nice to have?
 3. Add a title to the note that summarizes the problem, not the solution.
 
 ### 2d - Adding insights directly to an existing feature
