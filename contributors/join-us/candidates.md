@@ -33,6 +33,10 @@ All projects indicate the expected amount of time required to complete the proje
 
 Mattermost recognizes and appreciates that candidates spend personal time to complete this project. To share our appreciation, candidates recieve a "Thank You" gift card upon completion of the interview project. Candidates can choose from a variety of gift cards, including: Apple iTunes, Google Plan, eBay, Visa Gift Card. If you are located in a region where you aren't able to use these gift card options, please let your Recruiter know. We're happy to work with you to identify a gift card that you can use.
 
+### References stage
+
+In between the interview project and the final round of interviews, we run references using the SkillSurvey platform. Candidates should provide 3 - 4 references, with at least one being a direct Manager.
+
 ### Final Interviews
 
 Final interviews include meeting with the team's [MLT](https://handbook.mattermost.com/operations/operations/mlt-cadence#introduction-to-mlt) member and one of [Mattermost's Co-Founders](https://handbook.mattermost.com/operations/operations/mlt-cadence#introduction-to-mlt).
