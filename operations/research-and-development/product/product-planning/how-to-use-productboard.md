@@ -172,7 +172,7 @@ Important points about notes:
 * Notes can include multiple requests (PMs can apply multiple elements from the note to different features if necessary).
 * If you're not sure whether the request or feedback should apply to an existing feature, you can simply capture the feedback as a note and assign it to the PM overseeing that area, or leave it unassigned.  
 
-When filing a note in ProductBoard: 
+When filing a note in productboard: 
 1. Add the customer name.
 2. Add as much detail about the request and/or feedback as possible. Sample questions to answer: 
   - What problem are they trying to solve? What is their specific use case? 
