@@ -1,14 +1,26 @@
-# Community Response Policy
+# Community Escalations Policy
+
+This page outlines the process for escalating sensitive topics within Mattermost.
+
+## Why do we need a policy?
+
+There are several sensitive topics raised by the community that we want to address appropriately and consistently at all times.
+
+However, currently the struggles we have as a team is the unclarity on where Mattermost stands on each of the sensitive topics listed below. This unclarity often results in inconsistent responses that lead to confusion for our users, or ingenuine responses that breaks the trust from our community. We want to stop both of these from happening.
+
+This policy is put in place to compel us as a team to have a clear official point of view for each of the listed topics below, with standard responses that can be used by a broader team. Until a clear point of view is reached, a person or a group of people are assigned as the approved responders to avoid unnecessary confusion and broken trust with our users and our community.
+
+Therefore, if you see a question on a sensitive topic, the ask is to follow the escalation process below, and escalate sensitive topics to the approved responders until an official point of view is clearly documented. Once documented, this process will be revisited.
+
+This policy is intended to be an iterative process, and feedback is encouraged and welcome. If there are any questions about this policy, please reach out in the [Community Escalations channel](https://community.mattermost.com/private-core/channels/community-escalations) in Mattermost, or message @jason.blais directly.
+
+## Escalation process
 
 Sensitive topics listed below are escalated to a [Community Escalations channel](https://community.mattermost.com/private-core/channels/community-escalations) in the Private Staff team, which includes all members of the Mattermost Leadership Team (MLT) plus any approved responders. This channel is public, so anyone in the company can escalate an issue. 
 
 When an issue relating to a sensitive topic is raised (for example, on GitHub issues, Twitter, or elsewhere), it should be posted in the Community Escalations channel with an @-mention to the list of approved responders related to that particular issue.
 
-## Escalation process
-
-Raising an issue is the responsibility of whoever is managing community responses in a given forum. However, it is also open for anyone at the company to escalate an issue that they see.
-
-It is then the responsibility of the approved responders to review the issue and choose an owner for responding (if a response is appropriate). By default, ownership is delegated to the first person on the list of approved responders. 
+Raising an issue is the responsibility of whoever is managing community responses in a given forum. However, it is also open for anyone at the company to escalate an issue that they see. It is then the responsibility of the approved responders to review the issue and choose an owner for responding (if a response is appropriate). By default, ownership is delegated to the first person on the list of approved responders. 
 
 ## Sensitive topics
 
@@ -61,12 +73,6 @@ While anyone can escalate a sensitive topic, only approved responders listed bel
 Non-sensitive topics include feature requests, troubleshooting questions, bug reports, and other user feedback. 
 
 Anyone in the company is welcome and encouraged to respond, regardless of the medium. If it is your first time responding to the community, please read [principles, tips and sample responses](https://docs.mattermost.com/process/community-guidelines.html#mattermost-community-forums) for help on various inquiries.
-
-### Non-compliance policy
-
-In cases where a staff member who is not on the approved responder list engages with a sensitive topic, one of the approved responders will contact the member in Mattermost to remind them of the community response policy, and ask if they would be interested in becoming an approved responder for one or more of the topics.
-
-Please note that we do not want to discourage you from engaging with the community! If you ever have questions about whether a topic is considered sensitive, ask in the “Community Escalations” channel or ask 1-1 from the Head of Community.
 
 ### Roles
 
