@@ -8,7 +8,7 @@ If your application indicates a strong alignment with the role you've applied fo
 
 ### Candidate Questionnaire
 
-Candidates are sent a questtionate with a set of standard and role-specific questions as part of the candidate application. Candidates that Mattermost's Recruiting or Hiring Manager have contacted directly are asked to complete these questions as part of the first interview schedule. The answers are kept in the candidate's Lever profile.
+Candidates are sent a questionnaire with a set of standard and role-specific questions as part of the candidate application. Candidates that Mattermost's Recruiting or Hiring Manager have contacted directly are asked to complete these questions as part of the first interview schedule. The answers are kept in the candidate's Lever profile.
 
 ### [Recruiter Screen](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#recruiter-screen-optional)
 
