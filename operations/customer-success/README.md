@@ -37,6 +37,14 @@ These calls are logged in Salesforce for tracking and reporting purposes.
 
 #### Logging a Customer Feedback in Salesforce
 
+Below are the links to the training videos for enterprise and non-enterprise customers.
+
+[1) Non-Enterprise feedback calls](https://drive.google.com/drive/u/0/folders/1k9M0wfolXf34XQndtqzLYcCBVkGsBob2)
+[2) Enterprise feedback calls](https://drive.google.com/drive/u/0/folders/1k9M0wfolXf34XQndtqzLYcCBVkGsBob2)
+
+Below are detailed steps on how to log calls for licensed and non licensed customers.
+
+##### Enterprise Customers
 1. Log into Salesforce.
 2. Type in account name in the search bar located in the middle of the screen.
 3. Select the account.
@@ -52,6 +60,33 @@ These calls are logged in Salesforce for tracking and reporting purposes.
    - **Comments:** Details of the call or meeting.
  7. Select **Save**.
  
+ ##### Non-Enterprise Customers - Account Exists in Salesforce
+1. Search for an account in Salesforce. Select the account from the drop-down menu.
+2. If the Account exists, click on the account. 
+3. Hover over contacts to check that customer contact from the call exists.  If the contact does not exist, select the “new” button to create contact. 
+4. Fill out the following fields and select Save.
+  - **First Name**
+  - **Last Name**
+  - **Email** 
+  - **Check “Email Opt-Out”**
+  - **Check “Marketing Suspend”**
+5. Hover over activity history.  Select “log a call” in the upper right-hand side of the screen.
+6. Fill in the highlighted sections. Select “Customer Feedback” as sub-type. 
+7. Select Save.
+
+##### Non-Enterprise Customers - Account Does Not Exist in Salesforce
+1. Search for Account “Hold Public” in the search bar and select the account in the dropdown.
+2. Hover over contacts and select the “new” button to create contact. 
+3. Fill out the following fields and select Save.
+  - **First Name**
+  - **Last Name**
+  - **Email** 
+  - **Check “Email Opt-Out”**
+  - **Check “Marketing Suspend”**
+4. Hover over activity history.  Select “log a call” in the upper right-hand side of the screen.
+5. Fill in the highlighted sections. Select “Customer Feedback” as sub-type. 
+6. Select Save.
+
  _Note: Salesforce Customer Feedback calls are pushed through Zapier into ProductBoard and the Internal Customer Feedback Channel in Mattermost._
 
 ### Customer Reference
@@ -70,7 +105,9 @@ Customer Reference is a customer story on how Mattermost made a positive impact 
 
 #### Logging a Customer Reference in Salesforce
 
-Mattermost uses Salesforce to log Customer References. Below are steps on how to log these references.
+Mattermost uses Salesforce to log Customer References. [Here is a quick video](https://drive.google.com/drive/u/0/folders/1k9M0wfolXf34XQndtqzLYcCBVkGsBob2) on how to log a Customer Reference in Salesforce.
+
+Below are detailed steps on how to log a Customer Reference in Salesforce.
 
 1. Search for account.
 2. Hover over **Customer Reference** under **Related Lists** and select **New**.

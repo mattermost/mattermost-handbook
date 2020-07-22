@@ -17,7 +17,7 @@ Michael Schiff, Head of Business Operations
     * Elaine Yue - Customer Journey Operations
     * Kendall Reicherter - Marketing Operations
 * Customer Support
-  * Sven Huster - Support Engineer
+  * Sven Hüster - Support Lead
   * Marco Kundt - Support Engineer
   * Ahmad Danial - Support Engineer
   * Joe Wai Tye - Support Engineer
