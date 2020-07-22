@@ -62,7 +62,7 @@ Owns an area of the product end to end. Influences and executes defined projects
 
 Given product goals, recommends product suggestions and priorities. Shows good judgment when prioritizing work, and effectively articulates the rationale behind it. Works with design, developers, and testers \(including both staff and contributors\) to align on priorities and execute on roadmap plans. Adept at making suggestions to help their team work in a high impact way. Asks questions and provides feedback that helps raise the quality bar of the team’s work as a whole.
 
-Effectively communicates with marketing, sales, and support teams to ensure the successful launch of feature and projects with some guidance and support from more senior product managers. Highly responsive to questions about product and roadmap questions, they act as a liaison by representing their team to other departments. Works with support team to address issues and document solutions and best practices. Demos new product features effectively on customer calls. Can effectively articulate key product differentiators based on their knowledge of the market and competitors. Communicates with customers to validate designs and product ideas. When gathering feature suggestions and feedback, makes sure to identify the underlying need driving requests.
+Effectively communicates with Sales, Marketing, and Support teams to ensure the successful launch of feature and projects with some guidance and support from more senior product managers. Highly responsive to questions about product and roadmap questions, they act as a liaison by representing their team to other departments. Works with support team to address issues and document solutions and best practices. Demos new product features effectively on customer calls. Can effectively articulate key product differentiators based on their knowledge of the market and competitors. Communicates with customers to validate designs and product ideas. When gathering feature suggestions and feedback, makes sure to identify the underlying need driving requests.
 
 Learns new skills and establishes goals and context quickly by asking precise questions. Proactively provides project status updates. Gets things done, doesn’t drop the ball.
 
@@ -72,15 +72,15 @@ Owns a large area of the product end to end.
 
 Participates in defining product goals, quantitative and qualitative, for area of ownership, and recommends product and roadmap plans to achieve that goal. Works with design, developers, and testers \(including both staff and contributors\) to align on priorities and execute on roadmap plans. Highly skilled at identifying potential blind spots, and taking action to mitigate risk.
 
-Highly valued by the sales team, marketing, and support teams for their quality work and feedback. They ensure business value for product and roadmap are communicated effectively externally. Provides demos, demo training and sales support working with field teams to win and expand customer accounts. Demonstrates strong insights about our customers, based on a deep knowledge acquired through strong customer research skills. Gathers data effectively from sales and support teams to make good decisions.
+Highly valued by the Sales, Marketing, and Support teams for their quality work and feedback. They ensure business value for product and roadmap are communicated effectively externally. Provides demos, demo training, and sales support working with field teams to win and expand customer accounts. Demonstrates strong insights about our customers, based on a deep knowledge acquired through strong customer research skills. Gathers data effectively from sales and support teams to make good decisions.
 
-Drops fluidly into different projects, ramps quickly and contributes to successful outcomes. Makes good teams great.
+Drops fluidly into different projects, ramps quickly, and contributes to successful outcomes. Makes good teams great.
 
 #### Senior Product Manager
 
-Uses deep knowledge of customer, product, competitors and market to define, own and lead a product or significant product areas across strategy, engineering and marketing functions.
+Uses deep knowledge of customer, product, competitors, and market to define, own and lead a product or significant product areas across strategy, engineering and marketing functions.
 
-Recommends product goals for their area of ownership, and influences high level goals for the product in general. Develops, socializes and articulates compelling product roadmap and aligns processes and people to deliver it at high quality. Beneficially influences pricing, packaging, positioning and messaging decisions from the perspective of a product owner.
+Recommends product goals for their area of ownership, and influences high level goals for the product in general. Develops, socializes, and articulates compelling product roadmap and aligns processes and people to deliver it at high quality. Beneficially influences pricing, packaging, positioning, and messaging decisions from the perspective of a product owner.
 
 Sought after throughout the organization as a spokesperson for product value and roadmap.
 
@@ -88,9 +88,9 @@ A highly respected authority by colleagues across the company and the community,
 
 #### Lead Product Manager
 
-Manages other product managers. Accountable for leading teams and defining responsibilities and deliverables of individual contributors and ensuring their success. Given ambiguous or high level direction, lays out vision and plan to deliver successful outcomes.
+Manages other Product Managers. Accountable for leading teams and defining responsibilities and deliverables of individual contributors and ensuring their success. Given ambiguous or high level direction, lays out vision and plan to deliver successful outcomes.
 
-Participates in team planning, recruiting, hiring and onboarding processes and effectively influences candidates to join the company. Develops a pipeline of recruiting candidates by building relationships with the community.
+Participates in team planning, recruiting, hiring, and onboarding processes and effectively influences candidates to join the company. Develops a pipeline of recruiting candidates by building relationships with the community.
 
 Responsible for setting vision and direction for their area of ownership, and for acting as a spokesperson for product value and roadmap internally and externally.
 
@@ -227,9 +227,8 @@ Activities:
     * Join calls with Sales team
   * Feature requests
     * Uservoice forums - [https://mattermost.uservoice.com/](https://mattermost.uservoice.com/)
-    * [Customer request triage](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=17&projectKey=CR&view=planning.nodetail&quickFilter=97) 
-      * Track down estimates and early dev feasibility discussions on [Customer Requests](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=17&projectKey=CR&view=planning&selectedIssue=CR-132)
-* Learn about the market
+    * [Process feedback in productboard](https://mattermost.productboard.com/insights/shared-inbox) 
+  * Learn about the market
   * Sales \(Regional VPs and Customer Engineers\)
     * Sales team overview
     * Sales team priorities
@@ -272,8 +271,8 @@ Activities:
     * Workflows \(Ian Tao\)
     * Community \(Jason Blais\)
     * Reference:
-      * [Roadmap - All teams](https://docs.google.com/spreadsheets/u/1/d/1v-ihzzAkFmO2T5UfF1wWYMgS3W6MwiNqfRQG79X3rSY/edit#gid=0)
-      * [Engineering OKRs](https://docs.google.com/presentation/d/1u9WMZ95juJb-XokN3hPQeabYOQ9rqrE38np7Vnl566A/edit#slide=id.p)
+      * [Roadmap - All teams](https://mattermost.productboard.com/portal/19-combined-highlighted-features)
+      * [Engineering OKRs](https://mattermost.productboard.com/feature-board/1749949-release-summary-internal)
   * Product Analytics \(Chen, Consultant\)
     * Tips on things to watch out for if running your own analytics
     * Dive into product analytics
@@ -377,7 +376,7 @@ Activities:
 
 * Capture SWAG estimates from design and developers to determine length project
 * Facilitate prioritization decisions in sprint and release planning meetings
-* Keep [Release Plan Roadmap](https://docs.google.com/spreadsheets/d/1v-ihzzAkFmO2T5UfF1wWYMgS3W6MwiNqfRQG79X3rSY/edit?usp=sharing) up to date with features queued for the release
+* Keep [Release Plan](https://mattermost.productboard.com/feature-board/1097526-release-tracking-internal) up to date with features queued for the release
 
 #### Feature Design
 
@@ -389,7 +388,7 @@ Activities:
 * Ensure designs follow our [UX guidelines](https://docs.mattermost.com/developer/fx-guidelines.html#fast-obvious-forgiving)
   * Fast, Obvious, Forgiving
 * Determine feature availability: Team Edition or Enterprise Edition
-  * [stewardship principles](https://docs.mattermost.com/developer/manifesto.html#stewardship-principles-for-the-mattermost-open-source-project) that we use to guide whether a feature belongs in TE
+  * [Stewardship principles](https://docs.mattermost.com/developer/manifesto.html#stewardship-principles-for-the-mattermost-open-source-project) that we use to guide whether a feature belongs in TE
   * [TE vs EE from Ian](https://community-release.mattermost.com/private-core/pl/m1o63kk3h7numxw3z116ft4ffw)
 * Determine Packaging/SKU \(E10 & E20\)
   * TE OR EE
@@ -405,7 +404,7 @@ Activities:
 * Validate “Won’t fix”, “Won’t do” tickets.  Provide a final comment of approval so ticket can be closed by QA
 * Ensure tickets are assigned to teams and assigned a fix version
   * Jira Fix Version = “unscheduled” means ticket has enough information to be developed, but is not assigned to a specific release version
-* Assist in identifying [Help Wanted tickets](https://docs.mattermost.com/process/help-wanted.html)
+* Assist in identifying [Help Wanted tickets](https://handbook.mattermost.com/contributors/contributors/help-wanted)
 * Update Fix Version to “help-wanted”, which will run an automation that will automatically create a corresponding issue in GitHub.
 
 #### Release Feature Roadmap
@@ -462,7 +461,7 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
   * Maintain documentation on feature proposals \(reference all design and development documentation\)
   * Release notes should be written targeting an international IT Admin
   * Guidelines for [documentation](https://handbook.mattermost.com/operations/research-and-development/product/product-technical-writing-team-handbook#submitting-feature-documentation-pms)
-    * Any in product instructions or documentation should never contain hard-coded links.
+    * Any in product instructions or documentation should never contain hard-coded links
     * A redirect page from about.mattermost.com should be used in product instructions. \(See instructions [here](https://handbook.mattermost.com/operations/research-and-development/product/product-management-team-handbook#how-do-i-create-redirects-for-in-product-documentation)\)
 * Maintain product accuracy on mattermost.com/product and roadmap
 * Author [Forum](https://forum.mattermost.org/t/community-design-meeting-folded-reply-threads/6729/10), [blog](https://mattermost.com/blog/mattermost-launches-mattermost-superstars-program-for-contributors/) and [release announcement](https://mattermost.com/blog/mattermost-release-v5-25/) posts
@@ -496,10 +495,6 @@ Please encourage colleagues to file feedback in productboard when they are discu
 * Update the feature idea to have a release timeframe (3 months, 6 months, future) or release version if the feature is planned
 
 After adding the feedback to the relevant idea in productboard, the PM comments and mentions the reporter so they are aware the feedback has been processed, and then marks the item as **Processed**.
-
-#### Customer Request Rotation
-
-In sync with the Twitter rotation, Product Managers rotate responsibility weekly for monitoring newly-filed [customer requests](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=17&projectKey=CR&view=planning.nodetail&quickFilter=97&issueLimit=100) and ensuring newly filed requests are assigned to the appropriate PM according to areas of ownership. The weekly PM meeting is the time to identify requests where ownership is unlcear or merits discussion. The PM on rotation should also remind fellow PMs in the Product Management channel to review their requests and at a minimum update the Fix Version.
 
 #### Community Success
 
