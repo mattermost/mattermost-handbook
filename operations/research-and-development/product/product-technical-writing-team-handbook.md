@@ -197,7 +197,7 @@ If the Jira ticket is for general documentation, depending on the current worklo
 
 ### Editing Requests
 
-When submitting a PR for documentation, please add the **Editor Review** label. Once the Technical Writer/Editor has signed off on the PR they will remove the label. When all the requested reviews are complete, the **Reviews Complete** label will be applied and the changes merged.
+When submitting a PR for documentation, whether it's a minor update, a new piece of content, or a content proposal, please add the **Editor Review** label. Once the Technical Writer/Editor has reviewed the PR they'll remove the label. When all the requested reviews are complete, the **Reviews Complete** label is applied and the changes are merged.
 
 ### Providing Editorial Feedback
 
