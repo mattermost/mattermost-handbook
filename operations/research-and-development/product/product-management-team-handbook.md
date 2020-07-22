@@ -172,7 +172,7 @@ Team:
 * Meet the rest of team leads \(Developers, Designer, QA\) and join team meetings
   * Ask questions to understand development, design, QA processes
 * Meet with Amy \(Release Manager\) and read the release process doc
-* Meet with Ian \([https://it33.github.io/readme/](https://it33.github.io/readme/)\). This will be scheduled for you
+* Meet with Ian \([https://github.com/it33/readme/blob/master/README.md](https://github.com/it33/readme/blob/master/README.md/)\). This will be scheduled for you
 * Meet other Product Managers \(Jason Blais, Eric Sethna, Katie Wiersgalla, Aaron Rothschild, Dennis Kittrell, Eric Sadur, Adam Clarkson, Ian Tao\)
   * Learn about their areas of ownership
 * Participate in PM, R&D, and Customer Obsession Meetings
