@@ -122,7 +122,7 @@ A good place to start is exploring the websites, and then see if you can find a 
 
 Activities:
 
-* Meet with Lindsay
+* Meet with Manager
   * Company org overview
     * [https://mattermost.bamboohr.com/employees/orgchart.php](https://mattermost.bamboohr.com/employees/orgchart.php)
     * [https://developers.mattermost.com/internal/rd-teams/](https://developers.mattermost.com/internal/rd-teams/)
