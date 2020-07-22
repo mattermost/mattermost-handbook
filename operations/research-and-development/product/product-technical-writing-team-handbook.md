@@ -28,7 +28,7 @@ The Mattermost Technical Writers focus primarily on writing, editing, and mainta
   * Community Help Wanted doc issues
   * Documentation Handbook and Style Guide maintenance
 
-The following areas remain a collaborative effort between Product Managers, Engineers, and Technical Writers, until additional headcount is reached. Please reach out to the [Documentation Working Group](https://community.mattermost.com/private-core/channels/dwg-documentation-working-group) for any questions.
+The following areas remain a collaborative effort between Product Managers, Engineers, and Technical Writers until additional headcount is reached. Please reach out to the [Documentation Working Group](https://community.mattermost.com/private-core/channels/dwg-documentation-working-group) for any questions.
 
 * [Mattermost Overview](https://docs.mattermost.com/overview/index.html)
 * [User's Guide](https://docs.mattermost.com/guides/user.html)
