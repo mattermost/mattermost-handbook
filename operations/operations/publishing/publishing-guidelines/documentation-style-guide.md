@@ -99,6 +99,15 @@ Throughout Mattermost, you’ll see the below words, terms are mentioned and use
 | configuration | Used to describe the settings and customizations applied to Mattermost to change the appearance and behavior. | <ul><li> E.g Create a configuration file for Mattermost. </li></ul> |
 | Mattermost Server | Used to refer to the single Linux binary that is installed on the physical server which hosts your Mattermost installation. It is not used to refer to the product going beyond the binary name. Always capitalize the `Server` when referring to the name of the binary. | <ul><li> E.g Download the Mattermost Server binary. </li> <li> Since this migration happens before Mattermost is fully launched on your server. </li></ul>|
 | Mattermost server | Used to refer to the physical server on which you run Mattermost. It is also referred to as the customer’s Mattermost server. Always lowercase `server` when referring to the customer’s physical Mattermost server | <ul><li> E.g Your Mattermost server may need to be rebooted before changes are applied </li></ul> |
+| Web app | Used to refer to | <ul><li> E.g Web app </li></ul> |
+| Mobile app | Used to refer to | <ul><li> E.g Mobile app </li></ul> |
+| Desktop app | Used to refer to | <ul><li> E.g Your Mattermost  </li></ul> |
+| Public channel | Used to refer to channels available to all members to discover and join. Don’t hyphenate and use lowercase for ``channel`` | <ul><li> E.g Users can remove themselves from teams and private channels managed by synchronized groups </li></ul> |
+| Private channel | Used to refer to channels  managed by synchronized groups. Don’t hyphenate and use lowercase for “channel” | <ul><li> E.g Users can remove themselves from teams and private channels managed by synchronized groups </li></ul> |
+| Direct message | Direct messages are for conversations between two people. Visible only to the people involved. Don’t hyphenate and use lowercase for ``message`` | <ul><li> E.g Full names appear in the direct messages member list and team management modal </li></ul> |
+| Group message | Group Messages are Direct Messages that have conversations among three or more people. Visible only to the people involved | <ul><li> E.g Grouo Messages </li></ul> |
+| device | Use device to refer collectively to all types of computers, phones, and other devices | <ul><li> E.g Speak with the owner of any other proxies between your device and the Mattermost Server </li></ul> |
+| dates | Use the following format for dates: month, day, year, as in `July 16th, 2020`. Don't use day month year, as in 16 July 2020. Use ordinal numbers (such as 1st, 12th, or 23rd) to indicate a date | <ul><li> E.g June 16th, 2020 </li></ul> |
 
 
 ## Using ReStructuredText markup (rst)
