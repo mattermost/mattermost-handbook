@@ -67,10 +67,20 @@ For all new staff members, to request a new MacBook, Lenovo, or other laptop, pl
 
 **Developers**
 
-* **MacBook 15”:** For developers choosing to use Macs, we recommend getting a [MacBook Pro 15-inch retina with 512 GB of storage and 32 GB of memory](https://www.apple.com/shop/buy-mac/macbook-pro/15-inch-space-gray-2.6ghz-6-core-512gb) or similar. As an example, other teams may not require 32 GB memory or 512 GB of storage. 
+* **MacBook 16”:** For developers choosing to use Macs, we recommend getting a [MacBook Pro 16-inch retina with 512 GB of storage and 32 GB of memory](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch) or similar. As an example, other teams may not require 32 GB memory or 512 GB of storage. 
 * **PC:** Any suitable laptop with comparable specifications and lower or similar cost to the recommended MacBook. Many of our engineers use Lenovo laptops from the Thinkpad X, T, or P series. If in doubt, we recommend a Lenovo Thinkpad T series.
 
 After your laptop is received, it is required that you register your laptop by completing an [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). If you purchased the laptop on your own and you are submitting an expense report for reimbursement, attach the Asset Registration email confirmation with your expense report. This step should be completed within 5 business days after your laptop was received.
+
+### Other Computer Technology
+
+If you need a device other than a laptop or mobile phone such as an iPad or equivalent for your role, you should have a business use reason for the device and authorization from your manager before purchasing. If both are satisfied, you can proceed with purchasing the device on your own or you can reach out to [People Ops](https://community.mattermost.com/private-core/channels/ask-people-team) who can purchase this for you. After you obtain the asset, it is necessary that you register your hardware by completing the [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform) if any one or more of the following criteria are met:
+
+* The cost of the device is $1,000 or greater
+* The device contains company data and has access to company credentials
+* The device contains customer data, confidential company information, or personally identifiable information (PII)
+
+If you purchased the device on your own and you are submitting an expense report for reimbursement, attach the Asset Registration email confirmation with your expense report. This step should be completed within 5 business days after your device was received. Any registered device will need to be returned to Mattermost if you leave the company. 
 
 ### Mobile device policy
 
