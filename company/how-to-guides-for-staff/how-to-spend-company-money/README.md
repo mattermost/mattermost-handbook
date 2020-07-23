@@ -56,7 +56,7 @@ While we're sharing average costs for various items below, you should use your b
 
 ### Computer and technology guidelines
 
-#### Laptop \(Business computer\):
+#### Laptop \(Business computer\)
 
 For all new staff members, to request a new MacBook, Lenovo, or other laptop, please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSe7DV-dt1K4G2UtVszjK78iRZD5i_ubhRk3xkUKnEemcyyELw/viewform). We realize laptops are most vital company equipment to be successful at Mattermost. As such the below are just recommendations and not a hard ceiling. Please get what you need to do your best work.
 
@@ -70,9 +70,9 @@ For all new staff members, to request a new MacBook, Lenovo, or other laptop, pl
 * **MacBook 15”:** For developers choosing to use Macs, we recommend getting a [MacBook Pro 15-inch retina with 512 GB of storage and 32 GB of memory](https://www.apple.com/shop/buy-mac/macbook-pro/15-inch-space-gray-2.6ghz-6-core-512gb) or similar. As an example, other teams may not require 32 GB memory or 512 GB of storage. 
 * **PC:** Any suitable laptop with comparable specifications and lower or similar cost to the recommended MacBook. Many of our engineers use Lenovo laptops from the Thinkpad X, T, or P series. If in doubt, we recommend a Lenovo Thinkpad T series.
 
-### Mobile device policy
-
 After your laptop is received, it is required that you register your laptop by completing an [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). If you purchased the laptop on your own and you are submitting an expense report for reimbursement, attach the Asset Registration email confirmation with your expense report. This step should be completed within 5 business days after your laptop was received.
+
+### Mobile device policy
 
 The Mattermost mobile device policy enables the use of mobile devices for customer-facing roles or those providing repeating on-call service in a secure fashion.
 
@@ -195,7 +195,7 @@ We will reimburse mileage according to local laws of the country in which your c
 * [US rate per mile](http://www.irs.gov/Tax-Professionals/Standard-Mileage-Rates) 
 * [Canada rate per KM](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/benefits-allowances/automobile/automobile-motor-vehicle-allowances/automobile-allowance-rates.html)
 
-### Conferences and trade shows.
+### Conferences and trade shows
 
 [Airfare](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#airfare-and-traveling), [Meals and Entertainment](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#meals-and-entertainment), and [Hotel](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#hotel-and-lodging) take precedence.
 
