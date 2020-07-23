@@ -2,8 +2,6 @@
 description: Things People Managers Must Know
 ---
 
-# Manager Onboarding - 1%
-
 ## People Manager Approvals
 
 1. **Managing and approving.** [Time Off](https://handbook.mattermost.com/operations/people/working-at-mattermost/paid-time-off#communicating-time-off). Our culture is high trust and results-focused. We want people to take time away to relax, think and come back energized and willing to bring their best self to work. As a people manager, it is important to consistently iterate and define what [vacation-ready](https://handbook.mattermost.com/operations/people/working-at-mattermost#5-be-the-change-you-want-to-see) means for your team. All time-off requests should be recorded in BambooHR. 
@@ -20,11 +18,33 @@ description: Things People Managers Must Know
 
 ### **Onboarding**
 
-We strive to provide a smooth onboarding experience that enables new colleagues into a safe and compliant working environment with a strong sense of belonging. Managers should familiarize themselves with onboarding in order to appropriately fill in any gaps for their new team member.
+We strive to provide a smooth onboarding experience that enables new colleagues into a safe and compliant working environment with a strong sense of belonging. Managers should familiarize themselves with onboarding in order to appropriately fill in any gaps for their new team member. New Staff Members will have an Onboarding Checklist of activities to complete and join during their first 90 days. 
 
+We will continue to iterate and add activities to the Onboarding Program. Managers should review these responsibilities ahead of every new hire joining Mattermost. 
+
+#### Pre-Day One
+* Complete the [Systems Checklist Form](https://forms.gle/HhR6LyLrtGdDEZaQ7). 
 * Complete the [department onboarding template](https://handbook.mattermost.com/contributors/onboarding/staff-on-boarding-guide#departmental-onboarding-checklists) prior to your new staff member's start date. 
-* Assign an Onboarding Peer \(Link w/ description to come\). Managers should ask permission of a potential Onboarding Peer prior to assignment. 
-* 90 - Day New Hire Review \(Link with description to come\). Managers will need to select the 4-6 peers to provide peer review feedback. 
+* Assign an Onboarding Peer \(Link w/ description to come\). The Onboarding Peer or peers should be an individual or group of people that can help answer questions about the team, department and Mattermost. In many ways, an Onboarding Peer may be an [end-boss](https://handbook.mattermost.com/company/about-mattermost/mindsets#mini-boss-end-boss) for specific AORs. Managers should ask permission of a potential Onboarding Peer prior to assignment. 
+
+#### Week One 
+* Introduce our new staff member in the [Welcome Channel](https://community.mattermost.com/private-core/channels/welcome) using #newcolleague. Note: all new hires are asked to complete a short bio and share with their Managers. Managers should include this bio in the welcome message. 
+* Review Team [AORs](https://handbook.mattermost.com/operations/operations/areas-of-responsibility). This is also a good time to review the new hire's AOR and onboarding expectations.   
+* Review list of key internal partners the new staff member will work with and who the new staff member should set-up meetings with during their first month or two. 
+* Mattermost Channels - Ensure your team member is added to appropriate channels based on team and role.
+* Team Cadences - review specific team cadences, operating norms and relevant playbooks. 
+
+#### Month One 
+* Review Company and Team [V2MOMs](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-v2mom).
+* Align on role responsibitliies and expectations.
+* New team members are invited to introduce themsel at [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com) during their second week. If a new team member does not want to do their own introduction, Managers will be asked to introduce the new staff member.
+* [Shoulder Check](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check), assess potential blindspots and ask for feedback. 
+
+#### Month Two 
+* 90 - Day New Colleague Feedback. Managers will be notified to kick off the [New Colleague Review Process](https://handbook.mattermost.com/contributors/onboarding#new-colleague-90-day-feedback-process) on their new staff member's 65th day. The Feedback will include a summary of the new staff member's responsibilities during the first 90 days. Managers should communicate these responsibilities to the new staff member during their first week. 
+
+#### Month Three 
+* Deliver New Colleague Feedback
 
 ### **Performance Management**
 
