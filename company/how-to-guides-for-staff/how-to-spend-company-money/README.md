@@ -76,7 +76,7 @@ After your laptop is received, it is required that you register your laptop by c
 
 If you need a device other than a laptop or mobile phone such as an iPad or equivalent for your role, you should have a business use reason for the device and authorization from your manager before purchasing. If both are satisfied, you can proceed with purchasing the device on your own or you can reach out to [People Ops](https://community.mattermost.com/private-core/channels/ask-people-team) who can purchase this for you. After you obtain the asset, it is necessary that you register your hardware by completing the [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform) if any one or more of the following criteria are met:
 
-* The cost of the device is $1,000 or greater
+* The cost of the device is 1,000 USD or greater
 * The device contains company data and has access to company credentials
 * The device contains customer data, confidential company information, or personally identifiable information (PII)
 
