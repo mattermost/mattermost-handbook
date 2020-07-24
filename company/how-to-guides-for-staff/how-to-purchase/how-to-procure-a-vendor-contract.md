@@ -56,7 +56,7 @@ Once the [Purchase Order Form](https://docs.google.com/forms/d/e/1FAIpQLSd0zdXhA
 
 ### Step 2: Request contract from vendor
 
-If you did not provide a contract in the [Purchase Order Form](https://docs.google.com/a/mattermost.com/forms/d/1Kbo8drU5ek9dlwV68CCLe2dCAVgkDuQW5WU7mNVjIJQ/edit?usp=drive_web) and have received spend approval, ask your vendor contact to send you a **Word Document** of their contract so that Legal may review and if necessary, REDLINE the agreement. You may reference the legal review process outlined in the [Authorization Matrix](https://drive.google.com/a/mattermost.com/open?id=1fDIMiO0uydB_1zCUxZ4sGfSnBJ0P_49zbeQGgTqbYPI).
+If you did not provide a contract in the [Purchase Order Form](https://docs.google.com/forms/d/e/1FAIpQLSd0zdXhAxYcH59wDnUoprgDi3aLdMBk3K3d3nNSmsqB2jtwAw/viewform) and have received spend approval, ask your vendor contact to send you a **Word Document** of their contract so that Legal may review and if necessary, REDLINE the agreement. You may reference the legal review process outlined in the [Authorization Matrix](https://drive.google.com/a/mattermost.com/open?id=1fDIMiO0uydB_1zCUxZ4sGfSnBJ0P_49zbeQGgTqbYPI).
 
 All contracts are to address either Ian Tien \(CEO\) or Aneal Vallurupalli \(VP Finance\), and should include the following relevant information:
 
