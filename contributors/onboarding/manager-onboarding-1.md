@@ -40,7 +40,7 @@ We will continue to iterate and add activities to the Onboarding Program. Manage
 #### Month One
 
 * Review Company and Team [V2MOMs](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-v2mom).
-* Align on role responsibitliies and expectations.
+* Align on role responsibilities and expectations.
 * New team members are invited to introduce themselves at [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com) during their second week. If they're not comfortable doing their own introduction, Managers will do so on their behalf.
 * [Shoulder Check](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check), assess potential blindspots and ask for feedback.
 
