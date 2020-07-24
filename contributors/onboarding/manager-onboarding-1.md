@@ -33,7 +33,7 @@ We will continue to iterate and add activities to the Onboarding Program. Manage
 * Introduce our new staff member in the [Welcome Channel](https://community.mattermost.com/private-core/channels/welcome) using #newcolleague. Note: all new hires are asked to complete a short bio and share with their Managers. Managers should include this bio in the welcome message.
 
 * Review Team [AORs](https://handbook.mattermost.com/operations/operations/areas-of-responsibility). This is also a good time to review the new hire's AOR and onboarding expectations.
-* Review list of key internal partners the new staff member will work with and who the new staff member should set-up meetings with during their first month or two. 
+* Review list of key internal partners the new staff member will work with and who the new staff member should set up meetings with during their first month or two.
 * Mattermost channels: Ensure your team member is added to appropriate channels based on team and role.
 * Team cadences: Review specific team cadences, operating norms and relevant playbooks.
 
