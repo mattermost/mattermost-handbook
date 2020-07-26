@@ -17,9 +17,9 @@ Specifically, productboard is used to decide what to build (and when), while oth
 
 **Roles**
 
-**Makers:** Product Managers and Product Management leadership
-**Contributors:** Customer Engineers/Customer Support/UX/Dev Leadership
-**Viewers:** Everyone else with @mattermost.com email address
+* **Makers:** Product Managers and Product Management leadership
+* **Contributors:** Customer Engineers/Customer Support/UX/Dev Leadership
+* **Viewers:** Everyone else with @mattermost.com email address
 
 ## 1 A day in the life of a Product Manager
 
