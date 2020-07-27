@@ -51,7 +51,7 @@ Finally, add a link to the documentation, forum post, or repository as appropria
 
 ## How to Write a Release Tweet
 
-Product managers are also responsible for drafting the tweets that correspond to your features.   
+Product Managers are also responsible for drafting the tweets that correspond to your features.
 
 Each tweet should start with ```Mattermost Release vx.xx now…`` or ``Mattermost mobile app release vx.xx now…`` and should describe what the action the new feature allows them to do.  This should be very similar to the headline written in the Release Announcement.  Tweets should include the relevant hashtags: ``#mm524`` ``#opensource`` ``#sre`` ``#devops`` ``#mattermost`` (where #mm524 is the release number)
 
