@@ -140,7 +140,7 @@
       * [Manager Onboarding](contributors/onboarding/manager-onboarding-1.md)
       * [Frequently Asked Questions](contributors/onboarding/frequently-asked-questions.md)
     * [MatterCon](contributors/mattercon/README.md)
-    * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
+      * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
     * [Paid Time Off](operations/workplace/people/working-at-mattermost/paid-time-off.md)
     * [Travel](operations/workplace/people/working-at-mattermost/travel/README.md)
        * [Business Travel Insurance](operations/workplace/people/working-at-mattermost/travel/business-travel-insurance.md)
