@@ -134,7 +134,7 @@
   * [Working at Mattermost](operations/workplace/people/working-at-mattermost/README.md)
     * [Onboarding](contributors/onboarding/README.md)
       * [Things Everyone Must Know](contributors/onboarding/things-everyone-must-know.md)
-      * [Mattermost Communication](operations/workplace/mattermost-communication.md)
+      * [Communication Best Practices](operations/workplace/mattermost-communication.md)
       * [Staff Onboarding](contributors/onboarding/staff-onboarding-guide/README.md)
          * [Engineer Onboarding Timeline and Expectations](contributors/onboarding/staff-onboarding-guide/engineer-onboarding.md)
       * [Manager Onboarding](contributors/onboarding/manager-onboarding-1.md)
