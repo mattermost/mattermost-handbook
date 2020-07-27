@@ -1,6 +1,6 @@
 # How to Write a Feature Release Announcement
 
-This document outlines how to write a release announcement and release tweets for a feature. These are used at the release in our release newsletter and Twitter. 
+This document outlines how to write a release announcement and release tweets for a feature. These are used at the release in our release newsletter and Twitter.
 
 Each Product Manager is responsible for writing a release announcement for every feature, integration or announcement they want included in the release newsletter.
 
