@@ -60,34 +60,39 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 **Based in Palo Alto, California and headquartered on the internet** means the mailing address for Mattermost, Inc. is in Palo Alto, California, and our headquarters is on the internet, specifically the Mattermost instance at [https://community.mattermost.com](https://community.mattermost.com/). Our online headquarters is where Mattermost staff work with our communities of colleagues, users, partners, customers and contributors, to envision, develop and refine new open source technologies to make the world safer and more productive.
 
 ### [General Onboarding Activities](https://handbook.mattermost.com/contributors/onboarding)
-Welcome to Mattermost! This is a general overview of activities that all staff should do within their first 90 days. New staff will also be assigned a checklist of activities to complete through [BambooHR](https://handbook.mattermost.com/operations/workplace/people#bamboohr). Some of those checklist items are also listed here.  
+
+Welcome to Mattermost! This is a general overview of activities that all staff should do within their first 90 days. New staff will also be assigned a checklist of activities to complete through [BambooHR](https://handbook.mattermost.com/operations/workplace/people#bamboohr). Some of those checklist items are also listed here.
 
 #### Week 1
-* Share your bio with your manager. This will be posted in the [Welcome channel](https://community.mattermost.com/private-core/channels/welcome) in the private Staff team by your manager with the hashtag **\#newcolleague**. 
-* Attend the Onboarding Session with the People Team, Mondays at 10 AM ET, Toronto Time. 
-* Review the expense policy: [How to send company money](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money)
-* Attend first your first [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com). Join the [Customer Obsession Meeting channel](https://community.mattermost.com/private-core/channels/cust-obs-meeting) and find past COM meetings in the channel to view at your liesure. 
-* Utilize the [Onboarding](https://community.mattermost.com/private-core/channels/onboarding) channel for any questions.
 
-#### Month 1 
+* Share your bio with your manager. This will be posted in the [Welcome channel](https://community.mattermost.com/private-core/channels/welcome) in the private Staff team by your manager with the hashtag **#newcolleague**.
+* Attend the Onboarding Session with the People Team, Mondays at 10 AM ET, Toronto Time.
+* Review the expense policy: [How to send company money](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money).
+* Attend first your first [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com). Join the [Customer Obsession Meeting channel](https://community.mattermost.com/private-core/channels/cust-obs-meeting) and find past COM meetings in the channel to view at your liesure.
+* Use the [Onboarding](https://community.mattermost.com/private-core/channels/onboarding) channel for any questions.
+
+#### Month 1
+
 * Learn how to [update the Handbook](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-update-handbook).
-* Attend the [CEO & New Staff feedback session](https://handbook.mattermost.com/contributors/onboarding#new-staff-feedback-session-with-ceo-and-hr) 
-* Introduce yourself at [COM for Week 2 Welcomes](https://handbook.mattermost.com/operations/operations/company-cadence#during-meeting). This is optional. If you prefer to not speak at COM, your Manager can introduce you instead. 
-* Attend a cross-functional team meeting - at least once. 
-* Meet with internal key partners, as identified by your Manager. 
-* Get Social - join the [Social Channel](https://community.mattermost.com/private-core/channels/social) and view other [Social Channels](https://docs.google.com/spreadsheets/d/14h7k2LTFyGQx7TTZqlabMpCSQMVZHBXOyQxyZiZcfYo/edit#gid=0) 
-* Participate in [Coffee Chats](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/workplace-program#coffee-time) 
-* Learn [Mattermost Terms](https://handbook.mattermost.com/company/about-mattermost/list-of-terms) and [Mindsets](https://handbook.mattermost.com/company/about-mattermost/mindsets). Reach out to your Manager, Onboarding Buddy or [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) if you're unsure how to use a term or need more explanation. 
-* Review Company [AORs](https://handbook.mattermost.com/operations/operations/areas-of-responsibility). Your Manager will also review individual AORs with direct reports during their first month. 
+* Attend the [CEO & New Staff feedback session](https://handbook.mattermost.com/contributors/onboarding#new-staff-feedback-session-with-ceo-and-hr).
+* Introduce yourself at [COM for Week 2 Welcomes](https://handbook.mattermost.com/operations/operations/company-cadence#during-meeting). This is optional. If you prefer to not speak at COM, your Manager can introduce you instead.
+* Attend a cross-functional team meeting - at least once.
+* Meet with internal key partners, as identified by your Manager.
+* Get Social - join the [Social Channel](https://community.mattermost.com/private-core/channels/social) and view other [Social Channels](https://docs.google.com/spreadsheets/d/14h7k2LTFyGQx7TTZqlabMpCSQMVZHBXOyQxyZiZcfYo/edit#gid=0).
+* Participate in [Coffee Chats](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/workplace-program#coffee-time).
+* Learn [Mattermost Terms](https://handbook.mattermost.com/company/about-mattermost/list-of-terms) and [Mindsets](https://handbook.mattermost.com/company/about-mattermost/mindsets). Reach out to your Manager, Onboarding Buddy, or [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) if you're unsure how to use a term or need more explanation.
+* Review Company [AORs](https://handbook.mattermost.com/operations/operations/areas-of-responsibility). Managers will also review individual AORs with direct reports during their first month.
 
 #### Month 2
-* Check out the [Mattermost Blog](https://mattermost.com/blog/). If you're interested in submitting a blog, reach out to the [Head of Content](mailto: Ashley.Dotterweich@mattermost.com] for more information. 
-* Update the Handbook. This can be an update on existing documentation or a new subject or page. Documentation is vital for asynchronous communication. All Staff should feel empowered and encouraged to iterate and update as needed. 
-* Blindspot Check - review [how-to guides](https://handbook.mattermost.com/company/how-to-guides-for-staff). 
+
+* Check out the [Mattermost Blog](https://mattermost.com/blog/). If you're interested in submitting a blog, reach out to the [Marketing channel](https://community.mattermost.com/private-core/channels/marketing-website-priv) for more information.
+* Update the Handbook. This can be an update on existing documentation or a new subject or page. Documentation is vital for asynchronous communication. All Staff should feel empowered and encouraged to iterate and update as needed.
+* Blindspot Check - review [how-to guides](https://handbook.mattermost.com/company/how-to-guides-for-staff).
 
 #### Month 3
-* Complete your [New Staff Self Assessment](https://handbook.mattermost.com/contributors/onboarding#new-colleague-feedback)/
-* Share Feedback on your Onboarding experience at Mattermost. The [People Team](https://handbook.mattermost.com/operations/workplace/people#team) appreciates all feedback on Mattermost Onboarding. 
+
+* Complete your [New Staff Self Assessment](https://handbook.mattermost.com/contributors/onboarding#new-colleague-feedback).
+* Share Feedback on your Onboarding experience at Mattermost. The [People Team](https://handbook.mattermost.com/operations/workplace/people#team) appreciates all feedback on Mattermost Onboarding.
 
 ## [Departmental Onboarding Checklists and Information](https://handbook.mattermost.com/people/general-onboarding.html#contents)
 
