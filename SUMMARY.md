@@ -136,7 +136,7 @@
       * [Things Everyone Must Know](contributors/onboarding/things-everyone-must-know.md)
       * [Mattermost Communication](operations/workplace/mattermost-communication.md)
       * [Staff Onboarding](contributors/onboarding/staff-onboarding-guide/README.md)
-      * [Engineer Onboarding Timeline and Expectations](contributors/onboarding/staff-onboarding-guide/engineer-onboarding.md)
+         * [Engineer Onboarding Timeline and Expectations](contributors/onboarding/staff-onboarding-guide/engineer-onboarding.md)
       * [Manager Onboarding](contributors/onboarding/manager-onboarding-1.md)
       * [Frequently Asked Questions](contributors/onboarding/frequently-asked-questions.md)
     * [MatterCon](contributors/mattercon/README.md)
