@@ -8,7 +8,7 @@ Each Product Manager is responsible for writing a release announcement for every
 
 ## Overview
 
-It is important to think of the Release Announcement as a whole, as a press release.  We are communicating changes to our current and prospective customers so we want it to be exciting as well as informative.  The Release Announcement will be a coordinated document, with each product manager contributing their own features as sub-headlines.  The headline and first paragraph will be written by PM leads and the CPO after all other features have been provided. 
+It's important to think of the release announcement overall as a press release. We're communicating changes to our current and prospective customers so we want it to be exciting as well as informative. The release announcement is a coordinated document, with each Product Manager contributing their own features as sub-headings. The headline and first paragraph will be written by PM leads and the CPO after all other features have been provided.
 
 **Note:** Consider using this information in productboard for your features to validate the messaging and to keep consistency across channels. 
 
