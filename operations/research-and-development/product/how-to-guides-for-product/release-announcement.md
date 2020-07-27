@@ -47,7 +47,7 @@ Then, add actual screenshots or GIFs of the feature.  Abide by our guidelines fo
 
 ### Feature Resources
 
-Finally, add a link to the documentation, forum post, or repository as appropriate for the user to get more information on the feature.  Also, be sure to provide a line to thank the contributors who helped provide the feature. 
+Finally, add a link to the documentation, forum post, or repository as appropriate for the user to get more information on the feature. Also, be sure to provide a line to thank the contributors who helped provide the feature.
 
 ## How to Write a Release Tweet
 
