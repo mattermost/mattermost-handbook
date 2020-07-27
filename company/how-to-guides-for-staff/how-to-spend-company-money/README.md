@@ -82,7 +82,7 @@ After you obtain the asset, it is necessary that you register your hardware by c
 * The device contains company data and has access to company credentials
 * The device contains customer data, confidential company information, or personally identifiable information (PII)
 
-If you purchased the device on your own and you are submitting an expense report for reimbursement, attach the Asset Registration email confirmation with your expense report. This step should be completed within 5 business days after your device was received. Any registered device will need to be returned to Mattermost if you leave the company. 
+If you purchased the device on your own and you are submitting an expense report for reimbursement, attach the Asset Registration email confirmation with your expense report. This step should be completed within 5 business days after your device was received. Any registered device will need to be returned to Mattermost if you leave the company.
 
 ### Mobile device policy
 
