@@ -59,94 +59,40 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 **Based in Palo Alto, California and headquartered on the internet** means the mailing address for Mattermost, Inc. is in Palo Alto, California, and our headquarters is on the internet, specifically the Mattermost instance at [https://community.mattermost.com](https://community.mattermost.com/). Our online headquarters is where Mattermost staff work with our communities of colleagues, users, partners, customers and contributors, to envision, develop and refine new open source technologies to make the world safer and more productive.
 
-### [General Onboarding Checklist](https://handbook.mattermost.com/contributors/onboarding)
+### [General Onboarding Activities](https://handbook.mattermost.com/contributors/onboarding)
 
-**People Team Responsibilities**
+Welcome to Mattermost! This is a general overview of activities that all staff should do within their first 90 days. New staff will also be assigned a checklist of activities to complete through [BambooHR](https://handbook.mattermost.com/operations/workplace/people#bamboohr). Some of those checklist items are also listed here.
 
-* \[ \] When notified by HR Lead, send an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.srysr7dn6fzd) to find out new staff’s preference for laptop and equipment, either to be purchased or taken from stock and shipped by People Ops or purchased locally by new staff and expensed.
-* \[ \] Send new staff member the [Mattermost email agreement](https://docs.google.com/document/d/1PhkQkvoaunu8V8qjtmt6GmZoIMZI8sq01C1nG-FoHQo/edit?usp=sharing) via DocuSign before issuing an @mattermost.com email address. New staff should use this email address on community.mattermost.com \(replace personal email with company email if already registered there\). [FIRST\_NAME.LAST\_NAME@mattermost.com](mailto:FIRST_NAME.LAST_NAME%40mattermost.com) is the standard naming convention.
-* \[ \] Send new staff member an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.9dj4d3aa8un9) about payroll and benefits.
-* \[ \] Send new staff member \(and manager\) a [group message](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tufgijkmrb91) requesting new staff member's biography, inviting new staff to the Mattermost [demo](https://mattermost.com/demo/) and sharing more about [working at Mattermost](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost), including our [Leadership Principles](https://handbook.mattermost.com/company/about-mattermost#leadership-principles).
+#### Week 1
 
-_First Day_
+* Share your bio with your manager. This will be posted in the [Welcome channel](https://community.mattermost.com/private-core/channels/welcome) in the private Staff team by your manager with the hashtag **#newcolleague**.
+* Attend the Onboarding Session with the People Team, Mondays at 10 AM ET, Toronto Time.
+* Review the expense policy: [How to send company money](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money).
+* Attend first your first [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com). Join the [Customer Obsession Meeting channel](https://community.mattermost.com/private-core/channels/cust-obs-meeting) and find past COM meetings in the channel to view at your liesure.
+* Use the [Onboarding](https://community.mattermost.com/private-core/channels/onboarding) channel for any questions.
 
-* \[ \] Invite new staff to [tools used across Mattermost](https://airtable.com/tblI4gu3oPUiZazs8/viwlYaOOIveb3dhLV?blocks=hide) and the [Customer Obsession Meeting](https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting).
-* \[ \] Send new staff a [direct message](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#heading=h.w5heque66i1c) sharing a first day checklist \(below\) and information about laptop setup, and gives an overview of New Hire’s first week.
-* \[ \] Meet with new staff to review required documentation \(e.g. [I-9 documents](https://www.uscis.gov/i-9)\).
+#### Month 1
 
-_First Week Checklist_
+* Learn how to [update the Handbook](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-update-handbook).
+* Attend the [CEO & New Staff feedback session](https://handbook.mattermost.com/contributors/onboarding#new-staff-feedback-session-with-ceo-and-hr).
+* Introduce yourself at [COM for Week 2 Welcomes](https://handbook.mattermost.com/operations/operations/company-cadence#during-meeting). This is optional. If you prefer to not speak at COM, your Manager can introduce you instead.
+* Attend a cross-functional team meeting - at least once.
+* Meet with internal key partners, as identified by your Manager.
+* Get Social - join the [Social Channel](https://community.mattermost.com/private-core/channels/social) and view other [Social Channels](https://docs.google.com/spreadsheets/d/14h7k2LTFyGQx7TTZqlabMpCSQMVZHBXOyQxyZiZcfYo/edit#gid=0).
+* Participate in [Coffee Chats](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/workplace-program#coffee-time).
+* Learn [Mattermost Terms](https://handbook.mattermost.com/company/about-mattermost/list-of-terms) and [Mindsets](https://handbook.mattermost.com/company/about-mattermost/mindsets). Reach out to your Manager, Onboarding Buddy, or [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) if you're unsure how to use a term or need more explanation.
+* Review Company [AORs](https://handbook.mattermost.com/operations/operations/areas-of-responsibility). Managers will also review individual AORs with direct reports during their first month.
 
-#### Instructions
+#### Month 2
 
-1. Please copy each item and add an - to the left of the bracket and an x inside of the bracket you complete the item \(e.g. - \[x\]\).
-2. **Please reply to this message \(hover over any message to reveal the reply button\) with the items you’ve completed**.
+* Check out the [Mattermost Blog](https://mattermost.com/blog/). If you're interested in submitting a blog, reach out to the [Marketing channel](https://community.mattermost.com/private-core/channels/marketing-website-priv) for more information.
+* Update the Handbook. This can be an update on existing documentation or a new subject or page. Documentation is vital for asynchronous communication. All Staff should feel empowered and encouraged to iterate and update as needed.
+* Blindspot Check - review [how-to guides](https://handbook.mattermost.com/company/how-to-guides-for-staff).
 
-##### Day 1
+#### Month 3
 
-\[ \] Share your bio with your manager. This will be posted in the [Welcome channel](https://community.mattermost.com/private-core/channels/welcome) in the private Staff team by your manager with the hashtag **\#newcolleague**.
-
-\[ \] Accept the invitation to your OneLogin account and switch your Mattermost account to use OneLogin from **Account Settings > Security > Sign-in Method > Switch to SAML**. Instructions are found [here](https://docs.google.com/presentation/d/1FsfSr6qgtjY4aCo_UoL7FSChwvX3iLXuCFKJYselxBo/edit#slide=id.p4). 
-- **Note:** You’ll find other apps, like LastPass and Zoom, there too.
-
-\[ \] Download the Mattermost Desktop App [here](https://mattermost.com/download/#mattermostApps) and log in to [https://community.mattermost.com](https://community.mattermost.com).
-
-\[ \] Download the [Mattermost Mobile App](https://mattermost.com/download/#mattermostApps) on your smartphone and log in to [https://community.mattermost.com](https://community.mattermost.com) using your OneLogin account.
-
-\[ \] Join the channels listed [here](https://docs.mattermost.com/process/training.html\#channels) to get a feel for the company and to see how we communicate.
-
-\[ \] Explore your Mattermost account settings, making note of your notification settings.
-- **Tip:** While you’re learning to use Mattermost, set your messages to send on CTRL+ENTER, so that using ENTER will insert a new line and not send the message immediately.
-
-\[ \] Learn how to format your messages using Markdown by reviewing [this guide](https://community.mattermost.com/help/messaging).
-
-\[ \] Take Mattermost’s end user training [here](https://academy.mattermost.com/p/end-user-onboarding). Feel free to share any feedback with your manager.
-
-\[ \] Register your laptop and any other Mattermost-issued equipment [here](https://forms.gle/yBkZo36hzzo8dsbKA).
-
-\[ \] Set up your email signature. [Here’s how](https://docs.google.com/document/d/1KNfyWl40S6LcpZ4lk7ntiBeB0HBiQKAHuCAPFW1J0Zo/edit).
-
-\[ \] Activate your Office365 account and download it to your computer. Instructions [here](https://support.office.com/en-us/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658?ui=en-US&rs=en-US&ad=US\#InstallSteps=Install\_on\_a\_Mac).
-
-##### Days 2-5
-
-\[ \] Share your GitHub username with @lynn.conway. You can, and are encouraged, to use your personal GitHub account. You may also create a GitHub account with your @mattermost email instead.
-
-\[ \] Connect GitHub and Mattermost via the instructions [here](https://community.mattermost.com/core/pl/i4k6eke5t38gxxwrjtpeegbhwr).
-
-\[ \] Join GitLab with your @mattermost email and contact @hanna.park to be added to the Mattermost group.
-
-\[ \] Read about the [Customer Obsession All Hands Meeting (COM)](https://community.mattermost.com/private-core/channels/cust-obs-meeting]), [here](https://docs.mattermost.com/process/training.html\#customer-obsession-all-hands-meeting).
-
-\[ \] Read about the [R&D Meeting](https://community.mattermost.com/private-core/channels/platform-meeting) and let us know if you’d be open to doing an [icebreaker](https://docs.mattermost.com/process/training.html\#ice-breaker) in a future meeting.
-
-\[ \] Review our data privacy policy [here](https://docs.google.com/document/d/1Z7kcPAGBt9WARpxsvklrdHcX4W9qc1Qvucwx0YhUIV4/edit).
-
-\[ \] Review our [Code Contribution Guidelines](https://mattermost.com/contribute) to learn how to contribute to Mattermost to receive a personalized Mattermug.
-
-\[ \] Add your mailing address, profile photo, and emergency contact information to BambooHR. You can also view the company [org chart](https://mattermost.bamboohr.com/employees/orgchart.php) there. 
-- **Note**: If you do not have access to BambooHR, please message @natalie.jew.
-
-##### Week 2
-
-* \[ \] Ask new staff to review the last three recordings of the [Customer Obsession All Hands Meeting](https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting) and confirm whether they will present their own intro in that week’s meeting, or if they’d like their manager to introduce them. Share decision with [Meeting Chair](https://docs.mattermost.com/process/training.html#customer-obsession-all-hands-meeting).
-* \[ \] Schedule CEO welcome meeting \(Tuesdays at 8:30am or Fridays at 8am Palo Alto time\) and invite new staff member. Double-check new staff member has completed the [end user training module](https://academy.mattermost.com/p/end-user-onboarding).
-* \[ \] Send new staff \(and manager\) a [group message](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.tlsyeisvmbc1) answering Frequently Asked Questions and sharing Mattermost’s [User’s Guide](https://docs.mattermost.com/guides/user.html#getting-started).
-
-##### Week 3
-
-* \[ \] Send new staff \(and manager\) a [group message](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=kix.toi80hx08jzs) sharing the [org chart](https://mattermost.bamboohr.com/employees/orgchart.php) and [staff email list](https://docs.google.com/spreadsheets/d/1NQE0fkZgavMTrSSB1aPWg5hGRL182S6AGsa4ts4pWZ4/edit#gid=649832066) and describing how to view other staff members’ calendars to book meetings.
-
-##### Week 4
-
-* \[ \] Send new staff \(and manager\) an [email](https://docs.google.com/document/d/1TX2pnJebl7Mi2-R5u3R6PsjX8YOMS54xcI0KJhh9_xI/edit#bookmark=id.reex8djwhwfa) inviting new staff to create their [Mattermost avatar](https://docs.mattermost.com/process/training.html#mattermost-avatar).
-
-## Manager Responsibilities
-
-### First Day
-
-* \[ \] Post new staff member’s bio to the [Welcome channel](https://community.mattermost.com/private-core/channels/welcome) using the hashtag **\#newcolleague**.
-* \[ \] Add new staff to relevant aliases \(e.g. [sales@mattermost.com](mailto:sales@mattermost.com)).
-- **Note:** If you do not have manager access to the alias\(es\), please contact the [People team](mailto:people@mattermost.com).
+* Complete your [New Staff Self Assessment](https://handbook.mattermost.com/contributors/onboarding#new-colleague-feedback).
+* Share Feedback on your Onboarding experience at Mattermost. The [People Team](https://handbook.mattermost.com/operations/workplace/people#team) appreciates all feedback on Mattermost Onboarding.
 
 ## [Departmental Onboarding Checklists and Information](https://handbook.mattermost.com/people/general-onboarding.html#contents)
 
