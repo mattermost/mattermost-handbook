@@ -138,7 +138,6 @@ Review the [Release Features & Bug Guidelines](https://docs.google.com/document/
 2. Release Manager:
     - Post this checklist in Release Checklist channel
     - Verify all items in the last posted release checklist are complete
-    - Verify that the final translations PR for the release is submitted
     - Update https://docs.mattermost.com/administration/open-source-components.html
     - Confirm Changelog reflects any changes since it was merged (including known issues and contributors from all repositories)
       - Verify that translators were added
@@ -161,6 +160,8 @@ Day after which only **S1 regressions** should be fixed (crashes, security vulne
 2. Release Manager:
     - Post this checklist in Release Checklist channel
     - Verify all items in the last posted release checklist are complete
+    - Verify that the final translations PR for the release is submitted
+    - Update **Known Issues** section with any significant issues that were found and not fixed for the final release
 3. QA:
     - Verify all Jira tickets other than newly-filed bugs have been tested, verified, and closed
     - As bug fixes are merged and RCs are cut, verify fixes on new RCs, and post in Release Channel after testing
