@@ -53,6 +53,6 @@ Finally, add a link to the documentation, forum post, or repository as appropria
 
 Product Managers are also responsible for drafting the tweets that correspond to your features.
 
-Each tweet should start with **Mattermost Release vx.xx now…** or **Mattermost mobile app release vx.xx now…** and should describe the action the new feature allows them to do. This should be very similar to the headline written in the release announcement. Tweets should include the relevant hashtags: #mm524m, #opensource,. #sre, #devops, #mattermost (where #mm524 is the release number).
+Each tweet should start with **Mattermost Release vx.xx now…** or **Mattermost mobile app release vx.xx now…** and should describe the action the new feature allows them to do. This should be very similar to the headline written in the release announcement. Tweets should include the relevant hashtags: #mm524m, #opensource, #sre, #devops, #mattermost (where #mm524 is the release number).
 
 Example Tweet: **Mattermost Release v5.24 now lets you view and manage your team or channel members from the System Console. #mm524 #opensource #sre #devops #mattermost**
