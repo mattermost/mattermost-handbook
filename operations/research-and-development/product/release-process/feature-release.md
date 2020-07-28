@@ -54,13 +54,12 @@ No pull requests for major features should be **merged** to the current release 
     - Cut release branch both for server and mobile
         - Merge database upgrade before cutting the branch
         - Point translation server and CI servers to the release branch after cutting
-        - Cut an RN build for the next release
         - Update https://prev.test.mattermost.com to the previous release version
     - Ensure `community-release` is on the feature branch
     - Prioritize reviewing, updating, and merging of pull requests for current release until there are no more tickets in the [pull request queue](https://github.com/mattermost/mattermost-server/pulls) marked for the current release
       - After the cut-off, any PRs that include significant code changes require approval of the Release Manager before merging
 4. Marketing:
-    - Prepare bullet points and release headline for release announcement. Release Manager to review the outline (benefits and order of major features) with PMs before sending to Justin to work on. [Refer to the process here](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements)
+    - Prepare bullet points and release headline for release announcement and share for PMs to work on. [Refer to the process here](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements)
     
 ### D. (T-minus 19 working days) Feature Testing
 
@@ -85,7 +84,7 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Confirm date of marketing announcement for the release date with Marketing, and update Release Channel header if needed
       - If release day falls on a Friday, the blog post goes out on the Friday and the emailed newsletter goes out the following Tuesday
     - Post a reminder to devs in the Release Discussion channel of the the code complete date with the list of open and submitted bugs and PRs [see example](https://community.mattermost.com/core/pl/coggyys9atg7fqyam81q3gkmoo)
-    - Ask PMs to review the Jira tickets remaining in the current release fix version and push those that won't make it to the next fix version
+    - Review the Jira tickets remaining in the current release fix version and push those that won't make it to the next fix version
     - Ask PMs and Tech writer to complete release documentation by T-2 deadline. [Example request](https://community.mattermost.com/core/pl/w4oobh4zpigsfbqskx5ix5jgxo)
     - Finalize [release summary slide deck](https://docs.google.com/presentation/d/1HndB1oe8-JabPseP3H-4wZtP0SqOU0IKjQpMoqfnSo0/edit#slide=id.p2) to prepare for posting for MTL and CSMs
 3. Leads:
@@ -115,7 +114,7 @@ Day when Leads and PMs decide which major features are included in the release, 
 1. Release Manager:
     - Post this checklist in Release Checklist channel
     - Verify all items in the last posted release checklist are complete
-    - Cut next Release Candidate [using this process](https://github.com/mattermost/internal-docs/blob/63dcb6d0ff5d20ab9310466065dc15799b12708c/site/content/infra/release-tasks.md) and check CI servers running on release branch
+    - Cut a Release Candidate [using this process](https://github.com/mattermost/internal-docs/blob/63dcb6d0ff5d20ab9310466065dc15799b12708c/site/content/infra/release-tasks.md) and check CI servers running on release branch
     - Generate a list of contributors for Changelog
 2. Logistics @hanna.park:
     - Mail out contributor and security researcher mugs
@@ -166,7 +165,6 @@ Day when Leads and PMs decide which major features are included in the release, 
 6. Marketing:
     - Finish draft of blog post for mattermost.com and all art work (screenshots, GIFs, and Twitter banners) used for the blog post
         - Upgrade should be recommended if there are security fixes in this version, with a note thanking the security researcher
-    - Send blog post for Release Manager and PMs to review
 
 ### I. (T-minus 7 working days) Release Candidate Testing Finished
 
@@ -179,13 +177,10 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Check that all features are behind a feature flag
     - Confirm all config settings and new features have diagnostics
     - Confirm Changelog reflects any changes since it was merged (including known issues and contributors from all repositories)
-      - Confirm translators and new integrations contributors have been added
+      - Confirm translators have been added
       - Confirm Open Source Components changes have been added
-    - Ask UX to [create a "Hero" screenshot as the splash image for the release blog post](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements#one-great-screenshot-a-month)
-3. Marketing:
-    - Send blog post for mattermost.com and all related art work for marketing lead to review
     - Find [www-gitlab-com merge request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=blog%20post&label_name%5B%5D=release) for latest GitLab release blog post and make request for adding GitLab Mattermost update (see [example request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/2910#note_14096885), [example update](https://about.gitlab.com/2016/07/22/gitlab-8-10-released/#gitlab-mattermost-32)). Post to Release Discussion channel with link to request.
-4. QA:
+3. QA:
     - Midday: Post reminders about testing, at-mentioning team members whose tests are not yet complete
     - Find QA or other teammates to help finish unfinished tests if needed
     - End of day or next morning: Verify all release tests are finished, bring any concerns to Triage / Release meeting
