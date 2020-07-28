@@ -18,7 +18,6 @@ Pre-work for the current release begins at the code complete date of the previou
 2. Release Manager:
     - Post this checklist in Release Checklist channel
     - Schedule a meeting with PMs and QAs to discuss upcoming features in the next feature release
-        - Also review with PMs any Help Wanted campaigns QAs should be aware of
     - After release branches are cut:
         - Go through and add "Cherry-pick Approved" labels to all release PRs and ask devs to cherry-pick already merged PRs
         - Ask dev to cut an RN build for QA testing
@@ -53,13 +52,11 @@ Pre-work for the current release begins at the code complete date of the previou
     - Post a reminder to devs in the Release Discussion channel of the the code complete date with a list of open bugs and PRs [see example](https://community.mattermost.com/core/pl/coggyys9atg7fqyam81q3gkmoo)
     - Ask PMs and dev leads if there are any notable breaking changes or deprecated features in the release
     - Update [Upgrade Guide](https://docs.mattermost.com/administration/important-upgrade-notes.html) with any special notes for upgrading to the new version
-    - Ask PMs to review the Jira tickets remaining in the current release fix version and push those that won't make it to the next fix version
+    - Review the Jira tickets remaining in the current release fix version and push those that won't make it to the next fix version
     - Ask PMs and Tech writer to complete release documentation by T-2 deadline. [Example request](https://community.mattermost.com/core/pl/w4oobh4zpigsfbqskx5ix5jgxo)
+    - Prepare bullet points and release headline for release announcement. Share for to work on. [Refer to the process here](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements)
 3. Leads:
     - Finalize roadmap for next release, and identify planned marketing bullet points
-4. Marketing:
-    - Prepare bullet points and release headline for release announcement. Release Manager to review the outline (benefits and order of major features) with PMs before sending to Justin to work on. [Refer to the process here](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements)
-    - Start drafting blog post, tweet, and email for the release announcement
     
 ### E. (T-minus 12 working days) Code Complete
 
@@ -72,7 +69,6 @@ Review the [Release Features & Bug Guidelines](https://docs.google.com/document/
     - Verify all items in the last posted release checklist are complete
     - Submit `NOTICE.txt` PRs for any new libraries added from dev, and ensure they are cherry-picked to quality release branch
     - If there are any breaking compatibility changes in the release, open an issue in the [GitLab Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab) to make sure GitLab is aware. Post a link to the issue in the Release Discussion channel
-    - Ask UX to [create a "Hero" screenshot as the splash image for the release blog post](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements#one-great-screenshot-a-month)
     - Start drafting [a release summary slide deck](https://docs.google.com/presentation/d/1HndB1oe8-JabPseP3H-4wZtP0SqOU0IKjQpMoqfnSo0/edit#slide=id.p2) for MTL and CSMs for the next release
 3. Dev:
     - Prioritize reviewing, updating, and merging of pull requests for current release until there are no more tickets in the pull request queue marked for the current release
@@ -131,10 +127,9 @@ Review the [Release Features & Bug Guidelines](https://docs.google.com/document/
     - Make PRs for bug fixes to the release branch
     - Review PRs made from release branch and cherry-pick changes into the release branch
     - Run daily automated upgrade tests to avoid catching upgrade bugs late
-6. Marketing:
+6. PMs:
     - Finish draft of blog post for mattermost.com and all art work (screenshots and GIFs) used for the blog post
         - Upgrade should be recommended if there are security fixes in this version, with a note thanking the security researcher
-    - Send blog post for Release Manager and PMs to review
 
 ### H. (T-minus 9 working days) Release Candidate Testing Finished
 
@@ -147,12 +142,10 @@ Review the [Release Features & Bug Guidelines](https://docs.google.com/document/
     - Verify that the final translations PR for the release is submitted
     - Update https://docs.mattermost.com/administration/open-source-components.html
     - Confirm Changelog reflects any changes since it was merged (including known issues and contributors from all repositories)
-      - Verify that translators and new integration contributors were added
+      - Verify that translators were added
       - Verify that Open Source Components changes were added
       - Update **Known Issues** section with any significant issues that were found and not fixed for the final release
     - Find [www-gitlab-com merge request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=blog%20post&label_name%5B%5D=release) for latest GitLab release blog post and make request for adding GitLab Mattermost update (see [example request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/2910#note_14096885), [example update](https://about.gitlab.com/2016/07/22/gitlab-8-10-released/#gitlab-mattermost-32)). Post to Release Discussion channel with link to request.
-3. Marketing:
-    - Send blog post for mattermost.com and all related art work for marketing lead to review
 4. QA:
     - Midday: Post reminders about testing, at-mentioning team members whose tests are not yet complete
     - Find QA or other teammates to help finish unfinished tests if needed
