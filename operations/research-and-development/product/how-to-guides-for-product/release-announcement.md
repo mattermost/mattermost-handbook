@@ -4,7 +4,7 @@ This document outlines how to write a release announcement and release tweets fo
 
 Each Product Manager is responsible for writing a release announcement for every feature, integration, or announcement they want included in the release newsletter.
 
-[Here is an example of a previous completed release announcement](https://docs.google.com/document/d/1BqgLFqvpYJFm6TfrqkCUyYIs666BL1nawpgw6a4CpGA/edit?usp=sharing).
+[Here is an example of a previously completed release announcement](https://docs.google.com/document/d/1BqgLFqvpYJFm6TfrqkCUyYIs666BL1nawpgw6a4CpGA/edit?usp=sharing).
 
 ## Overview
 
