@@ -15,17 +15,13 @@ description: 50% Draft
 
 ### A. \(T-minus 20 working days\) Blog Post Outline
 
-* Release Manager prepares bullet points and release headline for release announcement
-* Release Manager reviews the outline \(benefits and order of features\) with PMs
-  * Ask PMs to share specs or other details on why the features we are shipping were built, so that it is easier to identify which feature should be the main highlight
+* Release Manager prepares bullet points for release announcement and shares with PMs
   * Do not include plugins that haven't been added to the Plugin Marketplace by code complete deadline to avoid cutting those plugins from the blog post draft in the last minute if any development issues arise
-* PMs decide which sections of the release announcement will have an accompanying screenshot/photo
+* PMs start to draft the blog post and decide which sections of the release announcement will have an accompanying screenshot
 
 ### B. \(T-minus 11 working days\) First Draft
 
 * PMs finish the blog post draft by writing a section for each feature
-* Release manager checks that the guidelines in the Checklist for Review of Draft are met
-  * Ask: how would you rate the title? How can we make it 1 score better? Use this method for other parts of the blog draft, inlcuding screenshots
 
 ### C. \(T-minus 10 working days\) Head of PM, CPO and MLT Reviews
 
@@ -33,6 +29,7 @@ description: 50% Draft
 
 ### F. \(T-minus 2 working days\) Set Up Blog Post in Wordpress
 
+* Release manager checks that the guidelines in the Checklist for Review of Draft are met
 * Marketing (Justin) sets up the blog post in Wordpress and asks Release Manager to review
 * Marketing (Justin) ensures that the blog post is mobile-friendly by testing it on smartphone and tablet platforms
 
@@ -54,7 +51,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    2. If the feature is a filler for a release, be vague and add it at the end of the blog post, e.g. "Performance improvements to mobile" **\(please avoid when possible\)**
    3. Experimental and Beta features should be at the bottom of the list
    4. Lead with verbs \(e.g. "Find most recent messages faster"\)
-   5. Categorize features under **Enterprise Edition** and **Team Edition** headings
+   5. Categorize features under **Enterprise Edition** and **Enterprise and Team Edition** headings
    6. Clarify type of release \(feature or quality\) in the intro paragraph
 3. **Body**
    1. Promote E10 and E20 features by adding `E10 Edition` and `E20 Edition` labels throughout the blog post for relevant features
