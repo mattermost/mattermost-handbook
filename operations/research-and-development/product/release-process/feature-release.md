@@ -72,7 +72,6 @@ No pull requests for major features should be **merged** to the current release 
 Day when Leads and PMs decide which major features are included in the release, and which are postponed.
 
 1. **(Team) Judgment Day Meeting (10:00am San Francisco time)**: 
-    - Discuss worst bug on the feature branch
     - Finalize which major features will be in or out for the release
         - Discuss reverting feature(s) if five or more bugs found
 2. Release Manager:
