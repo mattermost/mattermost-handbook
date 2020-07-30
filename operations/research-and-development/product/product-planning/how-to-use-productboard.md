@@ -174,7 +174,7 @@ Notes from customer calls should be filed in [Salesforce](https://docs.google.co
 Important points about notes:
 
 * Notes are specific to a customer/prospect.
-* Notes can include multiple requests (Product Managerss can apply multiple elements from the note to different features if necessary).
+* Notes can include multiple requests (Product Managers can apply multiple elements from the note to different features if necessary).
 * If you're not sure if the request or feedback should apply to an existing feature, you can simply capture the feedback as a note, assign it to the Product Manager overseeing that area, or leave it unassigned.
 
 When filing a note in productboard: 
