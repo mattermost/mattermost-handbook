@@ -15,27 +15,21 @@ description: 50% Draft
 
 ### A. \(T-minus 20 working days\) Blog Post Outline
 
-* Release Manager prepares bullet points and release headline for release announcement
-* Release Manager reviews the outline \(benefits and order of features\) with PMs
-  * Ask PMs to share specs or other details on why the features we are shipping were built, so that it is easier to identify which feature should be the main highlight
+* Release Manager prepares bullet points for release announcement and shares with PMs
   * Do not include plugins that haven't been added to the Plugin Marketplace by code complete deadline to avoid cutting those plugins from the blog post draft in the last minute if any development issues arise
-* Release Manager and PMs decide which sections of the release announcement will have an accompanying screenshot/photo
-* Release Manager leads PMs to arrive at a decision on the theme / main highlight for the blog post
-  * Take into consideration whether a feature is highly requested, what is the overall impact of all marketed features, and whether a feature is at risk of being cut
+* PMs start to draft the blog post and decide which sections of the release announcement will have an accompanying screenshot
 
 ### B. \(T-minus 11 working days\) First Draft
 
 * PMs finish the blog post draft by writing a section for each feature
-* Release manager checks that the guidelines in the Checklist for Review of Draft are met
-  * Ask: how would you rate the title? How can we make it 1 score better? Use this method for other parts of the blog draft, inlcuding screenshots
 
-### C. \(T-minus 10 working days\) Head of PM, Sales and Marketing Reviews
+### C. \(T-minus 10 working days\) Head of PM, CPO and MLT Reviews
 
-* Head of PM starts to review the title, intro and content
-* Sales and Marketing also review the blog draft
+* Head of PM, CPO, and MLT review the title, intro, and content
 
 ### F. \(T-minus 2 working days\) Set Up Blog Post in Wordpress
 
+* Release manager checks that the guidelines in the Checklist for Review of Draft are met
 * Marketing (Justin) sets up the blog post in Wordpress and asks Release Manager to review
 * Marketing (Justin) ensures that the blog post is mobile-friendly by testing it on smartphone and tablet platforms
 
@@ -57,7 +51,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    2. If the feature is a filler for a release, be vague and add it at the end of the blog post, e.g. "Performance improvements to mobile" **\(please avoid when possible\)**
    3. Experimental and Beta features should be at the bottom of the list
    4. Lead with verbs \(e.g. "Find most recent messages faster"\)
-   5. Categorize features under **Enterprise Edition** and **Team Edition** headings
+   5. Categorize features under **Enterprise Edition** and **Enterprise and Team Edition** headings
    6. Clarify type of release \(feature or quality\) in the intro paragraph
 3. **Body**
    1. Promote E10 and E20 features by adding `E10 Edition` and `E20 Edition` labels throughout the blog post for relevant features
@@ -74,7 +68,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
       1. Names should not be red-underlined \(if they are, add them to the dictionary prior to taking a screenshot\)
       2. Screenshot not surrounded by a border
       3. Below the screenshot, include a text version of their names in small font with a link to their GitHub handle
-   4. **\(Marketing owns\)** Draft Tweet text for all screenshots and MVP winner included in a separate page
+   4. **\(PMs own\)** Draft Tweet text for all screenshots and MVP winner included in a separate page
       1. Contains version hashtag, e.g. \#mm520
 5. **Screenshots**
    1. [Follows screenshot guidelines](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-screenshots-and-gifs)
@@ -106,40 +100,3 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 6. Say "You" instead of "Users" to talk directly to the reader
 7. Say  "AD/LDAP" instead of just "AD" or just "LDAP"
 8. "System Console" and "System Admin" should be capitalized
-
-## Scoring Guidelines
-
-<table>
-<colgroup>
-<col style="width: 46%" />
-<col style="width: 53%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Rating of clarity from 1 to 10</th>
-<th>Product</th>
-<th>Marketing</th>
-<th>System Admin representative</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Title is clear and compelling to a System Admin. Focuses on the System Admin deciding whether to upgrade or buy E20 to empower end users.</p>
-<p>1 - System Admin doesn’t understand what is in the release and the title does not focus on the System Admin deciding whether to upgrade or buy E20 to empower end users.</p>
-<p>5 - System Admin understands what is in the release, but may misinterpret things. The title somewhat focuses on the System Admin deciding whether to upgrade or buy E20 to empower end users.</p>
-<p>10 - System Admin clearly understands what is in the release in the fewest possible words, and is excited about the upgrade. The title focuses on the System Admin deciding whether to upgrade or buy E20 to empower end users.</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Intro paragraph and bullet points are clear. They tell a System Admin all they need to know with compelling, concise, and specific descriptions.</p>
-<p>1 - System Admin finds intro paragraph and bullet points confusing or inaccurate.</p>
-<p>5 - System Admin has a basic understanding of the release, but finds at least one thing confusing.</p>
-<p>10 - Intro paragraph and bullet points introduce features with compelling, concise and specific descriptions.</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
