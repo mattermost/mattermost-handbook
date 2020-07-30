@@ -25,7 +25,7 @@ description: 50% Draft
 
 ### C. \(T-minus 10 working days\) Head of PM, CPO and MLT Reviews
 
-* Head of PM, CPO and MLT review the title, intro and content
+* Head of PM, CPO, and MLT review the title, intro, and content
 
 ### F. \(T-minus 2 working days\) Set Up Blog Post in Wordpress
 
