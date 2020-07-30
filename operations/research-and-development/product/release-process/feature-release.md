@@ -28,6 +28,7 @@ No pull requests for major features should be **submitted** to the current relea
     - Follow that feature PR reviews are prioritized and post a list of outstanding feature PRs in the [Release Discussion](https://community.mattermost.com/core/channels/release-discussion) channel
     - Confirm with PMs that each Enterprise feature is in the correct [pricing SKU](https://about.mattermost.com/pricing/)
     - Review any features that are currently in beta and confirm with PMs if there are any to be promoted
+    - Confirm with PMs that all features are behind a feature flag and that all config settings and new features have diagnostics
 
 ### C. (T-minus 20 working days) Feature Complete
 
@@ -41,8 +42,6 @@ No pull requests for major features should be **merged** to the current release 
     - Post this checklist in the [Release Checklist](https://community.mattermost.com/core/channels/release-checklist) channel
     - Verify all items in the last posted release checklist are complete
     - After release branches are cut, ask dev to cut an RN build
-    - Check that all features are behind a feature flag
-    - Confirm all config settings and new features have diagnostics
     - Queue a list of MVP candidates in alphabetical order to the MVP Discussion channel [See example](https://community.mattermost.com/core/pl/3its7ifbw7dh58obpasdszf1mr)
     - Draft Changelog in a WIP PR with updates for highlights, feature additions, known issues, compatibility updates for deprecated features, config.json, [database changes](https://github.com/mattermost/mattermost-server/blob/master/store/sqlstore/upgrade.go), [API changes](https://github.com/mattermost/mattermost-server/commits/master/model/client.go), and [WebSocket event changes](https://github.com/mattermost/mattermost-server/blob/master/model/websocket_message.go#L13); [see example](http://docs.mattermost.com/administration/changelog.html#compatibility)
       - Note the type of release and add a link to release doc that defines the type (https://docs.mattermost.com/administration/release-definitions.html)
