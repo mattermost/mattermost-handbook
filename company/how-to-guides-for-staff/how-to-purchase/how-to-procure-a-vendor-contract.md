@@ -10,7 +10,7 @@ As the Company grows there are legal matters, costs, and overall visibility into
 
 ### Who is impacted?
 
-All Mattermost Staff Members, including our CEO, who are spending money or signing Mattermost up to T&Cs should follow this process.
+All Mattermost staff members, including our CEO, who are spending money or signing Mattermost up to T&Cs should follow this process.
 
 ## Procuring a vendor
 
@@ -60,37 +60,13 @@ If you did not provide a contract in the [Purchase Order Form](https://docs.goog
 
 All contracts are to address either Ian Tien \(CEO\) or Aneal Vallurupalli \(VP Finance\), and should include the following relevant information:
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>Type</b>
-      </th>
-      <th style="text-align:left">Information</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><b>Contract Signer</b>
-      </td>
-      <td style="text-align:left">
-        <p>See Authorization Matrix</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Address</b>
-      </td>
-      <td style="text-align:left">
-        <p>530 Lytton Avenue, Second floor,</p>
-        <p>Palo Alto, CA, 94301, USA</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Office Phone Number*</b>
-      </td>
-      <td style="text-align:left">(650) 667-8512</td>
-    </tr>
-  </tbody>
-</table> \* Ian Tien or Aneal Vallurupalli’s personal phone number should not be used
+| Type            | Information |
+| ----------------|-------------|
+| Contract Signer | See Authorization Matrix |
+| Address         | 530 Lytton Avenue, Second floor Palo Alto, CA, 94301, USA |
+| Office Phone Number* | (650) 667-8512 |
+
+* Ian Tien or Aneal Vallurupalli’s personal phone number should not be used
 
 #### Is your contract an [MTA](https://handbook.mattermost.com/operations/finance/risk-management#mattermost-templated-agreement)?
 
