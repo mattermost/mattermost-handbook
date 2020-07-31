@@ -217,15 +217,14 @@ To identify, rank, and resolve customer pain points. Priority is based on custom
 
 #### Identify
 
-- Monitor support tickets and get regular feedback from Support Engineers through the Support channel
-- Ensure information flow with Solution Architects and Customer Success Managers (e.g. by receiving a regular report)
-- Use existing communication structures between Customer Support and Customer Success to avoid overhead
+* Monitor support tickets and get regular feedback from Support Engineers through the Support channel
+* Ensure information flow with Solution Architects and Customer Success Managers (e.g. by receiving a regular report)
+* Use existing communication structures between Customer Support and Customer Success to avoid overhead
 
 #### Ranking
 
-- Use existing metrics (e.g. priority and customer revenue) from the ticket system to rank identified issues
-- Compare Customer Support time put into issues to generated revenue for high impact
-
+* Use existing metrics (e.g. priority and customer revenue) from the ticket system to rank identified issues
+* Compare Customer Support time put into issues to generated revenue for high impact
 
 ## Community Documentation Involvement
 
