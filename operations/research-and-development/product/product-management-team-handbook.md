@@ -217,7 +217,7 @@ Activities:
       * Meet with Sven for Zendesk training and support overview
       * Join support standups for a week or two, and help out on support tickets
     * Community: GitHub, Forums \(Amy\)
-  * Customer success \(Meet with a CSM - Emily Hollinger, Stu Doherty, Rosie Lane\)
+  * Customer success \(Meet with a CSM - Jennifer Lawler, Jeff Johnson, Sasa Cosic, Rosie Lane\)
     * Overview of Customer Success team, who owns what
     * Current Customer Success processes
     * Typical challenges during customer onboarding
