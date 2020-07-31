@@ -256,7 +256,7 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
             - [Submit GitLab Omnibus RC install of Mattermost](https://mattermost.atlassian.net/browse/MM-9872)
         - The week before code complete:
             - [Add telemetry for new configuration settings in the release](https://mattermost.atlassian.net/browse/MM-24483)
-         - The week before code complete:
+         - The week before code complete (one for Apps and for Mobile):
             - If an existing ESR is going out of support next month, update the in-app prompts (mobile and desktop) to start detecting for the new minimum supported ESR version
             - If a new ESR is released next month, update the prompts to recommend upgrading to that version instead of the older ESR
     - Confirm that [mattermost-docker](https://github.com/mattermost/mattermost-docker/releases) has been updated to the latest version (contact the maintainer via direct message on community server if necessary)
