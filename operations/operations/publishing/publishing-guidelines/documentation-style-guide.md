@@ -102,7 +102,7 @@ Throughout Mattermost, you’ll see the below words, terms are mentioned and use
 | Web app | Used to refer to | <ul><li> E.g Web app </li></ul> |
 | Mobile app | Used to refer to | <ul><li> E.g Mobile app </li></ul> |
 | Desktop app | Used to refer to | <ul><li> E.g Your Mattermost  </li></ul> |
-| Public channel | Used to refer to channels available to all members to discover and join. Don’t hyphenate and use lowercase for ``channel`` | <ul><li> E.g Users can remove themselves from teams and private channels managed by synchronized groups </li></ul> |
+| Public channel | Used to refer to channels available to all members to discover and join. Don’t hyphenate and use lowercase for ``channel`` | <ul><li> E.g Outgoing webhooks are supported in public channels only </li></ul> |
 | Private channel | Used to refer to channels  managed by synchronized groups. Don’t hyphenate and use lowercase for ``channel`` | <ul><li> E.g Users can remove themselves from teams and private channels managed by synchronized groups </li></ul> |
 | Direct message | Direct messages are for conversations between two people. Visible only to the people involved. Don’t hyphenate and use lowercase for ``message`` | <ul><li> E.g Full names appear in the direct messages member list and team management modal </li></ul> |
 | Group message | Group Messages are Direct Messages that have conversations among three or more people. Visible only to the people involved | <ul><li> E.g Grouo Messages </li></ul> |
