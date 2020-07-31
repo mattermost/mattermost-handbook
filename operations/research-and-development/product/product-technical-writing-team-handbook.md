@@ -209,6 +209,24 @@ Editorial feedback is based on the guidelines laid out in the [Documentation Sty
 
 The [Documentation Style Guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide) and [UI text guidelines](https://docs.mattermost.com/process/documentation-UItext-guidelines.html).
 
+### Customer Education Processes
+
+### Resolve gaps and painpoints among customers
+
+To identify, rank, and resolve customer pain points. Priority is based on customer impact, measured by an increase in enterprise 90-day onboarding NPS, and post-sales technical onboarding without R&D involvement.
+
+#### Identify
+
+- Monitor support tickets and get regular feedback from Support Engineers through the Support channel
+- Ensure information flow with Solution Architects and Customer Success Managers (e.g. by receiving a regular report)
+- Use existing communication structures between Customer Support and Customer Success to avoid overhead
+
+#### Ranking
+
+- Use existing metrics (e.g. priority and customer revenue) from the ticket system to rank identified issues
+- Compare Customer Support time put into issues to generated revenue for high impact
+
+
 ## Community Documentation Involvement
 
 Every month the Mattermost community plans, builds, tests, documents, releases, and supports new product improvements for Team Edition to benefit the user community. The Mattermost Enterprise Team does the same for Enterprise Edition to benefit the subscriber community.
