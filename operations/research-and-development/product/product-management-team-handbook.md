@@ -304,7 +304,7 @@ Activities:
         * Add to release testing
         * [Release Testing assignment example](https://docs.google.com/spreadsheets/d/1gW7i8uF3jd5wuHd5mJ7UdBQsMFVZwHKMXE7WOtlDa0k/edit#gid=1130032476)
     * Release process \(Amy, Release Manager\)
-      * [Release process](https://docs.mattermost.com/guides/core.html#release-process)
+      * [Release process](https://handbook.mattermost.com/operations/research-and-development/product/release-process)
       * [Extended Support Release](https://docs.mattermost.com/administration/extended-support-release.html)
 * Shadow feature team meetings and conversations
   * Contribute where possible \(reviewing research and design specs, filing Jira ticket bugs\)
