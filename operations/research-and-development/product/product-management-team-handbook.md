@@ -39,7 +39,7 @@ Product Managers are responsible for carrying out the strategic priorities of th
 * * What fundamental philosophies are predominant?
   * Pragmatic Marketing: “Your opinion, although interesting, is irrelevant.”
     * It’s all about the customer/user/buyer’s opinion/want/need
-* FAQ \([https://handbook.mattermost.com/operations/research-and-development/product/product-management-team-handbook#frequently-asked-questions-faq)\)
+* FAQ \(https://handbook.mattermost.com/operations/research-and-development/product/product-management-team-handbook#frequently-asked-questions-faq)\
   * How do we make packaging decisions?
   * Prioritization framework
   * Tips on working with customers
