@@ -25,5 +25,6 @@ Sr. Order Administration Specialist: Kaelyn Wright (@kaelyn.wright)
 * Orders email: orders@mattermost.com
 
 ## Resources
-[Process Narrative](https://docs.google.com/document/d/1DucB1CJqKqucLTw_9eqsjm6Fo7mE0J1vtaYcP_2Q_as/edit)
-[Process Flow](https://app.lucidchart.com/invitations/accept/1d41688c-4d12-4966-930f-9c6b34b44bf7)
+
+* [Process Narrative](https://docs.google.com/document/d/1DucB1CJqKqucLTw_9eqsjm6Fo7mE0J1vtaYcP_2Q_as/edit)
+* [Process Flow](https://app.lucidchart.com/invitations/accept/1d41688c-4d12-4966-930f-9c6b34b44bf7)
