@@ -16,5 +16,4 @@ R&D includes engineering, QA, product management, and design \(UX, UI\)
 
 #### FY20 R&D VPMOM \(TBA\)
 
-New VPMOM to be added. VPMOM in need of update: [Irresistable Solution and Platform for High Trust Teams](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.2lyyszkcm50h):
-
+New VPMOM to be added. VPMOM in need of update: [Irresistable Solution and Platform for High Trust Teams](https://docs.google.com/document/d/1Y4pRZEjEop2D42P-Q899R8f4Pg0TJwUBltUFhq7TX_g/edit?ts=5bf740a1#heading=h.2lyyszkcm50h).
