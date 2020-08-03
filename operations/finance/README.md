@@ -4,7 +4,7 @@
 
 * Professional Services Procurement: [How to procure at Mattermost](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money)
 * E-sign Procedure \(Internal, TBA\)
-* Sales Organization: [Deal Desk](https://handbook.mattermost.com/operations/finance/deal-desk.md)
+* Sales Organization: [Deal Desk](https://handbook.mattermost.com/operations/finance/deal-desk)
 * Accounting: 
   - [Customer Invoicing - To Be Added]
   - [Customer Payments - To Be Added]
