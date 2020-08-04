@@ -13,8 +13,8 @@
   - [Vendor Payments](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/how-to-get-paid)
   - [Expense Reimbursements](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money)
   - [Submitting Expense Reimbursements](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify)
-* Legal and Compliance: [Archives](TBA)
-* Reporting: [Operating Metrics](TBA)
+* Legal and Compliance: Archives - TBA
+* Reporting: Operating Metrics - TBA
 * Planning, Budgeting, Forecasting: [V2MOM Process](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-v2mom)
 
 ## Fiscal Year
