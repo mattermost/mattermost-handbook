@@ -126,6 +126,7 @@
   * [Salesforce Administration](operations/business-operations/salesforce-administration.md)
 * [Finance](operations/finance/README.md)
   * [Naming Files and Agreements](operations/finance/naming-files-and-agreements.md)
+  * [Deal Desk](operations/finance/deal-desk.md)
   * [Procurement](operations/finance/procurement.md)
   * [Risk Management in Agreements](operations/finance/risk-management/README.md)
     * [Mattermost U.S. Consulting Agreements](operations/finance/risk-management/mattermost-templated-agreements.md)
