@@ -4,7 +4,7 @@
 
 * Professional Services Procurement: [How to procure at Mattermost](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money)
 * E-sign Procedure \(Internal, TBA\)
-* Sales Organization: [Deal Desk](https://handbook.mattermost.com/operations/finance/deal-desk)
+* Sales Organization: [Deal Desk](/operations/finance/deal-desk)
 * Accounting: 
   - [Customer Invoicing - To Be Added]
   - [Customer Payments - To Be Added]
@@ -15,7 +15,7 @@
   - [Submitting Expense Reimbursements](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify)
 * Legal and Compliance: [Archives](http://handbook.mattermost.com/bizops/archives.html)
 * Reporting: [Operating Metrics](http://handbook.mattermost.com/bizops/operating-metrics.html)
-* Planning, Budgeting, Forecasting: [VPMOM Process](http://handbook.mattermost.com/leadership/VPMOM.html)
+* Planning, Budgeting, Forecasting: [V2MOM Process](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-v2mom)
 
 ## Fiscal Year
 
