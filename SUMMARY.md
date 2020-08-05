@@ -89,8 +89,10 @@
      * [Confidentiality Guidelines](operations/operations/publishing/publishing-guidelines/confidentiality-guidelines.md)
      * [Post-Publication Quality Control Process](operations/operations/publishing/quality-control-process.md)   
    * [Brand and Visual Design Guide](operations/operations/publishing/publishing-guidelines/brand-and-visual-design-guidelines.md)
-     * [Marketing Content Guide]
+     * [Product Design Principles](TBA)
+     * [UX and UI Design System](TBA)     
      * [User Interface Text Guide](operations/research-and-development/product/user-interface-text-guidelines.md)
+     * [Marketing Content Guide]
    * [Writing Guide](TBA)
      * [Voice, Tone, and Writing Style Guide](operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines.md)
      * [Documentation Style Guide](operations/operations/publishing/publishing-guidelines/documentation-style-guide.md)     
