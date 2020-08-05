@@ -475,7 +475,7 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
 * Provide Roadmap status updates for Enterprise clients
 * Assist with Customer Support - Tier 2 on call weekly rotation
 * PMs should be on sales/customer calls often; if not on at least a couple per week then request to be added in the CSM:PM channel and Pre-sales channel
-  * Document and post feedback via the [Customer Feedback channel](https://community.mattermost.com/private-core/channels/customer-feedback)
+  * Document and post feedback in [Salesforce](https://handbook.mattermost.com/operations/customer-success#logging-a-customer-feedback-in-salesforce)
   * Add/update Jira tickets to capture feature requests
 * Participate in and contribute updates via the Customer Request Triage meeting
 * Verify bugs reported by customers
