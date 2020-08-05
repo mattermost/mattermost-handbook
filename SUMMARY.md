@@ -82,16 +82,17 @@
       * [How to Write a Feature Release Announcement](operations/research-and-development/product/how-to-guides-for-product/release-announcement.md)
     * [Product Management Team Handbook](operations/research-and-development/product/product-management-team-handbook.md)
     * [Technical Writing Team Handbook](operations/research-and-development/product/product-technical-writing-team-handbook.md)
+  * [Design](operations/research-and-development/design.md)
   * [Engineering](operations/research-and-development/engineering.md)
-  * [Content Style Guidelines](operations/operations/publishing/README.md)
-     * [Publishing Guidelines](operations/operations/publishing/publishing-guidelines/README.md)
-     * [Brand and Visual Design Guidelines](operations/operations/publishing/publishing-guidelines/brand-and-visual-design-guidelines.md)
-     * [Voice, Tone, and Writing Style Guidelines](operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines.md)
-     * [Documentation Style Guide](operations/operations/publishing/publishing-guidelines/documentation-style-guide.md)
-     * [In-product Text Guidelines] 
-     * [Marketing Content Guidelines]
-     * [Confidentiality Guidelines](operations/operations/publishing/publishing-guidelines/confidentiality-guidelines.md)
-     * [Post-Publication Quality Control Process](operations/operations/publishing/quality-control-process.md)
+* [Content Guidelines](operations/operations/publishing/README.md)
+   * [Publishing Guidelines](operations/operations/publishing/publishing-guidelines/README.md)
+   * [Brand and Visual Design Guidelines](operations/operations/publishing/publishing-guidelines/brand-and-visual-design-guidelines.md)
+   * [Voice, Tone, and Writing Style Guidelines](operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines.md)
+   * [Documentation Style Guide](operations/operations/publishing/publishing-guidelines/documentation-style-guide.md)
+   * [In-product Text Guidelines]
+   * [Marketing Content Guidelines]
+   * [Confidentiality Guidelines](operations/operations/publishing/publishing-guidelines/confidentiality-guidelines.md)
+   * [Post-Publication Quality Control Process](operations/operations/publishing/quality-control-process.md)
 * [Messaging and Math](operations/messaging-and-math/README.md)
   * [How to guides for M&M](operations/messaging-and-math/how-to-guides-for-m-and-m/README.md)
     * [How to create release announcements](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements.md)
