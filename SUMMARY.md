@@ -92,7 +92,7 @@
    * [Writing Guide](TBA)
      * [Voice, Tone, and Writing Style Guide](operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines.md)
      * [Documentation Style Guide](operations/operations/publishing/publishing-guidelines/documentation-style-guide.md)     
- * [Publishing Guide](operations/operations/publishing/publishing-guidelines/README.md)
+  * [Publishing Guide](operations/operations/publishing/publishing-guidelines/README.md)
      * [Public Web Properties](operations/operations/publishing/web-properties.md) 
      * [Confidentiality Guidelines](operations/operations/publishing/publishing-guidelines/confidentiality-guidelines.md)
      * [Post-Publication Quality Control Process](operations/operations/publishing/quality-control-process.md)   
