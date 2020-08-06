@@ -133,6 +133,7 @@
 * [Workplace](operations/workplace/README.md)
   * [PeopleOps](operations/workplace/people/README.md)
     * [HR Cadences](operations/workplace/people/hr-cadences.md)
+    * [HR Systems](operations/workplace/people/hr-systems.md)
     * [Working at Mattermost](operations/workplace/people/working-at-mattermost/README.md)
       * [Onboarding](contributors/onboarding/README.md)
          * [Things Everyone Must Know](contributors/onboarding/things-everyone-must-know.md)
