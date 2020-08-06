@@ -6,7 +6,9 @@ In order to continually increase what we offer to customers we need to continual
 
 ## How to open a new role
 
-Hiring Managers should confirm with your team's [MLT](https://handbook.mattermost.com/operations/operations/mlt-cadence#introduction-to-mlt) that your new headcount requisition has been approved. If not, your MLT team member should work with the Director of HR and VP of Finance and Operations to obtain approval.
+Hiring Managers should confirm with your team's [MLT](https://handbook.mattermost.com/operations/operations/mlt-cadence#introduction-to-mlt) that your new headcount requisition has been approved. 
+
+Hiring plans are created twice a year, and reviewed every quarter. Hiring Managers and department leads can request additional headcount by completing an Issue/Solution Proposal and sharing with Ian Tien and Aneal Vallurupalli.
 
 ## Role description
 
