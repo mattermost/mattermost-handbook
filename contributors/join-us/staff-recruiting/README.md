@@ -127,7 +127,7 @@ For the purpose of a positive candidate experience and efficient use of mana, it
 
 As part of the Recruiter Intake Session, the Recruiter also works with the Hiring Manager to define the scope and focus area(s) for each interviewer using the ICP. Ahead of the first candidate interview, the Recruiter posts an update in the Recruiting Updates Channel and tags the Interview Panel.
 
-The update will include the scope and focus area(s) for each interviewer. To promote [high standards](https://handbook.mattermost.com/contributors/onboarding/staff-onboarding-guide#leadership-principles) hiring, if more than two interviewers are not a **Strong Yes** ahead of the Mid-Interview Sync, the candidate will not move forward. 
+The update includes the scope and focus area(s) for each interviewer. To promote [high standards](https://handbook.mattermost.com/contributors/onboarding/staff-onboarding-guide#leadership-principles) hiring, if more than two interviewers are not a **Strong Yes** ahead of the Mid-Interview Sync, the candidate will not move forward.
 
 **Interview Panel SLAs**
 
