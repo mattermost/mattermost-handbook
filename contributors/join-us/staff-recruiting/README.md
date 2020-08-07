@@ -138,7 +138,7 @@ In order to expedite the recruiting process for each candidate, please follow th
 
 **Tips on sharing candidate feedback**
 
-* Required: Lever’s 1-4 rating on the candidate. See rating definitions [here](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#heading=h.105ke47pauhj)
+* Required: Lever’s 1 - 4 rating on the candidate. See rating definitions [here](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#heading=h.105ke47pauhj).
 * Required: Experience-to-team rating. See definitions [here](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#bookmark=id.vjo02zxnnbyi)
 * Clearly state your opinion on how this candidate ranks compared to other candidates interviewed as it relates to your focus area. This should be objective and simple. For example: "Strong Yes for SRE, but not quite as technical in Kubernetes as John Doe." 
 * Feedback on the specific skill/focus area assigned with examples to help contextualize your rating.
