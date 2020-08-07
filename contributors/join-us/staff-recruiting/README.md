@@ -173,7 +173,7 @@ Each AA interviewer should have at least 3 reserved slots per week available for
 
 **Logistics**
 
-* The Mid-Interview Sync will be pre-scheduled to occur after the last mid-interviewer completes.
+* The Mid-Interview Sync will be pre-scheduled to occur after the last Mid-Interviewer completes.
 * If there are multiple candidates for the same role, the sync may be scheduled after all candidates have gone through the last mid-interviewer.
 * If you are an interviewer and cannot make the scheduled sync, please make sure to submit complete feedback in Lever ahead of the scheduled sync.
 
