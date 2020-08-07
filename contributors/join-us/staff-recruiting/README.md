@@ -146,7 +146,7 @@ In order to expedite the recruiting process for each candidate, please follow th
 
 ### Mid-Interview Sync
 
-Ahead of MLT and AA interviews, the Recruiter may schedule a live Mid-Interview Sync to align on intent to move forward and any ICP criteria that need additional assessment. Otherwise, the Recruiter will complete the [Mid-Interview Template](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#) ahead of MLT and AA Interviews. 
+Ahead of the MLT and AA interviews, the Recruiter may schedule a live Mid-Interview Sync to align on intent to move forward and any ICP criteria that need additional assessment. Otherwise, the Recruiter will complete the [Mid-Interview Template](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#) ahead of the MLT and AA Interviews.
 
 Recruiting may follow-up with the interview panel if the [Interview Rating](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#heading=h.105ke47pauhj) or [Experience-to-team rating](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#bookmark=id.vjo02zxnnbyi) is incomplete or if additional context is needed. 
 
