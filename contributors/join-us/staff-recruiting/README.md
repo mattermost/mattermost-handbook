@@ -2,7 +2,7 @@
 
 # Staff Recruiting
 
-In order to continually increase what we offer to customers we need to continually source, assess, hire, and onboard new staff members with [high standards](https://handbook.mattermost.com/contributors/onboarding/staff-onboarding-guide#leadership-principles). The below outlines the process for recruiting new staff into the company as it related to: opening a new role, interview flow and offer process. 
+In order to continually increase what we offer to customers we need to continually source, assess, hire, and onboard new staff members with [high standards](https://handbook.mattermost.com/contributors/onboarding/staff-onboarding-guide#leadership-principles). The below outlines the process for recruiting new staff into the company in relation to opening a new role, the interview flow, and the offer process.
 
 ## How to open a new role
 
