@@ -6,7 +6,7 @@ In order to continually increase what we offer to customers we need to continual
 
 ## How to open a new role
 
-Hiring Managers should confirm with your team's [MLT](https://handbook.mattermost.com/operations/operations/mlt-cadence#introduction-to-mlt) that your new headcount requisition has been approved. 
+Hiring Managers should confirm with their team's [MLT](https://handbook.mattermost.com/operations/operations/mlt-cadence#introduction-to-mlt) that the new headcount requisition has been approved.
 
 Hiring plans are created twice a year, and reviewed every quarter. Hiring Managers and department leads can request additional headcount by completing an Issue/Solution Proposal and sharing with Ian Tien and Aneal Vallurupalli.
 
@@ -139,25 +139,25 @@ In order to expedite the recruiting process for each candidate, please follow th
 **Tips on sharing candidate feedback**
 
 * Required: Lever’s 1 - 4 rating on the candidate. See rating definitions [here](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#heading=h.105ke47pauhj).
-* Required: Experience-to-team rating. See definitions [here](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#bookmark=id.vjo02zxnnbyi)
+* Required: Experience-to-team rating. See definitions [here](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#bookmark=id.vjo02zxnnbyi).
 * Clearly state your opinion on how this candidate ranks compared to other candidates interviewed as it relates to your focus area. This should be objective and simple. For example: "Strong Yes for SRE, but not quite as technical in Kubernetes as John Doe."
-* Feedback on the specific skill/focus area assigned with examples to help contextualize your rating.
+* Feedback on the specific skill/focus area assigned, with examples to help contextualize your rating.
 * Potential [blindspots](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check) or [brown M&Ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms) that may require either a future interviewer to ask about or the Hiring Manager to cover during a reference check.
 
 ### Mid-Interview Sync
 
 Ahead of the MLT and AA interviews, the Recruiter may schedule a live Mid-Interview Sync to align on intent to move forward and any ICP criteria that need additional assessment. Otherwise, the Recruiter will complete the [Mid-Interview Template](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#) ahead of the MLT and AA Interviews.
 
-Recruiting may follow-up with the interview panel if the [Interview Rating](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#heading=h.105ke47pauhj) or [Experience-to-team rating](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#bookmark=id.vjo02zxnnbyi) is incomplete or if additional context is needed. 
+Recruiting may follow up with the Interview Panel if the [Interview Rating](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#heading=h.105ke47pauhj) or [Experience-to-team rating](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#bookmark=id.vjo02zxnnbyi) is incomplete or if additional context is needed.
 
 If there are multiple candidates in the pipe, the Recruiter may ask the Interview Panel to rank the candidate pool. This exercise helps clear any potential blindspots or confusion around role expectations. It also allows the Recruiting team to prioritize the highest ranking candidates to complete the interview process, as appropriate.
 
 ### As Appropriate Interviews (AAs)
 To ensure the quality bar and culture of Mattermost is strong and rising, an "As Appropriate" interview is required with a senior, tenured Mattermost staff member for any candidate before an offer can be extended.
 
-Typically the AA is the last person on the interview loop and scheduled in advance and cancelled if the candidate doesn't get through the loop-- i.e. an AA interview should not slow down the interview process.
+Typically the AA is the last person on the interview loop and scheduled in advance and cancelled if the candidate doesn't get through the loop - i.e. an AA interview should not slow down the interview process.
 
-The following list of people are approved as As Appropriate interviewers (aka "AA"s):
+The following list of people are approved as As Appropriate interviewers:
 
 * Ian Tien, CEO and co-founder
 * Corey Hulen, CTO and co-founder
@@ -197,7 +197,7 @@ WIP
 
 ### Offer approval process
 
-Once reference checks are complete and an offer is ready to be made. The Recruiter will enter in the offer information in Lever for approval.
+Once reference checks are complete and an offer is ready to be made, the Recruiter enters the offer information in Lever for approval.
 
 The order of approval will follow:
 
