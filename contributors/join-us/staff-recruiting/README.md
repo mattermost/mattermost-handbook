@@ -152,7 +152,7 @@ Recruiting may follow-up with the interview panel if the [Interview Rating](http
 
 If there are multiple candidates in the pipe, the Recruiter may ask the Interview Panel to rank the candidate pool. This exercise helps clear any potential blindspots or confusion around role expectations. It also allows the Recruiting team to prioritize the highest ranking candidates to complete the interview process, as appropriate.
 
-### As Appropriate Interviews ("AA"s)
+### As Appropriate Interviews (AAs)
 To ensure the quality bar and culture of Mattermost is strong and rising, an "As Appropriate" interview is required with a senior, tenured Mattermost staff member for any candidate before an offer can be extended.
 
 Typically the AA is the last person on the interview loop and scheduled in advance and cancelled if the candidate doesn't get through the loop-- i.e. an AA interview should not slow down the interview process.
