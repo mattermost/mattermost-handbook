@@ -5,5 +5,5 @@
 For security reasons, visibility of the AORs is limited to authenticated Mattermost Staff and available in GDoc links. If a Team AOR is not listed below, you can reference the original version [here](https://docs.google.com/spreadsheets/d/1Vsx8vTo56tGR6SUcrX_5lTMrEcujJE-MIsKg5o7xiUA/edit#gid=0). 
 
 ## Team AORs
-* [G&A - Finance & Accounting, Revenue Operations, People & Recruiting AORs](https://docs.google.com/spreadsheets/d/1iSnhnQrshyZf2NSxoWOjJ0_e-sbqA6A-GrJ5G2h2wZo/edit#gid=0)
+* [G&A - Finance & Accounting, Revenue Operations, People, and Recruiting AORs](https://docs.google.com/spreadsheets/d/1iSnhnQrshyZf2NSxoWOjJ0_e-sbqA6A-GrJ5G2h2wZo/edit#gid=0)
 * [Marketing AORs](https://docs.google.com/spreadsheets/d/1cE17L60esYW8gCF9eJkLAXer8ND32nXxak04fBk6dPg/edit#gid=1558109683)
