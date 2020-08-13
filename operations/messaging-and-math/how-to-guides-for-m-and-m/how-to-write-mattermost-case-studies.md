@@ -1,5 +1,5 @@
 ---
-description: 1% draft
+description: 50% draft
 ---
 
 # How to write Mattermost Case Studies
@@ -147,5 +147,41 @@ Follow these steps to write a case study that is clear and concise:
    3. Add customer testimonials that show how Mattermost helped achieve the customer’s goals. Include specific examples and quotations.
 
 These case study procedures draw heavily from Hubspot’s [How to Write a Case Study](https://blog.hubspot.com/blog/tabid/6307/bid/33282/the-ultimate-guide-to-creating-compelling-case-studies.aspx) article.  
+
+## For Customers: Case Study FAQs
+
+**How much of a time commitment is participating in a Mattermost case study?**
+
+We do our best to make case studies as quick and straightforward as possible. In most cases, you can expect to spend no more than about 2 hours of time over the course of 2-3 weeks on the case study on the following activities:
+
+* Filling out our [case study questionnaire](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-write-mattermost-case-studies#customer-questionnaire)
+* 30 min case study interview
+* 1-2 rounds of case study draft review
+
+If you have limited availability during a case study cycle (preparing for a big release, stakeholders on vacation, etc) please let us know and we’ll do our best to accommodate your schedule or revise our process. 
+
+**Will I have a chance to review the case study before it goes live?**
+
+Yes! The goal of our case studies is to present both Mattermost and our users in the best possible light. We will give your team an opportunity to review, edit, and approve the case study before it is shared publicly. Please share with your legal team, marketing team or any other stakeholders who will need to review it during this time. 
+
+**What do you do with case studies?**
+
+Case studies are added to our website, and shared on the Mattermost blog. We promote case studies in our email newsletter, Mattermost community and on our social media channels.
+
+Our sales and customer success teams use case studies during conversations with other users as examples of the potential of the Mattermost platform. 
+
+**Where can I find the case study after it goes live?**
+
+We’ll send you a link to the live version, but you can find all of our case studies at [https://mattermost.com/customers/](https://mattermost.com/customers/).
+
+**What happens to the case study if we stop using Mattermost?**
+
+Please let your CSM know if you would like us to remove your case study. Note that in some cases we may republish a completely anonymized version of the case study. 
+
+**I really love using Mattermost! Are there other customer programs I can participate in?** 
+
+We love featuring our users as guest contributors on our blog and as collaborators on webinars. If you’re interested in sharing more of your experience with our community, please let us know!
+
+
 
 
