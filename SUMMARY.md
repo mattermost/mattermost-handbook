@@ -120,6 +120,7 @@
       * [Dashboards](operations/business-operations/analytics/looker/dashboards.md)
       * [Explores](operations/business-operations/analytics/looker/explores.md)
     * [Targets](operations/business-operations/analytics/targets.md)
+    * [Telemetry](operations/business-operations/analytics/telemetry.md)
   * [Customer Support](operations/business-operations/customer-support.md)
   * [Data Engineering](operations/business-operations/data-engineering.md)
   * [Marketing Operations](operations/business-operations/marketing-operations.md)
