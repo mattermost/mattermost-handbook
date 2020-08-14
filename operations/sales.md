@@ -7,7 +7,7 @@ description: 50% complete
 ## Sales Key Info
 
 * [Sales Operations Handbook](https://docs.google.com/document/d/1W3Yb3h7ZQ6oq0NhxPuUEjS6-u34spvdkg8VtUToxNQg/edit?usp=sharing_eil&ts=5d9bf9a6)
-
+* [Rude Q&A](https://www.theverge.com/2020/6/4/21280829/slack-amazon-aws-partnership-amazon-chime-voice-video-calls) - Talking points on questions from competitors and detractors (Internal Only) 
 
 ## Forecasting
 
