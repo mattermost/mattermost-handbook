@@ -6,10 +6,8 @@ Telemetry data is optionally shared from your Mattermost servers and is used to 
 
 Telemetry is essential for tracking product usage, quickly identifying problems, and operating our business. Our goal is to have working telemetry, in the form of Looker reports, for every feature before it is released.
 
-To collect telemetry, we are using [RudderStack](https://rudderstack.com/) which is then pushed to [Snowflake](https://www.snowflake.com/). You can read more about our Data Engineering infrastructure at [Data Engineering](https://handbook.mattermost.com/operations/business-operations/data-engineering)
+To collect telemetry, we are using [RudderStack](https://rudderstack.com/) which is then pushed to [Snowflake](https://www.snowflake.com/). You can read more about our Data Engineering infrastructure at [Data Engineering](https://handbook.mattermost.com/operations/business-operations/data-engineering).
 
 ## [The Telemetry Handbook](https://docs.google.com/document/d/1CJeMFxnwUq8njKd3S3zxnfqrwUz8zNDsTmUAYqgy_uo/edit?usp=sharing)
 
-We have created this handbook to ensure we collect useful telemetry from all sources. This handbook is the guideline for how to implement telemetry, both from the perspective of product managers and the engineers doing the actual implementation.
-
-
+We have created this handbook to ensure we collect useful telemetry from all sources. This handbook is the guideline for how to implement telemetry, both from the perspective of Product Managers and the engineers doing the actual implementation.
