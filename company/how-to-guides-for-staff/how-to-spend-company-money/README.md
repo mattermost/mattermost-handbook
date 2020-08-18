@@ -90,7 +90,7 @@ The Mattermost mobile device policy enables the use of mobile devices for custom
 
 #### Subscription
 
-If you are using your device primarily for business-related matters as defined by your local tax laws, we will reimburse up to 100 USD. Positions or roles where mobile reimbursement may be needed include the following:
+If you are using your personal device for business-related matters, we will reimburse up to 100 USD. In some countries and localities, reimbursement of a personal phone plan for business use is considered a taxable benefit. It is your responsibility to ensure that you comply with local tax laws when filing your taxes. Positions or roles where mobile reimbursement may be needed include the following:
 
 * Customer-facing roles: 
     * Account Executives
