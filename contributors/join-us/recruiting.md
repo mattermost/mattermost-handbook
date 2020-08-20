@@ -10,7 +10,7 @@ Hiring plans are created twice a year, and reviewed every quarter. Hiring Manage
 
 ### We currently support hiring in the following countries/regions:
 
-* Belarus, Canada, Chile, Finland, Georgia, Germany, India, Mauritius, Philippines, Poland, South Africa, Turkey, Ukraine, United Kingdom, United States
+* Canada, Chile, Finland, Georgia, Germany, India, Mauritius, Philippines, Poland, South Africa, Turkey, Ukraine, United Kingdom, United States
 
 We are constantly working towards adding more countries/regions to this list, but it takes a lot of time and resources. This list will be updated as we are able to hire in additional countries/regions.
 
