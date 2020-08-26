@@ -146,6 +146,7 @@
       * [MatterCon](contributors/mattercon/README.md)
          * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
       * [Paid Time Off](operations/workplace/people/working-at-mattermost/paid-time-off.md)
+         * [Family & Friends Day](operations/workplace/people/working-at-mattermost/family-and-friends-day.md)
       * [Travel](operations/workplace/people/working-at-mattermost/travel/README.md)
         * [Business Travel Insurance](operations/workplace/people/working-at-mattermost/travel/business-travel-insurance.md)
       * [Leaves of Absence](operations/workplace/people/working-at-mattermost/leaves-of-absence/README.md)
