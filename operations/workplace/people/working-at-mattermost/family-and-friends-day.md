@@ -28,4 +28,4 @@ Absolutely. Our [Paid Time Off process](https://handbook.mattermost.com/operatio
 
 **Do I still need to follow the [communicating time off process](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#communicating-time-off) for these days?**
 
-We can assume most team members will be off these days, but still recommend updating your ‘out of office’ messages in Mattermost and email and reference the public announcement to Family and Friends Days, and that you’ll return messages after the event.
+We can assume most team members will be off these days, but still recommend updating your out-of-office messages in Mattermost and email to reference the public announcement to Family and Friends Days, and indicate that you’ll return messages after the event.
