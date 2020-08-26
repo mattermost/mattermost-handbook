@@ -10,7 +10,7 @@ Our first “Family and Friends Day” will be on September 4th, 2020.
 
 We announced this program at [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com), and will run the majority of the company with the minimal staff needed to meet our service level commitments - and we’ve asked the staff who are on-call, or who choose to work that day, to take an alternate day off.
 
-We’ll publicly announce our #familyandfriendsday on Twitter, LinkedIn, and other social media, which will link to this notice page and our FAQ below, which can be referenced in out-of-office responders.
+Our #familyandfriendsday will be shared on Twitter, LinkedIn, and other social media, with a link to this notice page and FAQ. This can be referenced in out-of-office responders.
 
 ## FAQ
 
