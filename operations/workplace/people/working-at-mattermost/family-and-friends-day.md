@@ -2,7 +2,7 @@
 
 At Mattermost we care a lot about our communities: our customers, our open source contributors, our staff, and the friends and family that support our staff to do all that they do.
 
-Occasionally we’ll call a “Family and Friends Day”. Aligned with our time-off policies, this is a day to rest, relax, and recharge by spending time with the people in our personal lives who matter so much.
+Occasionally we’ll call a “Family & Friends Day”. In alignment with our time off policies, this is a day to rest, relax, and recharge by spending time with the people in our personal lives who matter so much.
 
 We want to be especially thoughtful on the topic in the time of COVID, economic change, and changes to travel and academic environments.
 
