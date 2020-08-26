@@ -20,7 +20,7 @@ If you're in a role or on a team that may require coverage or you have important
 
 **Is this different from our [time off policy](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off)?**
 
-The only difference is that we’ve selected a specific date to intentionally take time off as a company. Time to rest and reflect is important and we hope staff feel more encouraged to continue to take the time needed to practice self care.
+The only difference is that we’ve selected a specific date to intentionally take time off as a company. Time to rest and reflect is important and we hope staff feel more encouraged to continue to take the time needed to practice self-care.
 
 **Can I still take time off later this month, or in the future?**
 
