@@ -68,8 +68,10 @@ Welcome to Mattermost! This is a general overview of activities that all staff s
 * Share your bio with your manager. This will be posted in the [Welcome channel](https://community.mattermost.com/private-core/channels/welcome) in the private Staff team by your manager with the hashtag **#newcolleague**.
 * Attend the Onboarding Session with the People Team, Mondays at 10 AM ET, Toronto Time.
 * Review the expense policy: [How to send company money](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money).
-* Attend first your first [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com). Join the [Customer Obsession Meeting channel](https://community.mattermost.com/private-core/channels/cust-obs-meeting) and find past COM meetings in the channel to view at your liesure.
+* Attend your first [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com). Join the [Customer Obsession Meeting channel](https://community.mattermost.com/private-core/channels/cust-obs-meeting) and find past COM meetings in the channel to view at your leisure.
 * Use the [Onboarding](https://community.mattermost.com/private-core/channels/onboarding) channel for any questions.
+* Review the [Time Off Policy](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#communicating-time-off) and add the Time Off calendar to your Mattermost Google Calendar. 
+ * Follow [Google's instructions to 'add a calendar using a link'](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en) and copy the calendar link from [this URL](https://calendar.google.com/calendar?cid=bWF0dGVybW9zdC5jb21fbWczbnVsZ2Y2ZTcwZTUwb2hscTJycmtjbmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). 
 
 #### Month 1
 
