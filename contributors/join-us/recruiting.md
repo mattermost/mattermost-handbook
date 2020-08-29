@@ -1,10 +1,41 @@
 # Recruiting
 
+Our Mission  
+
+**Mattermost is to make the world safer & more productive by developing and delivering secure, open source collaboration software that is trusted, flexible and offers fast time-to-value.**  
+
+### Bring Your Best Self to Work at Mattermost
+We care about enabling our communities, and for Staff this means we strive to foster a high-trust and results-focused culture - results matter far more than hours in an office. While our headquarters is in Palo Alto, California, we use Mattermost software to work as a distributed organization around the world in partnership with our community. 
+
+If you're considering a role at Mattermost, here are the **Top 10 Reasons to work at Mattermost:**
+1. **Join an outstanding team:** Work with thoughtful, talented, high performance people who care about results.
+2. **Build on the cutting edge:** Develop in Golang, React, React Native and other technologies changing the world.
+3. **Work anywhere:** No commute, freedom to travel, complete control of your environment.
+4. **Be recognized:** Working in open source, your contributions are public and echo on throughout your career.
+5. **Growth:** Join a growing open source project, a growing business, and a growing company.
+6. **Do good:** Build open source software benefiting thousands of companies, institutions, schools and non-profits.
+7. **Improve a product you use every day:** Work on a team with deep empathy for users and customers.
+8. **Focus on results:** Output matters, not hours worked. Enjoy life and don’t burn out.
+9. **Learn, Master, Teach:** Building new skills, becoming experts, and training others is core to our culture.
+10. **Friends around the world:** Build relationships with staff and contributors in dozens of countries.
+
+## Interview Stages 
+
+We can hire from many regions and countries across the globe. While in-office interviews typically go through 1-3 interview rounds, our candidates and interviewers may be located in various time zones and therefore each interview is scheduled separately. The stages are as follows:
+
+1. Recruiter Screen - this person will be a candidate's main point of contact during the interview process at Mattermost. For some roles, Hiring Managers may incorporate a recruiter screen within their first interview with a candidate. 
+2. Hiring Manager, Technical and Team Interviews - this portion typically consists of 3-4 interviewers. In addition to the hiring manager, candidate's can expect to interview with team and cross-team members who will work closely with or similarly to the individual in this role.
+3. Interview Proect - all take-home projects will list the expected amount of time expected to complete. We really appreciate all of the time spent completing a take-home project. As a 'thank you,' candidates will be invited to select a gift option upon completion of the interview project. 
+4. Final Interviews - this will typically include the hiring team's [MLT](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#mlt) and one of our Co-Founders. Note: for Director and above interviews, both Mattermost Co-Founders will interview candidates. 
+5. Final Deciscion - someone on our hiring team will reach out to you to let you know our decision. 
+
+We hope that you had a great experience interviewing at Mattermost and welcome any feedback you may have. We may invite candidates to share your feedback obout our interview process so we may continually improve the process and experience. 
+
 ## Open Roles
 
 Mattermost's openings can be found [here](https://mattermost.com/careers/).
 
-Hiring plans are created twice a year, and reviewed every quarter. Hiring Managers and department leads can request additional headcount by completing an [Issue/Solution Proposal](https://handbook.mattermost.com/operations/operations/issue-solution) and sharing with Ian Tien and Aneal Vallurupalli.
+Hiring plans are created twice a year, and reviewed every quarter. Hiring Managers and department leads can request additional headcount by completing an [Issue/Solution Proposal](https://handbook.mattermost.com/operations/operations/issue-solution) and sharing with the CEO and VP, Finance & Operations.
 
 ## Hiring Across the Globe
 
@@ -23,6 +54,23 @@ We currently have staff in the following U.S. states:
 * AZ CA CO FL GA IN KS MA MD MI MO NC NJ NV NY OK SC TN TX UT VA WA WI
 
 Preparing to hire an employee in a new state takes time, and we may be subject to new regulations, taxes, and reporting obligations. If a candidate is progressing in the interview process and would be living and working from a U.S. state not listed above, the Recruiter will DM @tim.quock with the state and the title of the position the candidate may fill at least three weeks prior to an anticipated offer.
+
+### Candidate Frequently Asked Questions 
+
+**Does Mattermost offer home office benefits?** 
+We want Staff to have full control of their own space. As such, we offer a [guideline on home office purchases](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#home-office-guidelines), including what Mattermost covers. 
+
+We also will reimburse a portion of team member's [monthly mobile device subsciptions](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#mobile-device-policy) and [home internet cost](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#other-expenses)
+
+**Can I expense a co-working space?**
+We understand that working from home every day may not be practical for every individual. We will reimburse staff for [flexible office space](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#other-expenses). 
+
+**Can I enroll in an external course or class related to my role?**
+Yes, team members can recieve reimbursement for [professional development](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#other-expenses) annually. 
+
+**Are there core hours that I will be expected to work?**
+We have a weekly all-company [Customer Obsession Meeting](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com). We understand staff may not be able to attend every week. The meeting is 25 minutes and a recording will be shared internally for staff that may not be able to attend. There may be team-specific schedule requirements depending on the team and role, such as teams with SLAs or on-call requirements. Your Recruiter or Hiring Manager will indicate any specific team core hours during the interview process. 
+
 
 ### Referral Program
 
@@ -53,32 +101,3 @@ Mattermost Staff and Community members are eligible to receive a $500 USD referr
 
 Staff agreements are conditioned upon the country/region of residence noted in a staff member's contract. Location change requests should be discussed with HR and your MLT member. Staff must receive written approval from the Company prior to a country/region relocation.
 
-## Lever
-
-Lever is our Applicant Tracking System \(ATS\). It is where our Recruiters, Recruiting Coordinators, and Hiring Managers organize open roles, track a candidate’s progress throughout the recruiting process, collect feedback, and record data. It is important that all candidates, interviews, and feedback are recorded accurately in Lever because all of our data and insights are pulled from Lever. Without accurate data in Lever, we aren’t able to iterate on the process to deliver a better hiring experience for candidates, hiring managers, and the business overall.
-
-All conversations about candidate feedback, referrals, or compensation are considered confidential and need to be discussed in Lever, and not in Mattermost.
-
-Hiring Managers and interviewers commit to submitting feedback in Lever within 12 hours of the interview.
-
-## As Appropriate Interviews \("AA"s\)
-
-To ensure the quality bar and culture of Mattermost is strong and rising, an "As Appropriate" interview is required with a senior, tenured Mattermost staff member for any candidate before an offer can be extended.
-
-Typically the AA is the last person on the interview loop and scheduled in advance and cancelled if the candidate doesn't get through the loop-- i.e. an AA interview should not slow down the interview process.
-
-The following list of people are approved as As Appropriate interviewers \(aka "AA"s\):
-
-* Ian Tien, CEO and co-founder
-* Corey Hulen, CTO and co-founder
-
-Each AA interviewer should have at least 3 reserved slots per week available for AA interviews, ideally in different timezone ranges, providing capacity for 12 new hires per month per AA.
-
-### Checklist for As Appropriate Interview
-
-24 hours before an [AA interview](recruiting.md#as-appropriate-interviews-aa-s), the candidate's Lever profile should include:
-
-* Hire/No Hire feedback from everyone on the interview loop.
-* Attachments of any work artifacts produced during the interview loop.
-* Any open questions from interviewers that have not been covered.
-* Notes on any backchannel references completed. For any confidential feedback please use **SECRET NOTE** with mention to the AA and leave out the name of the source.
