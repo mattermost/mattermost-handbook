@@ -105,51 +105,64 @@ We are currently focused on:
 
 ### Stitch Data
 
-* Google Analytics
+* **Google Analytics**
   * Overview
     * Google Analytics - Stitch Integration has a lot of caveats and limitations.
     * Known Limitations:
       * Each set of dimensions and measures from Google Analytics needs to have it’s own Stitch integration.
       * Each integration creates a schema in Snowflake that matches the name of the integration and adds a table called report
-
-`Name: GA ChannelGrouping Source Users Org Schema: analytics.ga_channelgrouping_source_users_org Table: analytics.ga_channelgrouping_source_users_org.report`
-
-* Once an integration is created, it cannot be edited. If you need to make changes, you need to delete the integration and start over.
-* Data is only pulled at a daily level
-* This is an issue because “Unique Monthly Users” is not the same as “Aggregated Unique Daily Users”
+        * `Name: GA ChannelGrouping Source Users Org Schema: analytics.ga_channelgrouping_source_users_org Table: analytics.ga_channelgrouping_source_users_org.report`
+      * Once an integration is created, it cannot be edited. If you need to make changes, you need to delete the integration and start over.
+      * Data is only pulled at a daily level
+        * This is an issue because “Unique Monthly Users” is not the same as “Aggregated Unique Daily Users
   * Mattermost.org
-  * [Google Analytics Link](https://analytics.google.com/analytics/web/?authuser=0#/report-home/a64458817w100411618p104282920)
-  * Owner: Jason Blais
-  * Stitch Integrations:
-* [GA ChannelGrouping Source Users Org](https://app.stitchdata.com/client/153136/pipeline/connections/211988/summary)
-  * Frequency: 6 hours
-  * Dimensions: ChannelGrouping, Source
-  * Measures: Users
+    * [Google Analytics Link](https://analytics.google.com/analytics/web/?authuser=0#/report-home/a64458817w100411618p104282920)
+    * Owner: Jason Blais
+    * Stitch Integrations:
+      * [GA ChannelGrouping Source Users Org](https://app.stitchdata.com/client/153136/pipeline/connections/211988/summary)
+        * Frequency: 6 hours
+        * Dimensions: ChannelGrouping, Source
+        * Measures: Users
   * Mattermost.com
-  * [Google Analytics Link](https://analytics.google.com/analytics/web/?authuser=0#/report-home/a120238482w177779216p176410444)
-  * Owner: Kendall Reicherter
-  * Stitch Integrations:
-* [GA ChannelGrouping Source Users Com](https://app.stitchdata.com/client/153136/pipeline/connections/212282/summary)
-  * Frequency: 6 hours
-  * Dimensions: ChannelGrouping, Source
-  * Measures: Users
-  * Salesforce / Heroku Connect
+    * [Google Analytics Link](https://analytics.google.com/analytics/web/?authuser=0#/report-home/a120238482w177779216p176410444)
+    * Owner: Kendall Reicherter
+    * Stitch Integrations:
+      * [GA ChannelGrouping Source Users Com](https://app.stitchdata.com/client/153136/pipeline/connections/212282/summary)
+        * Frequency: 6 hours
+        * Dimensions: ChannelGrouping, Source
+        * Measures: Users
+      * [GA Mattermost Com Pages Visits](https://app.stitchdata.com/client/153136/pipeline/connections/226666/summary)
+
+        * Frequency: 6 hours
+        * Dimensions: Page Path, Page Title
+        * Measures: Page Visits, Unique Page Visits, Avg Time on Page
+  * Developers.Mattermost.com
+    * [Google Analytics Link](https://analytics.google.com/analytics/web/#/dashboard/uh0tcPOLS1ir9osCAZvBiQ/a64458817w179061281p177463446/)
+    * Owner: Jason Blas
+    * Stitch Integrations:
+      * [GA Developers Pages Visits](https://app.stitchdata.com/client/153136/pipeline/connections/226635/summary)
+        * Frequency: 6 hours
+        * Dimensions: Page Path, Page Title
+        * Measures: Page Visits, Unique Page Visits, Avg Time on Page
+* **Salesforce / Heroku Connect**
   * [OrgM](https://app.stitchdata.com/client/153136/pipeline/connections/206623/summary)
   * Frequency: 1 hour \(as of 2020-01-07\)
   * [Tables Syncing](https://app.stitchdata.com/client/153136/pipeline/connections/206623/data/db/d6ghpflham816n/schema/orgm)
   * Sync Type:  Key-Based Incremental Replication \(Recommended\)
-* When you define a Replication Key, Stitch will store the greatest value of that column of that key during each update and only sync rows with greater or equal values on subsequent updates.
-* Note: Hard deletes are not supported by this Replication Method.
-* Note: Because we use this incremental replications, when adding a new column to a table, you must reload the table to ensure all data has been backfilled in Snowflake.
-  * Replication Key: sysmodstamp
-  * Table Specific Info
-* `app.stitchdata.com/client/153136/pipeline/connections/206623/data/db/d6ghpflham816n/schema/orgm/properties/6715619/[TABLE_NAME]/`
-* Account Example: `app.stitchdata.com/client/153136/pipeline/connections/206623/data/db/d6ghpflham816n/schema/orgm/properties/6715619/account/`
-  * Updating Table Settings:
-* Follow the link formatting to table specific info
-* Click Table Settings
-  * Reloading a Table:
-* In Table Settings, click Reset Table and save updates
+    * When you define a Replication Key, Stitch will store the greatest value of that column of that key during each update and only sync rows with greater or equal values on subsequent updates.
+    * Note: Hard deletes are not supported by this Replication Method.
+    * Note: Because we use this incremental replications, when adding a new column to a table, you must reload the table to ensure all data has been backfilled in Snowflake.
+    * Replication Key: sysmodstamp
+    * Table Specific Info
+
+      `app.stitchdata.com/client/153136/pipeline/connections/206623/data/db/d6ghpflham816n/schema/orgm/properties/6715619/[TABLE_NAME]/`
+
+    * Account Example: `app.stitchdata.com/client/153136/pipeline/connections/206623/data/db/d6ghpflham816n/schema/orgm/properties/6715619/account/`
+    * Updating Table Settings:
+      * Follow the link formatting to table specific info
+      * Click Table Settings
+    * Reloading a Table:
+      * In Table Settings, click Reset Table and save updates
 
 ### Postgres Job
 

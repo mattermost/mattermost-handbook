@@ -1,32 +1,67 @@
-# V2MOM
+# V2MOM FY 2021
 
-Vision
+**Vision**
 
-* Make other functions wildly successful by providing stellar support with process, tooling,  IT, and data-driven infrastructure and analytics
+Business Operations exists to make all of the Mattermost functions wildly successful. We do this by providing the best possible People, Process and Systems.
 
-Values
+**Values**
 
+* Customer Love
+    * BizOps exists to serve our customers, both internally and externally. To do this, we must focus on stellar customer service. 
+    * Everything we do is a product. We make sure that anything we ship is thorough, easy to use and documented. We pride ourselves on established customer SLAs and our ability to meet them consistently.
 * Trust
-* Growth
-* Iteration
+    * We are the Trusted Advisor. We strive to stay “function-neutral”, doing what is best for the company, not one particular group or person.
+    * We are passionate about securing all of our data. Security compliance (GDPR, etc.) is not an option and we will strive daily to achieve that goal.
+    * We are transparent and open about what we can do and what we can’t. If we miss a deliverable in scope or deadline, we own it and work to ensure that never happens again. 
+    
+* Ruthless Efficiency
+    * We will automate tasks wherever possible, even if it means that it takes longer to get something done up front. 
+    * If a meeting can be 30 mins then it won’t be an hour. 
+    * We project manage to great detail, which keeps us on track and minimizes scope-creep and project slip.
 
-Methods
 
-* Project Management:  Define, scope, prioritize and implement the right things in Q4 and beyond.
-* Customer Journey operations: Define the Customer Journey with functional stakeholders. Build a project timeline to implement process and tooling to support all key CJ milestones. In the short term we will focus on Customer Billings, License and Provisioning \(BLP\)
-* Establish a data and analytics service bureau: Create data and analytics infrastructure that will be used to manage all company critical data. Work with stakeholders to document canonical definitions of key metrics. Establish a self service model for end users. A short term priority will be to begin working centralizing Product Data and Telemetry
-* MLT Vision and buy-in: Work with MLT to define and scope key MLT metrics and project milestones
-* IT systems operations:  Focus on creating a catalog of all systems used at Mattermost. Identify contract details, spend, owner and users with access. Sunset systems no longer used and/or performing a duplicate function.
+**Methods**
 
-Obstacles
+* Analytics and Data Engineering: You can’t impact what you can’t measure. Data is at the heart of everything we do at Mattermost. To move forward we must understand how the company is currently operating so that we can adjust, observe and react. This function provides the following:
+    * Centralized Operational Data Store (ODS) and Data Warehouse (DWH)
+    * Data Integration (ETL) framework for data movement and consolidation
+    * Canonical definitions and documentations for all key metrics
+    * Analytics support ranging from project based (i.e: ARR) to ongoing one-off requests
+    * Analytics systems management: Salesforce, Looker, etc.
+* Customer Journey Operations: When we talk about “The Customer Journey”, much of this happens because of Goto Market (GTM) Operations. This refers to all of the systems and processes used to make it happen
+    * Funnel Lifecycle Management
+    * Sales and Marketing systems ownership and integrations
+    * CJ specific reporting/dashboarding/alerting
+    *Customer Success Operations: Renewals automations, Onboarding, Zendesk integrations, Health scores and more.
+* Billings, Licensing and Provisioning (BLP): Whenever a customer uses a Mattermost product, they need a license and they need to be provisioned. In the case of a paying customer, they also need to be billed. BLP encompasses all the systems and functions necessary to make that happen.
+    * Self service portal/page
+    * License and Provisioning services
+    * Billings services
+    * Tax collection for online purchases
+* MLT/MLX Support: MLT is the Mattermost Leadership Team. MLX is the eXtended leadership team. Those groups set the strategic direction for the company and make sure things get done.
+    * Strategic input
+    * Project Management
+    * Cross-functional support
 
-* It will take time to fully understand all the needs of the company and prioritize appropriately.
-* Lack of common business and technical definitions for key company and functional metrics
-* Resources available to tackle key projects
-* Lack of central control and standardization of systems. There are a few instances where there is more than 1 system performing the same function.
+**Obstacles**
 
-Measures
+* Clear systems ownership. Specifically GTM systems.
+* Clear customer ownership. We rely on our customers to know their business and be available and engaged when working on solving a business problem together.
+* Alignment with R&D on who owns what. There are dozens of services that need to be built and it’s important to have alignment. 
+* Shifting priorities. It’s difficult to be efficient when we start a project and need to pivot to something else.
+* Staffing needs and Program spend.
 
-* TBD within Q4
-* Will be based on project milestones around abopve methods
+**Measures**
 
+* Automating all key company metrics
+    * MLT/V2MOM
+    * Customer Journey
+    * Departmental
+    * Phased approach based on priority and data availability
+* Improving existing BLP systems and process
+    * Self service purchase and renewals < 5K
+    * Reduce/remove the need for docusign for deals below < $x
+    * Upgrade license server to support new features such as multiple licenses
+* Security and Compliance
+    * 0 data breaches
+    * GDPR and CCPA compliance

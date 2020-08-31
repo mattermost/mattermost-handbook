@@ -26,6 +26,8 @@ When choosing what to highlight in the screenshot, follow this order:
   * Size your Mattermost Desktop App or browser to capture a screenshot approximately 900px by 640px, excluding browser navigation.
   * Use default 100% Zoom.
   * Tip: Close the right-hand sidebar, and close the team sidebar by leaving all but one team.
+* **Font Size:**
+  * All text should have large enough font size so that text is easily readable.
 * **Visuals:**
   * Profile pictures and real people’s names should be filled out throughout the screenshot.
   * For the profile picture, use either normal-looking Avatars or stock photography from [istockphoto.com](https://www.istockphoto.com/).
@@ -42,6 +44,9 @@ When choosing what to highlight in the screenshot, follow this order:
   * Make the center pane one of the Favorited channels.
   * Make sure that the heading of the center pane is fully visible to avoid truncation.
   * Make the first message in the center pane fully visible right below the channel header.
+* **Team list**
+  * Connect team names to channel names, e.g. Contributors, Developers, Toolkit, etc. to contribute to a broader overall theme and story.
+  * E.g. could use icons of different maps, or city skylines, to indicate offices of different teams, or business units of a bank (customer service, security, research, etc.), etc.
 * **Clarity:** 
   * Avoid showing any text with acronyms and abbreviations.
   * Do not show any bugs or defects.
@@ -67,35 +72,32 @@ Use [GIF Brewery](https://gfycat.com/gifbrewery) to create GIFs. Ensure there ar
 
 #### Don't zoom past 100% and pixelated images
 
-When you need to show a particular part of the product, don't crop the image and zoom past 100% to show the functionality. Example of what not to do: 
+When you need to show a particular part of the product, don't crop the image and zoom past 100% to show the functionality. Screenshots should be full-sized (no zoom-in, no resizing within Google Doc), potentially stored in a TIF file. For optimal quality on Mac screenshots, [see this help article](https://graphicdesign.stackexchange.com/questions/30081/highest-quality-website-screenshot/30142#30142).
 
-![DO NOT use Zoom level other than 100% for screenshots](../../../.gitbook/assets/image%20%286%29.png)
+Example of what not to do: 
+
+![DO NOT use Zoom level other than 100% for screenshots](../../../.gitbook/assets/screenshot_guidelines.png)
 
 #### Do show sub-components framed in grey \(\#F7F9FA\) background 
 
 Instead, show the sub-component at 100% zoom with a 12pt white border \(so there is white space\) and a grew \(\#F7F9FA\) background with no border, so the image is cleanly framed:
 
-![](../../../.gitbook/assets/image%20%2812%29.png)
+![](../../../.gitbook/assets/screenshot_guidelines2.png)
 
 #### Don't display watermarks and vendor names on screenshots or GIFs
 
 Example of what not to do \("Stop" and "created with gifrecorder.com" overlayed at the end of the GIF\):
 
-![](../../../.gitbook/assets/image%20%2845%29.png)
+![](../../../.gitbook/assets/screenshot_guidelines3.png)
 
 #### Don't take a screenshot at high resolution
 
 Text is hard to read when image is reduced for sharing on blog posts, social media and possibly in slides:
 
-![](../../../.gitbook/assets/image%20%2851%29.png)
+![](../../../.gitbook/assets/screenshot_guidelines4.png)
 
 #### Do size Mattermost to capture approximately a 900px by 640px area
 
 This enables sharing the image in documentation, social media and marketing content more easily.
 
-![](../../../.gitbook/assets/image%20%2846%29.png)
-
-
-
-
-
+![](../../../.gitbook/assets/screenshot_guidelines5.png)

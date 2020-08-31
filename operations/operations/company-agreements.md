@@ -1,6 +1,6 @@
 # Company Agreements
 
-## Who can sign on behalf of the company? 
+## Who can sign on behalf of the company?
 
 Company agreements should only be signed by CEO, Ian Tien, after the approval of a [Contract Accountability Owner \(or "CAO"\)](company-agreements.md#who-are-contract-accountability-owners-caos) with the following exceptions:
 
@@ -13,11 +13,11 @@ Company agreements should only be signed by CEO, Ian Tien, after the approval of
 
 Use the [Authorization Matrix](https://docs.google.com/spreadsheets/d/1fDIMiO0uydB_1zCUxZ4sGfSnBJ0P_49zbeQGgTqbYPI/edit?usp=sharing) for a full list of document types and threshold levels 
 
-## Who are Contract Accountability Owners \(CAOs\)? 
+## Who are Contract Accountability Owners \(CAOs\)?
 
-A Contact Accountability Owners, or "CAO", is a Mattermost staff member approved to review and initial contracts of specific types ahead of electronic or physical signature on behalf of the company by the CEO. 
+A Contact Accountability Owner, or "CAO", is a Mattermost staff member approved to review and initial contracts of specific types ahead of electronic or physical signature on behalf of the company by the CEO.
 
-CAOs by area include: 
+CAOs by area include:
 
 * Natalie Jew \(HR\) - employment contracts, benefit contracts, vendor contracts (HR) 
 * Aneal Vallurupalli \(Finance\) - sales contracts, corporate contracts, vendor contracts
@@ -35,7 +35,7 @@ The following staff are approved to send contracts to be initialed and e-signed
 * Aneal Vallurupalli
 * Tim Quock 
 
-## What are e-sign completion expectations? 
+## What are e-sign completion expectations?
 
 * E-sign request sent on weekdays before 4pm Palo Alto time should be signed by 9pm Palo Alto on the same day and if sent on a weekend signed by 9pm Palo Alto time on the following Monday provided one of the following is true: 
   * **For e-sign from Mattermost staff member** - The e-sign is sent by a Mattermost staff member and either prepared by or initialed by an approved [Contract Accountability Owner, or CAO](company-agreements.md#who-are-contract-accountability-owners-caos). E-signs sent from approved Mattermost staff are preferred since they are archived automatically in our e-sign system 
@@ -54,6 +54,3 @@ The following staff are approved to send contracts to be initialed and e-signed
       * Each should have sticker labels indicating what is needed to sign, so nothing is missed
     * A pen
     * Appropriate envelops and/or UPS mailing labels to send the signed package on after it is received
-
-
-

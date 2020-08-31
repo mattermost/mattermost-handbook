@@ -17,7 +17,7 @@ After your contract has gone through our [procurement process](https://handbook.
 
 ### New Vendor Information Form
 
-Either your or your vendor may complete the [New Vendor Information Form](https://forms.gle/D27fwJPMXvftVyAEA) so that Finance can provision your vendor in Netsuite. Alternatively, your vendor may also complete the [New Vendor Information Form](https://forms.gle/D27fwJPMXvftVyAEA). Below is a list of information requested and links to tax application forms. 
+Either you or your vendor may complete the [New Vendor Information Form](https://forms.gle/D27fwJPMXvftVyAEA) so that Finance can provision your vendor in Netsuite. Alternatively, your vendor may also complete the [New Vendor Information Form](https://forms.gle/D27fwJPMXvftVyAEA). Below is a list of information requested and links to tax application forms. 
 
 1. Vendor Name \(as presented on Form W-9 or Form W-8BEN\(-E\)\)
 2. Vendor Business Address
