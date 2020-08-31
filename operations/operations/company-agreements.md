@@ -22,7 +22,6 @@ CAOs by area include:
 * Natalie Jew \(HR\) - employment contracts, benefit contracts, vendor contracts (HR) 
 * Aneal Vallurupalli \(Finance\) - sales contracts, corporate contracts, vendor contracts
 * Tim Quock \(Accounting and Procurement\) - sales contracts, corporate contracts, vendor contracts
-* VP \([MLT](https://handbook.mattermost.com/operations/operations/mlt-cadence#mattermost-leadership-team-mlt)\) - vendor contracts
 
 ## Who can send contracts for signature?
 
