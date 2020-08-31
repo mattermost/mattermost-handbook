@@ -7,5 +7,5 @@ _Mattermost Github sponsorship_ is always on the table for [MVP](https://develop
 1. A Mattermost staff member recommends someone for sponsorship and writes a short motivation to support their recommendation.
 2. [MLT](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#mlt) exec member approves the recommendation.
 3. The request is sent to the Finance team.
-4. Email sent to potential sponsor telling them what to do.
+4. An email is sent to the potential sponsor letting them know about the next steps in the process.
 Note: Continued sponsorship will be evaluated quarterly.
