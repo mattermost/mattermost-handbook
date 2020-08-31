@@ -1,7 +1,5 @@
 # Recruiting
 
-Our Mission
-
 **Mattermost's mission is to make the world safer and more productive by developing and delivering secure, open source collaboration software that is trusted, flexible, and offers fast time-to-value.**  
 
 ### Bring Your Best Self to Work at Mattermost
