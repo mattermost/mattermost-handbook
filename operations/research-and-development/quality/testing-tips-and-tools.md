@@ -8,4 +8,6 @@
 * [Desktop App Releases](https://github.com/mattermost/desktop/releases)
 
 ## Telemetry Testing
-* [Telemetry Testing]()
+#### Review the [Mattermost Telemetry Handbook](https://docs.google.com/document/d/1CJeMFxnwUq8njKd3S3zxnfqrwUz8zNDsTmUAYqgy_uo/edit?usp=sharing) for bug fixes relating to server, web-app, mobile and/or plugin telemetry. 
+
+The handbook contains step-by-step instructions for adding and/or updating telemetry, as well as QA-ing test data. Resources contained in the handbook include: telemetry scoping requirements for PM/Dev/QA, standardized Rudderstack development implementation processes, and dashboards to monitor test data.
