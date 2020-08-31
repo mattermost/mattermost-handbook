@@ -29,7 +29,7 @@ CAOs by area include:
 The following staff are approved to send contracts to be initialed and e-signed
 
 * Lynn Conway  - primary for staff agreements and consulting agreements
-* Amy Nicole - primary for vendor contracts and corproate agreements 
+* Amy Nicol - primary for vendor contracts and corporate agreements 
 * Kaely Wright - primary for sales agreements and customer supplier forms
 * Natalie Jew
 * Aneal Vallurupalli
@@ -54,7 +54,6 @@ The following staff are approved to send contracts to be initialed and e-signed
       * Each should have sticker labels indicating what is needed to sign, so nothing is missed
     * A pen
     * Appropriate envelops and/or UPS mailing labels to send the signed package on after it is received
-
 
 
 
