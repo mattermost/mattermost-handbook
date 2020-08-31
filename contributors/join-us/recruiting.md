@@ -6,7 +6,7 @@ Our Mission
 
 ### Bring Your Best Self to Work at Mattermost
 
-We care about enabling our communities, and for Staff this means we strive to foster a high trust and results-focused culture - results matter far more than hours spent in an office. While our headquarters is in Palo Alto, California, we use Mattermost software to work as a distributed organization around the world in partnership with our community.
+We care about enabling our communities, and for staff this means that we strive to foster a high trust and results-focused culture - results matter far more than hours spent in an office. While our headquarters is in Palo Alto, California, we use Mattermost software to work as a distributed organization around the world in partnership with our community.
 
 If you're considering a role at Mattermost, here are the **Top 10 Reasons to work at Mattermost:**
 
