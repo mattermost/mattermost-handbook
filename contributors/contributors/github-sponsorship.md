@@ -1,4 +1,4 @@
-# Mattermost Github sponsorship
+# Mattermost GitHub Sponsorship
 At Mattermost, we would like to empower our key contributors and sponsor them for 1 year. This is not a financial reward, but mostly a recognition.
 With [GitHub Sponsors](https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors/about-github-sponsors#about-github-sponsors) allowing the developer community to financially support the people and organizations who design, build, and maintain the open source projects they depend on, directly on GitHub, we can now launch this new Community Program.
 ## Who is Eligible?
