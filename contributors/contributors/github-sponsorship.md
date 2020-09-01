@@ -5,7 +5,7 @@ With [GitHub Sponsors](https://docs.github.com/en/github/supporting-the-open-sou
 _Mattermost Github sponsorship_ is always on the table for [MVP](https://developers.mattermost.com/contribute/mvp/) (“Most Valued Professional”) type people in any of the [available regions](https://github.com/sponsors) supported by GitHub.
 ## Process Outline
 1. A Mattermost staff member recommends someone for sponsorship and writes a short motivation to support their recommendation.
-2. [MLT](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#mlt) exec member approves the recommendation.
+2. [MLT](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#mlt) exec member approves the recommendation and notifies Jason Blais (@jasonblais).
 3. The request is sent to the Finance team by Jason Blais.
 4. Jason Blais sends the potential sponsor an email letting them know about the next steps in the process.
 **Note:** Continued sponsorship will be evaluated quarterly.
