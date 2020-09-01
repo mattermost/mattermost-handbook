@@ -5,7 +5,7 @@ With [GitHub Sponsors](https://docs.github.com/en/github/supporting-the-open-sou
 
 ## Who is Eligible?
 
-_Mattermost GitHub sponsorship_ is always on the table for [MVP](https://developers.mattermost.com/contribute/mvp/) (“Most Valued Professional”) type people in any of the [available regions](https://github.com/sponsors) supported by GitHub.
+_Mattermost GitHub sponsorship_ is always on the table for [MVP](https://developers.mattermost.com/contribute/mvp/) (“Most Valued Professional”) like contributors in any of the [available regions](https://github.com/sponsors) supported by GitHub.
 
 ## Process Outline
 
