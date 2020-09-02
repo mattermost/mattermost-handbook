@@ -1,4 +1,4 @@
-# Content Development Processes
+# Content Development and Distribution Processes
 
 ## General Content Development Workflow
 
