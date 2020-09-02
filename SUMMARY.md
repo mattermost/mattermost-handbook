@@ -174,6 +174,7 @@
   * [Mattermost Community](contributors/contributors/community.md)
   * [Help Wanted Tickets](contributors/contributors/help-wanted.md)
   * [How to Run a Hackathon](contributors/contributors/how-to-run-a-hackathon.md)
+  * [GitHub Sponsorship](contributors/contributors/github-sponsorship.md)
 * [Join Us](contributors/join-us/README.md)
   * [Recruiting](contributors/join-us/recruiting.md)
   * [Staff Recruiting](contributors/join-us/staff-recruiting/README.md)
