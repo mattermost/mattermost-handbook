@@ -8,9 +8,9 @@ description: Overview of Marketing department and where to find materials
 
 Rather than always call a department "Marketing" - which is a broad term that involves every interaction prospects, customers, our broader [community](../../contributors/contributors/community.md) and the industry has with our brand, product, and company - we use "Messaging and Math" to refer to the core functions of the department:
 
-**MESSAGING:** Define and refine the message we send to audiences \(prospects, customers, community and industry\) about our position and value. This work spans product marketing, corporate marketing, brand, PR, AR, and corporate communications.
+**Messaging:** Define and refine the message we send to audiences \(prospects, customers, community and industry\) about our position and value. This work spans product marketing, corporate marketing, brand, PR, AR, and corporate communications.
 
-**MATH:** Define and deliver the infrastructure and campaigns to quantitatively advance our audiences in their audience journeys based on their specific interests, needs and questions. This includes website development and optimization, and demand generation campaigns across events, advertising, and email.
+**Math:** Define and deliver the infrastructure and campaigns to quantitatively advance our audiences in their audience journeys based on their specific interests, needs and questions. This includes website development and optimization, and demand generation campaigns across events, advertising, and email.
 
 ## Team, Cadence, Channels, and Tools
 
@@ -20,14 +20,13 @@ M&M works largely in Mattermost, Asana, and Zoom in North American timezone.
 
 Messaging
 
-* @lindsay.brock - Product Management 
+* @lindsay.brock - Product Management
 * @josh.day - WayFX website agency
 * @justin.reynolds - Copywriting
 * @adam.gross - Adviser
 
 Math
 
-* @kendall.reicherter - Marketing Operations
 * @hanna.park - General marketing
 
 **Cadence**
@@ -53,10 +52,10 @@ Weekly check-in to clear tactical issues:
   * [💬](https://emojipedia.org/speech-balloon/) [M&M: Leadership](https://community.mattermost.com/private-core/channels/mm)
 * Analysts
   * [💬](https://emojipedia.org/speech-balloon/) [Analyst Research](https://community.mattermost.com/private-core/channels/analyst-research)
-    * [📝](https://emojipedia.org/memo/)[Spreadsheet of past analyst interactions and meeting notes ](https://docs.google.com/spreadsheets/d/1RpBFAbOgkdiiNE-OmtPGn0Ey0JzVODGiW9flACJaiZQ/edit#gid=0)
+    * [📝](https://emojipedia.org/memo/)[Spreadsheet of past analyst interactions and meeting notes](https://docs.google.com/spreadsheets/d/1RpBFAbOgkdiiNE-OmtPGn0Ey0JzVODGiW9flACJaiZQ/edit#gid=0)
     * [📁](https://emojipedia.org/file-folder/)[Decks from past analyst briefings](https://drive.google.com/drive/folders/1Q79Gy4-LJZbvzLXNoBiEEB_Y5-wC_Qqw)
     * [📁Past analyst reports covering Mattermost](https://drive.google.com/drive/folders/16SMn6yR5nIK2YUimpCDC04a1s4F8_j3w)
-    * [📁](https://emojipedia.org/file-folder/)[Analyst reports for research ](https://drive.google.com/drive/folders/1kNKUXxlAvMdSHYSVnXgLLbvonixI4HYh)
+    * [📁](https://emojipedia.org/file-folder/)[Analyst reports for research](https://drive.google.com/drive/folders/1kNKUXxlAvMdSHYSVnXgLLbvonixI4HYh)
 * Public Relationships
   * [💬](https://emojipedia.org/speech-balloon/) [PR](https://community.mattermost.com/private-core/channels/pr)
   * [🌐](https://emojipedia.org/globe-with-meridians/) Press article archive
