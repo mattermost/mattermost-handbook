@@ -5,10 +5,10 @@ description: '50% DRAFT (revised by Ashley Dotterweich on Sept 1, 2020)'
 # Content Marketing
 
 ## Key Links:
-* Extended Content V2MOM 
-* Editorial & Distribution Strategy
-* Content Creation & Distribution Processes
-* Editorial Calendar
+* [Extended Content V2MOM](https://docs.google.com/document/d/1_YhnLS2b4tMslOI5St7daGdfteYaFoZPNbPOErD7v54/edit#) 
+* Editorial & Distribution Strategy (coming soon)
+* Content Creation & Distribution Processes (coming soon)
+* [Editorial Calendar](https://app.asana.com/0/1118354383664913/board)
 
 ## Content V2MOM
 
