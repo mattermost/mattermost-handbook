@@ -113,6 +113,7 @@
   * [Demand Generation Reporting](operations/messaging-and-math/demand-generation-reporting.md)
   * [M&M Asana Guidelines](operations/messaging-and-math/asana-guidelines.md)
   * [Content Marketing](operations/messaging-and-math/content-marketing.md)
+    * [How to use our editorial calendar](operations/messaging-and-math/content-marketing/editorial-calendar.md)
 * [Sales](operations/sales.md)
   * [Deal Desk](operations/finance/deal-desk.md)
   * [Operations and Order Admin](operations/business-operations/sales-operations&order-admin.md)
