@@ -9,6 +9,29 @@ description: 50% complete
 * [Sales Operations Handbook](https://docs.google.com/document/d/1W3Yb3h7ZQ6oq0NhxPuUEjS6-u34spvdkg8VtUToxNQg/edit?usp=sharing_eil&ts=5d9bf9a6)
 * [Rude Q&A](https://www.theverge.com/2020/6/4/21280829/slack-amazon-aws-partnership-amazon-chime-voice-video-calls) - Talking points on questions from competitors and detractors (internal discussions only) 
 
+## Sales Definitions
+
+### Market Segmentation
+
+Market Segmentation is based on Total Employee count of the Account.
+
+* Enterprise = 5,000+ total employees
+* Mid-Market = 500-4,999 total employees
+* SMB (Small Business) = 0-499 total employees
+
+Total Employee count is based on the number of employees that our data tools (Clearbit & DiscoverOrg) return for that account.
+
+### Sales Channel
+
+Sales Channels are ways of bringing products or services to market so that they can be purchased by consumers.
+
+* Sales Serve (Direct) = Sales works directly with the customer to complete the purchase
+  * Handheld interaction with Sales that enables more customization for the end customer (payment method, discounting, MSA, etc.)
+* Partner/Reseller (Indirect) = Sales works with an approved partner or reseller to complete the purchase
+* Self Serve = Customer purchases the product through our [Customer Portal](https://customers.mattermost.com)
+  * Allows a high volume of knowledgeable customers to purchase
+  * **Self Serve is not synonymous with SMB. Self Serve is a Sales Channel that caters to all market segmentations**
+
 ## Forecasting
 
 * Forecasting is a weekly process where Sales, CS and Sales Management communicate how much business they will close within a given period, usually the current quarter. 
