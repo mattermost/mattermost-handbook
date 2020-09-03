@@ -11,6 +11,6 @@ Below is a checklist for how to run meetups, such as [Mattermost's GitLab Commit
 * Select venue and food & beverage order.
 * Receive editable PDF contract from venue and send to procurement for approval.
 * Create event invitation online & promote \(meetup, eventbrite, Mattermost newsletter, social media, email, Sales\). Contact Amanda for assistance.
-* Contact Hanna for shipping assistance with swag \(must have shipping location\).
-* Decide on collateral and contact Barbara for shipping assistance.
-* Will you be getting party decor such as napkins, sign, balloons, etc. Can contact Barbara for assistance.
+* Contact Team Admin for shipping assistance with swag \(must have shipping location\).
+* Decide on collateral and contact Team Admin for shipping assistance.
+* Will you be getting party decor such as napkins, sign, balloons, etc. Can contact Team Admin for assistance.
