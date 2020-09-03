@@ -1,5 +1,3 @@
-1% Draft (WIP migration)
-
 # Internal Security Policies
 
 This document summarizes the internal security policies at Mattermost, Inc.
