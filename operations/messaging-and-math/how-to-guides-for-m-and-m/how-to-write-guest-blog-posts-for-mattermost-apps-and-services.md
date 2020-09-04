@@ -17,14 +17,14 @@ Please provide the following for Mattermost by email:
 
 If you provide screenshots, please help ensure they meet our [screenshot development guidelines](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-screenshots-and-gifs).
 
-A link to the final draft of the blog post will be sent to you by email, so that you can offer feedback and recommendations on it.
+A link to the final draft of the blog post will be sent to you by email prior to publication, so that you can offer feedback and recommendations on it.
 
 ### Mattermost Guest Blog Post Coordinator
 
 Follow these guidelines to develop a clear and concise guest blog post:
 
-* Begin the article with a short bio and introduction of the author\(s\). Include a link to the guest company’s website the first time it is mentioned in the text.
+* Begin the article with a short bio and introduction of the author\(s\). Include a link to the guest company’s website the first time it's mentioned in the text.
 * Include a screenshot of the guest company’s logo in the post.
 * At the end of the post, include a short summary of the guest company as well as a call for readers to share feedback.
-* Also, refer to [style guidelines](https://docs.mattermost.com/process/marketing-guidelines.html) while writing the article.
+* Also, refer to [style guidelines](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines) while writing the article.
 * Choose a relevant visual for the blog post, such as a photo of the author or the guest company’s building.
