@@ -174,6 +174,7 @@
 
 * [Contributors](contributors/contributors/README.md)
   * [Mattermost Community](contributors/contributors/community.md)
+  * [Bugs, Features, and Troubleshooting](contributors/contributors/community/community-systems.md)
   * [Help Wanted Tickets](contributors/contributors/help-wanted.md)
   * [How to Run a Hackathon](contributors/contributors/how-to-run-a-hackathon.md)
   * [GitHub Sponsorship](contributors/contributors/github-sponsorship.md)
