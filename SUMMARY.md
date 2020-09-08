@@ -187,4 +187,7 @@
     * [Product Manager Hiring Process](contributors/join-us/staff-recruiting/product-manager-hiring.md)
   * [Exec Recruiting](contributors/join-us/exec-recruiting/README.md)
     * [EA Logistics](contributors/join-us/exec-recruiting/ea-logistics.md)
+  * [MatterCon](contributors/mattercon/readme.md)
+    * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
+    * [Staff Information Privacy Management](contributors/mattercon/people-policies.md)
     
