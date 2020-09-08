@@ -47,6 +47,22 @@ Note: This section is work-in-progress, being migrated from: [https://docs.matte
 
 Mattermost is a remote-first company, and staff work from locations ranging from their home office to shared workspaces. Our headquarters is on the internet - specifically, we work on an open test server called [https://pre-release.mattermost.com](https://pre-release.mattermost.com/) which runs a pre-released version of Mattermost software with all the newest features and improvements \(which is occassionally unstable\). The server is integrated with Zoom and employees and staff members can launch voice, video, and screensharing meetings within Mattermost.
 
+#### Hiring Across the Globe
+
+We currently support hiring in the following countries/regions:
+* Canada, Chile, Finland, Georgia, Germany, India, Mauritius, Philippines, Poland, South Africa, Turkey, Ukraine, United Kingdom, United States
+
+We are constantly working towards adding more countries/regions to this list, but it takes a lot of time and resources. This list will be updated as we are able to hire in additional countries/regions.
+
+Due to local laws, there may be restrictions on which types of roles we can hire in each country/region.
+
+#### Hiring in the United States
+
+We currently have staff in the following U.S. states:
+* AZ, CA, CO, FL, GA, IN, KS, MA, MD, MI, MO, NC, NJ, NV, NY, OK, SC, TN, TX, UT, VA, WA, WI
+
+Preparing to hire an employee in a new state takes time, and we may be subject to new regulations, taxes, and reporting obligations. If a candidate is progressing in the interview process and would be living and working from a U.S. state not listed above, the Recruiter will DM @tim.quock and @natalie.jew with the state and the title of the position the candidate may fill at least three weeks prior to an anticipated offer.
+
 **Joining the Test Server**
 
 If you’re thinking of joining Mattermost as an open source contributor, as an employee or staff contributor, or as an ecosystem partner, we welcome you to create an account on our server and see what it’s like to work here.
@@ -62,6 +78,9 @@ If you’re in contact with someone with an `@mattermost.com` email address, suc
 **Try Some Formatting**
 
 To practice sending messages in Mattermost, particularly around formatting, you can send messages to yourself to test out how messages will look before sending to another person.
+
+### Referral Progam 
+
 
 ### FAQ
 
