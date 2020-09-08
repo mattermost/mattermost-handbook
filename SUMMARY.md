@@ -189,5 +189,5 @@
     * [EA Logistics](contributors/join-us/exec-recruiting/ea-logistics.md)
   * [MatterCon](contributors/mattercon/readme.md)
     * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
-    * [Staff Information Privacy Management](contributors/mattercon/people-policies.md)
+      * [Staff Information Privacy Management](contributors/mattercon/people-policies.md)
     
