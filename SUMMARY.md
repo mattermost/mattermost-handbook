@@ -114,6 +114,7 @@
   * [Demand Generation Reporting](operations/messaging-and-math/demand-generation-reporting.md)
   * [M&M Asana Guidelines](operations/messaging-and-math/asana-guidelines.md)
   * [Content Marketing](operations/messaging-and-math/content-marketing.md)
+    * [How to Use the Editorial Calendar](operations/messaging-and-math/content-marketing/editorial-calendar.md)
     * [Content Development and Distribution](operations/messaging-and-math/content-marketing/content-development-distribution-processes.md)
     * [How to Contribute Content](operations/messaging-and-math/content-marketing/contributing-content.md)
 * [Sales](operations/sales.md)
