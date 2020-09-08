@@ -1,6 +1,6 @@
 # Community Playbook
 
-This guide outlines the process of running community campaigns.
+This playbook outlines various processes and practices used in the Mattermost community, including running community design meetings and campaigns, managing GitHub and forum issues, and managing Twitter.
 
 ## Running a community design meeting
 
