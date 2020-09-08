@@ -42,6 +42,7 @@
   * [Company Cadence](operations/operations/company-cadence.md)
   * [Company Policies](operations/operations/company-policies/README.md)
     * [Community Response Policy](operations/operations/company-policies/community-response-policy.md)
+    * [Security Policy](operations/operations/company-policies/security-policies.md)
   * [Company Processes](operations/operations/company-processes/README.md)
     * [Issue/Solution Process](operations/operations/issue-solution.md)
     * [Company Agreements](operations/operations/company-agreements.md)
