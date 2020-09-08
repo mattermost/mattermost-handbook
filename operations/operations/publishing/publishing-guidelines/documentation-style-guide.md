@@ -63,11 +63,31 @@ We use the Oxford \(serial\) comma in our documentation.
 
 ### Capitalization
 
+Capitalization is a work in progress and inconsistencies are actively being worked on. New documentation and UI/in-product content should follow this style guide.
+
+#### Documentation headings
+
+**H1**
+
 Use Title Case for document names/titles.
   - For example: "Deployment Guide for Organizations"
 
+**H2 onwards**
+
 Use Sentence case for section titles and headings.
   - For example: "Writing guidelines for editors"
+
+#### UI/in-product text
+
+**H1**
+
+Use Title Case for menu names.
+  - For example: "Create New Channel"
+
+**H2 onwards**
+
+Use Sentence case for other headings, buttons, menu items.
+  - For example: "Select playbook stages"
 
 ### Person
 
