@@ -129,3 +129,32 @@ Below are detailed steps on how to log a Customer Reference in Salesforce.
    - **Approved by Mattermost Legal:** Owner of the reference has reached out to Mattermost legal to ensure there are no clauses in the MSA that the mattermost cannot use their logo or publish case studies.
    - **Notes:** Field to add any additional details.
 4. Select **Save**.
+
+### Customer Risk
+Risk is the chance or probability that a customer will non-renew their existing enterprise license.  The Customer Success team categorizes risk into two buckets.
+
+**At-Risk:** Customer has actively told Mattermost there is a high probability of non-renewal.<br>
+**Early Warning:** The customer has not told Mattermost there is a probability of non-renewal.  Early Warning customers have voiced frustrations or are non-responsive.
+
+The Customer Risk object in Salesforce was created to track Early Warning and At-Risk customers.  Managing customer risk in Salesforce allows for better visibility among departments at Mattermost.  
+
+To log Customer Risk in Salesforce you can watch the  [“Creating Customer Risk” video](https://drive.google.com/drive/u/0/folders/1_nbZhAirM2-4q4oFdygSgmS1H_pAn5qm). Or follow the step-by-step instructions below.
+
+#### Instructions for logging in Salesforce
+1. Log into your Salesforce account
+2. Type in Account Name in the search bar
+3. Hover over **Customer Risk** in the quick links section at the top of the account page and select the **New** button
+4. The quick form appears in a small pop-out window.  You do not need to fill out all fields.  Any fields that do not have a red asterisk will automatically be populated upon saving.  Below are the fields you need to fill out.
+   - **Customer Risk Name:** Put the name of the customer account and type of risk.  For example XYZ Company At-Risk or XYZ Company Early Warning.
+   - **Key Contact:** Who is the main contact at the account.
+   - **Status:** Choose if the customer is At-Risk or Early Warning.  Note: Churned and Renewed fields will be used later based on the renewal outcome.
+   - **# of Seats At-Risk:** How many seats could be potentially non-renewed.  Seat number could be all of the seats available for renewal or a portion of the seats available         for renewal.
+   - **Risk Amount:** What is the amount of ARR that could be potentially non-renewed. Risk mount could be all ARR available for renewal or a portion of the ARR available for         renewal.
+   - **Engagement:** Current interaction between the customer and Mattermost.  For example: is there a call scheduled, is the customer unresponsive, have you reached out to           the customer.
+   - **Competitor:** Who is the competitor the customer is evaluating.
+   - **Reason:** What is the reason the customer is considering non-renewal.  
+   - **Summary:** Description of why the customer is being flagged as an at-risk or early warning.
+   - **Next Step:** What is the next action item with the customer.
+
+
+
