@@ -31,12 +31,15 @@ We value high trust over micromanagement and want to continuously improve how we
 * Every six months (in March and September).
 * [Additional logistics can be found here](https://handbook.mattermost.com/operations/operations/company-cadence#staff-enablement-survey).
 * Post-action planning at team and company level.
+* Reporting group minimum of 5 responses is required for any reporting filters related to: Managers, Teams, etc. This is a commonly used threshfold that helps maintain anonymity of survey responses. 
 
 ### Past Surveys
 
 * [March 2020 - Staff Engagement Survey](https://docs.google.com/presentation/d/1bkUQOCvJyYX-695gpZI7SJal14AWefFx5fJQxTOJKlI/edit#slide=id.g730cbfe72a_0_9).
 
 For additional information on Gallup [see the Gallup website](https://www.gallup.com/corporate/212381/who-we-are.aspx). You can review the list of questions ahead of taking the survey. Each question is important to Mattermost as it relates to our Leadership Principles, remote teams, and shared values of Trust, Growth, and Iteration.
+
+### Survey Questions, Explained 
 
 #### **Q1: I know what is expected of me at Mattermost.**
  
@@ -116,8 +119,16 @@ Understanding where you are today and what the next step may be improves transpa
 
 Staff Net Promoter Score (SNPS) is a health index measuring overall engagement, happiness, and loyalty. SNPS is a common indicator of attrition, both voluntary and involuntary. Understanding how Promoters, Detractors, and Passives rate each category gives us, Mattermost, an opportunity to retain talent, improve performance, and enhance the staff experience.
 
+#### **Q14. Select Direct Manager.** 
+
+Team summary survey responses will be shared across the company. Managers with more than 5 direct reports, and responses, will receive summary data from their team. Team MLT members and Team Leads will decide on the appropriate group for the Post-survey team discussions and action planning. 
+
+#### **Q.15 & Q.16. What Leadership Principle Does your Manager Most and Least Embody?** 
+
+These questions give Managers insight on behaviors that are positively observed or role modeled so they can better understand behaviors to continue, as well as opportunities to grow. Also, in the spirit of [Learn, Master, Teach](https://handbook.mattermost.com/company/about-mattermost/mindsets#learn-master-teach), Managers can help share best practices as it relates to leadership principles they may strongly embody. 
+
 ### Post-COM Survey Analysis
 
-After the survey analysis is presented at [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com), HR will share Enablement Results with MLT as long as there are at least five submitted responses. The minimum response is five in order to preserve the anonymous nature of the survey. HR will work with MLT or the Team Lead to focus on relevant and actionable results based on the feedback. Next, MLT or Team Leads will share and discuss any next steps with the team.
+After the survey analysis is presented at [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com), HR will share Team Enablement Results with MLT and Managers, as long as there are at least five submitted responses. HR will work with MLT or the Team Lead to focus on relevant and actionable results based on the feedback. Next, MLT or Team Leads will share and discuss any next steps with the team.
 
-Post-survey actions start with team conversations and are further contextualized with pulse surveys and listening sessions to help understand blindspots and brown M&Ms. With bi-annual surveys, post-survey action planning should be iterative throughout the year.
+Post-survey actions start with team conversations and may include pulse surveys and listening sessions to help contextualize feedback and uncover blindspots. With bi-annual surveys, post-survey action planning should be iterative throughout the year.
