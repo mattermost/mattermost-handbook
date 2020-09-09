@@ -17,14 +17,14 @@ If you're considering a role at Mattermost, here are the **Top 10 Reasons to wor
 7. **Improve a product you use every day:** Work on a team with deep empathy for users and customers.
 8. **Focus on results:** Output matters, not hours worked. Enjoy life and don’t burn out.
 9. **Learn, Master, Teach:** Building new skills, becoming experts, and training others is core to our culture.
-10. **Friends around the world:** Build relationships with staff and contributors in dozens of countries.
+10. **Friends around the world:** Build relationships with staff and contributors in dozens of countries/regions.
 
 ## Interview Stages
 
-We can hire from many countries and regions across the globe. While in-office interviews typically go through 1 - 3 interview rounds, our candidates and interviewers may be located in various timezones and therefore each interview is scheduled separately. The stages are as follows:
+We can hire from many countries and regions across the globe. While in-office interviews typically go through 1-3 interview rounds, our candidates and interviewers may be located in various timezones and therefore each interview is scheduled separately. The stages are as follows:
 
 1. **Recruiter Screen:** This person is a candidate's main point of contact during the interview process at Mattermost. For some roles, Hiring Managers may incorporate a recruiter screen within their first interview with a candidate.
-2. **Hiring Manager, Technical, and Team Interviews:** This portion typically consists of 3 - 4 interviewers. In addition to the Hiring Manager, candidates can expect to interview with team and cross-team members who will work closely with, or similarly to, the individual in this role.
+2. **Hiring Manager, Technical, and Team Interviews:** This portion typically consists of 3-4 interviewers. In addition to the Hiring Manager, candidates can expect to interview with team and cross-team members who will work closely with, or similarly to, the individual in this role.
 3. **Interview Project:** All take-home projects will list the expected amount of time expected to complete. We really appreciate all of the time spent completing a take-home project. As a 'thank you,' candidates will be invited to select a gift option upon completion of the project.
 4. **Final Interviews:** This typically includes the Hiring Team's [MLT](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#mlt) and one of our co-founders. **Note:** For Director and above interviews, both Mattermost co-founders will interview candidates.
 5. **Final Decision:** A member of the Hiring Team will reach out to you to let you know our decision.
