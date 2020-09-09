@@ -54,7 +54,7 @@ Beyond equipment and home office this can include any resource that would help o
 
 Being a Destination Workplace means each person is both willing and enabled to bring your best self to work. Many factors can affect one’s willingness and enablement to do what you do best, like: internal motivation, work style, strengths, growth areas, onboarding, or internal training. 
 
-When a Manager understands how each factor differs across a team they can [iterate](https://docs.google.com/presentation/d/1BDSaeW-M92gth_NM1vI23dtbFLBsYVIk/edit#slide=id.g6f3b66b1fb_0_352) task assignments or adjust working groups to improve team performance and [elevate team standards](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) by leveraging individual strengths with intent.
+When a Manager understands how each factor differs across a team they can [iterate](https://docs.google.com/presentation/d/1BDSaeW-M92gth_NM1vI23dtbFLBsYVIk/edit#slide=id.g6f3b66b1fb_0_352) task assignments or adjust working groups to improve team performance and [elevate team standards](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) by leveraging individual strengths with alignment to business outcomes.
 
 #### **Q4. In the last seven days, I have received recognition or praise for doing good work.**
 
@@ -92,9 +92,11 @@ To mitigate assumption-based thought, we want to focus on improving and communic
 
 #### **Q10. I have a best friend at Mattermost.**
 
-Socializing is physically difficult in a remote environment but not impossible. However, this factor does prioritize our focus to foster connections across Mattermost. We have a great team of staff and contributors around the world and the opportunity to create connections across teams and within our global community is a Mattermost differentiator.
+The term “best friend” is intended to mean **quality of work relationships**. Gallup intentionally uses this term because it pinpoints a dynamic of great workgroups. 
 
-The term “best friend” in this question is intended to mean quality of work relationships. When camaraderie exists within and across teams, issues are more likely to be solved with greater ease, clarity, speed, and [trust](https://handbook.mattermost.com/company/about-mattermost#leadership-principles). When camaraderie is low, [high impact issues](https://docs.google.com/presentation/d/1BDSaeW-M92gth_NM1vI23dtbFLBsYVIk/edit#slide=id.g6f3b66b1fb_0_352) or problems that require partnership are more likely to be avoided.
+When camaraderie exists within and across teams, issues are more likely to be solved with greater ease, clarity, speed, and [trust](https://handbook.mattermost.com/company/about-mattermost#leadership-principles). [Gallup's research](https://www.gallup.com/workplace/236213/why-need-best-friends-work.aspx) also shows that when camaraderie or a sense of affiliation is low, [high impact issues](https://docs.google.com/presentation/d/1BDSaeW-M92gth_NM1vI23dtbFLBsYVIk/edit#slide=id.g6f3b66b1fb_0_352) or problems that require partnership are more likely to be avoided, and less likely to be driven with positive actions that benefit the business and teams.
+
+In addition to camraderie within workgroups, we also care about fostering quality relationships with coworkers outside of workgroups. Socializing is physically difficult in a remote environment but not impossible. We have a great team of staff and contributors and want to support opportunities to create and build connections with team and community members around the world.  
 
 #### **Q11. In the last six months, someone at Mattermost has talked to me about my progress.**
 
