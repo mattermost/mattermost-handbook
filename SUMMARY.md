@@ -27,7 +27,7 @@
     * [How to arrange a simulation](company/how-to-guides-for-staff/how-to-purchase/how-to-arrange-a-simulation.md)
     * [How to request a Divvy virtual credit card](company/how-to-guides-for-staff/how-to-purchase/request-a-divvy-virtual-credit-card.md)
     * [How to arrange a bounty program](company/how-to-guides-for-staff/how-to-purchase/how-to-arrange-a-bounty-program.md)
-  * [How to do an unscheduled post-mortem](company/how-to-guides-for-staff/how-to-do-a-post-escalation-post-mortem.md)
+  * [How to do a mini-retrospective](company/how-to-guides-for-staff/how-to-do-a-post-escalation-post-mortem.md)
 
 ## Operations
 
