@@ -129,7 +129,7 @@ Below are detailed steps on how to log a Customer Reference in Salesforce.
    - **End Date:** Populate if the customer will no longer allow us to use their case study, logo, LinkedIn post, etc. Please add to the notes section on why the customer has an end date.
    - **Owner:** Automatically populated and assigned to the person who creates the reference. It can be changed by using the **Change Owner** button.
    - **Approved by Customer Legal:** Customer contact has approval from their legal team.
-   - **Approved by Mattermost Legal:** Owner of the reference has reached out to Mattermost legal to ensure there are no clauses in the MSA that the mattermost cannot use their logo or publish case studies.
+   - **Approved by Mattermost Legal:** Owner of the reference has reached out to Mattermost legal to ensure there are no clauses in the MSA that Mattermost cannot use their logo or publish case studies.
    - **Notes:** Field to add any additional details.
 4. Select **Save**.
 
