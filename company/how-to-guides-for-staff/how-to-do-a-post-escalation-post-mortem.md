@@ -1,13 +1,13 @@
 ---
 description: >-
   After hitting an unanticipated issue or approval escalation, we should
-  complete an unscheduled post-mortem to help us improve our processes and avoid
+  complete a mini-retrospective to help us improve our processes and avoid
   making the same mistake twice.
 ---
 
-# How to do an unscheduled post-mortem
+# How to do a mini-retrospective 
 
-In the spirit of iteration and continuous improvement, after hitting a significant or repeated issue, we should write an unscheduled post-mortem and share it with the team. 
+In the spirit of iteration and continuous improvement, after hitting a significant or repeated issue, we should write a mini-retrospective and share it with the team. 
 
 This should take 5-10 minutes to prepare.   
   
