@@ -1,4 +1,4 @@
-# Hacktoberfest: Mattermost Organizer Guide
+# Hacktoberfest Event Organizer Guide for Mattermost
 
 This page gives you tips for running your Hacktoberfest event on the Mattermost platform.
 
