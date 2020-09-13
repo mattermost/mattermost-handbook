@@ -17,7 +17,7 @@ Once you’ve joined the channel, you’ll find the event time and location in t
 
 ## Connect with your community
 
-Mattermost is a great way to connect with your community before, during and after the event. It is also a great way to create an open, inclusive, and welcoming atmosphere to everyone.
+Mattermost is a great way to connect with your community before, during, and after the event. It's also a great way to create an open, inclusive, and welcoming atmosphere for everyone.
 
 Use the channel to facilitate conversations related to your event. For instance, what questions do people have? What open source contributions are they planning to make? What ideas do they have for Hacktoberfest?
 
