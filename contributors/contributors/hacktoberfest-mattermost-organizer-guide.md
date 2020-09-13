@@ -4,7 +4,7 @@ This page gives you tips for running your Hacktoberfest event on the Mattermost 
 
 ## Join your event channel
 
-Each [Hacktoberfest event](https://hacktoberfest.digitalocean.com/events) has a dedicated Mattermost channel for them in [https://hacktobefest.cloud.mattermost.com/](https://hacktobefest.cloud.mattermost.com/). To join your event channel:
+Each [Hacktoberfest event](https://hacktoberfest.digitalocean.com/events) has a dedicated Mattermost channel on the [https://hacktobefest.cloud.mattermost.com/](https://hacktobefest.cloud.mattermost.com/) server. To join your event channel:
 
 1. [Create your Mattermost account](https://hacktoberfest.cloud.mattermost.com/signup_email).
 2. Verify your email address.
