@@ -8,7 +8,7 @@ Each [Hacktoberfest event](https://hacktoberfest.digitalocean.com/events) has a 
 
 1. [Create your Mattermost account](https://hacktoberfest.cloud.mattermost.com/signup_email).
 2. Verify your email address.
-3. On the left-hand side, click the “Jump to…” bar and type your event name.
+3. On the left-hand side, click the **Jump to…** bar and type your event name.
 4. Select the resulting channel for your event.
 
 Once you’ve joined the channel, you’ll find the event time and location in the channel header, along with the event schedule posted by the **Hacktoberfest** bot:
