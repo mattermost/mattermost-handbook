@@ -13,7 +13,7 @@ Each [Hacktoberfest event](https://hacktoberfest.digitalocean.com/events) has a 
 
 Once you’ve joined the channel, you’ll find the event time and location in the channel header, along with the event schedule posted by the **Hacktoberfest** bot:
 
-![](../.gitbook/assets/hacktoberfest-organizer-bot-message.png)
+![](../../.gitbook/assets/hacktoberfest-organizer-bot-message.png)
 
 ## Connect with your community
 
