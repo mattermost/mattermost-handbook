@@ -180,6 +180,7 @@
   * [Help Wanted Tickets](contributors/contributors/help-wanted.md)
   * [How to Run a Hackathon](contributors/contributors/how-to-run-a-hackathon.md)
   * [Mattermost GitHub Sponsorship](contributors/contributors/github-sponsorship.md)
+  * [Hacktoberfest Event Organizer Guide for Mattermost](contributors/contributors/hacktoberfest-mattermost-organizer-guide.md)
 * [Join Us](contributors/join-us/README.md)
   * [Recruiting](contributors/join-us/recruiting.md)
   * [Staff Recruiting](contributors/join-us/staff-recruiting/README.md)
