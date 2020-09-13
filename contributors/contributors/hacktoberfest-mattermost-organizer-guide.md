@@ -26,7 +26,7 @@ After the event, thank your attendees for taking the time to attend your Hacktob
 ## Quick tips
 
 - Complete your profile in **Main Menu > Account Settings**, including your profile picture and name, so your community can make a more personal connection with you.
-- Join **Off-Topic** channel to have conversations with all Hacktoberfest event organizers and attendees.
+- Join the **Off-Topic** channel to have conversations with all Hacktoberfest event organizers and attendees.
 - Use `@channel` in your event channel to share important updates with your community. This will send an email notification to anyone who is not currently online.
 
 ## Have questions?
