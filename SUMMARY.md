@@ -181,7 +181,7 @@
   * [How to Run a Hackathon](contributors/contributors/how-to-run-a-hackathon.md)
   * [GitHub Sponsorship](contributors/contributors/github-sponsorship.md)
 * [Join Us](contributors/join-us/README.md)
-  * [Recruiting](contributors/join-us/recruiting.md)
+  * [Things Candidates Should Know](contributors/join-us/recruiting.md)
   * [Staff Recruiting](contributors/join-us/staff-recruiting/README.md)
   * [Recruiting Cadences](contributors/join-us/staff-recruiting/recruiting-cadences.md)
     * [Product Manager Hiring Process](contributors/join-us/staff-recruiting/product-manager-hiring.md)
