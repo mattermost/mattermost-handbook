@@ -37,7 +37,7 @@ Recommended download/upload speeds should be 8 Mbps/512 kbps for smooth group ca
 
 There are exceptions to this requirement, for example: part-time roles that don’t need to take meetings, or roles providing support outside core meeting hours. Hiring Managers and Recruiters will indicate any time zone requirements for specific roles and/or teams.
 
-We are continually expanding where we can hire staff, updated lists can be found [here](https://handbook.mattermost.com/contributors/join-us) 
+We are continually expanding where we can hire staff, updated lists can be found [here](https://handbook.mattermost.com/contributors/join-us).
 
 #### 2. Be Explicit
 
@@ -59,7 +59,7 @@ When working on problems, make sure to be clear about next steps, and either fol
 
 #### 4. Hang Out
 
-We have [warm-ups](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/mattermost-communication#ice-breaker) in some meetings to learn more about each other. It’s part of a culture where we get to know each other.
+We have [warm-ups](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/mattermost-communication#ice-breaker) in some meetings to learn more about each other. It’s part of our culture where we get to know each other.
 
 Find time after meetings and video conferences to get to know your teammates. Ask them about their weekends and how their life is outside of work.
 
@@ -67,7 +67,7 @@ When you meet in person at off-sites and events, build on those relationships.
 
 #### 5. Be the Change You Want to See
 
-When something’s not clearly documented, take the initiative to figure out what’s going on and update the documentation for the people who come after you.
+When something isn't clearly documented, take the initiative to figure out what's going on, and update the documentation for the people who come after you.
 
 [Learn, Master, Teach](https://handbook.mattermost.com/company/about-mattermost/mindsets#learn-master-teach) is a model we use to pass on training after you’ve been trained to help grow everyone at the company.
 
