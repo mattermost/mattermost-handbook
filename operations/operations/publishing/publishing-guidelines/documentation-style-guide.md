@@ -310,7 +310,7 @@ The majority of Mattermost technical documentation is written in `.rst`. However
 
 These are some additional tips for writing [Mattermost documentation for end users](https://docs.mattermost.com/guides/user.html).
 
-1.	Start fresh - begin by writing a draft in a Google document from scratch.
+1. Start fresh - begin by writing a draft in a Google document from scratch.
 2. Start the document by describing the benefits of the feature for end users ([see this example](https://docs.mattermost.com/help/messaging/attaching-files.html)).
 3.	Compare to the original document to add any important information or tips that you forgot to include in your draft.
 4. Explain how to use the feature - use short bullet points as well as screenshots as applicable.
