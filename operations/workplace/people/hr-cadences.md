@@ -125,7 +125,7 @@ Team summary survey responses will be shared across the company. Managers with m
 
 #### **Q.15 & Q.16. What Leadership Principle Does your Manager Most and Least Embody?**
 
-These questions give Managers insight on behaviors that are positively observed or role-modeled so they can better understand behaviors to continue, as well as opportunities to grow. Also, in the spirit of [Learn, Master, Teach](https://handbook.mattermost.com/company/about-mattermost/mindsets#learn-master-teach), Managers can help share best practices as it relates to leadership principles they may strongly embody.
+These questions give Managers insight on behaviors that are positively observed or role-modeled, so they can better understand which behaviors to continue, as well as opportunities to grow. Also, in the spirit of [Learn, Master, Teach](https://handbook.mattermost.com/company/about-mattermost/mindsets#learn-master-teach), Managers can help share best practices as it relates to leadership principles they may strongly embody.
 
 ### Post-COM Survey Analysis
 
