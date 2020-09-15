@@ -178,6 +178,7 @@
   * [Mattermost Community](contributors/contributors/community.md)
   * [Mattermost Community Playbook](contributors/contributors/community-playbook.md)
   * [Help Wanted Tickets](contributors/contributors/help-wanted.md)
+  * [Localization](contributors/contributors/localization.md)
   * [How to Run a Hackathon](contributors/contributors/how-to-run-a-hackathon.md)
   * [Mattermost GitHub Sponsorship](contributors/contributors/github-sponsorship.md)
   * [Hacktoberfest Event Organizer Guide for Mattermost](contributors/contributors/hacktoberfest-mattermost-organizer-guide.md)
