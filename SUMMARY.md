@@ -120,6 +120,7 @@
 * [Sales](operations/sales.md)
   * [Deal Desk](operations/finance/deal-desk.md)
   * [Operations and Order Admin](operations/business-operations/sales-operations&order-admin.md)
+  * [Partner Programs](operations/finance/partner-programs.md)
 * [Customer Success](operations/customer-success/README.md)
 * [Business Operations](operations/business-operations/README.md)
   * [V2MOM](operations/business-operations/vpmom.md)
