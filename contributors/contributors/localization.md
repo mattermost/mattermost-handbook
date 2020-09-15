@@ -4,7 +4,7 @@ The goal of the localization process is to consistently produce high quality tra
 
 ## Translation Process
 
-If you're interested in contributing translations to Mattermost, please join the [Mattermost localization channel to discuss] (https://community.mattermost.com/core/channels/localization). Below are descriptions of the overall localization process.
+If you're interested in contributing translations to Mattermost, please join the [Mattermost localization channel to discuss](https://community.mattermost.com/core/channels/localization). Below are descriptions of the overall localization process.
 
 ## Initial Translation
 
