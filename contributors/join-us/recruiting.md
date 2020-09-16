@@ -103,7 +103,9 @@ We hope that you have a great experience interviewing at Mattermost and welcome 
 
 ## Reference Checks and Offer Stage
 
-Candidates will receive a verbal offer to join Mattermost. Upon verbal acceptance, the hiring team will send the contract paperwork to the new candidate. Offer letters will be signed internally first, with the [CAO](The stages are as follows: [CAO to initial](https://handbook.mattermost.com/operations/operations/company-processes/company-agreements#who-are-contract-accountability-owners-caos) as the first signer. The to-be-new staff member will be the third and final signer.
+Candidates will receive a verbal offer to join Mattermost. Upon verbal acceptance, the hiring team will send the contract paperwork to the new candidate. Offer letters will be signed internally first: 
+- [CAO to initial](https://handbook.mattermost.com/operations/operations/company-processes/company-agreements#who-are-contract-accountability-owners-caos) as the first signer.
+- The prospective staff member will be the third and final signer.
 
 Reference checks are typically done through [SkillSurvey](https://www.skillsurvey.com/reference-checking-solution/) or a Hiring Manager may decide to conduct references on their own. Candidates will be informed of reference type ahead of providing references. All contracts are contingent on the successful and satisfactory completion of reference checks.
 
