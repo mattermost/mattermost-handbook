@@ -1,6 +1,6 @@
 # Transfers and Promotions
 
-We want staff to feel empowered to do the best work of their careers at Mattermost and enabled to drive the direction of their own growth trajectories at Mattermost. 
+We want staff to feel empowered to do the best work of their careers at Mattermost and enabled to drive the direction of their own growth trajectories at Mattermost.
 
 ## What's the difference between a transfer and a promotion?
 
