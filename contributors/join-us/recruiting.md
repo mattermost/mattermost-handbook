@@ -25,7 +25,7 @@ In addition to this page, we also encourage anyone interested in interviewing at
 
 ### Remote First
 
-We’re headquartered in Palo Alto, California and, like many open source companies, a large portion of Mattermost, Inc. works across the globe. We run as a distributed, high performance and high trust team using a few principles:
+We’re headquartered in Palo Alto, California and, like many open source companies, Mattermost's staff and contributors are widely geographically located. We run as a distributed, high performance, and high trust team using a few principles:
 
 #### 1. Work Anywhere with Good Internet
 
