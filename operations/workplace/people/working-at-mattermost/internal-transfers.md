@@ -9,7 +9,9 @@ We want staff to feel empowered to do the best work of their careers at Mattermo
 
 ### Process for Transfers
 
-Internal transfers across teams have an informal and a formal component. Informally, a team member is encouraged to be curious and seek to learn about other roles, teams, projects, and Hiring Managers. Managers or MLT may also initiate a transfer conversation as part of general org and team planing.
+Internal transfers have an informal and a formal component. 
+
+Informally, a team member is encouraged to be curious and seek to learn about other roles, teams, projects, and Hiring Managers. Managers or MLT may also initiate a transfer conversation as part of general organization and team planing.
 
 When a team member and Hiring Manager agree that a potential transfer may be a good fit, the Hiring Manager should discuss a potential transfer with the team member's current Manager as well as HR to kick off the formal transfer process.
 
