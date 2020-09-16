@@ -2,12 +2,14 @@
 
 We want staff to feel empowered to do the best work of their careers at Mattermost and enabled to drive the direction of their own growth trajectories at Mattermost. 
 
-## What's the difference between a transfer and a promotion? 
-* Transfers occur when a team member moves to a new team or function and owns a different set of [AORs](https://handbook.mattermost.com/operations/operations/areas-of-responsibility). For example, a Customer Support Engineer would transfer to a Customer Success Engineer role, or vice versa. 
-* Promotions occur when a team member increases in level within the same team or function. For example, a SDE I would be promoted to SDE II. 
+## What's the difference between a transfer and a promotion?
+
+* Transfers occur when a team member moves to a new team or function and owns a different set of [AORs](https://handbook.mattermost.com/operations/operations/areas-of-responsibility). For example, a Customer Support Engineer would transfer to a Customer Success Engineer role, or vice versa.
+* Promotions occur when a team member increases in level within the same team or function. For example, an SDE I being promoted to SDE II.
 
 ### Process for transfers
-Internal transfers across teams have an informal and formal component. Informally, a team member is encouraged to be curious and seek to learn about other roles, teams, projects, and Hiring Managers. Managers or MLT may also initiate a transfer conversation as part of general org and team planing. 
+
+Internal transfers across teams have an informal and a formal component. Informally, a team member is encouraged to be curious and seek to learn about other roles, teams, projects, and Hiring Managers. Managers or MLT may also initiate a transfer conversation as part of general org and team planing.
 
 When a team member and Hiring Manager agree that a potential transfer may be a good fit, the Hiring Manager should discuss a potential transfer with the team member's current Manager as well as HR to kick off the formal transfer process.
 
@@ -24,12 +26,15 @@ The goal of this discussion is to:
 ### Process for promotions
 
 **Cadence**
+
 Level changes are reviewed and discussed during every [performance review cycle](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50?q=levels). As such, promotions typically happen once a year during the [Winter Performance Review cycle](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50/performance-review-timeline-winter-2019). Managers and staff are also encouraged to discuss growth and development opportunities throughout the year. 
 
 **Off-Cycle Cadence**
+
 Off-cycle promotions may also occur based on business need. This is typically determined if a [new job need exists](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#how-to-open-a-new-role). Staff members can express interest in being considered for an [open role](https://mattermost.com/careers/) by reaching out to the Hiring Manager. Similar to transfers, depending on the new role, there may be a need to assess skillset. This will be determined and communicated on a case-by-case basis, and will typically involve components of the internal interview process. 
 
 **Manager and Above Promotions**
+
 Managers are responsible for ensuring alignment across the org and within their own team. Managers play a significant role in their teams and direct report's careers at Mattermost. It's important that every newly hired or promoted manager fully understands the role and responsibitlies of Managers at Mattermost, and that they are set up for success to meet or exceed future role expectations. We assess every management level based on the [Mattermost Leadership Principles](https://handbook.mattermost.com/company/about-mattermost#leadership-principles).  
 
 * Promotions to Manager will typically follow the typical internal interview process.  
