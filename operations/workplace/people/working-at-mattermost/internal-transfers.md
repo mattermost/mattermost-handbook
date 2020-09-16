@@ -25,7 +25,7 @@ The goal of this discussion is to:
 - Allow HR to confirm potential compensation impact, especially if the transition results in a decrease in compensation.
 - Create a transition plan that balances the needs above with an aligned timeline.
 
-### Process for promotions
+### Process for Promotions
 
 **Cadence**
 
