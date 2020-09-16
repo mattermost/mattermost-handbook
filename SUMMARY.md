@@ -146,7 +146,6 @@
     * [Working at Mattermost](operations/workplace/people/working-at-mattermost/README.md)
       * [Onboarding](contributors/onboarding/README.md)
          * [Things Everyone Must Know](contributors/onboarding/things-everyone-must-know.md)
-         * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
          * [Staff Onboarding](contributors/onboarding/staff-onboarding-guide/README.md)
          * [Engineer Onboarding Timeline & Expectations](contributors/onboarding/staff-onboarding-guide/engineer-onboarding.md)
          * [Manager Onboarding](contributors/onboarding/manager-onboarding-1.md)
@@ -190,4 +189,5 @@
     * [EA Logistics](contributors/join-us/exec-recruiting/ea-logistics.md)
   * [MatterCon](contributors/mattercon/readme.md)
     * [Staff Information Privacy Management](contributors/mattercon/people-policies.md)
+    * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
     
