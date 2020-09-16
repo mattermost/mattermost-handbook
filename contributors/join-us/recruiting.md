@@ -39,7 +39,7 @@ There are exceptions to this requirement, for example: part-time roles that donâ
 
 We are continually expanding where we can hire staff, updated lists can be found [here](https://handbook.mattermost.com/contributors/join-us).
 
-#### 2. Be Explicit
+#### 2. Be Clear and Precise
 
 Working in a distributed organization means it may take time before a person reads your message and responds, so make sure you are clear.
 
