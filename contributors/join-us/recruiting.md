@@ -53,7 +53,7 @@ Write unambiguously:
 
 Likewise, we emphasize written communication. Reading is faster than listening and it reaches more people, which means more happens in less time.
 
-#### 3. Follow Through
+#### 3. Take Ownership
 
 When working on problems, make sure to be clear about next steps, and either follow through or create a ticket to track the work.
 
