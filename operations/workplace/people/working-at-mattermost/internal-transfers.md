@@ -7,7 +7,7 @@ We want staff to feel empowered to do the best work of their careers at Mattermo
 * Transfers occur when a team member moves to a new team or function and owns a different set of [AORs](https://handbook.mattermost.com/operations/operations/areas-of-responsibility). For example, a Customer Support Engineer would transfer to a Customer Success Engineer role, or vice versa.
 * Promotions occur when a team member increases in level within the same team or function. For example, an SDE I being promoted to SDE II.
 
-### Process for transfers
+### Process for Transfers
 
 Internal transfers across teams have an informal and a formal component. Informally, a team member is encouraged to be curious and seek to learn about other roles, teams, projects, and Hiring Managers. Managers or MLT may also initiate a transfer conversation as part of general org and team planing.
 
