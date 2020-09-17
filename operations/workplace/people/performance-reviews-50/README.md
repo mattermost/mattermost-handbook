@@ -4,38 +4,42 @@ description: How to do performance reviews the Mattermost way.
 
 # Performance Reviews
 
+The performance review process is a vital practice to reflect on the output of ourselves and our colleagues, to identify the key opportunities for each of us to grow and excel, to objectively review our capabilities and track record on delivering results against the requirements of our role levels, which may result in level-based promotions, compensation adjustments, and/or changes in role. 
+
 ## Why are performance reviews important? 
 
 The responsibility of a manager is to increase the total output of the organizations they control and the organizations they influence. 
 
-The purpose of a performance review is to assess a colleague's performance, have the colleague clearly understand how to progress professionally in the opinion of the manager, and hold the colleague accountable for increasing their performance based on the assessment and feedback. 
+The primary purpose of a performance review is to assess a colleague's performance, have the colleague clearly understand how to progress professionally in the opinion of the manager, and hold the colleague accountable for increasing their performance based on the assessment and feedback. 
 
 It is one of the most difficult things a people manager needs to do, it is also one of the most important. 
 
 ### Other than increasing output, what are other objectives of performance reviews? 
 
-The primary goal of performance reviews is to increase the output of colleagues and of the organization. 
+In addition to the primary goal increasing the output of colleagues and of the organization, the performance review process also serves to align our actions to [Mattermost Leadership Principles](../../../../company/about-mattermost/#leadership-principles), which are used as the criteria for peer-evaluation, and to calibrate role levels with a colleague's, which may result in level-based promotions and compensation adjustments or if level expectations are repeatedly not met, changes in role. 
 
-The process also serves to align our actions to [Mattermost Leadership Principles](../../../../company/about-mattermost/#leadership-principles), which are used as the criteria for peer-evaluation, and to calibrate role levels with a colleague's, which may result in level-based promotions and compensation adjustments or if level expectations are repeatedly not met, changes in role. 
+## Manager Training 
 
-## **High Output Management**
+We believe a manager’s fundamental purpose of a performance review is to improve performance. We use Chapter 13 of the book [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK) as the framework and pre-reading for our review process. 
 
-We believe a manager’s fundamental purpose of a performance review is to improve performance. Andy Grove discusses this in Chapter 13 of his book, [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK). There are two [mindsets](https://handbook.mattermost.com/company/about-mattermost/mindsets) from the book that should be considered whether you are writing a peer, manager or self review. If you are a manager, you should read this chapter, [complete a short set of questions](https://forms.gle/uG8VvFGcpSfQMdvz6) and attend one of the manager training sessions.
+At performance review time all managers should: 
 
-* **Three Ls: Level, Listen, Leave yourself out**
-  * Level - be straightforward in praise as well as criticism. 
-  * Listen -  be confident that your feedback is heard and understood, listen to the response. 
-  * Leave yourself out - the review is not about you. Focus on the feedback you think is important in order for your direct report to increase future output. 
-* **Output Measures vs. Internal Measures**
+1. Read this document and the related documents to their departmental review process in detail. 
 
-  We value high output and high impact and this tip facilitates the right balance. Performance that is tangible and capable of being measured is a straightforward indicator of success. It may also indicate the activity was short-term oriented. Performance that takes place over a period of time may be long-term oriented and intended to increase output at a future date.
+1. Read or re-read Chapter 13 of [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK) (and expense a copy if you don't have one yet). 
+
+1. Complete a [complete a short set of questions](https://forms.gle/uG8VvFGcpSfQMdvz6) to reflect on the material. 
+
+1. If you have not yet been through a Performance Review Training session organized by HR in the last 18 months, please join one when requested as the review cycle begins. 
 
 ## **How is feedback shared?**
 
 Feedback is solicited in a 360-degree style to incorporate feedback from peers. If you manage people, your manager may include direct reports in your peer feedback panel.
 
 * **Peer Feedback** - Peer reviews are a personalized version of [Likes and Wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes). Staff will select 3-6 peers for their peer feedback panel. Managers can adjust the panel at any time prior to the deployment of peer surveys. We will try and limit peer review panel requests to 5 per person. 
+
 * **Self Reflection** - [Self Awareness](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) is one of our [Leadership Principles](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) and will be a factor of success for the entire process. This portion is written by self. 
+
 * **Manager Evaluation** - Managers will review all feedback to complete your performance appraisal.
 
 ## **What is the process?**
@@ -46,6 +50,14 @@ All Staff will take part in the Annual Winter Performance Review Process. R&D wi
   * Criteria: Staff members at Mattermost between 90 days and 6 months 
 * [Formal Review Process](https://handbook.mattermost.com/operations/people/performance-reviews-50/formal-review-process)
   * Criteria: Staff members at Mattermost at least 6 months 
+
+Note: Previously we did not complete performance reviews for field roles, and in 2020 we are engaging in the process for the whole company for the first time. Leveling and calibration of field roles is under development as of September 2020 in preparation for winter-time reviews. 
+
+### Questions and Answers 
+
+#### Are annual performance reviews also a time to review compensation? 
+
+Yes. In the process of reviewing performance against target levels, changes in level and in compensation are also reviewed with the HR team and compensation committees by department. 
 
 # R&D Mid-Year Performance Review 2020 - Timeline & Forms
 
