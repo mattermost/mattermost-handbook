@@ -27,7 +27,7 @@
     * [How to arrange a simulation](company/how-to-guides-for-staff/how-to-purchase/how-to-arrange-a-simulation.md)
     * [How to request a Divvy virtual credit card](company/how-to-guides-for-staff/how-to-purchase/request-a-divvy-virtual-credit-card.md)
     * [How to arrange a bounty program](company/how-to-guides-for-staff/how-to-purchase/how-to-arrange-a-bounty-program.md)
-  * [How to do an unscheduled post-mortem](company/how-to-guides-for-staff/how-to-do-a-post-escalation-post-mortem.md)
+  * [How to do a mini-retrospective](company/how-to-guides-for-staff/how-to-do-a-post-escalation-post-mortem.md)
 
 ## Operations
 
@@ -42,6 +42,7 @@
   * [Company Cadence](operations/operations/company-cadence.md)
   * [Company Policies](operations/operations/company-policies/README.md)
     * [Community Response Policy](operations/operations/company-policies/community-response-policy.md)
+    * [Security Policy](operations/operations/company-policies/security-policies.md)
   * [Company Processes](operations/operations/company-processes/README.md)
     * [Issue/Solution Process](operations/operations/issue-solution.md)
     * [Company Agreements](operations/operations/company-agreements.md)
@@ -113,6 +114,7 @@
   * [Demand Generation Reporting](operations/messaging-and-math/demand-generation-reporting.md)
   * [M&M Asana Guidelines](operations/messaging-and-math/asana-guidelines.md)
   * [Content Marketing](operations/messaging-and-math/content-marketing.md)
+    * [How to Use the Editorial Calendar](operations/messaging-and-math/content-marketing/editorial-calendar.md)
     * [Content Development and Distribution](operations/messaging-and-math/content-marketing/content-development-distribution-processes.md)
     * [How to Contribute Content](operations/messaging-and-math/content-marketing/contributing-content.md)
 * [Sales](operations/sales.md)
@@ -175,9 +177,12 @@
 * [Contributors](contributors/contributors/README.md)
   * [Mattermost Community](contributors/contributors/community.md)
   * [Community Systems](contributors/contributors/community/community-systems.md)
+  * [Mattermost Community Playbook](contributors/contributors/community-playbook.md)
   * [Help Wanted Tickets](contributors/contributors/help-wanted.md)
+  * [Localization](contributors/contributors/localization.md)
   * [How to Run a Hackathon](contributors/contributors/how-to-run-a-hackathon.md)
-  * [GitHub Sponsorship](contributors/contributors/github-sponsorship.md)
+  * [Mattermost GitHub Sponsorship](contributors/contributors/github-sponsorship.md)
+  * [Hacktoberfest Event Organizer Guide for Mattermost](contributors/contributors/hacktoberfest-mattermost-organizer-guide.md)
 * [Join Us](contributors/join-us/README.md)
   * [Recruiting](contributors/join-us/recruiting.md)
   * [Staff Recruiting](contributors/join-us/staff-recruiting/README.md)
@@ -185,4 +190,7 @@
     * [Product Manager Hiring Process](contributors/join-us/staff-recruiting/product-manager-hiring.md)
   * [Exec Recruiting](contributors/join-us/exec-recruiting/README.md)
     * [EA Logistics](contributors/join-us/exec-recruiting/ea-logistics.md)
+  * [MatterCon](contributors/mattercon/readme.md)
+    * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
+    * [Staff Information Privacy Management](contributors/mattercon/people-policies.md)
     
