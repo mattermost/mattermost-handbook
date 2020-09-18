@@ -37,7 +37,7 @@ Off-cycle promotions may also occur based on business need. This is typically de
 
 **Manager and Above Promotions**
 
-Managers are responsible for ensuring alignment across the org and within their own team. Managers play a significant role in their teams and direct report's careers at Mattermost. It's important that every newly hired or promoted manager fully understands the role and responsibitlies of Managers at Mattermost, and that they are set up for success to meet or exceed future role expectations. We assess every management level based on the [Mattermost Leadership Principles](https://handbook.mattermost.com/company/about-mattermost#leadership-principles).  
+Managers are responsible for ensuring alignment across the org and within their own team. Managers play a significant role in their teams and direct report's careers at Mattermost. It's important that every newly hired or promoted manager fully understands the role and responsibilities of Managers at Mattermost, and that they're set up for success to meet or exceed future role expectations. We assess every management level based on the [Mattermost Leadership Principles](https://handbook.mattermost.com/company/about-mattermost#leadership-principles).
 
 * Promotions to Manager will typically follow the typical internal interview process.  
 * Promotions to Director will typically include interviews with the CEO and CTO. 
