@@ -55,7 +55,7 @@ Likewise, we emphasize written communication. Reading is faster than listening a
 
 #### 3. Take Ownership
 
-When working on problems, make sure to be clear about next steps, and either follow through or create a ticket to track the work.
+Own the outcomes of your work: When working on problems, requests, and feedback always be clear about next steps, and either drive the resolution or create a ticket to track the work. Communicate blindspots and help your teammates understand potential [Brown M&Ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms)
 
 #### 4. Make Meaningful Connections
 
