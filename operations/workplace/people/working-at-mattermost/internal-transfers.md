@@ -4,7 +4,7 @@ We want staff to feel empowered to do the best work of their careers at Mattermo
 
 ## What's the difference between a transfer and a promotion?
 
-* Transfers occur when a team member moves to a new team or function and owns a different set of [AORs](https://handbook.mattermost.com/operations/operations/areas-of-responsibility). For example, a Customer Support Engineer would transfer to a Customer Success Engineer role, or vice versa.
+* Transfers occur when a team member moves to a new team or function and owns a different set of [AORs](https://handbook.mattermost.com/operations/operations/areas-of-responsibility). For example, a Customer Support Engineer transferring to a Product Manager role.
 * Promotions occur when a team member increases in level within the same team or function. For example, an SDE I being promoted to SDE II.
 
 ### Process for Transfers
