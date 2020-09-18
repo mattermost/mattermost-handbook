@@ -7,8 +7,6 @@ description: >-
 
 # Company Measures
 
-\* **THIS IS A WORK IN PROGRESS WEEK OF MARCH 16th. SCHIFF IS WORKING ON IT** \*
-
 * Currently we have 2 main categories of measures:
 
   * V2MOM: Those measures that support the current fiscal year V2MOM
