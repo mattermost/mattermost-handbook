@@ -29,7 +29,7 @@ The goal of this discussion is to:
 
 **Cadence**
 
-Level changes are reviewed and discussed during every [performance review cycle](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50?q=levels). As such, promotions typically happen once a year during the [Winter Performance Review cycle](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50/performance-review-timeline-winter-2019). Managers and staff are also encouraged to discuss growth and development opportunities throughout the year. 
+Level changes are reviewed and discussed during every [performance review cycle](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50?q=levels). As such, promotions typically happen once a year during the [Winter Performance Review cycle](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50/performance-review-timeline-winter-2019). Managers and staff are also encouraged to discuss growth and development opportunities throughout the year.
 
 **Off-Cycle Cadence**
 
