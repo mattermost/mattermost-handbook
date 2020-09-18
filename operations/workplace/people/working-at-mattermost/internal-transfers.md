@@ -33,7 +33,7 @@ Level changes are reviewed and discussed during every [performance review cycle]
 
 **Off-Cycle Cadence**
 
-Off-cycle promotions may also occur based on business need. This is typically determined if a [new job need exists](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#how-to-open-a-new-role). Staff members can express interest in being considered for an [open role](https://mattermost.com/careers/) by reaching out to the Hiring Manager. Similar to transfers, depending on the new role, there may be a need to assess skillset. This will be determined and communicated on a case-by-case basis, and will typically involve components of the internal interview process. 
+Off-cycle promotions may also occur based on business need. This is typically determined if a [new job need exists](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#how-to-open-a-new-role). Staff members can express interest in being considered for an [open role](https://mattermost.com/careers/) by reaching out to the Hiring Manager. Similar to transfers, depending on the new role, there may be a need to assess skillset. This will be determined and communicated on a case-by-case basis, and will typically involve components of the internal interview process.
 
 **Manager and Above Promotions**
 
