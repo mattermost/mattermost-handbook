@@ -1,6 +1,6 @@
 ---
 
-# Staff Recruiting
+# Things Hiring Managers and Interviewers Should Know
 
 In order to continually increase what we offer to customers we need to continually source, assess, hire, and onboard new staff members with [high standards](https://handbook.mattermost.com/contributors/onboarding/staff-onboarding-guide#leadership-principles). The below outlines the process for recruiting new staff into the company in relation to opening a new role, the interview flow, and the offer process.
 
@@ -10,7 +10,7 @@ Hiring Managers should confirm with their team's [MLT](https://handbook.mattermo
 
 Hiring plans are created twice a year, and reviewed every quarter. Hiring Managers and department leads can request additional headcount by completing an Issue/Solution Proposal and sharing with Ian Tien and Aneal Vallurupalli.
 
-## Role description
+## Job description
 
 Once you have confirmation that your new headcount has been approved, you’re ready to begin the recruitment process. Complete the [Job Description portion](https://docs.google.com/document/d/1rpTI2NKu4H_781vpx_eD9Fku7go4gGDs1P7bJAMQvAU/edit#) and share with your Recruiter, who will schedule a [Recruiter Intake Session](https://handbook.mattermost.com/contributors/join-us/staff-recruiting/recruiting-cadences.html) to review the remainder of the intake template.
 
@@ -127,7 +127,7 @@ For the purpose of a positive candidate experience and efficient use of mana, it
 
 As part of the Recruiter Intake Session, the Recruiter also works with the Hiring Manager to define the scope and focus area(s) for each interviewer using the ICP. Ahead of the first candidate interview, the Recruiter posts an update in the Recruiting Updates Channel and tags the Interview Panel.
 
-The update includes the scope and focus area(s) for each interviewer. To promote [high standards](https://handbook.mattermost.com/contributors/onboarding/staff-onboarding-guide#leadership-principles) hiring, if more than two interviewers are not a **Strong Yes** ahead of the Mid-Interview Sync, the candidate will not move forward.
+The update includes the scope and focus area(s) for each interviewer. To promote [high standards](https://handbook.mattermost.com/contributors/onboarding/staff-onboarding-guide#leadership-principles) hiring, if more than two interviewers are not a **yes** or above ahead of the Mid-Interview Sync, the candidate will not move forward without 
 
 **Interview Panel SLAs**
 
@@ -138,22 +138,22 @@ In order to expedite the recruiting process for each candidate, please follow th
 
 **Tips on sharing candidate feedback**
 
-* Required: Lever’s 1 - 4 rating on the candidate. See rating definitions [here](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#heading=h.105ke47pauhj).
-* Required: Experience-to-team rating. See definitions [here](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#bookmark=id.vjo02zxnnbyi).
-* Clearly state your opinion on how this candidate ranks compared to other candidates interviewed as it relates to your focus area. This should be objective and simple. For example: "Strong Yes for SRE, but not quite as technical in Kubernetes as John Doe."
+* Required: Lever’s 1 - 4 rating on the candidate. See rating definitions [here](https://docs.google.com/document/d/1ziIFoI0dB0_WZZHBeGAy0BLNMafl0jGAdQ6Z7QA3Ah8/edit#heading=h.105ke47pauhj).
+* Required: Experience-to-team rating. See definitions [here](https://docs.google.com/document/d/1ziIFoI0dB0_WZZHBeGAy0BLNMafl0jGAdQ6Z7QA3Ah8/edit#heading=h.crqk1t6a5h8).
+* Clearly state your opinion on how this candidate's experience ranks compared to other candidates interviewed as it relates to your focus area. This should be objective and simple. For example: "Strong Yes for SRE, but not quite as technical in Kubernetes as John Doe." 
 * Feedback on the specific skill/focus area assigned, with examples to help contextualize your rating.
 * Potential [blindspots](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check) or [brown M&Ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms) that may require either a future interviewer to ask about or the Hiring Manager to cover during a reference check.
 
 ### Mid-Interview Sync
 
-Ahead of the MLT and AA interviews, the Recruiter may schedule a live Mid-Interview Sync to align on intent to move forward and any ICP criteria that need additional assessment. Otherwise, the Recruiter will complete the [Mid-Interview Template](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#) ahead of the MLT and AA Interviews.
+Ahead of the MLT and AA interviews, the Recruiter may schedule a live Mid-Interview Sync to align on intent to move forward and any ICP criteria that need additional assessment. 
 
 Recruiting may follow up with the Interview Panel if the [Interview Rating](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#heading=h.105ke47pauhj) or [Experience-to-team rating](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#bookmark=id.vjo02zxnnbyi) is incomplete or if additional context is needed.
 
-If there are multiple candidates in the pipe, the Recruiter may ask the Interview Panel to rank the candidate pool. This exercise helps clear any potential blindspots or confusion around role expectations. It also allows the Recruiting team to prioritize the highest ranking candidates to complete the interview process, as appropriate.
+If there are multiple candidates at the similar stages, the Recruiter may ask the Interview Panel to rank the candidate pool. This exercise helps clear any potential blindspots or confusion around role expectations. It also allows the Recruiting team to prioritize the highest ranking candidates to complete the interview process, as appropriate.
 
 ### As Appropriate Interviews (AAs)
-To ensure the quality bar and culture of Mattermost is strong and rising, an "As Appropriate" interview is required with a senior, tenured Mattermost staff member for any candidate before an offer can be extended.
+To ensure the quality bar and culture of Mattermost is strong and rising, an "As Appropriate" interview is required with a senior, tenured Mattermost staff member for any candidate before an offer can be extended. For Director roles and above, both AA interviewers are required. 
 
 Typically the AA is the last person on the interview loop and scheduled in advance and cancelled if the candidate doesn't get through the loop - i.e. an AA interview should not slow down the interview process.
 
@@ -168,7 +168,7 @@ Each AA interviewer should have at least 3 reserved slots per week available for
 
 24 hours before an AA interview, the candidate's Lever profile should include:
 
-* A complete [Mid-Interview summary](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#bookmark=id.vjo02zxnnbyi).
+* Fully complete Feedback Forms, including interviewer ratings.
 * Attachments of any work artifacts produced during the interview loop.
 
 **Logistics**
@@ -192,8 +192,9 @@ All take-home projects should list the expected amount of time to complete. This
 ## Offer stage
 
 ### Reference checks
-WIP 
+Reference checks are required for all new hires. At times, we may make an offer contingent upon successful and satisfactory completion of reference checks. Candidates will be asked to submit a minimum of 3 references, and a minimum of 1 direct manager is requred. 
 
+Hiring Managers may choose to conduct their own reference checks, more informaton in the [Recruiting Playbook - Reference Checks](https://docs.google.com/document/d/1ziIFoI0dB0_WZZHBeGAy0BLNMafl0jGAdQ6Z7QA3Ah8/edit#heading=h.2utbizbsdr5h) Otherwise, we utilize [SkillSurvey](https://www.skillsurvey.com/).  
 
 ### Offer Approval Process
 
