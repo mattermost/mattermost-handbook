@@ -44,7 +44,7 @@ Managers are responsible for ensuring alignment across the org and within their 
 
 ### Typical Internal Interview Process
 
-Hiring Managers and MLT will determine what the skillset assessment process will be for an internal promotion or transfer. The typical process here is intended to outline the various components of an internal transition. This process should also ocurr after the discussion topics listed above have taken place with approval from the Team MLT.
+Hiring Managers and MLT will determine what the skillset assessment process will be for an internal promotion or transfer. The typical process here is intended to outline the various components of an internal transition. This process should also occur after the discussion topics listed above have taken place with approval from the Team MLT.
 
 1. Hiring Manager and MLT should confirm that the new role need exists and confirm [any new headcount requests](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#how-to-open-a-new-role) that may be needed. Example: if a staff member is interviewing for a new role, the staff member's current role may require a backfill. This backfill headcount will need to be [approved as a new headcount request](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#how-to-open-a-new-role).
 2. Hiring Manager to work with Recruiting to develop the [Role Description](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#role-description) and [interview panel focus areas](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#interview-process). The Role Description should be shared with the staff member and interview panel.
