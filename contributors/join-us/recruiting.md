@@ -57,7 +57,7 @@ Likewise, we emphasize written communication. Reading is faster than listening a
 
 When working on problems, make sure to be clear about next steps, and either follow through or create a ticket to track the work.
 
-#### 4. Hang Out
+#### 4. Make Meaningful Connections
 
 We have [warm-ups](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/mattermost-communication#ice-breaker) in some meetings to learn more about each other. It’s part of our culture where we get to know each other.
 
