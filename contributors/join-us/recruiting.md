@@ -131,7 +131,7 @@ We understand that working from home every day may not be practical for every in
 
 **Mobile and Home Internet**
 
-We also will reimburse a portion of team member's [monthly mobile device subscriptions](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#mobile-device-policy) and [home internet cost](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#other-expenses).
+We reimburse $50 per month of [home internet costs](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#other-expenses) as well as a portion of [monthly mobile device subscriptions](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#mobile-device-policy) where appropriate.
 
 **Professional Development**
 
