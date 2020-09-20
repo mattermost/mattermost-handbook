@@ -24,7 +24,7 @@ We believe a manager’s fundamental purpose of a performance review is to impro
 
 At performance review time all managers should: 
 
-1. Read this document and the related documents to their departmental review process in detail. 
+1. Complete reading this document on performance reviews and related documents on relevant departmental review process in detail. 
 
 1. Read or re-read Chapter 13 of [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK) (and expense a copy if you don't have one yet). 
 
