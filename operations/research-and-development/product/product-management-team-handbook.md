@@ -6,9 +6,7 @@ description: 1% DRAFT
 
 ## Overview
 
-### Purpose of Playbook
-
-The purpose of this playbook is to provide more details on the Product Manager role, processes, and relations to other functions within the organization to foster success for employees in this role. This playbook may be shared with other functional areas so other employees may gain a better understanding of the Product Manager role, thereby having a greater understanding for responsibilities and interaction areas.
+The purpose of this handbook is to provide more details on the Product Manager role, processes, and relations to other functions within the organization to foster success for employees in this role. This handbook may be shared with other functional areas so other employees may gain a better understanding of the Product Manager role, thereby having a greater understanding for responsibilities and interaction areas.
 
 ### Change Log
 
@@ -250,7 +248,7 @@ Activities:
 * Spend a couple weeks joining as many customer and prospect calls as possible
   * Take detailed notes and log in [Salesforce](https://handbook.mattermost.com/operations/customer-success#logging-a-customer-feedback-in-salesforce)
 * Learn about the product
-  * Product Direction \(Lindsay, Product Lead\)
+  * Product Direction \(Product Lead\)
     * [Company VPMOM](https://handbook.mattermost.com/operations/operations)
     * [R&D V2MOM](https://docs.google.com/document/d/18tK7XmW2fGaUP2otiItHKcHyMGUf3kgnZxOQM6WB4zM/edit)
     * Public Roadmap \(Staff Team &gt; [Roadmap channel](https://community.mattermost.com/private-core/channels/roadmap)\)
@@ -280,7 +278,7 @@ Activities:
   * High level overview \(PM buddy\)
     * Team structure
     * [Development process overview](https://docs.mattermost.com/process/overview.html)
-  * Team specific processes \(PM buddy\)
+  * Team-specific processes \(PM buddy\)
     * Team Triage
     * Sprint Planning
     * OKRs
@@ -401,11 +399,11 @@ Activities:
 #### Triage
 
 * Participate in daily Triage meetings \(not mandatory to join every meeting\)
-* Validate “Won’t fix”, “Won’t do” tickets.  Provide a final comment of approval so ticket can be closed by QA
+* Validate “Won’t fix”, “Won’t do” tickets. Provide a final comment of approval so ticket can be closed by QA
 * Ensure tickets are assigned to teams and assigned a fix version
   * Jira Fix Version = “unscheduled” means ticket has enough information to be developed, but is not assigned to a specific release version
 * Assist in identifying [Help Wanted tickets](https://handbook.mattermost.com/contributors/contributors/help-wanted)
-* Update Fix Version to “help-wanted”, which will run an automation that will automatically create a corresponding issue in GitHub.
+* Update Fix Version to “help-wanted”, which will run an automation that will automatically create a corresponding issue in GitHub
 
 #### Release Feature Roadmap
 
@@ -498,11 +496,11 @@ After adding the feedback to the relevant idea in productboard, the PM comments 
 
 #### Community Success
 
-* Ensure devs are aware and included on community contribution projects.
-* Prep Help Wanted tickets with specifications on feature and designs as needed.
-* Help teams come up with and prepare community contribution campaigns.
-* Answer questions and coordinate resources to community contributors.
-* Review community contributed PRs.
+* Ensure devs are aware and included on community contribution projects
+* Prep Help Wanted tickets with specifications on feature and designs as needed
+* Help teams come up with and prepare community contribution campaigns
+* Answer questions and coordinate resources to community contributors
+* Review community contributed PRs
 
 #### Mattermost Forum
 
@@ -722,7 +720,7 @@ To officially release a feature, it should meet the following criteria:
 4. **Documented:** Complete documentation is available
 5. **Secure:** Reviewed internally for security, and included in future security reviews
 6. **Accessible:** Accessibility has been added for user interface components
-7. **Logged:** Audit log entries have been added to allow system admins to troubleshoot issues
+7. **Logged:** Audit log entries have been added to allow System Admins to troubleshoot issues
 8. **Compliant:** Anything needed for compliance is tracked in logs
 
 ### How do I create redirects for in-product documentation?
