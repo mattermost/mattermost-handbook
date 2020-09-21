@@ -20,14 +20,13 @@ M&M works largely in Mattermost, Asana, and Zoom in North American timezone.
 
 Messaging
 
-* @lindsay.brock - Product Management 
+* (TBA) - Product Management
 * @josh.day - WayFX website agency
 * @justin.reynolds - Copywriting
 * @adam.gross - Adviser
 
 Math
 
-* @kendall.reicherter - Marketing Operations
 * @hanna.park - General marketing
 
 **Cadence**
