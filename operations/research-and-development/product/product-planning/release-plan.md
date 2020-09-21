@@ -6,7 +6,7 @@ A release plan outlines the features and work that we plan on putting into the r
 
 A release plan is different from a roadmap, in that a roadmap typically lays out the direction and prioritization the product is headed and includes larger objectives and larger features. 
 
-The release plan may include major bugs, smaller features and even tasks required to complete a feature set. The release plan document typically includes all the R&D teams’ proposed work so that we can get a holistic view of what features, bugs or improvements are targeted for the release. Each team may also have their own version of a release plan that they use for tracking features and resource planning. You can find our [release plan here](https://docs.google.com/spreadsheets/d/1K7b7hIfYHz-jbzonJlN1vosiWZRbU1fb5aZ_2xO7tE0/edit#gid=420927153).
+The release plan may include major bugs, smaller features and even tasks required to complete a feature set. The release plan document typically includes all the R&D teams’ proposed work so that we can get a holistic view of what features, bugs or improvements are targeted for the release. Each team may also have their own version of a release plan that they use for tracking features and resource planning. You can find our [release plan here](https://mattermost.productboard.com/feature-board/1097526-release-tracking-internal).
 
 When we add items to a release, we are targeting their completion by that release, however, things such as underestimation of work required or quality issues found during testing may prevent it from actually being released.
 
