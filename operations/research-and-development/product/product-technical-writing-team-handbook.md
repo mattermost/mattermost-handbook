@@ -149,6 +149,8 @@ If your change requires dev review add the developer/s you've been working with 
 * QA: Linda Mitchell \(@lindalumitchell)
 * Handbook and Process: Jason Blais \(@jasonblais\)
 
+The full list of R&D teams is available [here](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit#gid=0).
+
 ### Requesting Documentation via Doc Up
 
 Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the Doc Up plugin embedded in the post menu.
