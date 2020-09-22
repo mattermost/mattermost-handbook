@@ -106,7 +106,7 @@ Throughout Mattermost, you’ll see the below words, terms are mentioned and use
 | Private channel | Used to refer to channels  managed by synchronized groups. Don’t hyphenate and use lowercase for "channel". | <ul><li> Users can remove themselves from teams and Private channels managed by synchronized groups </li></ul> |
 | Direct Message | Direct Messages are for conversations between two people. Visible only to the people involved. | <ul><li> Full names appear in the Direct Messages member list and team management modal </li></ul> |
 | Group Message | Group Messages are Direct Messages that have conversations among three or more people. Visible only to the people involved. | <ul><li> Group Messages are listed in the sidebar </li></ul> |
-| device | Use device to refer collectively to all types of computers, phones, and other devices | <ul><li> Speak with the owner of any other proxies between your device and the Mattermost server </li></ul> |
+| device | Use device to refer collectively to all types of computers, phones, and other devices. | <ul><li> Speak with the owner of any other proxies between your device and the Mattermost server </li></ul> |
 
 ## Using ReStructuredText markup (rst)
 
