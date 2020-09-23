@@ -62,6 +62,10 @@ Mattermost Leadership Mentors is an informal, voluntary, and customizable progra
 
 ### Side Projects
 
-Staff are permitted to engage in side projects as long as the side project does not pose a conflict of interest with Mattermost projects and does not interfere with Mattermost work (eg. does not involve the development of any technologies, infrastructure or other material information that could be similar to Mattermost's business). 
-Before engaging in a side project, Staff need to obtain written approval from Mattermost. To request approval, Staff should email a request to hr@mattermost.com and their Manager. 
-In the request, include a brief summary of the nature of your side project. The summary should include: expected time commitment, description of services provided, and whether or not this work will be paid. 
+Staff are permitted to engage in side projects as long as the side project doesn't pose a conflict of interest with Mattermost projects and doesn't interfere with Mattermost work (e.g., doesn't involve the development of any technologies, infrastructure, or other material information that could be similar to Mattermost's business).
+
+Before engaging in a side project, staff need to obtain written approval from Mattermost. To request approval, staff should email a request to hr@mattermost.com and their Manager. In the request, include a brief summary of the nature of your side project. The summary should include: 
+
+* Expected time commitment.
+* Description of services provided.
+* Whether or not this work will be paid.
