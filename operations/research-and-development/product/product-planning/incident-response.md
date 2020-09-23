@@ -10,7 +10,7 @@ Teams choose Mattermost because it provides a flexible and secure environment fo
 
 ## What teams do today
 
-For software operators, the most important incidents tend to be related to site reliability, information security, or development and operations. Regardless of the domain, the response protocol tend to have four broad stages in common: preparation, detection, recovery, summary. 
+For software operators, the most important incidents tend to be related to site reliability, information security, or development and operations. Regardless of the domain, the response protocol tend to have four broad stages in common: preparation, detection, recovery, summary.
 
 ### 1. Preparation
 
@@ -25,25 +25,25 @@ Our [Incident Response plug-in](https://docs.mattermost.com/administration/incid
 The workflow plug-in can be customized to streamline your standard operating procedure, for example:
 
 * Identified on-call team members through integration with tools such as [PagerDuty](https://www.pagerduty.com/), [OpsGenie](https://www.atlassian.com/software/opsgenie), or [Solar Lottery](https://github.com/mattermost/mattermost-plugin-solar-lottery) and add them to the incident channel.
-* Spin up a Docker instance to initiate investigation infrastructure
-* Start real-time audio/video meeting using Zoom
+* Spin up a Docker instance to initiate investigation infrastructure.
+* Start real-time audio/video meeting using Zoom.
 * Configure integrations to funnel relevant posts to the incident channel so response actions are centrally logged.
-* Perform diagnostic commands on other systems and post results in the channel
+* Perform diagnostic commands on other systems and post results in the channel.
 
 ### 3. Recovery
 
 This stage typically consists of several swim lanes with different team members potentially working in parallel. For example:
 
-* Coordinate efforts and collaboration to keep the team on track
-* Investigate cause of issue by querying other systems
+* Coordinate efforts and collaboration to keep the team on track.
+* Investigate cause of issue by querying other systems.
 * Communicate status and update with stakeholders such as Leadership, Legal, or Public Relations.
 
 Here are some of the ways that Mattermost is used to help teams respond more effectively:
 
-* Centralize investigation results and actions performed into one channel so they're visible to the whole team
-* Track statistics such as mean-time-to-acknowledgment \(MTTA\) and mean-time-to-resolution \(MTTR\) in a glanceable report
-* Save time jumping between other tools by leveraging slash command to perform actions on other systems and log who did what and when
-* Pin key messages so that they can be easily reviewed as a mini-timeline of the incident at any time
+* Centralize investigation results and actions performed into one channel so they're visible to the whole team.
+* Track statistics such as mean-time-to-acknowledgment \(MTTA\) and mean-time-to-resolution \(MTTR\) in a glanceable report.
+* Save time jumping between other tools by leveraging slash command to perform actions on other systems and log who did what and when.
+* Pin key messages so that they can be easily reviewed as a mini-timeline of the incident at any time.
 
 ### 4. Summary
 
@@ -53,8 +53,7 @@ Once the issues have been resolved, the incident channel becomes a complete reco
 
 Based on our observation of how teams leverage Mattermost today, we believe there is amazing potential for us to be more intentional in supporting them. We will work towards making Mattermost the best collaboration platform for software operators by investing in these four areas:
 
-* Integration with monitoring, ticketing, and CI/CD tools to enable out-of-the-box experience most of the time while supporting the flexibility for customization
-* Workflow framework to enable inter-plugin communication and automate actions that can be tailored to your operating procedure
-* Configurable slash commands to query data and perform actions on external systems from within Mattermost to keep information in-context
-* Channel data export and cleansing functionality to support analysis and reporting as well as meet compliance requirements
-
+* Integration with monitoring, ticketing, and CI/CD tools to enable out-of-the-box experience most of the time while supporting the flexibility for customization.
+* Workflow framework to enable inter-plugin communication and automate actions that can be tailored to your operating procedure.
+* Configurable slash commands to query data and perform actions on external systems from within Mattermost to keep information in-context.
+* Channel data export and cleansing functionality to support analysis and reporting as well as meet compliance requirements.
