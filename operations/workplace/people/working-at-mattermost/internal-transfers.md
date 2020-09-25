@@ -59,3 +59,13 @@ Hiring Managers and MLT will determine what the skillset assessment process will
 ### Mattermost Leadership Mentors
 
 Mattermost Leadership Mentors is an informal, voluntary, and customizable program and method of [Learning, Mastering, and Teaching](https://handbook.mattermost.com/company/about-mattermost/mindsets#learn-master-teach) at Mattermost. Mentors help guide and enable the development of a Mentee's behaviors, skillsets and/or mindsets. Mentees should bring a willingness and eagerness for their own development, and be ready to invest time in the Mentor-Mentee partnership.
+
+### Side Projects
+
+Staff are permitted to engage in side projects as long as the side project doesn't pose a conflict of interest with Mattermost projects and doesn't interfere with Mattermost work (e.g., doesn't involve the development of any technologies, infrastructure, or other material information that could be similar to Mattermost's business).
+
+Before engaging in a side project, staff need to obtain written approval from Mattermost. To request approval, staff should email a request to hr@mattermost.com and their Manager. In the request, include a brief summary of the nature of your side project. The summary should include: 
+
+* Expected time commitment.
+* Description of services provided.
+* Whether or not this work will be paid.
