@@ -97,7 +97,7 @@ As a fully remote and global team, Mattermost interviewers are located in differ
 
 All interviews will take place over video. Interviewers will wait 5 minutes for a candidate to join before leaving the interview. We encourage candidates to email their recruiting contact and the Mattermost interviewer if they are not able to make a previously scheduled interview. 
 
-1. **Recruiter Screen:** This person is a candidate's main point of contact during the interview process at Mattermost. For some roles, Hiring Managers may incorporate a recruiter screen within their first interview with a candidate.
+1. **Recruiter Screen:** This is a candidate's main point of contact during the interview process at Mattermost. For some roles, Hiring Managers may incorporate a recruiter screen within their first interview with a candidate.
 2. **Hiring Manager, Technical, and Team Interviews:** This portion typically consists of 3-4 interviewers. In addition to the Hiring Manager, candidates can expect to interview with team and cross-team members who will work closely with, or similarly to, the individual in this role.
 3. **Interview Project:** All take-home projects will list the expected amount of time expected to complete. We really appreciate all of the time spent completing a take-home project. As a 'thank you,' candidates will be invited to select a gift option upon completion of the project.
 4. **Final Interviews:** This typically includes the Hiring Team's [MLT](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#mlt) and one of our co-founders. **Note:** For Director and above interviews, both Mattermost co-founders will interview candidates.
