@@ -4,7 +4,7 @@ description: 1% DRAFT
 
 # Integrations Team Processes
 
-## Weekly Team Meeting
+## Integrations Team Meeting
 - Schedule meeting items by running `/agenda queue Tuesday [item]` in [`~extensibility-meeting`](https://community.mattermost.com/core/channels/extensibility-meeting)
 
 ### Workflow
@@ -81,3 +81,15 @@ Seeing an intermittent connection issue with Zoom on http://dkh-local.ngrok.io. 
     - `Hard` mean 8 mana
 - Staff members add the issues there are working on for the current sprint to https://github.com/orgs/mattermost/projects/1
     - Putting an issue is always preferred over putting a PR on the board
+
+## Repository Maintainer
+
+- Every plugin repository in the Mattermost organization get assigned a Maintainer and a Co-Maintainer.
+- The responsibilities of a Maintainer are:
+    - Checking for new issues and respond to them
+    - Escalate discussion worthy issues and PRs to the Integrations Team Meeting using the `Triage` label
+    - Take ownership of critical bugs and ensure they get fixed in a timely matter
+    - Request reviewers for submitted community PRs
+    - Be one of the two reviewer all PRs unless someone else if more suitable doing that
+    - Start and take ownership of the plugin release process once a sufficient amount of changes have accumulated
+- The Co-Maintainer serves as a backup. When the Maintainer is unavailable for a longer period of time, e.g. due to vacation, the Co-Maintainer take care of the responsibilities.
