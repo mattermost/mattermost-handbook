@@ -93,7 +93,7 @@ We can hire from many countries and regions across the globe. While in-office in
 
 ## Interview Stages
 
-As a fully remote and global team, Mattermost interviewers are located in different timezones. Since we also interview candidates across different time zones, we schedule interviews one-by-one vs. as a panel of interviews on one specific date. Below are the typical stages and amount of interviewers a candidate can expect in a full interview process at Mattermost. 
+As a fully remote and global team, Mattermost interviewers are located in different time zones. Since we also interview candidates across different time zones, we schedule interviews one-on-one as opposed to a panel of interviews on one specific date. Below are the typical stages and number of interviewers a candidate can expect in a full interview process at Mattermost.
 
 All interviews will take place over video. Interviewers will wait 5 minutes for a candidate to join before leaving the interview. We encourage candidates to email their recruiting contact and the Mattermost interviewer if they are not able to make a previously scheduled interview. 
 
