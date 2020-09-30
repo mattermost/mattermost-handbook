@@ -139,7 +139,7 @@
   * [Procurement](operations/finance/procurement.md)
   * [Risk Management in Agreements](operations/finance/risk-management/README.md)
     * [Mattermost U.S. Consulting Agreements](operations/finance/risk-management/mattermost-templated-agreements.md)
-  * [Budget](operations/finance/spending-company-money.md)  
+  * [Spending Company Money](operations/finance/spending-company-money.md)  
 * [Workplace](operations/workplace/README.md)
   * [PeopleOps](operations/workplace/people/README.md)
     * [HR Cadences](operations/workplace/people/hr-cadences.md)
