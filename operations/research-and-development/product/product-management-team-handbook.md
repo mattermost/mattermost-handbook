@@ -740,4 +740,4 @@ If you have access, follow these steps:
 5. In the **Old url** field, enter in the new direct you want to use in-product in the format of `/pl/default-page-description`. Update the page description with your page information
 6. In the **Url** field, enter in the full URL to the page on docs.mattermost.com
 7. Click the **Add Redirect** botton and verify your entry is added to the list. You may need to page through to find your entry
-8. Test your redirect URL. This will be the URL in the format of `https://www.mattermost.com/pl/default-page-description.html`
+8. Test your redirect URL. This will be the URL in the format of `https://www.mattermost.com/pl/default-page-description`
