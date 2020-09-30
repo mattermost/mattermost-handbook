@@ -151,8 +151,6 @@
          * [Manager Onboarding](contributors/onboarding/manager-onboarding-1.md)
          * [Frequently Asked Questions](contributors/onboarding/frequently-asked-questions.md)
       * [Mattermost Communication Best Practices](operations/workplace/mattermost-communication.md)
-      * [MatterCon](contributors/mattercon/README.md)
-         * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
       * [Paid Time Off](operations/workplace/people/working-at-mattermost/paid-time-off.md)
          * [Family & Friends Day](operations/workplace/people/working-at-mattermost/family-and-friends-day.md)
       * [Travel](operations/workplace/people/working-at-mattermost/travel/README.md)
@@ -190,6 +188,6 @@
   * [Exec Recruiting](contributors/join-us/exec-recruiting/README.md)
     * [EA Logistics](contributors/join-us/exec-recruiting/ea-logistics.md)
   * [MatterCon](contributors/mattercon/readme.md)
-    * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
     * [Staff Information Privacy Management](contributors/mattercon/people-policies.md)
+    * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
     
