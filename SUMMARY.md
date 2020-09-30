@@ -174,6 +174,7 @@
 
 * [Contributors](contributors/contributors/README.md)
   * [Mattermost Community](contributors/contributors/community.md)
+  * [Community Systems](contributors/contributors/community/community-systems.md)
   * [Mattermost Community Playbook](contributors/contributors/community-playbook.md)
   * [Help Wanted Tickets](contributors/contributors/help-wanted.md)
   * [Localization](contributors/contributors/localization.md)
