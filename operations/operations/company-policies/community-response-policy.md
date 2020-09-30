@@ -72,7 +72,7 @@ While anyone can escalate a sensitive topic, only approved responders listed bel
 
 Non-sensitive topics include feature requests, troubleshooting questions, bug reports, and other user feedback.
 
-Anyone in the company is welcome and encouraged to respond, regardless of the medium. If it is your first time responding to the community, please read [principles, tips and sample responses](https://docs.mattermost.com/process/community-guidelines.html#mattermost-community-forums) for help on various inquiries.
+Anyone in the company is welcome and encouraged to respond, regardless of the medium. If it is your first time responding to the community, please read [principles, tips, and sample responses](https://docs.mattermost.com/process/community-guidelines.html#mattermost-community-forums) for help on various inquiries.
 
 ### Response writing tips
 
