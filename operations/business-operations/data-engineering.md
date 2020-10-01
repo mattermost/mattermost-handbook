@@ -125,7 +125,7 @@ We are currently focused on:
         * Measures: Users
   * Mattermost.com
     * [Google Analytics Link](https://analytics.google.com/analytics/web/?authuser=0#/report-home/a120238482w177779216p176410444)
-    * Owner: Kendall Reicherter
+    * Owner: Rachel Bradley-Haas
     * Stitch Integrations:
       * [GA ChannelGrouping Source Users Com](https://app.stitchdata.com/client/153136/pipeline/connections/212282/summary)
         * Frequency: 6 hours
