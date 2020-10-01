@@ -1,5 +1,5 @@
 ---
-description: 'Owner: Kendall Reicherter'
+description: 'Owner: Rachel Bradley-Haas'
 ---
 
 # Marketing Operations
