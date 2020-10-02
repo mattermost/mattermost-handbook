@@ -131,7 +131,7 @@ Security alerts are displayed when viewing a GitHub repo and are resolved via th
 
 ### Updating Security Alerts Through GitHub
 
-Github displays security alerts when viewing a GitHub repo.
+GitHub displays security alerts when viewing a GitHub repo.
 
 ![Security Notification](../../../.gitbook/assets/security-notification.png)
 
