@@ -81,7 +81,7 @@ Plugins that are released with Mattermost are called bundled plugins. These plug
 * Create PR against master branch with following:
   * **Title:** `Update bundled plugins for vX.XX`
   * **Summary:** List of updated plugins
-    * Ideally includes from version -> to version for each plugin
+    * Ideally includes `from version` > `to version` for each plugin
 
 ### Publish a plugin release version to the Plugin Marketplace
 
