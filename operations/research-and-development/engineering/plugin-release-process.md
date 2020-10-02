@@ -89,7 +89,7 @@ The steps to have a plugin version added the Plugin Marketplace are included wit
 
 ### Release to `community.mattermost.com`
 
-Once the Marketplace PR is merged, request an update on the plugin in the `~community-configuration`[https://community.mattermost.com/core/channels/community-configuration] channel.
+Once the Plugin Marketplace PR is merged, request an update on the plugin in the `~community-configuration`[https://community.mattermost.com/core/channels/community-configuration] channel.
 
 ## Security upgrade process
 
