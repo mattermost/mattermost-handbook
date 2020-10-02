@@ -121,7 +121,7 @@ Security alerts are displayed when viewing a GitHub repo and are resolved via th
 * `git checkout -b npm-audit-fix`
 * `cd webapp/`
 * `npm audit` - will return list of security issues
-* `npm audit fix` - updates ``package-lock.json`` dependencies
+* `npm audit fix` - updates `package-lock.json` dependencies
 * `git add package-lock.json`
 * `git commit -m "Update dependencies"`
 * `git push --set-upstream origin npm-audit-fix`
