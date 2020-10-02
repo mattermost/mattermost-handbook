@@ -97,7 +97,7 @@ Once the Plugin Marketplace PR is merged, request an update on the plugin in the
 (**`TODO`**: User must be repo admin to see and resolve automated security issue)  
 (**`TODO`**: Need method to hook to tell us when security issue is found)  
 (**`TODO`**: PR for security updates should be discrete)  
-(**`TODO`**: investigate `npm ls hoek`)
+(**`TODO`**: investigate `npm ls`)
 
 Security alerts are displayed when viewing a GitHub repo and are resolved via the automated `dependabot` tool
 
@@ -127,7 +127,7 @@ Security alerts are displayed when viewing a GitHub repo and are resolved via th
 * `git push --set-upstream origin npm-audit-fix`
 * Create PR
   * Title: `Update Dependencies` (Will automatically get set)
-  * Summary: &lt;library\_name&gt; &lt;from\_ver&gt; -&gt; &lt;to\_ver&gt;
+  * Summary: <library_name>: <from_version> -> <to_version>
 
 ### Updating Security Alerts Through GitHub
 
