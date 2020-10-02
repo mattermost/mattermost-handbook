@@ -48,7 +48,7 @@ The Future Enhancements section of this document describes additional suggestion
 * Follow the steps of the tool.
 * Once the local changes are done, follow the link to open a PR.
 * Add any further reasoning or description for version bump (if necessary).
-* Add 2 Developers 1 QA for review.
+* Add 2 Developers and 1 QA for review.
 * You might also add a PM review to verify the release from a PM perspective.
 
 ### Tag/cut a version of a plugin for release
