@@ -24,9 +24,9 @@ Writing in this format ensures the focus is on pain points, rather than solution
 
 If you're filing a feature request on behalf of a customer, make sure to also include:
 
-* Who requested the feature
-* How important it is to them \(ideally, based on stack rank against their other requests\)
-* Links to any relevant conversations, Zendesk tickets, etc
+* Who requested the feature.
+* How important it is to them \(ideally, based on stack rank against their other requests\).
+* Links to any relevant conversations, Zendesk tickets, etc.
 
 ## Escalating a feature request
 
@@ -36,7 +36,7 @@ If a deal is dependent on committing to a concrete timeline for a feature, the S
 
 * What is the request?
 * What is the timeline ask from the customer?
-* Are there other “must have” features blocking the deal? If so, please provide a full list
+* Are there other “must have” features blocking the deal? If so, please provide a full list.
 * If we build this feature, is the customer committed to closing the deal? If so, how big is the deal?
 * Did the customer offer NRE dollars to accelerate the feature?
 

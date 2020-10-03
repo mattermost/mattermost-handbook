@@ -305,3 +305,15 @@ The following example is a block of Go code.
 ## Using Markdown
 
 The majority of Mattermost technical documentation is written in `.rst`. However, there are some instances where Markdown is used, for example the Mattermost Handbook. You can read more about using Markdown in the [Formatting Text](https://docs.mattermost.com/help/messaging/formatting-text.html) section of the User's Guide.
+
+## Editing the Mattermost User Guide
+
+These are some additional tips for writing [Mattermost documentation for end users](https://docs.mattermost.com/guides/user.html).
+
+1. Start fresh - begin by writing a draft in a Google document from scratch.
+2. Start the document by describing the benefits of the feature for end users ([see this example](https://docs.mattermost.com/help/messaging/attaching-files.html)).
+3. Compare to the original document to add any important information or tips that you forgot to include in your draft.
+4. Explain how to use the feature - use short bullet points as well as screenshots as applicable.
+5. Include useful tips as applicable.
+
+If a document includes multiple features that are related to each other, order them based on which functionality is used the most, e.g.: how to attach files > file previewer > sharing public links.
