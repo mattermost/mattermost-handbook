@@ -28,7 +28,7 @@ This document covers the current steps required to perform the following tasks:
 
 The Future Enhancements section of this document describes additional suggestions for automating some of these tasks.
 
-## Plugin Release Flows
+## Plugin release flows
 
 ### Considerations when bumping and releasing a plugin version
 
@@ -38,6 +38,7 @@ The Future Enhancements section of this document describes additional suggestion
 * The PR for the version bump (in the plugin repo) does not mean that is the last commit to get tagged. This step only bumps the version. The tagging step actually determines the commit that is tagged with the release tag.
 
 ### Create release issue
+
 * Create an issue on the corresponding repository to track the whole release process.
   * **Title:** `Release vX.Y.Z`
   * **Summary:** Add every outstand PR or issue as an item on as [taks list](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-task-lists).
@@ -112,7 +113,7 @@ Then close the release issue.
 
 Security alerts are displayed when viewing a GitHub repo and are resolved via the automated `dependabot` tool
 
-### Updating npm Dependencies CLI
+### Updating npm dependencies CLI
 
 * `git checkout latest master`
 * `git checkout -b bump-dependency-versions`
@@ -126,7 +127,7 @@ Security alerts are displayed when viewing a GitHub repo and are resolved via th
   * Title: `Update Dependencies` (Will automatically get set)
   * Summary: Update dependencies
 
-### Updating Security Alerts Through CLI
+### Updating security alerts through CLI
 
 * `git checkout latest master`
 * `git checkout -b npm-audit-fix`
@@ -140,7 +141,7 @@ Security alerts are displayed when viewing a GitHub repo and are resolved via th
   * Title: `Update Dependencies` (Will automatically get set)
   * Summary: <library_name>: <from_version> -> <to_version>
 
-### Updating Security Alerts Through GitHub
+### Updating security alerts through GitHub
 
 GitHub displays security alerts when viewing a GitHub repo.
 
