@@ -41,7 +41,7 @@ The Future Enhancements section of this document describes additional suggestion
 
 * Create an issue on the corresponding repository to track the whole release process.
   * **Title:** `Release vX.Y.Z`
-  * **Summary:** Add every outstand PR or issue as an item on as [taks list](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-task-lists).
+  * **Summary:** Add every outstanding PR or issue as an item on as [task list](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-task-lists).
 * Add that issue to the [Plugin Release board](https://github.com/orgs/mattermost/projects/2) in `Code Changes Needed`.
 * Once every code change for the release has been merged, move the issue to `Release in Review` and open a version bump PR.
 
