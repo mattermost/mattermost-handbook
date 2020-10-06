@@ -33,13 +33,7 @@ Multiple committers may comment on your pull request and provide edits or sugges
 
 Once the review process is complete, the change is merged and pushed live. We recommend that you review your changes at [https://handbook.mattermost.com](https://handbook.mattermost.com) for potential formatting errors.
 
-## Frequently Asked Questions
-
-### How do I format a page?
-
-All Handbook pages are written in Markdown, which is also the language used to post messages in Mattermost. To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
-
-### How do I create a new page?
+### Creating a New Page
 
 Creating a new page follows the same process as above, with two exceptions:
 
@@ -49,6 +43,36 @@ Creating a new page follows the same process as above, with two exceptions:
 [Watch a two-minute training video on how to create a new page in GitHub](https://drive.google.com/file/d/12JUpEdP3uU_bPxDVWdlEZv65v1tttlQn/view?usp=sharing).
 
 ![](../../.gitbook/assets/how-to-update-handbook-create-new-file.png)
+
+### Creating a New Folder
+
+If you want to create nested content, you can create folders. You cannot create an empty folder and then add files to that folder, but rather creation of a folder must happen together with adding of at least a single file. On GitHub you can do it this way:
+
+1. Navigate to the folder within which you're creating your new folder.
+2. Click on **New file**.
+3. Enter the new folder's name in the text field and add `/` at the end.
+5. In the next text box, enter the name of the new page, ending with `.md`.
+6. Select **Commit new file**.
+7. Add a descriptive title if the default title isn't sufficient. Add an extended description to summarize the changes you've made.
+8. Click the **Propose file change** button.
+
+* Add your new page to the [Handbook table of contents](https://github.com/mattermost/mattermost-handbook/blob/0.2.1/SUMMARY.md).
+
+### Folder and Page Naming Conventions
+
+When you create a new page in the handbook ensure that:
+
+* The page name is all lowercase.
+* There are hyphens instead of spaces between the words.
+* New page names end with `.md`.
+
+**Note:** Folder names do not end with `.md`.
+
+## Frequently Asked Questions
+
+### How do I format a page?
+
+All Handbook pages are written in Markdown, which is also the language used to post messages in Mattermost. To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
 
 ### How do I update the left-hand navigation?
 
