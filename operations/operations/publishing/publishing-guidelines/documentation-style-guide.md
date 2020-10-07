@@ -89,7 +89,7 @@ Use the present tense.
   
 ## Terminology Guide
 
-Throughout Mattermost, you’ll see the below words, terms are mentioned and used. Their definitions and reason for usage are defined below.
+Throughout Mattermost documentation, you’ll see the below terms mentioned and used. Their definitions and reason for usage are defined below.
 
 | Terms          | Description        | Usage             |
 | ------------- |-------------| --------------------|
