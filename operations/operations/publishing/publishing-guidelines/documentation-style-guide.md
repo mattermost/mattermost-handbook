@@ -93,7 +93,7 @@ Throughout Mattermost, you’ll see the below words, terms are mentioned and use
 
 | Terms          | Description        | Usage             |
 | ------------- |-------------| --------------------|
-| Mattermost | Used to refer to [Mattermost](https://mattermost.com/about-us/) the company and [Mattermost](https://mattermost.com/product/) the product. | <ul><li> Mattermost is an open-source, self-hostable online chat service with file sharing, search, and integrations</li> <li> Configure Mattermost on your server</li></ul> |
+| Mattermost | Used to refer to [Mattermost](https://mattermost.com/about-us/) the company and [Mattermost](https://mattermost.com/product/) the product. | <ul><li> Mattermost is an open-source, self-hosted messaging platform with unlimited file sharing, search, and integrations</li> <li> Configure Mattermost on your server</li></ul> |
 | installation | Refers to an on-premises Mattermost environment comprised of hardware (server/s), database, filestore, etc., which hosts the required files to run Mattermost. | <ul><li> Your Mattermost installation includes physical servers </li></ul> |
 | deployment | Used to refer to making a new installation widely accessible. It can also refer to releasing an updated version, patch, etc. | <ul><li> Desktop App Deployment Guide </li></ul> |
 | configuration | Used to describe the settings and customizations applied to Mattermost to change the appearance and behavior. | <ul><li> Edit the configuration file to include any custom settings related to your domain </li></ul> |
