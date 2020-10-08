@@ -1,5 +1,5 @@
 ---
-description: 1% DRAFT
+description: 50% DRAFT
 ---
 
 # Plugin Release Process
@@ -28,7 +28,7 @@ This document covers the current steps required to perform the following tasks:
 
 The Future Enhancements section of this document describes additional suggestions for automating some of these tasks.
 
-## Plugin Release Flows
+## Plugin release flows
 
 ### Considerations when bumping and releasing a plugin version
 
@@ -36,6 +36,16 @@ The Future Enhancements section of this document describes additional suggestion
 * Documentation changes aren’t necessarily vital.
   * Documentation through bundled releases aren’t viewable through the app and users will be looking at the latest master commit in the GitHub repo.
 * The PR for the version bump (in the plugin repo) does not mean that is the last commit to get tagged. This step only bumps the version. The tagging step actually determines the commit that is tagged with the release tag.
+
+### Create release issue
+
+* Create an issue on the corresponding repository to track the whole release process.
+  * **Title:** `Release vX.Y.Z`
+  * **Summary:** Add every outstanding PR or issue as a [task list item](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/about-task-lists).
+* Assign yourself to the issue.
+* Add `Type/Task` label.
+* Add that issue to the [Plugin Releases board](https://github.com/orgs/mattermost/projects/2) in `Code Changes Needed`.
+* Once every code change for the release has been merged, move the issue to `Release in Review` and open a version bump PR.
 
 ### Create version bump PR
 
@@ -65,6 +75,8 @@ CI runs can be viewed at [circleci.com/gh/mattermost](https://circleci.com/gh/ma
 
 Matterbuild will respond with message upon success. Now view the release link and update the commit messages. This is a subjective task where determine if a commit is a feature of enhancement. Edit the release messages and arrange accordingly.
 
+**Only** close the release issue if the release shouldn't go into the Marketplace. Otherwise keep it open until the release is available in the Marketplace and move it to `Submitted to Marketplace`.
+
 The next steps are to add the plugin to the Plugin Marketplace. The instructions are included in the return message upon a successful `cutplugin` command.
 
 ### Bundle a plugin release version to a Mattermost server release
@@ -91,6 +103,8 @@ The steps to have a plugin version added the Plugin Marketplace are included wit
 
 Once the Plugin Marketplace PR is merged, request an update on the plugin in the `~community-configuration`[https://community.mattermost.com/core/channels/community-configuration] channel.
 
+Then close the release issue.
+
 ## Security upgrade process
 
 (**`TODO`**: Automate checking all released plugins through CLI, cron, or GH webhook event)  
@@ -101,7 +115,7 @@ Once the Plugin Marketplace PR is merged, request an update on the plugin in the
 
 Security alerts are displayed when viewing a GitHub repo and are resolved via the automated `dependabot` tool
 
-### Updating npm Dependencies CLI
+### Updating npm dependencies CLI
 
 * `git checkout latest master`
 * `git checkout -b bump-dependency-versions`
@@ -115,7 +129,7 @@ Security alerts are displayed when viewing a GitHub repo and are resolved via th
   * Title: `Update Dependencies` (Will automatically get set)
   * Summary: Update dependencies
 
-### Updating Security Alerts Through CLI
+### Updating security alerts through CLI
 
 * `git checkout latest master`
 * `git checkout -b npm-audit-fix`
@@ -129,7 +143,7 @@ Security alerts are displayed when viewing a GitHub repo and are resolved via th
   * Title: `Update Dependencies` (Will automatically get set)
   * Summary: <library_name>: <from_version> -> <to_version>
 
-### Updating Security Alerts Through GitHub
+### Updating security alerts through GitHub
 
 GitHub displays security alerts when viewing a GitHub repo.
 
