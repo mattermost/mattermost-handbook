@@ -6,7 +6,11 @@ Occasionally we’ll call a “Family & Friends Day”. In alignment with our ti
 
 We want to be especially thoughtful on the topic in the time of COVID, economic change, and changes to travel and academic environments.
 
-Our first “Family and Friends Day” will be on September 4th, 2020.
+## Upcoming Family and Friends Day
+* October 9, 2020
+
+**Past Family and Friends Days** 
+* September 4, 2020
 
 We announced this program at [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com), and will run the majority of the company with the minimal staff needed to meet our service level commitments - and we’ve asked the staff who are on-call, or who choose to work that day, to take an alternate day off.
 
