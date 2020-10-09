@@ -33,18 +33,25 @@ At performance review time all managers should:
 
 Feedback is solicited in a 360-degree style to incorporate feedback from peers. If you manage people, your manager may include direct reports in your peer feedback panel.
 
-* **Peer Feedback.** Peer reviews are a personalized version of [Likes and Wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes). Staff will select 3-6 peers for their peer feedback panel. Managers can adjust the panel at any time prior to the deployment of peer surveys. We will try and limit peer review panel requests to 5 per person.
+#### * **Peer Feedback.** 
+Staff are welcome to select 3-6 peers for their peer feedback panel. Managers can adjust the panel at any time prior to the deployment of peer surveys. 
+Peer reviews include [Likes and Wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes). Peer reviews include a rating based on how strongly a team meber embodies the [Mattermost Leadership Principles](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) on a 10-point scale, where 1 = does not embody, 10 = fully embodies.
 
-* **Self Reflection.** [Self Awareness](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) is one of our [Leadership Principles](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) and will be a factor of success for the entire process. This portion is written by self.
+Note: HR will try and limit peer review panel requests to a maximum of 5 per person.
 
-* **Manager Evaluation.** Managers will review all feedback to complete your performance appraisal.
+#### * **Self Reflection.** 
+[Self Awareness](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) is one of our [Leadership Principles](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) and will be a factor of success for the entire process. The Self assessment includes all of the review categories in the peer review. 
+
+#### * **Manager Evaluation.** 
+Managers will review all feedback to complete your performance appraisal. Managers will provide a rating of: meets, exceeds or does not meet for the following areas:
+ 1. Performance rating is a manager's rating based on a direct report's execution of [AORs](https://handbook.mattermost.com/operations/operations/areas-of-responsibility) and other responsibilities for the review period  
+ 2. Capability rating is a manager’s rating based on a direct report’s ability to achieve the review period’s desired results 
 
 ## What is the process?
 
 All staff take part in the Annual Winter Performance Review Process. R&D take part in a mid-year review cycle. The intent of the mid-year review cycle is to promote timely performance feedback. As other teams grow in size, mid-year reviews may extend to additional teams. Compensation is only reviewed during the annual Winter Performance Review cycle. If you have recently joined, your manager may prefer to wait for the [90 day New Colleague review](https://handbook.mattermost.com/contributors/onboarding#new-colleague-90-day-feedback-process) in lieu of the formal review processes.
 
-* Placeholder for link to Mid-Year Review
-  * Criteria: Staff members at Mattermost between 90 days and 6 months
+* (To be updated) Mid-Year Review
 * [Formal Review Process](https://handbook.mattermost.com/operations/people/performance-reviews-50/formal-review-process)
   * Criteria: Staff members at Mattermost at least 6 months
 
