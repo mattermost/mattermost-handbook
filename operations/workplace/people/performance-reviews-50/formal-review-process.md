@@ -16,7 +16,7 @@ Managers will provide peers for each direct report who can most effectively prov
 
 ## Peer feedback
 
-Your selected peers will receive a request to complete the [annual review feedback survey](https://docs.google.com/forms/d/1JNlDCAOgUjjLSJj5EoNe7Pl5kqN6KN7LaEIlM5L9LXw/edit) within two weeks of receipt. On average, teammates should be completing feedback surveys for 3 to 6 of their peers.
+Your selected peers will receive a request to complete the [annual review feedback survey](https://docs.google.com/forms/d/1JNlDCAOgUjjLSJj5EoNe7Pl5kqN6KN7LaEIlM5L9LXw/edit) within two weeks of receipt. On average, teammates should be completing feedback surveys for 3 - 6 of their peers.
 
 ## Self reflection
 
