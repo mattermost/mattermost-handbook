@@ -12,7 +12,7 @@ Before each review cycle, managers read the performance review chapter in High O
 
 ## Feedback panel requests
 
-Managers will provide peers for each direct report who can most effectively provide feedback on achievements and performance over the past year \(okay to include community members in addition to staff\).
+Managers will provide peers for each direct report who can most effectively provide feedback on achievements and performance over the past year \(this can include community members in addition to staff\).
 
 ## Peer feedback
 
