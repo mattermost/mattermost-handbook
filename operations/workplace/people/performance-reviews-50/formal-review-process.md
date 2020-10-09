@@ -39,7 +39,7 @@ Managers will share their review 'expectation' ratings (meets, exceeds, does not
 All compensation changes require approval of the VP of Finance & Operations and the CEO. CTO approval is required ahead of CEO approval for all Engineering compensation changes.
 
 1. HR will review compensation data with each Team MLT 1x1, asynchronously.
-2. HR, Team MLT + required comp approvers meet to discuss live with email approval to follow and finalize with all attendees CC'd.
+2. HR, Team MLT, and required comp approvers meet to discuss, with email approval to follow and finalize with all attendees CC'd.
 3. HR will send compensation change memos to each individual upon confirmation that the compensation news has been shared.
 
 ## Review discussion
