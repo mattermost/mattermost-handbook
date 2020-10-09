@@ -18,8 +18,9 @@ The goal is monthly for managers and quarterly for non-managers. Your HR partner
 
 Manager listening sessions will happen once a month. In addition to the above topics, this is also an opportunity for people managers to unpack questions around people management challenges, concerns, and/or best practices. This feedback will also help drive future Manager training topics.
 
-## New Hire Feedback 
-People use [New Hire feedback](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/onboarding#post-onboarding-readiness) to improve the onboarding process as it relates to general company onboarding. People may give suggestions to functional or department lead(s) if relevant feedback exists. New hire feedback cadences: 
+## New Hire Feedback
+
+People use [New Hire feedback](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/onboarding#post-onboarding-readiness) to improve the onboarding process as it relates to general company onboarding. People may give suggestions to functional or department lead(s) if relevant feedback exists. New hire feedback cadences:
 
 ## Staff Enablement Survey
 
