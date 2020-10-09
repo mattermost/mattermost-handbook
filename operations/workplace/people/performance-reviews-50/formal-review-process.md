@@ -4,7 +4,7 @@ This is the review process for the Mid-Year and Winter (formal) Performance Revi
 
 ## Confirm level expectations for roles are up to date
 
-If any level descriptions need to be updated or written, Managers complete it before the review cycle begins.
+If any level descriptions need to be updated or written, Managers complete them before the review cycle begins.
 
 ## Manager training
 
