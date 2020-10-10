@@ -20,7 +20,7 @@ In addition to the primary goal increasing the output of colleagues and of the o
 
 ## Manager Training 
 
-We believe a manager’s fundamental role in a performance review is to improve performance. We use Chapter 13 of the book [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK) as the framework and pre-reading for our review process.
+We believe a Manager’s fundamental role in a performance review is to improve performance. We use Chapter 13 of the book [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK) as the framework and pre-reading for our review process.
 
 At performance review time all managers should:
 
@@ -33,19 +33,22 @@ At performance review time all managers should:
 
 Feedback is solicited in a 360-degree style to incorporate feedback from peers. If you manage people, your manager may include direct reports in your peer feedback panel.
 
-#### * **Peer Feedback.** 
+### Peer Feedback 
+
 Staff are welcome to select 3-6 peers for their peer feedback panel. Managers can adjust the panel at any time prior to the deployment of peer surveys. 
-Peer reviews include [Likes and Wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes). Peer reviews include a rating based on how strongly a team meber embodies the [Mattermost Leadership Principles](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) on a 10-point scale, where 1 = does not embody, 10 = fully embodies.
+Peer reviews include [Likes and Wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes). Peer reviews include a rating based on how strongly a team member embodies the [Mattermost Leadership Principles](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) on a 10-point scale, where 1 = does not embody, 10 = fully embodies.
 
 Note: HR will try and limit peer review panel requests to a maximum of 5 per person.
 
-#### * **Self Reflection.** 
-[Self Awareness](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) is one of our [Leadership Principles](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) and will be a factor of success for the entire process. The Self assessment includes all of the review categories in the peer review. 
+### Self Reflection
 
-#### * **Manager Evaluation.** 
-Managers will review all feedback to complete your performance appraisal. Managers will provide a rating of: meets, exceeds or does not meet for the following areas:
- 1. Performance rating is a manager's rating based on a direct report's execution of [AORs](https://handbook.mattermost.com/operations/operations/areas-of-responsibility) and other responsibilities for the review period  
- 2. Capability rating is a manager’s rating based on a direct report’s ability to achieve the review period’s desired results 
+[Self Awareness](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) is one of our [Leadership Principles](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) and will be a factor of success for the entire process. The self reflection includes all of the review categories in the peer review.
+
+### Manager Evaluation
+
+Managers will review all feedback to complete your performance appraisal. Managers will provide a rating of: meets, exceeds, or does not meet for the following areas:
+ - **Performance rating** is a manager's rating based on a direct report's execution of [AORs](https://handbook.mattermost.com/operations/operations/areas-of-responsibility) and other responsibilities for the review period.
+ - **Capability rating** is a manager’s rating based on a direct report’s ability to achieve the review period’s desired results.
 
 ## What is the process?
 
