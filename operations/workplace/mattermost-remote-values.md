@@ -2,7 +2,7 @@
 
 Mattermost is a high performance, all-remote, and high trust company. We believe that team is everything and enabling each team member to do the best work of their careers will enable Mattermost to continue to do our best work as a team. With Staff across the [globe](https://www.google.com/maps/d/u/0/viewer?mid=1mENESkTtAsbfuah6KtRoBLwIjqqJ7Nzv&ll=19.358313530029793%2C-1.00877724999998&z=2), asynchronous and respectful communication is vital and the responsibility of every team member.
 
-## Mattermost Communication Values
+## Mattermost Remote Values
 
 As an open source, remote-first and communities-centered company, effective, efficient and courteous communication is expected of every team member. A few guidelines we live by:  
 
@@ -13,6 +13,8 @@ As an open source, remote-first and communities-centered company, effective, eff
 * Communicate and write inclusively. Use simple language and avoid buzzwords and cultural idioms.
 * Assume positive intent. If issues arise, constructive feedback or an [unscheduled post-mortem](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-do-a-post-escalation-post-mortem) is encouraged.
 * Be mindful of your audience. Abide by our [Code of Conduct](https://handbook.mattermost.com/contributors/mattercon/mattermost-code-of-conduct).
+
+## Mattermost Communication Guidelines
 
 ## Meeting Etiquette
 
