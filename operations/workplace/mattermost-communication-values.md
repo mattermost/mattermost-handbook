@@ -4,7 +4,7 @@ Mattermost is a high performance, all-remote, and high trust company. We believe
 
 ## Mattermost Communication Values
 
-As an open source, remote-only and communities-centered company, effective, efficient and courteous communication is expected of every team member. A few guidelines we live by:  
+As an open source, remote-first and communities-centered company, effective, efficient and courteous communication is expected of every team member. A few guidelines we live by:  
 
 * Model behavior aligned with our [Leadership Principles](https://handbook.mattermost.com/contributors/onboarding/staff-onboarding-guide#leadership-principles).
 * Asynchronously communicate and default to [open actions](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#open-actions) unless confidentiality is required. Empower and enable your teammates with access and updates to information. 
