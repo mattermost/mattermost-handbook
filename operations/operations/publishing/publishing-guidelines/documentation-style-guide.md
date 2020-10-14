@@ -2,15 +2,104 @@
 
 When writing for Mattermost, always think about the audience that will be reading your writing. Mattermost’s audience can vary, but we typically communicate with a technical audience and want to present Mattermost as being a friend of the practitioner in development, IT, and operations. It must be accurate and clear, presented with a style and tone that is appropriate for technical or educational content, and easy to navigate.
 
+## General Guidelines
+
+The Mattermost documentation must be of high quality. It must be accurate and clear, and be presented with a style and tone that is appropriate for technical content.
+
+## Style Guide Applicability
+
+The style guide applies to all end-user, developer, and administrator documentation that appears on the Mattermost documentation site at https://docs.mattermost.com.
+
+Apply the style guide in the following situations:
+
+- When you create a new document.
+- When you convert a document from Markdown to reStructuredText.
+- When you revise a document.
+
+When you revise a document, apply the style guide rules to the part that you changed. If you have time to update the rest of the document, then do so. If the scope is significantly greater than you originally anticipated, then do what you can and what makes sense, and then create an [issue in GitHub](https://github.com/mattermost/docs/issues). Give the issue an appropriate title, such as *File XXX converted to .rst, but needs updating for style guide*.
+
+## Write in the Context of Achievement
+
+The documentation should help Mattermost users and administrators achieve their goals. Write imperative sentences as much as possible. Imperative sentences begin with verbs and give instructions, information, and advice to help people install, administer, and use Mattermost with success.
+
+Use positive constructs as much as possible, but note that a negative construct can act as a warning that causes a reader to pay closer attention to the content, resulting in higher levels of accomplishment.
+
+.. much of the following section comes from the Ubuntu Documentation Style Guide, which is in the public domain.
+
+## Write to Facilitate Scanning
+
+Readers need to find information quickly. People don't read documentation as much as they scan it for solutions to their immediate problem. Writing and presentation styles that seem redundant in essays or other texts are often helpful to people scanning for information.
+
+## Paragraphs and Sentences
+
+Paragraphs should express one idea or topic. Long paragraphs are sometimes difficult to read on screen, so try to keep them to five sentences or less. Short paragraphs are easier for people to scan quickly.
+
+Try to keep sentences to 25 words or less in length. Short, single-clause sentences are often easier to understand and easier to translate. Tools such as the [Hemingway writing app](http://www.hemingwayapp.com) can be helpful in evaluating readability. Target a readability level of Grade 6.
+
+## Word Usage Guidelines
+
+To promote consistency and clarity, follow the word usage and spelling guidelines below.
+
+can, might, may
+  The word *may* can have several meanings. To avoid ambiguity, use *can* or *might* instead of *may*. Use *can* to mean *capable of* and *might* to mean that something is possible. Use *may* only to give permission to do something.
+
+downtime
+  Use as one word *downtime*, not *down time*.
+
+emoji, emojis
+  Use *emojis* as the plural form of *emoji*.
+
+login, log in, log into
+  Use *login* as a noun or adjective, and *log in* and *log into* as verbs. For example: *Log into the Mattermost server using your System Admin login credentials.*
+
+setup, set up
+  Use *setup* as a noun or adjective, and *set up* as a verb. For example: *Set up your operating system as described in the Ubuntu documentation.*
+
+sign-in, sign in, and sign into
+  Use *sign-in* as a noun or adjective, and *sign in* and *sign into* as verbs. For example: *Sign into your Mattermost account using the sign-in credentials that were sent to you.*
+
+single sign-on
+  Single sign-on is abbreviated as SSO. When using the long form in a heading with title case, it's *Single Sign-on*.
+
+## Gender-neutral Text
+
+Avoid constructs where you're forced to write either *he or she* or *his or her*. You can use *they* or *their* as singular forms instead.
+
+Preferred
+  The community manager monitors the forum for well-written questions and answers, and posts them to the Contributors channel.
+Avoid
+  The community manager posts questions and answers that they think are well-written.
+Do not use
+  The community manager posts questions and answers that he or she thinks are well-written.
+
 An exception is **Customer Education** content where the audience is placed at the center of attention, as opposed to technical documentation where it is the document's content that is the primary focus.
 
 ## Document structure
+
+Format text to give a visual hierarchy that allows readers to see the overall content of the page by scanning it. Use headings, lists, and emphasis to signal importance. Headings should summarize the topic of the underlying information so that when readers scan a page, they can get an accurate picture of the contents.
 
 Structure and organization are an important part of a document's ease of use and its understandability. Information should be organized and presented in a logical order, with similar subjects grouped together in the same section. In most cases, a document has a title, an introductory paragraph, and one or more sections.
 
 Try to keep only one topic in a page. Shorter topics are easier to reuse in other documents, are easier to write and edit, and are easier to translate.
 
+Be clear
+  Write short, active sentences using everyday vocabulary. Maintain a visual separation between page elements.
+Be concise
+  Minimize content so it can be found and remembered. Keep pages short, modular, and focused on a single topic.
+Be consistent
+  Refer to one thing or idea with the same word throughout the page.
+
 An exception to this is **Customer Education** content which can cover multiple topics per page.
+
+## Tone
+
+Use a direct, impartial tone. Mattermost documentation is written to answer questions and solve problems, not to entertain.
+
+Preferred
+  If login fails due to an invalid password, turn Caps Lock off and then re-enter your password.
+
+Avoid
+  Failed sign in? No problem! Simply enter the correct password and we'll let you in right away.
 
 ### Document title
 
@@ -50,16 +139,41 @@ An exception is **Customer Education** content where the introduction is replace
 
 ### Language
 
+## Write for an International Audience
+
+Mattermost documentation is translated into several languages for use in many countries and cultures. For this reason, you must consider cultural differences on a global scale. Names, places, events, and actions should be chosen as carefully as possible to avoid misunderstanding.
+
+Also remember that English is not the primary language of many readers of the documentation. Keep the following advice in mind when writing:
+
+- Choose words with one or very few meanings.
+- Use simple verb forms in writing. Most verbs in the simple form are likely to have an equivalent in another language.
+- Avoid jargon and slang words.
+- Limit difficult words to technical terms where their use is unavoidable.
+- Always make sure that your spelling is correct.
+
 Write documents in English. Use American spelling, and avoid constructs where you are forced to write either *he* or *she*, or *his* or *her*. You can use *they* or *their* as singular forms instead.
 
 ### Numbers
 
-Spell out numbers when the number is the first word in a sentence or is less than or equal to ten (i.e. one to nine), otherwise use numeric digits (i.e., 10 upwards). Use commas to make long number strings easier to read.
+Spell out numbers when the number is the first word in a sentence or is less than or equal to ten, otherwise use numeric digits.
+
+Use commas to make long numbers easier to read.
+
+Preferred
+  Three cows ran for six kilometers when they saw 2,300,097 mosquitoes chasing them.
+
+Avoid
+  3 cows ran for 6 kilometers when they saw 2300097 mosquitoes chasing them.
 
 ### Commas
 
-We use the Oxford \(serial\) comma in our documentation. 
- - For example: "Mattermost's writing style is clear, concise, and simple." as opposed to "Mattermost's writing style is clear, concise and simple."
+Use the serial comma unless doing so decreases clarity and understanding of the sentence.
+
+Preferred
+  The cows ran from wolves, coyotes, and mosquitoes.
+
+Avoid
+  The cows ran from wolves, coyotes and mosquitoes.
 
 ### Capitalization
 
@@ -68,11 +182,22 @@ Use Title Case for document names/titles.
 
 Use Sentence case for section titles and headings.
   - For example: "Writing guidelines for editors"
+  
+Sentence case example - document title
+  "AppConfig for EMM solutions with Mattermost mobile apps"
+  
+Sentence case example - heading
+  "Multiple read replicas (Enterprise Edition)"
 
 ### Person
 
 Use the second person and avoid the first person.
-  - For example: "View the status in the **Status** pane." as opposed to "We’ll view the status in the **Status** pane."
+
+Preferred
+  View the status in the *Status* pane.
+
+Avoid
+  We'll view the status in the *Status* pane.
 
 An exception is **Customer Education** content which can be written in first or second person to keep the audience focused and interested.
   - For example: "While Mattermost provides options to make mobile deployment as easy as possible, it will take time and iteration. We are here to [support](https://link-to-support-section) you." as opposed to "Deploying the Mattermost Mobile App will take time and iteration."
@@ -80,18 +205,28 @@ An exception is **Customer Education** content which can be written in first or 
 ### Voice
 
 Use active voice in preference to passive voice. Active voice has the subject of a sentence doing the action. In passive voice, the subject has an action done to it.
-  - For example: "The system opens the **Status** pane." as opposed to "The **Status** pane will be opened by the system."
+
+Preferred
+  The system opens the *Status* pane.
+
+Avoid
+  The *Status* pane will be opened by the system.
 
 ### Tense
 
 Use the present tense.
-  - For example: "Sharing this link lets other users view the linked message." as opposed to "Sharing this link will let other users view the linked message."
+
+Preferred
+  Sharing this link lets other users view the linked message.
+
+Avoid
+  Sharing this link will let other users view the linked message.
 
 ## Using ReStructuredText markup (rst)
 
 The reStructuredText specification allows for a certain degree of flexibility in markup to achieve your goals. For example, you can use any one of more than a dozen characters for section title underlines, and you have the option of using an overline in addition to an underline.
 
-The majority of Mattermost technical documentation is written in `.rst`. The examples below describe the conventions we use when writing in `.rst`.
+The majority of Mattermost technical documentation is written in `.rst`. The examples below describe the conventions we use when writing in `.rst`. For more information about reStructuredText markup, see the [reStructuredText Markup Specification](http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html). Additional markup constructs are implemented by Sphinx, the documentation generator used by Mattermost. For information about the additional constructs, see [Sphinx Markup Constructs](https://www.sphinx-doc.org/en/1.7/markup/index.html).
 
 ### Page titles
 
@@ -156,6 +291,8 @@ Use highlighting of text to visually set off words and phrases that are importan
                    
 ### Bullet lists
 
+The list items in a bullet list can be either all complete sentences or all sentence fragments. Don't mix complete sentences and sentence fragments in a single list. Remember that a complete sentence begins with an upper case letter and ends with a punctuation mark.
+
 For bullet lists and sublists, use `-` before the list item.
 
 ```
@@ -182,6 +319,21 @@ Create numbered lists and procedure steps using numbers for the top-level list a
 
 ### Name-value groups
 
+Use a name-value group instead of a hand-created list.
+
+A name-value group is typically a group of terms and their corresponding definitions, but can also be questions and answers, topics and values, or other name-value groups. In HTML output, a name-value group is represented as a definition list.
+
+Preferred
+  Total Users
+    The total number of active accounts created on your system. Excludes inactive accounts.
+  Total Teams
+    The total number of teams created on your system.
+
+Avoid
+  **Total Users:** The total number of active accounts created on your system. Excludes inactive accounts.
+
+  **Total Teams:**  The total number of teams created on your system.
+
 To create a name-value group such as a definition list, type the term on a line by itself. On the next line, indent the definition.
 
 ```
@@ -204,6 +356,10 @@ URLs are automatically rendered as links in Sphinx; however, where possible, it 
 The link renders as: [Mattermost Manifesto](https://www.mattermost.org/manifesto/).
 
 ### Internal links to Mattermost documentation
+
+When creating a link to another document in the Mattermost documentation, create a link with a relative URL. To create relative links in reStructuredText, see :ref:`relative-links-in-rst`.
+
+A link with an absolute URL is not as flexible as a relative URL. Relative URLs don't break when the documentation is moved to another host, or if the documentation is hosted on a server that's behind a firewall without access to the Internet.
 
 The Sphinx processor extends reStructuredText to implement references, called roles, to locations within a documentation set. The two roles that are relevant in Mattermost documentation are the `:doc:` role and the `:ref:` role.
 
