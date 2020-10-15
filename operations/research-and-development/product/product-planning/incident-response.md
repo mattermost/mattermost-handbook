@@ -18,7 +18,7 @@ By integrating with your favourite monitoring tools such as [Prometheus](https:/
 
 ### 2. Detection
 
-Our [Incident Response plug-in](https://docs.mattermost.com/administration/incident-response-application.html) can be configured to conditionally escalate alerts and automatically start a workflow - typically by first creating a dedicated channel.
+Our [Incident Response plug-in](https://mattermost.gitbook.io/incident-response-plugin/) can be configured to conditionally escalate alerts and automatically start a workflow - typically by first creating a dedicated channel.
 
 ![Nagios integration triggering a war room channel](../../../../.gitbook/assets/incident-response-app-intro-image.png)
 
