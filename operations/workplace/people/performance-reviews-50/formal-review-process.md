@@ -30,7 +30,7 @@ Once a staff member completes their Self-Assessment in BambooHR, Managers will b
 
 ## Calibration
 
-All people managers within the same [department](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#departments) or other group that the Team [MLT](https://handbook.mattermost.com/operations/operations/mlt-cadence) indicates.
+All people Managers within the same [department](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#departments) or other group that the Team [MLT](https://handbook.mattermost.com/operations/operations/mlt-cadence) indicates.
 
 Managers will share their review 'expectation' ratings (meets, exceeds, does not meet), any recommendations for a [level](https://docs.google.com/document/d/1XNGYOHouoY42YYmFHNrhu-vHDtWVrPL5E8M_BpwF9iU/edit) change and/or a promotion, asynchronously using a confidential Google Sheet that's shared with the calibration group. During the meeting, Managers share feedback on any performance metric and apply [high standards](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) in evaluation against the criteria for staff members' role and level.
 
