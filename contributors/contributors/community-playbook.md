@@ -270,40 +270,48 @@ Guidelines for Mattermost [Twitter responses](https://twitter.com/mattermost).
   
 ### Sample Responses
 
-1. Requests for more information such as a preview of our product.
+#### Requests for more information such as a preview of our product.
 
 > Thank you for your interest in Mattermost. You can learn more about us at www.mattermost.com where you can also download a trial of our product.
 
-2. Requests for a specific feature or group of features.
+#### Requests for a specific feature or group of features.
 
- - Multiple Feature Requests:
+   - Multiple Feature Requests:
 
 > Thank you for the suggestions @username. Would you be open to contributing them in the feature idea forum so they can be discussed and upvoted by the community? You get 10 votes in the feature idea forum, and each one influences the future of the project. https://mattermost.uservoice.com/
 
- - Single Feature Request:
+   - Single Feature Request:
 
 > Thank you for the suggestion @username. Would you be open to contributing it in the feature idea forum so it can be discussed and upvoted by the community? You get 10 votes in the feature idea forum, and each one influences the future of the project. https://mattermost.uservoice.com/
 
- - Planned Feature Request:
+   - Planned Feature Request:
 
 > Thank you for your feedback. We are excited to share that [feature] will be available in our [edition] Edition soon. Please see our forum post for more information: [link to forum post].
 
- - Shipped Feature Request: 
+  - Shipped Feature Request: 
 
 > Thank you for your feedback. Mattermost already supports [feature]. You can learn more about it in our documentation: [link to docs].
 
-3. Feedback about their experience, not specific to a feature or a product.
+#### Feedback about their experience, not specific to a feature or a product.
 
 > Appreciate the feedback. If your team has suggestions on how to improve Mattermost, we would love to hear more in our feature proposal forum. You get 10 votes there, and each one influences the future of the project: https://mattermost.uservoice.com/.
 
 > Thanks @{username}, highly appreciate your feedback. If you have additional feedback about your experience, we'd love to hear. You can share at http://forum.mattermost.org to start a discussion.
 
-4. Tweet of forum post, asking someone from Mattermost team to respond.
+#### Tweet of forum post, asking someone from Mattermost team to respond.
 
 > Thank you for reaching out. Our team responded to you in the forums and we're happy to help with further questions there.
 
 > Thank you for reaching out. Our team monitors and responds to forum inquiries. We're happy to help with further questions there.
 
-5. Customer requesting help to address an issue they are having with a deployment or specific feature in the system.
+#### Customer requesting help to address an issue they are having with a deployment or specific feature in the system.
 
 > Thank you for reaching out. We recommend opening a support ticket where our team can best help you troubleshoot the issue. For more information about Enterprise Edition support levels, see https://about.mattermost.com/support/.
+
+## Community Content Guidelines 
+
+Content from community in GitHub, Forums, Feature Ideas, Community Mattermost site, or any other community content site managed by Mattermost should follow Mattermost guidelines:
+
+> Content that is deemed to be controversial, offensive, potentially defamatory or infringing content from material distributed, broadcast, or posted on websites will be edited or removed. 
+
+We ask the community's help in reporting any such content to feedback@mattermost.com.
