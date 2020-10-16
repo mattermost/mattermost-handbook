@@ -2,7 +2,7 @@
 
 ## Instructions for Managers
 
-1. Forward resignation letter/email to MLT member and HR hr@mattermost.com. The resignation letter/email will be stored in Bamboo.
+1. Forward staff member's resignation letter/email to MLT member and HR hr@mattermost.com. The resignation letter/email will be stored in BambooHR.
 Note: a resignation letter/email is required from departing staff. In most cases and depending upon the statutory requirements in the staff member’s country/region, a minimum of two weeks' notice is required for voluntary departures.
 2. Complete the [Manager Offboarding Checklist](https://form.asana.com?hash=1a70cad9b3facd446307bb0209313f9909a1f2a8a035b5bc65b92e738b0d3057&id=1177889065987940) which is used to indicate:
   * Systems that need to be deprovisioned.
