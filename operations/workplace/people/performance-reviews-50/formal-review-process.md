@@ -8,7 +8,7 @@ If any level descriptions need to be updated or written, Managers complete them 
 
 ## Manager training
 
-Before each review cycle, managers read the performance review chapter in High Output Management. Managers will be invited to attend [Manager Training on Performance Management at Mattermost](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#manager-training) at the beginning of the [Annual Performance Review cycle](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#what-is-the-process). If you don't have a copy, use [this form](https://forms.gle/SUWWvZZGqg5B4d1aA) to request a copy.
+Before each review cycle, Managers read the performance review chapter in High Output Management. Managers will be invited to attend [Manager Training on Performance Management at Mattermost](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#manager-training) at the beginning of the [Annual Performance Review cycle](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#what-is-the-process). If you don't have a copy, use [this form](https://forms.gle/SUWWvZZGqg5B4d1aA) to request a copy.
 
 ## Feedback panel requests
 
