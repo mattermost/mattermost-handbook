@@ -308,10 +308,8 @@ Guidelines for Mattermost [Twitter responses](https://twitter.com/mattermost).
 
 > Thank you for reaching out. We recommend opening a support ticket where our team can best help you troubleshoot the issue. For more information about Enterprise Edition support levels, see https://about.mattermost.com/support/.
 
-## Community Content Guidelines 
+## How do I report inappropriate content in Mattermost community sites?
 
-Content from community in GitHub, Forums, Feature Ideas, Community Mattermost site, or any other community content site managed by Mattermost should follow Mattermost guidelines:
+Content in any [community site managed by Mattermost](https://handbook.mattermost.com/contributors/contributors/community-systems) should follow the guidelines above. Content that is deemed to be controversial, offensive, potentially defamatory or infringing content from material distributed, broadcast, or posted on websites will be edited or removed.
 
-> Content that is deemed to be controversial, offensive, potentially defamatory or infringing content from material distributed, broadcast, or posted on websites will be edited or removed. 
-
-We ask the community's help in reporting any such content to feedback@mattermost.com.
+We ask the community's help in reporting any such content to community@mattermost.com.
