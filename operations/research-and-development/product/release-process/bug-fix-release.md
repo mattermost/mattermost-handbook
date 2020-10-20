@@ -231,6 +231,7 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
 1. Release Manager:
     - Post this checklist in Release Checklist channel
     - Verify all items in the last posted release checklist are complete
+    - Update the server upgrade [in-product notice](https://github.com/mattermost/notices)
     - Schedule a release retrospective meeting, to be held within five days of the release
     - Update Integrations Directory on the [Mattermost Apps and Integrations](https://integrations.mattermost.com/) page
     - Prepare and post [release metrics](https://docs.google.com/spreadsheets/d/1Aoj4OTaWoyrKIcQNiHH1MVoRG51T20Y_0w2tg5oVw-M/edit#gid=825551144)
