@@ -264,6 +264,7 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
     - Post this checklist in Release Checklist channel
     - Verify all items in the last posted release checklist are complete
     - Schedule a release retrospective meeting, to be held within five days from the release
+    - Update the server upgrade [in-product notice](https://github.com/mattermost/notices)
     - Prepare and post [release metrics](https://docs.google.com/spreadsheets/d/1Aoj4OTaWoyrKIcQNiHH1MVoRG51T20Y_0w2tg5oVw-M/edit#gid=825551144)
     - Review and update [company roadmap](https://about.mattermost.com/direction/) with which major features made it into the release
         - Review with Head of Product prior to updating
