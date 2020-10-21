@@ -1,0 +1,7 @@
+root: ./
+
+structure:  
+   summary: SUMMARY.md
+    
+redirects:  
+    /company/how-to-guides-for-staff/how-to-spend-company-money: new-folder/page.md
