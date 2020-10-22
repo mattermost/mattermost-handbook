@@ -26,7 +26,7 @@ Great video content starts with a clean recording. If you know that a session wi
 * **Use a good microphone:** As an audiophile friend used to say, “anything is better than your laptop’s mic.”
 * **Improve your lighting:** Natural light is always best; check different locations to figure out where your lighting will be flattering and clear.
 * **Eliminate audio & visual clutter:** Select a good time to record, if possible; if light in your office is great in the morning but dungeon-like in the afternoon, or if your street has a lot of loud traffic between 3-5.
-* **Do a quick check of your “recording” room:** Is there a basket of laundry sitting on the table in the background? Is your door open & roommates likely to start knocking around the kitchen? Do what you can to minimize distractions before you get started
+* **Do a quick check of your “recording” room:** Is there a basket of laundry sitting on the table in the background? Is your door open and roommates likely to start knocking around the kitchen? Do what you can to minimize distractions before you get started.
 * **Include buffer time to your recording:** Don’t start and stop recording right away -- it’s good to give a few seconds of buffer between the beginning
 * **Don’t be afraid of do-overs:** if you’re recording something specifically for video distribution (not live) and something happens -- a police car goes by outside, cat knocks over your mic, you say the wrong word -- feel free to stop, take a breath, and redo that section. 
 * **Take notes:** If your co-speaker mentions a customer that we shouldn’t discuss publicly, or you needed to do-over on something, time-stamped notes are helpful for making the editing process faster and easier. 
