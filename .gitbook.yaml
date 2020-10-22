@@ -4,5 +4,5 @@ structure:
    summary: SUMMARY.md
     
 redirects:  
-    /company/how-to-guides-for-staff/how-to-spend-company-money: /operations/finance/spending-company-money/README.md
+    /company/how-to-guides-for-staff/how-to-spend-company-money: /operations/finance/spending-company-money/*
     /company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract: /operations/finance/spending-company-money*
