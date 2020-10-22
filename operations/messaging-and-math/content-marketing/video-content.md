@@ -5,6 +5,7 @@ description: '50% DRAFT (revised by Ashley Dotterweich on Oct 20, 2020)'
 # Video Content Best Practices
 
 This document provides guidelines for creating video content for Mattermost. It covers:
+
 * What is video content used for?
 * How can I create great video content?
 * What is the process for developing video content?
@@ -22,6 +23,7 @@ Videos can also be helpful for repurposing live events and sessions for longer t
 While video content is great, it isn’t always the best option for a public-facing asset, even when raw footage has already been recorded. If you aren't sure if a piece of content would be a good fit for video content, don't be afraid to ask! 
 
 ## Video Recording Best Practices
+
 Great video content starts with a clean recording. If you know that a session will be used for video content, aim for getting as high quality as possible. Some tips for getting the best raw content:
 * **Use a good microphone:** As an audiophile friend used to say, “anything is better than your laptop’s mic.”
 * **Improve your lighting:** Natural light is always best; check different locations to figure out where your lighting will be flattering and clear.
@@ -34,7 +36,9 @@ Great video content starts with a clean recording. If you know that a session wi
 *An additional note for recording webinars, meetings and other large-group calls: if there are more people than the speakers on the call being recorded, have them mute their mics and turn off their webcams before the recorded section begins. You can opt to hide participants who are not visible in your Zoom settings. This helps keep the recording free of visual and audio clutter.* 
 
 ## Post-Production/Video Processing Workflow
-### What to prepare: 
+
+### What to prepare
+
 * A description of the video
 * Raw video(s) for editing
 * Transcript (if available)
@@ -46,15 +50,19 @@ Great video content starts with a clean recording. If you know that a session wi
     * Are there any sound or video quality issues that should be checked?
 
 ### Submitting to Fiverr
-For video editing we use Fiverr vendors to prepare polished videos. The following are our preferred vendors: 
+
+For video editing we use Fiverr vendors to prepare polished videos. The following are our preferred vendors:
+
 * Watchclosely
 * Graphifyme
 * matteo505
 
 ### Reviews & Edits
+
 Minimize the number of edits and stakeholders for any given video, and be prompt with giving feedback to Fiverr editors. Fiverr tickets close automatically after 3 days, so be mindful of getting your feedback in quickly. 
 
 Editing should include:
+
 * Editorial owner
 * (Optional) Internal stakeholders, e.g. a developer who gave a presentation on an upcoming feature 
 * (Optional) External stakeholders, e.g. a customer who participates in a video case study
