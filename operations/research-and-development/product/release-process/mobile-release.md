@@ -132,4 +132,4 @@ The final release is cut. If an urgent and important issue needs to be addressed
     - After the apps are approved and on the App Store (number of days may vary), send out release marketing
         - Update the app version on the [download page](https://about.mattermost.com/download/#mattermostApps)
         - Send out a Twitter announcement
-    - Douple check that minimum server version required is clear in update notes in the App stores and in GitHub Readme and Releases pages
+    - Double check that minimum server version required is clear in update notes in the App stores and in GitHub Readme and Releases pages
