@@ -75,7 +75,7 @@ Mattermost videos are hosted on YouTube, which has a very simple upload workflow
 * Video description
 * Tags
 
-If video is going to be available on our Youtube channel, assign it to appropriate playlists. If video will not be available on Youtube (e.g. a customer testimonial that will only be embedded on the Customers page), do not assign it to playlists and set state to “Unlisted” (not “Private”).
+If video is going to be available on our YouTube channel, assign it to appropriate playlists. If video will not be available on YouTube (e.g. a customer testimonial that will only be embedded on the Customers page), do not assign it to playlists and set state to “Unlisted” (not “Private”).
 
 For access to our Youtube channel, ping @hanna.park.  
 
