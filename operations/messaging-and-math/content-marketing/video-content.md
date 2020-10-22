@@ -69,7 +69,7 @@ Editing should include:
 
 ## Preparing Finished Videos for Publication
 
-Mattermost videos are hosted on Youtube, which has a very simple upload workflow. Upload the video via Youtube Studio and include the following metadata:
+Mattermost videos are hosted on YouTube, which has a very simple upload workflow. Upload the video via YouTube Studio and include the following metadata:
 * Thumbnail image
 * Video title
 * Video description
