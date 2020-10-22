@@ -17,7 +17,7 @@ This document provides guidelines for creating video content for Mattermost. It 
 
 Video content provides a dynamic experience for viewers and can add personality and context to a topic where written content cannot. We should use video content when video provides the best audience experience for a piece of content. Some examples include discussions between two or more people and tutorials with complex or highly visual workflows. 
 
-Video can also be helpful for repurposing live events and sessions for longer term use. This includes presentations at live events and internal product demos. 
+Videos can also be helpful for repurposing live events and sessions for longer term use. This includes presentations at live events and internal product demos. 
 
 While video content is great, it isn’t always the best option for a public-facing asset, even when raw footage has already been recorded. If you aren't sure if a piece of content would be a good fit for video content, don't be afraid to ask! 
 
