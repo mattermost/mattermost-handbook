@@ -115,7 +115,7 @@ The final release is cut. If an urgent and important issue needs to be addressed
     - Post this checklist in Release Checklist channel
     - Verify all items in the last posted release checklist are complete
     - Submit final build to Google Play Store and iTunes Connect
-    - Confirm that minimum server version required is clear in update notes in the App stores and in GitHub Readme and Releases pages
+    - Confirm that minimum server version required is clear in update notes in the App stores and in GitHub README and Releases pages
     - Close the release in Jira
     - Schedule a release retrospective meeting, to be held within five days from the release 
     - Post key dates for the next release in the header of the Native Mobile Apps channel and remove links to RC candidates and testing spreadsheet
@@ -132,4 +132,4 @@ The final release is cut. If an urgent and important issue needs to be addressed
     - After the apps are approved and on the App Store (number of days may vary), send out release marketing
         - Update the app version on the [download page](https://about.mattermost.com/download/#mattermostApps)
         - Send out a Twitter announcement
-    - Double check that minimum server version required is clear in update notes in the App stores and in GitHub Readme and Releases pages
+    - Double check that minimum server version required is clear in update notes in the App stores and in GitHub README and Releases pages
