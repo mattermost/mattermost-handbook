@@ -33,7 +33,7 @@ Great video content starts with a clean recording. If you know that a session wi
 * **Don’t be afraid of do-overs:** if you’re recording something specifically for video distribution (not live) and something happens -- a police car goes by outside, cat knocks over your mic, you say the wrong word -- feel free to stop, take a breath, and redo that section. 
 * **Take notes:** If your co-speaker mentions a customer that we shouldn’t discuss publicly, or you needed to do-over on something, time-stamped notes are helpful for making the editing process faster and easier. 
 
-*An additional note for recording webinars, meetings and other large-group calls: if there are more people than the speakers on the call being recorded, have them mute their mics and turn off their webcams before the recorded section begins. You can opt to hide participants who are not visible in your Zoom settings. This helps keep the recording free of visual and audio clutter.* 
+*An additional note for recording webinars, meetings, and other large-group calls: If there are more people than the speakers on the call being recorded, have them mute their mics and turn off their webcams before the recorded section begins. You can opt to hide participants who are not visible in your Zoom settings. This helps keep the recording free of visual and audio clutter.*
 
 ## Post-Production/Video Processing Workflow
 
