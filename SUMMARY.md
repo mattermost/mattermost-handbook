@@ -137,7 +137,7 @@
     * [Procurement](operations/finance/spending-company-money/procurement.md)
       * [Purchase Submission Request](/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract.md)
   * [Arrange a Bounty Program]
-  * [Staff Member Expenses]
+  * [Staff Member Expenses](operations/finance/staff-member-expenses/README.md)
     * [How to spend company money](company/how-to-guides-for-staff/how-to-spend-company-money/README.md)
     * [How to use Expensify](company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify.md)
     * [How to book airfare and travel](company/how-to-guides-for-staff/how-to-spend-company-money/airfare-and-traveling.md)
