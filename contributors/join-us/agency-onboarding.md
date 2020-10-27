@@ -28,7 +28,7 @@ Please provide detailed information on how this candidate matches each of the re
 
 We currently support hiring in the following countries/regions:
 
-Australia, Belarus, Canada, Chile, Finland, Georgia, Germany, India, Mauritius, Philippines, Poland, South Africa, Turkey, Uganda, Ukraine, United Kingdom, United States
+Australia, Canada, Chile, Finland, Georgia, Germany, India, Mauritius, Philippines, Poland, South Africa, Turkey, Uganda, Ukraine, United Kingdom, United States
 
 We are constantly working towards adding more countries/regions to this list, but it takes a lot of time and resources. This list will be updated as we are able to hire in additional countries/regions. Due to local laws, there may be restrictions on which types of roles we can hire in each country/region.
 
