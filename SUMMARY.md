@@ -11,17 +11,9 @@
 * ["How to" guides for staff](company/how-to-guides-for-staff/README.md)
   * [How to set up a 1-1 channel](company/how-to-guides-for-staff/how-to-setup-a-1-1-channel.md)
   * [How to update the handbook](company/how-to-guides-for-staff/how-to-update-handbook.md)
-  * [How to spend company money](company/how-to-guides-for-staff/how-to-spend-company-money/README.md)
   * [How to V2MOM](company/how-to-guides-for-staff/how-to-v2mom.md)
   * [How to change mobile device](company/how-to-guides-for-staff/how-to-change-mobile-device/README.md)
     * [How to handle a lost mobile device](company/how-to-guides-for-staff/how-to-change-mobile-device/how-to-handle-a-lost-mobile-device.md)
-  * [How to purchase](company/how-to-guides-for-staff/how-to-purchase/README.md)
-      * [How to on-board a vendor](company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/README.md)
-        * [How to invoice Mattermost](company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/how-to-invoice-mattermost.md)
-        * [How to get paid](company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/how-to-get-paid.md)
-    * [How to arrange a simulation](company/how-to-guides-for-staff/how-to-purchase/how-to-arrange-a-simulation.md)
-    * [How to request a Divvy virtual credit card](company/how-to-guides-for-staff/how-to-purchase/request-a-divvy-virtual-credit-card.md)
-    * [How to arrange a bounty program](company/how-to-guides-for-staff/how-to-purchase/how-to-arrange-a-bounty-program.md)
   * [How to do a mini-retrospective](company/how-to-guides-for-staff/how-to-do-a-post-escalation-post-mortem.md)
 
 ## Operations
