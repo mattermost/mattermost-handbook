@@ -28,7 +28,7 @@ Please provide detailed information on how this candidate matches each of the re
 
 We currently support hiring in the following countries/regions:
 
-Canada, Chile, Finland, Georgia, Germany, India, Mauritius, Philippines, Poland, South Africa, Turkey, Ukraine, United Kingdom, United States
+Australia, Belarus, Canada, Chile, Finland, Georgia, Germany, India, Mauritius, Philippines, Poland, South Africa, Turkey, Uganda, Ukraine, United Kingdom, United States
 
 We are constantly working towards adding more countries/regions to this list, but it takes a lot of time and resources. This list will be updated as we are able to hire in additional countries/regions. Due to local laws, there may be restrictions on which types of roles we can hire in each country/region.
 
@@ -37,7 +37,10 @@ We currently have staff in the following U.S. states:
 AZ CA CO FL GA IN KS MA MD MI MO NC NJ NV NY OK SC TN TX UT VA WA WI
 
 Preparing to hire an employee in a new state takes time, and we may be subject to new regulations, taxes, and reporting obligations. If a candidate is progressing in the interview process and would be living and working from a U.S. state not listed above, the Recruiter will DM finance with the state and the title of the position the candidate may fill at least three weeks prior to an anticipated offer.
- 
+
+# How to Communicate with Mattermost 
+Once a contract has been signed, agencies will be invited to join our Mattermost Community and Lever, our Applicant Tracking System. These two systems are the easiest and most ideal method to communicate because it helps maintain a high-level of collaboration and feedback with our Mattermost hiring team, including specific Hiring Managers.   
+
 ## Sign up to Mattermost
 
 In order to facilitate communication, we would like you to join our Community. We will create a channel for you, the Hiring Manager, Natalie Jew (HR Director), and Teresa Novoa (Recruiting Manager) to interact there. At first, we will try to calibrate the potential candidates you may have. Then, as you will have access to Lever (our ATS), you will first upload candidates there and then ping us on Mattermost anytime if you have any further questions around them. Please keep all the conversation in that channel.
@@ -52,7 +55,7 @@ You should have an invite on your inbox. We hope you find it very intuitive and 
  
 ## Salary Information
 
-Please send me a separate email with the candidate's salary expectations (gross p/year). Hiring Managers are not involved in salary discussions, and we also do not share salary information on Mattermost chat. Please keep this **confidential**.
+Please send your recruiter a separate email with the candidate's salary expectations (gross p/year). We only use email and Lever to share candidate salary information. Please help us keep this type of data **confidential**. Your Recruiter will let you know if expected salary is within range ahead of proceeding with any internal interviews. 
  
 ### How we pay:
 
