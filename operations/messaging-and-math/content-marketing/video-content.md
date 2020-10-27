@@ -81,4 +81,4 @@ For access to our Youtube channel, ping @hanna.park.
 
 ## Video Content Distribution  
 
-Video content may be promoted as part of a blog post, guide or other larger content campaign, or it may require its own dedicated campaign. Follow best practices for our [Content Distribution process](https://handbook.mattermost.com/operations/messaging-and-math/content-marketing/content-development-distribution-processes). 
+Video content may be promoted as part of a blog post, guide or other larger content campaign, or it may require its own dedicated campaign. Follow best practices for our [Content Distribution process](https://handbook.mattermost.com/operations/messaging-and-math/content-marketing/content-development-distribution-processes).
