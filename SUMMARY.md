@@ -180,9 +180,9 @@
 ## Contributors
 
 * [Contributors](contributors/contributors/README.md)
-  * [Contribution Guidelines and Code of Conduct](contributors/contributors/contribution-guidelines.md)
   * [Mattermost Community](contributors/contributors/community.md)
   * [Community Systems](contributors/contributors/community-systems.md)
+  * [Contribution Guidelines and Code of Conduct](contributors/contributors/contribution-guidelines.md)
   * [Mattermost Community Playbook](contributors/contributors/community-playbook.md)
   * [Help Wanted Tickets](contributors/contributors/help-wanted.md)
   * [Localization](contributors/contributors/localization.md)
