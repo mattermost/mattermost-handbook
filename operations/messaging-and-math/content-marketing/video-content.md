@@ -22,7 +22,7 @@ Videos can also be helpful for repurposing live events and sessions for longer t
 
 While video content is great, it isn’t always the best option for a public-facing asset, even when raw footage has already been recorded. If you aren't sure if a piece of content would be a good fit for video content, don't be afraid to ask!
 
-## Video Recording Best Practices
+## Setting Up your Recording Environment 
 
 Great video content starts with a clean recording. If you know that a session will be used for video content, aim for getting as high quality as possible. Some tips for getting the best raw content:
 
