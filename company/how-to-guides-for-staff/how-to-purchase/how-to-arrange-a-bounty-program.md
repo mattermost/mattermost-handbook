@@ -29,7 +29,7 @@ Once the bounty lead and bounty contributor have agreed to the terms, please hav
 * Sign the **\[Bounty Agreement\]**
 * [Contributor Agreement \(CLA\)](https://mattermost.org/mattermost-contributor-agreement/)
 * [Banking Information](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#payments-made-by-mattermost)
-* \*\*\*\*[Vendor Requested Documents](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor#new-vendor-or-contractor) prior to starting the bounty project
+* [Vendor Requested Documents](https://handbook.mattermost.com/operations/finance/spending-company-money/procurement/how-to-on-board-as-a-vendor#new-vendor-or-contractor) prior to starting the bounty project
 
 Submit all forms to [ap@mattermost.com](mailto:%20ap@mattermost.com).
 
