@@ -47,6 +47,7 @@ Candidate meets leadership team in 1-1s to mutually assess potential to work tog
 
 * VP Eng, [Chris Overton](https://www.linkedin.com/in/chris-overton-62b235/), is in Johnson City, Tennessee
 * CTO, [Corey Hulen](https://www.linkedin.com/in/coreyhulen/), is in the Seattle, Washington area
+* CPO, [Chandar Venkataraman](https://www.linkedin.com/in/chandar-venkataraman-a4332b3/), is in the Cupertino, California area
 * VP Finance, [Aneal Vallurupalli](https://www.linkedin.com/in/aneal-vallurupalli-4b573a38/), is in San Francisco, California 
 * CEO, [Ian Tien](https://www.linkedin.com/in/iantien/), is in Palo Alto, California 
 
