@@ -20,7 +20,6 @@ This section outlines:
 * Chandar Venkatamaran: Chief Product Officer
 * Aneal Vallurupalli: VP, Finance
 * Chris Overton: VP, Engineering
-* Lindsay Brock: Head of Product Management
 
 # MLT Cadence
 
@@ -45,8 +44,8 @@ The purpose of MLT WBR is to review the health of the business by reviewing our 
   * Discuss reds and new goals to create
   * Discuss yellows and paths to green
   * Review key updates to greens
-  * Create new action items and assign to owners in Asana 
-* **\(0:25\) 2X2 Business Review:** Review WBR 2x2 document summarizing:  
+  * Create new action items and assign to owners in Asana
+* **\(0:25\) 2X2 Business Review:** Review WBR 2x2 document summarizing:
   * State of the business
     * Key business metrics (ARR, churn, customer count, health score)
     * Big updates from Sales, R&D, Marketing, Finance, etc.
@@ -55,12 +54,12 @@ The purpose of MLT WBR is to review the health of the business by reviewing our 
     * Key R&D risks/challenges/issues
     * Key marketing risks/challenges
   * Goals
-  * Upcoming Milestones
+  * Upcoming milestones
   * Upcoming R&D milestones and dates
   * Upcoming marketing milestones and dates
-* **\(0:55\) Decisions/Actions:** Summarize decisions/actions in writing 
+* **\(0:55\) Decisions/Actions:** Summarize decisions/actions in writing
 
-## MLT Weekly Executive Meeting 
+## MLT Weekly Executive Meeting
 
 **Tuesdays 11:00am to 12:00pm Palo Alto time with MLT**
 
@@ -93,7 +92,7 @@ Topics are queued in a [central spreadsheet](https://docs.google.com/spreadsheet
 
 ## MLT Planning
 
-The purpose of target setting is to confirm targets, plan and budget for MLT departments for the period.
+The purpose of target setting is to confirm targets, plan, and budget for MLT departments for the period.
 
 The MLT plan consists of:
 
@@ -106,7 +105,7 @@ We’re currently focused on quarterly plans and will move to halves.
 
 #### Plan Expectations
 
-* Quarterly plans are locked for the quarter – Changeable only in MLT team meeting
+* Quarterly plans are locked for the quarter – changeable only in MLT team meeting
 * Progress on quarter plans reviewed at the start of next quarter
 * Okay to reduce targets prior to 20 days before quarter end \(except revenue & pipeline\)
 * Quarterly plans are in context of annual VPMOM
@@ -117,12 +116,12 @@ We’re currently focused on quarterly plans and will move to halves.
 
 **T-Minus 4 Weeks to announcement**
 
-The following should happen within a 2 week period, with 1 - 2 iterations in each step:
+The following should happen within a 2 week period, with 1-2 iterations in each step:
 
 1. CEO discusses company and department V2MOMs 1-1 with department heads to ensure alignment
    * If applicable during the period, Sales, CEO, and Finance set or adjust the revenue targets
 2. People meets with department heads to discuss current and future org structure
-   * Include discussion on performance, potential and any FYIs
+   * Include discussion on performance, potential, and any FYIs
 3. Finance works with department heads to discuss headcount and program spend budget
    * Include budget variance
 4. Department heads social plans with their teams
@@ -205,12 +204,12 @@ As reviews happen, follow-up items are noted in RAPID format and meetings schedu
 1. General session: Includes leads from Mattermost team, usually sales, occasionally CS, product
 2. Closed session: VP Finance and CEO update Board
 3. CEO and Board: Board gives feedback to CEO
-4. Board without CEO: Board discusses feedback among themselves, then one board member delivers feedback to CEO
+4. Board without CEO: Board discusses feedback among themselves, then one Board member delivers feedback to CEO
 
 #### Debrief Calls
 
-1. 25 minute debrief scheduled with each board member same day or the day after board meeting via their admins
-2. One hour debrief with MLT scheduled same day after board meeting
+1. 25 minute debrief scheduled with each Board member same day or the day after Board meeting via their admins
+2. One hour debrief with MLT scheduled same day after Board meeting
 
 ## Fiscal Year Planning \(1%\) <a id="fiscal-year-planning"></a>
 
