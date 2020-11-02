@@ -38,7 +38,7 @@ Once the review process is complete, the change is merged and pushed live. We re
 Creating a new page follows the same process as above, with two exceptions:
 
 * Navigate to that section of the handbook where you'd like to add the new page and select **Create new file**.
-* Add your new page to the [Handbook table of contents](https://github.com/mattermost/mattermost-handbook/blob/0.2.1/SUMMARY.md). If you plan to reorder the table of contents as part of your change, please tag jason.blais or justine.geffen as a redirect may need to be set up to accommodate the change.
+* Add your new page to the [Handbook table of contents](https://github.com/mattermost/mattermost-handbook/blob/0.2.1/SUMMARY.md). If you plan to reorder the table of contents as part of your change, please tag @jason.blais or @justine.geffen in Mattermost (@jasonblais or @justinegeffen in GitHub) as a redirect may need to be set up to accommodate the change.
 
 [Watch a two-minute training video on how to create a new page in GitHub](https://drive.google.com/file/d/12JUpEdP3uU_bPxDVWdlEZv65v1tttlQn/view?usp=sharing).
 
