@@ -80,7 +80,9 @@ You can update the left-hand navigation in the [SUMMARY.md](https://github.com/m
 
 **Important note:**
 
-Gitbook dynamically changes the URL based on the location in the TOC. This means that when things are moved around, the previous link is broken. There is a redirect file that we use to prevent this in the `gitbook.yaml` file. Please tag @jason.blais or @justine.geffen for assistance with this if needed.
+GitBook dynamically changes the URL based on the location in the table of contents. This means that when a page changes its location, the previous link results in a 'page not found' error.
+
+There is a redirect file that we use to prevent this in the `gitbook.yaml` file. Please mention @jason.blais or @justine.geffen in Mattermost (@jasonblais or @justinegeffen in GitHub) for assistance if needed.
 
 ### How do I add an image to the documentation?
 
