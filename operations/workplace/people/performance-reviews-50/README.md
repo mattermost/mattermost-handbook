@@ -25,7 +25,7 @@ We believe a Manager’s fundamental role in a performance review is to improve 
 At performance review time all managers should:
 
 1. Complete reading this document on performance reviews and related documents on relevant departmental review process in detail.
-2. Read or re-read Chapter 13 of [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK) (and expense a copy if you don't have one yet).
+2. Read or re-read Chapter 13 of [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK). If you don't have a copy of the book, you can complete thie [High Output Management Book Order form](https://forms.gle/J2Aio3Lv1eK74ob3A) and Workplace will order a copy for you, or you can order and expense the cost. (and expense a copy if you don't have one yet).
 3. [Complete a short set of questions](https://forms.gle/uG8VvFGcpSfQMdvz6) to reflect on the material.
 4. If you have not yet been through a Performance Review Training session organized by HR in the last 18 months, please join one when requested as the review cycle begins.
 
