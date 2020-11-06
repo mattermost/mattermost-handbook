@@ -12,7 +12,7 @@ description: Things People Managers Must Know
 4. **Accounting and Finance Approvals:**
    * Staff expense reimbursement: Managers will need to approve their team's  [expenses](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#when-approving-an-expense-report). Any expense reimbursement questions should be routed to the [Purchases Channel](https://community.mattermost.com/private-core/channels/purchases).
    * Placeholder - invoices
-6. **Headcount and Offer Approvals:** \(MLT-specific\).[ See Hiring Workflow](https://handbook.mattermost.com/operations/people#key-channels-and-resources). MLT and Directors should also reference the [Hiring Plan](https://docs.google.com/spreadsheets/d/1ApYjf13A-ji9gvr13EIxGet6iMwfGo9YWYkVuDsiumA/edit#gid=355968799) to review approved open requisitions.
+6. **Headcount and Offer Approvals:** \(MLT-specific\). [See Hiring Workflow](https://handbook.mattermost.com/operations/people#key-channels-and-resources). MLT and Directors should also reference the [Hiring Plan](https://docs.google.com/spreadsheets/d/1ApYjf13A-ji9gvr13EIxGet6iMwfGo9YWYkVuDsiumA/edit#gid=355968799) to review approved open requisitions.
 
 # People Manager Responsibilities - People Programs
 
