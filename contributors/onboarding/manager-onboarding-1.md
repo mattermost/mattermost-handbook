@@ -68,7 +68,7 @@ Performance management is an ongoing effort from Managers and direct reports. Co
 
 #### Performance Management Cadences
 
-In addition to the 90-day review, we do performance reviews bi-annually. Managers are responsible for assigning and requesting peer reviews and writing & discussing manager reviews. 
+In addition to the 90-day review, we do performance reviews bi-annually. Managers are responsible for assigning and requesting peer reviews, and writing and discussing Manager reviews.
 
 * **Performance Reviews:** Managers will be invited to a [High Output Management Managers Session](https://handbook.mattermost.com/operations/people/performance-reviews-50#high-output-management) ahead of writing a Performance Evaluation. Managers will need to read the [required chapter](https://handbook.mattermost.com/operations/people/performance-reviews-50#high-output-management) of High Output Management ahead of the Session. The book is also a part of the [Additional Training Resources](https://docs.mattermost.com/process/training.html#additional-training-resources) recommended for new Managers. It's suggested to read the book during onboarding or upon becoming a manager at Mattermost.
 * **Performance Feedback:** Communicating explicitly is key in managing remote staff and teams and feedback is one of the most important tools a Manager has to set individuals and teams up for success.
