@@ -1,6 +1,6 @@
 # Business Operations
 
-## Where to Find Us
+## Where to find us
 
 * Mattermost: [~BizOps](https://community.mattermost.com/private-core/channels/bizops) and [~Analytics](https://community.mattermost.com/private-core/channels/analytics-2)
 * Email: [bizops@mattermost.com](mailto:bizops@mattermost.com)
