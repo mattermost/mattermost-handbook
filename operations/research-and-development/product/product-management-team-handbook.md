@@ -156,7 +156,7 @@ Activities:
 Customer Obsession:
 
 * Join and introduce yourself in these channels, ask to join any and all customer calls - see if you can get a couple scheduled this week:
-  * [CSM:PM Engagement](https://community.mattermost.com/private-core/channels/csmpm-engagement) \(Stu, Emily, Rosie, Jenn\)
+  * [CSM:PM Engagement](https://community.mattermost.com/private-core/channels/csmpm-engagement) \(Stu, Emily, Jenn\)
   * [Solution Architects](https://community.mattermost.com/private-core/channels/solutions-architects)
   * [Pre-Sales Support](https://community.mattermost.com/private-core/channels/pre-sales-support)
 * Join and review the topics and posts in these channels to get a better understanding of our customers
@@ -175,7 +175,7 @@ Team:
   * Learn about their areas of ownership
 * Participate in PM, R&D, and Customer Obsession Meetings
 * Jira
-  * Sign up to Jira and post in the “Jira configuration” channel to be added to internal team\)
+  * Sign up to Jira and post in the “Jira configuration” channel to be added to internal team
   * Get Jira training from PM buddy
     * [Customer Requests](https://mattermost.atlassian.net/projects/CR/issues/CR-16?filter=allopenissues)
     * [Mattermost Platform](https://mattermost.atlassian.net/projects/MM/issues/MM-10977?filter=allopenissues)
@@ -183,7 +183,7 @@ Team:
   * Update documentation or product help text
 * Small contributions
   * File a bug in Jira
-  * Test a new feature on a test server, and suggest an improvement
+  * Test a new feature on a test server and suggest an improvement
   * Leave feedback on a design proposal
 
 Readings:
@@ -215,7 +215,7 @@ Activities:
       * Meet with Sven for Zendesk training and support overview
       * Join support standups for a week or two, and help out on support tickets
     * Community: GitHub, Forums \(Amy\)
-  * Customer success \(Meet with a CSM - Jennifer Lawler, Jeff Johnson, Sasa Cosic, Rosie Lane\)
+  * Customer success \(Meet with a CSM - Jennifer Lawler, Jeff Johnson, Sasa Cosic,\)
     * Overview of Customer Success team, who owns what
     * Current Customer Success processes
     * Typical challenges during customer onboarding
@@ -224,7 +224,7 @@ Activities:
     * Join calls with CSMs
     * Join calls with Sales team
   * Feature requests
-    * Uservoice forums - [https://mattermost.uservoice.com/](https://mattermost.uservoice.com/)
+    * [Uservoice forums](https://mattermost.uservoice.com/)
     * [Process feedback in productboard](https://mattermost.productboard.com/insights/shared-inbox) 
   * Learn about the market
   * Sales \(Regional VPs and Customer Engineers\)
@@ -391,7 +391,7 @@ Activities:
 * Determine Packaging/SKU \(E10 & E20\)
   * TE OR EE
     * [https://docs.mattermost.com/overview/product.html\#mattermost-editions](https://docs.mattermost.com/overview/product.html#mattermost-editions) 
-  * In-Code: if \(this.props.buildEnterpriseReady && this.props.isLicensed
+  * In-Code: if \(this.props.buildEnterpriseReady && this.props.isLicensed\)
   * Review with PM team and get approval from other leads as required
 
 ### Feature Development and The Release Process
@@ -434,7 +434,7 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
 #### Testing
 
 * Participate in Release testing per QA assignments
-* Test features and provide input on PRs from Developers and Community Members
+* Test features and provide input on PRs from Developers and Community members
 
 #### Security and Dot Releases
 
