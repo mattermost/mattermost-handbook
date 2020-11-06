@@ -52,7 +52,7 @@ Managers will review all feedback to complete your performance appraisal. Manage
 
 ## What is the process?
 
-All staff take part in the Annual Winter Performance Review Process. R&D take part in a mid-year review cycle. The intent of the mid-year review cycle is to promote timely performance feedback. As other teams grow in size, mid-year reviews may extend to additional teams. Compensation is only reviewed during the annual Winter Performance Review cycle. 
+All staff take part in the Annual Winter Performance Review Process. R&D take part in a mid-year review cycle. The intent of the mid-year review cycle is to promote timely performance feedback. As other teams grow in size, mid-year reviews may extend to additional teams. Compensation is only reviewed during the annual Winter Performance Review cycle.
 
 * (To be updated) Mid-Year Review
 * [Formal Review Process](https://handbook.mattermost.com/operations/people/performance-reviews-50/formal-review-process)
