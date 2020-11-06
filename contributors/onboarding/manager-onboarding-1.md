@@ -64,7 +64,7 @@ We will continue to iterate and add activities to the Onboarding Program. Manage
 
 ## Performance Management
 
-Performance management is an on-going effort from Managers and direct reports. Consistent two-way communication is needed, and includes: clarifying and setting expectations, setting work-related and professional growth objectives, providing feedback and reviewing results.  
+Performance management is an ongoing effort from Managers and direct reports. Consistent two-way communication is needed, and includes: clarifying and setting expectations, setting work-related and professional growth objectives, providing feedback and reviewing results. 
 
 #### Performance Management Cadences
 
