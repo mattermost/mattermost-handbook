@@ -18,7 +18,7 @@ description: Things People Managers Must Know
 
 ## Hiring 
 
-Hiring Manager's are responsible for identifying when a role is needed, creating an [ISP](https://handbook.mattermost.com/operations/operations/company-processes/issue-solution) if headcount is not approved and aligning all key stakeholders, including the interview panel, on the [Ideal Candidate Profile](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#ideal-candidate-profile-icp)(ICP) and panel focus areas ahead of and, as needed during the interiew processes.  
+Hiring Managers are responsible for identifying when a role is needed, creating an [ISP](https://handbook.mattermost.com/operations/operations/company-processes/issue-solution) if headcount is not approved, and aligning all key stakeholders, including the interview panel, on the [Ideal Candidate Profile](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#ideal-candidate-profile-icp)\(ICP\). This alignment includes panel focus areas ahead of, and as needed during, the interview processes.  
 
 **Hiring Manager Resources**
 
