@@ -52,11 +52,12 @@ Managers will review all feedback to complete your performance appraisal. Manage
 
 ## What is the process?
 
-All staff take part in the Annual Winter Performance Review Process. R&D take part in a mid-year review cycle. The intent of the mid-year review cycle is to promote timely performance feedback. As other teams grow in size, mid-year reviews may extend to additional teams. Compensation is only reviewed during the annual Winter Performance Review cycle. If you have recently joined, your manager may prefer to wait for the [90 day New Colleague review](https://handbook.mattermost.com/contributors/onboarding#new-colleague-90-day-feedback-process) in lieu of the formal review processes.
+All staff take part in the Annual Winter Performance Review Process. R&D take part in a mid-year review cycle. The intent of the mid-year review cycle is to promote timely performance feedback. As other teams grow in size, mid-year reviews may extend to additional teams. Compensation is only reviewed during the annual Winter Performance Review cycle.
 
 * (To be updated) Mid-Year Review
 * [Formal Review Process](https://handbook.mattermost.com/operations/people/performance-reviews-50/formal-review-process)
-  * Criteria: Staff members at Mattermost at least 6 months
+  
+Team members joining in August will not need to do the [90 day New Colleague review](https://handbook.mattermost.com/contributors/onboarding#new-colleague-90-day-feedback-process) and will instead take part in the winter review cycle. Team members joining September - December will follow the typical [90 day New Colleague review process](https://handbook.mattermost.com/contributors/onboarding#new-colleague-90-day-feedback-process) and are not required to complete the Winter Review.
 
 **Note:** Previously we did not complete performance reviews for field roles, and in 2020 we are engaging in the process for the whole company for the first time. Leveling and calibration of field roles is under development as of September 2020 in preparation for winter-time reviews.
 
