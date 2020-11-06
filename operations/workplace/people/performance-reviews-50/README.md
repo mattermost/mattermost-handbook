@@ -65,7 +65,7 @@ Team members joining in August will not need to do the [90 day New Colleague rev
 
 #### Are annual performance reviews also a time to review compensation?
 
-Yes. In the process of reviewing performance against target levels, changes in level and in compensation are also reviewed with the HR team and compensation committees by department.  
+Yes. In the process of reviewing performance against target levels, changes in level and in compensation are also reviewed with the HR team and compensation committees by department.
 
 # R&D Mid-Year Performance Review 2020 - Timeline & Forms
 
