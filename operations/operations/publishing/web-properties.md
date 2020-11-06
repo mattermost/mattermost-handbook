@@ -9,9 +9,9 @@ Below is a summary of our public web properties, including their target content,
 | Domain | Content | Publishing System | Content Owner | Quality Control Owner |
 | :--- | :--- | :--- | :--- | :--- |
 | docs.mattermost.com | Technical product documentation for end users, administrators, and developers | Exploring Hugo with Markdown\*\* | [Justine Geffen](http://github.com/justinegeffen) | [Justine Geffen](http://github.com/justinegeffen) and [Amy Blais](http://github.com/amyblais) |
-| TBD | Technical articles, guides, videos, and courses | Exploring Hugo with Markdown\*\* | [Jason Blais](http://github.com/jasonblais) | [Sebastian Faase](https://github.com/faase) |
+| TBD | Technical articles, guides, videos, and courses | Exploring Hugo with Markdown\*\* | [Jason Blais](http://github.com/jasonblais) | TBD |
 | TBD | Contributor documentation and relevant community communications | Exploring Hugo with Markdown\*\* | [Joram Wilander](http://github.com/jwilander) | [Joram Wilander](http://github.com/jwilander) |
-| TBD | Self-service support content, including knowledge-based FAQs | TBD | Michael Schiff | Michael Schiff |
+| TBD | Self-service support content, including knowledge-based FAQs | TBD | TBD | TBD |
 | handbook.mattermost.com | Internal processes for company operations and recruiting | GitBook with Markdown | [Jason Blais](http://github.com/jasonblais) | [Justine Geffen](http://github.com/justinegeffen) and [Amy Blais](http://github.com/amyblais) |
 | mattermost.com | Commercial site, including blogs, product offerings, customer case studies, and more | Wordpress | [Hanna Park](https://github.com/hannaparks) | [Asaad Mahmood](https://github.com/asaadmahmood) |
 

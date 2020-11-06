@@ -39,7 +39,10 @@ Customer Success Account Health Score represents the overall health of a Matterm
   
 * **_Note: If account has open opportunity w/renewal risk status of At Risk or Early Warning, it will override all other Healthscore metrics._
 
-* **Account Has No Open Opportunity w/ Renewal Risk Status = 'At Risk or 'Early Warning'**.
+* **Account has a completed Customer Reference**
+  * Customer Reference Score = 10 additional bonus points
+
+* **Account Has No Open Opportunity w/ Renewal Risk Status = 'At Risk or 'Early Warning'**
   * _**Account Health Score = Tenure Score + License End Score + Ticket Score + Task Score**_
     * **Tenure Score = 25 \* Tenure Health %**
       * Tenure Health %:
