@@ -2,7 +2,7 @@
 description: '50% DRAFT (revised by Ashley Dotterweich on Oct 20, 2020)'
 ---
 
-# Video Content Best Practices
+# Video Content Guidelines
 
 This document provides guidelines for creating video content for Mattermost. It covers:
 
