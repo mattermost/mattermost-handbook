@@ -8,7 +8,7 @@ Split test \(i.e. A/B test\) of a web page is an experiment that enables you to 
 
 The following gives a split test framework for a web page, inspired by [A/B testing process recommended by Optimizely](https://www.optimizely.com/optimization-glossary/ab-testing/):
 
-1. **Identify Goal"** Which conversion metric are you trying to improve - conversion to a trial, clicking on purchase button, or something else? Deciding the goal is always the first step when creating a split test on a web page.
+1. **Identify Goal:** Which conversion metric are you trying to improve - conversion to a trial, clicking on purchase button, or something else? Deciding the goal is always the first step when creating a split test on a web page.
 2. **Generate Hypothesis:** Create a list of changes that you think may improve the identified conversion rate. Research other sites and talk to other team members as needed. Then, prioritize the list by ROI \(expected impact over cost of implementation\).
 3. **Create Variations:** Based on the prioritized list of hypotheses, create variations for each option.
    1. Mattermost currently uses [VWO](https://vwo.com/platform/) to create variations for split tests. In the past, these have been carried out with separate URLs but is not required.
