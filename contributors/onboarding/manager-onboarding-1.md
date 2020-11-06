@@ -21,6 +21,7 @@ description: Things People Managers Must Know
 Hiring Manager's are responsible for identifying when a role is needed, creating an [ISP](https://handbook.mattermost.com/operations/operations/company-processes/issue-solution) if headcount is not approved and aligning all key stakeholders, including the interview panel, on the [Ideal Candidate Profile](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#ideal-candidate-profile-icp)(ICP) and panel focus areas ahead of and, as needed during the interiew processes.  
 
 **Hiring Manager Resources**
+
 * [Recruiting Playbook](https://docs.google.com/document/d/1ziIFoI0dB0_WZZHBeGAy0BLNMafl0jGAdQ6Z7QA3Ah8/edit#heading=h.7m7dbckempjx) - includes a list of all Hiring Manager responsibilities, as well as step-by-step instructions. Reach out to your Recruiter or the [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) channel with questions. 
 * [Staff Recruiting - internal process](https://handbook.mattermost.com/contributors/join-us/staff-recruiting) handbook page - includes general process overview, from [Opening a role](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#role-description) thru [Offer Stage](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#offer-approval-process).
 * [Interview Question Bank](https://docs.google.com/spreadsheets/d/1FhW-IQxzPFc92RNPfjsTQJv35i8lSzvmwuRhysVVhIY/edit#gid=1384264678) 
