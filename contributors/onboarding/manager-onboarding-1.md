@@ -23,7 +23,7 @@ Hiring Managers are responsible for identifying when a role is needed, creating 
 **Hiring Manager Resources**
 
 * [Recruiting Playbook](https://docs.google.com/document/d/1ziIFoI0dB0_WZZHBeGAy0BLNMafl0jGAdQ6Z7QA3Ah8/edit#heading=h.7m7dbckempjx) includes a list of all Hiring Manager responsibilities, as well as step-by-step instructions. Reach out to your Recruiter or the [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) channel with questions.
-* [Staff Recruiting - internal process](https://handbook.mattermost.com/contributors/join-us/staff-recruiting) handbook page - includes general process overview, from [Opening a role](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#role-description) thru [Offer Stage](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#offer-approval-process).
+* [Staff Recruiting - internal process](https://handbook.mattermost.com/contributors/join-us/staff-recruiting) handbook page includes general process overview, from [Opening a role](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#role-description) through to the [Offer Stage](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#offer-approval-process).
 * [Interview Question Bank](https://docs.google.com/spreadsheets/d/1FhW-IQxzPFc92RNPfjsTQJv35i8lSzvmwuRhysVVhIY/edit#gid=1384264678) 
 
 ## Onboarding
