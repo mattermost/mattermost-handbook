@@ -38,7 +38,7 @@ Once the review process is complete, the change is merged and pushed live. We re
 Creating a new page follows the same process as above, with two exceptions:
 
 * Navigate to that section of the handbook where you'd like to add the new page and select **Create new file**.
-* Add your new page to the [Handbook table of contents](https://github.com/mattermost/mattermost-handbook/blob/0.2.1/SUMMARY.md).
+* Add your new page to the [Handbook table of contents](https://github.com/mattermost/mattermost-handbook/blob/0.2.1/SUMMARY.md). If you plan to reorder the table of contents as part of your change, please tag @jason.blais or @justine.geffen in Mattermost (@jasonblais or @justinegeffen in GitHub) as a redirect may need to be set up to accommodate the change.
 
 [Watch a two-minute training video on how to create a new page in GitHub](https://drive.google.com/file/d/12JUpEdP3uU_bPxDVWdlEZv65v1tttlQn/view?usp=sharing).
 
@@ -78,6 +78,12 @@ All Handbook pages are written in Markdown, which is also the language used to p
 
 You can update the left-hand navigation in the [SUMMARY.md](https://github.com/mattermost/mattermost-handbook/blob/0.2.1/SUMMARY.md) file.
 
+**Important note:**
+
+GitBook dynamically changes the URL based on the location in the table of contents. This means that when a page changes its location, the previous link results in a 'page not found' error.
+
+There is a redirect file that we use to prevent this in the `gitbook.yaml` file. Please mention @jason.blais or @justine.geffen in Mattermost (@jasonblais or @justinegeffen in GitHub) for assistance if needed.
+
 ### How do I add an image to the documentation?
 
 Follow these two steps:
@@ -100,8 +106,8 @@ Below is a list of approved reviewers.
 1. @jasonblais: Reviews major changes to handbook.mattermost.com, such as updates to the Table of Contents (SUMMARY.md).
 2. @justinegeffen, @amyblais: Editor reviews of all submitted PRs for correct grammar and consistent style.
 3. @rbradleyhaas: Signs off on changes to [business operations](https://handbook.mattermost.com/operations/business-operations).
-4. TBD: Signs off on changes to [messaging and math](https://handbook.mattermost.com/operations/messaging-and-math).
-5. TBD: Signs off on changes to [finance](https://handbook.mattermost.com/operations/finance).
+4. @aedott: Signs off on changes to [messaging and math](https://handbook.mattermost.com/operations/messaging-and-math).
+5. @TQuock: Signs off on changes to [finance](https://handbook.mattermost.com/operations/finance).
 6. @natalie-hub: Signs off on changes to [workplace](https://handbook.mattermost.com/operations/workplace).
 7. @it33: Signs off on changes to signing authority \([example](https://github.com/mattermost/mattermost-handbook/pull/60)\).
 
@@ -110,6 +116,6 @@ Each PR should be reviewed by at least one approved reviewer. A build check requ
 Below is a list of permissions handbook contributors have access to:
 
 1. @jasonblais, @justinegeffen, @amyblais: Write permissions to the repository.
-2. @rbradleyhaas: Write permissions to the repository, but are not expected to make changes without reviews outside of [business operations](https://handbook.mattermost.com/operations/business-operations), nor make changes to Table of Contents (SUMMARY.md) without reviews.
+2. @rbradleyhaas: Write permissions to the repository, but not expected to make changes without reviews outside of [business operations](https://handbook.mattermost.com/operations/business-operations), nor make changes to Table of Contents (SUMMARY.md) without reviews.
 3. Staff contributors: Submit changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, submit PR reviews, and be requested as reviewers.
-4. Non-staff contributors: Submits changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, and submit PR reviews.
+4. Non-staff contributors: Submit changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, and submit PR reviews.
