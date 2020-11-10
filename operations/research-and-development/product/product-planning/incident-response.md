@@ -2,7 +2,7 @@
 description: Helping teams work better together when time is of the essence.
 ---
 
-# Incident Response
+# Incident Management
 
 Owner: @ian.tao
 
@@ -18,7 +18,7 @@ By integrating with your favourite monitoring tools such as [Prometheus](https:/
 
 ### 2. Detection
 
-Our [Incident Response plug-in](https://mattermost.gitbook.io/incident-response-plugin/) can be configured to conditionally escalate alerts and automatically start a workflow - typically by first creating a dedicated channel.
+[Mattermost Incident Management](https://docs.mattermost.com/guides/administrator.html#incident-management) can be configured to conditionally escalate alerts and automatically start a workflow - typically by first creating a dedicated channel.
 
 ![Nagios integration triggering a war room channel](../../../../.gitbook/assets/incident-response-app-intro-image.png)
 
