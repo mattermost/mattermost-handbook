@@ -72,6 +72,35 @@ For all new staff members, to request a new MacBook, Lenovo, or other laptop, pl
 
 After your laptop is received, it is required that you register your laptop by completing an [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). This step should be completed within 5 business days after your laptop was received.
 
+#### Desktop \(Business computer\)
+
+Desktops may be requested alongside a laptop for **engineering** roles. To request a desktop, email a request to your manager with the subject `Desktop for Approval`. Include IT for approval tracking by cc'ing daniel.sischy@mattermost.com. If your manager approves, a request should be sent to Chris Overton, VP of Engineering, for budget review and need. If you receive both approvals, you may formally request a desktop through the [Desktop Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe2_21Jllo8kztsnhhF_Xre9iOiPoeELUWwYziCDB25y68Wpw/viewform). Estimated delivery time will be communicated by IT once the order has been placed, but expect on average 1-4 week delivery window. 
+
+We offer three desktop options. The specifications below are those we believe are needed for you to do your best work at Mattermost, but they are not a hard ceiling. If you need upgraded specifications, outline them within the [Desktop Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe2_21Jllo8kztsnhhF_Xre9iOiPoeELUWwYziCDB25y68Wpw/viewform).
+
+* **Mac:** 
+  * 27-inch iMac
+  * 10th Gen Intel Core i7 Processor (8-core, 3.8Ghz, turbo boost up to 5.0Ghz)
+  * 32GB 2666Mhz DDR4 Memory
+  * Radeon Pro 5500 XT 8GB GDDR6
+  * 512GB SSD Storage
+
+* **Windows:**
+  * Windows 10 Pro
+  * 10th Gen Intel Core i7-10700k processor (8-core, 3.8Ghz, 16M Cache, turbo boost up to 5.1Ghz)
+  * 32GB 2933Mhz DDR4 Memory
+  * GeForce RTX 2060
+  * 512GB PCIe M.2 SSD + 1TB SATA 7200 RPM HDD
+
+* **Linux:**
+  * Ubuntu 18.04
+  * Intel Xeon Silver 4215R 3.2 Ghz (8-core, 11MB Cache, turbo boost up to 4.0Ghz)
+  * 32GB 2666Mhz DDR4 Memory
+  * Radeon Pro WX 2100 
+  * 256GB PCIe M.2 SSD + 1TB SATA 7200 RPM HDD
+
+As with other computer devices, once your desktop is received, it is required that you register your laptop by completing an [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). This step should be completed within 5 business days after your laptop was received.
+
 ### Other Computer Technology
 
 If you need a device other than a laptop or mobile phone such as an iPad or equivalent for your role, you should have a business use reason for the device and authorization from your manager before purchasing. If both are satisfied, you can proceed with purchasing the device on your own or you can reach out to [People Ops](https://community.mattermost.com/private-core/channels/ask-people-team) who can purchase this for you. 
