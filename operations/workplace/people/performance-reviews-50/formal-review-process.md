@@ -12,7 +12,9 @@ Before each review cycle, Managers read the performance review chapter in High O
 
 ## Feedback panel requests
 
-Managers will select peers in Culture Amp who can most effectively provide feedback on achievements and performance over the past year \(this can include upward feedback for people managers. Depending on the role, PT Staff and community members may be solicited to provide feedback in addition to the peer panel selected in Culture Amp\). Managers should log in to Culture Amp, go to "my team > request team feedback" and determine the peer panels for each direct report. More information for managers on selecting peer panels is available [here](https://academy.cultureamp.com/hc/en-us/articles/360003789699-Request-team-feedback). Prior to selecting peer panels and writing performance reviews for their direct reports, managers should take the Culture Amp training available [here](https://www.cultureamptraining.com/performance-for-managers). 
+Managers will select peers in Culture Amp who can most effectively provide feedback on achievements and performance over the past year \(this can include upward feedback for people managers. Depending on the role, PT Staff and community members may be solicited to provide feedback in addition to the peer panel selected in Culture Amp\). Managers should log in to Culture Amp, go to **my team > request team feedback** and determine the peer panels for each direct report. More information for managers on selecting peer panels is available [here](https://academy.cultureamp.com/hc/en-us/articles/360003789699-Request-team-feedback). 
+
+Prior to selecting peer panels and writing performance reviews for their direct reports, managers should take the Culture Amp training available [here](https://www.cultureamptraining.com/performance-for-managers).
 
 ## Peer feedback
 
