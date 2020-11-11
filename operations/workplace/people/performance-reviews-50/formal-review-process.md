@@ -27,7 +27,7 @@ FT Staff will receive an email via Culture Amp to complete their self-assessment
 Once self-reviews and peer feedback have been completed, Managers will receive a notification from Culture Amp inviting them to write the performance reviews. Managers will read all feedback from the peer panel and self-assessment, and will incorporate their feedback based on their own performance expectations of this role.
 
 When the review is complete, Managers will not share the reviews with their reports until calibration has been completed and any changes have been approved. HR will turn on "sharing" after all results have been finalized. Managers will then share the reviews with their direct reports accordingly.
-*Note: It's helpful to share the review ahead of the 1:1 meeting to allow for time to reach and digest feedback.* 
+*Note: It's helpful to share the review ahead of the 1:1 meeting to allow for time to read and digest feedback.*
 
 ## Calibration
 
