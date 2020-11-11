@@ -20,7 +20,7 @@ Managers will select the peer panels in Culture Amp. To get started, log in to C
 
 ## Self reflection
 
-FT Staff will receive an email via Culture Amp to complete their self-assessment. To get started, log in to Culture Amp and navigate to your "task list" where you'll find a request to complete your Self-reflection. Once your self-reflection has been submitted, managers are able to make comments directly in your self-assessment. Prior to writing their self-reflections, FT Staff should take the Culture Amp training available [here](https://www.cultureamptraining.com/participate-in-a-performance-cycle-for-employees). 
+Full-time staff will receive an email via Culture Amp to complete their self-assessment. To get started, log in to Culture Amp and navigate to your **task list** where you'll find a request to complete your self-reflection. Once your self-reflection has been submitted, managers are able to make comments directly in your self-reflection document. Prior to writing their self-reflections, full-time staff should take the Culture Amp training available [here](https://www.cultureamptraining.com/participate-in-a-performance-cycle-for-employees).
 
 ## Performance Review
 
