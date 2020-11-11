@@ -74,9 +74,9 @@ After your laptop is received, it is required that you register your laptop by c
 
 #### Desktop \(Business computer\)
 
-Desktops can be requested alongside a laptop for all **engineering** roles. Please review the desktop procurement guidelines [here](https://docs.google.com/document/d/1lFeJ93V43ey18abCqTZtMAOC0asaeA4cS9IWTT28Q3Y).
+Desktops may be requested alongside a laptop for **engineering** roles. To request a desktop, email a request to your manager with the subject `Desktop for Approval`. Include IT for approval tracking by cc'ing daniel.sischy@mattermost.com. If your manager approves, a request should be sent to Chris Overton, VP of Engineering, for budget review and need. If you receive both approvals, you may formally request a desktop through the [Desktop Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe2_21Jllo8kztsnhhF_Xre9iOiPoeELUWwYziCDB25y68Wpw/viewform). Estimated delivery time will be communicated by IT once the order has been placed but expect on average 1-4 week delivery window. 
 
-Three desktop options are provided. The specifications below are the base specifications we believe are required for you to be successful at Mattermost, but are not a hard ceiling. If you require upgraded specifications, please outline them within the [order form](https://forms.gle/v4xZaKg7dF5Rbum46). 
+We offer three desktop options. The specifications below are those believe needed for you to do your best work at Mattermost, but are not a hard ceiling. If you need upgraded specifications, outline them within the [Desktop Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe2_21Jllo8kztsnhhF_Xre9iOiPoeELUWwYziCDB25y68Wpw/viewform). 
 
 * **Mac:** 
   * 27-inch iMac
@@ -99,7 +99,7 @@ Three desktop options are provided. The specifications below are the base specif
   * Radeon Pro WX 2100 
   * 256GB PCIe M.2 SSD + 1TB SATA 7200 RPM HDD
 
-As with your laptop, once your desktop is received, it is required that you register your laptop by completing an [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). This step should be completed within 5 business days after your laptop was received.
+As with other computer devices, once your desktop is received, it is required that you register your laptop by completing an [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). This step should be completed within 5 business days after your laptop was received.
 
 ### Other Computer Technology
 
