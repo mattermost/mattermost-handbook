@@ -18,7 +18,7 @@ Prior to selecting peer panels and writing performance reviews for their direct 
 
 ## Peer feedback
 
-Managers will select the peer panels in Culture Amp. To get started, log in to Culture Amp and navigate to your "task list" where you'll find requests for peer or upward feedback. On average, teammates should be completing feedback surveys for 3 - 6 of their peers. 
+Managers will select the peer panels in Culture Amp. To get started, log in to Culture Amp and navigate to your **task list** where you'll find requests for peer or upward feedback. On average, teammates should be completing feedback surveys for 3 - 6 of their peers.
 
 ## Self reflection
 
