@@ -99,7 +99,7 @@ We offer three desktop options. The specifications below are those we believe ar
   * Radeon Pro WX 2100 
   * 256GB PCIe M.2 SSD + 1TB SATA 7200 RPM HDD
 
-As with other computer devices, once your desktop is received, it is required that you register your laptop by completing an [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). This step should be completed within 5 business days after your laptop was received.
+As with other computer devices, once your desktop is received, it is required that you register your desktop by completing an [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). This step should be completed within 5 business days after your desktop was received.
 
 ### Other Computer Technology
 
