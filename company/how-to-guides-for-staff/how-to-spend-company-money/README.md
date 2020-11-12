@@ -35,9 +35,9 @@ While we're sharing average costs for various items below, you should use your b
 #### Home office equipment
 
 * Height-adjustable desk: Average price **500 USD**
-  * Example: [https://www.autonomous.ai/standing-desks](https://www.autonomous.ai/standing-desks)
-* Ergonomic chair: Average price **300 USD**
-  * Example: [https://www.autonomous.ai/office-chairs](https://www.autonomous.ai/office-chairs)
+  * Example: [https://www.fully.com/standing-desks/jarvis.html](https://www.fully.com/standing-desks/jarvis.html)
+* Desk chair: Average price **300 USD**
+  * Example: [https://www.fully.com/chairs/fully-desk-chair.html](https://www.fully.com/chairs/fully-desk-chair.html)
 * Laptop stand: Average price **50 USD**
 * Laptop carrying bag: Average price **60 USD**
 * Work-related books: **30 USD** per month or **360 USD** annually
