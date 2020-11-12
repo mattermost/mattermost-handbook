@@ -383,13 +383,14 @@ CSAT stands for _Customer Satisfaction Rating_. 24 hours after the ticket is set
 
 Good, I'm Satisfied / Good I'm Satisfied + Bad I'm Unsatisfied
 
-## TEDAS
+## Active Servers (TES, TEDAS & TEDAU)
 
-TEDAS stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique, [production servers](metrics-definitions.md#server-considerations) sending telemetry \(“activity"\) data to Mattermost on a given date. Each component of TEDAS can be described as follows:
+### TES
+
+TES stands for _Telemetry-Enabled Servers_. It is the count of unique, [production servers](metrics-definitions.md#server-considerations) sending telemetry \(“activity"\) data to Mattermost on a given date. Each component of TES can be described as follows:
 
 * Telemetry Enabled:
   * Servers have “Error Reporting and Diagnostics” or “Security Alert” enabled in System Console.
-* Daily Active:
   * Response to Mattermost's call to collect telemetry data recorded on a given date.
     * For a server to respond, it must be online and telemetry enabled.
 * Servers:
@@ -398,7 +399,21 @@ TEDAS stands for _Telemetry-Enabled Daily Active Servers_. It is the count of un
     * Small/Medium teams typically leverage a single server.
     * Large teams can leverage Enterprise Edition features to create server clusters that allow them to scale their instance.
 
-### TEDAS: Additional Metric Considerations
+#### TEDAS
+
+TEDAS stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique [production servers](metrics-definitions.md#server-considerations) sending telemetry \(“activity"\) data to Mattermost on a given date **with at least one daily active user**.
+
+A server has a daily active user, if at least one user recorded activity on the Mattermost server in the last 24 hours, such as viewed a channel or posted a message.
+
+#### TEMAS
+
+TEMAS stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique [production servers](metrics-definitions.md#server-considerations) sending telemetry \(“activity"\) data to Mattermost on a given date **with at least one monthly active user**.
+
+A server has a monthly active user, if at least one user recorded activity on the Mattermost server in the last 30 days, such as viewed a channel or posted a message.
+
+Note that an update to the metric is considered to only consider activity in the last 28 days to remove weekday variation. However, this change would require in-product changes and thus has not yet been prioritized.
+
+#### TES: Additional Metric Considerations
 
 There are several ways to view the TEDAS metric, and there are several more ways to create metrics that are derivatives of TEDAS. Below are some of the ways to view, pivot, and/or filter the TEDAS metric to gather additional insights regarding the overall health of the business:
 
@@ -411,9 +426,9 @@ There are several ways to view the TEDAS metric, and there are several more ways
   * The rate (percentage) at which Telemetry-Enabled Servers leave the platform (churn) or disable telemetry within a given number of days since the server's first telemetry active date.
   * Typically (as of 4/15/20), 75-80% of new, Telemetry-Enabled Servers churn within the first 7 days of their first telemetry active date.
 
-### Server Considerations
+#### Server Considerations
 
-TEDAS only measures the count of active production servers. The Mattermost.server\_daily\_details table is used to calculate TEDAS and only contains production servers. Mattermost.server\_daily\_details is derived from the `Events.security` table.
+TES only measures the count of active production servers. The Mattermost.server\_daily\_details table is used to calculate TES and only contains production servers. Mattermost.server\_daily\_details is derived from the `Events.security` table.
 
 The `Events.security` table logs all server responses to Mattermost's call to collect telemetry data. The Server type responses include test, development, and production servers. Conditional logic is used to filter out non-production servers from the `Events.security` table and insert them into the Mattermost.server\_daily\_details table.
 
@@ -428,24 +443,24 @@ The `Events.security` table logs all server responses to Mattermost's call to co
     * `user_count >= active_user_count`
     * Data anomalies occur causing servers to show  active users &gt; provisioned users - these servers must be excluded.
 
-#### Non-production servers
+##### Non-production servers
 
-Non-production servers are not included in TEDAS calculations. Test and development servers are non-production servers that can be spun up for testing and various other use cases.
+Non-production servers are not included in TES calculations. Test and development servers are non-production servers that can be spun up for testing and various other use cases.
 
-#### Server Age
+##### Server Age
 
 The age of a server is determined by the server's first active date. This is the minimum date a response to Mattermost's call to collect telemetry data is recorded. It can be thought of as the server's first recorded telemetry-enabled date -i.e. first active date. The age of the server is calculated as a function of this date. It is the days between the server's first active date, discussed above, and the current date \(or other relative date being used as a comparison to calculate server age at any point throughout its lifetime\).
 
 * Server Age = Current Date - Server First Active Date
 
-### TEDAS Caveats
+#### TES, TEDAS and TEMAS Caveats
 
-There are additional data quality issues within the `Events.security` table that need to be addressed before inserting the verified production servers and calculating TEDAS. The `Events.security` table is supposed to contain 1 record per server per day. This is not always the case: ~2% of server IDs have multiple rows per day. To select a single record per production server we must:
+There are additional data quality issues within the `Events.security` table that need to be addressed before inserting the verified production servers and calculating TES, TEDAS or TEMAS. The `Events.security` table is supposed to contain 1 record per server per day. This is not always the case: ~2% of server IDs have multiple rows per day. To select a single record per production server we must:
 
 * Identify the row per production server containing the maximum number of active users on the given date.
   * If the maximum number of active users = 0 then we select the most recently logged row based on the "hour" field value.
 
-## TEDAU
+### TEDAU
 
 TEDAU stands for _Telemetry-Enabled Daily Active Users_. It is a metric that takes the rolling 7-day average of the sum of all "Active Users" logged by [telemetry-enabled production servers](metrics-definitions.md#tedas) on a given date. The TEDAU calculation sums the active\_user\_count column in the Mattermost.server\_daily\_details table, and then averages that value over the last 7 days.
 
@@ -455,23 +470,23 @@ Currently only a subset of possible events, dubbed "whitelist" events, count tow
 
 Deactivating a user in Mattermost will result in TEDAU decreasing, as deactivated users are filtered out of the statistic's query. However, reactivating a user in Mattermost will increase the TEDAU statistic.
 
-### TEDAU Caveats
+#### TEDAU Caveats
 
 TEDAU is the rolling 7-day average sum of active users for only verified production servers that are telemetry-enabled \(described in [this TEDAS section](metrics-definitions.md#server-considerations)\). All other servers, and their active user counts, are ignored as they represent testing, dev, and one-off user case environments that skew the results.
 
-#### Telemetry-Enabled Active Users vs. TEDAU Metric
+##### Telemetry-Enabled Active Users vs. TEDAU Metric
 
 The distinction between an individual server's Telemetry-Enabled Active Users and the TEDAU metric is important to note. Telemetry-Enabled Active Users are the collection of users hosted by a telemetry-enabled production server, that have visited the Mattermost site in the last 24 hours. The TEDAU metric is the rolling 7-day average sum of these users across all servers.
 
-## Server Activations
+### Server Activations
 
 A **Server Activation** is defined as the first date a production server sends telemetry data to Mattermost. In order to send telemetry data to Mattermost, a production server must be set up and activated by the end user. When a production server is first activated its telemetry feature is automatically enabled, which sends security diagnostics information to Mattermost via Segment \(soon transitioning to Rudder\). The server will continue to send this information on a daily basis until this telemetry feature is disabled by a Mattermost System Admin. A server activation is only captured and counted on the first telemetry-enabled date associated with a specific server.
 
-## Monthly Active Users
+### Monthly Active Users
 
 **Monthly Active Users \(MAU\)** are users that have performed an event on or within 30 days of a given date. User events are triggered when a user interacts with the Mattermost platform from their desktop or mobile device. After a user performs an event, that user will remain in MAU for 30 days. After that time the user will fall out of MAU and be classified as "Disengaged".
 
-### MAU Engagement Lifecycle Segments
+#### MAU Engagement Lifecycle Segments
 
 Monthly active users are categorized into **Engagement Lifecycle Segments**. There are five engagement lifecycle segments: "Persisted", "First-Time Active", "Reengaged", "Newly Disengaged", and "Disengaged". Each segment is derived from the timeline from when a user performs an event. Each Engagement Lifecycle Segment is defined as follows:
 
@@ -481,7 +496,7 @@ Monthly active users are categorized into **Engagement Lifecycle Segments**. The
 * **Newly Disgengaged**: A user, that was previously in MAU, that has not performed an event within 30 days of their last event. A user is only "Newly Disengaged" on the 31st day of inactivity.
 * **Disengaged**: A user, that was previously in MAU, that has not performed an event &gt; 31 days of their last event. A "Newly Disengaged" user becomes "Disengaged" on their 32nd+ day of inactivity.
 
-### MAU Considerations
+#### MAU Considerations
 
 ## Trials
 
