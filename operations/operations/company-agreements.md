@@ -31,7 +31,7 @@ The following staff are approved to send contracts to be initialed and e-signed:
 
 * Lynn Conway - Primary for staff agreements and consulting agreements
 * Amy Nicol - Primary for vendor contracts and corporate agreements
-* Kaelyn Wright - Primary for sales agreements and customer supplier forms
+* Jeff Dynda - Primary for sales agreements and customer supplier forms
 * Natalie Jew
 * Aneal Vallurupalli
 * Tim Quock
