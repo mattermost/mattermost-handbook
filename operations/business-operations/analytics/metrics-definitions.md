@@ -403,7 +403,7 @@ TES stands for _Telemetry-Enabled Servers_. It is the count of unique, [producti
 
 TEDAS stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique [production servers](metrics-definitions.md#server-considerations) sending telemetry \(“activity"\) data to Mattermost on a given date **with at least one daily active user**.
 
-A server has a daily active user, if at least one user recorded activity on the Mattermost server in the last 24 hours, such as viewed a channel or posted a message.
+A server is considered to have a daily active user, if at least one user recorded activity on the Mattermost server,  such as viewed a channel or posted a message, in the last 24 hours.
 
 #### TEMAS
 
