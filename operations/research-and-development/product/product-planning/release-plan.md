@@ -11,7 +11,7 @@ The release plan may include major bugs, smaller features and even tasks require
 When we add items to a release, we are targeting their completion by that release, however, things such as underestimation of work required or quality issues found during testing may prevent it from actually being released.
 
 * If a feature is at risk being cut from a release after it was targeted, we do our best to communicate to all those interested as soon as possible. Typically, the PM team reviews and updates the release plan weekly.
-* If a feature is cut from a release, it is not necessarily put into the next release. There may be unforeseen complications that need to be solved before it can be considered that may take multiple release cycles to address. Other work may be deemed higher priority and it may be deprioritized to be considered later. 
+* If a feature is cut from a release, it is not necessarily put into the next release. There may be unforeseen complications that need to be solved that may take multiple release cycles to address. In some cases, other work may be deemed higher priority and the feature will be deprioritized and considered at a later stage.
 
 PMs will do their best to communicate next steps for features that are cut.
 
