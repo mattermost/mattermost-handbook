@@ -383,7 +383,7 @@ CSAT stands for _Customer Satisfaction Rating_. 24 hours after the ticket is set
 
 Good, I'm Satisfied / Good I'm Satisfied + Bad I'm Unsatisfied
 
-## Active Servers (TES, TEDAS & TEDAU)
+## Active Servers (TES, TEDAS, and TEDAU)
 
 ### TES
 
