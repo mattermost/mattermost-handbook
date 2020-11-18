@@ -4,20 +4,17 @@
 
 1. Forward staff member's resignation letter/email to MLT member and HR hr@mattermost.com. The resignation letter/email will be stored in BambooHR.
 **Note:** A resignation letter/email is required from departing staff. In most cases and depending upon the statutory requirements in the staff member’s country/region, a minimum of two weeks' notice is required for voluntary departures.
-2. Complete the [Manager Offboarding Checklist](https://form.asana.com?hash=1a70cad9b3facd446307bb0209313f9909a1f2a8a035b5bc65b92e738b0d3057&id=1177889065987940) which is used to indicate:
-  * Systems that need to be deprovisioned.
-  * Confirm whether emails need to be forwarded to a manager/selected team member for a period following staff member’s departure.
-  * Confirm if there are any company-owned files in Google Drive that need to be transferred to you.
-  * Review and approve any outstanding expense reports.
+2. By default, no files will be transferred and emails will not be forwarded. Complete the [Manager Offboarding Checklist](https://form.asana.com?hash=1a70cad9b3facd446307bb0209313f9909a1f2a8a035b5bc65b92e738b0d3057&id=1177889065987940) if you need company-owned files in Google Drive transferred to you or if emails need to be forwarded to a manager/selected team member for a period following staff member's departure. 
 3. If the departing team member is a [CAO](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#cao) for any vendors, systems, or contractors, communicate changes to Finance regarding:
   * Which vendors need to be transitioned (billing approvals, main point of contact).
   * Status confirmation on open procurement requests and transition procurement DRI via procurement@mattermost.com. Include: most recent email exchange and new vendor DRI.
   * Transfer ownership of any software accounts to Finance or a different team DRI. Notify [Systems channel](https://community.mattermost.com/private-core/channels/systems) of the change.
-4. Confirm [Communication Plan](https://handbook.mattermost.com/operations/workplace/people/offboarding#communicating-departures) with HR. Managers may also share:
+4. * Review and approve any outstanding expense reports.
+5. Confirm [Communication Plan](https://handbook.mattermost.com/operations/workplace/people/offboarding#communicating-departures) with HR. Managers may also share:
  * Staff member’s termination details, including: date, final vacation balance ([if located in Canada, UK, or Germany](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#when-you-take-time-off-full-days-only-please-do-the-following)).
   * If needed, provide context on what led to the staff member’s resignation.
   * Confirm who will be taking over staff member’s responsibilities in the interim.
-5. Termination Retrospective with HR or Team MLT. This is not a formal [retrospective](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-do-a-post-escalation-post-mortem), but is an opportunity to understand how to improve as a function, team ,and company. HR may initiate this during Step 3, and will also request Manager feedback on:
+6. Termination Retrospective with HR or Team MLT. This is not a formal [retrospective](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-do-a-post-escalation-post-mortem), but is an opportunity to understand how to improve as a function, team ,and company. HR may initiate this during Step 3, and will also request Manager feedback on:
   * Confirm rehire eligibility (if resignation was regrettable, not regrettable).
   * Confirm whether a backfill is required. If yes, follow instructions to [open a new role](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#how-to-open-a-new-role).
 
