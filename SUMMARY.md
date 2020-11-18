@@ -67,7 +67,6 @@
       * [Launch Plan](operations/research-and-development/product/product-planning/launch-plan.md)
       * [Release Planning Cadence](operations/research-and-development/product/product-planning/release-planning-cadence.md)
       * [Feature Requests](operations/research-and-development/product/product-planning/feature-requests.md)
-      * [Incident Response](operations/research-and-development/product/product-planning/incident-response.md)
     * [Release Process](operations/research-and-development/product/release-process/README.md)
       * [Release Overview](operations/research-and-development/product/release-process/release-overview.md)
       * [Feature Release Process](operations/research-and-development/product/release-process/feature-release.md)
