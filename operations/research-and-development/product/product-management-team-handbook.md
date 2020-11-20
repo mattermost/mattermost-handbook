@@ -215,7 +215,7 @@ Activities:
       * Meet with Sven for Zendesk training and support overview
       * Join support standups for a week or two, and help out on support tickets
     * Community: GitHub, Forums \(Amy\)
-  * Customer success \(Meet with a CSM - Jennifer Lawler, Jeff Johnson, Sasa Cosic,\)
+  * Customer success \(Meet with a CSM - Jennifer Lawler, Jeff Johnson, Sasa Cosic\)
     * Overview of Customer Success team, who owns what
     * Current Customer Success processes
     * Typical challenges during customer onboarding
@@ -264,7 +264,7 @@ Activities:
     * End user experience (\Desktop, Web, and Mobile client applications\) \(Eric Sethna\)
     * Cloud \(Adam Clarkson\)
     * App Marketplace and Developer Toolkit \(Aaron Rothschild\)
-    * Enterprise-grade \(Platform, Admin Console\) \(Dennis Kittrell\)
+    * Enterprise \(Platform, Admin Console\) \(Katie Wiersgalla\)
     * Product-centric GTM \(Customer Portal, Customer Journey\) \(Eric Sadur\)
     * Workflows \(Ian Tao\)
     * Community \(Jason Blais\)
