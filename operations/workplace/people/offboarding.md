@@ -9,7 +9,7 @@
   * Which vendors need to be transitioned (billing approvals, main point of contact).
   * Status confirmation on open procurement requests and transition procurement DRI via procurement@mattermost.com. Include: most recent email exchange and new vendor DRI.
   * Transfer ownership of any software accounts to Finance or a different team DRI. Notify [Systems channel](https://community.mattermost.com/private-core/channels/systems) of the change.
-4. * Review and approve any outstanding expense reports.
+4. Review and approve any outstanding expense reports.
 5. Confirm [Communication Plan](https://handbook.mattermost.com/operations/workplace/people/offboarding#communicating-departures) with HR. Managers may also share:
  * Staff member’s termination details, including: date, final vacation balance ([if located in Canada, UK, or Germany](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#when-you-take-time-off-full-days-only-please-do-the-following)).
   * If needed, provide context on what led to the staff member’s resignation.
