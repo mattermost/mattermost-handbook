@@ -216,9 +216,10 @@ To create a name-value group such as a definition list, type the term on a line 
 
 URLs are automatically rendered as links in Sphinx; however, where possible, it is preferred that hyperlinks are created within the text of a sentence. Hyperlinks within a sentence can be created using the following formatting:
 
-`Link display text <URL-of-website>`__, for example:
-
 ```
+`Link display text <URL-of-website>`__
+
+For example:
   `Mattermost Manifesto <https://www.mattermost.org/manifesto/>`__
 ```
 
