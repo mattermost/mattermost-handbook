@@ -135,6 +135,7 @@
   * [Arrange a Bounty Program](/company/how-to-guides-for-staff/how-to-purchase/how-to-arrange-a-bounty-program.md)
   * [Staff Member Expenses](operations/finance/staff-member-expenses/README.md)
     * [How to spend company money](company/how-to-guides-for-staff/how-to-spend-company-money/README.md)
+    * [How to spend company money: Internships](operations/finance/spending-company-money/staff-member-expenses/internship-expense-policy.md)
     * [How to use Expensify](company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify.md)
     * [How to book airfare and travel](company/how-to-guides-for-staff/how-to-spend-company-money/airfare-and-traveling.md)
     * [How to reimburse the company](company/how-to-guides-for-staff/how-to-spend-company-money/how-to-reimburse-the-company.md)
