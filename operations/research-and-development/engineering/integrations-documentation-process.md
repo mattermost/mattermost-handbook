@@ -15,16 +15,11 @@ Integrations comprise Mattermost-managed intergrations and community-managed int
 
 This guide outlines the processes and workflows for requesting, updating, managing, and maintaining documentation for Mattermost-managed integrations. This includes the branching strategy for the Gitbook repos, how to set up a new Gitbook for an integration, and the process for aligning documentation with releases.
 
-The documentation goals, vistion, and strategy outline is located in the Integrations Confluence space (link to follow).
+The documentation goals, vision, and strategy outline is located in the Integrations Confluence space (link to follow).
 
-## AORs
+## Cloud apps documentation
 
-Maintainers:
-Technical Writer: 
-
-## Cloud Apps documentation
-
-## On-prem Apps documentation
+## Self-managed apps documentation
 
 ## Workflow and timelines
 
