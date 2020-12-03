@@ -112,9 +112,9 @@ Before diving too deeply into docs, processes, and everything else - take this c
 A good place to start is exploring the websites, and then see if you can find a way to install a version of Mattermost to try it out.
 
 * Google Mattermost
-* [https://mattermost.com/](https://mattermost.com/)
-* [https://docs.mattermost.com/](https://docs.mattermost.com/) \(User, Admin, Integrations guides\)
-* [https://developers.mattermost.com/](https://developers.mattermost.com/)
+* [https://mattermost.com](https://mattermost.com/)
+* [https://docs.mattermost.com](https://docs.mattermost.com/) \(User, Admin, Integrations guides\)
+* [https://developers.mattermost.com](https://developers.mattermost.com/)
 * [http://github.com/mattermost](http://github.com/mattermost)
 * [https://www.mattermost.com/demo](https://www.mattermost.com/demo)
 
@@ -171,7 +171,7 @@ Team:
   * Ask questions to understand development, design, QA processes
 * Meet with Amy \(Release Manager\) and read the release process doc
 * Meet with Ian \([https://github.com/it33/readme/blob/master/README.md](https://github.com/it33/readme/blob/master/README.md/)\). This will be scheduled for you
-* Meet other Product Managers \(Jason Blais, Eric Sethna, Katie Wiersgalla, Aaron Rothschild, Dennis Kittrell, Eric Sadur, Adam Clarkson, Ian Tao\)
+* Meet other Product Managers \(Jason Blais, Eric Sethna, Katie Wiersgalla, Aaron Rothschild, Eric Sadur, Adam Clarkson, Ian Tao\)
   * Learn about their areas of ownership
 * Participate in PM, R&D, and Customer Obsession Meetings
 * Jira
@@ -261,7 +261,7 @@ Activities:
       * Typical customer deployment
         * Sizing recommendations
   * Product areas: Functional Overview and Roadmap
-    * End user experience (\Desktop, Web, and Mobile client applications\) \(Eric Sethna\)
+    * End user experience \(Desktop, Web, and Mobile client applications\) \(Eric Sethna\)
     * Cloud \(Adam Clarkson\)
     * App Marketplace and Developer Toolkit \(Aaron Rothschild\)
     * Enterprise \(Platform, Admin Console\) \(Katie Wiersgalla\)
