@@ -2,7 +2,7 @@
 
 The Mattermost IT team provides technical support to all Mattermost staff members and is dedicated to servicing the technology support needs of all staff by providing detailed resolutions and general system information for common problems.
 
-Through the internal helpdesk solution, staff members are able to request application access, elevated permissions, assistance troubleshooting software/hardware issues, flag security issues, and ask for help with integrations, as well as submit general inquiries. 
+Through the internal helpdesk solution, staff members are able to request application access, elevated permissions, assistance with troubleshooting software/hardware issues, flag security issues, and ask for help with integrations, as well as submit general inquiries.
 
 ## Availability
 
