@@ -4,19 +4,6 @@
 
 This guide outlines the processes and workflows for requesting, updating, managing, and maintaining documentation for Mattermost-managed integrations. This includes the branching strategy for the Gitbook repos, how to set up a new Gitbook for an integration, and the process for aligning documentation with releases.
 
-## Vision and Goals
-
-High quality content that’s intuitively located and accessible from web and apps marketplace.
-
-- Standardizing all content and bringing it in line with our quality and voice.
-- Updating content to provide usage cases for plugins.
-- Defining the developer journey to remove friction from the contribution funnel by identifying documentation gaps and potential blockers.
-  - Documentation template so contributors can submit documentation with their plugin.
-  - Guidance around creating Cloud Apps.
-  - Update and refine the plugins contribution documentation.
-- Working with the community to get feedback, suggestions, and fix any errors in documentation.
-- Define processes and workflows as well as plugin DRIs to ensure documentation is kept up to date.
-
 ## Processes
 
 Integrations comprise Mattermost-managed intergrations and community-managed integrations. 
