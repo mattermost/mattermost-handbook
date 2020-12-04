@@ -46,7 +46,7 @@ When submitting a ticket please provide detailed information to help speed up th
 
 ## Service scope
 
-All requests considered an **Incident** or **Service Request"** are covered under the service scope.
+All requests considered an **Incident** or **Service Request** are covered under the service scope.
 
 * An **Incident** is considered 'an unplanned interruption to an IT service or reduction in the quality of an IT service'.
 * A **Service Request** is considered 'a request for something to be provided - for example, a request for information, access to a platform, or change within an existing platform'.
