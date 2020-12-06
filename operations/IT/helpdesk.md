@@ -53,4 +53,4 @@ All requests considered an **Incident** or **Service Request** are covered under
 
 ## Questions
 
-If you have any questions or feedback, please reach out to the IT team at IT@mattermost.com.
+If you have any questions or feedback, please reach out to the IT team at IT@mattermost.com or join the IT channel in Mattermost https://community-daily.mattermost.com/private-core/channels/it
