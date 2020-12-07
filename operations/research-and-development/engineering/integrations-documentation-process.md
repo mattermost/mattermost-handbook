@@ -6,7 +6,7 @@ This guide outlines the processes and workflows for requesting, updating, managi
 
 ## Processes
 
-Integrations comprise Mattermost-managed intergrations and community-managed integrations. 
+Integrations comprise Mattermost-managed intergrations and community-managed integrations.
 
 - Mattermost-managed integrations are maintained by Mattermost staff and the documentation is written and maintained by the Mattermost Technical Writer.
 - Community-managed integrations are maintained by their creator, which includes documentation maintenance.
@@ -23,10 +23,17 @@ Mattermost integrations documentation spans three areas:
 
 ### Workflow and timelines
 
+#### Updating plugin documentation
+
+When there are changes to Mattermost-managed plugins which require documentation updates, create a new docs issue and assign it to @justinegeffen. Please include a link to the code change PR and raw content for the documentation update.
+
+#### New plugin documentation
+
+When new documentation needs to be written, create a Jira issue and assign it to the Technical Writing team and @Justine Geffen. Include links to any raw content as well as any PRs. Please also include a timeline for the documentation delivery.
+
 ### Branching strategy for documentation
 
-- The default landing page is the latest minor or major release but NOT including the latest version in master. Using the branching strategy below, we can include the upcoming release documentation as an option in the LHS which can be viewed prior to release to see what’s coming. 
-- Master branch is for code changes and doc changes and have branches for releases, so docs are always available for previous versions.
+The master branch is the source of truth of the docs for the "current release" of a plugin, and archive "previous release" as a (version)-docs branch when docs need to change.
 
 Every time we release a new minor or major versionplugin we cut a new branch with docs and keep the branch forever so customers can still refer back to it. 
 
