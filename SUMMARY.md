@@ -33,6 +33,7 @@
   * [Company Processes](operations/operations/company-processes/README.md)
     * [Issue/Solution Process](operations/operations/issue-solution.md)
     * [Company Agreements](operations/operations/company-agreements.md)
+    * [IT Helpdesk](operations/IT/helpdesk.md)
     * [Publishing](operations/operations/publishing/README.md)
       * [Public Web Properties](operations/operations/publishing/web-properties.md)
       * [Publishing Guidelines](operations/operations/publishing/publishing-guidelines/README.md)
