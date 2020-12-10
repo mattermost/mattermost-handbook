@@ -35,7 +35,7 @@ When new documentation needs to be written, create a Jira issue and assign it to
 
 The master branch is the source of truth of the docs for the "current release" of a plugin, and archive "previous release" as a (version)-docs branch when docs need to change.
 
-Every time we release a new minor or major versionplugin we cut a new branch with docs and keep the branch forever so customers can still refer back to it. 
+Every time we release a new minor or major versionplugin we cut a new branch with docs and keep the branch forever so customers can still refer back to it.
 
 ### Aligning development and documentation
 
