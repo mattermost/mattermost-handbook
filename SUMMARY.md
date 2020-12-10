@@ -111,6 +111,8 @@
   * [Operations and Order Admin](operations/business-operations/sales-operations&order-admin.md)
   * [Lead Management](operations/business-operations/lead-management.md)
 * [Customer Success](operations/customer-success/README.md)
+* [IT](operations/IT/README.md)
+  * [IT Helpdesk](operations/IT/helpdesk.md)
 * [Business Operations](operations/business-operations/README.md)
   * [V2MOM](operations/business-operations/vpmom.md)
   * [Analytics](operations/business-operations/analytics/README.md)
