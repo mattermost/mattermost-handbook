@@ -39,7 +39,7 @@ Email [hr@mattermost.com](mailto:hr@mattermost.com) with any questions or concer
 
 ## I’d like to take some time off. What’s the process for that?
 
-* Discuss with your manager the dates you plan to take off and decide who will be your backup.
+* Discuss the dates you plan to take off with your manager, and decide who will be your backup.
 * For meetings you’ll miss, message the chair with any status updates.
 * Post in the [Stand-up channel](https://community-daily.mattermost.com/private-core/channels/stand-up) the dates you’ll be away and who will be your backup. Add the hashtag \#timeoff somewhere in your message so people can spot it easily.
 * Block off time in the shared [Mattermost Timeoff](https://calendar.google.com/calendar/embed?src=mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com&ctz=America%2FLos_Angeles) calendar, so it’s easy for the team to see who is going to be away.
