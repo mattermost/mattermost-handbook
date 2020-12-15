@@ -23,7 +23,7 @@ When prompted, please provide the reasons for rejecting the invoice in the **Rej
 
 ![](../../../../.gitbook/assets/How-to-review-a-vendor-invoice-4.PNG)
 
-To check for other open items on your dashboard, click on **Dashboard** on the left hand side of the screen. From the Dashboard, you will see other Actionable Items.
+, Select **Dashboard** to return to your dashboard and check for other open items that need your attention.
 
 ![](../../../../.gitbook/assets/How-to-review-a-vendor-invoice-5.PNG)
 
