@@ -12,29 +12,29 @@ On the left hand side, you'll see the different modules you have access to and c
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-3.PNG)
 
-In the Vendor Module, you'll see the list of vendors that Mattermost purchases from. To search for vendors, you can type the name of the vendor in the text box. To add columns for other information, click on the green plus sign to bring down the columns menu. From here you are able to add additional columns on the grid, such as **ID**, **Account manager**, and **Terms**.
+In the **Vendor** module, you'll see the list of vendors that Mattermost purchases from. To search for vendors, you can type the name of the vendor in the text box. To add columns for other information, click on the green plus sign to bring down the columns menu. From here you are able to add additional columns on the grid, such as **ID**, **Account manager**, and **Terms**.
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-4.PNG)
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-5.PNG)
 
-In the Purchases Module, you'll see the list of purchase orders that you have submitted.
+In the **Purchases** module, you'll see the list of purchase orders that you have submitted.
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-6.PNG)
 
-Within the Purchases Module, you'll see the list of purchase orders that are on your queue for review and approval.
+Within the **Purchases** module, you'll see the list of purchase orders that are on your queue for review and approval.
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-7.PNG)
 
-In the Invoices Module, you will see all the invoices that are on your queue for approval.
+In the **Invoices** module, you will see all the invoices that are on your queue for approval.
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-8.PNG)
 
-In the Credit memos module, you will also be able to see any credit memos that would need to be applied to an invoice. This would probably not happen too often.
+In the **Credit memos** module, you will also be able to see any credit memos that would need to be applied to an invoice. This would probably not happen too often.
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-9.PNG)
 
-In the Payments Module, you'll see the payment status of your invoices.
+In the **Payments** module, you'll see the payment status of your invoices.
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-10.PNG)
 
