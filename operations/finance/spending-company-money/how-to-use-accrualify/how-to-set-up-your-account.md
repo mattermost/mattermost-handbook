@@ -2,7 +2,7 @@
 
 The Finance team will send you a Welcome email from Accrualify if you need to do any of the following:
 
-* Submit a Purchase Order
+* Submit a purchase order
 * Review a Purchase Order
 * Review a vendor invoice
 
