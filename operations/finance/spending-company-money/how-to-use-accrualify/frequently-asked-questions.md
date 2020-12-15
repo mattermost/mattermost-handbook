@@ -6,7 +6,7 @@
 
 **How do I set up my account on Accrualify?**
 
-* If you need to submit a PO, review a PO, and/or review an invoice, the Finance team will provision you on Accrualify. You'll receive a Welcome email that will include a link to set up your account. Please note that not all staff members will be provisioned on Accrualify, so if you feel that you need access, please contact Procurement@mattermost.com.
+* If you need to submit a purchase order, review a purchase order, and/or review a vendor invoice, the Finance team will provision you an account on Accrualify. You'll receive a Welcome email that includes a link to set up your account. Please note that not all staff members will be provisioned accounts on Accrualify, so if you feel that you need access, please contact Procurement@mattermost.com.
 
 **Where can I find my to-do items on Accrualify?**
 
