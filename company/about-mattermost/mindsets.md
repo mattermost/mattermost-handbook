@@ -1,7 +1,5 @@
 # Mindsets
 
-NOTE: This section is currently being imported from: [https://docs.mattermost.com/process/training.html\#mindsets](https://docs.mattermost.com/process/training.html#mindsets).
-
 Mindsets are “tool sets for the mind” that help us find blindspots and increase performance in specific situations. They’re a reflection of our shared learnings and culture in the Mattermost community and at Mattermost Inc.
 
 To make the most out of mindsets, remember:
@@ -83,10 +81,10 @@ Using the analogy of changing lanes while driving a vehicle and learning to do a
 
 This process is similar to [Mini-boss, End-boss](https://docs.mattermost.com/process/training.html#mini-boss-end-boss), except that the mini-boss is also the new owner of a process, and not only a reviewer. Shoulder checks should be requested by new owners to avoid “crashing”:
 
-> * Making changes to systems that break existing processes and may lose data and hurt the productivity of others downstream without notice and without a replacement system in place \(behavior known as [“Dead Tarzan”](https://docs.mattermost.com/process/training.html#dead-tarzan)\).
-> * Repeatedly investing in mis-prioritized projects due to a misunderstanding of requirements from project stakeholders and insufficient confirmation of intended outcomes.
+* Making changes to systems that break existing processes may lose data and hurt the productivity of others downstream without notice and without a replacement system in place \(behavior known as [“Dead Tarzan”](https://docs.mattermost.com/process/training.html#dead-tarzan)\).
+* Repeatedly investing in mis-prioritized projects due to a misunderstanding of requirements from project stakeholders and insufficient confirmation of intended outcomes.
 
-Even when not crashing, as part of our [Self Awareness value](https://docs.mattermost.com/process/handbook.html#values), top team members will constantly be seeking feedback and review from people around the company.
+Even when not crashing, as part of our [Self Awareness leadership principle](https://handbook.mattermost.com/company/about-mattermost#leadership-principles), top team members will constantly be seeking feedback and review from people around the company.
 
 ### Brown M&Ms
 
@@ -97,7 +95,7 @@ Examples of brown M&Ms may include:
 * Significant mistakes in process, consistency or documentation suggesting lack of review or lack of understanding of the pre-existing system.
 * Ambiguous definitions that would make completion of a procedure difficult or unpredictable.
 
-The name brown M&M comes from a safety technique used by the American music band Van Halen, who had to set up large, complex concert stages in third tier cities, where few local workers had experience with the safety standards vital to construction. In the [contract rider](https://en.wikipedia.org/wiki/Van_Halen#Contract_riders) with each venue, Van Halen required a bowl of M&M candies with all brown M&Ms removed. Failure to provide the bowl was grounds for Van Halen’s stage crew to inspect all of the local vendor’s work for safety issues, because it meant the vendor had not paid attention to detail, and safety could be at risk.
+The name "brown M&M" comes from a safety technique used by the American music band Van Halen, who had to set up large, complex concert stages in third tier cities, where few local workers had experience with the safety standards vital to construction. In the [contract rider](https://en.wikipedia.org/wiki/Van_Halen#Contract_riders) with each venue, Van Halen required a bowl of M&M candies with all brown M&Ms removed. Failure to provide the bowl was grounds for Van Halen’s stage crew to inspect all of the local vendor’s work for safety issues, because it meant the vendor had not paid attention to detail, and safety could be at risk.
 
 ### Correct Minimums: Medic, Field Surgeon, Plastic Surgeon
 
