@@ -10,6 +10,6 @@ If you need to submit a purchase order, please make sure you've submitted a [bud
 
 ![](../../../../.gitbook/assets/How-to-set-up-your-Accrualify-account-1.PNG)
 
-Once you have set up your account, you will be able to view your Dashboard. From your Dashboard, you will be able to view all your Actionable Items.
+Once you have set up your account, you can log in to see your Accrualify dashboard to review and take action on your actionable items.
 
 ![](../../../../.gitbook/assets/How-to-set-up-your-Accrualify-account-2.PNG)
