@@ -17,7 +17,9 @@ Once you have reviewed the invoice and are ready to approve, click **Approve and
 
 ![](../../../../.gitbook/assets/How-to-review-a-vendor-invoice-3.PNG)
 
-If you need to reject the invoice, click **Reject and Next**. If you reject the invoice, it means you disagree with one or more items on the invoice. When you reject the invoice, please provide the reasons for the reject in the free text box that appears after you click on **Reject and Next**.
+If you need to reject the vendor invoice, select **Reject and Next**. Rejecting the invoice means you disagree with one or more invoice details. 
+
+When prompted, please provide the reasons for rejecting the invoice in the **Rejection Comments** text field then select **OK**.
 
 ![](../../../../.gitbook/assets/How-to-review-a-vendor-invoice-4.PNG)
 
