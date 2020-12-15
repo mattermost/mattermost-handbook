@@ -18,4 +18,4 @@
 
 **I'm lost and I don’t know where to start, please help!**
 
-* No worries! Feel free to ping the [Purchases channel](https://community.mattermost.com/private-core/channels/purchases) for any purchasing related questions. The Finance team is here to help and will make sure you feel supported every step of the way!
+* No worries! Feel free to ping the [Purchases channel](https://community.mattermost.com/private-core/channels/purchases) for any purchase-related questions. The Finance team is here to help and will make sure you feel supported every step of the way!
