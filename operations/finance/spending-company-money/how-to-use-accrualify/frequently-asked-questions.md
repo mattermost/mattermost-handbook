@@ -10,7 +10,7 @@
 
 **Where can I find my to-do items on Accrualify?**
 
-* Once you log into your account, you will be brought to your Dashboard. From there, you will be able to see your to-do items.
+* Once you log into your account, you will be brought to your dashboard. From there, you will be able to see your to-do items.
 
 **What are our standard payment terms?**
 
