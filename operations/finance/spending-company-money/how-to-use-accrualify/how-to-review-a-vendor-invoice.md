@@ -13,7 +13,8 @@ Once you're directed to the pending vendor invoice, please review the following 
 
 ![](../../../../.gitbook/assets/How-to-review-a-vendor-invoice-2.PNG)
 
-Once you have reviewed the invoice and are ready to approve, click **Approve and Next**. After you approve the invoice, a Confirmation will pop up to ask **Are you sure you want to approve (invoice xxx)?**. Click **Ok**.
+Once you have reviewed the vendor invoice and are ready to approve it, select **Approve and Next**. 
+When prompted to confirm the approval, select **OK**.
 
 ![](../../../../.gitbook/assets/How-to-review-a-vendor-invoice-3.PNG)
 
