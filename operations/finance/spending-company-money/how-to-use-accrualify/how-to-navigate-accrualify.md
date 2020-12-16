@@ -22,7 +22,7 @@ In the **Purchases** module, you'll see the list of purchase orders that you hav
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-6.PNG)
 
-Within the **Purchases** module, you'll see the list of purchase orders that are on your queue for review and approval.
+Within the **Purchases** module, you'll also see purchase orders ready for your review and approval.
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-7.PNG)
 
