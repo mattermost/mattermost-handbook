@@ -4,7 +4,7 @@ When you log in to Accrualify, you're taken directly to your dashboard. In the u
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-1.PNG)
 
-From here you can update your profile and access the Accrualify user manual.
+Select your avatar to update your user profile and to access the Accrualify user manual.
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-2.PNG)
 
