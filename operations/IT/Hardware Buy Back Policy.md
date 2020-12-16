@@ -8,11 +8,13 @@ If a staff member decides to retain their hardware, they are required to wipe th
 
 ## Required steps to keep device
 
-1. Perform system reset with data deletion
-* https://support.microsoft.com/en-us/windows/how-to-refresh-reset-or-restore-your-pc-51391d9a-eb0a-84a7-69e4-c2c1fbceb8dd
-* https://support.apple.com/en-us/HT201065
-* https://support.apple.com/en-us/HT201252
-* Linux - Delete Partition with ISO
+1. Perform system reset with data deletion:
+
+  * [Windows](https://support.microsoft.com/en-us/windows/how-to-refresh-reset-or-restore-your-pc-51391d9a-eb0a-84a7-69e4-c2c1fbceb8dd)
+  * [macOS](https://support.apple.com/en-us/HT201065)
+  * [iOS](https://support.apple.com/en-us/HT201252)
+  * Linux - Delete Partition with ISO
+
 2. Email IT@mattermost.com providing a picture from the device set up screen, the device serial number, and the type of device (desktop, tablet, phone, laptop, etc.)
 
 **If staff members opt not to keep or purchase their existing hardware, they will need to return them to Mattermost.**
