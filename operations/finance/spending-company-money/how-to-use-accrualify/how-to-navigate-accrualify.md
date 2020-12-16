@@ -1,6 +1,6 @@
 ## How to navigate Accrualify
 
-When you log into Accrualify, you'll see your dashboard. On the upper right hand corner, you can see your avatar.
+When you log in to Accrualify, you're taken directly to your dashboard. In the upper right hand corner of the screen, you can see your avatar.
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-1.PNG)
 
