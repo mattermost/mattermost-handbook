@@ -12,7 +12,9 @@ In the left hand navigation pane you'll see the different modules you can access
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-3.PNG)
 
-In the **Vendor** module, you'll see the list of vendors that Mattermost purchases from. To search for vendors, you can type the name of the vendor in the text box. To add columns for other information, click on the green plus sign to bring down the columns menu. From here you are able to add additional columns on the grid, such as **ID**, **Account manager**, and **Terms**.
+Select the **Vendor** module to see the list of vendors that Mattermost purchases from. 
+- To search for a vendor, enter the name of the vendor in the **Vendor** text box. 
+- To display more vendor details, select the green plus sign to the far right of the screen to see available column options. From here, select the columns to display on the grid, such as **Id**, **Acct Mgr**, and **Terms**.
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-4.PNG)
 
