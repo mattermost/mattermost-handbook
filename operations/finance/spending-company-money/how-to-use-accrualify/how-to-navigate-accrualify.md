@@ -40,4 +40,6 @@ In the **Payments** module, you'll see the payment status of your invoices.
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-10.PNG)
 
-At this point in time, you will not need to use the Accruals module and the Corporate Cards module. For Corporate Card requests, please refer to the [“Virtual Card”](https://handbook.mattermost.com/operations/finance/spending-company-money/procurement/request-a-divvy-virtual-credit-card) section of the Handbook.
+For now, you won't need to access the **Accruals** or **Corporate Cards** modules.
+
+For Corporate Card requests, please refer to the [Virtual Credit Card](https://handbook.mattermost.com/operations/finance/spending-company-money/procurement/request-a-divvy-virtual-credit-card) section of the Handbook.
