@@ -8,7 +8,7 @@ Once you're directed to the pending vendor invoice, please review the following 
 
 1. **Vendor:** Please make sure you are reviewing an invoice for the vendor that you have submitted a PO for.
 2. **Amount:** Make sure the amount on the vendor invoice matches the submitted purchase order.
-3. **Department:** Please make sure the department this spend is going to is your department or is properly allocated to your department if the spend is shared with other departments.
+3. **Department:** Make sure this spend is for your department (or is properly allocated to your department in cases where the spend is shared with other departments).
 4. **Description:** Please make sure the description on the invoice is accurate (for example, it describes the service performed by the vendor for Mattermost).
 
 ![](../../../../.gitbook/assets/How-to-review-a-vendor-invoice-2.PNG)
