@@ -26,7 +26,7 @@ Within the **Purchases** module, you'll also see purchase orders ready for your 
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-7.PNG)
 
-In the **Invoices** module, you will see all the invoices that are on your queue for approval.
+Select the **Invoices** module to see invoices that are ready for your approval.
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-8.PNG)
 
