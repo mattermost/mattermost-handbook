@@ -4,7 +4,7 @@ If you need to review a vendor invoice, Accrualify will send you an email alerti
 
 ![](../../../../.gitbook/assets/How-to-review-a-vendor-invoice-1.PNG)
 
-Once you're directed to the pending invoice, please review the following details:
+Once you're directed to the pending vendor invoice, please review the following details:
 
 1. **Vendor:** Please make sure you are reviewing an invoice for the vendor that you have submitted a PO for.
 2. **Amount:** Please make sure the amount on the invoice matches the PO submitted.
