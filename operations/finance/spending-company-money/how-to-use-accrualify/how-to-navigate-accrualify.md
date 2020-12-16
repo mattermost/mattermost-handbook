@@ -32,7 +32,7 @@ Select the **Invoices** module to see invoices that are ready for your approval.
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-8.PNG)
 
-In the **Credit memos** module, you will also be able to see any credit memos that would need to be applied to an invoice. This would probably not happen too often.
+Select the **Credit Memos** module to see any credit memos that need to be applied to an invoice. This is something that you'll do infrequently.
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-9.PNG)
 
