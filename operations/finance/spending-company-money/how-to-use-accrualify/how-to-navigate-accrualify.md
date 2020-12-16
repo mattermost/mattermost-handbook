@@ -18,7 +18,7 @@ In the **Vendor** module, you'll see the list of vendors that Mattermost purchas
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-5.PNG)
 
-In the **Purchases** module, you'll see the list of purchase orders that you have submitted.
+Select the **Purchases** module to see purchase orders that you've submitted.
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-6.PNG)
 
