@@ -1,6 +1,6 @@
 ## How to Review a vendor invoice
 
-If you need to review an invoice, Accrualify will send you an email alerting you that an invoice is on your queue for review and approval. The email will include the link “Review Invoice Request”, which will direct you to the invoice that needs your attention.
+If you need to review a vendor invoice, Accrualify will send you an email alerting you that an invoice is ready for review and approval. From the email, select the “Review Invoice Request” link to go directly to the invoice that needs your attention.
 
 ![](../../../../.gitbook/assets/How-to-review-a-vendor-invoice-1.PNG)
 
