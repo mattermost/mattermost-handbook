@@ -8,7 +8,7 @@ Select your avatar to update your user profile and to access the Accrualify user
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-2.PNG)
 
-On the left hand side, you'll see the different modules you have access to and can toggle between.
+In the left hand navigation pane you'll see the different modules you can access. Some of the common modules you will use are described below.
 
 ![](../../../../.gitbook/assets/How-to-navigate-Accrualify-3.PNG)
 
