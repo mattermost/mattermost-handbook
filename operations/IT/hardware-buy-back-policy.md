@@ -10,7 +10,7 @@ If a staff member decides to retain their hardware, they are required to wipe th
 
 They'll be required to sign a document acknowledging that they have not taken or retained any confidential Mattermost software or data.
 
-## Required steps to keep device
+## Requirements for keeping a device
 
 1. Perform system reset with data deletion:
 
