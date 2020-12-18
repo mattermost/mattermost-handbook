@@ -2,7 +2,7 @@
 
 Staff members have the option to buy back their existing hardware (laptop, desktop, phone, tablet etc.) either when it gets refreshed for a new one (which is on average, 3 years from purchase date - not necessarily 3 years of employment), or when the staff member is offboarding. 
 
-If the staff member has completed one calendar year or more at Mattermost at the time of offboarding, they can opt to keep their device at no cost. If the staff member hasn't completed one calendar year at the time of offboarding or is receiving an early hardware refresh, they have the option to purchase their hardware from Mattermost at current market value.
+If the staff member has completed one calendar year or more at Mattermost at the time of offboarding, they can opt to keep their device at no cost. In some countries, this benefit is viewed as compensation. Any payroll or withholding taxes incurred will be paid by Mattermost on behalf of the staff member. If the staff member hasn't completed one calendar year at the time of offboarding or is receiving an early hardware refresh, they have the option to purchase their hardware from Mattermost at current market value.
 
 If the hardware requires a buyout, IT will send the staff member an email with the determined value. Then if the employee decides to move forward with the purchase, our accounting department will reach out with payment information.
 
