@@ -3,7 +3,7 @@
 
 # Mattermost Partner Programs
 
-Mattermost offers multiple partner programs: 
+Mattermost offers multiple partner programs:
 
 - [Mattermost Authorized Partner Program](https://mattermost.com/partner-apply/) for one-time resale transactions fulfilling customer request to reseller.
 -  [Mattermost Value-Added Reseller Program](https://mattermost.com/reseller-deal-registration/) for ongoing resellers providing first and second tier support in local language and local timezone.
