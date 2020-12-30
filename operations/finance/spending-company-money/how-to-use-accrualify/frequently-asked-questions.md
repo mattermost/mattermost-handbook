@@ -1,5 +1,21 @@
 ## FAQs
 
+**How do I submit an off-cycle budget?**
+
+* To submit an off-cycle budget, please refer to the Handbook under the [Budget section](https://handbook.mattermost.com/operations/finance/spending-company-money/budget).
+
+**Is an off-cycle budget request required before submitting an PO on Accrualify?**
+
+* Yes, before submitting a PO request on Accrualify, please make sure that your budget spend has been approved by the Finance Team. If a PO request is submitted before a budget request, please expect delays in your request. 
+
+**What is the turnaround time for PO request approvals?**
+
+* Please allow 1-2 weeks for PO request approvals. Each PO request is reviewed by Finance and Legal. Please remember to attach the appropriate legal documents to your PO request so as to not delay the review and approval process.
+
+**Can we purchase from international vendors?**
+
+* Yes, of course! Please make sure the appropriate legal documents are in English and Mattermost is billed in USD.
+
 **I had an account with Bill.com, do I need to deprovision myself from Bill.com?**
 
 * Nope! The Finance team will deprovision your account for you. You should stop receiving emails from Bill.com by January 31, 2021.
@@ -12,9 +28,17 @@
 
 * Once you log into your account, you will be brought to your dashboard. From there, you will be able to see your to-do items.
 
+**Where can I find or track the status of my PO request?**
+
+* Log in to your account and you will see where the current status of your PO request is. If you have any questions, feel free to contact the Finance team in the messaging tool and we will respond within 24 hours. If you do not hear from us within the 24 hours, please give us a gentle nudge.
+
 **What are our standard payment terms?**
 
 * We pay vendors 30 days from the date of receipt of the invoice.
+
+**My vendor has reached out to me and is having issues with the portal. How can we help them?**
+
+* If your vendor is experiencing issues with the vendor portal, please have them contact support@accrualify.com and copy AP@mattermost.com. Our Accrualify is happy to help directly with your vendor to solve the issue. We want to make sure that your vendor’s experience with the portal is positive and seamless.
 
 **I'm lost and I don’t know where to start, please help!**
 
