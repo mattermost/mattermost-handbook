@@ -113,6 +113,7 @@
 * [Customer Success](operations/customer-success/README.md)
 * [IT](operations/IT/README.md)
   * [IT Helpdesk](operations/IT/helpdesk.md)
+  * [Hardware Buy Back Policy](operations/IT/hardware-buy-back-policy.md)
 * [Business Operations](operations/business-operations/README.md)
   * [V2MOM](operations/business-operations/vpmom.md)
   * [Analytics](operations/business-operations/analytics/README.md)
