@@ -127,7 +127,7 @@ Please note that these Business Units are similar to the Classifications found i
 | Company Events | Services provided to Mattermost for company sponsored events        |    Mattercon|  60530 |
 | Company Swag | Mattermost branded swag NOT for marketing campaigns        |    Printfection, Kotis |  60540 |
 | Conference and Seminars | Conferences and seminars (NOT Marketing related)        |     |  63070 |
-| Contractor or Consultant | centered        |    $1 |  $100 |
+| Contractor or Consultant | Individuals who will provide contractor or consulting services to Mattermost at an hourly or fixed fee for a specified period of time | Bounty Projects, contractors with SOWs |  62030 |
 | Left column 3 | Individuals who will provide contractor or consulting services to Mattermost at an hourly or fixed fee for a specified period of time        |    Bounty Projects, contractors with SOWs |  62030 |
 | Dues & Subscriptions | Dues and Subscription fees for professional, technical or trade publications        |    Financial Times, Wall Street Journal |  64010 |
 | Hosting COS | Hosting web services (e.g. AWS) - allocation for Cost of Sales       |    AWS|  50020 |
