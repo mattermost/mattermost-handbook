@@ -10,7 +10,7 @@
 
 **What is the turnaround time for PO request approvals?**
 
-* Please allow 1-2 weeks for PO request approvals. Each PO request is reviewed by Finance and Legal. Please remember to attach the appropriate legal documents to your PO request so as to not delay the review and approval process.
+* Allow 1-2 weeks for PO request approvals. Each PO request is reviewed by Finance and Legal. Remember to attach the appropriate legal documents to your PO request so the the review and approval process isn't delayed.
 
 **Can we purchase from international vendors?**
 
