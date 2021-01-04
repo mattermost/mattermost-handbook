@@ -13,3 +13,6 @@ Some activities that fall under the purview of formal Developer Relations:
 
 Please reach out to the [Community Team](mailto:community@mattermost.com) if you have any questions or would like assistance for any activities in their milieu.
 
+## Assets
+* [Conference/Trip Report](https://docs.google.com/document/d/10AZQP5QaUHOd-cuiogA08TD6Im0XvS1qpOBIDcnJScI/edit?usp=sharing) - 
+** Purpose: to be used after speaking at an event or participating as a sponsor or in a sales or marketing capacity
