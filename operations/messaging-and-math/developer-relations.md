@@ -5,6 +5,7 @@ Developer Relations and community outreach can take on many forms and is a const
 Every member of the internal Mattermost team participates in Developer Relations, whether formally part of the Community Team or just a participant in community activities such as discussions on the community server, discussions at external events, or other interactions with non-internal community members.
 
 Some activities that fall under the purview of formal Developer Relations:
+
 * Conference and Meetup Presentations
 * Podcasts
 * Webinars
@@ -14,5 +15,6 @@ Some activities that fall under the purview of formal Developer Relations:
 Please reach out to the [Community Team](mailto:community@mattermost.com) if you have any questions or would like assistance for any activities in their milieu.
 
 ## Assets
+
 * [Conference/Trip Report](https://docs.google.com/document/d/10AZQP5QaUHOd-cuiogA08TD6Im0XvS1qpOBIDcnJScI/edit?usp=sharing) - 
 ** Purpose: to be used after speaking at an event or participating as a sponsor or in a sales or marketing capacity
