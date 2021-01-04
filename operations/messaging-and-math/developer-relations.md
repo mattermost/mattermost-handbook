@@ -1,10 +1,15 @@
 # Developer Relations
 
-Past Conference Talks 
+Developer Relations and community outreach can take on many forms and is a constantly evolving practice. At Mattermost, our focus is always on our community of administrators, developers, and end users. 
 
-* Corey Hulen, CTO
-  * [ChatOps](https://docs.google.com/presentation/d/19Beu2hd-XTDS8X7I7UYbzc2JXNBpt4-IvsZWksedanA/edit#slide=id.p%20)
-  * [Mattermost Extensibility ](https://docs.google.com/presentation/d/1WWvVV2Dg7kvLoyiWmS0_BfduVM1rhSWPoSDFatdFk_w/edit%20)
-  * [Remote Team ](https://docs.google.com/presentation/d/1RXjQZdpElja5R-FxoKmyeOQ79HVPFiT2PM7T-JdfVvw/edit%20)
-  * [Mattermost Architecture ](https://docs.google.com/presentation/d/1fL495P7SVl2mdv3UTgMcjZncvhpladGoCn3FJT1uZMk/edit#slide=id.p)
+Every member of the internal Mattermost team participates in Developer Relations, whether formally part of the Community Team or just a participant in community activities such as discussions on the community server, discussions at external events, or other interactions with non-internal community members.
+
+Some activities that fall under the purview of formal Developer Relations:
+* Conference and Meetup Presentations
+* Podcasts
+* Webinars
+* Content Creation and Distribution
+* Forum and Discussion Participation
+
+Please reach out to the [Community Team](mailto:community@mattermost.com) if you have any questions or would like assistance for any activities in their milieu.
 
