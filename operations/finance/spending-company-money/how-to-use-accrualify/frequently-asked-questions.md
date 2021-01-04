@@ -6,7 +6,7 @@
 
 **Is an off-cycle budget request required before submitting an PO on Accrualify?**
 
-* Yes, before submitting a PO request on Accrualify, make sure that your budget spend has been approved by the Finance Team. You can reach out by sending an email to spend@mattermost.com. If a PO request is submitted before a budget request is approved, expect delays in your request. 
+* Yes, before submitting a PO request on Accrualify, make sure that your budget spend has been approved by the Finance Team. You can reach out by sending an email to spend@mattermost.com. If a PO request is submitted before a budget request is approved, expect delays in your request.
 
 **What is the turnaround time for PO request approvals?**
 
