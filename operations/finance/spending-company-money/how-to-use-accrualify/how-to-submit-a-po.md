@@ -1,6 +1,6 @@
 # Submitting a Purchase Order
 
-Log into Accrualify and go to the Purchase Module on the left hand side of the screen. Then click on the orange **Request PO** button.
+Log into Accrualify and go to the Purchase Module on the left hand side of the screen. Select the orange **Request PO** button.
 
 ![](../../.gitbook/assets/How-to-submit-a-PO-1.png)
 
