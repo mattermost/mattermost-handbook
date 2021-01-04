@@ -30,7 +30,7 @@
 
 **Where can I find or track the status of my PO request?**
 
-* Log in to your account and you will see where the current status of your PO request is. If you have any questions, feel free to contact the Finance team in the messaging tool and we will respond within 24 hours. If you do not hear from us within the 24 hours, please give us a gentle nudge.
+* Log in to your account and you will see where the current status of your PO request. If you have questions, feel free to contact the [Finance Team](https://community.mattermost.com/private-core/channels/purchases) and a team member will respond within 24 hours.
 
 **What are our standard payment terms?**
 
