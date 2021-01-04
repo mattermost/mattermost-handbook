@@ -10,7 +10,7 @@ Some activities that fall under formal Developer Relations:
 * Podcasts
 * Webinars
 * Content Creation and Distribution
-* Forum and Discussion Participation
+* Forum and discussion participation
 
 Please reach out to the [Community Team](mailto:community@mattermost.com) if you have any questions or would like assistance for any activities in their milieu.
 
