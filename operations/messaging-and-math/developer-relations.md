@@ -6,7 +6,7 @@ Every member of the internal Mattermost team participates in Developer Relations
 
 Some activities that fall under formal Developer Relations:
 
-* Conference and Meetup Presentations
+* Conference and meetup presentations
 * Podcasts
 * Webinars
 * Content Creation and Distribution
