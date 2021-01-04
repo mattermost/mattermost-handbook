@@ -2,7 +2,7 @@
 
 **How do I submit an off-cycle budget?**
 
-* To submit an off-cycle budget, please refer to the Handbook under the [Budget section](https://handbook.mattermost.com/operations/finance/spending-company-money/budget).
+* To submit an off-cycle budget, refer to the Handbook under the [Budget section](https://handbook.mattermost.com/operations/finance/spending-company-money/budget).
 
 **Is an off-cycle budget request required before submitting an PO on Accrualify?**
 
