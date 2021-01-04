@@ -14,7 +14,7 @@
 
 **Can we purchase from international vendors?**
 
-* Yes, of course! Please make sure the appropriate legal documents are in English and Mattermost is billed in USD.
+* Yes, of course! Make sure the appropriate legal documents are in English and the billing entity is Mattermost, Inc. We strongly encourage invoices are in USD but can support other currencies if needed. 
 
 **I had an account with Bill.com, do I need to deprovision myself from Bill.com?**
 
