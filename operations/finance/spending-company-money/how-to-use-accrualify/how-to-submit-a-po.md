@@ -89,7 +89,7 @@ You do not need to choose an Account and Amortization Template.
 
 The Procurement team will reach out to you if there is follow up needed for additional information.
 
-Once the form is complete, please attach the appropriate legal documents. Then click on the “Submit” button. The approval workflow process will begin. You can always check the status of your request in the Purchase Order Module or feel free to reach out to Procurement@mattermost.com for further details on your request.
+Once the form is complete, attach the appropriate legal documents and click **Submit** to start the approval workflow process. You can always check the status of your request in the Purchase Order Module or feel free to reach out to procurement@mattermost.com for further details on your request.
 
 ## Business Unit Definitions
 
