@@ -38,7 +38,7 @@
 
 **My vendor has reached out to me and is having issues with the portal. How can we help them?**
 
-* If your vendor is experiencing issues with the vendor portal, please have them contact support@accrualify.com and copy AP@mattermost.com. Our Accrualify is happy to help directly with your vendor to solve the issue. We want to make sure that your vendor’s experience with the portal is positive and seamless.
+* If your vendor is experiencing issues with the vendor portal, please have them contact support@accrualify.com and copy AP@mattermost.com. Our designated Accrualify Customer Success Team is happy to help directly with your vendor to triage issues. We want to make sure that your vendor’s experience with the portal is positive and seamless.
 
 **I'm lost and I don’t know where to start, please help!**
 
