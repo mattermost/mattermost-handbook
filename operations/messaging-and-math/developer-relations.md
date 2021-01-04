@@ -2,7 +2,7 @@
 
 Developer Relations and community outreach can take on many forms and is a constantly evolving practice. At Mattermost, our focus is always on our community of administrators, developers, and end users. 
 
-Every member of the internal Mattermost team participates in Developer Relations, whether formally part of the Community Team or just a participant in community activities such as discussions on the community server, discussions at external events, or other interactions with non-internal community members.
+Every member of the internal Mattermost team participates in Developer Relations. This can be as a formal member of the Community Team or as a casual participant in community activities such as discussions on the community server, discussions at external events, or other interactions with non-internal community members.
 
 Some activities that fall under the purview of formal Developer Relations:
 
