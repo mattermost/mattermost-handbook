@@ -38,4 +38,4 @@ If you reject the invoice, it means you disagree with one or more items on the i
 
 ![](../../.gitbook/assets/How-to-review-a-PO-7.png)
 
-If you have any questions on the PO module, please contact Procurement@mattermost.com. 
+If you have any questions on the PO module, you can contact Procurement@mattermost.com. 
