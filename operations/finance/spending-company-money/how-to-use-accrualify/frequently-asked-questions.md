@@ -26,7 +26,7 @@
 
 **Where can I find my to-do items on Accrualify?**
 
-* Once you log into your account, you will be brought to your dashboard. From there, you will be able to see your to-do items.
+* Once you log into your account, you'll have access to the dashboard. From there, you'll be able to see your to do items.
 
 **Where can I find or track the status of my PO request?**
 
