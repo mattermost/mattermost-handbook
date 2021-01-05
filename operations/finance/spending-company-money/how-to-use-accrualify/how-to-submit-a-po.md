@@ -10,23 +10,23 @@ A **Request a New Purchase Order** form will appear prompting you to fill out th
 
 Mapping key to each field and purpose:
 
-1. **Vendor/Supplier**: the field is not a drop down list but a search bar. The vendor name must match exactly for the vendor to appear available. Refer to Finding a Vendor on the steps to successfully locate a vendor.
-      * **Add Vendor**: Only click this button if you have taken all previous steps to determine if your vendor exists as an active vendor in our repository. Refer to section Requesting a Vendor.
-2. **Payment terms**: Mattermost standard payment terms is Net 30. If your vendor accelerated payment terms like Net 15, Net 7, or due on receipt,  this will require additional approval from Finance. You should reach out to procurement@mattermost.com or Finance Team Channel
-3. **Amount**: This field is intentionally grayed out as it will pull from the section PO Expenses further down screen window.
-4. **Start Date/End Date**: these are the dates for when the services will start and complete. For goods being delivered on a specific date, the start and end date should be the same.
-5. **Date/Receive By Date**: Date will automatically populate based on today’s date. This may be changed, but is not recommended as this will account at the request date. The **Receive by** field is the date you would ideally like to PO to be approved. Note that we still maintain standard SLAs. If the request is urgent, we will do our best to accommodate but make no guarantees. If you are working with a new vendor on negotiations, it is advisable to bring the Procurement Team as early as possible to avoid any potential delays or missed dates
-6. **Location**: this is the country that the vendor is physically providing services from
-7. **Currency Code**: represents the currency preferred by the vendor and what the vendor will invoice Mattermost. This should be defined in the contract 
-8. **Department**: the department field is a drop down list that you can choose from. If you are completing a PO Request Form for yourself, it is generally assumed the spend will map to your department. If you are unsure what department you belong to, you can reference your department in Bamboo as seen in the screenshot below. If you are submitting a PO on behalf of someone else, it is advised to use their department in Bamboo. If you believe spend should be allocated to more than one department, make note of this in the Description/Notes section of the form.
+1. **Vendor/Supplier:** the field is not a drop down list but a search bar. The vendor name must match exactly for the vendor to appear available. Refer to Finding a Vendor on the steps to successfully locate a vendor.
+      * **Add Vendor:** Only click this button if you have taken all previous steps to determine if your vendor exists as an active vendor in our repository. Refer to section Requesting a Vendor.
+2. **Payment terms:** Mattermost standard payment terms is Net 30. If your vendor accelerated payment terms like Net 15, Net 7, or due on receipt,  this will require additional approval from Finance. You should reach out to procurement@mattermost.com or Finance Team Channel
+3. **Amount:** This field is intentionally grayed out as it will pull from the section PO Expenses further down screen window.
+4. **Start Date/End Date:** These are the dates for when the services will start and complete. For goods being delivered on a specific date, the start and end date should be the same.
+5. **Date/Receive By Date:** This is automatically populated based on today’s date. This may be changed, but is not recommended as this will account at the request date. The **Receive by** field is the date you would ideally like to PO to be approved. Note that we still maintain standard SLAs. If the request is urgent, we will do our best to accommodate but make no guarantees. If you are working with a new vendor on negotiations, it is advisable to bring the Procurement Team as early as possible to avoid any potential delays or missed dates.
+6. **Location:** This is the country that the vendor is physically providing services from.
+7. **Currency Code:** Represents the currency preferred by the vendor and what the vendor will invoice Mattermost. This should be defined in the contract 
+8. **Department:** The department field is a drop down list that you can choose from. If you're completing a PO Request Form for yourself, it's generally assumed the spend will map to your department. If you're unsure what department you belong to, you can reference your department in BambooHR as seen in the screenshot below. If you're submitting a PO on behalf of someone else, it's advised to use their department in BambooHR. If you believe spend should be allocated to more than one department, make note of this in the Description/Notes section of the form.
 
 ![](../../.gitbook/assets/How-to-submit-a-PO-3.PNG)
 
-9. **Description/Notes**: It’s important that we collect as much information as possible of the purpose and intent of the goods/services that the vendor is providing to Mattermost. The more information the better. However, at a minimum we require the following:
-      * *Type of Service*: Software, consulting spend, contractor, etc.
-      * *Purpose*: the intention for requesting spend: Example: Product software for UX design or contractor spend for Salesforce administration.
-      * *Type of Spend*: is this a fixed amount or variable. Be explicit as to what you are purchasing. Example: monthly retainer for the same amount over 4 months would be considered fixed versus billing on a number of registered users would be variable.
-      * *Invoice Billing Frequency*: monthly, quarterly, annually, etc.
+9. **Description/Notes:** It’s important that we collect as much information as possible of the purpose and intent of the goods/services that the vendor is providing to Mattermost. The more information the better. However, at a minimum we require the following:
+      * *Type of Service:* Software, consulting spend, contractor, etc.
+      * *Purpose:* The intention for requesting spend: Example: Product software for UX design or contractor spend for Salesforce administration.
+      * *Type of Spend:* Is this a fixed amount or variable. Be explicit as to what you are purchasing. Example: monthly retainer for the same amount over 4 months would be considered fixed versus billing on a number of registered users would be variable.
+      * *Invoice Billing Frequency:* Monthly, quarterly, annually, etc.
       
 ## Adding Attachments
 
@@ -45,7 +45,7 @@ It would be uncommon not to attach some document or form to accompany the purcha
 
 ## Finding a Vendor
 
-If you are unsure if your vendor is on file or unsure of the legal name of the vendor, you can refer to the Vendor Module to quickly look up a vendor by typing the name of the vendor in the column titled **Vendor** as seen in the screenshot below.
+If you're unsure whether your vendor is on file or unsure of the legal name of the vendor, you can refer to the Vendor Module to quickly look up a vendor by typing the name of the vendor in the column titled **Vendor** as seen in the screenshot below.
 
 ![](../../.gitbook/assets/How-to-submit-a-PO-5.PNG)
 
