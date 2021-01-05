@@ -2,11 +2,11 @@
 
 Log into Accrualify and go to the Purchase Module on the left hand side of the screen. Select the orange **Request PO** button.
 
-![](../../.gitbook/assets/How-to-submit-a-PO-1.png)
+![](../../.gitbook/assets/How-to-submit-a-PO-1.PNG)
 
 A **Request a New Purchase Order** form will appear prompting you to fill out the primary information. The screenshot below highlights all the fields needed to be populated to successfully complete a submission.
 
-![](../../.gitbook/assets/How-to-submit-a-PO-2.png)
+![](../../.gitbook/assets/How-to-submit-a-PO-2.PNG)
 
 Mapping key to each field and purpose:
 
@@ -20,7 +20,7 @@ Mapping key to each field and purpose:
 7. **Currency Code**: represents the currency preferred by the vendor and what the vendor will invoice Mattermost. This should be defined in the contract 
 8. **Department**: the department field is a drop down list that you can choose from. If you are completing a PO Request Form for yourself, it is generally assumed the spend will map to your department. If you are unsure what department you belong to, you can reference your department in Bamboo as seen in the screenshot below. If you are submitting a PO on behalf of someone else, it is advised to use their department in Bamboo. If you believe spend should be allocated to more than one department, make note of this in the Description/Notes section of the form.
 
-![](../../.gitbook/assets/How-to-submit-a-PO-3.png)
+![](../../.gitbook/assets/How-to-submit-a-PO-3.PNG)
 
 9. **Description/Notes**: It’s important that we collect as much information as possible of the purpose and intent of the goods/services that the vendor is providing to Mattermost. The more information the better. However, at a minimum we require the following:
       * *Type of Service*: Software, consulting spend, contractor, etc.
@@ -41,13 +41,13 @@ It would be uncommon not to attach some document or form to accompany the purcha
 7. Corporate Agreement
 8. Addendum or Amendment to a Contract
 
-![](../../.gitbook/assets/How-to-submit-a-PO-4.png)
+![](../../.gitbook/assets/How-to-submit-a-PO-4.PNG)
 
 ## Finding a Vendor
 
 If you are unsure if your vendor is on file or unsure of the legal name of the vendor, you can refer to the Vendor Module to quickly look up a vendor by typing the name of the vendor in the column titled **Vendor** as seen in the screenshot below.
 
-![](../../.gitbook/assets/How-to-submit-a-PO-5.png)
+![](../../.gitbook/assets/How-to-submit-a-PO-5.PNG)
 
 Vendors are named in our system based on the legal name provided on the vendor's W-9. However, the vendor may be Doing Business As “DBA” under an alternative alias.
 
@@ -65,7 +65,7 @@ If you are unable to find the vendor in question through the following 3 channel
 
 If your vendor is a US vendor or supplier and you have a copy of their W-9, go ahead and upload the signed documents by clicking the blue **Upload W9** button Form as seen below. Do not check the box Send Welcome Email if this appears on your screen. The Finance Team will send the new vendor a welcome email once the PO has gone through the proper approval process.
 
-![](../../.gitbook/assets/How-to-submit-a-PO-6.png)
+![](../../.gitbook/assets/How-to-submit-a-PO-6.PNG)
 
 When completing the New Vendor Details, be mindful of the following:
 
@@ -85,7 +85,7 @@ At the bottom half of the page under **Request a New Purchase Order** is a secti
 
 You do not need to choose an Account and Amortization Template.
 
-![](../../.gitbook/assets/How-to-submit-a-PO-7.png)
+![](../../.gitbook/assets/How-to-submit-a-PO-7.PNG)
 
 The Procurement team will reach out to you if there is follow up needed for additional information.
 
