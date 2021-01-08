@@ -26,7 +26,7 @@ Please note that this list is evolving. Make sure to check the current list prio
 
 Once the bounty lead and bounty contributor have agreed to the terms, please have the contributor complete the following:
 
-* Sign the \[Bounty Agreement\]
+* Sign the [Bounty Agreement](https://docs.google.com/forms/d/e/1FAIpQLSf6LkK3uWV6-4rE5bM0lqGKynrfBpbRAg6aOOzpyKP_Ec2dJg/viewform?usp=sf_link)
 * [Contributor Agreement \(CLA\)](https://mattermost.org/mattermost-contributor-agreement/)
 * [Banking Information](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#payments-made-by-mattermost)
 * [Vendor Requested Documents](https://handbook.mattermost.com/operations/finance/spending-company-money/procurement/how-to-on-board-as-a-vendor#new-vendor-or-contractor) prior to starting the bounty project
