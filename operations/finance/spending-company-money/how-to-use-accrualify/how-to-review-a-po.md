@@ -22,7 +22,7 @@ If you have comments or questions for the requestor or the Finance Team, open th
 
 ![](../../.gitbook/assets/How-to-review-a-PO-3.PNG)
 
-Once you have reviewed the PO and are ready to approve, click the green “Approve” button. 
+Once you've reviewed the PO and are ready to approve, select **Approve**.
 
 ![](../../.gitbook/assets/How-to-review-a-PO-4.PNG)
 
