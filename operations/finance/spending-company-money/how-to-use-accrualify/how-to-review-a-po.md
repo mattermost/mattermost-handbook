@@ -30,7 +30,7 @@ When the PO has been approved, the status will be updated from **Open** to **Pen
 
 ![](../../.gitbook/assets/How-to-review-a-PO-6.PNG)
 
-If you need to reject the invoice, click the orange “Reject” button.
+If you need to reject the PO, select **Reject**.
 
 ![](../../.gitbook/assets/How-to-review-a-PO-5.PNG)
 
