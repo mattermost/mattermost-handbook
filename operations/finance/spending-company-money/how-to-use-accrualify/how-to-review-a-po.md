@@ -38,4 +38,4 @@ If you reject the PO it means you disagree with one or more items listed. When y
 
 ![](../../.gitbook/assets/How-to-review-a-PO-7.PNG)
 
-If you have any questions on the PO module, you can contact Procurement@mattermost.com. 
+If you have any questions on the PO module, you can contact Procurement@mattermost.com.
