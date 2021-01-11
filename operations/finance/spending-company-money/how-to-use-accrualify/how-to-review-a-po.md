@@ -1,6 +1,6 @@
 # Reviewing a Purchase Order
 
-If you need to approve a PO, Accrualify will send you an email alerting you that a PO is in your queue for review and approval. The email will include an orange button titled “Review PO Request”. Click the orange button and it will direct you to the PO that needs your attention.
+If you need to approve a PO, you'll receive an email from Accrualify alerting you that a PO is in your queue for review and approval. Select **Review PO Request** to open the PO.
 
 ![](../../.gitbook/assets/How-to-review-a-PO-1.PNG)
 
