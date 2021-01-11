@@ -111,7 +111,7 @@ Please note that these Business Units are similar to the Classifications found i
 | Simulation Projects | Expenses for candidate simulation projects sponsored by Mattermost |
 | Staff | Expense related for payment of Monthly Salary & Periodic Bonuses to ROW Staff |
 | Support | Revenue and CoS for customer support products |
-| systems | Expenses, greater than $500, incurred for work performed on systems |
+| Systems | Expenses, greater than $500, incurred for work performed on systems |
 | Team Celebration | Expenses for department head approved celebration with staff members |
 | Team Events, Meetups & Offsites | Expenses incurred for Team Events, Meetups, or Offsites, which include all known travel costs |
 | Training | Expenses incurred for work-related online courses and professional development certifications |
@@ -128,7 +128,6 @@ Please note that these Business Units are similar to the Classifications found i
 | Company Swag | Mattermost branded swag NOT for marketing campaigns        |    Printfection, Kotis |  60540 |
 | Conference and Seminars | Conferences and seminars (NOT Marketing related)        |     |  63070 |
 | Contractor or Consultant | Individuals who will provide contractor or consulting services to Mattermost at an hourly or fixed fee for a specified period of time | Bounty Projects, contractors with SOWs |  62030 |
-| Left column 3 | Individuals who will provide contractor or consulting services to Mattermost at an hourly or fixed fee for a specified period of time   |  Bounty Projects, contractors with SOWs |  62030 |
 | Dues & Subscriptions | Dues and Subscription fees for professional, technical or trade publications        |    Financial Times, Wall Street Journal |  64010 |
 | Hosting COS | Hosting web services (e.g. AWS) - allocation for Cost of Sales       |    AWS|  50020 |
 | Hosting Expense | Hosting web services (e.g. AWS)      |    AWS|  64080 |
