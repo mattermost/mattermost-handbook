@@ -18,7 +18,7 @@ In the pending PO, review the following details:
     * *Invoice billing frequency:* Monthly, quarterly, annually, etc.
 5. **Total:** Make sure the total amount is correct based on the amount in the related contract or other legal document and is inline with spend.
 
-If you would like to raise comments or questions to either the requestor or the Finance Team, you may do so by opening the message tool in Accrualify located on the right hand side. In the “Notify user(s) (optional)” field, select or enter the individual’s Mattermost email and hit “Tab” to make sure the email is accepted. Then click on the blue “Send” button. This will alert the appropriate parties of your follow up. 
+If you have comments or questions for the requestor or the Finance Team, open the message tool in Accrualify located on the right hand side of the screen. In the **Notify user(s) (optional)** field select or enter the individual’s Mattermost email. Press Tab on your keyboard to make sure the email is accepted. Then select **Send**.
 
 ![](../../.gitbook/assets/How-to-review-a-PO-3.PNG)
 
