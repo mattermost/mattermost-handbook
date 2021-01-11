@@ -34,7 +34,7 @@ If you need to reject the PO, select **Reject**.
 
 ![](../../.gitbook/assets/How-to-review-a-PO-5.PNG)
 
-If you reject the invoice, it means you disagree with one or more items on the invoice. When you reject the invoice, please provide the reason(s) for the rejection in the free text box that appears after you click “Reject and Next”.
+If you reject the PO it means you disagree with one or more items listed. When you reject the PO, please provide the reason(s) for the rejection in the free text box that appears after you've selected **Reject and Next**.
 
 ![](../../.gitbook/assets/How-to-review-a-PO-7.PNG)
 
