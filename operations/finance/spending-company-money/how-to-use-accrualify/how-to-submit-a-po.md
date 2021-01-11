@@ -4,21 +4,21 @@ Log into Accrualify and go to the Purchase Module on the left hand side of the s
 
 ![](../../.gitbook/assets/How-to-submit-a-PO-1.PNG)
 
-A **Request a New Purchase Order** form will appear prompting you to fill out the primary information. The screenshot below highlights all the fields needed to be populated to successfully complete a submission.
+Fill in the primary information in the **Request a New Purchase Order** form. The screenshot below highlights all the required fields for successful submission.
 
 ![](../../.gitbook/assets/How-to-submit-a-PO-2.PNG)
 
 Mapping key to each field and purpose:
 
-1. **Vendor/Supplier:** the field is not a drop down list but a search bar. The vendor name must match exactly for the vendor to appear available. Refer to Finding a Vendor on the steps to successfully locate a vendor.
+1. **Vendor/Supplier:** This is a search bar. The vendor name must match exactly for the vendor to appear available. Refer to Finding a Vendor for steps detailing how to successfully locate a vendor.
       * **Add Vendor:** Only click this button if you have taken all previous steps to determine if your vendor exists as an active vendor in our repository. Refer to section Requesting a Vendor.
-2. **Payment terms:** Mattermost standard payment terms is Net 30. If your vendor accelerated payment terms like Net 15, Net 7, or due on receipt,  this will require additional approval from Finance. You should reach out to procurement@mattermost.com or Finance Team Channel
-3. **Amount:** This field is intentionally grayed out as it will pull from the section PO Expenses further down screen window.
+2. **Payment terms:** Mattermost standard payment terms is Net 30. If your vendor accelerated payment terms like Net 15, Net 7, or due on receipt, this will require additional approval from Finance. You should reach out to procurement@mattermost.com or in the Finance Team Channel.
+3. **Amount:** This field is intentionally grayed out as it auto-fills based on the information in the PO Expenses section.
 4. **Start Date/End Date:** These are the dates for when the services will start and complete. For goods being delivered on a specific date, the start and end date should be the same.
-5. **Date/Receive By Date:** This is automatically populated based on today’s date. This may be changed, but is not recommended as this will account at the request date. The **Receive by** field is the date you would ideally like to PO to be approved. Note that we still maintain standard SLAs. If the request is urgent, we will do our best to accommodate but make no guarantees. If you are working with a new vendor on negotiations, it is advisable to bring the Procurement Team as early as possible to avoid any potential delays or missed dates.
+5. **Date/Receive By Date:** This is automatically populated based on today’s date. This may be changed, but is not recommended as this will account at the request date. The **Receive by** field is the date you would ideally like to PO to be approved. Note that we still maintain standard SLAs. If the request is urgent, we will do our best to accommodate but make no guarantees. If you're working with a new vendor on negotiations, it's advisable to bring the Procurement team as early as possible to avoid any potential delays or missed dates.
 6. **Location:** This is the country that the vendor is physically providing services from.
-7. **Currency Code:** Represents the currency preferred by the vendor and what the vendor will invoice Mattermost. This should be defined in the contract 
-8. **Department:** The department field is a drop down list that you can choose from. If you're completing a PO Request Form for yourself, it's generally assumed the spend will map to your department. If you're unsure what department you belong to, you can reference your department in BambooHR as seen in the screenshot below. If you're submitting a PO on behalf of someone else, it's advised to use their department in BambooHR. If you believe spend should be allocated to more than one department, make note of this in the Description/Notes section of the form.
+7. **Currency Code:** Represents the currency preferred by the vendor and what the vendor will invoice Mattermost. This should be defined in the contract.
+8. **Department:** This field is a drop down list. If you're completing a PO Request Form for yourself, it's generally assumed the spend will map to your department. If you're unsure what department you belong to, you can reference your department in BambooHR as seen in the screenshot below. If you're submitting a PO on behalf of someone else, it's advised to use their department in BambooHR. If you believe spend should be allocated to more than one department, make note of this in the **Description/Notes** section of the form.
 
 ![](../../.gitbook/assets/How-to-submit-a-PO-3.PNG)
 
@@ -30,7 +30,7 @@ Mapping key to each field and purpose:
       
 ## Adding Attachments
 
-It would be uncommon not to attach some document or form to accompany the purchase order request. To upload a document, find the blue **Add Attachments** button at the bottom on the **Request a New Purchase Order** form. Attach all associated legal documents needed for review. Some examples of legal documents may include:
+In general, a supporting document or form should accompany the purchase order request. To upload a document, find the blue **Add Attachments** button at the bottom of the **Request a New Purchase Order** form. Attach all associated legal documents needed for review. Some examples of legal documents may include:
 
 1. Vendor Master Service Agreement
 2. Vendor Online Terms and Conditions
@@ -45,7 +45,7 @@ It would be uncommon not to attach some document or form to accompany the purcha
 
 ## Finding a Vendor
 
-If you're unsure whether your vendor is on file or unsure of the legal name of the vendor, you can refer to the Vendor Module to quickly look up a vendor by typing the name of the vendor in the column titled **Vendor** as seen in the screenshot below.
+If you're unsure whether your vendor is on file or unsure of the legal name of the vendor, you can refer to the Vendor Module to quickly look up a vendor by entering the name of the vendor in the column titled **Vendor** as seen in the screenshot below.
 
 ![](../../.gitbook/assets/How-to-submit-a-PO-5.PNG)
 
@@ -53,41 +53,41 @@ Vendors are named in our system based on the legal name provided on the vendor's
 
 **Example**: Netsuite is owned by Oracle, Inc. We are billed by Oracle but the software known at Mattermost is Netsuite.
 
-If you unable to locate the vendor and believe that your vendor is active, reach out to the accounting team at AP@mattermost.com or the [Purchases Channel](https://community.mattermost.com/private-core/channels/purchases).
+If you're unable to locate the vendor and believe that your vendor is active, reach out to the Accounting team at AP@mattermost.com or the [Purchases Channel](https://community.mattermost.com/private-core/channels/purchases).
 
 ## Requesting a Vendor
 
-If you are unable to find the vendor in question through the following 3 channels, then proceed to clicking the blue **Add Vendor** button and complete the basic vendor information.
+If you're unable to find the vendor in question through the recommended channels, then select the blue **Add Vendor** button and complete the basic vendor information:
 
 * Vendor Module
-* Vendor/Supplier search field on the Request a New Purchase Order form
+* **Vendor/Supplier** search field on the **Request a New Purchase Order** form
 * Accounting Team is unable to locate the vendor or DBA name
 
-If your vendor is a US vendor or supplier and you have a copy of their W-9, go ahead and upload the signed documents by clicking the blue **Upload W9** button Form as seen below. Do not check the box Send Welcome Email if this appears on your screen. The Finance Team will send the new vendor a welcome email once the PO has gone through the proper approval process.
+If your vendor is a US vendor or supplier and you have a copy of their W-9, upload the signed documents by clicking the blue **Upload W9** button. Don't check **Send Welcome Email** if this appears on your screen. The Finance team will send the new vendor a welcome email once the PO has gone through the proper approval process.
 
 ![](../../.gitbook/assets/How-to-submit-a-PO-6.PNG)
 
 When completing the New Vendor Details, be mindful of the following:
 
-* If the PO request is in a currency other than USD, you can use the currency in the “Currency Code” drop down menu. After you submit the PO, the amount will convert to USD.
+* If the PO request is in a currency other than USD, you can use the currency in the **Currency Code** drop down menu. After you submit the PO, the amount will convert to USD.
 
 ## How to complete PO Expenses section
 
-At the bottom half of the page under **Request a New Purchase Order** is a section titled **PO Expenses**. This should be completed as well, but don’t worry if you get this wrong. The Finance Team will be reviewing these sections thoroughly and modifying the PO forms on the back-end. That said, it is still beneficial to complete the following sections:
+At the bottom half of the page under **Request a New Purchase Order** is a section titled **PO Expenses**. This should be completed as well, but don’t worry if you get this wrong. The Finance team will be reviewing these sections thoroughly and modifying the PO forms on the back-end. That said, it's still beneficial to complete the following sections:
 
-1. **Category:** represents the type of spend that you will incur. A full list of expenses, definitions, and examples can be found Expense Category Definitions
-2. **Amount:** represents the total requested dollar amount. The request should be based on the currency which the vendor will invoice Mattermost. The Currency Code selected above will drive the amount
-3. **Department:** should mirror the department selected in the section above 
-4. **Location:** should mirror the location selected in the section above 
-5. **Business Unit:** classifications used to categorize spend. A full list of expenses, definitions, and examples can be found in Business Unit Definitions
-6. **Start and end dates:** should mirror the start and end dates in the section above
-7. **Memo:** please copy and paste the test from the Description section above
+1. **Category:** Represents the type of spend that you will incur. A full list of expenses, definitions, and examples can be found in the Expense Category Definitions table.
+2. **Amount:** Represents the total requested dollar amount. The request should be based on the currency which the vendor will invoice Mattermost. The **Currency Code** selected above will drive the amount.
+3. **Department:** Should mirror the department selected in the section above.
+4. **Location:** Should mirror the location selected in the section above.
+5. **Business Unit:** Classifications used to categorize spend. A full list of expenses, definitions, and examples can be found in the Business Unit Definitions table.
+6. **Start and end dates:** Should mirror the start and end dates in the section above.
+7. **Memo:** Copy and paste the text from the **Description** section above.
 
-You do not need to choose an Account and Amortization Template.
+**Note:** You don't need to choose an **Account and Amortization Template**.
 
 ![](../../.gitbook/assets/How-to-submit-a-PO-7.PNG)
 
-The Procurement team will reach out to you if there is follow up needed for additional information.
+The Procurement team will reach out to you if additional information is needed.
 
 Once the form is complete, attach the appropriate legal documents and click **Submit** to start the approval workflow process. You can always check the status of your request in the Purchase Order Module or feel free to reach out to procurement@mattermost.com for further details on your request.
 
@@ -128,7 +128,7 @@ Please note that these Business Units are similar to the Classifications found i
 | Company Swag | Mattermost branded swag NOT for marketing campaigns        |    Printfection, Kotis |  60540 |
 | Conference and Seminars | Conferences and seminars (NOT Marketing related)        |     |  63070 |
 | Contractor or Consultant | Individuals who will provide contractor or consulting services to Mattermost at an hourly or fixed fee for a specified period of time | Bounty Projects, contractors with SOWs |  62030 |
-| Left column 3 | Individuals who will provide contractor or consulting services to Mattermost at an hourly or fixed fee for a specified period of time        |    Bounty Projects, contractors with SOWs |  62030 |
+| Left column 3 | Individuals who will provide contractor or consulting services to Mattermost at an hourly or fixed fee for a specified period of time   |  Bounty Projects, contractors with SOWs |  62030 |
 | Dues & Subscriptions | Dues and Subscription fees for professional, technical or trade publications        |    Financial Times, Wall Street Journal |  64010 |
 | Hosting COS | Hosting web services (e.g. AWS) - allocation for Cost of Sales       |    AWS|  50020 |
 | Hosting Expense | Hosting web services (e.g. AWS)      |    AWS|  64080 |
