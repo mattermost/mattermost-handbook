@@ -4,7 +4,7 @@ If you need to approve a PO, you'll receive an email from Accrualify alerting yo
 
 ![](../../.gitbook/assets/How-to-review-a-PO-1.PNG)
 
-Once you are directed to the pending PO, please review the following details:
+In the pending PO, review the following details:
 
 ![](../../.gitbook/assets/How-to-review-a-PO-2.PNG)
 
