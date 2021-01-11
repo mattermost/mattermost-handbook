@@ -26,7 +26,7 @@ Once you've reviewed the PO and are ready to approve, select **Approve**.
 
 ![](../../.gitbook/assets/How-to-review-a-PO-4.PNG)
 
-After you “Approve” the PO, the status will be updated from "Open" to “Pending”.
+When the PO has been approved, the status will be updated from **Open** to **Pending**.
 
 ![](../../.gitbook/assets/How-to-review-a-PO-6.PNG)
 
