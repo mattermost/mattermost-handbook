@@ -2,11 +2,11 @@
 
 If you need to approve a PO, you'll receive an email from Accrualify alerting you that a PO is in your queue for review and approval. Select **Review PO Request** to open the PO.
 
-![](../../.gitbook/assets/How-to-review-a-PO-1.PNG)
+![](../../../../.gitbook/assets/How-to-review-a-PO-1.PNG)
 
 In the pending PO, review the following details:
 
-![](../../.gitbook/assets/How-to-review-a-PO-2.PNG)
+![](../../../../.gitbook/assets/How-to-review-a-PO-2.PNG)
 
 1. **Vendor:** Make sure this is the correct vendor you are requesting a purchase from. If you have outstanding RFPs and unsure which vendor you will select, use the most likely vendor that you will go with. The vendor name can be changed at a later date, if necessary.
 2. **Start date and end date:** Make sure that the dates accurately reflect the start and completion dates of the service or project being requested.
@@ -20,22 +20,22 @@ In the pending PO, review the following details:
 
 If you have comments or questions for the requestor or the Finance Team, open the message tool in Accrualify located on the right hand side of the screen. In the **Notify user(s) (optional)** field select or enter the individual’s Mattermost email. Press Tab on your keyboard to make sure the email is accepted. Then select **Send**.
 
-![](../../.gitbook/assets/How-to-review-a-PO-3.PNG)
+![](../../../../.gitbook/assets/How-to-review-a-PO-3.PNG)
 
 Once you've reviewed the PO and are ready to approve, select **Approve**.
 
-![](../../.gitbook/assets/How-to-review-a-PO-4.PNG)
+![](../../../../.gitbook/assets/How-to-review-a-PO-4.PNG)
 
 When the PO has been approved, the status will be updated from **Open** to **Pending**.
 
-![](../../.gitbook/assets/How-to-review-a-PO-6.PNG)
+![](../../../../.gitbook/assets/How-to-review-a-PO-6.PNG)
 
 If you need to reject the PO, select **Reject**.
 
-![](../../.gitbook/assets/How-to-review-a-PO-5.PNG)
+![](../../../../.gitbook/assets/How-to-review-a-PO-5.PNG)
 
 If you reject the PO it means you disagree with one or more items listed. When you reject the PO, please provide the reason(s) for the rejection in the free text box that appears after you've selected **Reject and Next**.
 
-![](../../.gitbook/assets/How-to-review-a-PO-7.PNG)
+![](../../../../.gitbook/assets/How-to-review-a-PO-7.PNG)
 
 If you have any questions on the PO module, you can contact Procurement@mattermost.com.
