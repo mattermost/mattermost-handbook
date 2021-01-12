@@ -110,4 +110,4 @@ Send the final counter-signed contract to the [Procurement Team](mailto:%20procu
 
 ### Step 7: Vendor on-boarding and invoice processing
 
-For all vendor on-boarding questions, refer to the [How to on-board a vendor](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor) and [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid). Please be sure to communicate to your vendor that all invoices should include the **PO-\#** for reference.
+For all vendor on-boarding questions, refer to the [How to on-board a vendor](https://handbook.mattermost.com/operations/finance/spending-company-money/procurement/how-to-on-board-as-a-vendor) and [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid). Please be sure to communicate to your vendor that all invoices should include the **PO-\#** for reference.
