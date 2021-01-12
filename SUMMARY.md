@@ -132,8 +132,8 @@
     * [How to Use Accrualify](operations/finance/spending-company-money/how-to-use-accrualify/README.md)
       * [Setting up your Account](operations/finance/spending-company-money/how-to-use-accrualify/how-to-set-up-your-account.md)
       * [Navigating Accrualify](operations/finance/spending-company-money/how-to-use-accrualify/how-to-navigate-accrualify.md)
-      * Submitting a Purchase Order
-      * Reviewing a Purchase Order
+      * [Submitting a Purchase Order](operations/finance/spending-company-money/how-to-use-accrualify/how-to-submit-a-po.md)
+      * [Reviewing a Purchase Order](operations/finance/spending-company-money/how-to-use-accrualify/how-to-review-a-po.md)
       * [Reviewing a Vendor Invoice](operations/finance/spending-company-money/how-to-use-accrualify/how-to-review-a-vendor-invoice.md)
       * [Frequently Asked Questions](operations/finance/spending-company-money/how-to-use-accrualify/frequently-asked-questions.md)
     * [Budget](operations/finance/spending-company-money/budget.md)
