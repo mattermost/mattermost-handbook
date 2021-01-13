@@ -139,7 +139,10 @@ Risk is the chance or probability that a customer will not renew their existing 
 
 * **At-Risk:** Customer has actively told Mattermost there is a high probability of non-renewal.
 * **Early Warning:** 
-   **“Early Warning” Definition:** Customer who a) has risk of 10%+ contraction (including full churn) upon renewal and at least 3 months to correct the situation, b) has                                        less than 75% of paid licenses deployed 90 days from license purchase, or c) is unresponsive more than 120 days from renewal date. 
+**“Early Warning” Definition:** Customer that meets one or more of the following criteria: 
+a) has risk of 10%+ contraction (including full churn) upon renewal and at least 3 months to correct the situation; 
+b) has less than 75% of paid licenses deployed 90 days from license purchase; or,
+c) is unresponsive more than 120 days from the renewal date. 
 
 **Examples:** 
 - “We can’t get a hold of this customer and they purchased 2 months ago.”
