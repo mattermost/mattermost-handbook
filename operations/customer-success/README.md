@@ -204,7 +204,7 @@ To log Customer Risk in Salesforce you can watch the [Creating Customer Risk vid
    - **Key Contact:** Who is the main contact at the account. list defaults to only contacts tied to the account you are logging the risk.
    - **Status:** Choose if the customer is **At-Risk** or **Early Warning**. Note: **Churned** and **Renewed** fields will be used later based on the renewal outcome.
    - **# of Seats At-Risk:** How many seats could be potentially non-renewed. Seat number could be all of the seats available for renewal or a portion of the seats available for renewal.
-   - **Risk Amount:** What is the amount of ARR that could be potentially non-renewed. Risk amount could be all ARR available for renewal or a portion of the ARR available for renewal.
+   - **Risk Amount:** The amount of ARR that could be potentially non-renewed. Risk amount could be all ARR available for renewal or a portion of the ARR available for renewal.
    - **Engagement:** Current interaction between the customer and Mattermost. For example: Is there a call scheduled, is the customer unresponsive, have you reached out to the customer, etc.
    - **Competitor:** Who is the competitor the customer is evaluating.
    - **Reason:** What is the reason the customer is considering non-renewal.
