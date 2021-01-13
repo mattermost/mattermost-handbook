@@ -75,8 +75,8 @@ Some terms used in Mattermost may be technical. If you don't know how to transla
 
 * If applicable, check how the term has been translated in other locations of the translation you are contributing to.
 * Use a translation engine to know how others have translated the term.
-* Use the `Microsoft open linguistic portal <https://www.microsoft.com/en-us/language/Search>`_.
-* Ask your question on the `Mattermost localization channel <https://community.mattermost.com/core/channels/localization>`_.
+* Use the [Microsoft open linguistic portal](https://www.microsoft.com/en-us/language/Search).
+* Ask your question on the [Mattermost localization channel](https://community.mattermost.com/core/channels/localization).
 
 Test Translations
 -----------------
