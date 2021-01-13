@@ -10,12 +10,12 @@ Notes:
 
 1. Release Manager:
  - Ask Cloud SRE team to update the community-release server to the same version as the cloud test installations.
+ - Confirm all Jira tickets are resolved for QA testing.
  - Ask QA to do high priority testing.
  - Ask Tech Writer to work on docs.
- - Tickets with a cloud fix version (regression bug fixes cherry-picked to “cloud” branch) also should be tracked for testing.
  - Keep track of any regressions on master for fixing.
- - Add cloud release dates to the google calendar.
- - Start working on changelog.
+ - Add cloud release dates to the Release Google Calendar.
+ - Start working on the changelog (both internal and external).
  - Check if any translation PRs, pre-packaged plugins, and notice.txt PRs needed.
 2. Dev:
  - Fast-forward “cloud” branch to latest master.
@@ -23,8 +23,7 @@ Notes:
 ### B. (T-minus 0 working days) Release day
 
 1. Release Manager:
- - Post changelog.
- - Update community servers to latest version.
- - Post in Announcements.
- - Retrospectives
- - Confirm PMs are aware of dates
+ - Post in Announcements channel with a link to the changelog.
+ - Update community servers to the latest version.
+ - Schedule a retrospective.
+ - Confirm PMs are aware of upcoming cloud release dates and feature complete dates.
