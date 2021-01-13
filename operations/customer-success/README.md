@@ -147,7 +147,7 @@ c) is unresponsive more than 120 days from the renewal date.
 **Examples:** 
 - “We can’t get a hold of this customer and they purchased 2 months ago.”
 - “We are struggling to deploy our Mattermost instance.”
-                      - “We purchased 500 licenses but we have 36 active users.”
+- “We purchased 500 licenses but we have 36 active users.”
                        Customers are downgrading their subscription but renewing.
     
     **“At Risk” Definition:** Customer who a) has a clear risk of 10%+ contraction (including full churn) upon renewal and less than 3 month to correct the situation or b)                                 has communicated that they will not renew. 
