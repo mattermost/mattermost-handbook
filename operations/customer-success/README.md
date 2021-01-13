@@ -207,7 +207,7 @@ To log Customer Risk in Salesforce you can watch the [Creating Customer Risk vid
    - **Risk Amount:** The amount of ARR that could be potentially non-renewed. Risk amount could be all ARR available for renewal or a portion of the ARR available for renewal.
    - **Engagement:** Current interaction between the customer and Mattermost. For example: Is there a call scheduled, is the customer unresponsive, have you reached out to the customer, etc.
    - **Competitor:** Who is the competitor the customer is evaluating.
-   - **Reason:** What is the reason the customer is considering non-renewal.
+   - **Reason:** The reason the customer is considering non-renewal.
    - **Summary:** Description of why the customer is being flagged as an At-Risk or Early Warning.
    - **Next Step:** The next action item with the customer.
  Note: System automatically fills out the following fields that live on the risk object but are not in the risk form when selecting the button.
