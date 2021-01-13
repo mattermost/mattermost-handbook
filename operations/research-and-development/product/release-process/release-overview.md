@@ -6,6 +6,8 @@ For the past few years, Mattermost used a monthly “tick-tock” alternating re
 
 When security issues are found that warrant a patch release, we follow the [security release process outlined here](https://handbook.mattermost.com/operations/research-and-development/product/release-process/security-release).
 
+Mattermost also ships releases with new features and bug fixes [to Mattermost Cloud](https://docs.mattermost.com/guides/cloud-admin-guide.html) every two weeks.
+
 ## Release Numbering
 
 Mattermost numbers stable releases in the following format:
@@ -164,8 +166,8 @@ When triaging a bug report, consider the following:
 **Q: Creating tickets for features that were cut from on-prem - Is this also how it continues to be tracked to see whether it's ready for the next release?**
   - Any feature that's promoted out of the feature flag process would be turned on for the on-prem releases. That way on-prem only gets fully ready or tested features and not ones still being tested. There will be some cases where we need to make a change to fix or change something for the on-prem release (e.g. a bug that only happens if you use a certain on-prem setting or a certain database we don't use in cloud). In those cases the on-prem release might have some changes that are not a direct copy of the cloud build.
 
-**Q: What will the customer support team need for cloud releases?**
-  - We’ll use the Cloud Releases channel for updates and post the changelog there (with tagging the support team). We’ll also post a more official changelog on launch day. This may be automated in the future. We should also have a dashboard or other that shows the current version deployed to cloud, and which commits are in. We can put it in the header of the Cloud Releases channel.
+**Q: What information does the customer support team need for Cloud releases?**
+  - The Cloud Releases channel in the Staff team is used for release updates and for posting the changelog. This may be automated in the future. We're also planning to have a dashboard that shows the current version deployed to cloud, and which commits are in.
 
 **Q: How will versioning work?**
-  - Version numbers will be less meaningful for cloud. Proposing the name of this to be capabilities following the naming used by OpenGL. It's not whether or not a feature is enabled, but it's whether or not the server is capable of supporting the feature.
+  - Version numbers will be less meaningful for Cloud. Proposing the name of this to be capabilities following the naming used by OpenGL. It's not whether or not a feature is enabled, but it's whether or not the server is capable of supporting the feature.
