@@ -212,4 +212,4 @@ To log Customer Risk in Salesforce you can watch the [Creating Customer Risk vid
    - **Next Step:** What is the next action item with the customer.
  Note: System automatically fills out the following fields that live on the risk object but are not in the risk form when selecting the button.
    - **Contraction:** Formula to see if number of seats at risk is less than number of seats licensed.  If so, the risk is flagged "yes" for contraction risk. If seats and risk and seats licensed are equal the risk is flagged "no" for contraction risk.
-   - **Customer Risk Name:** Customer name + Primary risk reason
+   - **Customer Risk Name:** Customer name and Primary risk reason.
