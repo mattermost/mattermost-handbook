@@ -141,7 +141,7 @@ Risk is the chance or probability that a customer will not renew their existing 
 * **Early Warning:** 
    **“Early Warning” Definition:** Customer who a) has risk of 10%+ contraction (including full churn) upon renewal and at least 3 months to correct the situation, b) has                                        less than 75% of paid licenses deployed 90 days from license purchase, or c) is unresponsive more than 120 days from renewal date. 
 
-                     **Examples:** 
+**Examples:** 
 - “We can’t get a hold of this customer and they purchased 2 months ago.”
                       - “We are struggling to deploy our Mattermost instance.”
                       - “We purchased 500 licenses but we have 36 active users.”
@@ -210,4 +210,3 @@ To log Customer Risk in Salesforce you can watch the [Creating Customer Risk vid
  Note: System automatically fills out the following fields that live on the risk object but are not in the risk form when selecting the button.
    - **Contraction:** Formula to see if number of seats at risk is less than number of seats licensed.  If so, the risk is flagged "yes" for contraction risk. If seats and risk and seats licensed are equal the risk is flagged "no" for contraction risk.
    - **Customer Risk Name:** Customer name + Primary risk reason
-
