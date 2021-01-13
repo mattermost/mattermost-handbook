@@ -19,7 +19,7 @@ Notes:
 
 Pre-work for the current release begins at the code complete date of the previous release. See "Code Complete" section below for details.
 
-### B. Judgment Day & Release Branch Cut
+### B. (T-minus 30 working days) Judgment Day & Release Branch Cut
 
 Day when Leads and PMs decide which major features are included in the release, and which are postponed. **Stabilization** period begins when all features for release have been committed. During this period, only **bugs** can be committed to the release branch. Non-bug pull requests are tagged for the next version. Exceptions can be made by the Release Manager during triage. Review the [Release Features & Bugs Quality Gate Guidelines](https://docs.google.com/document/d/1QxB_A1qkEJBKAvQpRa7JiSQLZhwg6HAEajNRNa7ldGg/edit)
 
@@ -101,7 +101,7 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Review PRs made from release branch and merge changes into the release branch as required
     - Run daily automated upgrade tests to avoid catching upgrade bugs late
 
-### D. (T-minus 8 to T-minus 9 working days) Release Candidate Testing
+### D. (T-minus 8 to T-minus 7 working days) Release Candidate Testing
 
 1. **(Team) Daily Release Update Meeting**
     - Triage Jira tickets
