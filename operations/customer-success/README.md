@@ -146,7 +146,7 @@ c) is unresponsive more than 120 days from the renewal date.
 
 **Examples:** 
 - “We can’t get a hold of this customer and they purchased 2 months ago.”
-                      - “We are struggling to deploy our Mattermost instance.”
+- “We are struggling to deploy our Mattermost instance.”
                       - “We purchased 500 licenses but we have 36 active users.”
                        Customers are downgrading their subscription but renewing.
     
