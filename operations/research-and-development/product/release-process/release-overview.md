@@ -31,54 +31,52 @@ Mattermost numbers stable releases in the following format:
 - Release frequency: As required
 - Example: v1.2.5, v1.2.6
 
-## Releasing Together with Cloud
+## Overview of Release Cycles
 
-The goal is to release more quickly to Cloud, but to do that it is essential that we get on track with automated testing. Feature flags work is also in the progress, which will be vital for this new release process. PRs don’t need to be cherry-picked to releases, except any last bug fixes that get merged after the release branch is cut as well as any hotfixes.
+Currently Cloud releases occur on a 2-week cycle, but the goal is to release to Cloud more frequently than every 2 weeks. PRs don’t need to be cherry-picked to releases (both Cloud and on-prem), except for any last bug fixes that get merged after the release branch is cut as well as for any hotfixes.
 
-Cloud release cycle = every 2 weeks:
-1 week prior, fast-forward master to cloud branch.
+Schedule for Cloud releases:
+ - (T-7): 1 week prior to the release day, master is fast-forwarded to the cloud branch.
+ - (T-0): Release Day
 
-Schedule for “cloud-validated” release:
-(T-30) - Feature Review / Judgment Day / Cut release branch and cut RC1
-(T-8 to T-7) - RC testing and final QA testing
-(T-5) - Code Freeze
-(T-2) - Cut Final
-(T-0) - Release Day
+Schedule for on-prem releases:
+ - (T-30): Feature Review / Judgment Day / Release branch cut
+ - (T-9): RC1 Cut
+ - (T-8 to T-7): RC testing and final QA testing
+ - (T-5): Code Freeze
+ - (T-2): Cut Final
+ - (T-0): Release Day
 
 1. The feature is tested on a PR and E2E test automation is added.
 2. Large features are added behind a feature flag.
-3. The feature flag is initially “off” in the cloud and will be rolled out slowly.
-4. Feature flag rollout plan:
-5. [T-8] Prior to the cut to on-premise, the Release manager reviews new feature flags and provides a report to the PM/QA team for their review. Essentially a feature will be included in an on-prem release once the feature flag has been removed.
-6. [T-7] On-premise release branch and release candidate are cut based on cloud release.
-7. On-premise release candidate is smoke tested.
-8. On-premise release final is cut and released publicly.
+3. The feature flag is initially “off” in Cloud and will be rolled out slowly.
+    - Feature flag rollout plan: https://developers.mattermost.com/contribute/server/feature-flags/.
+5. On-premise release branch and release candidate are cut based on cloud release. Prior to the cut to on-premise, the Release manager reviews new feature flags and provides a report to the PM/QA team for their review. Essentially a feature will be included in an on-prem release once the feature flag has been removed.
+6. On-premise release candidate is smoke tested.
+7. On-premise release final is cut and released publicly.
 
 ## Tracking feature flags
 
-Release manager is able to look at the version we have deployed to cloud. Also, when we are hooked up to split.io there will be a dashboard where you can see active and historic feature flags. Any feature that has its flag removed would be included on any on-prem releases past the point where that removal was merged. Feature flags proposal.
+Release manager is able to look at the version we have deployed to Cloud. Also, when we are hooked up to split.io there will be a dashboard where you can see active and historic feature flags. Any feature that has its flag removed would be included on any on-prem releases past the point where that removal was merged. More details on feature flags: https://developers.mattermost.com/contribute/server/feature-flags/.
 
-## Adding milestones for tickets and PRs
+## Adding Milestones on PRs and Jira Tickets
 
-Releases will now be focused on "ship features/improvements when they're ready for cloud, and then they'll get to an on-prem release once they've been on cloud for 2+ weeks".
+Releases are now focused on "shipping features/improvements when they're ready for Cloud, and then they'll get to an on-prem release once they've been on Cloud for 2+ weeks".
 
- - A new “cloud” branch (based off from master) is used and any regression bug fixes for the next cloud release will be cherry-picked there.
+ - A new “cloud” branch (based off from master) is used and any regression bug fixes for the next Cloud release will be cherry-picked there.
  - This applies to webapp / server / redux / enterprise repos.
- - A fix version such as “Cloud (November 24)” is added in Jira to track regression bug fixes for cloud releases.
- - The on-prem releases will be based on a cloud release. This is decided by the Release Manager / Cloud team based on the timeline between cloud releases and the release day of on-prem releases.
+ - A fix version such as “Cloud (November 24)” is added in Jira to track regression bug fixes for Cloud releases.
+ - The on-prem releases will be based on Cloud releases. This is decided by the Release Manager / Cloud team based on the timeline between cloud releases and the release day of on-prem releases.
  - PRs currently being merged into master don’t need an on-prem milestone added to them. Release Manager will track merged PRs and help ensure that correct milestones are added as needed. Any concerns can be brought up for discussion on a case-by-case basis. There may be a clearer process for this in the future.
 
-## Process for triaging cloud customer issues
+## Triaging Cloud customer issues
 
-Here's a great example of a bug report <jump to convo> we should have a process to triage.
-No plugins were available in Mattermost Cloud.
+When triaging a bug report, consider the following:
+ - Impact of the bug on customers
+ - Severity of the issue
+ - Risk and effort of reverting to the last version or fixing a bug
 
-When triaging a report, consider the following:
-Impact of the bug on customers
-Severity of the issue
-Risk and effort of reverting to the last version or fixing a bug
-
-Criteria
+**Criteria**
 1. "We need to revert to the last version" process
  - Crash or all services are down due to a bug; affects some to all cloud customers.
 2. "We need to release this ASAP" process
@@ -86,14 +84,13 @@ Criteria
 3. "It's ok to wait until next release" process
  - Loss of function, but little effect on customers.
 
-Responders
+**Responders**
  - Who is making the decision on which process above we need to follow?
-In some cases it is the SET on-call commander, in some cases other people such as the release manager or devs who notice / get notified about the report.
-Bugs will be fixed by either SET team or respective dev teams, depending on availability and expertise.
+    - In some cases it is the SET on-call commander, in some cases other people such as the release manager or devs who notice / get notified about the report.
+ - Bugs will be fixed by either SET team or respective dev teams, depending on availability and expertise.
 
-Reports
- - The Cloud team has created a central channel for escalations from support (Cloud Support channel in the Staff team).
-Additionally when a report is posted, should make sure to notify SET lead, release manager, and dev lead of the team that owns the feature.
+**Reports**
+ - The Cloud team has created a central channel for escalations from support (Cloud Support channel in the Staff team). Additionally when a report is posted, it is important to notify the SET lead, release manager, and dev lead of the team that owns the feature.
 
 ## Frequently Asked Questions
 
