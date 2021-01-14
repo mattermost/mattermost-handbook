@@ -145,31 +145,31 @@ b) has less than 75% of paid licenses deployed 90 days from license purchase; or
 c) is unresponsive more than 120 days from the renewal date. 
 
 **Examples:** 
-- “We can’t get a hold of this customer and they purchased 2 months ago.”
-- “We are struggling to deploy our Mattermost instance.”
-- “We purchased 500 licenses but we have 36 active users.”
-                       Customers are downgrading their subscription but renewing.
+- We can’t get a hold of this customer and they purchased 2 months ago.
+- Customer is downgrading their subscription but renewing.
+- Customer states: “We are struggling to deploy our Mattermost instance.“
+- Customer states: “We purchased 500 licenses but we have 36 active users.“
+
     
-    **“At Risk” Definition:** Customer who a) has a clear risk of 10%+ contraction (including full churn) upon renewal and less than 3 month to correct the situation or b)                                 has communicated that they will not renew. 
+**“At Risk” Definition:** Customer who a) has a clear risk of 10%+ contraction (including full churn) upon renewal and less than 3 month to correct the situation or b) has communicated that they will not renew. 
     
 **Examples:**
-                     - The customer is unresponsive and we are within the 90 renewal period.
-                     - Customer states: “We aren’t renewing our subscription if you don't do X.
+- Customer is unresponsive and we are within the 90 renewal period.
+- Customer states: “We aren’t renewing our subscription if you don't do X.“
 
-#### Bi-weekly Customer Risk Meetings (Interal)
-**Purpose:** Bi-Monthly forecast call to review Early Warning, At-Risk and Churn customers and align company efforts on retaining customers and minimizing churn.
-**Who Owns the Meeting?** This meeting is coordinated and led by the (CAM) Customer Advocacy Manager
-**Meeting Frequency:** We will meet biweekly on Mondays. This is a mandatory meeting. 
-**Duration of Meeting:** 50 Minutes
-**Meeting Etiquette:** Mattermost is a “Customer Obsessed” organization. We ask to please be mindful that we are all driving to one common objective. Successful and happy customers. Be blameless. Please avoid finger pointing and keep a positive voice tone while working with the team. We ask that only one person speak at a time to avoid confusion and so everyone can add insight to help with the resolution.
-**Who Should Attend:** 
- - Members of the MLT Team
- - Head of Sales
- - Customer Success Managers
- - Customer Success Engineering
- - Account Executives (Optional)
- 
-**Meeting Strategy:**
+#### Bi-weekly Customer Risk Meetings (Internal)
+* **Purpose:** Bi-Monthly forecast call to review Early Warning, At-Risk and Churn customers and align company efforts on retaining customers and minimizing churn.
+* **Who Owns the Meeting?** This meeting is coordinated and led by the (CAM) Customer Advocacy Manager
+* **Meeting Frequency:** We will meet biweekly on Mondays. This is a mandatory meeting. 
+* **Duration of Meeting:** 50 Minutes
+* **Meeting Etiquette:** Mattermost is a “Customer Obsessed” organization. We ask to please be mindful that we are all driving to one common objective. Successful and happy customers. Be blameless. Please avoid finger pointing and keep a positive voice tone while working with the team. We ask that only one person speak at a time to avoid confusion and so everyone can add insight to help with the resolution.
+* **Who Should Attend:** 
+   - Members of the MLT Team
+   - Head of Sales
+   - Customer Success Managers
+   - Customer Success Engineering
+   - Account Executives (Optional)
+* **Meeting Strategy:**
 Ahead of meeting, CSMs or AEs CSM/AE escalates a technical or business issue by logging or updating a “Early Warning/At Risk” in Salesforce.
 Early Warning/At Risk Areas to be logged in Salesforce and reviewed in Looker report.
 
