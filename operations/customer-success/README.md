@@ -152,7 +152,7 @@ c) is unresponsive more than 120 days from the renewal date.
     
     **“At Risk” Definition:** Customer who a) has a clear risk of 10%+ contraction (including full churn) upon renewal and less than 3 month to correct the situation or b)                                 has communicated that they will not renew. 
     
-                     **Examples:**
+**Examples:**
                      - The customer is unresponsive and we are within the 90 renewal period.
                      - Customer states: “We aren’t renewing our subscription if you don't do X.
 
