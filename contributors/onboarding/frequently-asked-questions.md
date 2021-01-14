@@ -18,7 +18,7 @@ Please see [our guide](https://handbook.mattermost.com/company/how-to-guides-for
 
 +1 \(650\) 667-8512
 
-## Where can I find more information on the company?
+## Where can I find more information about Mattermost?
 
 * Learn more about us [here](https://mattermost.com/about-us/).
 * Check the [company VPMOMs](https://docs.google.com/document/d/1rDwcsaqQuLLDqSktV4ndlhBDCEO8JHls1sOGVKCpS4U/edit) next!
@@ -39,7 +39,7 @@ Email [hr@mattermost.com](mailto:hr@mattermost.com) with any questions or concer
 
 ## I’d like to take some time off. What’s the process for that?
 
-* Discuss with your manager the dates you plan to take off, and decide who will be your backup.
+* Discuss the dates you plan to take off with your manager, and decide who will be your backup.
 * For meetings you’ll miss, message the chair with any status updates.
 * Post in the [Stand-up channel](https://community-daily.mattermost.com/private-core/channels/stand-up) the dates you’ll be away and who will be your backup. Add the hashtag \#timeoff somewhere in your message so people can spot it easily.
 * Block off time in the shared [Mattermost Timeoff](https://calendar.google.com/calendar/embed?src=mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com&ctz=America%2FLos_Angeles) calendar, so it’s easy for the team to see who is going to be away.
@@ -48,7 +48,7 @@ Email [hr@mattermost.com](mailto:hr@mattermost.com) with any questions or concer
   * If you're taking time off for a personal or family illness in excess of three days, please contact [hr@mattermost.com](mailto:hr@mattermost.com). 
   * Company holidays are listed [here](https://docs.mattermost.com/process/working-at-mattermost.html?#holidays), but please take off on holidays that are relevant to your culture, country of residence, and preferences.
 
-To add the Timeoff calendar to your calendar, use this URL when prompted to [Add Calendar From URL](https://calendar.google.com/calendar/r/settings/addbyurl?tab=mc): [https://calendar.google.com/calendar/ical/mattermost.com\_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com/private-68486d8e03649b706b5824d6c4712951/basic.ics](https://calendar.google.com/calendar/ical/mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com/private-68486d8e03649b706b5824d6c4712951/basic.ics)
+To add the Timeoff calendar to your calendar, use this URL when prompted to [Add Calendar From URL](https://calendar.google.com/calendar/r/settings/addbyurl?tab=mc): [https://calendar.google.com/calendar/ical/mattermost.com\_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com/private-68486d8e03649b706b5824d6c4712951/basic.ics](https://calendar.google.com/calendar/ical/mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com/private-68486d8e03649b706b5824d6c4712951/basic.ics).
 
 ## Where can I find templates?
 
@@ -74,28 +74,36 @@ Whenever possible, communicate using Mattermost. Email is typically reserved for
 
 ## What channels should I join to get a feel for the company?
 
-* [**Announcements**](https://community.mattermost.com/private-core/channels/announcements) **- Mattermost-wide announcements**
-* [**Ask Anything**](https://community.mattermost.com/core/channels/ask-anything) **- General questions about Mattermost**
-* [**Ask R&D**](https://community.mattermost.com/core/channels/ask-r-and-d) **- Technical questions to the Mattermost R&D team**
-* [**Customer Feedback**](https://community.mattermost.com/private-core/channels/customer-feedback) **- Discussion of customer feedback**
-* [**Customer Success](https://community.mattermost.com/private-core/channels/customer-success) **- Updates from, and general discussion with, the Mattermost customer success team**
-* [**Customer Support**](https://community.mattermost.com/private-core/channels/community) **- Discussion of customer support ticket escalations**
-* [**Developers**](https://community.mattermost.com/core/channels/developers) **- General development help**
-* [**Marketing**](https://community.mattermost.com/private-core/channels/marketing) **- Campaign ideas and general marketing team discussions**
-* [**Marketing Website**](https://community.mattermost.com/private-core/channels/marketing-website-priv) **- Website bugs, release notes, and web discussions**
-* [**Product Management**](https://community.mattermost.com/core/channels/product-management) **- Discussion with and questions for Mattermost product managers**
-* [**Roadmap**](https://community.mattermost.com/private-core/channels/roadmap) **- Questions about and discussion of the product roadmap, or to view public roadmap in the header**
-* [**Sales: General Questions**](https://community.mattermost.com/private-core/channels/sales-general-questions) **- Discussion of all types of sales inquiries/questions**
-* [**Spec Reviews**](https://community.mattermost.com/core/channels/spec-reviews) **- In-progress plans for new features**
-* [**Sustained Engineering**](https://community.mattermost.com/core/channels/sustained-engineering) **- Discussion with Mattermost's [Sustained Engineering Team (SET)](https://developers.mattermost.com/internal/sustained-engineering)**
-* [**UX Design**](https://community.mattermost.com/core/channels/ux-design) **- Questions and discussion about product design**
-* [**Welcome**](https://community.mattermost.com/private-core/channels/welcome) **- Where new staff members are introduced on their first day**
+Whenever possible, we share key updates and have discussions in Mattermost. Some of the recommended channels we use are listed below. Note that some channels are available on the Community server and others are available on the Mattermost Staff server.
+
+### Community channels
+
+* [Ask Anything](https://community.mattermost.com/core/channels/ask-anything) **- General questions about Mattermost**
+* [Ask R&D](https://community.mattermost.com/core/channels/ask-r-and-d) **- Technical questions to the Mattermost R&D team**
+* [Developers](https://community.mattermost.com/core/channels/developers) **- General development help**
+* [Product Management](https://community.mattermost.com/core/channels/product-management) **- Discussion with and questions for Mattermost product managers**
+* [Spec Reviews](https://community.mattermost.com/core/channels/spec-reviews) **- In-progress plans for new features**
+* [Sustained Engineering](https://community.mattermost.com/core/channels/sustained-engineering) **- Discussion with Mattermost's [Sustained Engineering Team (SET)](https://developers.mattermost.com/internal/sustained-engineering)**
+
+### Mattermost Staff channels
+
+* [Announcements](https://community.mattermost.com/private-core/channels/announcements) **- Mattermost-wide announcements**
+* [Customer Feedback](https://community.mattermost.com/private-core/channels/customer-feedback) **- Discussion of customer feedback**
+* [Customer Success](https://community.mattermost.com/private-core/channels/customer-success) **- Updates from, and general discussion with, the Mattermost customer success team**
+* [Customer Support](https://community.mattermost.com/private-core/channels/community) **- Discussion of customer support ticket escalations**
+* [Marketing](https://community.mattermost.com/private-core/channels/marketing) **- Campaign ideas and general marketing team discussions**
+* [Marketing Website [P]](https://community.mattermost.com/private-core/channels/marketing-website-priv) **- Website bugs, release notes, and web discussions**
+* [Roadmap](https://community.mattermost.com/private-core/channels/roadmap) **- Questions about and discussion of the product roadmap, or to view the public roadmap listed in the header**
+* [Sales: General Questions](https://community.mattermost.com/private-core/channels/sales-general-questions) **- Discussion of all types of sales inquiries/questions**
+* [Stand-up](https://community-daily.mattermost.com/private-core/channels/stand-up) **- Share availability updates, such as "Going to the dentist, back shortly"**
+* [UX Design](https://community.mattermost.com/core/channels/ux-design) **- Questions and discussion about product design**
+* [Welcome](https://community.mattermost.com/private-core/channels/welcome) **- Where new staff members are introduced on their first day**
 
 ## What does 0/5 mean?
 
 0/5 means you are not very committed or attached to an outcome. 5/5 indicates full confidence and that you would stake your reputation on the opinion. More about these and other terms can be found [here](https://docs.mattermost.com/process/training.html#terminology).
 
-## I am planning to move, what do I need to know? 
+## I am planning to move. What do I need to know?
 
-* Staff contracts are conditioned upon the country/region of reference listed in signed agreements. If you plan to change your residence from the location listed in your agreement, you must receive prior written approval from the Company.
+* Staff contracts are conditioned upon the country/region of reference listed in signed agreements. If you plan to change your residence from the location listed in your agreement, you must receive prior written approval from the company.
 * Upon written approval, please update [BambooHR](https://mattermost.bamboohr.com/home/).
