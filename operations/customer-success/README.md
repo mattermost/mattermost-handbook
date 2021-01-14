@@ -138,20 +138,53 @@ Below are detailed steps on how to log a Customer Reference in Salesforce.
 Risk is the chance or probability that a customer will not renew their existing Enterprise license. The Customer Success team categorizes risk into two buckets:
 
 * **At-Risk:** Customer has actively told Mattermost there is a high probability of non-renewal.
-* **Early Warning:** The customer has not told Mattermost there is a probability of non-renewal. Early Warning customers have voiced frustrations or are non-responsive.
+* **Early Warning:** 
+**“Early Warning” Definition:** Customer that meets one or more of the following criteria: 
+a) has risk of 10%+ contraction (including full churn) upon renewal and at least 3 months to correct the situation; 
+b) has less than 75% of paid licenses deployed 90 days from license purchase; or,
+c) is unresponsive more than 120 days from the renewal date. 
 
+**Examples:** 
+- “We can’t get a hold of this customer and they purchased 2 months ago.”
+- “We are struggling to deploy our Mattermost instance.”
+- “We purchased 500 licenses but we have 36 active users.”
+                       Customers are downgrading their subscription but renewing.
+    
+    **“At Risk” Definition:** Customer who a) has a clear risk of 10%+ contraction (including full churn) upon renewal and less than 3 month to correct the situation or b)                                 has communicated that they will not renew. 
+    
+**Examples:**
+                     - The customer is unresponsive and we are within the 90 renewal period.
+                     - Customer states: “We aren’t renewing our subscription if you don't do X.
+
+#### Bi-weekly Customer Risk Meetings (Interal)
+**Purpose:** Bi-Monthly forecast call to review Early Warning, At-Risk and Churn customers and align company efforts on retaining customers and minimizing churn.
+**Who Owns the Meeting?** This meeting is coordinated and led by the (CAM) Customer Advocacy Manager
+**Meeting Frequency:** We will meet biweekly on Mondays. This is a mandatory meeting. 
+**Duration of Meeting:** 50 Minutes
+**Meeting Etiquette:** Mattermost is a “Customer Obsessed” organization. We ask to please be mindful that we are all driving to one common objective. Successful and happy customers. Be blameless. Please avoid finger pointing and keep a positive voice tone while working with the team. We ask that only one person speak at a time to avoid confusion and so everyone can add insight to help with the resolution.
+**Who Should Attend:** 
+ - Members of the MLT Team
+ - Head of Sales
+ - Customer Success Managers
+ - Customer Success Engineering
+ - Account Executives (Optional)
+ 
+**Meeting Strategy:**
+Ahead of meeting, CSMs or AEs CSM/AE escalates a technical or business issue by logging or updating a “Early Warning/At Risk” in Salesforce.
+Early Warning/At Risk Areas to be logged in Salesforce and reviewed in Looker report.
+
+#### Customer Risk Object (SFDC)
 The Customer Risk object in Salesforce was created to track At-Risk and Early Warning customers. Managing customer risk in Salesforce allows for better visibility among departments at Mattermost.
 
 To log Customer Risk in Salesforce you can watch the [Creating Customer Risk video](https://drive.google.com/drive/u/0/folders/1_nbZhAirM2-4q4oFdygSgmS1H_pAn5qm) or follow the step-by-step instructions below.
 
 #### Instructions for Logging in Salesforce
-
+**Salesforce Account Layout Customer Risk Button**
 1. Log into your Salesforce account.
 2. Type the Account Name in the search bar.
-3. Hover over **Customer Risk** in the quick links section at the top of the account page and select **New**.
-4. The quick form appears in a small pop-out window. You don't need to fill out all fields. Any fields that don't have a red asterisk will automatically be populated upon saving. Below are the fields you need to fill out:
-   - **Customer Risk Name:** Put the name of the customer account and type of risk. For example *XYZ Company At-Risk* or *XYZ Company Early Warning*.
-   - **Key Contact:** Who is the main contact at the account.
+3. Select "Log Customer Risk" button 
+4. The quick form appears in a small pop-out window. You don't need to fill out all fields. Below are the fields you need to fill out:
+   - **Key Contact:** Who is the main contact at the account. list defaults to only contacts tied to the account you are logging the risk.
    - **Status:** Choose if the customer is **At-Risk** or **Early Warning**. Note: **Churned** and **Renewed** fields will be used later based on the renewal outcome.
    - **# of Seats At-Risk:** How many seats could be potentially non-renewed. Seat number could be all of the seats available for renewal or a portion of the seats available for renewal.
    - **Risk Amount:** What is the amount of ARR that could be potentially non-renewed. Risk amount could be all ARR available for renewal or a portion of the ARR available for renewal.
@@ -160,3 +193,23 @@ To log Customer Risk in Salesforce you can watch the [Creating Customer Risk vid
    - **Reason:** What is the reason the customer is considering non-renewal.
    - **Summary:** Description of why the customer is being flagged as an At-Risk or Early Warning.
    - **Next Step:** What is the next action item with the customer.
+ Note: System automatically fills out the following fields that live on the risk object but are not in the risk form when selecting the button.
+   - **Contraction:** Formula to see if number of seats at risk is less than number of seats licensed.  If so, the risk is flagged "yes" for contraction risk. If seats and risk and seats licensed are equal the risk is flagged "no" for contraction risk.
+   - **Customer Risk Name:** Customer name + Primary risk reason
+ **Salesforce Opportunity Layout Customer Risk Form** 
+1. Log into your Salesforce account.
+2. Type the Account Name in the search bar.
+3. Select "Opportunity" that is at Risk
+4. This takes you to the opportunity where the quick form appears directly on the layout. Below are the fields you need to fill out:
+   - **Key Contact:** Who is the main contact at the account. list defaults to only contacts tied to the account you are logging the risk.
+   - **Status:** Choose if the customer is **At-Risk** or **Early Warning**. Note: **Churned** and **Renewed** fields will be used later based on the renewal outcome.
+   - **# of Seats At-Risk:** How many seats could be potentially non-renewed. Seat number could be all of the seats available for renewal or a portion of the seats available for renewal.
+   - **Risk Amount:** The amount of ARR that could be potentially non-renewed. Risk amount could be all ARR available for renewal or a portion of the ARR available for renewal.
+   - **Engagement:** Current interaction between the customer and Mattermost. For example: Is there a call scheduled, is the customer unresponsive, have you reached out to the customer, etc.
+   - **Competitor:** Who is the competitor the customer is evaluating.
+   - **Reason:** The reason the customer is considering non-renewal.
+   - **Summary:** Description of why the customer is being flagged as an At-Risk or Early Warning.
+   - **Next Step:** The next action item with the customer.
+ Note: System automatically fills out the following fields that live on the risk object but are not in the risk form when selecting the button.
+   - **Contraction:** Formula to see if number of seats at risk is less than number of seats licensed.  If so, the risk is flagged "yes" for contraction risk. If seats and risk and seats licensed are equal the risk is flagged "no" for contraction risk.
+   - **Customer Risk Name:** Customer name and Primary risk reason.
