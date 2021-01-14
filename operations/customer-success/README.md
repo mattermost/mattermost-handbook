@@ -135,9 +135,8 @@ Below are detailed steps on how to log a Customer Reference in Salesforce.
 
 ### Customer Risk
 
-Risk is the chance or probability that a customer will not renew their existing Enterprise license. The Customer Success team categorizes risk into two buckets:
+Risk is the chance or probability that a customer will not renew their existing Enterprise license. 
 
-* **At-Risk:** Customer has actively told Mattermost there is a high probability of non-renewal.
 * **Early Warning:** 
 **“Early Warning” Definition:** Customer that meets one or more of the following criteria: 
 a) has risk of 10%+ contraction (including full churn) upon renewal and at least 3 months to correct the situation; 
