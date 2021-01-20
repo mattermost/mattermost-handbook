@@ -55,6 +55,7 @@ Day when Leads and PMs decide which major features are included in the release, 
 3. Dev:
     - Cut release branches for server and mobile
         - Merge database upgrade before cutting the branch
+        - Update [model/version.go](https://github.com/mattermost/mattermost-server/blob/master/model/version.go#L16)
         - Point translation server and CI servers to the release branch after cutting
         - Update https://prev.test.mattermost.com to the previous release version
    - Prioritize reviewing, updating, and merging of pull requests for current release until there are no more tickets in the [pull request queue](https://github.com/mattermost/mattermost-server/pulls) marked for the current release
@@ -228,8 +229,8 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
       - Bug Bash Meeting on the week after Code Complete at 10:00am San Francisco time
       - Release Triage and Update Meeting each weekday starting at T-20 and ending at T-0 at 9:30am San Francisco time for PM, QA and release dev
     - Prepare tickets for the next release, with a corresponding vX.X prefix, and put the tickets in the appropriate sprints as follows:
-    - The week RC is cut:
-          - [RC Build Testing for core team](https://mattermost.atlassian.net/browse/PLT-2208)
+       - The week RC is cut:
+            - [RC Build Testing for core team](https://mattermost.atlassian.net/browse/PLT-2208)
        - The week RC is cut:
             - [Loadtest x.x release candidate compared to x.x release](https://mattermost.atlassian.net/browse/MM-12532)
        - The week RC is cut (for GitLab dev owner):
@@ -240,18 +241,18 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
             - [Submit GitLab Omnibus RC install of Mattermost](https://mattermost.atlassian.net/browse/MM-9872)
        - The week before code complete:
             - [Add telemetry for new configuration settings in the release](https://mattermost.atlassian.net/browse/MM-24483)
-        - The week before code complete (one for Apps and for Mobile):
+       - The week before code complete (one for Apps and for Mobile):
             - If an existing ESR is going out of support next month, update the in-app prompts (mobile and desktop) to start detecting for the new minimum supported ESR version
             - If a new ESR is released next month, update the prompts to recommend upgrading to that version instead of the older ESR
     - Confirm that [mattermost-docker](https://github.com/mattermost/mattermost-docker/releases) has been updated to the latest version (contact the maintainer via direct message on community server if necessary)
     - Contact owners of [community installers](http://www.mattermost.org/installation/) or submit PRs to update install version number
-      - For Chef Cookbook, open a new issue to announce the new release. See [example](https://github.com/ist-dsi/mattermost-cookbook/issues/22)
-      - For Yunohost, open a new pull request to update the version. See [example](https://github.com/YunoHost-Apps/mattermost_ynh/pull/103)
-   - Turn on CrazyEgg for blog post page
-   - Confirm marketing has been posted (screenshots, mail announcement, tweets, blog posts)
-       - Post in the Announcements channel
-   - Update @mattermost Twitter profile with the next release date
-   - Prepare retweet of GitLab release tweet ([see example here](https://community.mattermost.com/core/pl/k7wchwj5mtrhucj6don96yx3sc))
+        - For Chef Cookbook, open a new issue to announce the new release. See [example](https://github.com/ist-dsi/mattermost-cookbook/issues/22)
+        - For Yunohost, open a new pull request to update the version. See [example](https://github.com/YunoHost-Apps/mattermost_ynh/pull/103)
+    - Turn on CrazyEgg for blog post page
+    - Confirm marketing has been posted (screenshots, mail announcement, tweets, blog posts)
+        - Post in the Announcements channel
+    - Update @mattermost Twitter profile with the next release date
+    - Prepare retweet of GitLab release tweet ([see example here](https://community.mattermost.com/core/pl/k7wchwj5mtrhucj6don96yx3sc))
 2. Docs:
     - Create a new branch on docs for the next release - `vX.X-documentation`
         - Submit a PR for Changelog against the `vX.X-documentation` branch and add a `Work in Progress` label for it
