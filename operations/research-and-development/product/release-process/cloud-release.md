@@ -8,7 +8,7 @@ Notes:
 - All cut-off dates are based on 10am ([San Francisco Time](http://everytimezone.com/)) on the day stated.
 - T-minus counts are measured in "working days" (weekdays other than major holidays concurrent in US and Canada) prior to release day.
 
-### A. (T-minus 7 working days) Fast-forward master to cloud branch
+### A. (T-minus 8 working days) Fast-forward master to cloud branch
 
 1. Release Manager:
     - Ask Cloud SRE team to update the community-release server to the same version as the cloud test installations.
@@ -29,3 +29,5 @@ Notes:
     - Update community servers to the latest version.
     - Schedule a retrospective.
     - Confirm PMs are aware of upcoming cloud release dates and feature complete dates.
+    - Merge docs and the changelog PR.
+    - Close the release in Jira.
