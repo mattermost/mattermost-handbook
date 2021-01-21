@@ -1,6 +1,6 @@
 # Cloud Release Process
 
-This document outlines the Mattermost Cloud release process for the Mattermost core team, which draws from what we find works best for us from Agile, Scrum, and Software Development Lifecycle approaches.
+This document outlines the Cloud release process for the Mattermost core team. Our release process draws from many best practice Agile, Scrum, and Software Development Lifecycle methodologies.
 
 ## Release Timeline
 
