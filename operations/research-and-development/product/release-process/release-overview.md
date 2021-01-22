@@ -38,7 +38,7 @@ Mattermost numbers stable releases in the following format:
 Currently Mattermost Cloud releases occur on a 2-week cycle, but the goal is to release more frequently. Cloud and Self-Managed PRs don’t need to be cherry-picked to releases, except for any last minute bug fixes that get merged after the release branch is cut, and any necessary hotfixes.
 
 Schedule for Mattermost Cloud releases:
- - (T-7): 1 week prior to the release day, master is fast-forwarded to the “cloud” branch.
+ - (T-7): 1 week prior to the release day, the ``master`` branch is merged to the Cloud branch.
  - (T-0): Release Day
 
 Schedule for Self-Managed releases:
