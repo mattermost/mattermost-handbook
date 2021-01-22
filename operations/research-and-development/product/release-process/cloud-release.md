@@ -8,19 +8,19 @@ Notes:
 - All cut-off dates are based on 10am in San Francisco [(Pacific Time](http://everytimezone.com/)) on the day stated.
 - T-minus counts are measured in "working days" (weekdays other than major holidays concurrent in US and Canada) prior to release day.
 
-### A. (T-minus 8 working days) Fast-forward master to cloud branch
+### A. (T-minus 9 working days) Merge master to the Cloud branch
 
 1. Release Manager:
     - Ask Cloud SRE team to update the community-release server to the same version as the Mattermost Cloud test installations.
     - Confirm all Jira tickets are resolved for QA testing.
-    - Ask QA to do high priority testing.
+    - Notify QA that the test servers are ready for QA testing. Normally QA testing starts on the next day (at T-8).
     - Ask Tech Writer to work on docs.
     - Keep track of any regressions on master for fixing.
     - Add Cloud release dates to the Release Google Calendar.
     - Start working on the changelog (both internal and external).
     - Check whether any translation PRs, pre-packaged plugins, and `NOTICE.txt` PRs are needed.
 2. Dev:
-    - Fast-forward “cloud” branch to latest master.
+    - Merge latest ``master`` into the Cloud branch.
  
 ### B. (T-minus 0 working days) Release day
 
