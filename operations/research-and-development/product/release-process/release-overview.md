@@ -35,7 +35,7 @@ Mattermost numbers stable releases in the following format:
 
 ## Overview of Release Cycles
 
-Currently Mattermost Cloud releases occur on a 2-week cycle, but the goal is to release to frequently. Cloud and Self-Managed PRs don’t need to be cherry-picked to releases, except for any last minute bug fixes that get merged after the release branch is cut, and any necessary hotfixes.
+Currently Mattermost Cloud releases occur on a 2-week cycle, but the goal is to release more frequently. Cloud and Self-Managed PRs don’t need to be cherry-picked to releases, except for any last minute bug fixes that get merged after the release branch is cut, and any necessary hotfixes.
 
 Schedule for Mattermost Cloud releases:
  - (T-7): 1 week prior to the release day, master is fast-forwarded to the “cloud” branch.
@@ -53,23 +53,23 @@ Schedule for Self-Managed releases:
 2. Large features are added behind a feature flag.
 3. The feature flag is initially “off” in Mattermost Cloud and will be rolled out slowly.
     - Feature flag rollout plan: https://developers.mattermost.com/contribute/server/feature-flags/.
-5. Self-managed release branch and release candidate are cut based on the Mattermost Cloud release. Prior to the cut to self-managed, the Release Manager reviews new feature flags and provides a report to the PM/QA teams for their review. Essentially a feature will be included in a self-managed release once the feature flag has been removed.
-6. Self-managed release candidate is smoke tested.
-7. Self-managed release final is cut and released publicly.
+5. Self-Managed release branch and release candidate are cut based on the Mattermost Cloud release. Prior to the cut to Self-Managed, the Release Manager reviews new feature flags and provides a report to the PM/QA teams for their review. Essentially a feature will be included in a Self-Managed release once the feature flag has been removed.
+6. Self-Managed release candidate is smoke tested.
+7. Self-Managed release final is cut and released publicly.
 
 ## Tracking Feature Flags
 
-Release Manager is able to look at the version we have deployed to Mattermost Cloud. Also, when we are hooked up to split.io, there will be a dashboard where you can see active and historic feature flags. Any feature that has its flag removed would be included on any self-managed releases past the point after that removal was merged. More details on feature flags: https://developers.mattermost.com/contribute/server/feature-flags/.
+Release Manager is able to look at the version we have deployed to Mattermost Cloud. Also, when we are hooked up to split.io, there will be a dashboard where you can see active and historic feature flags. Any feature that has its flag removed would be included on any Self-Managed releases past the point after that removal was merged. More details on feature flags: https://developers.mattermost.com/contribute/server/feature-flags/.
 
 ## Adding Milestones on PRs and Jira Tickets
 
-Releases are now focused on "shipping features and improvements when they're ready for Mattermost Cloud, and then they'll get to a self-managed release once they've been available on Mattermost Cloud for 2+ weeks".
+Releases are now focused on "shipping features and improvements when they're ready for Mattermost Cloud, and then they'll get to a Self-Managed release once they've been available on Mattermost Cloud for 2+ weeks".
 
- - A new “cloud” branch (based off of master) is used and any regression bug fixes for the next Mattermost Cloud release will be cherry-picked there.
+ - A new Cloud branch (based off of master) is used, and any regression bug fixes for the next Mattermost Cloud release will be cherry-picked there.
  - This applies to webapp/server/Redux/Enterprise repos.
  - A fix version such as “Cloud (November 24)” is added in Jira to track regression bug fixes for Mattermost Cloud releases.
- - The self-managed releases will be based on Mattermost Cloud releases. This is decided by the Release Manager/Cloud team based on the timeline between Mattermost Cloud releases and the release day of self-managed releases.
- - Cloud PRs currently being merged into master don’t need a self-managed release milestone added to them. Release Manager will track merged PRs and help ensure that correct milestones are added as needed. Any concerns can be brought up for discussion on a case-by-case basis. There may be updates to this process in the future.
+ - The Self-Managed releases will be based on Mattermost Cloud releases. This is decided by the Release Manager/Cloud team based on the timeline between Mattermost Cloud releases and the release day of Self-Managed releases.
+ - Cloud PRs currently being merged into master don’t need a Self-Managed release milestone added to them. Release Manager will track merged PRs and help ensure that correct milestones are added as needed. Any concerns can be brought up for discussion on a case-by-case basis. There may be updates to this process in the future.
 
 ## Triaging Mattermost Cloud Customer Issues
 
@@ -84,15 +84,15 @@ When triaging a bug report, consider the following:
 2. "We need to release this ASAP" process:
  - A severe regression or loss of functionality; affects some to all Cloud customers.
 3. "It's OK to wait until next release" process:
- - Loss of function, but little impact on customers.
+ - Loss of function, but little impact on Cloud customers.
 
 **Responders**
  - Who is making the decision on which process above we need to follow?
-    - In some cases it is the SET On-Call Commander, in some cases other people such as the Release Manager or devs who notice or get notified about the report.
+    - In some cases it's the SET On-Call Commander, and in some cases it's other people such as the Release Manager or developers who notice or get notified about the report.
  - Bugs will be fixed by either the SET team or by respective development teams, depending on availability and expertise.
 
 **Reports**
- - The Cloud team has created a central channel for escalations from Cloud Support channel (available in the Staff team). Additionally when a report is posted, it is important to notify the SET Lead, Release Manager, and dev lead of the team that owns the feature.
+ - The Cloud team has created a central channel for escalations from Cloud Support channel (available in the Staff team). Additionally when a report is posted, it is important to notify the SET Lead, Release Manager, and Development Lead of the team that owns the feature.
 
 ## Frequently Asked Questions
 
@@ -106,7 +106,7 @@ When triaging a bug report, consider the following:
 
 **Q: When is release branch cut for a release?**
 
-  - A: Once the Mattermost Cloud release that will be used for the next self-managed release has been shipped.
+  - A: Once the Mattermost Cloud release that will be used for the next Self-Managed release has been shipped.
 
 **Q: How are PRs merged for release?**
 
@@ -174,4 +174,4 @@ When triaging a bug report, consider the following:
 
 **Q: How will versioning work?**
 
-  - Version numbers will be less meaningful for Mattermost Cloud. Proposing the name of this to be capabilities following the naming used by OpenGL. It's not whether or not a feature is enabled, but whether or not the server is capable of supporting the feature.
+  - Version numbers will be less meaningful for Mattermost Cloud. Proposing the name of this to be capabilities following the naming used by OpenGL. With Mattermost Cloud, it's not whether or not a feature is enabled, but whether or not the server is capable of supporting the feature.
