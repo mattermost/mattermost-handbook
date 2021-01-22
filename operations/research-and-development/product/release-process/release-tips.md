@@ -9,11 +9,11 @@
  - Bugs
    - Check/test if the issue was in previous server version.
  - All sections
-   - Check that all sections are written and formatted the same way as in previous Changelogs.
+   - Check that all sections are written and formatted the same way as in previous changelogs.
  - API/Websocket/Database
    - Work with Devs on this section.
  - Next version
-   - If the Changelog mentions items regarding upcoming versions, move them to the bottom of the Changelog.
+   - If the changelog mentions items regarding upcoming versions, move them to the bottom of the changelog.
    
 **Ways to Meet Deadlines**
 
