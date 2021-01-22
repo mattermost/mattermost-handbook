@@ -160,13 +160,13 @@ When triaging a bug report, consider the following:
 
   - There will be some manual RC testing until all release tests are automated.
 
-**Q: Are mobile and desktop apps included in the "cloud first" strategy?**
+**Q: Do Mobile and Desktop App releases follow the "cloud first" strategy?**
 
-  - Mobile and desktop apps are not affected at this point.
+  - Mobile and Desktop App releases are not based off of Mattermost Cloud releases at this point.
 
-**Q: Creating tickets for features that were cut from Self-Managed - Is this also how it continues to be tracked to see whether it's ready for the next release?**
+**Q: How do we track feature differences for Mattermost Cloud and Self-Managed releases?**
 
-  - Any feature that's promoted out of the feature flag process would be turned on for the Self-Managed releases. That way Self-Managed only gets fully tested features that are ready for release, and does not get the ones still being tested. There will be some cases where we need to make a fix or change something for the Self-Managed release (e.g., a bug that only occurs if you use a certain Self-Managed setting or a certain database we don't use in Mattermost Cloud). In those cases the Self-Managed release might have some changes that are not a direct copy of the Mattermost Cloud build.
+  - Any feature that's promoted out of the feature flag process would be turned on for the Self-Managed releases. That way Self-Managed releases only get fully tested features that are ready for release, and does not get the ones still being tested. There will be some cases where we need to make a fix or change something for the Self-Managed release (e.g., a bug that only occurs if you use a certain Self-Managed setting or a certain database we don't use in Mattermost Cloud). In those cases the Self-Managed release might have some changes that are not a direct copy of the Mattermost Cloud build.
 
 **Q: What information does the Customer Support team need for Cloud releases?**
 
