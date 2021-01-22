@@ -259,6 +259,7 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
         - Submit a PR to change version number in `docs/source/conf.py` against the `vX.X-documentation` branch
 3. Build:
     - Ensure https://community.mattermost.com is on the most recently released version and that https://prev.test.mattermost.com is on the previous release version
+    - Verify that the release tags were added to GitHub
 4. QA:
     - Merge any updates made to Selenium tests during release testing
     - Update RN server URLs to Rainforest
