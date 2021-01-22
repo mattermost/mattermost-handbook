@@ -35,14 +35,14 @@ Mattermost numbers stable releases in the following format:
 
 ## Overview of Release Cycles
 
-Currently Cloud releases occur on a 2-week cycle, but the goal is to release to Cloud more frequently than every 2 weeks. PRs don’t need to be cherry-picked to releases (both Cloud and on-prem), except for any last bug fixes that get merged after the release branch is cut as well as for any hotfixes.
+Currently Mattermost Cloud releases occur on a 2-week cycle, but the goal is to release to frequently than every 2 weeks. PRs don’t need to be cherry-picked to releases (both Mattermost Cloud and self-managed), except for any last bug fixes that get merged after the release branch is cut as well as for any hotfixes.
 
-Schedule for Cloud releases:
- - (T-7): 1 week prior to the release day, master is fast-forwarded to the cloud branch.
+Schedule for Mattermost Cloud releases:
+ - (T-7): 1 week prior to the release day, master is fast-forwarded to the “cloud” branch.
  - (T-0): Release Day
 
 Schedule for on-prem releases:
- - (T-30): Feature Review / Judgment Day / Release branch cut
+ - (T-30): Feature Review/Judgment Day/Release branch cut
  - (T-9): RC1 Cut
  - (T-8 to T-7): RC testing and final QA testing
  - (T-5): Code Freeze
@@ -51,27 +51,27 @@ Schedule for on-prem releases:
 
 1. The feature is tested on a PR and E2E test automation is added.
 2. Large features are added behind a feature flag.
-3. The feature flag is initially “off” in Cloud and will be rolled out slowly.
+3. The feature flag is initially “off” in Mattermost Cloud and will be rolled out slowly.
     - Feature flag rollout plan: https://developers.mattermost.com/contribute/server/feature-flags/.
-5. On-premise release branch and release candidate are cut based on cloud release. Prior to the cut to on-premise, the Release manager reviews new feature flags and provides a report to the PM/QA team for their review. Essentially a feature will be included in an on-prem release once the feature flag has been removed.
-6. On-premise release candidate is smoke tested.
-7. On-premise release final is cut and released publicly.
+5. Self-managed release branch and release candidate are cut based on the Mattermost Cloud release. Prior to the cut to self-managed, the Release Manager reviews new feature flags and provides a report to the PM/QA team for their review. Essentially a feature will be included in a self-managed release once the feature flag has been removed.
+6. Self-managed release candidate is smoke tested.
+7. Self-managed release final is cut and released publicly.
 
-## Tracking feature flags
+## Tracking Feature Flags
 
-Release manager is able to look at the version we have deployed to Cloud. Also, when we are hooked up to split.io there will be a dashboard where you can see active and historic feature flags. Any feature that has its flag removed would be included on any on-prem releases past the point where that removal was merged. More details on feature flags: https://developers.mattermost.com/contribute/server/feature-flags/.
+Release Manager is able to look at the version we have deployed to Mattermost Cloud. Also, when we are hooked up to split.io there will be a dashboard where you can see active and historic feature flags. Any feature that has its flag removed would be included on any self-managed releases past the point where that removal was merged. More details on feature flags: https://developers.mattermost.com/contribute/server/feature-flags/.
 
 ## Adding Milestones on PRs and Jira Tickets
 
-Releases are now focused on "shipping features/improvements when they're ready for Cloud, and then they'll get to an on-prem release once they've been on Cloud for 2+ weeks".
+Releases are now focused on "shipping features/improvements when they're ready for Mattermost Cloud, and then they'll get to a self-managed release once they've been on Mattermost Cloud for 2+ weeks".
 
- - A new “cloud” branch (based off from master) is used and any regression bug fixes for the next Cloud release will be cherry-picked there.
- - This applies to webapp / server / redux / enterprise repos.
- - A fix version such as “Cloud (November 24)” is added in Jira to track regression bug fixes for Cloud releases.
- - The on-prem releases will be based on Cloud releases. This is decided by the Release Manager / Cloud team based on the timeline between cloud releases and the release day of on-prem releases.
- - PRs currently being merged into master don’t need an on-prem milestone added to them. Release Manager will track merged PRs and help ensure that correct milestones are added as needed. Any concerns can be brought up for discussion on a case-by-case basis. There may be a clearer process for this in the future.
+ - A new “cloud” branch (based off from master) is used and any regression bug fixes for the next Mattermost Cloud release will be cherry-picked there.
+ - This applies to webapp/server/Redux/Enterprise repos.
+ - A fix version such as “Cloud (November 24)” is added in Jira to track regression bug fixes for Mattermost Cloud releases.
+ - The self-managed releases will be based on Mattermost Cloud releases. This is decided by the Release Manager/Cloud team based on the timeline between Mattermost Cloud releases and the release day of self-managed releases.
+ - Cloud PRs currently being merged into master don’t need a self-managed release milestone added to them. Release Manager will track merged PRs and help ensure that correct milestones are added as needed. Any concerns can be brought up for discussion on a case-by-case basis. There may be updates to this process in the future.
 
-## Triaging Cloud customer issues
+## Triaging Mattermost Cloud Customer Issues
 
 When triaging a bug report, consider the following:
  - Impact of the bug on customers
@@ -79,20 +79,20 @@ When triaging a bug report, consider the following:
  - Risk and effort of reverting to the last version or fixing a bug
 
 **Criteria**
-1. "We need to revert to the last version" process
- - Crash or all services are down due to a bug; affects some to all cloud customers.
-2. "We need to release this ASAP" process
- - A severe regression or loss of function; affects some to all customers.
-3. "It's ok to wait until next release" process
- - Loss of function, but little effect on customers.
+1. "We need to revert to the last version" process:
+ - Crash or all services are down due to a bug; affects some to all Mattermost Cloud customers.
+2. "We need to release this ASAP" process:
+ - A severe regression or loss of functionality; affects some to all Cloud customers.
+3. "It's OK to wait until next release" process:
+ - Loss of function, but little impact on customers.
 
 **Responders**
  - Who is making the decision on which process above we need to follow?
-    - In some cases it is the SET on-call commander, in some cases other people such as the release manager or devs who notice / get notified about the report.
- - Bugs will be fixed by either SET team or respective dev teams, depending on availability and expertise.
+    - In some cases it is the SET On-Call Commander, in some cases other people such as the Release Manager or devs who notice or get notified about the report.
+ - Bugs will be fixed by either the SET team or by respective development teams, depending on availability and expertise.
 
 **Reports**
- - The Cloud team has created a central channel for escalations from support (Cloud Support channel in the Staff team). Additionally when a report is posted, it is important to notify the SET lead, release manager, and dev lead of the team that owns the feature.
+ - The Cloud team has created a central channel for escalations from support (Cloud Support channel in the Staff team). Additionally when a report is posted, it is important to notify the SET lead, Release Manager, and dev lead of the team that owns the feature.
 
 ## Frequently Asked Questions
 
@@ -106,7 +106,7 @@ When triaging a bug report, consider the following:
 
 **Q: When is release branch cut for a release?**
 
-  - A: Once the cloud release that the next on-prem release is releasing with has been shipped.
+  - A: Once the Mattermost Cloud release that will be used for the next self-managed release has been shipped.
 
 **Q: How are PRs merged for release?**
 
@@ -118,11 +118,11 @@ When triaging a bug report, consider the following:
 
 **Q: What is community.mattermost kept on?**
 
-  - A: community.mattermost is kept on the most recent cloud release.
+  - A: community.mattermost is kept on the most recent Mattermost Cloud release.
 
 **Q: What is community-release.mattermost kept on?**
 
-  - A: community-release.mattermost is kept on the currently in progress cloud release.
+  - A: community-release.mattermost is kept on the currently in-progress Mattermost Cloud release.
 
 **Q: What is community-daily.mattermost kept on?**
 
@@ -160,14 +160,14 @@ When triaging a bug report, consider the following:
 
   - There will be some manual RC testing until all release tests are automated.
 
-**Q: Are mobile and desktop included in the cloud first strategy?**
+**Q: Are mobile and desktop apps included in the "cloud first" strategy?**
   - Mobile and desktop apps are not affected at this point.
 
 **Q: Creating tickets for features that were cut from on-prem - Is this also how it continues to be tracked to see whether it's ready for the next release?**
-  - Any feature that's promoted out of the feature flag process would be turned on for the on-prem releases. That way on-prem only gets fully ready or tested features and not ones still being tested. There will be some cases where we need to make a change to fix or change something for the on-prem release (e.g. a bug that only happens if you use a certain on-prem setting or a certain database we don't use in cloud). In those cases the on-prem release might have some changes that are not a direct copy of the cloud build.
+  - Any feature that's promoted out of the feature flag process would be turned on for the on-prem releases. That way on-prem only gets fully tested features that are ready for release, and does not get the ones still being tested. There will be some cases where we need to make a fix or change something for the on-prem release (e.g., a bug that only occurs if you use a certain on-prem setting or a certain database we don't use in Cloud). In those cases the on-prem release might have some changes that are not a direct copy of the Cloud build.
 
-**Q: What information does the customer support team need for Cloud releases?**
-  - The Cloud Releases channel in the Staff team is used for release updates and for posting the changelog. This may be automated in the future. We're also planning to have a dashboard that shows the current version deployed to cloud, and which commits are in.
+**Q: What information does the Customer Support team need for Cloud releases?**
+  - The Cloud Releases channel in the Staff team is used for release updates and for posting the changelog. This may be automated in the future. We're also planning to have a dashboard that shows the current version deployed to Mattermost Cloud, and which commits are in.
 
 **Q: How will versioning work?**
-  - Version numbers will be less meaningful for Cloud. Proposing the name of this to be capabilities following the naming used by OpenGL. It's not whether or not a feature is enabled, but it's whether or not the server is capable of supporting the feature.
+  - Version numbers will be less meaningful for Mattermost Cloud. Proposing the name of this to be capabilities following the naming used by OpenGL. It's not whether or not a feature is enabled, but whether or not the server is capable of supporting the feature.
