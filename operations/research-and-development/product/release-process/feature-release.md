@@ -29,7 +29,7 @@ Day when Leads and PMs decide which major features are included in the release, 
 2. Release Manager:
     - Post this checklist in [Release Checklist](https://community.mattermost.com/core/channels/release-checklist) channel
     - Follow that feature PR reviews are prioritized and post a list of outstanding feature PRs in the [Release Discussion](https://community.mattermost.com/core/channels/release-discussion) channel as needed
-    - Prior to the cut to on-premise, the Release manager reviews new feature flags and provides a report to the PM/QA team for their review. Essentially a feature will be included in an on-prem release once the feature flag has been removed.
+    - Prior to the cut to Self-Managed, the Release manager reviews new feature flags and provides a report to the PM/QA team for their review. Essentially a feature will be included in a Self-Managed release once the feature flag has been removed.
          - Discuss turning off feature flags if severe bugs found
     - Confirm with PMs that each Enterprise feature is in the correct [pricing SKU](https://about.mattermost.com/pricing/)
     - Review any features that are currently in beta and confirm with PMs if there are any to be promoted
