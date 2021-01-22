@@ -41,7 +41,7 @@ Schedule for Mattermost Cloud releases:
  - (T-7): 1 week prior to the release day, master is fast-forwarded to the “cloud” branch.
  - (T-0): Release Day
 
-Schedule for on-prem releases:
+Schedule for Self-Managed releases:
  - (T-30): Feature Review/Judgment Day/Release branch cut
  - (T-9): RC1 Cut
  - (T-8 to T-7): RC testing and final QA testing
@@ -164,9 +164,9 @@ When triaging a bug report, consider the following:
 
   - Mobile and desktop apps are not affected at this point.
 
-**Q: Creating tickets for features that were cut from on-prem - Is this also how it continues to be tracked to see whether it's ready for the next release?**
+**Q: Creating tickets for features that were cut from Self-Managed - Is this also how it continues to be tracked to see whether it's ready for the next release?**
 
-  - Any feature that's promoted out of the feature flag process would be turned on for the on-prem releases. That way on-prem only gets fully tested features that are ready for release, and does not get the ones still being tested. There will be some cases where we need to make a fix or change something for the on-prem release (e.g., a bug that only occurs if you use a certain on-prem setting or a certain database we don't use in Cloud). In those cases the on-prem release might have some changes that are not a direct copy of the Cloud build.
+  - Any feature that's promoted out of the feature flag process would be turned on for the Self-Managed releases. That way Self-Managed only gets fully tested features that are ready for release, and does not get the ones still being tested. There will be some cases where we need to make a fix or change something for the Self-Managed release (e.g., a bug that only occurs if you use a certain Self-Managed setting or a certain database we don't use in Mattermost Cloud). In those cases the Self-Managed release might have some changes that are not a direct copy of the Mattermost Cloud build.
 
 **Q: What information does the Customer Support team need for Cloud releases?**
 
