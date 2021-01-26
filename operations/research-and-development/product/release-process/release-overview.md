@@ -106,7 +106,7 @@ When triaging a bug report, consider the following:
 
 **Q: When is release branch cut for a Self-Managed release?**
 
-  - A: Self-Managed releases are based off of Mattermost Cloud releases. For example, the Self-Managed v5.32.0 release is based off of the ``cloud-2021-01-26`` release tag. Currently the cadence is that the Mattermost Cloud shipped in the last week of a month will become the next Self-Managed release. The release branch for a Self-Managed release will be cut once the Mattermost Cloud release that will be used for the next Self-Managed release has been shipped.
+  - A: Self-Managed releases are based off of Mattermost Cloud releases. For example, the Self-Managed v5.32.0 release is based off of the ``cloud-2021-01-26`` release tag. Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next Self-Managed release. The release branch for a Self-Managed release will be cut once the Mattermost Cloud release that will be used for the next Self-Managed release has been shipped.
 
 **Q: How are PRs merged for release?**
 
