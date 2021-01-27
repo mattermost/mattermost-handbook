@@ -43,7 +43,7 @@ This is not a formal performance review. The intent is to align expectations and
 
 #### New Colleagues
 
-* Complete the 90-Day Self-Reflection in Culture Amp. An email invitation to complete your 90-Day Self-Reflection in Culture Amp will be sent during your third month at Mattermost. To complete the Self-Reflection, log in to Culture Amp > Performance > Inbox.   
+* Complete the 90-Day Self-Reflection in Culture Amp. An email invitation to complete your 90-Day Self-Reflection in Culture Amp will be sent during your third month at Mattermost. To complete the Self-Reflection, log in to **Culture Amp > Performance > Inbox**.
 
 #### Peers
 
