@@ -47,4 +47,4 @@ This is not a formal performance review. The intent is to align expectations and
 
 #### Peers
 
-* You will receive email invitations to share feedback about your new colleague. To complete your peer review, log in to Culture Amp > Perfomance > Inbox. Upward feedback may be requested if the new colleague is a people manager. 
+* You will receive email invitations to share feedback about your new colleague. To complete your peer review, log in to **Culture Amp > Performance > Inbox**. Upward feedback may be requested if the new colleague is a people manager.
