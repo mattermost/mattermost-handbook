@@ -19,7 +19,7 @@ Feedback is requested from the new colleague's peers throughout the 90-day Onboa
 ## Onboarding Feedback to Assess Post-Onboarding Readiness 
 
 ### Onboarding Surveys
-New staff will be invited to share feedback of their onboarding experience after 30 days of working at Mattermost. FT Staff will receive an invitation via email to complete the 30-Day Onboarding Survey in Culture Amp. Early feedback from new hires is a crucial way to gather insights about what is going well and what needs to be improved in the onboarding process. The feedback shared in the survey will help the People team identify key areas to focus on to continue making Mattermost a great place to work. 
+New staff will be invited to share feedback of their onboarding experience after 30 days of working at Mattermost. FT Staff will receive an invitation via email to complete the 30-Day Onboarding Survey in Culture Amp. Early feedback from new hires is a crucial way to gather insights about what is going well and what needs to be improved in the onboarding process. The feedback shared in the survey will help the People team identify key areas to focus on to continue making Mattermost a great place to work.
 
 ### New Staff Feedback Session with CEO and HR
 
