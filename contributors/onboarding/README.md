@@ -19,7 +19,7 @@ Feedback is requested from the new colleague's peers throughout the 90-day Onboa
 ## Onboarding Feedback to Assess Post-Onboarding Readiness 
 
 ### Onboarding Surveys
-TBD
+New staff will be invited to share feedback of their onboarding experience after 30 days of working at Mattermost. FT Staff will receive an invitation via email to complete the 30-Day Onboarding Survey in Culture Amp. Early feedback from new hires is a crucial way to gather insights about what is going well and what needs to be improved in the onboarding process. The feedback shared in the survey will help the People team identify key areas to focus on to continue making Mattermost a great place to work. 
 
 ### New Staff Feedback Session with CEO and HR
 
@@ -35,19 +35,16 @@ This is not a formal performance review. The intent is to align expectations and
 
 #### Managers
 
-* Complete a [new colleague peer panel form](https://www.surveymonkey.com/r/newcolleaguepanel) for the new staff member. Mattermost notifications are sent to managers on a new colleague's 75th date of employment. This kicks off the [review process](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#how-is-feedback-shared). 
-* Managers receive a unique link to track and view peer panel results after the survey is sent. 
-* People Ops share the new colleague's self-assessment with their manager once completed. 
-* Complete and share the [90-Day New Colleague Manager Feedback](https://docs.google.com/document/d/14eekRFrwZZILb7U9Xe1LXIlZf1PyOAnZpDSJE9_-niY/edit?userstoinvite=lauren%40mattermost.com&ts=5e8399b1&actionButton=1) with the new colleague and HR. 
-  * Note: HR files the review in BambooHR so a new colleague can access it at any time. Also, this review is part of the Post-Onboarding Readiness metric assessment. This review is not a [formal review](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50/formal-review-process).  
+* You will receive an email during your direct report's third month at Mattermost asking you to select a peer panel in Culture Amp. This kicks off the [review process](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#how-is-feedback-shared). 
+* Log in to Culture Amp > Performance > Inbox. Designate the peer panel to provide feedback about your new staff member. For new hires who are also people managers, direct reports may also be included in the peer panel to provide upward feedback about their manager.
+* You will be able to view the peer feedback and your new staff member's self-reflection when completing the manager portion of the 90-day review. 
+* Complete the 90-day Review and share it with your new staff member. Discuss the details of the review in a one-on-one. 
+  * Note: This review is part of the Post-Onboarding Readiness metric assessment. This review is not a [formal review](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50/formal-review-process).  
 
 #### New Colleagues
 
-* Complete the 90-Day New Colleague Self Assessment. Links to the assessments are below. Please select the link based on your hire date. A Mattermost notification is sent on day 75 with a reminder to complete the assessment. 
-  * [90-Day New Colleague Self-Assessment. Start dates: Nov. 2019 - Jan 2020](https://www.surveymonkey.com/r/90daySelfAssessmentQ4FY20). 
+* Complete the 90-Day Self-Reflection in Culture Amp. An email invitation to complete your 90-Day Self-Reflection in Culture Amp will be sent during your third month at Mattermost. To complete the Self-Reflection, log in to Culture Amp > Performance > Inbox.   
 
 #### Peers
 
-* Complete peer review via the Survey Monkey link you received or using one of the links below: 
-  * [Q4 FY20 New Colleagues](https://www.surveymonkey.com/r/90dQ4newcolleague) - Joined Mattermost between 1 November 2019 and 31 January 2020.
-  * [Q1 FY21 New Colleagues](https://www.surveymonkey.com/r/FY21Q190DNewColleague) - Joined Mattermost between 1 February 2020 and 30 April 2020.
+* You will receive email invitations to share feedback about your new colleague. To complete your peer review, log in to Culture Amp > Perfomance > Inbox. Upward feedback may be requested if the new colleague is a people manager. 
