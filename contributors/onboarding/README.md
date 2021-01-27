@@ -38,7 +38,7 @@ This is not a formal performance review. The intent is to align expectations and
 * You will receive an email during your direct report's third month at Mattermost asking you to select a peer panel in Culture Amp. This kicks off the [review process](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#how-is-feedback-shared). 
 * Log in to **Culture Amp > Performance > Inbox**. Designate the peer panel to provide feedback about your new staff member. For new hires who are also people managers, direct reports may also be included in the peer panel to provide upward feedback about their manager.
 * You will be able to view the peer feedback and your new staff member's self-reflection when completing the manager portion of the 90-day review. 
-* Complete the 90-day Review and share it with your new staff member. Discuss the details of the review in a one-on-one. 
+* Complete the 90-day review and share it with your new staff member. Discuss the details of the review in a one-on-one.
   * Note: This review is part of the Post-Onboarding Readiness metric assessment. This review is not a [formal review](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50/formal-review-process).  
 
 #### New Colleagues
