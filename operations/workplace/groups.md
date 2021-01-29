@@ -2,12 +2,12 @@
 
 This page describes different leadership groups at Mattermost.
 
-### Mattermost Leadership Team \(MLT\)
+## Mattermost Leadership Team \(MLT\)
 
 * Consists of department heads, typically VPs or select head of key functions.
 * Participates in [MLT Cadence ](../operations/mlt-cadence/)and associated channels.
 
-### Mattermost Leadership Team - Extended \(MXT\)
+## Mattermost Leadership Team - Extended \(MXT\)
 
 * Consists of MLT plus heads of key functions selected by MLT members to represent team.
 * Included in [MLT Extended](https://community.mattermost.com/private-core/channels/mlt--extended) channel.
@@ -17,8 +17,6 @@ This page describes different leadership groups at Mattermost.
 Members of any management group are expected to embody and model leadership values and our [remote principles](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost#we-run-as-a-distributed-high-performance-team-using-a-few-principles).
 
 ### Director group
-
-**What's new at Director level?**
 
 * **Strong ability to manage one or more functions with minimal direction:** Trusted to create their own context aligned to company priorities, circle back on critical questions, develop goals, 3-6 month plan, anticipate obstacles, cadence to deliver results quickly and effectively.
 * **Cultural role model:** Recognized as a leader who embodies mission, six leadership principles (know them by heart), and “customers, company, team, self” mindset. Everyone would agree that if we could clone this person 100 times we would be an amazing company.
