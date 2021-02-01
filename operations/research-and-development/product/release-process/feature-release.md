@@ -72,7 +72,7 @@ Day when Leads and PMs decide which major features are included in the release, 
 1. Release Manager:
     - Post this checklist in Release Checklist channel
     - Verify all items in the last posted release checklist are complete
-    - Post in the [Release: Self-Managed](https://community.mattermost.com/core/channels/release-discussion) channel the rough time when a release candidate will be cut
+    - Post in the [Release: Self-Managed](https://community.mattermost.com/core/channels/release-discussion) channel the rough timing when the release candidate will be cut
     - Cut a Release Candidate [using this process](https://github.com/mattermost/internal-docs/blob/63dcb6d0ff5d20ab9310466065dc15799b12708c/site/content/infra/release-tasks.md) and check CI servers running on release branch
     - Generate a list of contributors for changelog
     - Confirm doc submission
