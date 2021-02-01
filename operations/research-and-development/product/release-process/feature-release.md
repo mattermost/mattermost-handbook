@@ -28,7 +28,7 @@ Day when Leads and PMs decide which major features are included in the release, 
         - Also triage tickets in the backlog
 2. Release Manager:
     - Post this checklist in [Release Checklist](https://community.mattermost.com/core/channels/release-checklist) channel
-    - Follow that feature PR reviews are prioritized and post a list of outstanding feature PRs in the [Release Discussion](https://community.mattermost.com/core/channels/release-discussion) channel as needed
+    - Follow that feature PR reviews are prioritized and post a list of outstanding feature PRs in the [Release: Self-Managed](https://community.mattermost.com/core/channels/release-discussion) channel as needed
     - Prior to the cut to Self-Managed, the Release manager reviews new feature flags and provides a report to the PM/QA team for their review. Essentially a feature will be included in a Self-Managed release once the feature flag has been removed.
          - Discuss turning off feature flags if severe bugs found
     - Confirm with PMs that each Enterprise feature is in the correct [pricing SKU](https://about.mattermost.com/pricing/)
@@ -42,7 +42,7 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Review that [software requirements](https://docs.mattermost.com/install/requirements.html#software-requirements) are up-to-date based on [these step-by-step guidelines](https://handbook.mattermost.com/operations/research-and-development/product/development-process/software-requirements)
     - Ask PMs and Dev Leads if there are any notable breaking changes or deprecated features in the release
       - Update [Upgrade Guide](https://docs.mattermost.com/administration/important-upgrade-notes.html) with any special notes for upgrading to the new version
-      - If there are any breaking compatibility changes in the release, open an issue in the [GitLab Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab) to make sure GitLab is aware. Post a link to the issue in the Release Discussion channel
+      - If there are any breaking compatibility changes in the release, open an issue in the [GitLab Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab) to make sure GitLab is aware. Post a link to the issue in the ``Release: Self-Managed`` channel
     - Start posting a daily list of open and submitted bugs and PRs
     - Submit `NOTICE.txt` PRs for any new libraries added from dev, and ensure they are cherry-picked to feature release branch
     - Confirm that `NOTICE.txt` PRs, Translations PRs, database upgrade, and any needed pre-packaged plugins, backports, and recent regression fixes are included in the release
@@ -72,10 +72,11 @@ Day when Leads and PMs decide which major features are included in the release, 
 1. Release Manager:
     - Post this checklist in Release Checklist channel
     - Verify all items in the last posted release checklist are complete
+    - Post in the [Release: Self-Managed](https://community.mattermost.com/core/channels/release-discussion) channel the rough time when a release candidate will be cut
     - Cut a Release Candidate [using this process](https://github.com/mattermost/internal-docs/blob/63dcb6d0ff5d20ab9310466065dc15799b12708c/site/content/infra/release-tasks.md) and check CI servers running on release branch
     - Generate a list of contributors for changelog
     - Confirm doc submission
-    - Post list of tickets to be fixed to the Release Discussion channel ([see example](https://community.mattermost.com/core/pl/65k77x3bnigw5f9ffohfxonnfy))
+    - Post list of tickets to be fixed to the ``Release: Self-Managed`` channel ([see example](https://community.mattermost.com/core/pl/65k77x3bnigw5f9ffohfxonnfy))
     - Update the GitHub meta issue:
        - Include a link to the changelog on the documentation branch
        - Update download links and testing server links to the latest RCs
@@ -113,15 +114,15 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Confirm changelog reflects any changes since it was merged (including known issues and contributors from all repositories)
       - Confirm translators have been added
       - Confirm Open Source Components changes have been added
-    - Find [www-gitlab-com merge request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=blog%20post&label_name%5B%5D=release) for latest GitLab release blog post and make request for adding GitLab Mattermost update (see [example request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/2910#note_14096885), [example update](https://about.gitlab.com/2016/07/22/gitlab-8-10-released/#gitlab-mattermost-32)). Post to Release Discussion channel with link to request
+    - Find [www-gitlab-com merge request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=blog%20post&label_name%5B%5D=release) for latest GitLab release blog post and make request for adding GitLab Mattermost update (see [example request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/2910#note_14096885), [example update](https://about.gitlab.com/2016/07/22/gitlab-8-10-released/#gitlab-mattermost-32)). Post to ``Release: Self-Managed`` channel with link to request
     - Confirm the required URLs for the blog/release announcement were prepared
 3. QA:
-    - Update Release Discussion header with links to RC instances and testing spreadsheet ([template](https://docs.google.com/document/d/1UvTsvwZXmEL9QPjxmjoIkR2AcwGtOjql8cYRfk2N8eA/edit#bookmark=id.ghe4vz9zd1v))
-    - Post release testing instructions to Release Discussion channel ([template](https://docs.google.com/document/d/1UvTsvwZXmEL9QPjxmjoIkR2AcwGtOjql8cYRfk2N8eA/edit#bookmark=id.u28aar2hx7hg))
+    - Update ``Release: Self-Managed`` header with links to RC instances and testing spreadsheet ([template](https://docs.google.com/document/d/1UvTsvwZXmEL9QPjxmjoIkR2AcwGtOjql8cYRfk2N8eA/edit#bookmark=id.ghe4vz9zd1v))
+    - Post release testing instructions to ``Release: Self-Managed`` channel ([template](https://docs.google.com/document/d/1UvTsvwZXmEL9QPjxmjoIkR2AcwGtOjql8cYRfk2N8eA/edit#bookmark=id.u28aar2hx7hg))
     - Post reminders in Announcements channel ([template](https://docs.google.com/document/d/1UvTsvwZXmEL9QPjxmjoIkR2AcwGtOjql8cYRfk2N8eA/edit#bookmark=id.pirw51cwsja5)) and Customer Support channel ([template](https://docs.google.com/document/d/1UvTsvwZXmEL9QPjxmjoIkR2AcwGtOjql8cYRfk2N8eA/edit#bookmark=id.ke0fh13gidni))
     - DM reminders to team members who are not QA or devs, or who are new to release testing
     - Midday: Post reminders about testing, at-mentioning team members whose tests are not yet complete
-    - At end of day, post reminders about release testing in Release Discussion and Announcements channels, DM any team members who have zero test cells marked **Done**
+    - At end of day, post reminders about release testing in ``Release: Self-Managed`` and Announcements channels, DM any team members who have zero test cells marked **Done**
     - Find QA or other teammates to help finish unfinished tests if needed
     - End of day or next morning: Verify all release tests are finished, bring any concerns to Triage/Release meeting
     - Go through all tabs of testing spreadsheet and verify all comments and questions have been filed in Jira as needed
@@ -177,12 +178,12 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
     - Verify all PRs and tickets for the release have been tested/closed
     - Verify Selenium server was put on final RC and build passed
     - Verify smoke tests on webapp/server, desktop app, and RN apps all passed
-    - Post QA approval in Release Discussion channel
+    - Post QA approval in ``Release: Self-Managed`` channel
 3. Build:
     - Update Redux before each RC and Final build
     - Tags a new release (e.g. 1.1.0) and runs an official build which should be essentially identical to the last RC
-    - Posts SHA key, md5 sum, and GPG signatures of the final build to Release Discussion channel
-    - Post in Release Discussion with links to the Enterprise Edition and Team Edition sections
+    - Posts SHA key, md5 sum, and GPG signatures of the final build to ``Release: Self-Managed`` channel
+    - Post in ``Release: Self-Managed`` with links to the Enterprise Edition and Team Edition sections
 4. Dev:
     - Verify the hashes (SHA-1, SHA-256, and md5) and GPG signatures are correct for both Enterprise Edition and Team Edition
     - Test upgrade from previous version to current version, following the [Upgrade Guide](http://docs.mattermost.com/administration/upgrade.html#upgrade-guide) with database upgrades on both MySQL and Postgres
@@ -220,7 +221,7 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
     - Post the MVP winner announcement in the [Contributors channel](https://community.mattermost.com/core/channels/tickets)
       - Update [MVP page](https://www.mattermost.org/mvp/) with the most valued professional of the release
     - Add new release fix versions in Jira for the next few releases
-    - Post key dates for the next release in the Release Discussion channel and remove links to RC candidates and testing spreadsheet from the header
+    - Post key dates for the next release in the ``Release: Self-Managed`` channel and remove links to RC candidates and testing spreadsheet from the header
         - Make sure that statutory holidays for Canada and US are accounted for in the release dates
     - Check for any [UserVoice](https://docs.google.com/spreadsheets/d/1nljd4cFh-9MXF4DxlUnC8b6bdqijkvi8KHquOmK8M6E/edit#gid=0) feature suggestions that were completed in the current release
       - Find the [release tweet](https://twitter.com/mattermosthq/status/854781715914555393) and insert a link to the tweet next to the feature that shipped with the release
