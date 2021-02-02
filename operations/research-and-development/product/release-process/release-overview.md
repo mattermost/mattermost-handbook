@@ -57,6 +57,24 @@ Schedule for Self-Managed releases:
 6. Self-Managed release candidate is smoke tested.
 7. Self-Managed release final is cut and released publicly.
 
+## Release Dates Communication
+
+Release dates are currently communicated in the following places. Iteration may be done in the future.
+
+1. **Channels**
+ - The Release Announcements channel functions as the main location for important announces about new releases, release branches cut, release candidates and test server updates, release dates and feature complete deadlines. Specific team or people may be mentioned if the announce is specific to someone. 
+ - The Announcements channel functions as the central place to find the most important announcements for new releases with links to blog posts that can be easily shared with external stakeholders including MLT/community/customers.
+2. **Mattermost Release Dates Calendar** - List key release dates and deadlines.
+3. **PM meetings** - Updates are provided on upcoming key dates and features.
+
+**Patterns**
+ - The Cloud releases follow a 2-week cycle and the release day is on Wednesdays. Feature Complete for each release is roughly 9 days prior to the release day on Mondays.
+ - The Mobile App releases follow the same schedule as Self-Managed releases.
+ - Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next Self-Managed release. The release branch for a Self-Managed release (e.g. release-5.32) will be cut once the Mattermost Cloud release that will be used for the next Self-Managed release has been shipped.
+
+Add a sample illustration of dates.
+
+
 ## Tracking Feature Flags
 
 Release Manager is able to look at the version we have deployed to Mattermost Cloud. Also, when we are hooked up to split.io, there will be a dashboard where you can see active and historic feature flags. Any feature that has its flag removed would be included on any Self-Managed releases past the point after that removal was merged. More details on feature flags: https://developers.mattermost.com/contribute/server/feature-flags/.
