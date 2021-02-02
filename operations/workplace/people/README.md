@@ -107,3 +107,11 @@ If you are a U.S. staff member and on payroll through TriNet, see [TriNet Contac
 > * The People Ops team uses BambooHR to store staff information, records and important documents, for HR reporting and analytics, and to create new hire onboarding and offboarding workflows.
 > * Staff use BambooHR to update their personal and emergency contact information, and to reference the organizational chart and staff directory.
 > * To access the system go to [https://mattermost.bamboohr.com/](https://mattermost.bamboohr.com/) and use your Mattermost credentials to log in.
+
+### Culture Amp
+
+> * Culture Amp is our Engagement and Performance Platform.
+> * The People team uses Culture Amp to gain insight across the employee experience, using employee engagement surveys, continuous feedback, 360 reviews, and goal tracking. 
+> * Staff use Cuture Amp for performance reviews such as 90-day reviews and 360 performance reviews, for engagement and employee experience surveys, and goal tracking.
+> * To access the system go to [Culture Amp](https://mattermost.cultureamp.com) or [OneLogin](https://mattermost.onelogin.com)
+> * Note that as of March 2021, Culture Amp will not be supporting Internet Explorer 11.
