@@ -22,15 +22,16 @@ Notes:
 
 ### B. (T-minus 3 working days) Release Candidate Cut
 
-1. Build:
-    - Verify with Release Manager before cutting any new dot release RCs (approved fixes should be merged)
+1. Release Manager:
+    - Post in the [Release: Self-Managed](https://community.mattermost.com/core/channels/release-discussion) channel the rough timing when the release candidate will be cut
+    - Cut a Release Candidate and check CI servers running on release branch
     
 ### C. (T-minus 2 working days) Release Candidate Testing
 
 1. QA:
     - If the dot release takes place during a regular release, update ``prev.test.mattermost.com`` to dot-release RCs for the previous release and keep ``rc.test.mattermost.com`` on the latest regular release version
     - Test the new RC to verify fixes merged to the release branch work
-    - Post in Release Discussion channel after testing
+    - Post in ``Release: Self-Managed`` channel after testing
 
 ### D. (T-minus 0 working days) Release Build Cut
 
