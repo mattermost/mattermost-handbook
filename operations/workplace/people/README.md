@@ -52,7 +52,7 @@ Description: >-
 HR
 
 * 🧑@natalie.jew - [Natalie Jew](https://mattermost.bamboohr.com/employees/employee.php?id=174&page=2077) - Director of HR
-* 🧑@lynn.conway - [Lynn Conway](https://mattermost.bamboohr.com/employees/employee.php?id=207&page=2077) - HR Generalist
+* 🧑@lynn.conway - [Lynn Conway](https://mattermost.bamboohr.com/employees/employee.php?id=207&page=2077) - People Partner
 
 Recruiting
 
@@ -111,7 +111,7 @@ If you are a U.S. staff member and on payroll through TriNet, see [TriNet Contac
 ### Culture Amp
 
 > * Culture Amp is our Engagement and Performance Platform.
-> * The People team uses Culture Amp to gain insight across the employee experience, using employee engagement surveys, continuous feedback, 360 reviews, and goal tracking. 
+> * The People team uses Culture Amp to gain insight across the employee experience, using employee engagement surveys, continuous feedback, 360 reviews, and goal tracking.
 > * Staff use Cuture Amp for performance reviews such as 90-day reviews and 360 performance reviews, for engagement and employee experience surveys, and goal tracking.
-> * To access the system go to [Culture Amp](https://mattermost.cultureamp.com) or [OneLogin](https://mattermost.onelogin.com)
+> * To access the system go to [Culture Amp](https://mattermost.cultureamp.com) or [OneLogin](https://mattermost.onelogin.com).
 > * Note that as of March 2021, Culture Amp will not be supporting Internet Explorer 11.
