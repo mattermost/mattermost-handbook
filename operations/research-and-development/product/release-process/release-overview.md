@@ -59,21 +59,20 @@ Schedule for Self-Managed releases:
 
 ## Release Dates Communication
 
-Release dates are currently communicated in the following places. Iteration may be done in the future.
+Release dates are currently communicated in the following ways. Further iteration and improvements on this process can be done in the future.
 
 1. **Channels**
- - The Release Announcements channel functions as the main location for important announces about new releases, release branches cut, release candidates and test server updates, release dates and feature complete deadlines. Specific team or people may be mentioned if the announce is specific to someone. 
- - The Announcements channel functions as the central place to find the most important announcements for new releases with links to blog posts that can be easily shared with external stakeholders including MLT/community/customers.
-2. **Mattermost Release Dates Calendar** - List key release dates and deadlines.
+ - The [Release Announcements channel](https://community.mattermost.com/core/channels/release-announcements) functions as the main location for important announces about new releases, release branches cut, release candidates and test server updates, and release dates and feature complete deadlines. Specific teams or people may be at-mentioned if the announce is targeted to someone.
+ - The [Announcements channel](https://community.mattermost.com/private-core/channels/announcements) functions as the central place to find the most important announcements for new releases with links to blog posts that can be easily shared with external stakeholders including MLT and customers.
+2. **Mattermost Release Dates Calendar** - Lists key release dates and deadlines.
 3. **PM meetings** - Updates are provided on upcoming key dates and features.
 
-**Patterns**
- - The Cloud releases follow a 2-week cycle and the release day is on Wednesdays. Feature Complete for each release is roughly 9 days prior to the release day on Mondays.
+**Understanding the Cadence**
+ - The Mattermost Cloud releases follow a 2-week cycle and the release day is normally on Wednesdays. Feature Complete deadline for each Mattermost Cloud release is on Mondays 9 days prior to the release day.
  - The Mobile App releases follow the same schedule as Self-Managed releases.
  - Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next Self-Managed release. The release branch for a Self-Managed release (e.g. release-5.32) will be cut once the Mattermost Cloud release that will be used for the next Self-Managed release has been shipped.
 
-Add a sample illustration of dates.
-
+![Release Cadence Illustration](../../../.gitbook/assets/release-dates.png)
 
 ## Tracking Feature Flags
 
