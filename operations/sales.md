@@ -8,6 +8,7 @@ description: 50% complete
 
 * [Sales Operations Handbook](https://docs.google.com/document/d/1W3Yb3h7ZQ6oq0NhxPuUEjS6-u34spvdkg8VtUToxNQg/edit?usp=sharing_eil&ts=5d9bf9a6)
 * [Rude Q&A](https://docs.google.com/document/d/1O-4GpdjKpUK5Bw2I9hYyFFNqlgKRjarjgnytcw_9-BY/edit) - Talking points on questions from competitors and detractors (internal discussions only) 
+* [2021 Sales Playbook Update](https://drive.google.com/drive/u/1/folders/1hdhIvaHkohpa5c1ttvTY-kQRir4iiylY) - For internal use only
 
 ## Sales Definitions
 
