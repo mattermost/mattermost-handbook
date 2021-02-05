@@ -6,7 +6,7 @@ The Mattermost Finance Team prepares and reviews budgets by department annually.
 
 Due to sensitivity of budgets, only MLT has visibility into their budgets for the departments they oversee. If you are uncertain if your vendor spending is approved in the budget, you can either reach out to your MLT member or Finance at spend@mattermost.com.
 
-Spend that is already approved should follow the [Procurement Process](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract) by submitting a purchase order request form.
+Spend that is already approved should follow the [Procurement Process](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract) by submitting a [purchase order in Accrualify](https://handbook.mattermost.com/operations/finance/spending-company-money/how-to-use-accrualify/how-to-submit-a-po).
 
 ## Off Cycle Budget Approval
 
