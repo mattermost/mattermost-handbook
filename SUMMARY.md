@@ -131,7 +131,7 @@
 * [Finance](operations/finance/README.md)
   * [Budget](operations/finance/spending-company-money/budget.md)
   * Purchasing
-    * [Purchase Submission Request](/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract.md)
+    * [Purchase Submission Request](company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract.md)
     * [Virtual Credit Card](company/how-to-guides-for-staff/how-to-purchase/request-a-divvy-virtual-credit-card.md)
     * Contracts and Signing
     * How-to Guides
