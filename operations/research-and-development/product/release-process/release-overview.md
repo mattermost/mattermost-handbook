@@ -76,7 +76,7 @@ Release dates are currently communicated in the following ways. Further iteratio
  - Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next Self-Managed release. The release branch for a Self-Managed release (e.g. ``release-5.32``) will be cut once the Mattermost Cloud release that will be used for the next Self-Managed release has been shipped.
  - This cadence is subject to change in the future and any changes will be documented and announced.
 
-![](../../.gitbook/assets/release-dates.png)
+![](../../../../.gitbook/assets/release-dates.png)
 
 ## Tracking Feature Flags
 
