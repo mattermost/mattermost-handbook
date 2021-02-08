@@ -57,6 +57,27 @@ Schedule for Self-Managed releases:
 6. Self-Managed release candidate is smoke tested.
 7. Self-Managed release final is cut and released publicly.
 
+## Release Dates Communication
+
+Release dates are currently communicated in the following ways. Further iteration and improvements on this process can be done in the future.
+
+1. Channels
+  - The [Release Announcements channel](https://community.mattermost.com/core/channels/release-announcements) functions as the main location for important announces about new releases, release branches cut, release candidates and test server updates, and release dates and feature complete deadlines. Specific teams or people may be at-mentioned if the announce is targeted to someone.
+  - The [Announcements channel](https://community.mattermost.com/private-core/channels/announcements) functions as the central place to find the most important announcements for new releases with links to blog posts that can be easily shared with external stakeholders including MLT and customers.
+2. Mattermost Release Dates Calendar
+  - Lists key release dates and deadlines.
+3. PM and R&D meetings 
+  - Updates are provided on upcoming key dates and/or features.
+
+**Understanding the Cadence**
+
+ - The Mattermost Cloud releases follow a 2-week cycle and the release day is normally on Wednesdays. Feature Complete deadline for each Mattermost Cloud release is on Mondays 9 days prior to the release day.
+ - The Mobile App releases follow the same schedule as Self-Managed releases.
+ - Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next Self-Managed release. The release branch for a Self-Managed release (e.g. ``release-5.32``) will be cut once the Mattermost Cloud release that will be used for the next Self-Managed release has been shipped.
+ - This cadence is subject to change in the future and any changes will be documented and announced.
+
+![Release Cadence Illustration](../../../../.gitbook/assets/release-dates.png)
+
 ## Tracking Feature Flags
 
 Release Manager is able to look at the version we have deployed to Mattermost Cloud. Also, when we are hooked up to split.io, there will be a dashboard where you can see active and historic feature flags. Any feature that has its flag removed would be included on any Self-Managed releases past the point after that removal was merged. More details on feature flags: https://developers.mattermost.com/contribute/server/feature-flags/.
