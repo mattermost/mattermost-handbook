@@ -18,7 +18,7 @@ The Mattermost Technical Writers focus primarily on writing, editing, and mainta
   * Self-serve customer journey
 * Documentation metrics
   * Docs page ratings via Google Analytics
-  * Google Analytics metrics for page visits, read times and bounce rates
+  * Google Analytics metrics for page visits, read times, and bounce rates
 * Consultation and guidance for R&D feature team release documentation
   * Contributing to product documentation
   * Writing MVP documentation
@@ -30,7 +30,7 @@ The Mattermost Technical Writers focus primarily on writing, editing, and mainta
   * Community Help Wanted doc issues
 * Content and processes
   * Documentation Handbook and Style Guide maintenance
-  * Documentation processes for Integrations and DOCC teams
+  * Documentation processes for Integrations and Workflows teams
 
 The following areas remain a collaborative effort between Product Managers, Engineers, and Technical Writers until additional headcount is reached. Please reach out to the [Documentation Working Group](https://community.mattermost.com/private-core/channels/dwg-documentation-working-group) for any questions.
 
@@ -186,22 +186,41 @@ We really want the community to own the docs as much as possible. In light of th
 
 If your documentation request/issue applies to a repository other than *mattermost/docs*, you can use the **Docs Needed** and **Editor Review** labels and/or ping @justinegeffen or @amyblais.
 
+### i18n Contributions
+
+**Note: This process is a 1% draft.***
+
+Our User's Guide and Administrator's Guide are available for translation contributions. Join the [i18n channel](https://community.mattermost.com/core/channels/localization) on our Community server and connect with our translation community members. The documentation translation process is still being defined.
+
+Currently, submitting a translation PR follows the same writing and editing process as other PRs. However, there are additional considerations to bear in mind when submitting your PR as these assist with the approval and merge process:
+
+1. Do you have an active test instance running with the integrations guide translated so we can validate the rendering and formatting?
+2. If the content you're translating includes screenshots should we keep the original English versions of the screenshots, or consider translated versions of them too?
+3. If the intention is to translate the screenshots, is there a proposed process for keeping them up to date?
+4. Have at least one member of UX team and one member of Apps PM team review the user experience in choosing different languages.
+5. To maintain high standards for translated documentation, set up a process to notify translators when something is changed in the English-version of the docs, and expectation on correcting translations for new releases.
+6. Decide if we want to indicate translations level - e.g. “Alpha” or “Beta” for translations that are in progress.
+7. Test you can successfully rate a translated docs page by selecting a rating emoji. Ping @justine.geffen for validation of this.
+
 ## General Contribution Workflow
 
 ### Jira Tickets
 
-The [Technical Writing Jira board](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=80) is a snapshot of the current Technical Writing workload. Feature and release writing is planned three sprints in advance. This ensures that ad-hoc work can be taken on.
+The [Technical Writing Jira board](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=80) is a snapshot of the current Technical Writing workload. 
 
 If you have a feature, UI copy, or general documentation requirement, please create a ticket and include the following fields:
 
 * Label: Documentation
 * Team: Tech Writing
+* Assign the ticket to the relevant writer.
+* If required, select a due date, sprint, and mana.
+
+For best results, please include as much content, context, and detail as possible.
 
 **Jira Turnaround Time**
 
-If the Jira ticket is for documentation related to a release, the documentation needs to be complete at least 10 days prior to release. Please ensure you allow sufficient time for your request to be completed or it will be moved to the next available slot.
-
-If the Jira ticket is for general documentation, depending on the current workload, you can generally expect it to be completed within five business days.
+* If the Jira ticket is for documentation related to a release, the documentation needs to be complete at least 10 days prior to release. Please ensure you allow sufficient time for your request to be completed or it will be moved to the next available slot.
+* If the Jira ticket is for general documentation, depending on the current workload, you can generally expect it to be completed within five business days.
 
 ### Editing Requests
 
@@ -216,23 +235,6 @@ Editorial feedback is based on the guidelines laid out in the [Documentation Sty
 ### Formatting and Style Guide
 
 The [Documentation Style Guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide) and [UI text guidelines](https://docs.mattermost.com/process/documentation-UItext-guidelines.html).
-
-### Customer Education Processes
-
-### Resolve gaps and painpoints among customers
-
-To identify, rank, and resolve customer pain points. Priority is based on customer impact, measured by an increase in enterprise 90-day onboarding NPS, and post-sales technical onboarding without R&D involvement.
-
-#### Identify
-
-* Monitor support tickets and get regular feedback from Support Engineers through the Support channel
-* Ensure information flow with Solution Architects and Customer Success Managers (e.g. by receiving a regular report)
-* Use existing communication structures between Customer Support and Customer Success to avoid overhead
-
-#### Ranking
-
-* Use existing metrics (e.g. priority and customer revenue) from the ticket system to rank identified issues
-* Compare Customer Support time put into issues to generated revenue for high impact
 
 ## Community Documentation Involvement
 

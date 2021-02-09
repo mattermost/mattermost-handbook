@@ -20,7 +20,7 @@ description: >-
   * Closing a Deal
   * Request a sales related feature
 * Customer Success related: @emily.hollinger
-* Everything else:[ BizOps](https://community.mattermost.com/private-core/channels/bizops) or @michael.schiff
+* Everything else: [BizOps](https://community.mattermost.com/private-core/channels/bizops)
 
 ## Salesforce Instances
 

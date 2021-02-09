@@ -75,8 +75,8 @@ Some terms used in Mattermost may be technical. If you don't know how to transla
 
 * If applicable, check how the term has been translated in other locations of the translation you are contributing to.
 * Use a translation engine to know how others have translated the term.
-* Use the `Microsoft open linguistic portal <https://www.microsoft.com/en-us/language/Search>`_.
-* Ask your question on the `Mattermost localization channel <https://community.mattermost.com/core/channels/localization>`_.
+* Use the [Microsoft open linguistic portal](https://www.microsoft.com/en-us/language/Search).
+* Ask your question on the [Mattermost localization channel](https://community.mattermost.com/core/channels/localization).
 
 Test Translations
 -----------------
@@ -120,7 +120,7 @@ If you're interested in contributing to the process, please join the [Mattermost
 
 | Language | Official Reviewer(s) | Maintainers  |  
 |:----------|:----------------------|:--------------|
-| Deutsch - German | [Christian Arnold (meilon)](https://github.com/meilon) | [Tim Estermann (der-test)](https://github.com/der-test) |
+| Deutsch - German | TBD (Open Role) |
 | Español - Spanish| [Elias Nahum (enahum)](https://github.com/enahum)| [Jesús Espino](http://github.com/jespino) |
 | Français - French| [William Gathoye (wget)](https://github.com/wget) |              |
 | Italiano - Italian | [Michael Longo (mlongo4290)](https://github.com/mlongo4290) | [Ema Panz (thepanz)](https://github.com/thepanz)|
@@ -130,6 +130,7 @@ If you're interested in contributing to the process, please join the [Mattermost
 | Polski - Poland| [Daniel Burzmiński (hectorskypl)](https://github.com/hectorskypl)| [Tomasz Gruca (gruceqq)](https://translate.mattermost.com/user/gruceqq) |
 | Português do Brasil - Portuguese|[Rodrigo Corsi (rodcorsi)](https://github.com/rodcorsi)| [Carlos Tadeu Panato Junior (cpanato)](https://github.com/cpanato) |
 | Română - Romanian| [Viorel-Cosmin Miron (uhlhosting)](https://github.com/uhlhosting)||
+| Svenska - Swedish| [Martin Johnson](https://github.com/johnsonbrothers)|  | |
 | Türkçe - Turkish| [Kaya Zeren](https://twitter.com/kaya_zeren)| | |
 | Pусский - Russian| [Alexey Napalkov](https://github.com/flynbit) | |
 | Yкраїнська - Ukrainian| TBD (Open Role)| | 

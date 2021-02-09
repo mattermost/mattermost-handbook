@@ -102,7 +102,7 @@ Below is the list of members mapped to each role mentioned as an approved respon
 * CPO: Chandar Venkatamaran
 * VP Eng: Chris Overton
 * VP Finance: Aneal Vallurupalli
-* VP Marketing: Ken Olofsen
+* VP Marketing: Ian Tien (interim)
 * Director of HR: Natalie Jew
 * Lead PM: Katie Wiersgalla
 * Head of Legal: Aneal Vallurupalli

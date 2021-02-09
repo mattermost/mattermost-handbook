@@ -11,19 +11,17 @@ The release plan may include major bugs, smaller features and even tasks require
 When we add items to a release, we are targeting their completion by that release, however, things such as underestimation of work required or quality issues found during testing may prevent it from actually being released.
 
 * If a feature is at risk being cut from a release after it was targeted, we do our best to communicate to all those interested as soon as possible. Typically, the PM team reviews and updates the release plan weekly.
-* If a feature is cut from a release, it is not necessarily put into the next feature release. There may be unforeseen complications that need to be solved before it can be considered that may take multiple release cycles to address. Other work may be deemed higher priority and it may be deprioritized to be considered later. 
+* If a feature is cut from a release, it is not necessarily put into the next release. There may be unforeseen complications that need to be solved that may take multiple release cycles to address. In some cases, other work may be deemed higher priority and the feature will be deprioritized and considered at a later stage.
 
 PMs will do their best to communicate next steps for features that are cut.
 
 ## Release Philosophy
 
-We follow a time-based release philosophy. This means we release a new version of our Mattermost product every month on the 16th. On even-numbered months (February, April, June, August, October, and December) we release new features in our product. On odd-numbered months (January, March, May, July, September, and November), we do not release features, but improve the quality and stability of features previously released by only releasing bug fixes. 
+We follow a time-based release philosophy. This means we release a new version of our Mattermost product every month on the 16th.
 
-### Quality Releases
+### Extended Support Releases
 
-We recommend customers who value stability, to upgrade following our quality or odd-numbered releases. Each month’s release includes a [release blog](https://mattermost.com/blog/category/releases/), which highlights features or improvements and updates to our [changelog](https://docs.mattermost.com/administration/changelog.html), where all changes can be viewed for the release.
-
-Our quality releases for January and July, are offered as an [Extended Support Releases (ESR)](https://docs.mattermost.com/administration/extended-support-release.html). This type of release allows customers to receive backports for security fixes and bug fixes without having to upgrade to a version with new functionality that would require significant testing and certification before rolling to large volume of users. We also do dot releases for major bugs and security fixes and backport these to the previous three monthly releases. For more information on our release types and processes please see this [documentation](https://handbook.mattermost.com/operations/research-and-development/product/release-process/release-overview).
+Our releases for January and July are offered as an [Extended Support Releases (ESR)](https://docs.mattermost.com/administration/extended-support-release.html). This type of release allows customers to receive backports for security fixes and bug fixes without having to upgrade to a version with new functionality that would require significant testing and certification before rolling to large volume of users. We also do dot releases for major bugs and security fixes and backport these to the previous three monthly releases. For more information on our release types and processes please see this [documentation](https://handbook.mattermost.com/operations/research-and-development/product/release-process/release-overview).
 
 ## Major Versions
 

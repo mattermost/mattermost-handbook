@@ -6,9 +6,7 @@ description: 1% DRAFT
 
 ## Overview
 
-### Purpose of Playbook
-
-The purpose of this playbook is to provide more details on the Product Manager role, processes, and relations to other functions within the organization to foster success for employees in this role. This playbook may be shared with other functional areas so other employees may gain a better understanding of the Product Manager role, thereby having a greater understanding for responsibilities and interaction areas.
+The purpose of this handbook is to provide more details on the Product Manager role, processes, and relations to other functions within the organization to foster success for employees in this role. This handbook may be shared with other functional areas so other employees may gain a better understanding of the Product Manager role, thereby having a greater understanding for responsibilities and interaction areas.
 
 ### Change Log
 
@@ -114,9 +112,9 @@ Before diving too deeply into docs, processes, and everything else - take this c
 A good place to start is exploring the websites, and then see if you can find a way to install a version of Mattermost to try it out.
 
 * Google Mattermost
-* [https://mattermost.com/](https://mattermost.com/)
-* [https://docs.mattermost.com/](https://docs.mattermost.com/) \(User, Admin, Integrations guides\)
-* [https://developers.mattermost.com/](https://developers.mattermost.com/)
+* [https://mattermost.com](https://mattermost.com/)
+* [https://docs.mattermost.com](https://docs.mattermost.com/) \(User, Admin, Integrations guides\)
+* [https://developers.mattermost.com](https://developers.mattermost.com/)
 * [http://github.com/mattermost](http://github.com/mattermost)
 * [https://www.mattermost.com/demo](https://www.mattermost.com/demo)
 
@@ -158,7 +156,7 @@ Activities:
 Customer Obsession:
 
 * Join and introduce yourself in these channels, ask to join any and all customer calls - see if you can get a couple scheduled this week:
-  * [CSM:PM Engagement](https://community.mattermost.com/private-core/channels/csmpm-engagement) \(Stu, Emily, Rosie, Jenn\)
+  * [CSM:PM Engagement](https://community.mattermost.com/private-core/channels/csmpm-engagement) \(Stu, Emily, Jenn\)
   * [Solution Architects](https://community.mattermost.com/private-core/channels/solutions-architects)
   * [Pre-Sales Support](https://community.mattermost.com/private-core/channels/pre-sales-support)
 * Join and review the topics and posts in these channels to get a better understanding of our customers
@@ -173,11 +171,11 @@ Team:
   * Ask questions to understand development, design, QA processes
 * Meet with Amy \(Release Manager\) and read the release process doc
 * Meet with Ian \([https://github.com/it33/readme/blob/master/README.md](https://github.com/it33/readme/blob/master/README.md/)\). This will be scheduled for you
-* Meet other Product Managers \(Jason Blais, Eric Sethna, Katie Wiersgalla, Aaron Rothschild, Dennis Kittrell, Eric Sadur, Adam Clarkson, Ian Tao\)
+* Meet other Product Managers \(Jason Blais, Eric Sethna, Katie Wiersgalla, Aaron Rothschild, Eric Sadur, Adam Clarkson, Ian Tao\)
   * Learn about their areas of ownership
 * Participate in PM, R&D, and Customer Obsession Meetings
 * Jira
-  * Sign up to Jira and post in the “Jira configuration” channel to be added to internal team\)
+  * Sign up to Jira and post in the “Jira configuration” channel to be added to internal team
   * Get Jira training from PM buddy
     * [Customer Requests](https://mattermost.atlassian.net/projects/CR/issues/CR-16?filter=allopenissues)
     * [Mattermost Platform](https://mattermost.atlassian.net/projects/MM/issues/MM-10977?filter=allopenissues)
@@ -185,7 +183,7 @@ Team:
   * Update documentation or product help text
 * Small contributions
   * File a bug in Jira
-  * Test a new feature on a test server, and suggest an improvement
+  * Test a new feature on a test server and suggest an improvement
   * Leave feedback on a design proposal
 
 Readings:
@@ -217,7 +215,7 @@ Activities:
       * Meet with Sven for Zendesk training and support overview
       * Join support standups for a week or two, and help out on support tickets
     * Community: GitHub, Forums \(Amy\)
-  * Customer success \(Meet with a CSM - Jennifer Lawler, Jeff Johnson, Sasa Cosic, Rosie Lane\)
+  * Customer success \(Meet with a CSM - Jennifer Lawler, Jeff Johnson, Sasa Cosic\)
     * Overview of Customer Success team, who owns what
     * Current Customer Success processes
     * Typical challenges during customer onboarding
@@ -226,7 +224,7 @@ Activities:
     * Join calls with CSMs
     * Join calls with Sales team
   * Feature requests
-    * Uservoice forums - [https://mattermost.uservoice.com/](https://mattermost.uservoice.com/)
+    * [Uservoice forums](https://mattermost.uservoice.com/)
     * [Process feedback in productboard](https://mattermost.productboard.com/insights/shared-inbox) 
   * Learn about the market
   * Sales \(Regional VPs and Customer Engineers\)
@@ -250,7 +248,7 @@ Activities:
 * Spend a couple weeks joining as many customer and prospect calls as possible
   * Take detailed notes and log in [Salesforce](https://handbook.mattermost.com/operations/customer-success#logging-a-customer-feedback-in-salesforce)
 * Learn about the product
-  * Product Direction \(Lindsay, Product Lead\)
+  * Product Direction \(Product Lead\)
     * [Company VPMOM](https://handbook.mattermost.com/operations/operations)
     * [R&D V2MOM](https://docs.google.com/document/d/18tK7XmW2fGaUP2otiItHKcHyMGUf3kgnZxOQM6WB4zM/edit)
     * Public Roadmap \(Staff Team &gt; [Roadmap channel](https://community.mattermost.com/private-core/channels/roadmap)\)
@@ -263,10 +261,10 @@ Activities:
       * Typical customer deployment
         * Sizing recommendations
   * Product areas: Functional Overview and Roadmap
-    * End user experience (\Desktop, Web, and Mobile client applications\) \(Eric Sethna\)
+    * End user experience \(Desktop, Web, and Mobile client applications\) \(Eric Sethna\)
     * Cloud \(Adam Clarkson\)
     * App Marketplace and Developer Toolkit \(Aaron Rothschild\)
-    * Enterprise-grade \(Platform, Admin Console\) \(Dennis Kittrell\)
+    * Enterprise \(Platform, Admin Console\) \(Katie Wiersgalla\)
     * Product-centric GTM \(Customer Portal, Customer Journey\) \(Eric Sadur\)
     * Workflows \(Ian Tao\)
     * Community \(Jason Blais\)
@@ -280,7 +278,7 @@ Activities:
   * High level overview \(PM buddy\)
     * Team structure
     * [Development process overview](https://docs.mattermost.com/process/overview.html)
-  * Team specific processes \(PM buddy\)
+  * Team-specific processes \(PM buddy\)
     * Team Triage
     * Sprint Planning
     * OKRs
@@ -393,7 +391,7 @@ Activities:
 * Determine Packaging/SKU \(E10 & E20\)
   * TE OR EE
     * [https://docs.mattermost.com/overview/product.html\#mattermost-editions](https://docs.mattermost.com/overview/product.html#mattermost-editions) 
-  * In-Code: if \(this.props.buildEnterpriseReady && this.props.isLicensed
+  * In-Code: if \(this.props.buildEnterpriseReady && this.props.isLicensed\)
   * Review with PM team and get approval from other leads as required
 
 ### Feature Development and The Release Process
@@ -401,11 +399,11 @@ Activities:
 #### Triage
 
 * Participate in daily Triage meetings \(not mandatory to join every meeting\)
-* Validate “Won’t fix”, “Won’t do” tickets.  Provide a final comment of approval so ticket can be closed by QA
+* Validate “Won’t fix”, “Won’t do” tickets. Provide a final comment of approval so ticket can be closed by QA
 * Ensure tickets are assigned to teams and assigned a fix version
   * Jira Fix Version = “unscheduled” means ticket has enough information to be developed, but is not assigned to a specific release version
 * Assist in identifying [Help Wanted tickets](https://handbook.mattermost.com/contributors/contributors/help-wanted)
-* Update Fix Version to “help-wanted”, which will run an automation that will automatically create a corresponding issue in GitHub.
+* Update Fix Version to “help-wanted”, which will run an automation that will automatically create a corresponding issue in GitHub
 
 #### Release Feature Roadmap
 
@@ -436,7 +434,7 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
 #### Testing
 
 * Participate in Release testing per QA assignments
-* Test features and provide input on PRs from Developers and Community Members
+* Test features and provide input on PRs from Developers and Community members
 
 #### Security and Dot Releases
 
@@ -498,11 +496,11 @@ After adding the feedback to the relevant idea in productboard, the PM comments 
 
 #### Community Success
 
-* Ensure devs are aware and included on community contribution projects.
-* Prep Help Wanted tickets with specifications on feature and designs as needed.
-* Help teams come up with and prepare community contribution campaigns.
-* Answer questions and coordinate resources to community contributors.
-* Review community contributed PRs.
+* Ensure devs are aware and included on community contribution projects
+* Prep Help Wanted tickets with specifications on feature and designs as needed
+* Help teams come up with and prepare community contribution campaigns
+* Answer questions and coordinate resources to community contributors
+* Review community contributed PRs
 
 #### Mattermost Forum
 
@@ -722,7 +720,7 @@ To officially release a feature, it should meet the following criteria:
 4. **Documented:** Complete documentation is available
 5. **Secure:** Reviewed internally for security, and included in future security reviews
 6. **Accessible:** Accessibility has been added for user interface components
-7. **Logged:** Audit log entries have been added to allow system admins to troubleshoot issues
+7. **Logged:** Audit log entries have been added to allow System Admins to troubleshoot issues
 8. **Compliant:** Anything needed for compliance is tracked in logs
 
 ### How do I create redirects for in-product documentation?

@@ -11,5 +11,5 @@ description: >-
 
 \*\*\*\*[**MLT Metrics \[Lite\]**](https://mattermost.lightning.force.com/lightning/r/Dashboard/01Z1R000000u8sOUAQ/view) ****- Marketing-specific performance metrics from MLT Dashboard \(e.g. Trial Requests, E0 Downloads, MQLs\)
 
-#### Questions on how to navigate and interpret these dashboards? Contact @kendall.reicherter for assistance.
+#### Questions on how to navigate and interpret these dashboards? Contact @rachel.bradley-haas for assistance.
 

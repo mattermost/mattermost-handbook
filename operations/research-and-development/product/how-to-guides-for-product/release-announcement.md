@@ -13,9 +13,10 @@ It's important to think of the release announcement as a press release. We're co
 **Note:** Consider using this information in productboard for your features to validate the messaging and to keep consistency across channels. 
 
 ### Timeline
+
 A release announcement for each feature should be started early in the product planning process. Each Product Manager is directly responsible for writing the announcement for each of their features. For large product features or new products, a PRFAQ should be completed. For smaller features, a “mini-PRFAQ” should be completed in the form of a blog post.
 
-Release announcements and tweets are due from Product Managers at T-14, so a first draft can be completed by T-11, per our [release announcement process](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements). They should be provided to your Lead (Lindsay or Katie), who will coordinate all into one single document for the release. A final draft of the combined release announcement for the newsletter will be provided for review to CPO and MLT team by T-10. Finally, the approved release announcement will be provided to marketing by T-2 and published on release day.
+Release announcements and tweets are due from Product Managers at T-14, so a first draft can be completed by T-11, per our [release announcement process](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements). They should be provided to your Lead (Katie), who will coordinate all into one single document for the release. A final draft of the combined release announcement for the newsletter will be provided for review to CPO and MLT team by T-10. Finally, the approved release announcement will be provided to marketing by T-2 and published on release day.
 
 ### Feature Headline
 
