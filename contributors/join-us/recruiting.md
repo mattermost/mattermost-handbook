@@ -17,7 +17,7 @@ If you're considering a role at Mattermost, here are the **Top 10 Reasons to wor
 7. **Improve a product you use every day:** Work on a team with deep empathy for users and customers.
 8. **Focus on results:** Output matters, not hours worked. Enjoy life and don’t burn out.
 9. **Learn, Master, Teach:** Building new skills, becoming experts, and training others is core to our culture.
-10. **Friends around the world:** Build relationships with staff and contributors in dozens of countries.
+10. **Friends around the world:** Build relationships with staff and contributors in dozens of countries/regions.
 
 In addition to this page, we also encourage anyone interested in interviewing at Mattermost to read [About Mattermost](https://handbook.mattermost.com/company/about-mattermost). 
 
