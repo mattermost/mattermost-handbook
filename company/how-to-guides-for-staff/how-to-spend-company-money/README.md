@@ -35,9 +35,9 @@ While we're sharing average costs for various items below, you should use your b
 #### Home office equipment
 
 * Height-adjustable desk: Average price **500 USD**
-  * Example: [https://www.autonomous.ai/standing-desks](https://www.autonomous.ai/standing-desks)
-* Ergonomic chair: Average price **300 USD**
-  * Example: [https://www.autonomous.ai/office-chairs](https://www.autonomous.ai/office-chairs)
+  * Example: [https://www.fully.com/standing-desks/jarvis.html](https://www.fully.com/standing-desks/jarvis.html)
+* Desk chair: Average price **300 USD**
+  * Example: [https://www.fully.com/chairs/fully-desk-chair.html](https://www.fully.com/chairs/fully-desk-chair.html)
 * Laptop stand: Average price **50 USD**
 * Laptop carrying bag: Average price **60 USD**
 * Work-related books: **30 USD** per month or **360 USD** annually
@@ -71,6 +71,35 @@ For all new staff members, to request a new MacBook, Lenovo, or other laptop, pl
 * **PC:** Any suitable laptop with comparable specifications and lower or similar cost to the recommended MacBook. Many of our engineers use Lenovo laptops from the Thinkpad X, T, or P series. If in doubt, we recommend a Lenovo Thinkpad T series.
 
 After your laptop is received, it is required that you register your laptop by completing an [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). This step should be completed within 5 business days after your laptop was received.
+
+#### Desktop \(Business computer\)
+
+Desktops may be requested alongside a laptop for **engineering** roles. To request a desktop, email a request to your manager with the subject `Desktop for Approval`. Include IT for approval tracking by cc'ing daniel.sischy@mattermost.com. If your manager approves, a request should be sent to Chris Overton, VP of Engineering, for budget review and need. If you receive both approvals, you may formally request a desktop through the [Desktop Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe2_21Jllo8kztsnhhF_Xre9iOiPoeELUWwYziCDB25y68Wpw/viewform). Estimated delivery time will be communicated by IT once the order has been placed, but expect on average 1-4 week delivery window. 
+
+We offer three desktop options. The specifications below are those we believe are needed for you to do your best work at Mattermost, but they are not a hard ceiling. If you need upgraded specifications, outline them within the [Desktop Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe2_21Jllo8kztsnhhF_Xre9iOiPoeELUWwYziCDB25y68Wpw/viewform).
+
+* **Mac:** 
+  * 27-inch iMac
+  * 10th Gen Intel Core i7 Processor (8-core, 3.8Ghz, turbo boost up to 5.0Ghz)
+  * 32GB 2666Mhz DDR4 Memory
+  * Radeon Pro 5500 XT 8GB GDDR6
+  * 512GB SSD Storage
+
+* **Windows:**
+  * Windows 10 Pro
+  * 10th Gen Intel Core i7-10700k processor (8-core, 3.8Ghz, 16M Cache, turbo boost up to 5.1Ghz)
+  * 32GB 2933Mhz DDR4 Memory
+  * GeForce RTX 2060
+  * 512GB PCIe M.2 SSD + 1TB SATA 7200 RPM HDD
+
+* **Linux:**
+  * Ubuntu 18.04
+  * Intel Xeon Silver 4215R 3.2 Ghz (8-core, 11MB Cache, turbo boost up to 4.0Ghz)
+  * 32GB 2666Mhz DDR4 Memory
+  * Radeon Pro WX 2100 
+  * 256GB PCIe M.2 SSD + 1TB SATA 7200 RPM HDD
+
+As with other computer devices, once your desktop is received, it is required that you register your desktop by completing an [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). This step should be completed within 5 business days after your desktop was received.
 
 ### Other Computer Technology
 

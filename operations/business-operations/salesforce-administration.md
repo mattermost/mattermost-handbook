@@ -9,7 +9,7 @@ description: >-
 
 ## Who does what?
 
-* Salesforce Administration: [BizOps](https://community.mattermost.com/private-core/channels/bizops) or @michael.schiff
+* Salesforce Administration: [BizOps](https://community.mattermost.com/private-core/channels/bizops) or @rachel.bradley-haas
   * Onboarding and Offboarding a user
   * Requesting a new feature that isn't for Sales or CS
   * Reporting an issue
@@ -20,7 +20,7 @@ description: >-
   * Closing a Deal
   * Request a sales related feature
 * Customer Success related: @emily.hollinger
-* Everything else:[ BizOps](https://community.mattermost.com/private-core/channels/bizops) or @michael.schiff
+* Everything else: [BizOps](https://community.mattermost.com/private-core/channels/bizops)
 
 ## Salesforce Instances
 

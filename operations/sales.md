@@ -7,7 +7,8 @@ description: 50% complete
 ## Sales Key Info
 
 * [Sales Operations Handbook](https://docs.google.com/document/d/1W3Yb3h7ZQ6oq0NhxPuUEjS6-u34spvdkg8VtUToxNQg/edit?usp=sharing_eil&ts=5d9bf9a6)
-* [Rude Q&A](https://www.theverge.com/2020/6/4/21280829/slack-amazon-aws-partnership-amazon-chime-voice-video-calls) - Talking points on questions from competitors and detractors (internal discussions only) 
+* [Rude Q&A](https://docs.google.com/document/d/1O-4GpdjKpUK5Bw2I9hYyFFNqlgKRjarjgnytcw_9-BY/edit) - Talking points on questions from competitors and detractors (internal discussions only) 
+* [2021 Sales Playbook Update](https://drive.google.com/drive/u/1/folders/1hdhIvaHkohpa5c1ttvTY-kQRir4iiylY) - For internal use only
 
 ## Sales Definitions
 
@@ -48,7 +49,7 @@ Sales Channels are ways of bringing products or services to market so that they 
   * Omitted: This deal is Closed Lost.
 
 * Forecast Process. The following are the steps followed in the weekly forecast calls with Sales Managers:
-  * In attendance: Sales Manager, Ian, Schiff, and appropriate CSM(s)
+  * In attendance: Sales Manager, Ian, Elaine, and appropriate CSM(s)
   * The Sales Manager drives the call.
   * It is driven off the Sales (Choose Segment) dashboard.
   * New New (New and Expansion) business
