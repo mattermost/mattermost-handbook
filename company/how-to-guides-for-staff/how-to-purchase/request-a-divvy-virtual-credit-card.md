@@ -24,7 +24,7 @@ Staff members can make a request by emailing AP@mattermost.com and provide the f
 
 ## Purchase Order form required
 
-If any of the points above are not satisfied, staff members should follow the standardized [Procurement Process](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#procuring-a-vendor). As part of the process, the staff members complete a purchase order form. 
+If any of the points above are not satisfied, staff members should follow the standardized [Procurement Process](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#procuring-a-vendor). As part of the process, the staff members should [submit a PO](https://handbook.mattermost.com/operations/finance/spending-company-money/how-to-use-accrualify/how-to-submit-a-po) in Accrualify. 
 After Legal has reviewed the Terms & Conditions and all [DocuSign procedures](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-4-send-for-internal-signature) have been taken, the Finance team will create a budget for the request on Divvy and provision a virtual credit card. 
 
 The requester has one of three options to include the Finance team in the billing and payment process. These are stack ranked based on the Finance Team’s preference but it is up to the staff member to decide what is most feasible:
