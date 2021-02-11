@@ -12,7 +12,6 @@
 * Rachel Bradley-Haas - Business Operations
 * Alex Dovenmuehle - Business Operations Engineering
 * Eric Nelson - Business Insights
-* Emily Hollinger - Customer Journey Operations
 * Elaine Yue - Sales Operations
   
 ## About BizOps
@@ -20,7 +19,6 @@
 Business Operations' mission is to **enable** Mattermost to deliver a high quality customer experience, build a scalable business foundation, and engage in impactful data driven discussions. We connect people, processes and tools to make informed decisions, build scalable solutions, and move quickly in unison.
 
 BizOps is made up of multiple functional groups including Business Insights, GTM Operations, and Business Systems & Data Engineering. These groups have their own mission, responsibilities, skill sets, and areas of focus and work as the foundation for the rest of the business to build off of.
-
 
 ### Business Insights
 
@@ -62,7 +60,7 @@ BizOps is made up of multiple functional groups including Business Insights, GTM
 - **Recent Projects:** [Customer 360 Dashboard](https://mattermost.looker.com/dashboards/175), Portal Contact Us in Zendesk, Customer Risk Obj
 - **Customers \(Primary\*):** Sales\*, CS\*, PM\*, MLT, and Marketing
 - **Resources**
-  - Emily: Senior Customer Journey Operations Manager
+  - None
 
 ### Marketing Operations (TBH)
 
