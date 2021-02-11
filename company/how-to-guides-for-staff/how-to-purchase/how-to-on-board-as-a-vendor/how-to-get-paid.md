@@ -4,7 +4,7 @@ description: 99%
 
 # How to get paid
 
-**Effective Date**: January 1, 2020
+**Effective Date**: January 1, 2021
 
 ### Payments Made By Mattermost
 
@@ -12,7 +12,7 @@ description: 99%
 
 If you are a staff member located in the United States, payroll is made through TriNet via direct deposit bi-monthly on the 15th and end of each month. Your expense reimbursements will be made through Expensify under the Mattermost, Inc. policy in the form of an ACH payment. You will be required to register your banking information to be able to receive an ACH payment in Expensify. We do not support any other type of expense reimbursement for United States staff members at this time. You will receive your expense reimbursement no later than 15th and end of each month if you follow the [How to use Expensify](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#expense-reimbursement-policy) policy.
 
-If you are a vendor, refer to the [Bank Form](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#banking-form) section for guidance on registering so can get paid.
+If you are a vendor, refer to the [Vendor Onboarding](https://handbook.mattermost.com/operations/finance/spending-company-money/procurement/how-to-on-board-as-a-vendor) section for guidance on registering so you can get paid.
 
 #### Canada
 
@@ -20,9 +20,9 @@ If you are a staff member located in Canada or if your contract is with Open Wor
 
 #### Rest of World
 
-If you are a vendor, or a contractor located outside the United States and Canada, Mattermost requires a primary banking institution as a method of payment, as we use Bill.com for invoice processing and payment. If you are a staff member located outside of the United States, Canada, United Kingdom and Germany, you have the option of getting paid either by bill.com (via wire transfer) or TransferWise for invoice processing, expense reimbursement and payment. The currency in which payment is made is based on the currency stated within the agreement signed with Mattermost.
+If you are a vendor, or a contractor located outside the United States and Canada, Mattermost requires a primary banking institution as a method of payment, as we use TransferWise on the Accrualify platform for invoice processing and payment. If you are a staff member located outside of the United States, Canada, United Kingdom and Germany, you will get paid via TransferWise for invoice processing, expense reimbursement and payment. The currency in which payment is made is based on the currency stated within the agreement signed with Mattermost.
 
-Primary Banking Institution and Bill.com
+Primary Banking Institution
 
 The person or legal entity the bank account is registered to must be in the name of the contracting individual/entity.
 
@@ -36,24 +36,23 @@ _Example 2_: a staff member named John Smith is located in Spain and signed a co
 * The bank account is located in Spain
 * The bank account is in the name of Better Coding, LLC
 
-If you provide information for your banking institution, your invoice and/or expense reimbursements will be made through Bill.com. As noted above, Mattermost requires banking information from a primary banking institution to be able to make reimbursements through Bill.com. Approved expense reports are reimbursed either by the 15th or end of each month. 
+If you provide information for your banking institution, your invoice and/or expense reimbursements will be made through TransferWise. As noted above, Mattermost requires banking information from a primary banking institution to be able to make reimbursements through TransferWise. Approved expense reports are reimbursed either by the 15th or end of each month. 
 
 TransferWise
 
 If you provide information for your TransferWise account, your invoice and/or expense reimbursements will be made through TransferWise. As noted above, you will need to be a staff member located outside of the United States, Canada, United Kingdom and Germany to be able to choose this option. If your consulting agreement is other than your name such as an LLC or LLP, than we request you set up a business account for contracting entity in TransferWise under the same legal name. Mattermost primarily makes payments in USD, unless otherwise stated on your agreement signed with Mattermost. You will receive your expense reimbursement no later than 15th and end of each month. Approved expense reports are reimbursed either by the 15th or end of each month. 
 
-Refer to the [Bank Form](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid#banking-form) section for guidance on registering so you get paid.
+Refer to the [Vendor Onboarding](https://handbook.mattermost.com/operations/finance/spending-company-money/procurement/how-to-on-board-as-a-vendor) section for guidance on registering so you get paid.
 
 ## Payment Registration with Mattermost
 
-### Banking Form
+### Banking Registration
 
-Complete the following [Banking Form](https://docs.google.com/forms/d/e/1FAIpQLScw5E8h2z7QOuoabPjvcCqQ4mMdiPikXNODEaCGbuI4IsgF-w/viewform?usp=pp_url) to properly register your credentials with Mattermost
+Refer to the [Vendor Onboarding](https://handbook.mattermost.com/operations/finance/spending-company-money/procurement/how-to-on-board-as-a-vendor) section for guidance on registering so you can get paid.
 
 ### Primary Payment Reimbursement Facilities
 
 * Silicon Valley Bank
-* Bill.com
 * TransferWise
 
 ### Facilities Not Accepted At This Time
