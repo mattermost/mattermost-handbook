@@ -84,12 +84,12 @@ Release Manager is able to look at the version we have deployed to Mattermost Cl
 
 ## Cloud Release Branch Processes
 
-**Process of merging master branch into the Cloud branch**
- - The Cloud team opens PRs in webapp / server / redux branches to merge the master branch into cloud branch. Example PR: 
- - Devs should be mindful of incomplete features and bug fixes.
+**Process for merging the ``master`` branch into the ``cloud`` branch**
+ - The Cloud team opens PRs in webapp, server, redux, and enterprise branches to merge the ``master`` branch into the ``cloud`` branch ([example PR](https://github.com/mattermost/mattermost-server/pull/16838)).
+ - Devs should be aware of the dates when the ``master`` branch is merged into the ``cloud`` branch in order to be mindful of avoiding having incomplete features in a Cloud release and to be mindful of bug fixes that we may want to include in a release.
 
 **Process for cutting release branch for on-prem based off of Cloud releases**
- - Instead of using the tick-tock branching process, the on-prem releases are now cut from the Cloud release tag.
+ - Instead of using the tick-tock branching process, the on-prem releases are now cut based off of the Mattermost Cloud release tags (e.g Self-Managed v5.32 release was based off of ``cloud-2021-01-26`` tag).
 
 ## Adding Milestones on PRs and Jira Tickets
 
@@ -99,7 +99,7 @@ Releases are now focused on "shipping features and improvements when they're rea
  - This applies to webapp/server/Redux/Enterprise repos.
  - A fix version such as “Cloud (November 24)” is added in Jira to track regression bug fixes for Mattermost Cloud releases.
  - The Self-Managed releases are based off of Mattermost Cloud releases.
- - Open PRs don’t need a release milestone added to them unless the PR is scheduled for a specific Mattermost Cloud or Self-Managed release. Release Manager will track merged PRs and help ensure that correct milestones are added as needed. Any concerns can be brought up for discussion on a case-by-case basis.
+ - Submitted feature or bug fix PRs don’t need a release milestone added to them unless the PR is scheduled for a specific Mattermost Cloud or Self-Managed release. Release Manager will track merged PRs and help ensure that correct milestones are added as needed. Any concerns can be brought up for discussion on a case-by-case basis.
 
 ## Triaging Mattermost Cloud Customer Issues
 
