@@ -82,6 +82,15 @@ Release dates are currently communicated in the following ways. Further iteratio
 
 Release Manager is able to look at the version we have deployed to Mattermost Cloud. Also, when we are hooked up to split.io, there will be a dashboard where you can see active and historic feature flags. Any feature that has its flag removed would be included on any Self-Managed releases past the point after that removal was merged. More details on feature flags: https://developers.mattermost.com/contribute/server/feature-flags/.
 
+## Cloud Release Branch Processes
+
+**Process of merging master branch into the Cloud branch**
+ - The Cloud team opens PRs in webapp / server / redux branches to merge the master branch into cloud branch. Example PR: 
+ - Devs should be mindful of incomplete features and bug fixes.
+
+**Process for cutting release branch for on-prem based off of Cloud releases**
+ - Instead of using the tick-tock branching process, the on-prem releases are now cut from the Cloud release tag.
+
 ## Adding Milestones on PRs and Jira Tickets
 
 Releases are now focused on "shipping features and improvements when they're ready for Mattermost Cloud, and then they'll get to a Self-Managed release once they've been available on Mattermost Cloud for 2+ weeks".
@@ -89,8 +98,8 @@ Releases are now focused on "shipping features and improvements when they're rea
  - A new Cloud branch (based off of master) is used, and any regression bug fixes for the next Mattermost Cloud release will be cherry-picked there.
  - This applies to webapp/server/Redux/Enterprise repos.
  - A fix version such as “Cloud (November 24)” is added in Jira to track regression bug fixes for Mattermost Cloud releases.
- - The Self-Managed releases will be based on Mattermost Cloud releases. This is decided by the Release Manager/Cloud team based on the timeline between Mattermost Cloud releases and the release day of Self-Managed releases.
- - Cloud PRs currently being merged into master don’t need a Self-Managed release milestone added to them. Release Manager will track merged PRs and help ensure that correct milestones are added as needed. Any concerns can be brought up for discussion on a case-by-case basis. There may be updates to this process in the future.
+ - The Self-Managed releases are based off of Mattermost Cloud releases.
+ - Open PRs don’t need a release milestone added to them unless the PR is scheduled for a specific Mattermost Cloud or Self-Managed release. Release Manager will track merged PRs and help ensure that correct milestones are added as needed. Any concerns can be brought up for discussion on a case-by-case basis.
 
 ## Triaging Mattermost Cloud Customer Issues
 
