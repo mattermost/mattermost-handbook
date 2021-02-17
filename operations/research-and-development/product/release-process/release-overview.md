@@ -85,7 +85,7 @@ Release Manager is able to look at the version we have deployed to Mattermost Cl
 ## Cloud Release Branch Processes
 
 **Process for merging the ``master`` branch into the ``cloud`` branch**
- - The Cloud team opens PRs in webapp, server, redux, and enterprise branches to merge the ``master`` branch into the ``cloud`` branch ([example PR](https://github.com/mattermost/mattermost-server/pull/16838)).
+ - The Cloud team opens PRs in webapp, server, redux, api-reference, mmctl, and enterprise branches to merge the ``master`` branch into the ``cloud`` branch ([example PR](https://github.com/mattermost/mattermost-server/pull/16838)).
  - Devs should be aware of the dates when the ``master`` branch is merged into the ``cloud`` branch in order to be mindful of avoiding having incomplete features in a Cloud release and to be mindful of bug fixes that we may want to include in a release.
 
 **Process for cutting the release branch for Self-Managed releases based off of Cloud releases**
