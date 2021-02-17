@@ -2,37 +2,38 @@
 
 As of December 1, 2020, the Finance team has implemented a new Procure-to-Pay automation software called Accrualify for the Procurement and Accounts Payable function. As a vendor, you will receive an invitation to the vendor portal so that you can do the following:
 
- 1. Provide company information
- 2. Set up your bank account for faster payments
- 3. Upload invoices
- 4. Provide monthly accruals
+1. Provide company information
+2. Set up your bank account for faster payments
+3. Upload invoices
+4. Provide monthly accruals
 
 ### How to set up your account
+
 After your contract has been signed and completed by Mattermost, you will receive a welcome email from Accrualify to set up your account on the vendor portal. The email will include a button to “Set up your account”.
 
 vendor-portal-guide-1
 
 Once you arrive in the vendor portal, please complete the following fields in the Company Info section:
 
- 1. Company Name
- 2. Email
- 3. Phone
- 4. EIN/VAT/Tax ID
- 5. Country
- 6. Address
- 7. City
- 8. State
- 9. Postal Code
+1. Company Name
+2. Email
+3. Phone
+4. EIN/VAT/Tax ID
+5. Country
+6. Address
+7. City
+8. State
+9. Postal Code
 
 It’s important that you upload your completed W-9 or W-8BEN(E). If you are a US vendor registered and doing business in the US, provide a copy of your W-9. If you are an international vendor, provide a copy of your W-8BEN(E).
 
 vendor-portal-guide-2
 
-In the Banking Information section, you may select your preferred Payment Method by clicking on the “Payment Method” button.
+In the Banking Information section, select your preferred Payment Method using the **Payment Method** option.
 
 vendor-portal-guide-3
 
-If you need to update your profile at any time, you can do so by clicking on your avatar on the top right hand corner of the page.
+If you need to update your profile at any time, select your your avatar on the top right hand corner of the page.
 
 vendor-portal-guide-4
 
@@ -70,25 +71,19 @@ vendor-portal-guide-8
 
 On the Submit Invoice form, the following fields should be completed:
 
- 1. Customer - choose Mattermost, Inc.
- 2. PO Number - Open purchase orders will be available for you to relieve against. If you are unsure of the PO number, please reach out to Procurement@mattermost.com
- 3. Service period - the service period should match the service period noted in the order form, SOW, or MSA
- 4. Currency - the currency should be USD, unless otherwise stated in the contract
- 5. Invoice Number
- 6. Amount
- 7. Invoice Date
- 8. Additional details, if needed
+1. Customer - choose Mattermost, Inc.
+2. PO Number - Open purchase orders will be available for you to relieve against. If you are unsure of the PO number, please reach out to Procurement@mattermost.com
+3. Service period - the service period should match the service period noted in the order form, SOW, or MSA
+4. Currency - the currency should be USD, unless otherwise stated in the contract
+5. Invoice Number
+6. Amount
+7. Invoice Date
+8. Additional details, if needed
 
 After you complete the form, upload a copy of the invoice by clicking the “Upload Invoice” button. Once uploaded, click “Submit”.
 
 vendor-portal-guide-9
 
-If you do not wish to upload your invoice on the portal, you can continue emailing your invoices to AP@mattermost.com. 
+If you do not wish to upload your invoice on the portal, you can continue emailing your invoices to AP@mattermost.com.
 
-Any questions regarding your invoice, contact AP@mattermost.com.
-
-If you are experiencing any issues with the vendor portal, please contact support@accrualify.com and copy AP@mattermost.com.
-
-
-
-
+Any questions regarding your invoice, contact AP@mattermost.com. If you are experiencing any issues with the vendor portal, please contact support@accrualify.com and copy AP@mattermost.com.
