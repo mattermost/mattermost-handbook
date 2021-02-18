@@ -22,9 +22,9 @@ Use the [Authorization Matrix](https://docs.google.com/spreadsheets/d/1fDIMiO0uy
 The following staff are approved to send contracts to be e-signed:
 
 ## Approved Mattermost Staff
-* Lynn Conway - Primary for staff agreements and consulting agreements
-* Amy Nicol - Primary for vendor contracts and corporate agreements
-* Jeff Dynda - Primary for sales agreements and customer supplier forms
+* Lynn Conway - Primary for staff agreements
+* Amy Nicol - Primary for vendor contracts, consulting agreements and corporate agreements
+* Jeff Pravlik - Primary for sales agreements and customer supplier forms
 * Natalie Jew
 * Aneal Vallurupalli
 * Tim Quock
