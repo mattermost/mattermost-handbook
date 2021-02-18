@@ -33,7 +33,7 @@ The following staff are approved to send contracts to be e-signed:
 ## What are e-sign completion expectations?
 
 * E-sign request sent on weekdays before 4pm Palo Alto time should be signed by 9pm Palo Alto on the same day and if sent on a weekend signed by 9pm Palo Alto time on the following Monday provided one of the following is true:
-  * **For e-sign from Mattermost staff member:** The e-sign is sent by a Mattermost staff member and must have Legal approval. E-signs sent from Approved Mattermost staff are preferred since they are archived automatically in our e-sign system.
+  * **For e-sign from Mattermost staff member:** The e-sign is sent by a Mattermost staff member and must have Legal approval. E-signs sent from approved Mattermost staff are preferred since they are archived automatically in our e-sign system.
   * **For e-sign from outside the company:** The e-sign is prepared by a non-Mattermost staff member \(potentially a vendor, partner or customer\) and Legal approval is provided via email to Ian Tien and Amy Nicol ideally ahead of receiving the e-sign request.
     * Within 5 business days of the e-sign completion the contract owner or Mattermost staff submitting for signature should send Amy Nicol a link to the Box.com URL containing the fully executed signature to confirm the archiving of the contract is complete, since archiving is not automatic.
       * **Note:** E-sign requests from non-Mattermost staff are automatically filtered to a spam folder and the spam filter needs to be searched to find the request.
