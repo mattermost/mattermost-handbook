@@ -211,11 +211,11 @@ Activities:
 
 * Learn about our customers and users
   * Support
-    * Customers: Zendesk \(Sven\)
+    * Customers: Zendesk \(Sven, Support Lead)\)
       * Meet with Sven for Zendesk training and support overview
       * Join support standups for a week or two, and help out on support tickets
     * Community: GitHub, Forums \(Amy\)
-  * Customer Success \(Meet with a CSM - Jennifer Lawler, Sasa Cosic\)
+  * Customer Success \(Meet with a CSM\)
     * Overview of Customer Success team, who owns what
     * Current Customer Success processes
     * Typical challenges during customer onboarding
@@ -277,7 +277,7 @@ Activities:
 * Learn about the product development process
   * High level overview \(PM buddy\)
     * Team structure
-    * [Development process overview](https://docs.mattermost.com/process/overview.html)
+    * [Product planning overview](https://handbook.mattermost.com/operations/research-and-development/product/product-planning/product-philosophy-and-principles)
   * Team-specific processes \(PM buddy\)
     * Team Triage
     * Sprint Planning
