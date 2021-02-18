@@ -15,7 +15,7 @@ The Mattermost Technical Writers focus primarily on writing, editing, and mainta
 * Documentation for:
   * DevOps Command Center
   * Integrations (Admin Guide, plugin documentation, and developer journey)
-  * Self-serve customer journey
+  * Growth product
 * Documentation metrics
   * Docs page ratings via Google Analytics
   * Google Analytics metrics for page visits, read times, and bounce rates
@@ -116,17 +116,18 @@ Mattermost documentation covers a number of different topics. For documentation,
 **Editor Review**
 
 * Amy Blais \(@amyblais\)
+* Carrie Warner \(@cwarnermm\)
 * Justine Geffen \(@justinegeffen\)
 
 **Product Manager Review**
 
-* Admin Guide - Enterprise: Dennis Kittrell \(@thefactremains\)
+* Admin Guide - Enterprise: Adam Clarkson \(@adamjclarkson\)
 * Admin Guide - Security: Katie Wiersgalla \(@kwiersgalla\)
 * Admin Guide - Cloud: Adam Clarkson \(@adamjclarkson\)
-* Admin Guide - Licensing: Eric Sadur (\@esadur\)
+* Admin Guide - Licensing: Jason Blais(\@jasonblais\)
 * End User Guide - Mobile and desktop app: Eric Sethna \(@esethna\)
 * Apps and Marketplace: Aaron Rothschild \(@aaronrothschild\)
-* DevOps Command Center: Ian Tao \(@itao\)
+* Incident Collaboration: Ian Tao \(@itao\)
 * Handbook and Process; Community: Jason Blais \(@jasonblais\)
 
 **Dev Review**
@@ -141,11 +142,11 @@ If your change requires dev review add the developer/s you've been working with 
 * SRE: Joram Wilander \(@jwilander\) (\interm\)
 * Cloud Platform: Joram Wilander \(@jwilander\)
 * Mobile: Elias Nahum \(@enahum\)
-* Webapp and desktop: Dean Whillier \(@deanwhillier\)
+* Web App and Desktop App: Dean Whillier \(@deanwhillier\)
 * Server/infra: George Goldberg \(@grundleborg\)
 * Cloud: Joram Wilander \(@jwilander\)
 * Security: Daniel Schalla \(@dschalla\)
-* DevOps: Jason Deland \(@jaydeland\)
+* DevOps: TBC
 * QA: Linda Mitchell \(@lindalumitchell)
 * Handbook and Process: Jason Blais \(@jasonblais\)
 
@@ -178,7 +179,7 @@ There are a number of variables at play, such as review process, current workloa
 
 **Assignees**
 
-Documentation does not have to be written by the Technical Product Writer/s. You can raise an issue, complete the requirement, and submit a Pull Request. For less urgent work, if no reply has been received within 48 hours, please ping @justinegeffen or @amyblais in GitHub.
+Documentation does not have to be written by the Technical Writer/s. You can raise an issue, complete the requirement, and submit a Pull Request. For less urgent work, if no reply has been received within 48 hours, please ping @justinegeffen, @cwarnermm, or @amyblais in GitHub.
 
 **Community Involvement**
 
