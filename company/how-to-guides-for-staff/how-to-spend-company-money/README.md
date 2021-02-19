@@ -63,7 +63,7 @@ For all new staff members, to request a new MacBook, Lenovo, or other laptop, pl
 **Non-Developers**
 
 * **Lenovo:** Most of our customers are Windows-based and so we recommend Windows-based machines, such as the [Lenovo X1 Carbon](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-6th-Gen/p/22TP2TXX16G) or similar for work machines. 
-* **MacBook 13”:** For non-developers choosing Macs we recommend getting a [MacBook Air 13-inch retina display with 256 GB of storage and 8 GB of memory](https://www.apple.com/shop/buy-mac/macbook-air/space-gray-1.6ghz-dual-core-processor-with-turbo-boost-up-to-3.6ghz-256gb#) or similar.
+* **MacBook 13”:** For non-developers choosing Macs we recommend getting a [MacBook Air 13-inch retina display with 256 GB of storage and 16 GB of memory](https://www.apple.com/shop/buy-mac/macbook-air/space-gray-1.6ghz-dual-core-processor-with-turbo-boost-up-to-3.6ghz-256gb#) or similar.
 
 **Developers**
 
@@ -177,7 +177,7 @@ The company device may only be used for work-related purposes. Personal usage is
 
 #### Laptop
 
-Many staff members will use their company issued laptop until it breaks. That said, if your productivity is suffering, you can request a new laptop at any time. The average timeframe for equipment replacement is approximately three years. Old laptops should be returned to the company. Replacement laptops should follow the registration process similar to new hires by completing our [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). 
+Many staff members will use their company issued laptop until it breaks. That said, if your productivity is suffering, you can request a new laptop at any time [here](https://docs.google.com/forms/d/e/1FAIpQLSe7DV-dt1K4G2UtVszjK78iRZD5i_ubhRk3xkUKnEemcyyELw/viewform). The average timeframe for equipment replacement is approximately three years. Old laptops fall under the [Hardware Buy Back Policy](https://handbook.mattermost.com/operations/it/hardware-buy-back-policy). Replacement laptops should follow the registration process similar to new hires by completing our [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). 
 
 #### Other 
 
