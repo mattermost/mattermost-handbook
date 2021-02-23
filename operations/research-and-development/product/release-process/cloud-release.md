@@ -14,7 +14,7 @@ Notes:
     - Ask Cloud SRE team to update the community-release server to the same version as the Mattermost Cloud test installations.
     - Confirm all Jira tickets are resolved for QA testing.
     - Notify QA that the test servers are ready for QA testing. Normally QA testing starts on the next day (at T-8).
-       - Post a list of new feature flags and major features for QA and PMs.
+       - Post a list of new feature flags and major features for QA and PMs and confirm with PMs that all features are behind a feature flag.
     - Ask Tech Writer to work on docs.
     - Keep track of any regressions on master for fixing.
     - Add Cloud release dates to the Release Google Calendar.
