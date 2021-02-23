@@ -14,6 +14,14 @@ Some activities that fall under formal Developer Relations:
 
 Please reach out to the [Community Team](mailto:community@mattermost.com) if you have any questions or would like assistance for any activities in their milieu.
 
+## Definitions
+Event Engaged Attendee
+	* Virtual - any attendee who attends a talk or visits the booth interactively. This can include volunteering their information directly or having it provided by the organizers post-event.
+	* In-person - any attendee who attends a talk, offers their information at a booth or other station, interacts with any Mattermost representative with intent on further examining Mattermost. Interactions to simply look at Mattermost or to discuss philosophies of Mattermost may notbe considered "engaged" - this can be left to the respresentatives discretion.
+	
+Talk
+	* any keynote, speech, presentation, demo, or workshop given at an external event (or at MatterCon).
+
 ## Assets
 
 * [Conference/Trip Report](https://docs.google.com/document/d/10AZQP5QaUHOd-cuiogA08TD6Im0XvS1qpOBIDcnJScI/edit?usp=sharing) - 
