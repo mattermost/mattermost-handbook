@@ -19,7 +19,7 @@ Please reach out to the [Community Team](mailto:community@mattermost.com) if you
 	* Virtual - any attendee who attends a talk or visits the booth interactively. This can include volunteering their information directly or having it provided by the organizers post-event.
 	* In-person - any attendee who attends a talk, offers their information at a booth or other station, interacts with any Mattermost representative with intent on further examining Mattermost. Interactions to simply look at Mattermost or to discuss philosophies of Mattermost may notbe considered "engaged" - this can be left to the respresentatives discretion.
 	
-Talk
+* Talk
 	* any keynote, speech, presentation, demo, or workshop given at an external event (or at MatterCon).
 
 ## Assets
