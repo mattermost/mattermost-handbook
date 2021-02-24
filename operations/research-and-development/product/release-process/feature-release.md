@@ -28,12 +28,10 @@ Day when Leads and PMs decide which major features are included in the release, 
         - Also triage tickets in the backlog
 2. Release Manager:
     - Post this checklist in [Release Checklist](https://community.mattermost.com/core/channels/release-checklist) channel
-    - Follow that feature PR reviews are prioritized and post a list of outstanding feature PRs in the [Release: Self-Managed](https://community.mattermost.com/core/channels/release-discussion) channel as needed
     - Prior to the cut to Self-Managed, the Release manager reviews new feature flags and provides a report to the PM/QA team for their review. Essentially a feature will be included in a Self-Managed release once the feature flag has been removed.
          - Discuss turning off feature flags if severe bugs found
     - Confirm with PMs that each Enterprise feature is in the correct [pricing SKU](https://about.mattermost.com/pricing/)
     - Review any features that are currently in beta and confirm with PMs if there are any to be promoted
-    - Confirm with PMs that all features are behind a feature flag and that all config settings and new features have diagnostics
     - Review the Jira tickets remaining in the current release fix version and push those that won't make it to the next fix version
     - After mobile release branch is cut, ask dev to cut an RN build
     - Queue a list of MVP candidates in alphabetical order to the MVP Discussion channel [See example](https://community.mattermost.com/core/pl/3its7ifbw7dh58obpasdszf1mr)
@@ -240,14 +238,11 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
             - Upgrade dependencies for webapp, server, and Redux
        - Week after release (for GitLab dev owner)
             - [Submit GitLab Omnibus RC install of Mattermost](https://mattermost.atlassian.net/browse/MM-9872)
-       - The week before code complete:
-            - [Add telemetry for new configuration settings in the release](https://mattermost.atlassian.net/browse/MM-24483)
        - The week before code complete (one for Apps and for Mobile):
             - If an existing ESR is going out of support next month, update the in-app prompts (mobile and desktop) to start detecting for the new minimum supported ESR version
             - If a new ESR is released next month, update the prompts to recommend upgrading to that version instead of the older ESR
     - Confirm that [mattermost-docker](https://github.com/mattermost/mattermost-docker/releases) has been updated to the latest version (contact the maintainer via direct message on community server if necessary)
     - Contact owners of [community installers](http://www.mattermost.org/installation/) or submit PRs to update install version number
-        - For Chef Cookbook, open a new issue to announce the new release. See [example](https://github.com/ist-dsi/mattermost-cookbook/issues/22)
         - For Yunohost, open a new pull request to update the version. See [example](https://github.com/YunoHost-Apps/mattermost_ynh/pull/103)
     - Turn on CrazyEgg for blog post page
     - Confirm marketing has been posted (screenshots, mail announcement, tweets, blog posts)
