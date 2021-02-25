@@ -15,7 +15,33 @@ Mattermost integrations documentation spans three areas:
 - Apps Marketplace/Gitbook: Configuration and User documentation, as well as developer content.
 - developers.mattermost.com: Introduction to the contribution process, contribution workflow, testing and validation information.
 
-## 
+## Releases and release cadence
+
+## Adding a community plugin to the Marketplace
+
+When plugins reach a certain level of quality, contributors can add them to the Plugin Marketplace, for public availability. These plugins are maintained by the contributor/s and noted as such in the Plugin Marketplace. 
+
+For details about the requirements for adding a community plugin to the Marketplace, read the guide [here](https://developers.mattermost.com/extend/plugins/community-plugin-marketplace/).
+
+### Timelines per review step
+
+All community plugins are assigned an _owner_ to guide the contributor through the review process. 
+
+Dev review
+QA review
+PM review
+Docs review
+Security review
+
+## Bounty process
+
+What is the process? 
+
+Dev review
+QA review
+PM review
+Docs review
+Security review
 
 ### Cloud apps documentation
 
@@ -37,7 +63,6 @@ Community-managed apps or integrations are managed by their maintainers, which i
 
 When apps or integrations are updated, please follow this process: (link to process). If the update has documentation requirements, please follow this process: When there are changes to Mattermost-managed plugins which require documentation updates, create a new docs issue and assign it to @justinegeffen. Please include a link to the code change PR and raw content for the documentation update.
 
-
 ### Branching strategy for documentation
 
 Different plugins have different branching strategies, depending on the versioning pattern they use.
@@ -54,9 +79,4 @@ We use Gitbook to render our documentation.
 
 ## Apps Documentation Framework
 
-## Bounty process
-
 ## Documentation template for contributions
-
-
-
