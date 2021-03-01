@@ -86,7 +86,7 @@ Release Manager is able to look at the version we have deployed to Mattermost Cl
 
 **Process for merging the ``master`` branch into the ``cloud`` branch**
  - The Cloud team opens PRs in webapp, server, redux, api-reference, and Enterprise branches to merge the ``master`` branch into the ``cloud`` branch ([example PR](https://github.com/mattermost/mattermost-server/pull/16838)).
- - Devs should be aware of the dates when the ``master`` branch is merged into the ``cloud`` branch in order to be mindful of avoiding having incomplete features in a Cloud release and to be mindful of bug fixes that we may want to include in a release.
+ - Devs should be aware of the dates when a ``master`` branch is merged into a ``cloud`` branch in order to be mindful of avoiding having incomplete features in a Cloud release, and to include bug fixes that we may want to include in a release.
 
 **Process for cutting the release branch for Self-Managed releases based off of Cloud releases**
  - Instead of using the tick-tock branching process, the Self-Managed releases are now cut based off of the Mattermost Cloud release tags (e.g Self-Managed v5.32 release was based off of ``cloud-2021-01-26`` tag).
