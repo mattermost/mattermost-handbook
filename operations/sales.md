@@ -1,14 +1,15 @@
 ---
-description: 50% complete
+description: Sales onboarding information 
 ---
 
-# Sales
+# Sales Handbook
 
 ## Sales Key Info
 
-* [Sales Operations Handbook](https://docs.google.com/document/d/1W3Yb3h7ZQ6oq0NhxPuUEjS6-u34spvdkg8VtUToxNQg/edit?usp=sharing_eil&ts=5d9bf9a6)
+* [Sales New Hire Onboarding](https://docs.google.com/document/d/12LEKVJ53bkNCU1I7JT65huBuqf3nPS_BY7jGY6hPbEw/edit#heading=h.h05pgswonxre) - Checklist for sales onboarding for new sales hires
+* [Sales Operations Handbook](https://docs.google.com/document/d/1W3Yb3h7ZQ6oq0NhxPuUEjS6-u34spvdkg8VtUToxNQg/edit?usp=sharing_eil&ts=5d9bf9a6) - Overview of sales operations processes, definitions and standards
 * [Rude Q&A](https://docs.google.com/document/d/1O-4GpdjKpUK5Bw2I9hYyFFNqlgKRjarjgnytcw_9-BY/edit) - Talking points on questions from competitors and detractors (internal discussions only) 
-* [2021 Sales Playbook Update](https://drive.google.com/drive/u/1/folders/1hdhIvaHkohpa5c1ttvTY-kQRir4iiylY) - For internal use only
+* [2021 Sales Playbook Update](https://drive.google.com/drive/u/1/folders/1hdhIvaHkohpa5c1ttvTY-kQRir4iiylY) - Refreshed sales playbook for 2021.
 
 ## Sales Definitions
 
