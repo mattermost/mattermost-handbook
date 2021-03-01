@@ -19,15 +19,33 @@ The Mattermost logo is available is vertical, horizontal, and logomark-only vers
 
 **Horizontal Logo:** Min size 100x16px
 
-![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logos-horizontal.png)
+<table width="100%">
+  <tr>
+    <td><img src="../../../../.gitbook/assets/branding/logoHorizontal.svg" width="280"></td>
+    <td><img src="../../../../.gitbook/assets/branding/logoHorizontalBlue.svg" width="280"></td>
+    <td><img src="../../../../.gitbook/assets/branding/logoHorizontalWhite.svg" width="280"></td>
+  </tr>
+</table>
 
 **Vertical Logo:** Min size 70x39px
 
-![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logos-vertical.png)
+<table width="100%">
+  <tr>
+    <td><img src="../../../../.gitbook/assets/branding/logoVertical.svg" width="280"></td>
+    <td><img src="../../../../.gitbook/assets/branding/logoVerticalBlue.svg" width="280"></td>
+    <td><img src="../../../../.gitbook/assets/branding/logoVerticalWhite.svg" width="280"></td>
+  </tr>
+</table>
 
 **Logomark:** Min size 16x16px
 
-![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logos-logomarks.png)
+<table width="100%">
+  <tr>
+    <td><img src="../../../../.gitbook/assets/branding/icon.svg" width="140"></td>
+    <td><img src="../../../../.gitbook/assets/branding/iconBlue.svg" width="140"></td>
+    <td><img src="../../../../.gitbook/assets/branding/iconWhite.svg" width="140"></td>
+  </tr>
+</table>
 
 ### Usage Guidelines
 
@@ -48,15 +66,21 @@ To ensure an uncluttered presentation, always maintain a full "X" space around t
 
 ### Logo Downloads
 
-#### Vector Formats
+#### EPS Files
 
 If you need vector versions of the logos, you can [download the EPS package](../../../../.gitbook/assets/branding/logo-downloads/EPS-files.zip).
 
+#### SVG Files
+
+* **Horizontal logo:** [Black](../../../../.gitbook/assets/branding/logoHorizontal.svg), [Blue](../../../../.gitbook/assets/branding/logoHorizontalBlue.svg), [White](../../../../.gitbook/assets/branding/logoHorizontalWhite.svg)
+* **Vertical logo:** [Black](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-grey.png), [Blue](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-blue.png), [White](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-white.png)
+* **Logomark:** [Black Logomark](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logomark-grey.png), [Blue](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logomark-blue.png), [White](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logomark-white.png)
+
 #### PNG files
 
-* **Horizontal logo:** [Black](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-grey.png), [Blue](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-blue.png), [White](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-white.png)
-* **Vertical logo:** [Black](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-grey.png), [Blue](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-blue.png), [White](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-white.png)
-* **Logomark:** [Black Logomark](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-grey.png), [Blue](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-blue.png), [White](https://github.com/mattermost/mattermost-handbook/raw/3b54c2cd1f823d1ea012ce45d1baa61fb4fbedbc/.gitbook/assets/branding/logo-downloads/mattermost-logomark-white.png)
+* **Horizontal logo:** [Black](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-grey.png), [Blue](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-blue.png), [White](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-white.png)
+* **Vertical logo:** [Black](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-grey.png), [Blue](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-blue.png), [White](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-white.png)
+* **Logomark:** [Black Logomark](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logomark-grey.png), [Blue](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logomark-blue.png), [White](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logomark-white.png)
 
 ## Color Guidelines
 
@@ -64,14 +88,14 @@ Below is a sample of the core colours we've been using in the latest branding in
 
 | Name | Swatch | Hex | RGB |
 | :--- | :--- | :--- | :--- |
-| **Primary Blue** | ![](https://github.com/mattermost/mattermost-handbook/tree/d3ccaf59e4a88d7f97e12fc567f53e8b6926c5ae/.gitbook/assets/swatch-blue.png) | Hex: 0058CC | rgb\(0, 88, 204\) |
-| **Indigo** | ![](https://github.com/mattermost/mattermost-handbook/tree/d3ccaf59e4a88d7f97e12fc567f53e8b6926c5ae/.gitbook/assets/swatch-indigo.png) | Hex: 22406D | rgb\(34, 64, 109\) |
-| **Dark Indigo** | ![](https://github.com/mattermost/mattermost-handbook/tree/d3ccaf59e4a88d7f97e12fc567f53e8b6926c5ae/.gitbook/assets/swatch-indigo-dark.png) | Hex: 152235 | rgb\(21, 34, 53\) |
-| **Light Blue** | ![](https://github.com/mattermost/mattermost-handbook/tree/d3ccaf59e4a88d7f97e12fc567f53e8b6926c5ae/.gitbook/assets/swatch-light-blue.png) | Hex: 80B3FA | rgb\(128, 179, 250\) |
-| **Coral** | ![](https://github.com/mattermost/mattermost-handbook/tree/d3ccaf59e4a88d7f97e12fc567f53e8b6926c5ae/.gitbook/assets/swatch-coral.png) | Hex: FD6165 | rgb\(253, 97, 101\) |
-| **Orange** | ![](https://github.com/mattermost/mattermost-handbook/tree/d3ccaf59e4a88d7f97e12fc567f53e8b6926c5ae/.gitbook/assets/swatch-orange.png) | Hex: F59138 | rgb\(245, 145, 56\) |
-| **Green** | ![](https://github.com/mattermost/mattermost-handbook/tree/d3ccaf59e4a88d7f97e12fc567f53e8b6926c5ae/.gitbook/assets/swatch-green.png) | Hex: 21C45D | rgb\(33, 196, 93\) |
-| **Red** | ![](https://github.com/mattermost/mattermost-handbook/tree/d3ccaf59e4a88d7f97e12fc567f53e8b6926c5ae/.gitbook/assets/swatch-red.png) | Hex: DC3F35 | rgb\(220, 63, 53\) |
+| **Primary Blue** | ![](../../../../.gitbook/assets/branding/swatch-blue.png) | Hex: 0058CC | rgb\(0, 88, 204\) |
+| **Indigo** | ![](../../../../.gitbook/assets/branding/swatch-indigo.png) | Hex: 22406D | rgb\(34, 64, 109\) |
+| **Dark Indigo** | ![](../../../../.gitbook/assets/branding/swatch-indigo-dark.png) | Hex: 152235 | rgb\(21, 34, 53\) |
+| **Light Blue** | ![](../../../../.gitbook/assets/branding/swatch-light-blue.png) | Hex: 80B3FA | rgb\(128, 179, 250\) |
+| **Coral** | ![](../../../../.gitbook/assets/branding/swatch-coral.png) | Hex: FD6165 | rgb\(253, 97, 101\) |
+| **Orange** | ![](../../../../.gitbook/assets/branding/swatch-orange.png) | Hex: F59138 | rgb\(245, 145, 56\) |
+| **Green** | ![](../../../../.gitbook/assets/branding/swatch-green.png) | Hex: 21C45D | rgb\(33, 196, 93\) |
+| **Red** | ![](../../../../.gitbook/assets/branding/swatch-red.png) | Hex: DC3F35 | rgb\(220, 63, 53\) |
 
 ## Typography
 
