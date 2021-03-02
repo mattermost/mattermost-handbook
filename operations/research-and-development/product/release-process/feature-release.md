@@ -79,7 +79,7 @@ Day when Leads and PMs decide which major features are included in the release, 
        - Include a link to the changelog on the documentation branch
        - Update download links and testing server links to the latest RCs
     - After build is cut, tweet announcement that RC1 is ready (see [example](https://community.mattermost.com/core/pl/tefx1ijyz7bs8mabuxmpq9f7pw))
-    - Update https://docs.mattermost.com/administration/open-source-components.html
+    - Update [Open Source Components](https://docs.mattermost.com/administration/open-source-components.html) and [Release Lifecycle](https://docs.mattermost.com/administration/release-lifecycle.html) docs
     - Ask martin.kraft to provide a list of Database changes, API changes, WebSocket event changes, and `config.json` setting changes for changelog. [See example request](https://github.com/mattermost/docs/pull/3398#issuecomment-593411501)
 2. Logistics @hanna.park:
     - Mail out contributor and security researcher mugs
