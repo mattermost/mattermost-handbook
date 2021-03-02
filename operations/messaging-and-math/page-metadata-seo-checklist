@@ -1,0 +1,21 @@
+---
+description: '1% DRAFT (created by Carrie Warner on March 2, 2021)'
+---
+
+# Page Metadata SEO Checklist
+
+Ensure all site page source files:
+
+* Contain a unique H1 heading tag that is between x and y characters in length that accurately describes the page content.
+* Contain target keywords near the front of each title tag.
+* Contain relevant, meaningful branding mentions in a minimum of x % of title tags across the website.
+* Contain meta description tags that are a maximum of x characters in length that are highly relevant to the current page.
+* Contain H2 through H6 heading tags, as needed, to break up the content into logical sections.
+
+## Why these things matter
+
+* Duplicate H1 heading tags dilute the organization’s online presence.
+* Target keywords can help users and search engines understand what a web page is about. Search engines evaluate target keywords to rank sites as more or less relevant based on a user’s search query. 
+* Reach out to Jack O’Brien and the Marketing team to ensure that branding mentions are appropriate, relevant, and meaningful for SEO.
+* Search engines tend to truncate display meta description content in search results around 155 characters. Ensure meta descriptions are highly relevant to the content on the page and summarize key concepts.
+* H2 through H6 heading tags aren’t required, but can be useful to hierarchically organize a page of content based on order of operations, transitioning from known information to new information, or to emphase other information organization principles.
