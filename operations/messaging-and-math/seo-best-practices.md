@@ -1,3 +1,7 @@
+---
+description: '1% DRAFT (created by Carrie Warner on March 2, 2021)'
+---
+
 # Mattermost SEO Best Practices
 
 ## Our Goal
@@ -5,7 +9,7 @@ Our goal is to be the top solution returned when people search the internet for 
 
 To meet this goal, Mattermost is working with an SEO company to help us build a web presence that’s easy to discover, easy to navigate, and best serves the needs of our customers through search engine optimization (SEO).
 
-New to SEO? See SEO Frequently Asked Questions to learn more about what SEO is, how search engines work, and what SEO is in place in Mattermost web assets.
+New to SEO? See [SEO Frequently Asked Questions](https://handbook.mattermost.com/operations/messaging-and-math/seo-frequently-asked-questions) to learn more about what SEO is, how search engines work, and what SEO is in place in Mattermost web assets.
 
 ## SEO Checklists
 
@@ -20,7 +24,7 @@ Change requests to our web assets need to take SEO risk and impact into consider
 
 Review the following web asset checklists to understand the steps you need to take to ensure the content meets our SEO best practices:
 
-* URL Checklist
-* Page Metadata Checklist
-* Links Checklist
-* Images Checklist
+* [URL Checklist](https://handbook.mattermost.com/operations/messaging-and-math/url-seo-checklist)
+* [Page Metadata Checklist](https://handbook.mattermost.com/operations/messaging-and-math/page-metadata-seo-checklist)
+* [Links Checklist](https://handbook.mattermost.com/operations/messaging-and-math/links-seo-checklist)
+* [Images Checklist](https://handbook.mattermost.com/operations/messaging-and-math/images-seo-checklist)
