@@ -23,7 +23,7 @@ The following staff are approved to send contracts to be e-signed:
 
 ## Approved Mattermost Staff
 * Lynn Conway - Primary for staff agreements
-* Amy Nicol - Primary for vendor contracts, consulting agreements and corporate agreements
+* Amy Nicol - Primary for vendor contracts, consulting agreements, and corporate agreements
 * Jeff Pravlik - Primary for sales agreements and customer supplier forms
 * Natalie Jew
 * Aneal Vallurupalli
