@@ -10,6 +10,7 @@ description: Sales onboarding information
 * [Sales Operations Handbook](https://docs.google.com/document/d/1W3Yb3h7ZQ6oq0NhxPuUEjS6-u34spvdkg8VtUToxNQg/edit?usp=sharing_eil&ts=5d9bf9a6) - Overview of sales operations processes, definitions and standards
 * [Rude Q&A](https://docs.google.com/document/d/1O-4GpdjKpUK5Bw2I9hYyFFNqlgKRjarjgnytcw_9-BY/edit) - Talking points on questions from competitors and detractors (internal discussions only) 
 * [2021 Sales Playbook Update](https://drive.google.com/drive/u/1/folders/1hdhIvaHkohpa5c1ttvTY-kQRir4iiylY) - Refreshed sales playbook for 2021.
+* [Partner List](https://mattermost.lightning.force.com/lightning/r/Report/00O3p0000058wLMEAY/view) - Listing of channel partners and accounts.
 
 ## Sales Definitions
 
