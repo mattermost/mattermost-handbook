@@ -24,7 +24,7 @@ A release announcement for each feature should be started early in the product p
 
 * A draft of the release announcement and tweets are completed by Product Managers. Product Managers prepare the release announcement from their 2-pager documents.
 
-#### C. \(T-minus 8 working days\) Lead Product Manager Review
+#### C. \(T-minus 8 working days\) Lead Product Managers' Review
 
 * Jason and Katie do a final review on the release announcement before handing it off to Jack.
 
@@ -38,11 +38,11 @@ A release announcement for each feature should be started early in the product p
 
 #### F. \(T-minus 2 working days\) Marketing Preparation
 
-* Katie or Jason provides the final and approved release announcement copy for Amy to give to the marketing team
+* Katie or Jason provides the final and approved release announcement copy for Amy to give to the marketing team.
 
-#### G. \(T-minus 0 working days\) Publish
+#### G. \(T-minus 0 working days\) Release
 
-* The release announcement is published. T-0 is based on the Release Day in Mattermost Release Dates calendar.
+* The release announcement is published. T-0 is based on the Release Day in the Mattermost Release Dates calendar.
 
 ### Feature Headline
 
