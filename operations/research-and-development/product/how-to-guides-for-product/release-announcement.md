@@ -14,9 +14,35 @@ It's important to think of the release announcement as a press release. We're co
 
 ### Timeline
 
-A release announcement for each feature should be started early in the product planning process. Each Product Manager is directly responsible for writing the announcement for each of their features. For large product features or new products, a PRFAQ should be completed. For smaller features, a “mini-PRFAQ” should be completed in the form of a blog post.
+A release announcement for each feature should be started early in the product planning process. Each Product Manager is directly responsible for writing the announcement for each of their features. For large product features or new products, a PRFAQ should be completed. For smaller features, a “mini-PRFAQ” should be completed in the form of a blog post. Below are the expected deadlines ("T-X" dates don't include holidays/weekends):
 
-Release announcements and tweets are due from Product Managers at T-14, so a first draft can be completed by T-11, per our [release announcement process](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements). They should be provided to your Lead (Katie), who will coordinate all into one single document for the release. A final draft of the combined release announcement for the newsletter will be provided for review to CPO and MLT team by T-10. Finally, the approved release announcement will be provided to marketing by T-2 and published on release day.
+#### A. \(T-minus 14 working days\) Outline
+
+* Release Manager provides an outline of the release announcement and deadlines for Product Managers, along with a heads-up for Jack that the blog post is coming.
+
+#### B. \(T-minus 9 working days\) First draft
+
+* A draft of the release announcement and tweets are completed by Product Managers. Product Managers prepare the release announcement from their 2-pager documents.
+
+#### C. \(T-minus 8 working days\) Lead Product Manager Review
+
+* Jason and Katie do a final review on the release announcement before handing it off to Jack.
+
+#### D. \(T-minus 7 working days\) Product Marketing Director Review
+
+* The PM-approved draft will be provided for review to the Product Marketing Director.
+
+#### E. \(T-minus 5 working days\) CPO Review
+
+* The release announcement draft will be provided for review to the CPO.
+
+#### F. \(T-minus 2 working days\) Marketing Preparation
+
+* Katie or Jason provides the final and approved release announcement copy for Amy to give to the marketing team
+
+#### G. \(T-minus 0 working days\) Publish
+
+* The release announcement is published. T-0 is based on the Release Day in Mattermost Release Dates calendar.
 
 ### Feature Headline
 
