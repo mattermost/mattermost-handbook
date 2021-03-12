@@ -18,7 +18,7 @@ A release announcement for each feature should be started early in the product p
 
 #### A. \(T-minus 14 working days\) Outline
 
-* Release Manager provides an outline of the release announcement and deadlines for Product Managers, along with a heads-up for Jack that the blog post is coming.
+* Release Manager provides an outline of the release announcement and deadlines for Product Managers, along with a heads-up for Director of Product Marketing that the blog post is coming.
 
 #### B. \(T-minus 9 working days\) First draft
 
@@ -26,11 +26,11 @@ A release announcement for each feature should be started early in the product p
 
 #### C. \(T-minus 8 working days\) Lead Product Managers' Review
 
-* Jason and Katie do a final review on the release announcement before handing it off to Jack.
+* Product Management leads do a final review on the release announcement before handing it off to Director of Product Marketing.
 
 #### D. \(T-minus 7 working days\) Product Marketing Director Review
 
-* The PM-approved draft will be provided for review to the Product Marketing Director.
+* The PM-approved draft will be provided for review to the Director of Product Marketing.
 
 #### E. \(T-minus 5 working days\) CPO Review
 
