@@ -18,7 +18,7 @@ A release announcement for each feature should be started early in the product p
 
 #### A. \(T-minus 14 working days\) Outline
 
-* Release Manager provides an outline of the release announcement and deadlines for Product Managers, along with a heads-up for Director of Product Marketing that the blog post is coming. Release manager also adds deadlines to the PM Weekly Sync Agenda.
+* Release Manager provides an outline of the release announcement and deadlines for Product Managers, along with a heads-up for Director of Product Marketing that the blog post is coming. Release Manager also adds deadlines to the PM Weekly Sync Agenda.
 
 #### B. \(T-minus 9 working days\) First draft
 
