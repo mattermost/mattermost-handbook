@@ -72,11 +72,11 @@ Release dates are currently communicated in the following ways. Further iteratio
 **Understanding the Cadence**
 
  - The Mattermost Cloud releases follow a 2-week cycle and the release day is normally on Wednesdays. Feature Complete deadline for each Mattermost Cloud release is on Mondays 9 days prior to the release day.
- - The Mobile App releases follow the same schedule as Self-Managed releases.
+ - The Mobile App release cadence is monthly on the 16th of every month.
  - Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next Self-Managed release. The release branch for a Self-Managed release (e.g. ``release-5.32``) will be cut once the Mattermost Cloud release that will be used for the next Self-Managed release has been shipped.
  - This cadence is subject to change in the future and any changes will be documented and announced.
 
-![Release Cadence Illustration](../../../../.gitbook/assets/release-dates.png)
+![Release Cadence Illustration](../../../../.gitbook/assets/Release-dates2.png)
 
 ## Tracking Feature Flags
 
