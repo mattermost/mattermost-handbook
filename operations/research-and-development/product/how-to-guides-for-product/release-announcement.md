@@ -18,23 +18,23 @@ A release announcement for each feature should be started early in the product p
 
 #### A. \(T-minus 14 working days\) Outline
 
-* Release Manager provides an outline of the release announcement and deadlines for Product Managers, along with a heads-up for Director of Product Marketing that the blog post is coming.
+* Release Manager provides an outline of the release announcement and deadlines for Product Managers, along with a heads-up for Director of Product Marketing that the blog post is coming. Release manager also adds deadlines to the PM Weekly Sync Agenda.
 
 #### B. \(T-minus 9 working days\) First draft
 
-* A draft of the release announcement and tweets are completed by Product Managers. Product Managers prepare the release announcement from their 2-pager documents.
+* A draft of the release announcement and tweets are completed by Product Managers. Product Managers prepare the release announcement from their 2-pager documents. Product Managers are reminded of the deadline in the weekly Monday PM Sync meeting. The T-9 deadline should be the 1st Monday of the month for our Roadmap call (this will either be T-9 or the first Monday of the month, whichever comes earlier).
 
 #### C. \(T-minus 8 working days\) Lead Product Managers' Review
 
-* Product Management leads do a final review on the release announcement before handing it off to Director of Product Marketing.
+* Product Management leads do a final review on the release announcement and prepare the headline and bi-line content.
 
 #### D. \(T-minus 7 working days\) Product Marketing Director Review
 
-* The PM-approved draft will be provided for review to the Director of Product Marketing.
+* The PM-approved draft will be provided for review to the Director of Product Marketing. Katie or Jason provides the release announcement copy for review and relays edits back to the Product Management team via the Product Manager's internal channel.
 
 #### E. \(T-minus 5 working days\) CPO Review
 
-* The release announcement draft will be provided for review to the CPO.
+* The release announcement draft will be provided for review to the CPO. Katie or Jason provides the release announcement copy to the CPO for his review and relays edits back to the Product Management team via the Product Manager's internal channel.  Product Managers have two business days to resolve comments and provide updates.
 
 #### F. \(T-minus 2 working days\) Marketing Preparation
 
