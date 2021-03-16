@@ -130,33 +130,30 @@
   * [Salesforce Administration](operations/business-operations/salesforce-administration.md)
 * [Finance](operations/finance/README.md)
   * [Budget](operations/finance/spending-company-money/budget.md)
-  * Purchasing
+  * [Purchasing](operations/finance/purchasing/README.md)
     * [Purchase Submission Request](company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract.md)
     * [Virtual Credit Card](company/how-to-guides-for-staff/how-to-purchase/request-a-divvy-virtual-credit-card.md)
-    * Contracts and Signing
-    * How-to Guides
-      * [How to Use Accrualify](operations/finance/spending-company-money/how-to-use-accrualify/README.md)
+    * [Contracts and Signing](company/how-to-guides-for-staff/how-to-purchase/contracts-and-signing.md)
+    * [How to Use Accrualify](operations/finance/spending-company-money/how-to-use-accrualify/README.md)
       * [Setting up your Account](operations/finance/spending-company-money/how-to-use-accrualify/how-to-set-up-your-account.md)
       * [Navigating Accrualify](operations/finance/spending-company-money/how-to-use-accrualify/how-to-navigate-accrualify.md)
       * [Submitting a Purchase Order](operations/finance/spending-company-money/how-to-use-accrualify/how-to-submit-a-po.md)
       * [Reviewing a Purchase Order](operations/finance/spending-company-money/how-to-use-accrualify/how-to-review-a-po.md)
-  * Onboarding
+  * [Onboarding](operations/finance/onboarding/README.md)
     * [Vendor Onboarding](company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/README.md)
-    * ROW Staff Onboarding
-    * How-to Guides
-      * Accrualify Vendor Portal Guide
-      * [Reviewing a Vendor Invoice](operations/finance/spending-company-money/how-to-use-accrualify/how-to-review-a-vendor-invoice.md)
-      * [Frequently Asked Questions](operations/finance/spending-company-money/how-to-use-accrualify/frequently-asked-questions.md)
-  * Renewals
+    * [ROW Staff Onboarding](company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/row-onboarding.md)
+    * [Accrualify Vendor Portal Guide](operations/finance/spending-company-money/how-to-use-accrualify/vendor-portal-guide.md)
+    * [Reviewing a Vendor Invoice](operations/finance/spending-company-money/how-to-use-accrualify/how-to-review-a-vendor-invoice.md)
+    * [Frequently Asked Questions](operations/finance/spending-company-money/how-to-use-accrualify/frequently-asked-questions.md)
+  * [Renewals](operations/finance/renewals.md)
   * [Staff Member Expenses](operations/finance/staff-member-expenses/README.md)
     * [How to spend company money](company/how-to-guides-for-staff/how-to-spend-company-money/README.md)
     * [How to spend company money: Internships](operations/finance/spending-company-money/staff-member-expenses/internship-expense-policy.md)
-    * How-to Guides
-      * [How to use Expensify](company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify.md)
-      * [How to book airfare and travel](company/how-to-guides-for-staff/how-to-spend-company-money/airfare-and-traveling.md)
-      * [How to reimburse the company](company/how-to-guides-for-staff/how-to-spend-company-money/how-to-reimburse-the-company.md)
-      * [How to convert currencies](company/how-to-guides-for-staff/how-to-spend-company-money/currency-exchange-table.md)
-      * [How to get paid](company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/how-to-get-paid.md)   
+    * [How to use Expensify](company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify.md)
+    * [How to book airfare and travel](company/how-to-guides-for-staff/how-to-spend-company-money/airfare-and-traveling.md)
+    * [How to reimburse the company](company/how-to-guides-for-staff/how-to-spend-company-money/how-to-reimburse-the-company.md)
+    * [How to convert currencies](company/how-to-guides-for-staff/how-to-spend-company-money/currency-exchange-table.md)
+    * [How to get paid](company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/how-to-get-paid.md)   
   * [Arrange a Bounty Program](/company/how-to-guides-for-staff/how-to-purchase/how-to-arrange-a-bounty-program.md)
   * [Naming Files and Agreements](operations/finance/naming-files-and-agreements.md)
   * [Risk Management](operations/finance/risk-management/README.md)
