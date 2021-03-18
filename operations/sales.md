@@ -11,6 +11,7 @@ description: Sales onboarding information
 * [Rude Q&A](https://docs.google.com/document/d/1O-4GpdjKpUK5Bw2I9hYyFFNqlgKRjarjgnytcw_9-BY/edit) - Talking points on questions from competitors and detractors (internal discussions only) 
 * [2021 Sales Playbook Update](https://drive.google.com/drive/u/1/folders/1hdhIvaHkohpa5c1ttvTY-kQRir4iiylY) - Refreshed sales playbook for 2021
 * [Partner List](https://mattermost.lightning.force.com/lightning/r/Report/00O3p0000058wLMEAY/view) - Listing of channel partners and accounts
+* [Recurring Field Meetings](https://docs.google.com/document/d/1r_NsrNVBXT4phFtMPNlIDNtUqxTHfZdZnsPXyVwVm24/edit) - Summary of regularly scheduled GTM meetings for Sales & CS teams. 
 
 ## Sales Definitions
 
