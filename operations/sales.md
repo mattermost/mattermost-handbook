@@ -6,11 +6,11 @@ description: Sales onboarding information
 
 ## Sales Key Info
 
-* [Sales New Hire Onboarding](https://docs.google.com/document/d/12LEKVJ53bkNCU1I7JT65huBuqf3nPS_BY7jGY6hPbEw/edit#heading=h.h05pgswonxre) - Checklist for sales onboarding for new sales hires
-* [Sales Operations Handbook](https://docs.google.com/document/d/1W3Yb3h7ZQ6oq0NhxPuUEjS6-u34spvdkg8VtUToxNQg/edit?usp=sharing_eil&ts=5d9bf9a6) - Overview of sales operations processes, definitions and standards
-* [Rude Q&A](https://docs.google.com/document/d/1O-4GpdjKpUK5Bw2I9hYyFFNqlgKRjarjgnytcw_9-BY/edit) - Talking points on questions from competitors and detractors (internal discussions only) 
-* [2021 Sales Playbook Update](https://drive.google.com/drive/u/1/folders/1hdhIvaHkohpa5c1ttvTY-kQRir4iiylY) - Refreshed sales playbook for 2021
-* [Partner List](https://mattermost.lightning.force.com/lightning/r/Report/00O3p0000058wLMEAY/view) - Listing of channel partners and accounts
+* [Sales New Hire Onboarding](https://docs.google.com/document/d/12LEKVJ53bkNCU1I7JT65huBuqf3nPS_BY7jGY6hPbEw/edit#heading=h.h05pgswonxre) - Checklist for sales onboarding for new sales hires.
+* [Sales Operations Handbook](https://docs.google.com/document/d/1W3Yb3h7ZQ6oq0NhxPuUEjS6-u34spvdkg8VtUToxNQg/edit?usp=sharing_eil&ts=5d9bf9a6) - Overview of sales operations processes, definitions, and standards.
+* [Rude Q&A](https://docs.google.com/document/d/1O-4GpdjKpUK5Bw2I9hYyFFNqlgKRjarjgnytcw_9-BY/edit) - Talking points on questions from competitors and detractors (internal discussions only).
+* [2021 Sales Playbook Update](https://drive.google.com/drive/u/1/folders/1hdhIvaHkohpa5c1ttvTY-kQRir4iiylY) - Refreshed sales playbook for 2021.
+* [Partner List](https://mattermost.lightning.force.com/lightning/r/Report/00O3p0000058wLMEAY/view) - Listing of channel partners and accounts.
 * [Recurring Field Meetings](https://docs.google.com/document/d/1r_NsrNVBXT4phFtMPNlIDNtUqxTHfZdZnsPXyVwVm24/edit) - Summary of regularly scheduled GTM meetings for Sales and CS teams.
 
 ## Sales Definitions
@@ -29,16 +29,16 @@ Total Employee count is based on the number of employees that our data tools (Cl
 
 Sales Channels are ways of bringing products or services to market so that they can be purchased by consumers.
 
-* Sales Serve (Direct) = Sales works directly with the customer to complete the purchase
-  * Handheld interaction with Sales that enables more customization for the end customer (payment method, discounting, MSA, etc.)
-* Partner/Reseller (Indirect) = Sales works with an approved partner or reseller to complete the purchase
+* Sales Serve (Direct) = Sales works directly with the customer to complete the purchase.
+  * Handheld interaction with Sales that enables more customization for the end customer (payment method, discounting, MSA, etc.).
+* Partner/Reseller (Indirect) = Sales works with an approved partner or reseller to complete the purchase.
 * Self Serve = Customer purchases the product through our [Customer Portal](https://customers.mattermost.com)
-  * Allows a high volume of knowledgeable customers to purchase
-  * **Self Serve is not synonymous with SMB. Self Serve is a Sales Channel that caters to all market segmentations**
+  * Allows a high volume of knowledgeable customers to purchase.
+  * **Self Serve is not synonymous with SMB. Self Serve is a Sales Channel that caters to all market segmentations.**
 
 ## Forecasting
 
-* Forecasting is a weekly process where Sales, CS and Sales Management communicate how much business they will close within a given period, usually the current quarter. 
+* Forecasting is a weekly process where Sales, CS and Sales Management communicate how much business they will close within a given period, usually the current quarter.
 
 * Forecasting Definitions:
   * Forecast: "I will close at least this much business this quarter. It is my likely amount I can close."
@@ -52,7 +52,7 @@ Sales Channels are ways of bringing products or services to market so that they 
   * Omitted: This deal is Closed Lost.
 
 * Forecast Process. The following are the steps followed in the weekly forecast calls with Sales Managers:
-  * In attendance: Sales Manager, Ian, Elaine, and appropriate CSM(s)
+  * In attendance: Sales Manager, Ian, Elaine, and appropriate CSM(s).
   * The Sales Manager drives the call.
   * It is driven off the Sales (Choose Segment) dashboard.
   * New New (New and Expansion) business
@@ -64,11 +64,10 @@ Sales Channels are ways of bringing products or services to market so that they 
     * What's closed since we last met along with any notable highlights.
     * Review Open Pipeline. All key deals based on size, logo, competitive wins. Discuss At Risk and Early Warning. Discuss what help is needed from MLT to get the deal done.
    * Lead pipeline
-     * Review MQL Pipeline at the bottom
+     * Review MQL Pipeline at the bottom.
      * Where are they now?
-     * Pipeline generated
-     * Reason for Recycle and Junk
+     * Pipeline generated.
+     * Reason for Recycle and Junk.
    * Old and New follow-ups related to deals and the forecast process
-     * Review any old business and follow-ups that are noted in the Revenue Manager Asana board related to deals and forecast
+     * Review any old business and follow-ups that are noted in the Revenue Manager Asana board related to deals and forecast.
      * Summarize any new action items moving forward.
-     
