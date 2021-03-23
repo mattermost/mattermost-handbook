@@ -10,7 +10,7 @@ Each Product Manager is responsible for writing a release announcement for every
 
 It's important to think of the release announcement as a press release. We're communicating changes to our current and prospective customers so we want it to be exciting as well as informative. The release announcement is a coordinated document, with each Product Manager contributing their own features as sub-headings. The headline and first paragraph will be written by PM leads and the CPO after all other features have been provided.
 
-**Note:** Consider using this information in productboard for your features to validate the messaging and to keep consistency across channels. 
+**Note:** Consider using this information in productboard for your features to validate the messaging and to keep consistency across channels.
 
 ### Timeline
 
@@ -26,7 +26,7 @@ A release announcement for each feature should be started early in the product p
 
 #### C. \(T-minus 8 working days\) Lead Product Managers' Review
 
-* Product Management leads do a final review on the release announcement and prepare the headline and bi-line content.
+* Product Management leads do a final review on the release announcement and prepare the headline and byline content.
 
 #### D. \(T-minus 7 working days\) Product Marketing Director Review
 
@@ -58,9 +58,10 @@ Example: **Enable your users to get more control over their schedule without lea
 
 ### Feature Details
 
-Next, describe in more detail how the feature works and what functionality is included. This could take the form of a bulleted list or a few more sentences. 
+Next, describe in more detail how the feature works and what functionality is included. This could take the form of a bulleted list or a few more sentences.
 
-Example: 
+Example:
+
 ``` none
 With the new two-way Microsoft Office 365 Calendar integration feature, your users can now:
  - See a daily summary of their calendar events
