@@ -4,7 +4,7 @@
 | :--- | :--- | :--- |
 | Administration | System Console, Compliance, Authentication, User and Team Management, Permissions | Adam Clarkson |
 | Apps & Integrations | Plugins, Apps Marketplace, Apps & Plugin Framework | Aaron Rothschild |
-| Customer Journey | Trials, Billing, Purchases/Customer Portal, In-product notices, Admin Advisor, Licenses | Jason Blais (Self-Managed), Katie Wiersgalla (Cloud) |
+| Customer Journey | Trials, Billing, Purchases/Customer Portal, In-Product Notices, Admin Advisor, Licenses | Jason Blais (Self-Managed), Katie Wiersgalla (Cloud) |
 | End-User Experience | Chat, Search, Notifications, Status, User Settings, Onboarding, Mobile | Eric Sethna |
 | Incident Collaboration | Playbooks, Incident Response Workflow | Ian Tao |
 | Platform | High Availabilty, Database, File Storage, Security, Logging, VPC Peering, Kubernetes, Omnibus | Katie Wiersgalla|
