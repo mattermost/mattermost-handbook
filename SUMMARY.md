@@ -78,6 +78,7 @@
       * [How to Update Integrations Directory](operations/research-and-development/product/how-to-guides-for-product/integrations-directory.md)
       * [How to Write a Feature Release Announcement](operations/research-and-development/product/how-to-guides-for-product/release-announcement.md)
     * [Product Management Team Handbook](operations/research-and-development/product/product-management-team-handbook.md)
+      * [Product Management Areas of Ownership](operations/research-and-development/product/product-ownership-areas.md) 
     * [Technical Writing Team Handbook](operations/research-and-development/product/product-technical-writing-team-handbook.md)
   * [Engineering](operations/research-and-development/engineering/README.md)
     * [Integrations Team Processes](operations/research-and-development/engineering/integrations.md)
