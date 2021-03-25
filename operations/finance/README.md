@@ -27,6 +27,6 @@ Prior to February 1, 2019, our fiscal year ended on September 30. Following year
 | :--- | :--- | :--- | :--- |
 | 2020 | Feb 1, 2019 | Jan 31, 2020 | 12 |
 | 2021 | Feb 1, 2020 | Jan 31, 2021 | 12 |
-| 2022 | Feb 1, 2020  | Jan 31, 2022 | 12 |
+| 2022 | Feb 1, 2021 | Jan 31, 2022 | 12 |
 
 We originally had a fiscal year end of September 30 when we were a video game company so we could do our taxes in the fall, when tax accounting firms had more capacity versus in the spring.
