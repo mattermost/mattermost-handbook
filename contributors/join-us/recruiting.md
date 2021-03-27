@@ -115,7 +115,7 @@ Reference checks are typically done through [SkillSurvey](https://www.skillsurve
 
 ### General Benefits
 
-**Flexible Hours**
+#### Flexible Hours
 
 Results matter far more than hours in an office. Your time at Mattermost is flexible. Go see the dentist, visit a friend, walk your dog – no need to ask permission.
 
@@ -123,21 +123,21 @@ If there’s something urgent going on at work, just let [teammates know your st
 
 For most roles, we require the ability to join meetings between 8am and 1pm California time. The exception is people who are dedicated to support in other timezones, or team members that don’t need to be in real-time discussions.
 
-**Paid Time Off and Holidays**
+#### Paid Time Off and Holidays
 
-Just as flexible as our working hours, learn about our [paid time off and holidays policy and process](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off).
+Just as flexible as our working hours, learn about our [paid time off and holidays policy and process](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off). During Covid, we've also occasionally called a [Family & Friends Day](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off/family-and-friends-day), and will run the majority of the company with the minimal staff needed to meet our service level commitments - and we’ve asked the staff who are on-call, or who choose to work that day, to take an alternate day off. 
 
-**Home Office Benefits**
+#### Home Office Benefits
 
 Staff have full control of their own space. We offer a [guideline on home office purchases](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#home-office-guidelines).
 
 We understand that working from home every day may not be practical for every individual. We will reimburse staff for [flexible office space](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#other-expenses).
 
-**Mobile and Home Internet**
+#### Mobile and Home Internet
 
 We reimburse $50 per month of [home internet costs](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#other-expenses) as well as a portion of [monthly mobile device subscriptions](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#mobile-device-policy) where appropriate.
 
-**Professional Development**
+#### Professional Development
 
 We want to enable staff to do the best work of their careers at Mattermost. In addition to [360-style performance reviews](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50) and transparent career and role leveling, Mattermost team members can also receive a reimbursement up to $500 USD for [professional development](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#other-expenses) annually.
 
