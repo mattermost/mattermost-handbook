@@ -19,7 +19,7 @@ If you're considering a role at Mattermost, here are the **Top 10 Reasons to wor
 9. **Learn, Master, Teach:** Building new skills, becoming experts, and training others is core to our culture.
 10. **Friends around the world:** Build relationships with staff and contributors in dozens of countries/regions.
 
-In addition to this page, we also encourage anyone interested in interviewing at Mattermost to read [About Mattermost](https://handbook.mattermost.com/company/about-mattermost). 
+In addition to this page, we also encourage anyone interested in interviewing at Mattermost to read [About Mattermost](https://handbook.mattermost.com/company/about-mattermost).
 
 ## Working and Meeting Across the Globe
 
@@ -31,13 +31,11 @@ We’re headquartered in Palo Alto, California and, like many open source compan
 
 Working from anywhere means more time with loved ones, no commute, and controlling everything about your workspace.
 
-The one requirement is having the ability to occassionally [join video calls using Zoom](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux) between 8am and 1pm California time, which requires a good enough internet connection.
-
-Recommended download/upload speeds should be 8 Mbps/512 kbps for smooth group calling and screensharing, with a bare minimum of 4 Mbps/128 kbps. The [Ookla Speed Test](https://www.speedtest.net/) can be used to check your internet speed.
+The one requirement is having the ability to [join video calls using Zoom](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux) between 8am and 1pm California time, which requires a reliable internet connection. Recommended download/upload speeds should be 8 Mbps/512 kbps for smooth group calling and screensharing, with a bare minimum of 4 Mbps/128 kbps. The [Ookla Speed Test](https://www.speedtest.net/) can be used to check your internet speed.
 
 There are exceptions to this requirement, for example: part-time roles that don’t need to take meetings, or roles providing support outside core meeting hours. Hiring Managers and Recruiters will indicate any time zone requirements for specific roles and/or teams.
 
-We are continually expanding where we can hire staff, updated lists can be found [here](https://handbook.mattermost.com/contributors/join-us).
+We're continually expanding where we can hire staff, updated lists can be found [here](https://handbook.mattermost.com/contributors/join-us).
 
 #### 2. Be Clear and Precise
 
@@ -55,7 +53,7 @@ Likewise, we emphasize written communication. Reading is faster than listening a
 
 #### 3. Take Ownership
 
-Own the outcomes of your work: When working on problems, requests, and feedback always be clear about next steps, and either drive the resolution or create a ticket to track the work. Communicate blindspots and help your teammates understand potential [Brown M&Ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms)
+Own the outcomes of your work: When working on problems, requests, and feedback always be clear about next steps, and either drive the resolution or create a ticket to track the work. Communicate blindspots and help your teammates understand potential [Brown M&Ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms).
 
 #### 4. Make Meaningful Connections
 
@@ -89,7 +87,7 @@ We have Meetups around the world to deepen and broaden our relationships and bui
 
 ### Interview Process
 
-We can hire from many countries and regions across the globe. While in-office interviews typically go through 1 - 3 interview rounds, our candidates and interviewers may be located in various timezones and therefore each interview is scheduled separately.
+We can hire from many countries and regions across the globe. While in-office interviews typically go through 1-3 interview rounds, our candidates and interviewers may be located in various time zones and therefore each interview is scheduled separately.
 
 ## Interview Stages
 
@@ -121,11 +119,11 @@ Results matter far more than hours in an office. Your time at Mattermost is flex
 
 If there’s something urgent going on at work, just let [teammates know your status](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#where-to-go-to-see-whos-out).
 
-For most roles, we require the ability to join meetings between 8am and 1pm California time. The exception is people who are dedicated to support in other timezones, or team members that don’t need to be in real-time discussions.
+For most roles, we require the ability to join meetings between 8am and 1pm California time. The exception is people who are dedicated to support in other time zones, or team members that don’t need to be in real-time discussions.
 
 #### Paid Time Off and Holidays
 
-Just as flexible as our working hours, learn about our [paid time off and holidays policy and process](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off). During Covid, we've also occasionally called a [Family & Friends Day](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off/family-and-friends-day), and will run the majority of the company with the minimal staff needed to meet our service level commitments - and we’ve asked the staff who are on-call, or who choose to work that day, to take an alternate day off. 
+Just as flexible as our working hours, learn about our [paid time off and holidays policy and process](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off). During Covid, we've also occasionally called a [Family and Friends Day](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off/family-and-friends-day), and will run the majority of the company with the minimal staff needed to meet our service level commitments. Staff who are on-call, or who choose to work that day, can take an alternate day off.
 
 #### Home Office Benefits
 
@@ -143,7 +141,7 @@ We want to enable staff to do the best work of their careers at Mattermost. In a
 
 **Additional employee benefits**
 
-Mattermost uses professional employment organizations and are able to offer additional benefits to employees based in: [US](https://docs.mattermost.com/process/benefits-us.html), [Canada](https://docs.mattermost.com/process/benefits-canada.html), UK, Germany and India (to be updated). 
+Mattermost uses professional employment organizations and are able to offer additional benefits to employees based in: [US](https://docs.mattermost.com/process/benefits-us.html), [Canada](https://docs.mattermost.com/process/benefits-canada.html), UK, Germany, and India (to be updated).
 
 #### Frequently Asked Questions
 
@@ -162,7 +160,7 @@ Mattermost staff and Community members are eligible to receive a $500 USD referr
 * The candidate must be submitted in Lever.
 * Both the staff member and the referred hire must be employed by Mattermost at the payroll date following 90 days of service to receive the bonus.
 
-#### Who Isn't Eligible to Receive the Bonus
+#### Who Isn't Eligible to Receive the Bonus?
 
 * Co-founders, C-levels, and Vice Presidents are not eligible to receive the referral bonus.
 * Hiring Managers are not eligible to receive the bonus for staff that will report to them because hiring is a large part of a Manager's responsibilities.
