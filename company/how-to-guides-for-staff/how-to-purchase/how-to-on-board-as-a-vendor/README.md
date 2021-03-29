@@ -18,4 +18,4 @@ After your contract has gone through our [procurement process](https://handbook.
 
 ## Invoicing and Payment
 
-For timely payment, invoices should be sent to [AP@mattermost.com](mailto:AP@mattermost.com) or uploaded into the vendor portal. For further information on receiving payment by Mattermost, please refer to the [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid).
+For timely payment, invoices should be sent to [AP@mattermost.com](mailto:AP@mattermost.com) or uploaded into the vendor portal. For further information on receiving payment by Mattermost, please refer to the [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid) page.
