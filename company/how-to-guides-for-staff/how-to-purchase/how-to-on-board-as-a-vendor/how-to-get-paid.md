@@ -16,33 +16,33 @@ If you're a vendor, refer to the [Vendor Onboarding](https://handbook.mattermost
 
 #### Canada
 
-If you're a staff member located in Canada or if your contract is with Open World Services \(OWS\), payroll will be made to you in accordance with OWS policy. For expense reimbursement, please follow the [OWS Reimbursement Process](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#open-world-services-ows).
+If you're a staff member located in Canada, or if your contract is with Open World Services \(OWS\), payroll will be made to you in accordance with OWS policy. For expense reimbursement, please follow the [OWS Reimbursement Process](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#open-world-services-ows).
 
 #### Rest of World (ROW)
 
-If you're a vendor, or a contractor located outside the United States and Canada, Mattermost requires a primary banking institution as a method of payment, as we use TransferWise on the Accrualify platform for invoice processing and payment. If you're a staff member located outside of the United States, Canada, United Kingdom, and Germany, you will get paid via TransferWise for invoice processing, expense reimbursement, and payment. The currency in which payment is made is based on the currency stated within the agreement signed with Mattermost.
+If you're a vendor or a contractor located outside the United States and Canada, Mattermost requires a primary banking institution as a method of payment, as we use TransferWise on the Accrualify platform for invoice processing and payment. If you're a staff member located outside of the United States, Canada, United Kingdom, and Germany, you will get paid via TransferWise for invoice processing, expense reimbursement, and payment. The currency in which payment is made is based on the currency stated within the agreement signed with Mattermost.
 
 ##### Primary Banking Institution
 
 The person or legal entity the bank account is registered to must be in the name of the contracting individual/entity.
 
-_Example 1_: A staff member named John Smith is located in Spain and signed a consulting agreement with Mattermost, Inc. under his surname. John Smith must have the following banking institution setup:
+_Example 1_: A staff member named John Smith is located in Spain. He signed a consulting agreement with Mattermost, Inc. under his surname. John Smith must have the following banking institution setup:
 
 * The bank account is located in Spain
 * The bank account is his name or other known surname
 
-_Example 2_: A staff member named John Smith is located in Spain and signed a consulting agreement with Mattermost, Inc. under his LLC titled Better Coding. John Smith must have the following banking institution setup:
+_Example 2_: A staff member named John Smith is located in Spain. He signed a consulting agreement with Mattermost, Inc. under his LLC titled Better Coding. John Smith must have the following banking institution setup:
 
 * The bank account is located in Spain
 * The bank account is in the name of Better Coding, LLC
 
-If you provide information for your banking institution, your invoice and/or expense reimbursements will be made through TransferWise. As noted above, Mattermost requires banking information from a primary banking institution to be able to make reimbursements through TransferWise. Approved expense reports are reimbursed either by the 15th or end of each month.
+If you provide information for your banking institution, your invoice and/or expense reimbursements will be made through TransferWise. As noted above, Mattermost requires banking information from a primary banking institution to be able to make reimbursements through TransferWise. Approved expense reports are reimbursed either by the 15th or the end of each month.
 
 ##### TransferWise
 
 If you provide information for your TransferWise account, your invoice and/or expense reimbursements will be made through TransferWise. As noted above, you will need to be a staff member located outside of the United States, Canada, United Kingdom, and Germany to be able to choose this option. If your consulting agreement is other than your name such as an LLC or LLP, than we request you set up a business account for contracting entity in TransferWise under the same legal name.
 
-Mattermost primarily makes payments in USD, unless otherwise stated on your agreement signed with Mattermost. You'll receive your expense reimbursement no later than 15th and end of each month. Approved expense reports are reimbursed either by the 15th or end of each month.
+Mattermost primarily makes payments in USD, unless otherwise stated on your agreement signed with Mattermost. You'll receive your expense reimbursement no later than the 15th and the end of each month. Approved expense reports are reimbursed either by the 15th or the end of each month.
 
 Refer to the [Vendor Onboarding](https://handbook.mattermost.com/operations/finance/spending-company-money/procurement/how-to-on-board-as-a-vendor) section for guidance on registering so you get paid.
 
