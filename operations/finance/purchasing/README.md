@@ -2,7 +2,7 @@
 
 The purpose of this page is to guide you as you are making purchases on behalf of Mattermost. As you are making purchases on behalf of Mattermost, please refer to the Purchase Decisioning Tree below to help guide you through the Procurement process.
 
-INSERT Purchase Decisioning Tree image HERE
+![](../../../.gitbook/assets/Purchase-Decisioning-Tree.png)
 
 After you have gone through the decisioning tree, refer to the pages below for further guidance on how to move forward with your puchase request:
 
