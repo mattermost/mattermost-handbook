@@ -16,4 +16,4 @@ If you were part of a paid simulation project, you may have already completed th
 
 ### Invoicing and payment
 
-For timely payment, invoices should be sent to AP@mattermost.com or uploaded into the vendor portal. For further information on receiving payment by Mattermost, please refer to the [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid).
+For timely payment, invoices should be sent to AP@mattermost.com. For further information on receiving payment by Mattermost, please refer to the [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid).
