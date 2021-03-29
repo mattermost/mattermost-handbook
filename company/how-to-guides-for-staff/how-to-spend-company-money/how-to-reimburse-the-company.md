@@ -54,11 +54,9 @@ If you elect to reimburse via Wire/ACH, you are responsible for the Payer and Pa
 
 Make checks payable to Mattermost, Inc. and in the memo field indicate the 8 digit Expensify Report Number\(s\) so that Finance may properly apply the payment to the report upon receipt. Checks should be mailed to the address listed below:
 
-              **Attention: Mattermost Finance Team**
-
               **Mattermost, Inc.**
 
-              **20 California St., Suite 250**
+              **Dept LA 25181**
 
-              **San Francisco, CA 94111**
+              **Pasadena, CA 91185-5181**
 
