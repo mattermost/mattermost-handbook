@@ -407,7 +407,7 @@ A server is considered to have a daily active user, if at least one user recorde
 
 #### TEMAS
 
-TEMAS stands for _Telemetry-Enabled Daily Active Servers_. It is the count of unique [production servers](metrics-definitions.md#server-considerations) sending telemetry \(“activity"\) data to Mattermost on a given date **with at least one monthly active user**.
+TEMAS stands for _Telemetry-Enabled Monthly Active Servers_. It is the count of unique [production servers](metrics-definitions.md#server-considerations) sending telemetry \(“activity"\) data to Mattermost on a given date **with at least one monthly active user**.
 
 A server has a monthly active user, if at least one user recorded activity on the Mattermost server in the last 30 days, such as viewed a channel or posted a message.
 

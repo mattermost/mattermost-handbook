@@ -57,19 +57,49 @@ Schedule for Self-Managed releases:
 6. Self-Managed release candidate is smoke tested.
 7. Self-Managed release final is cut and released publicly.
 
+## Release Dates Communication
+
+Release dates are currently communicated in the following ways. Further iteration and improvements on this process can be done in the future.
+
+1. Channels
+  - The [Release Announcements channel](https://community.mattermost.com/core/channels/release-announcements) functions as the main location for important announces about new releases, release branches cut, release candidates and test server updates, and release dates and feature complete deadlines. Specific teams or people may be at-mentioned if the announce is targeted to someone.
+  - The [Announcements channel](https://community.mattermost.com/private-core/channels/announcements) functions as the central place to find the most important announcements for new releases with links to blog posts that can be easily shared with external stakeholders including MLT and customers.
+2. Mattermost Release Dates Calendar
+  - Lists key release dates and deadlines.
+3. PM and R&D meetings 
+  - Updates are provided on upcoming key dates and/or features.
+
+**Understanding the Cadence**
+
+ - The Mattermost Cloud releases follow a 2-week cycle and the release day is normally on Wednesdays. Feature Complete deadline for each Mattermost Cloud release is on Mondays 9 days prior to the release day.
+ - The Mobile App release cadence is monthly on the 16th of every month.
+ - Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next Self-Managed release. The release branch for a Self-Managed release (e.g. ``release-5.32``) will be cut once the Mattermost Cloud release that will be used for the next Self-Managed release has been shipped.
+ - This cadence is subject to change in the future and any changes will be documented and announced.
+
+![Release Cadence Illustration](../../../../.gitbook/assets/Release-dates2.png)
+
 ## Tracking Feature Flags
 
 Release Manager is able to look at the version we have deployed to Mattermost Cloud. Also, when we are hooked up to split.io, there will be a dashboard where you can see active and historic feature flags. Any feature that has its flag removed would be included on any Self-Managed releases past the point after that removal was merged. More details on feature flags: https://developers.mattermost.com/contribute/server/feature-flags/.
+
+## Cloud Release Branch Processes
+
+**Process for merging the ``master`` branch into the ``cloud`` branch**
+ - The Cloud team opens PRs in webapp, server, redux, api-reference, and Enterprise branches to merge the ``master`` branch into the ``cloud`` branch ([example PR](https://github.com/mattermost/mattermost-server/pull/16838)).
+ - Devs should be aware of the dates when a ``master`` branch is merged into a ``cloud`` branch in order to be mindful of avoiding having incomplete features in a Cloud release, and to include bug fixes that we may want to include in a release.
+
+**Process for cutting the release branch for Self-Managed releases based off of Cloud releases**
+ - Instead of using the tick-tock branching process, the Self-Managed releases are now cut based off of the Mattermost Cloud release tags (e.g Self-Managed v5.32 release was based off of ``cloud-2021-01-26`` tag).
 
 ## Adding Milestones on PRs and Jira Tickets
 
 Releases are now focused on "shipping features and improvements when they're ready for Mattermost Cloud, and then they'll get to a Self-Managed release once they've been available on Mattermost Cloud for 2+ weeks".
 
- - A new Cloud branch (based off of master) is used, and any regression bug fixes for the next Mattermost Cloud release will be cherry-picked there.
+ - A new Cloud branch (based off of ``master``) is used, and any regression bug fixes for the next Cloud release will be cherry-picked there.
  - This applies to webapp/server/Redux/Enterprise repos.
  - A fix version such as “Cloud (November 24)” is added in Jira to track regression bug fixes for Mattermost Cloud releases.
- - The Self-Managed releases will be based on Mattermost Cloud releases. This is decided by the Release Manager/Cloud team based on the timeline between Mattermost Cloud releases and the release day of Self-Managed releases.
- - Cloud PRs currently being merged into master don’t need a Self-Managed release milestone added to them. Release Manager will track merged PRs and help ensure that correct milestones are added as needed. Any concerns can be brought up for discussion on a case-by-case basis. There may be updates to this process in the future.
+ - The Self-Managed releases are based off of Mattermost Cloud releases.
+ - Submitted feature or bug fix PRs don’t need a release milestone added to them unless the PR is scheduled for a specific Mattermost Cloud or Self-Managed release. The Release Manager will track merged PRs and help ensure that correct milestones are added as needed. Any concerns can be brought up for discussion on a case-by-case basis.
 
 ## Triaging Mattermost Cloud Customer Issues
 
