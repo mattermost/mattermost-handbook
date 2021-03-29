@@ -6,7 +6,7 @@ description: 50%
 
 **Effective Date**: January 1, 2021
 
-If you're a new full-time staff member who will be issuing Mattermost a monthly or bi-monthly invoice, new vendor supplying goods or services, or a contractor to Mattermost, you will need to go to onboard as a new vendor with the [Finance Team](https://community.mattermost.com/private-core/channels/expenses).
+If you're a new full-time staff member who will be issuing Mattermost a monthly or bi-monthly invoice, new vendor supplying goods or services, or a contractor to Mattermost, you will need to onboard as a new vendor with the [Finance Team](https://community.mattermost.com/private-core/channels/expenses).
 
 ## New Vendor or Contractor
 
