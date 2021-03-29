@@ -1,17 +1,17 @@
-# Mattermost Family & Friends Day
+# Mattermost Family and Friends Day
 
 At Mattermost we care a lot about our communities: our customers, our open source contributors, our staff, and the friends and family that support our staff to do all that they do.
 
-Occasionally we’ll call a “Family & Friends Day”. In alignment with our time off policies, this is a day to rest, relax, and recharge by spending time with the people in our personal lives who matter so much.
+Occasionally we’ll call a “Family and Friends Day”. In alignment with our time off policies, this is a day to rest, relax, and recharge by spending time with the people in our personal lives who matter so much.
 
-We want to be especially thoughtful on the topic in the time of COVID, economic change, and changes to travel and academic environments.
+We want to be especially thoughtful on the topic in the time of Covid, economic change, and changes to travel and academic environments.
 
 ## Upcoming Family and Friends Day
 
 * Friday, April 2nd, 2021
 * Monday, April 5th, 2021
 
-**Past Family and Friends Days** 
+**Past Family and Friends Days**
 
 * Friday, September 4, 2020
 * Friday, October 9, 2020
@@ -23,7 +23,7 @@ Our #familyandfriendsday will be shared on Twitter, LinkedIn, and other social m
 
 ## FAQ
 
-**How should we handle coverage for teams or roles that require someone to work that day?** 
+**How should we handle coverage for teams or roles that require someone to work that day?**
 
 If you're in a role or on a team that may require coverage or you have important customer meetings that cannot or should not be rescheduled, please work with your manager to find an alternative day to take off.
 
