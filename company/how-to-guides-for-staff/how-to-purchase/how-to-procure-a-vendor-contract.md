@@ -66,7 +66,7 @@ All contracts are to address either Ian Tien \(CEO\) or Aneal Vallurupalli \(VP 
 | Address         | 530 Lytton Avenue, Second floor Palo Alto, CA, 94301, USA |
 | Office Phone Number* | (650) 667-8512 |
 
-* Ian Tien or Aneal Vallurupalli’s personal phone number should not be used
+* Ian Tien or Aneal Vallurupalli’s personal phone number should not be used.
 
 #### Is your contract an [MTA](https://handbook.mattermost.com/operations/finance/risk-management#mattermost-templated-agreement)?
 
