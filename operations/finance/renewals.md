@@ -8,6 +8,6 @@ Please submit a PO in Accrualify if your renewal meets **all** the following cri
 2. The amount for the renewal is the same as last year.
 3. The renewal falls under a master services agreement (MSA) that is still active (not expired or terminated) or the terms and conditions (T&C’s) are the same as last year.
 
-Please see the decisioning tree here (link to follow).
+Please see the decisioning tree ![here](../../../.gitbook/assets/Purchase-Decisioning-Tree.png).
 
 If all of these criteria are not met, please refer to the Purchase Decisioning Tree to determine next steps (submit a budget, submit a PO, legal review etc.).
