@@ -12,7 +12,7 @@ description: 99%
 
 If you're a staff member located in the United States, payroll is made through TriNet via direct deposit bi-monthly on the 15th and at end of each month. Your expense reimbursements will be made through Expensify under the Mattermost, Inc. policy in the form of an ACH payment. You'll be required to register your banking information to be able to receive an ACH payment in Expensify. We do not support any other type of expense reimbursement for United States staff members at this time. You'll receive your expense reimbursement no later than 15th and at end of each month if you follow the [How to use Expensify](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#expense-reimbursement-policy) policy.
 
-If you're a vendor, refer to the [Vendor Onboarding](https://handbook.mattermost.com/operations/finance/spending-company-money/procurement/how-to-on-board-as-a-vendor) section for guidance on registering so you can get paid.
+If you're a vendor, refer to the [Vendor Onboarding](https://handbook.mattermost.com/operations/finance/onboarding/how-to-on-board-as-a-vendor) section for guidance on registering so you can get paid.
 
 #### Canada
 
@@ -44,13 +44,13 @@ If you provide information for your TransferWise account, your invoice and/or ex
 
 Mattermost primarily makes payments in USD, unless otherwise stated on your agreement signed with Mattermost. You'll receive your expense reimbursement no later than the 15th and the end of each month. Approved expense reports are reimbursed either by the 15th or the end of each month.
 
-Refer to the [Vendor Onboarding](https://handbook.mattermost.com/operations/finance/spending-company-money/procurement/how-to-on-board-as-a-vendor) section for guidance on registering so you get paid.
+Refer to the [Vendor Onboarding](https://handbook.mattermost.com/operations/finance/onboarding/how-to-on-board-as-a-vendor) section for guidance on registering so you get paid.
 
 ## Payment Registration with Mattermost
 
 ### Banking registration
 
-Refer to the [Vendor Onboarding](https://handbook.mattermost.com/operations/finance/spending-company-money/procurement/how-to-on-board-as-a-vendor) section for guidance on registering so you can get paid.
+Refer to the [Vendor Onboarding](https://handbook.mattermost.com/operations/finance/onboarding/how-to-on-board-as-a-vendor) section for guidance on registering so you can get paid.
 
 ### Primary payment reimbursement facilities
 
