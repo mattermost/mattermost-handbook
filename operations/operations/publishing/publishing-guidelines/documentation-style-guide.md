@@ -10,11 +10,9 @@ Structure and organization are an important part of a document's ease of use and
 
 Try to keep only one topic in a page. Shorter topics are easier to reuse in other documents, are easier to write and edit, and are easier to translate.
 
-An exception to this is **Customer Education** content which can cover multiple topics per page.
-
 ### Document title
 
-The title appears in the left-hand navigation and at the top of the table of contents. Use a title that accurately reflects the content of the document. People scan the table of contents looking for answers; it's often faster than using the built-in search engine. 
+The title appears in the left-hand navigation and at the top of the table of contents. Use a title that accurately reflects the content of the document. People scan the table of contents looking for answers; it's often faster than using the built-in search engine.
 
 **Use Title Case for document titles (e.g. "This is an Article about Documentation"). Where a word/title/name is lowercase, retain that casing in the title (e.g. "This Article Covers the mmctl Tool").**
 
@@ -26,25 +24,15 @@ To make pages easier for people to quickly scan for the content that they're loo
 
 ### Abstract
 
-The abstract provides a high-level overview of the content, includes context, and outlines the value or goal to the reader. It often helps to write the abstract first, as it provides a framework for the content that follows. Keep in mind that the description is displayed in the search results along with the page title. People read the description to help them decide if the document is the one that they want. 
-
-An exception is **Customer Education** content that has no need to outline the content but sets more specific expectations for a well-defined audience. 
-
-For **Customer Education**, clearly name the audience as it can be narrow (System Administrators), but also large (System Administrators, Project Managers, and IT leaders in general). When setting the expectations answer these questions:
-
-- How will the reader benefit from the guide - what exact knowledge is taught?
-- How long will it take to work through the guide?
-- What similar topics are not covered in this guide?
+The abstract provides a high-level overview of the content, includes context, and outlines the value or goal to the reader. It often helps to write the abstract first, as it provides a framework for the content that follows. Keep in mind that the description is displayed in the search results along with the page title. People read the description to help them decide if the document is the one that they want.
 
 ### Table of contents
 
-If the document contains more than four sections or subsections, add a table of contents to help the user navigate the document. The table of contents should be added below the abstract. 
+If the document contains more than four sections or subsections, add a table of contents to help the user navigate the document. The table of contents should be added below the abstract.
 
 ### Introductory paragraph
 
-Each page should have an introduction that acts as a short description of the document. The short description should be a single paragraph of no more than three sentences. 
-
-An exception is **Customer Education** content where the introduction is replaced by the Learning Objectives section.
+Each page should have an introduction that acts as a short description of the document. The short description should be a single paragraph of no more than three sentences.
 
 ## Writing style
 
@@ -58,7 +46,7 @@ Spell out numbers when the number is the first word in a sentence or is less tha
 
 ### Commas
 
-We use the Oxford \(serial\) comma in our documentation. 
+We use the Oxford \(serial\) comma in our documentation.
  - For example: "Mattermost's writing style is clear, concise, and simple." as opposed to "Mattermost's writing style is clear, concise and simple."
 
 ### Capitalization
@@ -67,24 +55,24 @@ Capitalization is a work in progress and inconsistencies are actively being work
 
 #### Documentation headings
 
-**H1**
+##### Titles and document names
 
-Use Title Case for document names/titles.
+Use Title Case for document titles and names.
   - For example: "Deployment Guide for Organizations"
 
-**H2 onwards**
+##### Heading level 2
 
 Use Sentence case for section titles and headings.
   - For example: "Writing guidelines for editors"
 
 #### UI/in-product text
 
-**H1**
+##### Headings
 
 Use Title Case for menu names.
   - For example: "Create New Channel"
 
-**H2 onwards**
+##### Subheadings onwards
 
 Use Sentence case for other headings, buttons, menu items.
   - For example: "Select playbook stages"
@@ -93,9 +81,6 @@ Use Sentence case for other headings, buttons, menu items.
 
 Use the second person and avoid the first person.
   - For example: "View the status in the **Status** pane." as opposed to "We’ll view the status in the **Status** pane."
-
-An exception is **Customer Education** content which can be written in first or second person to keep the audience focused and interested.
-  - For example: "While Mattermost provides options to make mobile deployment as easy as possible, it will take time and iteration. We are here to [support](https://link-to-support-section) you." as opposed to "Deploying the Mattermost Mobile App will take time and iteration."
 
 ### Voice
 
@@ -115,7 +100,7 @@ The majority of Mattermost technical documentation is written in `.rst`. The exa
 
 ### Page titles
 
-Underline page titles using `=`, with no overline. Underlines should be as long as the title text. 
+Underline page titles using `=`, with no overline. Underlines should be as long as the title text.
 
 ```
   Document Title
@@ -151,7 +136,6 @@ Insert a table of contents into a document using the following format:
 ```  
     
 ### Text formatting
------------------
 
 Use highlighting of text to visually set off words and phrases that are important to readers. Content that should be highlighted includes file names, UI controls, and window titles. The following table has a comprehensive list with examples.
 
