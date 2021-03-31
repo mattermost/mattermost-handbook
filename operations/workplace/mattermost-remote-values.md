@@ -2,13 +2,19 @@
 
 Mattermost is a high performance, all-remote, and high trust company. We believe that team is everything and enabling each team member to do the best work of their careers will enable Mattermost to continue to do our best work as a team. With Staff across the [globe](https://www.google.com/maps/d/u/0/viewer?mid=1mENESkTtAsbfuah6KtRoBLwIjqqJ7Nzv&ll=19.358313530029793%2C-1.00877724999998&z=2), asynchronous and respectful communication is vital and the responsibility of every team member.
 
-## Mattermost Communication Guidelines
+## Mattermost Remote Values
+
+As an open source, remote-first and communities-centered company, effective, efficient and courteous communication is expected of every team member. A few guidelines we live by:  
 
 * Model behavior aligned with our [Leadership Principles](https://handbook.mattermost.com/contributors/onboarding/staff-onboarding-guide#leadership-principles).
-* Asynchronously communicate and default toward documentation. Empower and enable your team members with access and updates to information.
+* Asynchronously communicate and default to [open actions](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#open-actions) unless confidentiality is required. Empower and enable your teammates with access and updates to information. 
+* [Communities-Centered](https://handbook.mattermost.com/company/about-mattermost#companyhttps://handbook.mattermost.com/company/about-mattermost#company) means we define our success in terms of our [community](https://handbook.mattermost.com/contributors/contributors/community#mattermost-community). 
+ * We prioritize decisions to optimize value in order of: Customers, Company, Team, Self. This doesn't mean that individuals come last; rather, when done right, the expectation is that putting the Customer first will take care of the Company, Team and Self. The [Correct Minimums](https://handbook.mattermost.com/company/about-mattermost/mindsets#correct-minimums-medic-field-surgeon-plastic-surgeon) mindset offers a good example of how we prioritize [Customer Obsession](https://handbook.mattermost.com/company/about-mattermost#leadership-principles).
 * Communicate and write inclusively. Use simple language and avoid buzzwords and cultural idioms.
 * Assume positive intent. If issues arise, constructive feedback or an [unscheduled post-mortem](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-do-a-post-escalation-post-mortem) is encouraged.
 * Be mindful of your audience. Abide by our [Code of Conduct](https://handbook.mattermost.com/contributors/mattercon/mattermost-code-of-conduct).
+
+## Mattermost Communication Guidelines
 
 ## Meeting Etiquette
 

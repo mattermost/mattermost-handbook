@@ -2,8 +2,6 @@
 
 When writing for Mattermost, always think about the audience that will be reading your writing. Mattermost’s audience can vary, but we typically communicate with a technical audience and want to present Mattermost as being a friend of the practitioner in development, IT, and operations. It must be accurate and clear, presented with a style and tone that is appropriate for technical or educational content, and easy to navigate.
 
-An exception is **Customer Education** content where the audience is placed at the center of attention, as opposed to technical documentation where it is the document's content that is the primary focus.
-
 ## Document structure
 
 Structure and organization are an important part of a document's ease of use and its understandability. Information should be organized and presented in a logical order, with similar subjects grouped together in the same section. In most cases, a document has a title, an introductory paragraph, and one or more sections.
@@ -24,7 +22,7 @@ To make pages easier for people to quickly scan for the content that they're loo
 
 ### Abstract
 
-The abstract provides a high-level overview of the content, includes context, and outlines the value or goal to the reader. It often helps to write the abstract first, as it provides a framework for the content that follows. Keep in mind that the description is displayed in the search results along with the page title. People read the description to help them decide if the document is the one that they want.
+The abstract provides a high-level overview of the content, includes context, and outlines the value or goal to the reader. It often helps to write the abstract first, as it provides a framework for the content that follows. Keep in mind that the description is displayed in the search results along with the page title. People read the description to help them decide if the document is the one that they want. 
 
 ### Table of contents
 
@@ -32,7 +30,7 @@ If the document contains more than four sections or subsections, add a table of 
 
 ### Introductory paragraph
 
-Each page should have an introduction that acts as a short description of the document. The short description should be a single paragraph of no more than three sentences.
+Each page should have an introduction that acts as a short description of the document. The short description should be a single paragraph of no more than three sentences. 
 
 ## Writing style
 
@@ -91,6 +89,27 @@ Use active voice in preference to passive voice. Active voice has the subject of
 
 Use the present tense.
   - For example: "Sharing this link lets other users view the linked message." as opposed to "Sharing this link will let other users view the linked message."
+  
+## Terminology Guide
+
+Throughout Mattermost documentation, you’ll see the below terms mentioned and used. Their definitions and reason for usage are defined below.
+
+| Terms          | Description        | Usage             |
+| ------------- |-------------| --------------------|
+| Mattermost | Used to refer to [Mattermost](https://mattermost.com/about-us/) the company and [Mattermost](https://mattermost.com/product/) the product. | <ul><li> Mattermost is an open-source, self-hosted messaging platform with unlimited file sharing, search, and integrations</li> <li> Configure Mattermost on your server</li></ul> |
+| installation | Refers to an on-premises Mattermost environment comprised of hardware (server/s), database, filestore, etc., which hosts the required files to run Mattermost. | <ul><li> Your Mattermost installation includes physical servers </li></ul> |
+| deployment | Used to refer to making a new installation widely accessible. It can also refer to releasing an updated version, patch, etc. | <ul><li> Desktop App deployment guide </li></ul> |
+| configuration | Used to describe the settings and customizations applied to Mattermost to change the appearance and behavior. | <ul><li> Edit the configuration file to include any custom settings related to your domain </li></ul> |
+| Mattermost Server | Used to refer to the single Linux binary that is installed on the physical server which hosts your Mattermost installation. It is not used to refer to the product going beyond the binary name. Always capitalize the "Server" when referring to the name of the binary. | <ul><li> Download the Mattermost Server binary |
+| Mattermost server | Used to refer to the physical server on which you run Mattermost. It is also referred to as the customer’s Mattermost server. Always lowercase "server" when referring to the customer’s physical Mattermost server | <ul><li> Your Mattermost server may need to be rebooted before changes are applied </li></ul> |
+| Web App | Used to refer to the Mattermost Web Application. References to general web applications are not capitalized. | <ul><li> Mattermost Web App </li></ul> |
+| Mobile App | Used to refer to the Mattermost Mobile Application. References to general mobile applications are not capitalized. | <ul><li> Mattermost Mobile App </li></ul> |
+| Desktop App | Used to refer to the Mattermost Desktop Application. References to general desktop applications are not capitalized.| <ul><li> Mattermost Desktop App </li></ul> |
+| Public channel | Used to refer to channels available to all members to discover and join. Don’t hyphenate and use lowercase for "channel". | <ul><li> Outgoing webhooks are supported in Public channels only </li></ul> |
+| Private channel | Used to refer to channels managed by synchronized groups. Don’t hyphenate and use lowercase for "channel". | <ul><li> Users can remove themselves from teams and Private channels managed by synchronized groups </li></ul> |
+| Direct Message | Direct Messages are for conversations between two people. Visible only to the people involved. | <ul><li> Full names appear in the Direct Messages member list and team management modal </li></ul> |
+| Group Message | Group Messages are Direct Messages that have conversations among three or more people. Visible only to the people involved. | <ul><li> Group Messages are listed in the sidebar </li></ul> |
+| device | Used to refer to collectively to all types of computers, phones, and other devices. | <ul><li> Speak with the owner of any other proxies between your device and the Mattermost server </li></ul> |
 
 ## Using ReStructuredText markup (rst)
 
@@ -199,9 +218,10 @@ To create a name-value group such as a definition list, type the term on a line 
 
 URLs are automatically rendered as links in Sphinx; however, where possible, it is preferred that hyperlinks are created within the text of a sentence. Hyperlinks within a sentence can be created using the following formatting:
 
-`Link display text <URL-of-website>`__, for example:
-
 ```
+`Link display text <URL-of-website>`__
+
+For example:
   `Mattermost Manifesto <https://www.mattermost.org/manifesto/>`__
 ```
 
@@ -309,3 +329,15 @@ The following example is a block of Go code.
 ## Using Markdown
 
 The majority of Mattermost technical documentation is written in `.rst`. However, there are some instances where Markdown is used, for example the Mattermost Handbook. You can read more about using Markdown in the [Formatting Text](https://docs.mattermost.com/help/messaging/formatting-text.html) section of the User's Guide.
+
+## Editing the Mattermost User Guide
+
+These are some additional tips for writing [Mattermost documentation for end users](https://docs.mattermost.com/guides/user.html).
+
+1. Start fresh - begin by writing a draft in a Google document from scratch.
+2. Start the document by describing the benefits of the feature for end users ([see this example](https://docs.mattermost.com/help/messaging/attaching-files.html)).
+3. Compare to the original document to add any important information or tips that you forgot to include in your draft.
+4. Explain how to use the feature - use short bullet points as well as screenshots as applicable.
+5. Include useful tips as applicable.
+
+If a document includes multiple features that are related to each other, order them based on which functionality is used the most, e.g.: how to attach files > file previewer > sharing public links.

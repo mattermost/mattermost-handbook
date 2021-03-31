@@ -4,7 +4,7 @@ description: 'Owner: Alex Dovenmuehle'
 
 # Data Engineering
 
-Business Operations, Data Engineering, and Analytics functions were started in December and are ever evolving. Because of how new we are, eveything on this page is currently WIP.
+Business Operations, Data Engineering, and Analytics functions were started in 2019 and are ever evolving. Because of how new we are, eveything on this page is currently WIP.
 
 We are currently focused on:
 
@@ -52,9 +52,9 @@ We are currently focused on:
 
 * [Virtual Warehouses](https://docs.snowflake.net/manuals/user-guide/warehouses.html) are Snowflake’s concept for a cluster of compute resources that can execute queries. You are billed based on how the size of the Virtual Warehouse and how long it is running for.
 
-  **Stage and COPY**
+**Stage and COPY**
 
-* [Stages](https://docs.snowflake.net/manuals/sql-reference/sql/create-stage.html) in Snowflake allow you to specify an external data source that you want to load data from. Once specified, you can run a simple “COPY INTO” command with a pattern, and in our case, will allow us to import data from S3 buckets. You can see how we utilize this [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/extract/s3_extract/stage_import.py)
+* [Stages](https://docs.snowflake.net/manuals/sql-reference/sql/create-stage.html) in Snowflake allow you to specify an external data source that you want to load data from. Once specified, you can run a simple “COPY INTO” command with a pattern, and in our case, will allow us to import data from S3 buckets. You can see how we utilize this [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/extract/s3_extract/stage_import.py).
 
 ### dbt \(Data Build Tool\)
 
@@ -83,38 +83,38 @@ We are currently focused on:
 ### Telemetry
 
 * Telemetry data is data that is sent from Mattermost servers and makes its way to our data warehouse. 
-  * This data is detailed [here](https://docs.mattermost.com/administration/telemetry.html)
+  * This data is detailed [here](https://docs.mattermost.com/administration/telemetry.html).
 * Currently, we use [Segment](https://segment.com/) to push this data to Snowflake. 
   * The data is available in its raw form in the Raw database, in the mattermost2 and mattermost\_nps schemas.
 * We currently have a dbt model [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/transform/snowflake-dbt/models/mattermost/server_daily_details.sql) that uses this raw data, but will continue to add more.
 * Active User Counts
   * Mattermost servers ping a Cloudfront endpoint with some basic telemetry. It uses the log format specified [here](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/AccessLogs.html#LogFileFormat). 
-  * The import job uses code [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/extract/s3_extract/stage_import.py#L52)
+  * The import job uses code [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/extract/s3_extract/stage_import.py#L52).
 
 ### Push Notifications
 
-* Mattermost runs a proxy service that allows notifications to be sent through Apple and Google’s respective notification services for mobile notifications. The log data is put into an S3 bucket and then ingested using the aforementioned Snowflake Stage and COPY. See [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/extract/s3_extract/stage_import.py#L58) for more details
+* Mattermost runs a proxy service that allows notifications to be sent through Apple and Google’s respective notification services for mobile notifications. The log data is put into an S3 bucket and then ingested using the aforementioned Snowflake Stage and COPY. See [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/extract/s3_extract/stage_import.py#L58) for more details.
 
 ### Server Release
 
-* To help us track how many Mattermost servers are being deployed, there is a pingback which gets logged to an S3 bucket that we import. Details [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/extract/s3_extract/stage_import.py#L46)
+* To help us track how many Mattermost servers are being deployed, there is a pingback which gets logged to an S3 bucket that we import. Details [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/extract/s3_extract/stage_import.py#L46).
 
-  **License Data**
+**License Data**
 
-* Mattermost’s enterprise license metadata is exported nightly to an S3 bucket and then we import it daily. Code [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/extract/s3_extract/stage_import.py#L42)
+* Mattermost’s enterprise license metadata is exported nightly to an S3 bucket and then we import it daily. Code [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/extract/s3_extract/stage_import.py#L42).
 
 ### Stitch Data
 
 * **Google Analytics**
   * Overview
     * Google Analytics - Stitch Integration has a lot of caveats and limitations.
-    * Known Limitations:
-      * Each set of dimensions and measures from Google Analytics needs to have it’s own Stitch integration.
+    * Known limitations:
+      * Each set of dimensions and measures from Google Analytics needs to have its own Stitch integration.
       * Each integration creates a schema in Snowflake that matches the name of the integration and adds a table called report
         * `Name: GA ChannelGrouping Source Users Org Schema: analytics.ga_channelgrouping_source_users_org Table: analytics.ga_channelgrouping_source_users_org.report`
       * Once an integration is created, it cannot be edited. If you need to make changes, you need to delete the integration and start over.
-      * Data is only pulled at a daily level
-        * This is an issue because “Unique Monthly Users” is not the same as “Aggregated Unique Daily Users
+      * Data is only pulled at a daily level.
+        * This is an issue because “Unique Monthly Users” is not the same as “Aggregated Unique Daily Users.
   * Mattermost.org
     * [Google Analytics Link](https://analytics.google.com/analytics/web/?authuser=0#/report-home/a64458817w100411618p104282920)
     * Owner: Jason Blais
@@ -125,14 +125,13 @@ We are currently focused on:
         * Measures: Users
   * Mattermost.com
     * [Google Analytics Link](https://analytics.google.com/analytics/web/?authuser=0#/report-home/a120238482w177779216p176410444)
-    * Owner: Kendall Reicherter
+    * Owner: Rachel Bradley-Haas
     * Stitch Integrations:
       * [GA ChannelGrouping Source Users Com](https://app.stitchdata.com/client/153136/pipeline/connections/212282/summary)
         * Frequency: 6 hours
         * Dimensions: ChannelGrouping, Source
         * Measures: Users
       * [GA Mattermost Com Pages Visits](https://app.stitchdata.com/client/153136/pipeline/connections/226666/summary)
-
         * Frequency: 6 hours
         * Dimensions: Page Path, Page Title
         * Measures: Page Visits, Unique Page Visits, Avg Time on Page
@@ -144,7 +143,7 @@ We are currently focused on:
         * Frequency: 6 hours
         * Dimensions: Page Path, Page Title
         * Measures: Page Visits, Unique Page Visits, Avg Time on Page
-* **Salesforce / Heroku Connect**
+* **Salesforce/Heroku Connect**
   * [OrgM](https://app.stitchdata.com/client/153136/pipeline/connections/206623/summary)
   * Frequency: 1 hour \(as of 2020-01-07\)
   * [Tables Syncing](https://app.stitchdata.com/client/153136/pipeline/connections/206623/data/db/d6ghpflham816n/schema/orgm)
@@ -162,19 +161,19 @@ We are currently focused on:
       * Follow the link formatting to table specific info
       * Click Table Settings
     * Reloading a Table:
-      * In Table Settings, click Reset Table and save updates
+      * In Table Settings, click **Reset Table** and save updates
 
 ### Postgres Job
 
 * The Postgres Job is simply a way for us to run scripts against our Heroku Postgres database \(that contains our Salesforce data through Heroku Connect\). 
 * The DAG for this is [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/dags/general/pg_job.py#L25)
-  * The script looks for sql files in this [folder](https://github.com/mattermost/mattermost-data-warehouse/tree/master/transform/sql) and the second argument to “get\_container\_operator” must match the filename in the folder \(without the .sql\)
+  * The script looks for sql files in this [folder](https://github.com/mattermost/mattermost-data-warehouse/tree/master/transform/sql) and the second argument to “get\_container\_operator” must match the filename in the folder \(without the .sql\).
 
     It uses a Kubernetes Secret to store the credentials for our Postgres database.
 
   * Note: The first argument to “get\_container\_operator” must not have any underscores in the name, hyphens can be used in their place.
 
-### Granting Access / Permissions
+### Granting Access/Permissions
 
 #### Snowflake
 
@@ -197,12 +196,12 @@ We are currently focused on:
 
 * Admin adds user to [Heroku Account](https://dashboard.heroku.com/apps)
 
-  **Stitch**
+**Stitch**
 
 * Admin adds user to [Stitch Account](https://app.stitchdata.com/client/153136/pipeline/v2/account)
 
-  **Airflow**
+ **Airflow**
 
 * Admin shares login information with user via LastPass
   * Airflow Creds in Shared-BizOps Folder
-
+  
