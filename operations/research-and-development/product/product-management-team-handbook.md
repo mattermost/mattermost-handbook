@@ -10,7 +10,7 @@ The purpose of this handbook is to provide more details on the Product Manager r
 
 [Product Management Areas of Ownership](operations/research-and-development/product/product-ownership-areas.md) 
 
-### Change Log
+### Change log
 
 | Date | Edited By | Change Notes |
 | :--- | :--- | :--- |
@@ -23,23 +23,23 @@ The purpose of this handbook is to provide more details on the Product Manager r
 
 ## The Product Manager Role
 
-### Function within the Organization
+### Function within the organization
 
 Product Managers are organized within the R&D area of Mattermost; however, they have interactions with all departments and areas to ensure success of the product.
 
-### Strategic Priorities
+### Strategic priorities
 
 Product Managers are responsible for carrying out the strategic priorities of the product. They are tasked with ensuring the product is profitable by meeting customers and users existing and future needs. Understanding that each client and user have their own set of specific requirements, use cases, and preferences; a Product Manager must understand the patterns across a broad range of input and focus on exploiting value in the areas that will provide the greatest return for the largest audience.
 
-### Guiding Principles for the PM role \(WIP\)
+### Guiding principles for the PM role \(WIP\)
 
-* [Company Values](https://docs.mattermost.com/process/handbook.html#values)
-* Mindsets
+* [Company Values](https://handbook.mattermost.com/company/about-mattermost)
+* [Mindsets](https://handbook.mattermost.com/company/about-mattermost/mindsets)
 * Recommended Reading
 * * What fundamental philosophies are predominant?
   * Pragmatic Marketing: “Your opinion, although interesting, is irrelevant.”
     * It’s all about the customer/user/buyer’s opinion/want/need
-* FAQ \(https://handbook.mattermost.com/operations/research-and-development/product/product-management-team-handbook#frequently-asked-questions-faq)
+* [FAQ](https://handbook.mattermost.com/operations/research-and-development/product/product-management-team-handbook#frequently-asked-questions-faq)
   * How do we make packaging decisions?
   * Prioritization framework
   * Tips on working with customers
@@ -101,13 +101,13 @@ Sought out as an authority in the industry, influencing industry direction and s
 ### Recruiting process
 
 * [Hiring Process](https://handbook.mattermost.com/contributors/join-us/staff-recruiting/product-manager-hiring)
-* [Interview Processes](https://docs.google.com/document/d/1Zi57YrS1eje23vriOCyqDHpFeGk3Xev7Ty_6Numx5Nc/edit?usp=sharing)
+* [Interview Processes](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#interview-process)
 
 ## Onboarding
 
-### First Day
+### First day
 
-Objective: Explore the Product with Fresh Eyes
+Objective: Explore the product with fresh eyes
 
 Before diving too deeply into docs, processes, and everything else - take this chance to look at the product with fresh eyes! Keep a list of questions, observations, and points of confusion to help with your own learning and to provide feedback on your first impressions of Mattermost for the rest of the team.
 
@@ -115,14 +115,14 @@ A good place to start is exploring the websites, and then see if you can find a 
 
 * Google Mattermost
 * [https://mattermost.com](https://mattermost.com/)
-* [https://docs.mattermost.com](https://docs.mattermost.com/) \(User, Admin, Integrations guides\)
+* [https://docs.mattermost.com](https://docs.mattermost.com/) \(User, Cloud, Self-Managed, Integrations guides\)
 * [https://developers.mattermost.com](https://developers.mattermost.com/)
-* [http://github.com/mattermost](http://github.com/mattermost)
-* [https://www.mattermost.com/demo](https://www.mattermost.com/demo)
+* [http://github.com/mattermost](https://github.com/mattermost/)
+* [https://www.mattermost.com/demo](https://www.mattermost.com/demo/)
 
 Activities:
 
-* Meet with Manager
+* Meet with direct manager
   * Company org overview
     * [https://mattermost.bamboohr.com/employees/orgchart.php](https://mattermost.bamboohr.com/employees/orgchart.php)
     * [https://developers.mattermost.com/internal/rd-teams/](https://developers.mattermost.com/internal/rd-teams/)
@@ -136,10 +136,10 @@ Activities:
   * Set up 1-1 times and create 1-1 doc
 * Look at the product with “fresh eyes”
   * Install Mattermost on your laptop, go through the motions of setting it up
-    * Optionally also install the Mattermost App on your mobile device
+    * Optionally also install the Mattermost Mobile App on your mobile device
   * As you read the documentation, look out for any improvements that can be made \(outdated information, spelling/grammar, etc\)
 
-### First Week
+### First week
 
 Objective: Introduction to customers team members, resources, and make first contribution
 
@@ -158,7 +158,7 @@ Activities:
 Customer Obsession:
 
 * Join and introduce yourself in these channels, ask to join any and all customer calls - see if you can get a couple scheduled this week:
-  * [CSM:PM Engagement](https://community.mattermost.com/private-core/channels/csmpm-engagement) \(Stu, Emily, Jenn\)
+  * [CSM:PM Engagement](https://community.mattermost.com/private-core/channels/csmpm-engagement) \(Stu, Jenn\)
   * [Solution Architects](https://community.mattermost.com/private-core/channels/solutions-architects)
   * [Pre-Sales Support](https://community.mattermost.com/private-core/channels/pre-sales-support)
 * Join and review the topics and posts in these channels to get a better understanding of our customers
@@ -172,8 +172,8 @@ Team:
 * Meet the rest of team leads \(Developers, Designer, QA\) and join team meetings
   * Ask questions to understand development, design, QA processes
 * Meet with Amy \(Release Manager\) and read the release process doc
-* Meet with Ian \([https://github.com/it33/readme/blob/master/README.md](https://github.com/it33/readme/blob/master/README.md/)\). This will be scheduled for you
-* Meet other Product Managers \(Jason Blais, Eric Sethna, Katie Wiersgalla, Aaron Rothschild, Eric Sadur, Adam Clarkson, Ian Tao\)
+* Meet with Ian (CEO) \([https://github.com/it33/readme/blob/master/README.md](https://github.com/it33/readme/blob/master/README.md/)\). This will be scheduled for you
+* Meet other Product Managers \(Jason Blais, Eric Sethna, Katie Wiersgalla, Aaron Rothschild, Adam Clarkson, Ian Tao\)
   * Learn about their areas of ownership
 * Participate in PM, R&D, and Customer Obsession Meetings
 * Jira
@@ -195,7 +195,7 @@ Readings:
 * The Five Dysfunctions of a Team: A Leadership Fable
   * [https://drive.google.com/file/d/1yvLMW5tHGoTTjrq5VY17SCoeQoNXn9jA/view?usp=sharing](https://drive.google.com/file/d/1yvLMW5tHGoTTjrq5VY17SCoeQoNXn9jA/view?usp=sharing)
 
-### First 30 Days
+### First 30 days
 
 Objective: Build foundational knowledge
 
@@ -213,11 +213,11 @@ Activities:
 
 * Learn about our customers and users
   * Support
-    * Customers: Zendesk \(Sven\)
+    * Customers: Zendesk \(Sven, Support Lead)\)
       * Meet with Sven for Zendesk training and support overview
       * Join support standups for a week or two, and help out on support tickets
     * Community: GitHub, Forums \(Amy\)
-  * Customer success \(Meet with a CSM - Jennifer Lawler, Jeff Johnson, Sasa Cosic\)
+  * Customer Success \(Meet with a CSM\)
     * Overview of Customer Success team, who owns what
     * Current Customer Success processes
     * Typical challenges during customer onboarding
@@ -237,7 +237,7 @@ Activities:
     * What are typical challenges for the Sales team
     * Which sales do we win, which do we lose
     * What are the most common questions on configurations and trials
-  * Marketing \(Marketing team lead\)
+  * Marketing \(Marketing Team Lead\)
     * Marketing team overview
     * What are the Marketing team’s priorities
     * What is our current messaging and positioning around Mattermost
@@ -253,9 +253,9 @@ Activities:
   * Product Direction \(Product Lead\)
     * [Company VPMOM](https://handbook.mattermost.com/operations/operations)
     * [R&D V2MOM](https://docs.google.com/document/d/18tK7XmW2fGaUP2otiItHKcHyMGUf3kgnZxOQM6WB4zM/edit)
-    * Public Roadmap \(Staff Team &gt; [Roadmap channel](https://community.mattermost.com/private-core/channels/roadmap)\)
+    * Public Roadmap \(Staff Team [Roadmap channel](https://community.mattermost.com/private-core/channels/roadmap)\)
     * Review videos on [Mattermost Academy](https://academy.mattermost.com/)
-  * Technical Architecture \(Feature team dev lead\)
+  * Technical Architecture \(Feature Team dev lead\)
     * Reference:
       * [High level overview \(slideshow summary\)](https://docs.google.com/presentation/u/1/d/1Z44Yhaab7ul7yrnyYjQpq_T2A_z0GbrYMYe8Ov6zRZw/edit#slide=id.g1994d3cd93_0_507)
       * [High level system design document \(more detailed\)](https://docs.google.com/document/d/1NF6D3K83FfDaVcbPNeIFhS-Uw-otQEcsSecxQZhOaEQ/edit)
@@ -263,11 +263,11 @@ Activities:
       * Typical customer deployment
         * Sizing recommendations
   * Product areas: Functional Overview and Roadmap
-    * End user experience \(Desktop, Web, and Mobile client applications\) \(Eric Sethna\)
-    * Cloud \(Adam Clarkson\)
+    * End user experience \(Desktop, Web, and Mobile Applications\) \(Eric Sethna\)
+    * Cloud and Admin Experience \(Adam Clarkson\)
     * App Marketplace and Developer Toolkit \(Aaron Rothschild\)
-    * Enterprise \(Platform, Admin Console\) \(Katie Wiersgalla\)
-    * Product-centric GTM \(Customer Portal, Customer Journey\) \(Eric Sadur\)
+    * Platform \(Cloud Platform features, Self-Managed Platform features\) \(Katie Wiersgalla\)
+    * Product-centric GTM \(Customer Portal, Growth Product\) \(Jason Blais\)
     * Workflows \(Ian Tao\)
     * Community \(Jason Blais\)
     * Reference:
@@ -279,7 +279,7 @@ Activities:
 * Learn about the product development process
   * High level overview \(PM buddy\)
     * Team structure
-    * [Development process overview](https://docs.mattermost.com/process/overview.html)
+    * [Product planning overview](https://handbook.mattermost.com/operations/research-and-development/product/product-planning/product-philosophy-and-principles)
   * Team-specific processes \(PM buddy\)
     * Team Triage
     * Sprint Planning
@@ -292,7 +292,7 @@ Activities:
       * User research
     * Review process
       * Spec review channel
-  * Working with contributor community \(Jason\)
+  * Working with contributor community \(Jason Blais\)
     * Help wanted tickets
     * Community buddies
     * …?
@@ -317,7 +317,7 @@ Activities:
   * Helpful links, FAQs, and summaries of what you learned that would be useful for a new PM to know in the future
   * Example past project: [Business Model Canvas](https://docs.google.com/presentation/u/1/d/1vMXmuJf_EuxPWzCeeAWswnexwo9zTE5qBumKx-8We0E/edit#slide=id.p)
 
-### First 60 Days
+### First 60 days
 
 Objective: Build confidence through contribution
 
@@ -339,7 +339,7 @@ Activities:
 * Allow PM mentor to shadow you and review your work, providing guidance and feedback
 * Other projects identified by PM mentor to assist in learning about your area of responsibility
 
-### First 90 Days
+### First 90 days
 
 Objective: Take ownership of responsibilities
 
@@ -357,28 +357,28 @@ Activities:
 
 ## Product Manager Duties
 
-### Product Planning
+### Product planning
 
-#### Customer and Feature Research
+#### Customer and feature research
 
 * Interview and ask questions to clients and prospects
 * Document findings and requirements
 * Share findings with designers and developers
 * Coordinate kick-off for planning activities of new features
 
-#### Product Vision and Roadmap
+#### Product vision and roadmap
 
 * Roadmap creation - what to add to roadmap and why
 * Socialize vision and roadmap internally and externally
   * Participate in Roadmap meetings
 
-#### Prioritization and Release Planning
+#### Prioritization and release planning
 
 * Capture SWAG estimates from design and developers to determine length project
 * Facilitate prioritization decisions in sprint and release planning meetings
 * Keep [Release Plan](https://mattermost.productboard.com/feature-board/1097526-release-tracking-internal) up to date with features queued for the release
 
-#### Feature Design
+#### Feature design
 
 * Define requirements and coordinate design resources for features
 * Prepare and manage spec documents to organize planning, design, and stakeholder input of features
@@ -396,7 +396,7 @@ Activities:
   * In-Code: if \(this.props.buildEnterpriseReady && this.props.isLicensed\)
   * Review with PM team and get approval from other leads as required
 
-### Feature Development and The Release Process
+### Feature development and the release process
 
 #### Triage
 
@@ -407,7 +407,7 @@ Activities:
 * Assist in identifying [Help Wanted tickets](https://handbook.mattermost.com/contributors/contributors/help-wanted)
 * Update Fix Version to “help-wanted”, which will run an automation that will automatically create a corresponding issue in GitHub
 
-#### Release Feature Roadmap
+#### Release feature roadmap
 
 * Provide updates to current release roadmap in PM meetings
 * Review and provide input on release announcements
@@ -438,7 +438,7 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
 * Participate in Release testing per QA assignments
 * Test features and provide input on PRs from Developers and Community members
 
-#### Security and Dot Releases
+#### Security and dot releases
 
 * Inform Release Manager and QA team of any changes that need to be released as a dot release \(security or critical bug fixes\)
 * Participate in any testing or validation required to verify fixes
@@ -450,7 +450,7 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
 * Participate in Release Retrospectives \(see example [Release Retrospective Doc\)](https://docs.google.com/document/d/1TFSj6jOZ96nJXgS83DL0-3bFurcXuOyeUm7cP6TWfsY/edit)
   * Provide feedback from PM perspective and offer ideas for improving the release process
 
-#### Product Evangelism
+#### Product evangelism
 
 * Provide feature demos on customer calls, for customer training initiatives and for Mattermost Academy
 * Participate in events and conferences
@@ -466,7 +466,7 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
 * Maintain product accuracy on mattermost.com/product and roadmap
 * Author [Forum](https://forum.mattermost.org/t/community-design-meeting-folded-reply-threads/6729/10), [blog](https://mattermost.com/blog/mattermost-launches-mattermost-superstars-program-for-contributors/) and [release announcement](https://mattermost.com/blog/mattermost-release-v5-25/) posts
   * Example \(link to Eric’s permissions post\)
-* Other Marketing \(eg; future webinars, event participation, etc\)
+* Other Marketing \(e.g. future webinars, event participation, etc\)
 
 ### Customer and Community Success
 
@@ -481,7 +481,7 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
 * Verify bugs reported by customers
 * Answer customer questions in Premier Support \(PS: Customer name\) Channels and in internal channels by CSM and Sales
 
-#### Customer Requests
+#### Customer requests
 
 Feature and improvement requests from our Enterprise customers are logged by Customer Engineers, Customer Success, and Support in [productboard](https://mattermost.productboard.com/feature-board/1097524-master-feature-list).
 
@@ -506,13 +506,13 @@ After adding the feedback to the relevant idea in productboard, the PM comments 
 
 #### Mattermost Forum
 
-#### Twitter Rotation
+#### Twitter rotation
 
 Product Managers rotate responsibility weekly for answering product question escalations on Twitter. Twitter is monitored by the marketing team, and they will @mention the PM on rotation in the Twitter channel when they need to escalate a question.
 
 The PM on rotation can be found in the header of the [Mattermost Twitter channel](https://community.mattermost.com/core/channels/twitter). The rotation switches on Monday and is scheduled alphabetically by first name. The PM on rotation will be mentioned on the first day of their rotation.
 
-### Organizational Improvements
+### Organizational improvements
 
 * Increase productivity of department
   * Make progress on quarterly goals and OKRs for department
@@ -524,191 +524,17 @@ The PM on rotation can be found in the header of the [Mattermost Twitter channel
 
 ## Meetings - WIP
 
-#### PM Meeting
+### PM meeting
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Attendees:</th>
-      <th style="text-align:left">
-        <ul>
-          <li>All PMs, Release Manager</li>
-          <li>Chair: Lindsay Brock</li>
-          <li>Co-Chairs:</li>
-          <li>Vice Chair:</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Objectives:</th>
-      <th style="text-align:left">
-        <ul>
-          <li>Update progress on features for current release</li>
-          <li>Triage unassigned Customer Requests</li>
-          <li>Share team updates and best practices</li>
-          <li>Gather input from PM colleagues on proposals to uncover blindspots</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Time:</th>
-      <th style="text-align:left">
-        <ul>
-          <li>Weekly meeting on Wednesdays from 9:00am to 9:30am Palo Alto time.</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Meeting Preparation</th>
-      <th style="text-align:left">
-        <ul>
-          <li>Post agenda items to the Product Management channel. Items are queued
-            as a numbered post with a short description such as this [example](https://community.mattermost.com/core/pl/a58u4f5p77bpfx5ygyawnwm83y).
-            Provide supporting documentation for advanced review. Confidential information
-            should be posted in the PM:Private Channel.</li>
-          <li>PM on the Customer Request Rotation should have assigned all obvious unassigned
-            requests prior the meeting.</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left">During Meeting</th>
-      <th style="text-align:left">
-        <ul>
-          <li>Release Manager: Get updates from PMs on items scheduled in the Release
-            Plan.</li>
-          <li>PM on Twitter Rotation for week: Triage any non-obvious unassigned Customer
-            Requests.</li>
-          <li>Queued agenda items. Some agenda items that take a large amount of time
-            may be time-copped based on other agenda items queued.</li>
-          <li>Note action steps for agenda items, especially when there is follow up
-            required for PM who did not queue the item.</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Post Meeting</th>
-      <th style="text-align:left">
-        <ul>
-          <li>Provide updates on action steps posted against previous agenda items.
-            This may include providing a follow up agenda item for a future meeting.</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
+| Attendees | Objectives | Time | Meeting Prep | During Meeting | Post Meeting |
+|:-----|:------|:----|:------|:-------|:-------|
+| <li> Senior PM Managers</li> <li>All PMs</li> <li>Release Manager</li> | <li>Update progress on features for current release</li> <li>Triage unassigned Customer Requests</li> <li>Share team updates and best practices</li> <li>Gather input from PM colleagues on proposals to uncover blindspots</li> | Wednesdays from 9:00am to 9:30am Palo Alto time. | <li>Post agenda items to the Product Management channel. Items are queued as a numbered post with a short description such as this [example](https://community.mattermost.com/core/pl/a58u4f5p77bpfx5ygyawnwm83y).</li> <li>Provide supporting documentation for advanced review. Confidential information should be posted in the PM:Private Channel.</li> <li>PM on the Customer Request Rotation should have assigned all obvious unassigned requests prior the meeting.</li>| <li>Release Manager: Get updates from PMs on items scheduled in the Release Plan.</li> <li>PM on Twitter Rotation for week: Triage any non-obvious unassigned Customer Requests.</li> <li>Queued agenda items. Some agenda items that take a large amount of time may be time-copped based on other agenda items queued.</li> <li>Note action steps for agenda items, especially when there is follow up required for PM who did not queue the item.</li>| <li>Provide updates on action steps posted against previous agenda items.</li> <li>This may include providing a follow up agenda item for a future meeting.</li> |
 
-### Monthly Product:Sales Call
+### Monthly Product:Sales call
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Attendees:</th>
-      <th style="text-align:left">
-        <ul>
-          <li>All PMs; Optional: Sales, BizOps, Marketing departments</li>
-          <li>Chair: Lindsay Brock</li>
-          <li>Co-Chairs:</li>
-          <li>Vice Chair:</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Format:</th>
-      <th style="text-align:left">
-        <ul>
-          <li>PMs share roadmap highlights: Focus is on features with clear release timelines, and a clear benefit to customers, so Sales knows what is coming up soon they can talk to customers about. Demos, PRFAQs, and designs are shared as needed to illustrate the benefits</li>
-          <li>Open Q&A</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Time:</th>
-      <th style="text-align:left">
-        <ul>
-          <li>Monthly meeting on 2nd Monday of the month from 9:00am - 10:00am Palo
-            Alto time.</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Meeting Preparation</th>
-      <th style="text-align:left">
-        <ul>
-          <li>Prepare a list of features you'd like to showcase during the meeting.
-            The agenda of features PMs are presented are typically coordinated a few
-            days in advance.</li>
-          <li>Prepare a short demo of the features. Show prototypes or designs if a
-            demo environment is not available.</li>
-          <li>Prepare information that the team may need to be aware of regarding feature,
-            and be prepared to answer questions about the feature.</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left">During Meeting</th>
-      <th style="text-align:left">
-        <ul>
-          <li>Present your demos and share any other important information regarding
-            features or upcoming product changes.</li>
-          <li>Answer questions from the team. It may be necessary to time-cop a particular
-            topic to ensure we can share all the demos on the agenda.</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Post Meeting</th>
-      <th style="text-align:left">
-        <ul>
-          <li>Provide updates on action steps posted against previous agenda items.
-            This may include providing a follow up agenda item for a future meeting.</li>
-        </ul>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
+| Attendees | Format | Time | Meeting Prep | During Meeting | Post Meeting |
+|:-----|:------|:----|:------|:-------|:-------|
+| <li> All PMs</li> <li>Optional: Sales, BizOps, Marketing departments</li> | <li>PMs share roadmap highlights: Focus is on features with clear release timelines, and a clear benefit to customers, so Sales knows what is coming up soon they can talk to customers about.</li> <li>Demos, PRFAQs, and designs are shared as needed to illustrate the benefits</li> <li>Open Q&A</li> | Monthly meeting on 2nd Monday of the month from 9:00am - 10:00am Palo Alto time. | <li>Prepare a list of features you'd like to showcase during the meeting. The agenda of features PMs are presented are typically coordinated a few days in advance.</li> <li>Prepare a short demo of the features. Show prototypes or designs if a demo environment is not available.</li> <li>Prepare information that the team may need to be aware of regarding feature, and be prepared to answer questions about the feature.</li>| <li>Present your demos and share any other important information regarding features or upcoming product changes.</li> <li>Answer questions from the team. It may be necessary to time-cop a particular topic to ensure we can share all the demos on the agenda.</li>| <li>Provide updates on action steps posted against previous agenda items.</li> <li>This may include providing a follow up agenda item for a future meeting.</li>|
 
 ## Frequently Asked Questions (FAQ)
 
@@ -734,7 +560,7 @@ To set up a redirect, you must have admin access to www.mattermost.com. Marketin
 If you have access, follow these steps:
 
 1. Log in to the administration panel for www.mattermost.com
-2. From the left-hand sidebar, go to **SEO \> Redirects**
+2. From the left-hand sidebar, go to **SEO > Redirects**
 3. On the top of the screen, ensure you are on the **Redirects - Yoast SEO** page header on the **Redirects** tab
 4. Under **Type**, choose `301 Moved Permanently` option (this is the default option)
 5. In the **Old url** field, enter in the new direct you want to use in-product in the format of `/pl/default-page-description`. Update the page description with your page information
