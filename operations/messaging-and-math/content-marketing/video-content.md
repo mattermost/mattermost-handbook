@@ -4,17 +4,15 @@ description: '50% DRAFT (revised by Ashley Dotterweich on Oct 20, 2020)'
 
 # Video Content Guidelines
 
-This document provides guidelines for creating video content for Mattermost. It covers:
+This document provides guidelines for creating video content for Mattermost. The guidelines should give you an idea of how to:
 
-* What is video content used for?
-* How can I create great video content?
-* What is the process for developing video content?
-* What is the process for publishing video content?
-* How is video content promoted?
+* Aim for the correct audience
+* Create great video content
+* Record high-quality videos
+* Publish video content
+* Promote your video content
 
-## The Pros and Cons of Video Content
-
-**What is video content used for?**
+## What is video content used for?
 
 Video content provides a dynamic experience for viewers and can add personality and context to a topic where written content cannot. We should use video content when video provides the best audience experience for a piece of content. Some examples include discussions between two or more people and tutorials with complex or highly visual workflows.
 
@@ -22,7 +20,7 @@ Videos can also be helpful for repurposing live events and sessions for longer t
 
 While video content is great, it isn’t always the best option for a public-facing asset, even when raw footage has already been recorded. If you aren't sure if a piece of content would be a good fit for video content, don't be afraid to ask!
 
-## Setting Up your Recording Environment 
+## Setting up your recording environment 
 
 Great video content starts with a clean recording. If you know that a session will be used for video content, aim for getting as high quality as possible. Some tips for getting the best raw content:
 
@@ -36,7 +34,7 @@ Great video content starts with a clean recording. If you know that a session wi
 
 *An additional note for recording webinars, meetings, and other large-group calls: If there are more people than the speakers on the call being recorded, have them mute their mics and turn off their webcams before the recorded section begins. You can opt to hide participants who are not visible in your Zoom settings. This helps keep the recording free of visual and audio clutter.*
 
-## Post-Production/Video Processing Workflow
+## Post-production/video processing workflow
 
 ### What to prepare
 
@@ -58,7 +56,7 @@ For video editing we use Fiverr vendors to prepare polished videos. The followin
 * Graphifyme
 * matteo505
 
-### Reviews and Edits
+### Reviews and edits
 
 Minimize the number of edits and stakeholders for any given video, and be prompt with giving feedback to Fiverr editors. Fiverr tickets close automatically after three days, so be mindful of getting your feedback in quickly.
 
@@ -68,7 +66,7 @@ Editing should include:
 * (Optional) Internal stakeholders, e.g. a developer who gave a presentation on an upcoming feature
 * (Optional) External stakeholders, e.g. a customer who participates in a video case study
 
-## Preparing Finished Videos for Publication
+## Preparing finished videos for publication
 
 Mattermost videos are hosted on YouTube, which has a very simple upload workflow. Upload the video via YouTube Studio and include the following metadata:
 
@@ -81,6 +79,6 @@ If video is going to be available on our YouTube channel, assign it to appropria
 
 For access to our YouTube channel, ping @hanna.park.
 
-## Video Content Distribution
+## Video content distribution
 
 Video content may be promoted as part of a blog post, guide or other larger content campaign, or it may require its own dedicated campaign. Follow best practices for our [Content Distribution process](https://handbook.mattermost.com/operations/messaging-and-math/content-marketing/content-development-distribution-processes).
