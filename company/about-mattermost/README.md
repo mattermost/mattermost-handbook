@@ -28,7 +28,6 @@ Leadership principles are deliberate choices defining our behavior. When facing 
 * **Ownership:** Own the outcomes of your activity. Don’t drop the ball. When we see a vacuum on something important, we jump in – we never say “it’s not my job.”
 * **High Impact:** Align work to our shared vision and focus on those priorities. When deciding to work on low impact or high impact projects, choose high impact.
 * **Self-Awareness:** We understand and seek to understand our strengths and growth opportunities, as individuals and organizations. We are open to critique and share critique constructively and respectfully.
-* **Insist on High Standards:** Have relentless high standards. Continually raise the bar for high-quality products and processes.
 * **Earn Trust:** Make decisions based on maximizing the trust of others in your judgement. Earn and keep people’s trust.
 
 ## Market
