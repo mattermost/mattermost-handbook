@@ -17,10 +17,10 @@ This section outlines:
 
 * Ian Tien: Co-Founder and CEO
 * Corey Hulen: Co-Founder and CTO
-* Chandar Venkatamaran: Chief Product Officer
 * Aneal Vallurupalli: VP, Finance
 * Chris Overton: VP, Engineering
-* Lindsay Brock: Head of Product Management
+* Barry Duplantis: VP, Customer Success
+* Matt Harper: VP, Marketing
 
 # MLT Cadence
 
