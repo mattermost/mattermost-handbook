@@ -31,7 +31,6 @@ Leadership principles are deliberate choices defining our behavior. When facing 
 * **Customer Obsession:** Mattermost exists to make customers successful. Every project starts with the customer perspective.
 * **Ownership:** Own the outcome of your actions. Act on behalf of the company, not just the team. Never say “that’s not my job.”
 * **High-Impact:** Choose high-impact projects over low-impact projects. Figure out what matters most and focus on those priorities.
-* **Insist on High Standards:** Have relentlessly high standards. Continually raise the bar for high-quality products and processes.
 * **Self-Awareness:** Seek to understand strengths and growth opportunities while being open to criticism. Share critiques constructively and respectfully.
 * **Earn Trust:** Make decisions based on maximizing the trust of others in your judgment. Be open, self-critical and factual.
 
