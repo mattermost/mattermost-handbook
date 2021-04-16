@@ -202,9 +202,10 @@ Once reference checks are complete and an offer is ready to be made, the Recruit
 The order of approval will follow:
 
 1. HR Director
-2. MLT member
-3. VP of Finance and Operations
-4. CEO
+2. Team MLT member
+3. CTO (for R&D offers)
+4. VP of Finance and Operations
+5. CEO
 
 After offer approval, the Recruiter, Team MLT member, or AA Interviewer will extend a verbal offer to the candidate. Upon verbal acceptance, the Director of HR will send the offer letter.
 
