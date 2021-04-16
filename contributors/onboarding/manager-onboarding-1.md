@@ -35,7 +35,9 @@ We will continue to iterate and add activities to the Onboarding Program. Manage
 #### Pre-Day One
 
 * Complete the [Systems Checklist Form](https://forms.gle/HhR6LyLrtGdDEZaQ7).
-* Complete the [onboarding template](https://docs.google.com/spreadsheets/d/1OebRdaPStfmJL8mWiFKubmikQEJVk6wLu83W0z4Alec/edit#gid=0) prior to your new staff member's start date.
+* Complete the [onboarding template](https://docs.google.com/spreadsheets/d/1OebRdaPStfmJL8mWiFKubmikQEJVk6wLu83W0z4Alec/edit#gid=0) prior to your new staff member's start date. Managers play a large role in setting their new direct report up for success and making them feel welcome by setting clear expectations and preparing the team and internal stakeholders for how they can help new colleagues integrate and connect organizationally and culturally.       
+  * Onboarding Objectives -  Clarify the areas and projects your new team member should focus on in their first 90 days. Use the [Overview of the Role](https://docs.google.com/document/d/1rpTI2NKu4H_781vpx_eD9Fku7go4gGDs1P7bJAMQvAU/edit#bookmark=id.1lkghznrctji) that you completed when you opened the role. 
+  * AOR clarity - Identify AORs that are relevant for your new hire, and indicate any AORs that your new hire will [DRI](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#dri) or act as backup DRI. As needed, clarify AOR transitions with internal stakholders ahead of your new hire's start date. See [AOR page](https://handbook.mattermost.com/operations/operations/areas-of-responsibility) Include the [interview panel and their respective focus areas](https://docs.google.com/document/d/1rpTI2NKu4H_781vpx_eD9Fku7go4gGDs1P7bJAMQvAU/edit#bookmark=id.dli8pcnebgds). 
 * Assign an Onboarding Peer. The Onboarding Peer or peers should be an individual or group of people that can help answer questions about the team, department and Mattermost. In many ways, an Onboarding Peer may be an [end-boss](https://handbook.mattermost.com/company/about-mattermost/mindsets#mini-boss-end-boss) for specific AORs. Managers should ask permission of a potential Onboarding Peer prior to assignment.
 
 #### Week One
