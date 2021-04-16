@@ -192,7 +192,8 @@ All take-home projects should list the expected amount of time to complete. This
 ## Offer stage
 
 ### Reference checks
-WIP 
+
+Reference checks are required and Hiring Managers should determine their preferred method for reference checks. See the [Recruiting Playbook - Reference Checks](https://docs.google.com/document/d/1ziIFoI0dB0_WZZHBeGAy0BLNMafl0jGAdQ6Z7QA3Ah8/edit#heading=h.2utbizbsdr5h) for additional instruction. 
 
 
 ### Offer Approval Process
@@ -221,9 +222,6 @@ This process will be managed by HR.
 2. Upon full execution of a new staff contract, the Recruiter will mark the candidate as **Hired** in Lever and export the profile to BambooHR.
 3. Once exported to BambooHR, an automatic New Starter Notification will be sent to the Hiring Team to kick-off the onboarding process.
 
-### Pre-onboarding process
+### Pre-onboarding Preparation
 
-New colleagues will receive pre-onboarding instructions from the People team. Hiring Managers will also receive a request to indicate new systems for their new direct report.
-
-* The Recruiter will share the ICP with HR as part of the Offer Request.
-* Hiring Managers should review the role ICP with the new hire during Onboarding to help align them to the role’s focus areas and help contextualize their priorities as they ramp-up with the team and their new peers.
+New colleagues will receive pre-onboarding instructions from the People team. Hiring Managers will also need to complete [pre-onboarding activities](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/onboarding/manager-onboarding-1#onboarding).  
