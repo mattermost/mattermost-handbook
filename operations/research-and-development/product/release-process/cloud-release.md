@@ -21,7 +21,7 @@ Notes:
     - Start working on the changelog (both internal and external).
     - Check whether any translation PRs, pre-packaged plugins, and `NOTICE.txt` PRs are needed.
 2. Dev:
-    - Merge latest ``master`` into the Cloud branch.
+    - Merge latest ``master`` into the Cloud branch after Server team's review.
  
 ### B. (T-minus 0 working days) Release day
 
