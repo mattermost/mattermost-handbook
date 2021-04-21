@@ -1,7 +1,6 @@
 # Release Scorecard Definitions
 
-For
-https://docs.google.com/spreadsheets/d/1Aoj4OTaWoyrKIcQNiHH1MVoRG51T20Y_0w2tg5oVw-M/edit#gid=825551144
+[Google spreadsheet](https://docs.google.com/spreadsheets/d/1Aoj4OTaWoyrKIcQNiHH1MVoRG51T20Y_0w2tg5oVw-M/edit#gid=825551144)
 
 ## Release Output
 
@@ -62,15 +61,15 @@ https://docs.google.com/spreadsheets/d/1Aoj4OTaWoyrKIcQNiHH1MVoRG51T20Y_0w2tg5oV
 </tr>
 <tr class="odd">
 <td>Number of P1 bugs reported in production</td>
-<td>Count of major issues reported in product, documentation or marketing by customers, CSMs, Support or Product. E.g. dot releases from customer reports, undocumented breaking changes.</td>
+<td>Count of major issues reported in product, documentation or marketing by customers, CSMs, Support, or Product (e.g. dot releases from customer reports, undocumented breaking changes).</td>
 </tr>
 <tr class="even">
 <td>Number of P2 bugs reported in production</td>
-<td>Count of medium level issues reported in product, documentation or marketing by customers, CSMs, Support or Product. E.g. dot releases from customer reports, undocumented breaking changes.</td>
+<td>Count of medium level issues reported in product, documentation or marketing by customers, CSMs, Support, or Product (e.g. dot releases from customer reports, undocumented breaking changes).</td>
 </tr>
 <tr class="odd">
 <td>Number of P3 bugs reported in production</td>
-<td>Count of small issues reported in product, documentation or marketing by customers, CSMs, Support or Product. E.g. dot releases from customer reports, undocumented breaking changes.</td>
+<td>Count of small issues reported in product, documentation or marketing by customers, CSMs, Support, or Product (e.g. dot releases from customer reports, undocumented breaking changes).</td>
 </tr>
 </tbody>
 </table>
@@ -91,18 +90,18 @@ https://docs.google.com/spreadsheets/d/1Aoj4OTaWoyrKIcQNiHH1MVoRG51T20Y_0w2tg5oV
 <tbody>
 <tr class="odd">
 <td>Number of misses in each release cycle</td>
-<td>Count of issues encountered during the release cycle. E.g. no process for an early advance notification for upcoming deprecated ESR.</td>
+<td>Count of issues encountered during the release cycle (e.g. no process for an early advance notification for upcoming deprecated ESR).</td>
 </tr>
 <tr class="even">
 <td>Number of setbacks to users/staff resulting in a negative reaction</td>
-<td>Manual count of negative reactions reported by CSMs, Support or Product. E.g. features that got pushed.</td>
+<td>Manual count of negative reactions reported by CSMs, Support, or Product (e.g. features that got pushed).</td>
 </tr>
 <tr class="odd">
-<td>Number of measurable actions from each release retrospective driven from root causes & completed and reported to R&D</td>
+<td>Number of measurable actions from each Release Retrospective driven from root causes and completed and reported to R&D</td>
 <td>Count of completed and reported items from Release Retrospective document.</td>
 </tr>
 <tr class="even">
-<td>Number of deadlines missed in release checklist</td>
+<td>Number of deadlines missed in Release Checklist</td>
 <td>Manual count of deadlines not met from items posted to Release Checklist.</td>
 </tr>
 </tbody>
@@ -234,4 +233,3 @@ https://docs.google.com/spreadsheets/d/1Aoj4OTaWoyrKIcQNiHH1MVoRG51T20Y_0w2tg5oV
 </tr>
 </tbody>
 </table>
-
