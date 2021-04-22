@@ -95,7 +95,7 @@ The Apps Framework and Marketplace documentation lives [here](https://github.com
 
 1. Submit the content with your PR in the [plugin-apps](https://github.com/mattermost/mattermost-plugin-apps) repo. Add the ``Docs/Needed`` label to the PR and ping @justinegeffen. The content will then be added to the docs, and the ``Docs/Done`` label added to your PR.
 
-2. Alternatively, you're welcome (and encouraged) to submit the docs PR yourself, [here](https://github.com/mattermost/mattermost-developer-documentation/tree/master/site/content/integrate/apps). then add a ``Docs/Needed`` label and tag @justinegeffen.
+2. Alternatively, you're welcome (and encouraged) to submit the docs PR yourself, [here](https://github.com/mattermost/mattermost-developer-documentation/tree/master/site/content/integrate/apps), then add a ``Docs/Needed`` label and tag @justinegeffen.
 
 For both options, please ensure that doc updates are either provided by you or requested ahead of merge so there's time to review the content. At least two days' notice is ideal. The goal is to ensure that docs and releases are always in sync. 
 
