@@ -101,7 +101,7 @@ For both options, please ensure that doc updates are either provided by you or r
 
 ## Plugin documentation workflow
 
-The plugin documentation will soon be moved to developers.mattermost.com and will follow the same process as above. Until then, if you have a documentation update for your plugin, please work with @justinegeffen to ensure changes are made timeously ahead of release.
+The plugin documentation will soon be moved to developers.mattermost.com and will follow the same process as above. Until then, if you have a documentation update for your plugin, please work with @justinegeffen to ensure changes made in time and aligned with release.
 
 
 This is the same process used for the webapp and server repos in terms of documentation work.
