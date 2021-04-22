@@ -1,15 +1,30 @@
 # Finance
 
+## Where to find us
+
+Mattermost: [Purchases Channel](https://community.mattermost.com/private-core/channels/purchases) and [Sales: Ops Announcements](https://community.mattermost.com/private-core/channels/sales)
+
+Email: Spend@mattermost.com (Budget requests), Procurement@mattermost.com (Procurement questions), AP@mattermost.com (vendor and bill inquiries), and AR@mattermost.com (customer and invoicing inquiries)
+
+## The Team
+
+* Aneal Vallurupalli, VP of Finance and Operations
+* Tim Quock, Director of Finance
+* Brian Bettencourt, Senior Accounting Lead
+* Isabel Alorro, Accounting Lead
+* Jeff Dynda, Jr. Staff Accountant
+* Jeff Pravlik, Senior Deal Desk Analyst
+
 ## Key Resources
 
-* Professional Services Procurement: [How to procure at Mattermost](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money)
+* Professional Services Procurement: [How to procure at Mattermost](https://handbook.mattermost.com/operations/finance/purchasing)
 * E-sign Procedure \(Internal, TBA\)
 * Sales Organization: [Deal Desk](https://handbook.mattermost.com/operations/finance/deal-desk)
 * Accounting: 
   - [Customer Invoicing - To Be Added]
   - [Customer Payments - To Be Added]
-  - [Requesting Spend](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract)
-  - [Vendor Setup](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor)
+  - [Requesting Spend](https://handbook.mattermost.com/operations/finance/budget)
+  - [Vendor Setup](https://handbook.mattermost.com/operations/finance/onboarding/how-to-on-board-as-a-vendor)
   - [Vendor Payments](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/how-to-get-paid)
   - [Expense Reimbursements](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money)
   - [Submitting Expense Reimbursements](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify)
