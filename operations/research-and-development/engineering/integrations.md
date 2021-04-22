@@ -89,3 +89,19 @@ Seeing an intermittent connection issue with Zoom on http://dkh-local.ngrok.io. 
 - Staff members add the issues there are working on for the current sprint to https://github.com/orgs/mattermost/projects/1.
     - Putting an issue is always preferred over putting a PR on the board.
 
+## Apps documentation workflow
+
+The Apps Framework and Marketplace documentation lives [here](https://github.com/mattermost/mattermost-developer-documentation/tree/master/site/content/integrate/apps). When submitting documentation updates and new documentation for apps, there are two options available:
+
+1. Submit the content with your PR in the [plugin-apps](https://github.com/mattermost/mattermost-plugin-apps) repo. Add the ``Docs/Needed`` label to the PR and ping @justinegeffen. The content will then be added to the docs, and the ``Docs/Done`` label added to your PR.
+
+2. Alternatively, you're welcome (and encouraged) to submit the docs PR yourself, [here](https://github.com/mattermost/mattermost-developer-documentation/tree/master/site/content/integrate/apps). then add a ``Docs/Needed`` label and tag @justinegeffen.
+
+For both options, please ensure that doc updates are either provided by you or requested ahead of merge so there's time to review the content. At least two days' notice is ideal. The goal is to ensure that docs and releases are always in sync. 
+
+## Plugin documentation workflow
+
+The plugin documentation will soon be moved to developers.mattermost.com and will follow the same process as above. Until then, if you have a documentation update for your plugin, please work with @justinegeffen to ensure changes are made timeously ahead of release.
+
+
+This is the same process used for the webapp and server repos in terms of documentation work.
