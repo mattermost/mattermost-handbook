@@ -6,7 +6,7 @@ Mattermost: [Purchases Channel](https://community.mattermost.com/private-core/ch
 
 Email: Spend@mattermost.com (Budget requests), Procurement@mattermost.com (Procurement questions), AP@mattermost.com (vendor and bill inquiries), and AR@mattermost.com (customer and invoicing inquiries)
 
-## The Team
+## The team
 
 * Aneal Vallurupalli, VP of Finance and Operations
 * Tim Quock, Director of Finance
@@ -15,12 +15,12 @@ Email: Spend@mattermost.com (Budget requests), Procurement@mattermost.com (Procu
 * Jeff Dynda, Jr. Staff Accountant
 * Jeff Pravlik, Senior Deal Desk Analyst
 
-## Key Resources
+## Key resources
 
 * Professional Services Procurement: [How to procure at Mattermost](https://handbook.mattermost.com/operations/finance/purchasing)
 * E-sign Procedure \(Internal, TBA\)
 * Sales Organization: [Deal Desk](https://handbook.mattermost.com/operations/finance/deal-desk)
-* Accounting: 
+* Accounting:
   - [Customer Invoicing - To Be Added]
   - [Customer Payments - To Be Added]
   - [Requesting Spend](https://handbook.mattermost.com/operations/finance/budget)
@@ -32,7 +32,7 @@ Email: Spend@mattermost.com (Budget requests), Procurement@mattermost.com (Procu
 * Reporting: Operating Metrics - TBA
 * Planning, Budgeting, Forecasting: [V2MOM Process](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-v2mom)
 
-## Fiscal Year
+## Fiscal year
 
 Our fiscal year ends on January 31.
 
