@@ -4,7 +4,7 @@
 
 The logos below are available for use in your integrations and applications that connect to Mattermost. Use of the logo is permitted as long as it’s used in a non-commercial way and does not imply endorsement by Mattermost, Inc.
 
-![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logo-intro.png)
+![](../../../../.gitbook/assets/branding/brand-and-visual-design-guidelines-logo-intro.png)
 
 The Mattermost logomark is called **"the instrument"**. It represents four tools that organizations need to achieve their highest priorities:
 
@@ -53,7 +53,7 @@ The Mattermost logo is available is vertical, horizontal, and logomark-only vers
 
 To ensure an uncluttered presentation, always maintain a full "X" space around the logo. The "X" height is always the height of the lowercase letter "m" in "Mattermost". Use the safety area as an invisible border.
 
-![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-logos-clearspace.png)
+![](../../../../.gitbook/assets/branding/brand-and-visual-design-guidelines-logos-clearspace.png)
 
 #### Incorrect usage
 
@@ -101,7 +101,7 @@ Below is a sample of the core colours we've been using in the latest branding in
 
 The main typefaces used are [Metropolis](https://github.com/chrismsimpson/Metropolis) and [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro). Metropolis is primarily used for section headings and titles. Source Sans Pro is used for body and description texts.
 
-![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-type-sample.png)
+![](../../../../.gitbook/assets/branding/brand-and-visual-design-guidelines-type-sample.png)
 
 For the full set of typography guidelines specific to the website visit the [Mattermost.com StyleGuide](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb-colors).
 
@@ -111,7 +111,7 @@ Product-specific typography guidelines coming soon.
 
 [PowerPoint and Google Slides Templates](https://docs.google.com/presentation/d/1Amvw7GCoxXIKvgpovGg0iGkZ0jo74sihWbLZgFe6Cl4).
 
-![](../../../../.gitbook/assets/brand-and-visual-design-guidelines-presentation-sample-slides.png)
+![](../../../../.gitbook/assets/branding/brand-and-visual-design-guidelines-presentation-sample-slides.png)
 
 ## Website Guidelines
 
