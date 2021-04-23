@@ -80,7 +80,6 @@ Day when Leads and PMs decide which major features are included in the release, 
        - Update download links and testing server links to the latest RCs
     - After build is cut, tweet announcement that RC1 is ready (see [example](https://community.mattermost.com/core/pl/tefx1ijyz7bs8mabuxmpq9f7pw))
     - Update [Open Source Components](https://docs.mattermost.com/administration/open-source-components.html) and [Release Lifecycle](https://docs.mattermost.com/administration/release-lifecycle.html) docs
-    - Ask martin.kraft to provide a list of Database changes, API changes, WebSocket event changes, and `config.json` setting changes for changelog. [See example request](https://github.com/mattermost/docs/pull/3398#issuecomment-593411501)
 2. Logistics @hanna.park:
     - Mail out contributor and security researcher mugs
       - Space out the ordering of mugs over the next three weeks to prevent mistakes being made by the supplier (e.g., If there are 12 contributors to order mugs for, place an order every 2nd or 3rd day over the next three weeks)
@@ -214,7 +213,6 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
     - Review and update [company roadmap](https://about.mattermost.com/direction/) with which major features made it into the release
         - Review with Head of Product prior to updating
         - Also update feature lists on https://mattermost.com/pricing/ and https://mattermost.com/product/ with relevant new features where needed
-    - Update Integrations Directory on the [Mattermost Apps and Integrations](https://integrations.mattermost.com/) page
     - Update the Mattermost Wikipedia page with the latest version
     - Post the MVP winner announcement in the [Contributors channel](https://community.mattermost.com/core/channels/tickets)
       - Update [MVP page](https://www.mattermost.org/mvp/) with the most valued professional of the release

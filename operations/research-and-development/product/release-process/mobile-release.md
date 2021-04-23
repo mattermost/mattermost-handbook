@@ -18,6 +18,7 @@ No pull requests for major features should be **merged** to the current release 
 1. Release Manager:
     - Post this checklist in Release Checklist channel
     - Draft Changelog in a WIP PR with updates for compatibility notes, highlights, feature additions and bug fixes
+    - Monitor and report any app crash reports in Testflight during the release cycle
     - Start posting a daily Zero Bug Balance query
     - Prepare a list of highlights to be included in the next Mattermost release announcement
 2. PM:
