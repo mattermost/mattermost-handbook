@@ -4,7 +4,7 @@
 
 The logos below are available for use in your integrations and applications that connect to Mattermost. Use of the logo is permitted as long as it’s used in a non-commercial way and does not imply endorsement by Mattermost, Inc.
 
-![](../../../../.gitbook/assets/branding/brand-and-visual-design-guidelines-logo-intro.png)
+<img src="../../../../.gitbook/assets/branding/logoHorizontal.svg" width="520">
 
 The Mattermost logomark is called **"the instrument"**. It represents four tools that organizations need to achieve their highest priorities:
 
