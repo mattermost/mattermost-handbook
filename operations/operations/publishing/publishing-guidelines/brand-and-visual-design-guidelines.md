@@ -73,14 +73,14 @@ If you need vector versions of the logos, you can [download the EPS package](../
 #### SVG Files
 
 * **Horizontal logo:** [Black](../../../../.gitbook/assets/branding/logoHorizontal.svg), [Blue](../../../../.gitbook/assets/branding/logoHorizontalBlue.svg), [White](../../../../.gitbook/assets/branding/logoHorizontalWhite.svg)
-* **Vertical logo:** [Black](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-grey.png), [Blue](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-blue.png), [White](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-white.png)
-* **Logomark:** [Black Logomark](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logomark-grey.png), [Blue](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logomark-blue.png), [White](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logomark-white.png)
+* **Vertical logo:** [Black](../../../../.gitbook/assets/branding/mattermost-logo-vertical-grey.png), [Blue](../../../../.gitbook/assets/branding/mattermost-logo-vertical-blue.png), [White](../../../../.gitbook/assets/branding/mattermost-logo-vertical-white.png)
+* **Logomark:** [Black Logomark](../../../../.gitbook/assets/branding/mattermost-logomark-grey.png), [Blue](../../../../.gitbook/assets/branding/mattermost-logomark-blue.png), [White](../../../../.gitbook/assets/branding/mattermost-logomark-white.png)
 
 #### PNG files
 
-* **Horizontal logo:** [Black](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-grey.png), [Blue](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-blue.png), [White](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-horizontal-white.png)
-* **Vertical logo:** [Black](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-grey.png), [Blue](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-blue.png), [White](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logo-vertical-white.png)
-* **Logomark:** [Black Logomark](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logomark-grey.png), [Blue](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logomark-blue.png), [White](../../../../.gitbook/assets/branding/logo-downloads/mattermost-logomark-white.png)
+* **Horizontal logo:** [Black](../../../../.gitbook/assets/branding/mattermost-logo-horizontal-grey.png), [Blue](../../../../.gitbook/assets/branding/mattermost-logo-horizontal-blue.png), [White](../../../../.gitbook/assets/branding/mattermost-logo-horizontal-white.png)
+* **Vertical logo:** [Black](../../../../.gitbook/assets/branding/mattermost-logo-vertical-grey.png), [Blue](../../../../.gitbook/assets/branding/mattermost-logo-vertical-blue.png), [White](../../../../.gitbook/assets/branding/mattermost-logo-vertical-white.png)
+* **Logomark:** [Black](../../../../.gitbook/assets/branding/mattermost-logomark-grey.png), [Blue](../../../../.gitbook/assets/branding/mattermost-logomark-blue.png), [White](../../../../.gitbook/assets/branding/mattermost-logomark-white.png)
 
 ## Color Guidelines
 
