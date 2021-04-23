@@ -73,14 +73,14 @@ If you need vector versions of the logos, you can [download the EPS package](../
 #### SVG Files
 
 * **Horizontal logo:** [Black](../../../../.gitbook/assets/branding/logoHorizontal.svg), [Blue](../../../../.gitbook/assets/branding/logoHorizontalBlue.svg), [White](../../../../.gitbook/assets/branding/logoHorizontalWhite.svg)
-* **Vertical logo:** [Black](../../../../.gitbook/assets/branding/mattermost-logo-vertical-grey.png), [Blue](../../../../.gitbook/assets/branding/mattermost-logo-vertical-blue.png), [White](../../../../.gitbook/assets/branding/mattermost-logo-vertical-white.png)
-* **Logomark:** [Black Logomark](../../../../.gitbook/assets/branding/mattermost-logomark-grey.png), [Blue](../../../../.gitbook/assets/branding/mattermost-logomark-blue.png), [White](../../../../.gitbook/assets/branding/mattermost-logomark-white.png)
+* **Vertical logo:** [Black](../../../../.gitbook/assets/branding/logoVertical.svg), [Blue](../../../../.gitbook/assets/branding/logoVerticalBlue.png), [White](../../../../.gitbook/assets/branding/logoVerticalWhite.svg)
+* **Logomark:** [Black](../../../../.gitbook/assets/branding/icon.svg), [Blue](../../../../.gitbook/assets/branding/iconBlue.svg), [White](../../../../.gitbook/assets/branding/iconWhite.svg)
 
 #### PNG files
 
-* **Horizontal logo:** [Black](../../../../.gitbook/assets/branding/mattermost-logo-horizontal-grey.png), [Blue](../../../../.gitbook/assets/branding/mattermost-logo-horizontal-blue.png), [White](../../../../.gitbook/assets/branding/mattermost-logo-horizontal-white.png)
-* **Vertical logo:** [Black](../../../../.gitbook/assets/branding/mattermost-logo-vertical-grey.png), [Blue](../../../../.gitbook/assets/branding/mattermost-logo-vertical-blue.png), [White](../../../../.gitbook/assets/branding/mattermost-logo-vertical-white.png)
-* **Logomark:** [Black](../../../../.gitbook/assets/branding/mattermost-logomark-grey.png), [Blue](../../../../.gitbook/assets/branding/mattermost-logomark-blue.png), [White](../../../../.gitbook/assets/branding/mattermost-logomark-white.png)
+* **Horizontal logo:** [Black](../../../../.gitbook/assets/branding/logoHorizontal.png), [Blue](../../../../.gitbook/assets/branding/logoHorizontalBlue.png), [White](../../../../.gitbook/assets/branding/logoHorizontalWhite.png)
+* **Vertical logo:** [Black](../../../../.gitbook/assets/branding/logoVertical.png), [Blue](../../../../.gitbook/assets/branding/logoVerticalBlue.png), [White](../../../../.gitbook/assets/branding/logoVerticalWhite.png)
+* **Logomark:** [Black](../../../../.gitbook/assets/branding/icon.png), [Blue](../../../../.gitbook/assets/branding/iconBlue.png), [White](../../../../.gitbook/assets/branding/iconWhite.png)
 
 ## Color Guidelines
 
