@@ -73,7 +73,7 @@ If you need vector versions of the logos, you can [download the EPS package](../
 #### SVG Files
 
 * **Horizontal logo:** [Black](../../../../.gitbook/assets/branding/logoHorizontal.svg), [Blue](../../../../.gitbook/assets/branding/logoHorizontalBlue.svg), [White](../../../../.gitbook/assets/branding/logoHorizontalWhite.svg)
-* **Vertical logo:** [Black](../../../../.gitbook/assets/branding/logoVertical.svg), [Blue](../../../../.gitbook/assets/branding/logoVerticalBlue.png), [White](../../../../.gitbook/assets/branding/logoVerticalWhite.svg)
+* **Vertical logo:** [Black](../../../../.gitbook/assets/branding/logoVertical.svg), [Blue](../../../../.gitbook/assets/branding/logoVerticalBlue.svg), [White](../../../../.gitbook/assets/branding/logoVerticalWhite.svg)
 * **Logomark:** [Black](../../../../.gitbook/assets/branding/icon.svg), [Blue](../../../../.gitbook/assets/branding/iconBlue.svg), [White](../../../../.gitbook/assets/branding/iconWhite.svg)
 
 #### PNG files
