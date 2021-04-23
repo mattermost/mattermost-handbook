@@ -193,7 +193,7 @@ All take-home projects should list the expected amount of time to complete. This
 
 ### Reference checks
 
-Reference checks are required and Hiring Managers should determine their preferred method for reference checks. See the [Recruiting Playbook - Reference Checks](https://docs.google.com/document/d/1ziIFoI0dB0_WZZHBeGAy0BLNMafl0jGAdQ6Z7QA3Ah8/edit#heading=h.2utbizbsdr5h) for additional instruction. 
+Reference checks are required and Hiring Managers should determine their preferred method for reference checks. See the [Recruiting Playbook - Reference Checks](https://docs.google.com/document/d/1ziIFoI0dB0_WZZHBeGAy0BLNMafl0jGAdQ6Z7QA3Ah8/edit#heading=h.2utbizbsdr5h) for additional instructions.
 
 ### Offer approval process
 
