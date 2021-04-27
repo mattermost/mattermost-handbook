@@ -8,7 +8,7 @@ description: 0% complete. The Mattermost Handbook
 
 ### Contributors Key Info
 
-* [Taxonomy of Mattermost Contributors](https://docs.mattermost.com/process/community-overview.html)
+* [Taxonomy of Mattermost Contributors](/contributors/contributors/community)
 
 ### FY20 Contributors VPMOM \(TBA\)
 
