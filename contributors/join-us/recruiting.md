@@ -153,6 +153,10 @@ We have a weekly all-company [Customer Obsession Meeting](https://handbook.matte
 
 Mattermost staff and Community members are eligible to receive a $500 USD referral bonus if the candidate they refer is hired and completes 90 days of service with Mattermost.
 
+#### How to refer a candidate
+* Login to [Lever](https://hire.lever.co/candidates), our Applicant Tracking System, using your Mattermost email address. Click on the Interviews tab and then click on the “+ Refer Candidate” button. 
+* For any opening, you can also send the referral´s resume to our Technical Recruiting Manager, Teresa Novoa (teresa@mattermost.com) or careers@mattermost.com
+
 #### Referral Criteria
 
 * A candidate who is not currently being considered for a role at Mattermost.
@@ -164,6 +168,7 @@ Mattermost staff and Community members are eligible to receive a $500 USD referr
 
 * Co-founders, C-levels, and Vice Presidents are not eligible to receive the referral bonus.
 * Hiring Managers are not eligible to receive the bonus for staff that will report to them because hiring is a large part of a Manager's responsibilities.
+* Recruiting and Community team members as well as Staff members involved in the Community may not refer a Community member thas is already part of the Community.
 * Referral bonuses are not given if there are external recruiting agency fees associated with hiring the new staff member.
 * Agencies and external recruiters without a contracted relationship with Mattermost are not eligible to receive the bonus.
 * Reach out to the Director of HR (DM: @natalie.jew) with any referral bonus eligibility questions.
