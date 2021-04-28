@@ -169,7 +169,7 @@ Mattermost staff and Community members are eligible to receive a $500 USD referr
 
 * Co-founders, C-levels, and Vice Presidents are not eligible to receive the referral bonus.
 * Hiring Managers are not eligible to receive the bonus for staff that will report to them because hiring is a large part of a Manager's responsibilities.
-* Recruiting and Community team members as well as Staff members involved in the Community may not refer a Community member thas is already part of the Community.
+* Recruiting and Community team members as well as staff members involved in the Community may not refer a Community member who is already part of the Community.
 * Referral bonuses are not given if there are external recruiting agency fees associated with hiring the new staff member.
 * Agencies and external recruiters without a contracted relationship with Mattermost are not eligible to receive the bonus.
 * Reach out to the Director of HR (DM: @natalie.jew) with any referral bonus eligibility questions.
