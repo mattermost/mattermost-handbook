@@ -20,7 +20,7 @@ description: Things People Managers Must Know
 
 Hiring Managers are responsible for identifying when a role is needed, creating an [ISP](https://handbook.mattermost.com/operations/operations/company-processes/issue-solution) if headcount is not approved, and aligning all key stakeholders, including the interview panel, on the [Ideal Candidate Profile](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#ideal-candidate-profile-icp)\(ICP\). This alignment includes panel focus areas ahead of, and as needed during, the interview processes.  
 
-**Hiring Manager Resources**
+**Hiring Manager resources**
 
 * [Recruiting Playbook](https://docs.google.com/document/d/1ziIFoI0dB0_WZZHBeGAy0BLNMafl0jGAdQ6Z7QA3Ah8/edit#heading=h.7m7dbckempjx) includes a list of all Hiring Manager responsibilities, as well as step-by-step instructions. Reach out to your Recruiter or the [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) channel with questions.
 * [Staff Recruiting - internal process](https://handbook.mattermost.com/contributors/join-us/staff-recruiting) handbook page includes general process overview, from [Opening a role](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#role-description) through to the [Offer Stage](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#offer-approval-process).
@@ -32,7 +32,7 @@ We strive to provide a smooth onboarding experience that enables new hires into 
 
 We will continue to iterate and add activities to the Onboarding Program. Managers should review these responsibilities ahead of every new hire joining Mattermost. 
 
-#### Pre-Day One
+#### Pre-day one
 
 * Complete the [Onboarding Systems Form in the IT HelpDesk](https://helpdesk.mattermost.com/support/home).
 * Complete the [onboarding template](https://docs.google.com/spreadsheets/d/1OebRdaPStfmJL8mWiFKubmikQEJVk6wLu83W0z4Alec/edit#gid=0) prior to your new staff member's start date. Managers play a large role in setting their new direct report up for success and making them feel welcome by setting clear expectations and preparing the team and internal stakeholders for how they can help new colleagues integrate and connect organizationally and culturally.
@@ -66,7 +66,7 @@ We will continue to iterate and add activities to the Onboarding Program. Manage
 
 ### People Manager's role in performance management
 
-* **Performance Reviews:** Managers will be invited to a [High Output Management Managers Session](https://handbook.mattermost.com/operations/people/performance-reviews-50#high-output-management) ahead of writing a Performance Evaluation. Managers will need to read the [required chapter](https://handbook.mattermost.com/operations/people/performance-reviews-50#high-output-management) of High Output Management ahead of the Session. The book is also a part of the [Additional Training Resources](https://docs.mattermost.com/process/training.html#additional-training-resources) recommended for new Managers. It's suggested to read the book during onboarding or upon becoming a manager at Mattermost.
+* **Performance Reviews:** Managers will be invited to a [High Output Management Managers Session](https://handbook.mattermost.com/operations/people/performance-reviews-50#high-output-management) ahead of writing a Performance Evaluation. Managers will need to read the [required chapter](https://handbook.mattermost.com/operations/people/performance-reviews-50#high-output-management) of High Output Management ahead of the Session. The book is also a part of the [Additional Training Resources](https://docs.mattermost.com/process/training.html#additional-training-resources) recommended for new Managers. It's suggested to read the book during onboarding or upon becoming a Mnager at Mattermost.
 * **Performance Feedback:** Communicating explicitly is key in managing remote staff and teams and feedback is one of the most important tools a Manager has to set individuals and teams up for success.
   * Managers should address [Brown M&Ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms) and [Likes and Wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes) in a timely manner to ensure expectations are aligned and to maintain asynchronous communication.
   * [People Partners](https://handbook.mattermost.com/operations/people#team) can help provide coaching and feedback on how to approach performance issues.
