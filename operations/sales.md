@@ -52,7 +52,7 @@ Sales Channels are ways of bringing products or services to market so that they 
   * Omitted: This deal is Closed Lost.
 
 * Forecast Process. The following are the steps followed in the weekly forecast calls with Sales Managers:
-  * In attendance: Sales Manager, Ian, Elaine, and appropriate CSM(s).
+  * In attendance: Sales Manager, Ian, and appropriate CSM(s).
   * The Sales Manager drives the call.
   * It is driven off the Sales (Choose Segment) dashboard.
   * New New (New and Expansion) business

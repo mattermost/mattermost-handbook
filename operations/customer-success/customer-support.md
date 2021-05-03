@@ -132,7 +132,7 @@ The Support Team is driven by three key metrics:
 - Regular Updates
 - Customer Satisfaction.  
 
-Details of these metrics for our Enterprise customers can be found [here](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#support-tickets).
+Details of these metrics for our Enterprise customers can be found [here](https://handbook.mattermost.com/operations/research-and-development/product/analytics/metrics-definitions#support-tickets).
 
 ## Sales Support
 
@@ -144,7 +144,7 @@ The Sales Support Team use a slightly different workflow to the Technical Suppor
 
 ![](../../.gitbook/assets/Sales_Support_Process_Workflow.png)
 
-Note: Descriptions of each status can be found [here](https://handbook.mattermost.com/operations/business-operations/analytics/metrics-definitions#support-tickets).
+Note: Descriptions of each status can be found [here](https://handbook.mattermost.com/operations/research-and-development/product/analytics/metrics-definitions#support-tickets).
 
 ### Sales Support ticket request form 
 

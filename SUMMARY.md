@@ -83,7 +83,6 @@
       * [Looker](operations/research-and-development/product/analytics/looker/README.md)
         * [Dashboards](operations/research-and-development/product/analytics/looker/dashboards.md)
         * [Explores](operations/research-and-development/product/analytics/looker/explores.md)
-      * [Targets](operations/research-and-development/product/analytics/targets.md)
       * [Telemetry](operations/research-and-development/product/analytics/telemetry.md)
   * [Engineering](operations/research-and-development/engineering/README.md)
     * [Integrations Team Processes](operations/research-and-development/engineering/integrations.md)
