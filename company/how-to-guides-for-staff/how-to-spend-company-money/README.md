@@ -60,12 +60,12 @@ While we're sharing average costs for various items below, you should use your b
 
 For all new staff members, to request a new MacBook, Lenovo, or other laptop, please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSe7DV-dt1K4G2UtVszjK78iRZD5i_ubhRk3xkUKnEemcyyELw/viewform). We realize laptops are most vital company equipment to be successful at Mattermost. As such the below are just recommendations and not a hard ceiling. Please get what you need to do your best work.
 
-**Non-Developers**
+**Non-Engineers**
 
 * **Lenovo:** Most of our customers are Windows-based and so we recommend Windows-based machines, such as the [Lenovo X1 Carbon](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-6th-Gen/p/22TP2TXX16G) or similar for work machines. 
 * **MacBook 13”:** For non-developers choosing Macs we recommend getting a [MacBook Air 13-inch retina display with 256 GB of storage and 16 GB of memory](https://www.apple.com/shop/buy-mac/macbook-air/space-gray-1.6ghz-dual-core-processor-with-turbo-boost-up-to-3.6ghz-256gb#) or similar.
 
-**Developers**
+**Engineers**
 
 * **MacBook 16”:** For developers choosing to use Macs, we recommend getting a [MacBook Pro 16-inch retina with 512 GB of storage and 32 GB of memory](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch) or similar. As an example, other teams may not require 32 GB memory or 512 GB of storage. 
 * **PC:** Any suitable laptop with comparable specifications and lower or similar cost to the recommended MacBook. Many of our engineers use Lenovo laptops from the Thinkpad X, T, or P series. If in doubt, we recommend a Lenovo Thinkpad T series.
