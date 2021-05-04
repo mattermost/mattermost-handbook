@@ -29,7 +29,6 @@ Day when Leads and PMs decide which major features are included in the release, 
 2. Release Manager:
     - Post this checklist in [Release Checklist](https://community.mattermost.com/core/channels/release-checklist) channel
     - Prior to the cut to Self-Managed, the Release manager reviews new feature flags and provides a report to the PM/QA team for their review. Essentially a feature will be included in a Self-Managed release once the feature flag has been removed.
-         - Discuss turning off feature flags if severe bugs found
     - Confirm with PMs that each Enterprise feature is in the correct [pricing SKU](https://about.mattermost.com/pricing/)
     - Review any features that are currently in beta and confirm with PMs if there are any to be promoted
     - Review the Jira tickets remaining in the current release fix version and push those that won't make it to the next fix version
@@ -54,7 +53,7 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Cut release branches for server and mobile
         - Merge database upgrade before cutting the branch
         - Update [model/version.go](https://github.com/mattermost/mattermost-server/blob/master/model/version.go#L16)
-        - Point translation server and CI servers to the release branch after cutting
+        - Point CI servers to the release branch after cutting
         - Update https://prev.test.mattermost.com to the previous release version
    - Prioritize reviewing, updating, and merging of pull requests for current release until there are no more tickets in the [pull request queue](https://github.com/mattermost/mattermost-server/pulls) marked for the current release
       - After the cut-off, any PRs that include significant code changes require approval of the Release Manager before merging
@@ -65,9 +64,11 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Identify any new teammates who will be joining release testing, send them an intro to the testing process and timeframe, send them the [hardware/software survey](https://drive.google.com/open?id=1IUiNO2S5fgWVn-Y_cyouxheukqKyGQC0_2UX64Ejwk8)
     - Set up DM/GM channels in preparation for testing auto-closing after 7 days
 
-### C. (T-minus 9 working days) RC1 Cut
+### C. (T-minus 9 working days) RC1 Cut and RC Testing
 
-1. Release Manager:
+1. **(Team) Daily Release Update Meeting**
+    - Triage Jira tickets
+2. Release Manager:
     - Post this checklist in Release Checklist channel
     - Verify all items in the last posted release checklist are complete
     - Post in the [Release: Self-Managed](https://community.mattermost.com/core/channels/release-discussion) channel the rough timing when the release candidate will be cut
@@ -80,53 +81,37 @@ Day when Leads and PMs decide which major features are included in the release, 
        - Update download links and testing server links to the latest RCs
     - After build is cut, tweet announcement that RC1 is ready (see [example](https://community.mattermost.com/core/pl/tefx1ijyz7bs8mabuxmpq9f7pw))
     - Update [Open Source Components](https://docs.mattermost.com/administration/open-source-components.html) and [Release Lifecycle](https://docs.mattermost.com/administration/release-lifecycle.html) docs
-2. Logistics @hanna.park:
-    - Mail out contributor and security researcher mugs
-      - Space out the ordering of mugs over the next three weeks to prevent mistakes being made by the supplier (e.g., If there are 12 contributors to order mugs for, place an order every 2nd or 3rd day over the next three weeks)
-    - Update [Team](http://www.mattermost.org/team/) page with new contributors
-3. QA:
-    - Confirm up to date with testing PRs and resolved tickets
-    - Confirm up to date with test updates and known issues in release test management and automated tests
-    - Assign release testing areas to team members
-    - After RC1 is cut: Update test server invite links in Release Testing instructions
-    - After RC1 is cut: Run automated regression tests
-4. Build:
-    - Review all `TODO` notes, including one for uncommenting upgrade code
-    - Confirm all PRs in [`/enterprise`](https://github.com/mattermost/enterprise/pulls) repo have been merged
-    - Update Redux before each RC and Final build
-    - Master is tagged and branched and `Release Candidate 1` is cut (e.g. 3.5.0-RC1) according to the Release Candidate Checklist in `mattermost/process`
-    - Update version for each [Mattermost Helm chart](https://artifacthub.io/packages/search?page=1&ts_query_web=mattermost)
-    - Make PRs for bug fixes to the release branch
-    - Review PRs made from release branch and merge changes into the release branch as required
-    - Run daily automated upgrade tests to avoid catching upgrade bugs late
-
-### D. (T-minus 8 to T-minus 7 working days) Release Candidate Testing
-
-1. **(Team) Daily Release Update Meeting**
-    - Triage Jira tickets
-    - Decide when to cut next RC
-2. Release Manager:
-    - Post this checklist in Release Checklist channel
-    - Verify all items in the last posted release checklist are complete
     - Confirm changelog reflects any changes since it was merged (including known issues and contributors from all repositories)
       - Confirm translators have been added
       - Confirm Open Source Components changes have been added
     - Find [www-gitlab-com merge request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=blog%20post&label_name%5B%5D=release) for latest GitLab release blog post and make request for adding GitLab Mattermost update (see [example request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/2910#note_14096885), [example update](https://about.gitlab.com/2016/07/22/gitlab-8-10-released/#gitlab-mattermost-32)). Post to ``Release: Self-Managed`` channel with link to request
     - Confirm the required URLs for the blog/release announcement were prepared
-3. QA:
-    - Update ``Release: Self-Managed`` header with links to RC instances and testing spreadsheet ([template](https://docs.google.com/document/d/1UvTsvwZXmEL9QPjxmjoIkR2AcwGtOjql8cYRfk2N8eA/edit#bookmark=id.ghe4vz9zd1v))
-    - Post release testing instructions to ``Release: Self-Managed`` channel ([template](https://docs.google.com/document/d/1UvTsvwZXmEL9QPjxmjoIkR2AcwGtOjql8cYRfk2N8eA/edit#bookmark=id.u28aar2hx7hg))
-    - Post reminders in Announcements channel ([template](https://docs.google.com/document/d/1UvTsvwZXmEL9QPjxmjoIkR2AcwGtOjql8cYRfk2N8eA/edit#bookmark=id.pirw51cwsja5)) and Customer Support channel ([template](https://docs.google.com/document/d/1UvTsvwZXmEL9QPjxmjoIkR2AcwGtOjql8cYRfk2N8eA/edit#bookmark=id.ke0fh13gidni))
-    - DM reminders to team members who are not QA or devs, or who are new to release testing
-    - Midday: Post reminders about testing, at-mentioning team members whose tests are not yet complete
-    - At end of day, post reminders about release testing in ``Release: Self-Managed`` and Announcements channels, DM any team members who have zero test cells marked **Done**
-    - Find QA or other teammates to help finish unfinished tests if needed
-    - End of day or next morning: Verify all release tests are finished, bring any concerns to Triage/Release meeting
-    - Go through all tabs of testing spreadsheet and verify all comments and questions have been filed in Jira as needed
-4. Logistics @hanna.park:
+3. Logistics @hanna.park:
+    - Mail out contributor and security researcher mugs
+      - Space out the ordering of mugs over the next three weeks to prevent mistakes being made by the supplier (e.g., If there are 12 contributors to order mugs for, place an order every 2nd or 3rd day over the next three weeks)
+    - Update [Team](http://www.mattermost.org/team/) page with new contributors
     - Generate an E20 5000 seat test licence and email to Lindy for release testing
-5. PM:
+4. QA:
+    - Confirm up to date with testing PRs and resolved tickets
+    - Confirm up to date with test updates and known issues in release test management and automated tests
+    - Assign release testing areas to team members
+    - After RC1 is cut: Update test server invite links in Release Testing instructions
+    - After RC1 is cut: Run automated regression tests
+    - Post reminders in Release Announcements channel ([template](https://docs.google.com/document/d/1UvTsvwZXmEL9QPjxmjoIkR2AcwGtOjql8cYRfk2N8eA/edit#bookmark=id.pirw51cwsja5)) and Customer Support channel ([template](https://docs.google.com/document/d/1UvTsvwZXmEL9QPjxmjoIkR2AcwGtOjql8cYRfk2N8eA/edit#bookmark=id.ke0fh13gidni))
+       - Find QA or other teammates to help finish unfinished tests if needed
+       - Verify all release tests are finished, bring any concerns to Triage/Release meeting
+       - Go through all tabs of testing spreadsheet and verify all comments and questions have been filed in Jira as needed
+5. Build:
+    - Review all `TODO` notes, including one for uncommenting upgrade code
+    - Confirm all PRs in [`/enterprise`](https://github.com/mattermost/enterprise/pulls) repo have been merged
+    - Master is tagged and branched and `Release Candidate 1` is cut (e.g. 3.5.0-RC1) according to the Release Candidate Checklist in `mattermost/process`
+    - Update version for each [Mattermost Helm chart](https://artifacthub.io/packages/search?page=1&ts_query_web=mattermost)
+    - Make PRs for bug fixes to the release branch
+    - Review PRs made from release branch and merge changes into the release branch as required
+    - Run daily automated upgrade tests to avoid catching upgrade bugs late
+6. PM:
     - Finish draft of blog post for mattermost.com and all art work (screenshots, GIFs, and Twitter banners) used for the blog post
+       - Add links to [Admin guide](https://docs.mattermost.com/guides/administrator.html) in the release blog post where needed
 
 ### E. (T-minus 5 working days) Code Freeze
 Day after which only **S1 regressions** should be fixed (crashes, security vulnerabilities) and no other code changes should be committed. Exceptions can be made by the Release Manager during triage on a case-by-case basis. Review the [Bug Severity Guidelines](https://docs.mattermost.com/process/bug-severity-guidelines.html).
@@ -177,7 +162,6 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
     - Verify smoke tests on webapp/server, desktop app, and RN apps all passed
     - Post QA approval in ``Release: Self-Managed`` channel
 3. Build:
-    - Update Redux before each RC and Final build
     - Tags a new release (e.g. 1.1.0) and runs an official build which should be essentially identical to the last RC
     - Posts SHA key, md5 sum, and GPG signatures of the final build to ``Release: Self-Managed`` channel
     - Post in ``Release: Self-Managed`` with links to the Enterprise Edition and Team Edition sections
@@ -199,7 +183,6 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
     - Receive sign off on final version of MailChimp email blast and Twitter announcement and schedule for 08:00 PST on the date of marketing announcement
       - **Note:** If the release contains a security update, also draft a Mailchimp email blast for the [Security Bulletin mailing list](http://eepurl.com/cAl5Rv)
     - Finalize blog post for mattermost.com, test on mobile view, and set timer for 08:00 PST on the day of release
-    - Add links to [Admin guide](https://docs.mattermost.com/guides/administrator.html) in the release blog post where needed
 
 ### G. (T-minus 0 working days) Release Day
 
@@ -222,9 +205,7 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
     - Check for any [UserVoice](https://docs.google.com/spreadsheets/d/1nljd4cFh-9MXF4DxlUnC8b6bdqijkvi8KHquOmK8M6E/edit#gid=0) feature suggestions that were completed in the current release
       - Find the [release tweet](https://twitter.com/mattermosthq/status/854781715914555393) and insert a link to the tweet next to the feature that shipped with the release
     - Close the release in Jira both for webapp and mobile ([releases page](https://mattermost.atlassian.net/projects/MM?selectedItem=com.atlassian.jira.jira-projects-plugin%3Arelease-page))
-    - For the next release, create the following team meetings. If they conflict with existing meetings, check with meeting owner to reschedule or reschedule the release meeting
-      - Bug Bash Meeting on the week after Code Complete at 10:00am San Francisco time
-      - Release Triage and Update Meeting each weekday starting at T-20 and ending at T-0 at 9:30am San Francisco time for PM, QA, and release dev
+    - Confirm that daily triage / release update meetings are scheduled.
     - Prepare tickets for the next release, with a corresponding vX.X prefix, and put the tickets in the appropriate sprints as follows:
        - The week RC is cut:
             - [RC Build Testing for core team](https://mattermost.atlassian.net/browse/PLT-2208)
@@ -240,10 +221,9 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
             - If an existing ESR is going out of support next month, update the in-app prompts (mobile and desktop) to start detecting for the new minimum supported ESR version
             - If a new ESR is released next month, update the prompts to recommend upgrading to that version instead of the older ESR
     - Confirm that [mattermost-docker](https://github.com/mattermost/mattermost-docker/releases) has been updated to the latest version (contact the maintainer via direct message on community server if necessary)
-    - Contact owners of [community installers](http://www.mattermost.org/installation/) or submit PRs to update install version number
-        - For Yunohost, open a new pull request to update the version. See [example](https://github.com/YunoHost-Apps/mattermost_ynh/pull/103)
+    - Contact owner of Yunohost community installer to update install version number. See [example](https://github.com/YunoHost-Apps/mattermost_ynh/pull/103)
     - Turn on CrazyEgg for blog post page
-    - Confirm marketing has been posted (screenshots, mail announcement, tweets, blog posts)
+    - Confirm marketing has been posted (mail announcement, tweets, blog posts)
         - Post in the Announcements channel
     - Update @mattermost Twitter profile with the next release date
     - Prepare retweet of GitLab release tweet ([see example here](https://community.mattermost.com/core/pl/k7wchwj5mtrhucj6don96yx3sc))
