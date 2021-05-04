@@ -173,7 +173,7 @@ Team:
   * Ask questions to understand development, design, QA processes
 * Meet with Amy \(Release Manager\) and read the release process doc
 * Meet with Ian (CEO) \([https://github.com/it33/readme/blob/master/README.md](https://github.com/it33/readme/blob/master/README.md/)\). This will be scheduled for you
-* Meet other Product Managers \(Jason Blais, Eric Sethna, Katie Wiersgalla, Aaron Rothschild, Adam Clarkson, Ian Tao\)
+* Meet other Product Managers \(Jason Blais, Eric Sethna, Katie Wiersgalla, Aaron Rothschild, Ian Tao\)
   * Learn about their areas of ownership
 * Participate in PM, R&D, and Customer Obsession Meetings
 * Jira
@@ -264,16 +264,15 @@ Activities:
         * Sizing recommendations
   * Product areas: Functional Overview and Roadmap
     * End user experience \(Desktop, Web, and Mobile Applications\) \(Eric Sethna\)
-    * Cloud and Admin Experience \(Adam Clarkson\)
-    * App Marketplace and Developer Toolkit \(Aaron Rothschild\)
-    * Platform \(Cloud Platform features, Self-Managed Platform features\) \(Katie Wiersgalla\)
-    * Product-centric GTM \(Customer Portal, Growth Product\) \(Jason Blais\)
-    * Workflows \(Ian Tao\)
+    * Cloud and Admin Experience \(Katie Wiersgalla\)
+    * Apps Framework and Marketplace \(Aaron Rothschild\)
+    * Platform \(Cloud Platform features, Self-Managed Platform features\) \(Jason Blais\)
+    * Incident Collaboration \(Ian Tao\)
     * Community \(Jason Blais\)
     * Reference:
       * [Roadmap - All teams](https://mattermost.productboard.com/portal/19-combined-highlighted-features)
       * [Engineering OKRs](https://mattermost.productboard.com/feature-board/1749949-release-summary-internal)
-  * Product Analytics \(Chen, Consultant\)
+  * Product Analytics \(Chen\)
     * Tips on things to watch out for if running your own analytics
     * Dive into product analytics
 * Learn about the product development process
