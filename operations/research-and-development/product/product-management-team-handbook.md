@@ -272,7 +272,7 @@ Activities:
     * Reference:
       * [Roadmap - All teams](https://mattermost.productboard.com/portal/19-combined-highlighted-features)
       * [Engineering OKRs](https://mattermost.productboard.com/feature-board/1749949-release-summary-internal)
-  * Product Analytics \(Chen\)
+  * Product Analytics \(Eric Nelson\)
     * Tips on things to watch out for if running your own analytics
     * Dive into product analytics
 * Learn about the product development process
