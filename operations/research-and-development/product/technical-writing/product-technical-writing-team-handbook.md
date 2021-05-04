@@ -121,9 +121,9 @@ Mattermost documentation covers a number of different topics. For documentation,
 
 **Product Manager Review**
 
-* Admin Guide - Enterprise: Katie Wiersgalla \(@kwiersgalla\)
-* Admin Guide - Security: Katie Wiersgalla \(@kwiersgalla\)
-* Admin Guide - Cloud: Katie Wiersgalla \(@kwiersgalla\)
+* Admin Guide - Enterprise: Katie Wiersgalla \(@wiersgallak\)
+* Admin Guide - Security: Katie Wiersgalla \(@wiersgallak\)
+* Admin Guide - Cloud: Katie Wiersgalla \(@wiersgallak\)
 * Admin Guide - Licensing: Jason Blais(\@jasonblais\)
 * End User Guide - Mobile and desktop app: Eric Sethna \(@esethna\)
 * Apps and Marketplace: Aaron Rothschild \(@aaronrothschild\)
@@ -135,9 +135,9 @@ Mattermost documentation covers a number of different topics. For documentation,
 If your change requires dev review add the developer/s you've been working with as the reviewer/s. If you're unsure who to add as a dev reviewer you can select one of the team leads below:
 
 * Core Enterprise Features: Scott Bishel \(@sbishel\)
-* Core Features: Scott Bishel \(@sbishel\) (\interm\)
+* Core Features: Scott Bishel \(@sbishel\)
 * Integrations: Catalin Tomei \(@catalintomai\)
-* Workflows \Incident Collaboration\): Jesse Hallam \(@lieut-data\)
+* Workflows \(Incident Collaboration\): Jesse Hallam \(@lieut-data\)
 * Cloud Features: Maria Nuñez \(@marianunez)
 * SRE: Joram Wilander \(@jwilander\) (\interm\)
 * Cloud Platform: Joram Wilander \(@jwilander\)
