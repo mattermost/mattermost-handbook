@@ -113,7 +113,7 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Finish draft of blog post for mattermost.com and all art work (screenshots, GIFs, and Twitter banners) used for the blog post
        - Add links to [Admin guide](https://docs.mattermost.com/guides/administrator.html) in the release blog post where needed
 
-### E. (T-minus 5 working days) Code Freeze
+### D. (T-minus 5 working days) Code Freeze
 Day after which only **S1 regressions** should be fixed (crashes, security vulnerabilities) and no other code changes should be committed. Exceptions can be made by the Release Manager during triage on a case-by-case basis. Review the [Bug Severity Guidelines](https://docs.mattermost.com/process/bug-severity-guidelines.html).
 
 1. **(Team) Daily Release Update Meeting**
@@ -136,7 +136,7 @@ Day after which only **S1 regressions** should be fixed (crashes, security vulne
     - Confirm changes to `config.json` in compatibility section of changelog are written back to [settings documentation](http://docs.mattermost.com/administration/config-settings.html#configuration-settings)
     - Confirm all new diagnostics are documented in the telemetry docs (https://docs.mattermost.com/administration/telemetry.html)
 
-### F. (T-minus 2 working days) Release Build Cut
+### E. (T-minus 2 working days) Release Build Cut
 
 The final release is cut - RC cuts and bug fixes should be completed by this date. Only urgent and critical issues are considered for fixing.
 
@@ -184,7 +184,7 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
       - **Note:** If the release contains a security update, also draft a Mailchimp email blast for the [Security Bulletin mailing list](http://eepurl.com/cAl5Rv)
     - Finalize blog post for mattermost.com, test on mobile view, and set timer for 08:00 PST on the day of release
 
-### G. (T-minus 0 working days) Release Day
+### F. (T-minus 0 working days) Release Day
 
 1. Release Manager:
     - Post this checklist in Release Checklist channel
@@ -238,7 +238,7 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
     - Merge any updates made to Selenium tests during release testing
     - Update RN server URLs to Rainforest
 
-### H. (T-plus 30 days) Update Mattermost Security Page
+### G. (T-plus 30 days) Update Mattermost Security Page
 
 1. Release Manager:
     - Post [Mattermost Security Updates](https://about.mattermost.com/security-updates/) after reviewing with security lead
