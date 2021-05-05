@@ -64,7 +64,7 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Identify any new teammates who will be joining release testing, send them an intro to the testing process and timeframe, send them the [hardware/software survey](https://drive.google.com/open?id=1IUiNO2S5fgWVn-Y_cyouxheukqKyGQC0_2UX64Ejwk8)
     - Set up DM/GM channels in preparation for testing auto-closing after 7 days
 
-### C. (T-minus 9 working days) RC1 Cut and RC Testing
+### C. (T-minus 9 working days) RC1 Cut and RC Testing Begins
 
 1. **(Team) Daily Release Update Meeting**
     - Triage Jira tickets
@@ -97,7 +97,7 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Assign release testing areas to team members
     - After RC1 is cut: Update test server invite links in Release Testing instructions
     - After RC1 is cut: Run automated regression tests
-    - Post reminders in Release Announcements channel ([template](https://docs.google.com/document/d/1UvTsvwZXmEL9QPjxmjoIkR2AcwGtOjql8cYRfk2N8eA/edit#bookmark=id.pirw51cwsja5)) and Customer Support channel ([template](https://docs.google.com/document/d/1UvTsvwZXmEL9QPjxmjoIkR2AcwGtOjql8cYRfk2N8eA/edit#bookmark=id.ke0fh13gidni))
+    - Post reminders in Release Announcements channel ([template](https://docs.google.com/document/d/1UvTsvwZXmEL9QPjxmjoIkR2AcwGtOjql8cYRfk2N8eA/edit#bookmark=id.pirw51cwsja5)) for Mobile App RC testing
        - Find QA or other teammates to help finish unfinished tests if needed
        - Verify all release tests are finished, bring any concerns to Triage/Release meeting
        - Go through all tabs of testing spreadsheet and verify all comments and questions have been filed in Jira as needed
