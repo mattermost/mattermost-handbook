@@ -97,10 +97,10 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Assign release testing areas to team members
     - After RC1 is cut: Update test server invite links in Release Testing instructions
     - After RC1 is cut: Run automated regression tests
-    - Post reminders in Release Announcements channel ([template](https://docs.google.com/document/d/1UvTsvwZXmEL9QPjxmjoIkR2AcwGtOjql8cYRfk2N8eA/edit#bookmark=id.pirw51cwsja5)) for Mobile App RC testing
+    - Post reminder in Release Announcements channel for any unfinished RC testing, at-mentioning tester(s)
        - Find QA or other teammates to help finish unfinished tests if needed
        - Verify all release tests are finished, bring any concerns to Triage/Release meeting
-       - Go through all tabs of testing spreadsheet and verify all comments and questions have been filed in Jira as needed
+       - Go through test cycles and verify all issues and comments have been filed or updated in Jira as needed
 5. Build:
     - Review all `TODO` notes, including one for uncommenting upgrade code
     - Confirm all PRs in [`/enterprise`](https://github.com/mattermost/enterprise/pulls) repo have been merged
