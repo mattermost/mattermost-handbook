@@ -61,7 +61,7 @@ Create a branch off `master` called `staging`.
 
 #### Creating new content in staging
 
-1. Ensure you're in the `staging` branch.
+1. Switch to the `staging` branch.
 2. Navigate to the directory you're working in.
 3. Select **Add file > Create new file**.
 4. Give your file a name with the file format as `.rst`.
@@ -103,7 +103,7 @@ This process applies to release documentation.
 
 #### Creating new content in staging
 
-1. Switch to the ``vx.xx Documentation` branch.
+1. Switch to the `vx.xx Documentation` branch.
 2. Navigate to the directory you're working in.
 3. Select **Add file > Create new file**.
 4. Give your file a name with the file format as `.rst`.
