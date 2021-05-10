@@ -8,21 +8,32 @@ The Mattermost Technical Writers focus primarily on writing, editing, and mainta
 
 ## Areas of responsibility (AORs)
 
-Documentation and technical writing at Mattermost covers (but isn't limited to) the following areas:
+Documentation and technical writing at Mattermost covers (but isn't limited to) the following verticals:
 
-* Documentation for:
-  * Incident Collaboration
-  * Integrations (Admin Guide, plugin documentation, and developer journey)
+* Messaging
+  * [Mattermost Overview](https://docs.mattermost.com/overview/index.html)
+  * [User's Guide](https://docs.mattermost.com/guides/user.html)
+  * [Administrator's Guide](https://docs.mattermost.com/guides/administrator.html)
   * Mattermost Cloud
   * Apps Framework and Marketplace
   * Self-managed deployments
   * Messaging features and functionality
+* Incident Collaboration
+  * Admin-facing UI content writing, collaboration, and reviews 
+  * User and Admin documentation
+* Focalboard
+  * Admin-facing UI content writing, collaboration, and reviews
+  * User and Admin documentation
+* Growth
   * Customer Portal
   * Compliance
-  * Mattermost Handbook
-  * [Mattermost Overview](https://docs.mattermost.com/overview/index.html)
-  * [User's Guide](https://docs.mattermost.com/guides/user.html)
-  * [Administrator's Guide](https://docs.mattermost.com/guides/administrator.html)
+* Mattermost Handbook
+  * Documentation Handbook and Style Guide maintenance 
+  * Updates
+
+Other areas of documentation include:
+
+* Integrations (Admin Guide, plugin documentation, and developer journey)
 * GitLab documentation for:
   * [GitLab Mattermost docs](https://docs.gitlab.com/omnibus/gitlab-mattermost/%20)
   * GitLab helm chart docs
@@ -35,15 +46,12 @@ Documentation and technical writing at Mattermost covers (but isn't limited to) 
   * Google Analytics metrics for page visits, read times, and bounce rates
   * Customer feedback analysis
   * Metrics dashboards using RudderStack
-* In-product messaging and interface:
-  * Admin-facing UI content writing, collaboration, and reviews
+* In-product messaging and interface
 * Community and doc review process
   * Process for Doc Up plugin
   * Docs review and release coordination
   * Community Help Wanted doc issues
 * Content and processes
-  * Documentation Handbook and Style Guide maintenance
-  * Documentation processes for Integrations and Workflows teams
   * PR reviews across the organization
   * Documentation processes for release PRs
 
@@ -138,7 +146,7 @@ If your change requires dev review add the developer/s you've been working with 
 * Core Features: Scott Bishel \(@sbishel\)
 * Integrations: Catalin Tomei \(@catalintomai\)
 * Workflows \(Incident Collaboration\): Jesse Hallam \(@lieut-data\)
-* Cloud Features: Maria Nuñez \(@marianunez)
+* Growth: Maria Nuñez \(@marianunez)
 * SRE: Joram Wilander \(@jwilander\) (\interm\)
 * Cloud Platform: Joram Wilander \(@jwilander\)
 * Mobile: Elias Nahum \(@enahum\)
