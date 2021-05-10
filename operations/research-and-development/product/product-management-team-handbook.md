@@ -205,7 +205,7 @@ Activities:
     * App Marketplace and Developer Toolkit \(Aaron Rothschild\)
     * Platform Administration \(Cloud Platform features, Self-Managed Platform features\) \(Katie Wiersgalla\)
     * Product-centric GTM \(Customer Portal, Growth Product\) \(Jason Blais\)
-    * Workflows \(Ian Tao\)
+    * Incident Collaboration \(Ian Tao\)
     * Focalboard \(Chen-I Lim\)
     * Community \(Jason Blais\)
     * Reference:
