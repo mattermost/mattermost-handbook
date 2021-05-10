@@ -113,8 +113,9 @@ If you're interested in contributing to the process, please join the [Mattermost
 | Language | Official Reviewer(s) | Maintainers  |  
 |:----------|:----------------------|:--------------|
 | Deutsch - German | TBD (Open Role) |
-| Español - Spanish| [Elias Nahum (enahum)](https://github.com/enahum)| [Jesús Espino](http://github.com/jespino) |
+| Español - Spanish| [Elias Nahum (enahum)](https://github.com/enahum)| [Jesús Espino](https://github.com/jespino) |
 | Français - French| [William Gathoye (wget)](https://github.com/wget) |              |
+| Magyar - Hungarian| [Zsolt Godó (@sakaitsu)](https://translate.mattermost.com/user/sakaitsu)| [Csaba Tóth (tsabi)](https://translate.mattermost.com/user/tsabi) |
 | Italiano - Italian | [Michael Longo (mlongo4290)](https://github.com/mlongo4290) | [Ema Panz (thepanz)](https://github.com/thepanz)|
 | 日本語 - Japanese | [Yusuke Nemoto (kaakaa)](https://github.com/kaakaa) |
 | 한국어 - Korean|TBD (Open Role)| |
