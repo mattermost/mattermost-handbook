@@ -19,20 +19,14 @@ Documentation and technical writing at Mattermost covers (but isn't limited to) 
   * Self-managed deployments
   * Messaging features and functionality
 * Incident Collaboration
-  * Admin-facing UI content writing, collaboration, and reviews 
-  * User and Admin documentation
 * Focalboard
-  * Admin-facing UI content writing, collaboration, and reviews
-  * User and Admin documentation
 * Growth
   * Customer Portal
   * Compliance
-* Mattermost Handbook
-  * Documentation Handbook and Style Guide maintenance 
-  * Updates
 
 Other areas of documentation include:
 
+* Mattermost Handbook
 * Integrations (Admin Guide, plugin documentation, and developer journey)
 * GitLab documentation for:
   * [GitLab Mattermost docs](https://docs.gitlab.com/omnibus/gitlab-mattermost/%20)
