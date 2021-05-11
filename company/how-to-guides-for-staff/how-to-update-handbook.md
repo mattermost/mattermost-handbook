@@ -9,7 +9,7 @@
 
 If this is your first time contributing to Mattermost, first read the [Mattermost Contributor Agreement](https://www.mattermost.org/mattermost-contributor-agreement/) and sign it \(at the bottom of the page\), so you can be added to the Mattermost [Approved Contributor List](https://docs.google.com/spreadsheets/d/1NTCeG-iL_VS9bFqtmHSfwETo5f-8MQ7oMDE5IUYJi_Y/pubhtml?gid=0&single=true). Please ensure the **GitHub username** field matches your GitHub username exactly, including capitalization. Next, please request access to the Mattermost organization [DevOps Team Channel](https://community.mattermost.com/private-core/channels/devops-team).
 
-### Editing an Existing Page
+### Editing an existing page
 
 1. The quickest way to begin is navigating to the page you want to edit in [Mattermost Handbook](https://handbook.mattermost.com/), then clicking the **Edit on GitHub** icon in the top right navigation. This opens the page in GitHub that you can edit.
 2. In GitHub click the pencil icon in the navigation bar \(above the page header\) called **Edit the file in your fork of this project** to open the editable Markdown-format page.
@@ -33,7 +33,7 @@ Multiple committers may comment on your pull request and provide edits or sugges
 
 Once the review process is complete, the change is merged and pushed live. We recommend that you review your changes at [https://handbook.mattermost.com](https://handbook.mattermost.com) for potential formatting errors.
 
-### Creating a New Page
+### Creating a new page
 
 Creating a new page follows the same process as above, with two exceptions:
 
@@ -44,7 +44,7 @@ Creating a new page follows the same process as above, with two exceptions:
 
 ![](../../.gitbook/assets/how-to-update-handbook-create-new-file.png)
 
-### Creating a New Folder
+### Creating a new folder
 
 If you want to create nested content, you can create folders. You cannot create an empty folder and then add files to that folder, but rather creation of a folder must happen together with adding of at least a single file. On GitHub you can do it this way:
 
@@ -58,7 +58,7 @@ If you want to create nested content, you can create folders. You cannot create 
 
 * Add your new page to the [Handbook table of contents](https://github.com/mattermost/mattermost-handbook/blob/0.2.1/SUMMARY.md).
 
-### Folder and Page Naming Conventions
+### Folder and page naming conventions
 
 When you create a new page in the handbook ensure that:
 
@@ -95,18 +95,17 @@ Follow these two steps:
   ![](../../../.gitbook/assets/release-timeline-jan2020.png)
   ```
 
-## Training Video
+## Training video
 
 [Watch a training video on how to update the handbook in GitHub](https://drive.google.com/file/d/1AOI8H-oe2u1JW6oOA4nPPTSbGnK3Xuq1/view?usp=sharing).
 
-## Approved Reviewers and Permissions
+## Approved reviewers and permissions
 
 Below is a list of approved reviewers.
 
 1. @jasonblais: Reviews major changes to handbook.mattermost.com, such as updates to the Table of Contents (SUMMARY.md).
 2. @justinegeffen, @amyblais, @cwarnermm: Editor reviews of all submitted PRs for correct grammar and consistent style.
-3. @rbradleyhaas: Signs off on changes to [business operations](https://handbook.mattermost.com/operations/business-operations).
-4. @aedott: Signs off on changes to [messaging and math](https://handbook.mattermost.com/operations/messaging-and-math).
+3. @aedott: Signs off on changes to [messaging and math](https://handbook.mattermost.com/operations/messaging-and-math).
 5. @TQuock: Signs off on changes to [finance](https://handbook.mattermost.com/operations/finance).
 6. @natalie-hub: Signs off on changes to [workplace](https://handbook.mattermost.com/operations/workplace).
 7. @it33: Signs off on changes to signing authority \([example](https://github.com/mattermost/mattermost-handbook/pull/60)\).
