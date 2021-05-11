@@ -1,8 +1,6 @@
 # MatterCon
 
-{% embed url="https://www.youtube.com/watch?v=t8-UF-wcX\_s" %}
 
-MatterCon 2020 will be help Feb 19 - 24, 2020 at the Melia Nassau Beach resort in Nassau, Bahamas
 
 ## What, where, and when
 
@@ -10,7 +8,7 @@ We try to get together every 12 months or so to get face-time with one another, 
 
 MatterCon is **not** a mandatory trip or a department offsite, nor is it a vacation or incentive trip. It's a chance for everyone to meet fellow Mattermost team-members across all departments and regions: part team building, part education, part community building, and hopefully all fun. This is a work trip with fun mixed in.
 
-### Goal <a id="goal"></a>
+### Goal
 
 Our goal is to increase the share of Mattermost in the market by increasing effectiveness, efficiency and communication of our organization through:   
   
@@ -20,17 +18,17 @@ c\) Reflecting on and improving processes and plans
 d\) Creating a fun culture for contributors and team members   
 e\) Breaking down work barriers and become more empathetic for team and community members around the world
 
-### Who <a id="who"></a>
+### Who
 
 All Mattermost staff along with invited contributors.
 
-### Code of Conduct <a id="code-of-conduct"></a>
+### Code of Conduct
 
 General guidelines and information are on this page but our official Code of Conduct policy is [outlined on this page](https://handbook.mattermost.com/mattercon/mattermost-code-of-conduct).   
   
 For the smooth operation of MatterCon all attendees are asked to sign the code of conduct along with standard a waiver and consent for official conference photography. 
 
-### Registering <a id="registering"></a>
+### Registering
 
 MatterCon 2020 registration is now closed. 
 
@@ -77,11 +75,15 @@ This is scheduled time for teams to have team-only time to discuss their work, s
 
 **Random Tips**
 
-* Tip: Label your charger, or other belongings, with your name for easy return to owner in case you lose it
+* Tip: Label your charger, or other belongings, with your name for easy return to owner in case you lose it.
 * Name badges should include home city, pronoun, company, hugs, how many contributes attended.
 * Check the packing list \(coming soon\) for what to bring.
 
 ### Additional information
+
+MatterCon 2020 was held at the Melia Nassau Beach resort in Nassau, Bahamas:
+
+{% embed url="https://www.youtube.com/watch?v=t8-UF-wcX\_s" %}
 
 Here's what it was like at MatterCon 2019 in Puta Cana, Dominican Republic:
 
@@ -94,6 +96,3 @@ Here's MatterCon 2018 in Lisbon, Portugal:
 Here's MatterCon 2017 in Las Vegas, USA: 
 
 [https://www.youtube.com/watch?v=\_RpmrM-5UFY&t=65s](https://www.youtube.com/watch?v=_RpmrM-5UFY&t=65s)
-
-\*\*\*\*
-
