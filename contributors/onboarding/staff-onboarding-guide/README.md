@@ -103,7 +103,7 @@ Welcome to Mattermost! This is a general overview of activities that all staff s
 - R&D onboarding
   - [Product team onboarding](https://handbook.mattermost.com/operations/research-and-development/product/product-management-team-handbook#onboarding)
   - [Engineering team onboarding](https://handbook.mattermost.com/contributors/onboarding/staff-onboarding-guide/engineer-onboarding)
-  - [Support onboarding](https://handbook.mattermost.com/operations/business-operations/customer-support)
+  - [Support onboarding](https://handbook.mattermost.com/operations/customer-success/customer-support)
   - QA onboarding
 - G&A onboarding
 - Marketing onboarding

@@ -1,18 +1,4 @@
----
-description: 'Owner: Alex Dovenmuehle'
----
-
 # Data Engineering
-
-Business Operations, Data Engineering, and Analytics functions were started in 2019 and are ever evolving. Because of how new we are, eveything on this page is currently WIP.
-
-We are currently focused on:
-
-* Data collection
-* Mapping data to business logic
-* Data modeling
-* Looker \(data visualization tool replacing Chartio\)
-* Automating Metrics
 
 ## Data Engineering Infrastructure
 
@@ -61,7 +47,6 @@ We are currently focused on:
 * [dbt](https://docs.getdbt.com/docs/introduction) is a tool, written in Python, that allows you to execute the Transform step of your ELT or ETL process. 
 * We use it to transform raw data in our Snowflake warehouse into more easily usable tables and views.
 * Our dbt implementation is [here](https://github.com/mattermost/mattermost-data-warehouse/tree/master/transform/snowflake-dbt)
-* We are still building out our transformations, but a good example to look at [here](https://github.com/mattermost/mattermost-data-warehouse/tree/master/transform/snowflake-dbt/models/finance) where we take raw data from our Salesforce instance, and use it to calculate ARR of our customers.
 * Dbt has a concept of [sources](https://docs.getdbt.com/docs/using-sources) and [models](https://docs.getdbt.com/docs/building-models).
   * An example sources file is [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/transform/snowflake-dbt/models/orgm/sources.yml) and this specifies already existing raw data that dbt can pull from to build models.
   * Then, you can define models that reference the sources. 
@@ -115,93 +100,19 @@ We are currently focused on:
       * Once an integration is created, it cannot be edited. If you need to make changes, you need to delete the integration and start over.
       * Data is only pulled at a daily level.
         * This is an issue because “Unique Monthly Users” is not the same as “Aggregated Unique Daily Users.
-  * Mattermost.org
-    * [Google Analytics Link](https://analytics.google.com/analytics/web/?authuser=0#/report-home/a64458817w100411618p104282920)
-    * Owner: Jason Blais
-    * Stitch Integrations:
-      * [GA ChannelGrouping Source Users Org](https://app.stitchdata.com/client/153136/pipeline/connections/211988/summary)
-        * Frequency: 6 hours
-        * Dimensions: ChannelGrouping, Source
-        * Measures: Users
   * Mattermost.com
     * [Google Analytics Link](https://analytics.google.com/analytics/web/?authuser=0#/report-home/a120238482w177779216p176410444)
-    * Owner: Rachel Bradley-Haas
+    * Owner: Kevin Fayle
     * Stitch Integrations:
-      * [GA ChannelGrouping Source Users Com](https://app.stitchdata.com/client/153136/pipeline/connections/212282/summary)
-        * Frequency: 6 hours
-        * Dimensions: ChannelGrouping, Source
-        * Measures: Users
       * [GA Mattermost Com Pages Visits](https://app.stitchdata.com/client/153136/pipeline/connections/226666/summary)
         * Frequency: 6 hours
         * Dimensions: Page Path, Page Title
         * Measures: Page Visits, Unique Page Visits, Avg Time on Page
   * Developers.Mattermost.com
     * [Google Analytics Link](https://analytics.google.com/analytics/web/#/dashboard/uh0tcPOLS1ir9osCAZvBiQ/a64458817w179061281p177463446/)
-    * Owner: Jason Blas
+    * Owner: Kevin Fayle
     * Stitch Integrations:
       * [GA Developers Pages Visits](https://app.stitchdata.com/client/153136/pipeline/connections/226635/summary)
         * Frequency: 6 hours
         * Dimensions: Page Path, Page Title
         * Measures: Page Visits, Unique Page Visits, Avg Time on Page
-* **Salesforce/Heroku Connect**
-  * [OrgM](https://app.stitchdata.com/client/153136/pipeline/connections/206623/summary)
-  * Frequency: 1 hour \(as of 2020-01-07\)
-  * [Tables Syncing](https://app.stitchdata.com/client/153136/pipeline/connections/206623/data/db/d6ghpflham816n/schema/orgm)
-  * Sync Type:  Key-Based Incremental Replication \(Recommended\)
-    * When you define a Replication Key, Stitch will store the greatest value of that column of that key during each update and only sync rows with greater or equal values on subsequent updates.
-    * Note: Hard deletes are not supported by this Replication Method.
-    * Note: Because we use this incremental replications, when adding a new column to a table, you must reload the table to ensure all data has been backfilled in Snowflake.
-    * Replication Key: sysmodstamp
-    * Table Specific Info
-
-      `app.stitchdata.com/client/153136/pipeline/connections/206623/data/db/d6ghpflham816n/schema/orgm/properties/6715619/[TABLE_NAME]/`
-
-    * Account Example: `app.stitchdata.com/client/153136/pipeline/connections/206623/data/db/d6ghpflham816n/schema/orgm/properties/6715619/account/`
-    * Updating Table Settings:
-      * Follow the link formatting to table specific info
-      * Click Table Settings
-    * Reloading a Table:
-      * In Table Settings, click **Reset Table** and save updates
-
-### Postgres Job
-
-* The Postgres Job is simply a way for us to run scripts against our Heroku Postgres database \(that contains our Salesforce data through Heroku Connect\). 
-* The DAG for this is [here](https://github.com/mattermost/mattermost-data-warehouse/blob/master/dags/general/pg_job.py#L25)
-  * The script looks for sql files in this [folder](https://github.com/mattermost/mattermost-data-warehouse/tree/master/transform/sql) and the second argument to “get\_container\_operator” must match the filename in the folder \(without the .sql\).
-
-    It uses a Kubernetes Secret to store the credentials for our Postgres database.
-
-  * Note: The first argument to “get\_container\_operator” must not have any underscores in the name, hyphens can be used in their place.
-
-### Granting Access/Permissions
-
-#### Snowflake
-
-* Admin creates a user based on level of access
-
-  * Admin:
-
-  `CREATE USER rachel PASSWORD='[generate using lastpass]' COMMENT='rachel@mattermost.com' DEFAULT_ROLE='sysadmin'  
-  MUST_CHANGE_PASSWORD = TRUE DEFAULT_WAREHOUSE='analyst_xs';  
-  GRANT ROLE 'sysadmin' TO USER rachel;`
-
-  * Read Only:
-
-  `CREATE USER rachel PASSWORD='[generate using lastpass]'   
-  COMMENT='rachel@mattermost.com' DEFAULT_ROLE='reporting'  
-  MUST_CHANGE_PASSWORD = TRUE DEFAULT_WAREHOUSE='analyst_xs';   
-  GRANT ROLE 'reporting' TO USER rachel;`
-
-**Postgres**
-
-* Admin adds user to [Heroku Account](https://dashboard.heroku.com/apps)
-
-**Stitch**
-
-* Admin adds user to [Stitch Account](https://app.stitchdata.com/client/153136/pipeline/v2/account)
-
- **Airflow**
-
-* Admin shares login information with user via LastPass
-  * Airflow Creds in Shared-BizOps Folder
-  

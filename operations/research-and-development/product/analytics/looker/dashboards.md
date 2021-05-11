@@ -1,7 +1,5 @@
 # Dashboards
 
-**Only available to Looker early adopters. Please see the** [**Looker Page**](https://handbook.mattermost.com/operations/business-operations/analytics/looker)**.**
-
 ## Community
 
 * [GitHub Contributors Dashboard](https://mattermost.looker.com/dashboards/15)
