@@ -83,16 +83,16 @@ This is scheduled time for teams to have team-only time to discuss their work, s
 
 MatterCon 2020 was held at the Melia Nassau Beach resort in Nassau, Bahamas:
 
-{% embed url="https://www.youtube.com/watch?v=t8-UF-wcX\_s" %}
+[MatterCon 2020](https://www.youtube.com/watch?v=5YA3DK0u2L4)
 
 Here's what it was like at MatterCon 2019 in Puta Cana, Dominican Republic:
 
-[https://youtu.be/pMySvCfy7Bw](https://youtu.be/pMySvCfy7Bw)
+[MatterCon 2019](https://youtu.be/pMySvCfy7Bw)
 
 Here's MatterCon 2018 in Lisbon, Portugal: 
 
-[https://www.youtube.com/watch?v=CZXaYttz3NA&t=2s](https://www.youtube.com/watch?v=CZXaYttz3NA&t=2s)  
+[MatterCon 2018](https://www.youtube.com/watch?v=CZXaYttz3NA&t=2s)  
   
 Here's MatterCon 2017 in Las Vegas, USA: 
 
-[https://www.youtube.com/watch?v=\_RpmrM-5UFY&t=65s](https://www.youtube.com/watch?v=_RpmrM-5UFY&t=65s)
+[MatterCon 2017](https://www.youtube.com/watch?v=_RpmrM-5UFY&t=65s)
