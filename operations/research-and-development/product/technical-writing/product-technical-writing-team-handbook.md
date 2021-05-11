@@ -22,7 +22,7 @@ Documentation and technical writing at Mattermost covers (but isn't limited to) 
 * Focalboard
 * Growth
   * Customer Portal
-  * Compliance
+  * Telemetry
 
 Other areas of documentation include:
 
