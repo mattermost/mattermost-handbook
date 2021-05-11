@@ -10,16 +10,6 @@ The purpose of this handbook is to provide more details on the Product Manager r
 
 [Product Management Areas of Ownership](operations/research-and-development/product/product-ownership-areas.md) 
 
-### Change log
-
-| Date | Edited By | Change Notes |
-| :--- | :--- | :--- |
-| 3/31/2020 | Lindsay Brock | Add level descriptions |
-| 2/5/2020 | Adam Clarkson | Added notes on Customer Request Rotation |
-| 2/2/2020 | Katie Wiersgalla | Updated Twitter, Customer Requests, PM meetings |
-| 8/30/2019 | Katie Wiersgalla | Update sections with additional resources |
-| 6/12/2019 | Lindsay Brock | Updated outdated sections |
-| 6/25/2018 | Katie Wiersgalla | Initial Creation |
 
 ## The Product Manager Role
 
@@ -46,57 +36,6 @@ Product Managers are responsible for carrying out the strategic priorities of th
   * Tips on working with the contributor community
   * Experimental, Beta, and General Availability of Features
 
-## Recruiting - WIP
-
-### “The ideal candidate” \(WIP\)
-
-* Skills
-* Experience
-* Mindset
-
-### Levels
-
-#### Product Manager I
-
-Owns an area of the product end to end. Influences and executes defined projects across strategy, engineering and marketing functions.
-
-Given product goals, recommends product suggestions and priorities. Shows good judgment when prioritizing work, and effectively articulates the rationale behind it. Works with design, developers, and testers \(including both staff and contributors\) to align on priorities and execute on roadmap plans. Adept at making suggestions to help their team work in a high impact way. Asks questions and provides feedback that helps raise the quality bar of the team’s work as a whole.
-
-Effectively communicates with Sales, Marketing, and Support teams to ensure the successful launch of feature and projects with some guidance and support from more senior product managers. Highly responsive to questions about product and roadmap questions, they act as a liaison by representing their team to other departments. Works with support team to address issues and document solutions and best practices. Demos new product features effectively on customer calls. Can effectively articulate key product differentiators based on their knowledge of the market and competitors. Communicates with customers to validate designs and product ideas. When gathering feature suggestions and feedback, makes sure to identify the underlying need driving requests.
-
-Learns new skills and establishes goals and context quickly by asking precise questions. Proactively provides project status updates. Gets things done, doesn’t drop the ball.
-
-#### Product Manager II
-
-Owns a large area of the product end to end.
-
-Participates in defining product goals, quantitative and qualitative, for area of ownership, and recommends product and roadmap plans to achieve that goal. Works with design, developers, and testers \(including both staff and contributors\) to align on priorities and execute on roadmap plans. Highly skilled at identifying potential blind spots, and taking action to mitigate risk.
-
-Highly valued by the Sales, Marketing, and Support teams for their quality work and feedback. They ensure business value for product and roadmap are communicated effectively externally. Provides demos, demo training, and sales support working with field teams to win and expand customer accounts. Demonstrates strong insights about our customers, based on a deep knowledge acquired through strong customer research skills. Gathers data effectively from sales and support teams to make good decisions.
-
-Drops fluidly into different projects, ramps quickly, and contributes to successful outcomes. Makes good teams great.
-
-#### Senior Product Manager
-
-Uses deep knowledge of customer, product, competitors, and market to define, own and lead a product or significant product areas across strategy, engineering and marketing functions.
-
-Recommends product goals for their area of ownership, and influences high level goals for the product in general. Develops, socializes, and articulates compelling product roadmap and aligns processes and people to deliver it at high quality. Beneficially influences pricing, packaging, positioning, and messaging decisions from the perspective of a product owner.
-
-Sought after throughout the organization as a spokesperson for product value and roadmap.
-
-A highly respected authority by colleagues across the company and the community, they are someone who others look to for advice and mentorship. Has the ability to train and significantly develop product management related skills in colleagues and new hires.
-
-#### Lead Product Manager
-
-Manages other Product Managers. Accountable for leading teams and defining responsibilities and deliverables of individual contributors and ensuring their success. Given ambiguous or high level direction, lays out vision and plan to deliver successful outcomes.
-
-Participates in team planning, recruiting, hiring, and onboarding processes and effectively influences candidates to join the company. Develops a pipeline of recruiting candidates by building relationships with the community.
-
-Responsible for setting vision and direction for their area of ownership, and for acting as a spokesperson for product value and roadmap internally and externally.
-
-#### Principal Product Manager
-
-Sought out as an authority in the industry, influencing industry direction and standards through the development and dissemination of thought leadership work, and through the building of world-class products. Sets and delivers long term vision for entire products and product lines. Works fluidly across departments to set organizational objectives and direction. Engages with peers in external organizations to shape joint plans for key initiatives. Rapidly understands disparate viewpoints across different functions and departments, and aligns thinking and efforts to influence the direction of large scale cross-departmental efforts.
 
 ### Recruiting process
 
@@ -173,13 +112,12 @@ Team:
   * Ask questions to understand development, design, QA processes
 * Meet with Amy \(Release Manager\) and read the release process doc
 * Meet with Ian (CEO) \([https://github.com/it33/readme/blob/master/README.md](https://github.com/it33/readme/blob/master/README.md/)\). This will be scheduled for you
-* Meet other Product Managers \(Jason Blais, Eric Sethna, Katie Wiersgalla, Aaron Rothschild, Adam Clarkson, Ian Tao\)
+* Meet other Product Managers \(Jason Blais, Eric Sethna, Katie Wiersgalla, Aaron Rothschild, Ian Tao, Chen-I Lim\)
   * Learn about their areas of ownership
 * Participate in PM, R&D, and Customer Obsession Meetings
 * Jira
   * Sign up to Jira and post in the “Jira configuration” channel to be added to internal team
   * Get Jira training from PM buddy
-    * [Customer Requests](https://mattermost.atlassian.net/projects/CR/issues/CR-16?filter=allopenissues)
     * [Mattermost Platform](https://mattermost.atlassian.net/projects/MM/issues/MM-10977?filter=allopenissues)
 * Make your first edit and pull request on GitHub
   * Update documentation or product help text
@@ -263,17 +201,17 @@ Activities:
       * Typical customer deployment
         * Sizing recommendations
   * Product areas: Functional Overview and Roadmap
-    * End user experience \(Desktop, Web, and Mobile Applications\) \(Eric Sethna\)
-    * Cloud and Admin Experience \(Adam Clarkson\)
+    * Messaging End user experience \(Desktop, Web, and Mobile Applications\) \(Eric Sethna\)
     * App Marketplace and Developer Toolkit \(Aaron Rothschild\)
-    * Platform \(Cloud Platform features, Self-Managed Platform features\) \(Katie Wiersgalla\)
+    * Platform Administration \(Cloud Platform features, Self-Managed Platform features\) \(Katie Wiersgalla\)
     * Product-centric GTM \(Customer Portal, Growth Product\) \(Jason Blais\)
-    * Workflows \(Ian Tao\)
+    * Incident Collaboration \(Ian Tao\)
+    * Focalboard \(Chen-I Lim\)
     * Community \(Jason Blais\)
     * Reference:
       * [Roadmap - All teams](https://mattermost.productboard.com/portal/19-combined-highlighted-features)
       * [Engineering OKRs](https://mattermost.productboard.com/feature-board/1749949-release-summary-internal)
-  * Product Analytics \(Chen, Consultant\)
+  * Product Analytics \(Eric Nelson\)
     * Tips on things to watch out for if running your own analytics
     * Dive into product analytics
 * Learn about the product development process
@@ -311,7 +249,6 @@ Activities:
   * Ramp up on a couple of ongoing projects or smaller projects
 * Shadow release process meetings and conversations
   * Ask Amy to add to release meetings for the upcoming release
-  * Participate in Release Testing
 * Other projects identified by PM mentor to assist in learning about your area of responsibility
 * Update this onboarding document!
   * Helpful links, FAQs, and summaries of what you learned that would be useful for a new PM to know in the future
@@ -327,9 +264,7 @@ Training focus:
 
 Activities:
 
-* Run Triage meetings with other PMs present
-* Run Sprint Planning meetings
-  * Initially with other PMs present with goal by end of 60 days to do on own
+* Participate in transitional projects with exiting PM owner
 * Interview clients for research for an upcoming project
 * Document research findings and requirements
 * Work with UX team on specs for your project and validation of designs with customers
@@ -435,7 +370,6 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
 
 #### Testing
 
-* Participate in Release testing per QA assignments
 * Test features and provide input on PRs from Developers and Community members
 
 #### Security and dot releases
@@ -473,7 +407,7 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
 #### Customer Success
 
 * Provide Roadmap status updates for Enterprise clients
-* Assist with Customer Support - Tier 2 on call weekly rotation
+* Assist with Customer Support
 * PMs should be on sales/customer calls often; if not on at least a couple per week then request to be added in the CSM:PM channel and Pre-sales channel
   * Document and post feedback in [Salesforce](https://handbook.mattermost.com/operations/customer-success#logging-a-customer-feedback-in-salesforce)
   * Add/update Jira tickets to capture feature requests
@@ -508,9 +442,7 @@ After adding the feedback to the relevant idea in productboard, the PM comments 
 
 #### Twitter rotation
 
-Product Managers rotate responsibility weekly for answering product question escalations on Twitter. Twitter is monitored by the marketing team, and they will @mention the PM on rotation in the Twitter channel when they need to escalate a question.
-
-The PM on rotation can be found in the header of the [Mattermost Twitter channel](https://community.mattermost.com/core/channels/twitter). The rotation switches on Monday and is scheduled alphabetically by first name. The PM on rotation will be mentioned on the first day of their rotation.
+Product Managers are mentioned to assist in answering product question escalations on Twitter. Twitter is monitored by the marketing team, and they will @mention the PM team in the Twitter channel when they need to escalate a question. PMs should respond to questions in their area of ownership. 
 
 ### Organizational improvements
 
@@ -524,17 +456,23 @@ The PM on rotation can be found in the header of the [Mattermost Twitter channel
 
 ## Meetings - WIP
 
-### PM meeting
+### PM Weekly Sync 
 
 | Attendees | Objectives | Time | Meeting Prep | During Meeting | Post Meeting |
 |:-----|:------|:----|:------|:-------|:-------|
-| <li> Senior PM Managers</li> <li>All PMs</li> <li>Release Manager</li> | <li>Update progress on features for current release</li> <li>Triage unassigned Customer Requests</li> <li>Share team updates and best practices</li> <li>Gather input from PM colleagues on proposals to uncover blindspots</li> | Wednesdays from 9:00am to 9:30am Palo Alto time. | <li>Post agenda items to the Product Management channel. Items are queued as a numbered post with a short description such as this [example](https://community.mattermost.com/core/pl/a58u4f5p77bpfx5ygyawnwm83y).</li> <li>Provide supporting documentation for advanced review. Confidential information should be posted in the PM:Private Channel.</li> <li>PM on the Customer Request Rotation should have assigned all obvious unassigned requests prior the meeting.</li>| <li>Release Manager: Get updates from PMs on items scheduled in the Release Plan.</li> <li>PM on Twitter Rotation for week: Triage any non-obvious unassigned Customer Requests.</li> <li>Queued agenda items. Some agenda items that take a large amount of time may be time-copped based on other agenda items queued.</li> <li>Note action steps for agenda items, especially when there is follow up required for PM who did not queue the item.</li>| <li>Provide updates on action steps posted against previous agenda items.</li> <li>This may include providing a follow up agenda item for a future meeting.</li> |
+| <li> Senior PM Managers</li> <li>All PMs</li> <li>Release Manager</li> | <li>Update progress on features for current release</li> <li>Triage unassigned Customer Requests</li> <li>Share team updates and best practices</li> <li>Gather input from PM colleagues on proposals to uncover blindspots</li> | Wednesdays from 9:00am to 9:30am Palo Alto time. | <li>Post agenda items directly in the meeting agenda (linked in the meeting invite).</li> <li>Provide supporting documentation for advanced review. Confidential information should be posted in the PM:Private Channel.</li> <li>PM on the Customer Request Rotation should have assigned all obvious unassigned requests prior the meeting.</li>| <li>Release Manager: Get updates from PMs on items scheduled in the Release Plan.</li> <li>Queued agenda items. Some agenda items that take a large amount of time may be time-copped based on other agenda items queued.</li> <li>Note action steps for agenda items, especially when there is follow up required for PM who did not queue the item.</li>| <li>Provide updates on action steps posted against previous agenda items.</li> <li>This may include providing a follow up agenda item for a future meeting.</li> |
 
 ### Monthly Product:Sales call
 
 | Attendees | Format | Time | Meeting Prep | During Meeting | Post Meeting |
 |:-----|:------|:----|:------|:-------|:-------|
-| <li> All PMs</li> <li>Optional: Sales, BizOps, Marketing departments</li> | <li>PMs share roadmap highlights: Focus is on features with clear release timelines, and a clear benefit to customers, so Sales knows what is coming up soon they can talk to customers about.</li> <li>Demos, PRFAQs, and designs are shared as needed to illustrate the benefits</li> <li>Open Q&A</li> | Monthly meeting on 2nd Monday of the month from 9:00am - 10:00am Palo Alto time. | <li>Prepare a list of features you'd like to showcase during the meeting. The agenda of features PMs are presented are typically coordinated a few days in advance.</li> <li>Prepare a short demo of the features. Show prototypes or designs if a demo environment is not available.</li> <li>Prepare information that the team may need to be aware of regarding feature, and be prepared to answer questions about the feature.</li>| <li>Present your demos and share any other important information regarding features or upcoming product changes.</li> <li>Answer questions from the team. It may be necessary to time-cop a particular topic to ensure we can share all the demos on the agenda.</li>| <li>Provide updates on action steps posted against previous agenda items.</li> <li>This may include providing a follow up agenda item for a future meeting.</li>|
+| <li> All PMs</li> <li>Optional: Sales, BizOps, Marketing departments</li> | <li>PMs share roadmap highlights: Focus is on features with clear release timelines, and a clear benefit to customers, so Sales knows what is coming up soon they can talk to customers about.</li> <li>Demos, PRFAQs, and designs are shared as needed to illustrate the benefits</li> <li>Open Q&A</li> | Monthly meeting on 1st Monday of the month from 9:00am - 10:00am Palo Alto time. | <li>Prepare a list of features you'd like to showcase during the meeting. The agenda of features PMs are presented are typically coordinated a few days in advance.</li> <li>Prepare a short demo of the features. Show prototypes or designs if a demo environment is not available.</li> <li>Prepare information that the team may need to be aware of regarding feature, and be prepared to answer questions about the feature.</li>| <li>Present your demos and share any other important information regarding features or upcoming product changes.</li> <li>Answer questions from the team. It may be necessary to time-cop a particular topic to ensure we can share all the demos on the agenda.</li>| <li>Share recoring post meeting.</li> <li>Share feedback survey post meeting.</li>|
+
+### Monthly Product Training cal
+
+| Attendees | Format | Time | Meeting Prep | During Meeting | Post Meeting |
+|:-----|:------|:----|:------|:-------|:-------|
+| <li> Selected PMs</li> <li>Optional: Sales, BizOps, Marketing departments</li> | <li>PMs do a deeper training on upcoming feature about to be released or one recently released.</li> <li>Demos, Enablement materials and technical overview is presented. </li> <li>Open Q&A</li> | Monthly meeting on 3rd Monday of the month from 9:00am - 10:00am Palo Alto time. | <li>Topics are decided at least 1 month in advanced in a weekly PM Sync meeting</li> <li>Prepare presentation materials</li> <li>Provide agenda and materials (as able) prior to the meeting.</li>| <li>Present use cases, value propositions, demo of feature and technical details.</li> <li>Answer questions from the team. It may be necessary to time-cop a particular topic to ensure we can share all the demos on the agenda.</li>| <li>Share recoring post meeting.</li> <li>Share feedback survey post meeting.</li>|
 
 ## Frequently Asked Questions (FAQ)
 
