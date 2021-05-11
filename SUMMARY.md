@@ -195,6 +195,7 @@
 
 * [Contributors](contributors/contributors/README.md)
   * [Mattermost Community](contributors/contributors/community.md)
+  * [Core Committers](contributors/contributors/core-committers.md)
   * [Community Systems](contributors/contributors/community-systems.md)
   * [Contribution Guidelines and Code of Conduct](contributors/contributors/contribution-guidelines.md)
   * [Mattermost Community Playbook](contributors/contributors/community-playbook.md)
