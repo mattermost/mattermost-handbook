@@ -105,7 +105,7 @@ Below is a list of approved reviewers.
 
 1. @jasonblais: Reviews major changes to handbook.mattermost.com, such as updates to the Table of Contents (SUMMARY.md).
 2. @justinegeffen, @amyblais, @cwarnermm: Editor reviews of all submitted PRs for correct grammar and consistent style.
-3. @kevinfayle: Signs off on changes to [marketing ops and analytics](https://handbook.mattermost.com/operations/research-and-development/product/analytics).
+3. @kevinfayle: Signs off on changes to [marketing ops and analytics](https://handbook.mattermost.com/operations/messaging-and-math/demand-generation-reporting).
 4. @aedott: Signs off on changes to [messaging and math](https://handbook.mattermost.com/operations/messaging-and-math).
 5. @TQuock: Signs off on changes to [finance](https://handbook.mattermost.com/operations/finance).
 6. @natalie-hub: Signs off on changes to [workplace](https://handbook.mattermost.com/operations/workplace).
