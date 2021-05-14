@@ -129,6 +129,8 @@ If a plugin has documentation for multiple versions the master branch is the sou
 
 Every time we release a new minor or major version plugin we cut a new branch with docs and keep the branch forever so customers can still refer back to it.
 
+Plugins that don't have documentation for multiple versions can have their content updated in master and don't follow this process.
+
 ### Working in Gitbook
 
 We use Gitbook to render our documentation.
