@@ -21,7 +21,7 @@ Some of you may have already received your Oculus Quest 2 headsets and some may 
 
 ## Create your own team room (think VR booth at a virtual conference) on Spatial!! Sign up on Focalboard
 
-1. First, join the MatterCon2021 channel on Community.
+1. First, join the [MatterCon2021 channel](https://community.mattermost.com/core/channels/mattercon-2021) on Community.
 2. Make your team room by creating a **+NEW SPACE** on your Spatial app with your phone or browser.
 3. Select the up arrow box on the RHS and change the options to share with **Anyone with a link**.
 4. Go to [Team Rooms Focalboard](https://focalboard-community.octo.mattermost.com/workspace/7kxjjebrnffxdps5bsr8brn9so?id=5601f94e-a5c6-4972-85b4-b815b6c0882f&v=22d9534c-676d-4ea6-8e07-82a76324af95).
