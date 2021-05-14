@@ -129,7 +129,9 @@ Plugins that don't have documentation for multiple versions can have their conte
 
 ### Working in Gitbook
 
-We use Gitbook to render our documentation.
+We use Gitbook to render our documentation. A migration process from Gitbook to the Developers website is scheduled to start soon, at which point all plugin documentation will live in that repo. 
+
+Details of the PR process for updating docs once this migration is complete will follow.
 
 ## Documentation template for contributions
 
