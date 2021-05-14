@@ -1,7 +1,7 @@
 
 # MatterCon 2021
 
-MatterCon 20201 will be Mattermost's first VR conference. Using Oculus Quest 2 devices, we'll be meeting up virtually in June 2021. [Join the MatterCon2021 channel on Community](https://community.mattermost.com/core/channels/mattercon-2021). Use the hashtag #mattercon2021.
+MatterCon 20201 will be Mattermost's first VR conference. Using Oculus Quest 2 devices, we'll be meeting up virtually from June 22- 24, 2021. [Join the MatterCon2021 channel on Community](https://community.mattermost.com/core/channels/mattercon-2021). Use the hashtag #mattercon2021.
 
 ## When will I receive my Oculus Quest 2?
 
