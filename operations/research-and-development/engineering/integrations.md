@@ -125,7 +125,7 @@ This is the same process used for the webapp and server repos in terms of docume
 
 ### Documentation for plugins with multiple versions
 
-Different plugins have different branching strategies, depending on the versioning pattern they use. The master branch is the source of truth of the docs for the "current release" of a plugin, and archive "previous release" as a (version)-docs branch when docs need to change.
+If a plugin has documentation for multiple versions the master branch is the source of truth of the docs for the current release version of a plugin. Previous releases are archived as a (version)-docs branch when docs need to change.
 
 Every time we release a new minor or major version plugin we cut a new branch with docs and keep the branch forever so customers can still refer back to it.
 
