@@ -99,7 +99,7 @@ Mattermost integrations documentation currently spans:
 
 - docs.mattermost.com: Outline of how integrations work with Mattermost and a list of integrations available.
 - Gitbook: Configuration and User documentation for plugins, as well as developer content.
-- developers.mattermost.com: Introduction to the contribution process, contribution workflow, testing and validation information.
+- developers.mattermost.com: Apps documentation, plugin documentation, introduction to the contribution process, contribution workflow, testing, and validation information.
 
 Mattermost-managed integrations are maintained by Mattermost staff and the documentation is written and maintained by the Integrations team. Community-managed integrations are maintained by their creator, which includes documentation maintenance.
 
