@@ -172,8 +172,8 @@ New VPMOM to be added. VPMOM in need of update: [Irresistable Solution and Platf
 
 ## Security Team
 
-* Daniel Schalla - Engineering Lead
-* Juho Nurminen - Product Security Engineer
+* Daniel Schalla - Head of Security
+* Juho Nurminen - Staff Product Security Engineer
 * Rohitesh Gupta - Product Security Engineer
 * Corey Robinson - Security Engineer, Infrastructure & Operations
 * Kennedy Torkura - Cloud Security Engineer
