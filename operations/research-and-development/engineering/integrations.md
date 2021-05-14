@@ -95,27 +95,23 @@ Seeing an intermittent connection issue with Zoom on http://dkh-local.ngrok.io. 
 
 This guide outlines the processes and workflows for requesting, updating, managing, and maintaining documentation for Mattermost-managed and community-managed apps, plugins, and integrations. This includes the branching strategy for the Gitbook repos, how to set up a new Gitbook, and the process for aligning documentation with releases.
 
-Integrations comprise Mattermost-managed plugins and community-managed integrations.
-
-- Mattermost-managed integrations are maintained by Mattermost staff and the documentation is written and maintained by the Mattermost Technical Writer.
-- Community-managed integrations are maintained by their creator, which includes documentation maintenance.
-
 Mattermost integrations documentation currently spans:
 
 - docs.mattermost.com: Outline of how integrations work with Mattermost and a list of integrations available.
-- Apps Marketplace: Content for specific apps, which is hosted in developers.mattermost.com.
 - Gitbook: Configuration and User documentation for plugins, as well as developer content.
 - developers.mattermost.com: Introduction to the contribution process, contribution workflow, testing and validation information.
 
+Mattermost-managed integrations are maintained by Mattermost staff and the documentation is written and maintained by the Integrations team. Community-managed integrations are maintained by their creator, which includes documentation maintenance.
+
 ## Apps documentation workflow
 
-The Apps Framework and Marketplace documentation lives [here](https://github.com/mattermost/mattermost-developer-documentation/tree/master/site/content/integrate/apps). When submitting documentation updates and new documentation for apps, there are two options available:
+The Apps Framework and Marketplace documentation lives [here](https://developers.mattermost.com/integrate/apps/). When submitting documentation updates and new documentation for apps, there are two options available:
 
 1. Submit the content with your PR in the [plugin-apps](https://github.com/mattermost/mattermost-plugin-apps) repo. Add the ``Docs/Needed`` label to the PR and ping @justinegeffen. The content will then be added to the docs, and the ``Docs/Done`` label added to your PR.
 
 2. Alternatively, you're welcome (and encouraged) to submit the docs PR yourself, [here](https://github.com/mattermost/mattermost-developer-documentation/tree/master/site/content/integrate/apps), then add a ``Docs/Needed`` label and tag @justinegeffen.
 
-For both options, please ensure that doc updates are either provided by you or requested ahead of merge so there's time to review the content. At least two days' notice is ideal. The goal is to ensure that docs and releases are always in sync. 
+For both options, please ensure that doc updates are either provided by you or requested ahead of merge so there's time to review the content. At least four days' notice is ideal. The goal is to ensure that docs and releases are always in sync.
 
 ## Plugin documentation workflow
 
