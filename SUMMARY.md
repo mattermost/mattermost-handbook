@@ -197,6 +197,10 @@
   * [How to Run a Hackathon](contributors/contributors/how-to-run-a-hackathon.md)
   * [Mattermost GitHub Sponsorship](contributors/contributors/github-sponsorship.md)
   * [Hacktoberfest Event Organizer Guide for Mattermost](contributors/contributors/hacktoberfest-mattermost-organizer-guide.md)
+* [MatterCon](contributors/mattercon/README.md)
+  * [Staff Information Privacy Management](contributors/mattercon/people-policies.md)
+  * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
+  * [MatterCon2021](contributors/mattercon/mattercon2021.md)
 * [Join Us](contributors/join-us/README.md)
   * [Things Candidates Should Know](contributors/join-us/recruiting.md)
   * [Staff Recruiting](contributors/join-us/staff-recruiting/README.md)
@@ -204,7 +208,5 @@
     * [Product Manager Hiring Process](contributors/join-us/staff-recruiting/product-manager-hiring.md)
   * [Exec Recruiting](contributors/join-us/exec-recruiting/README.md)
     * [EA Logistics](contributors/join-us/exec-recruiting/ea-logistics.md)
-  * [MatterCon](contributors/mattercon/readme.md)
-    * [Staff Information Privacy Management](contributors/mattercon/people-policies.md)
-    * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
+
     
