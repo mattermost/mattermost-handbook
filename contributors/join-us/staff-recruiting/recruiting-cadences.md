@@ -26,7 +26,7 @@ Your Recruiter will schedule an intake session after you’ve completed your [Jo
 
 ## Interview feedback
 
-Each interviewer should provide feedback in Lever within 24 hours after meeting with the candidate. The feedback should give as much detail and context as possible. This will help to align expectations both for the Recruiting team and for the final interviewers (MLT and AA). As a guideline, please complete your feedback notes around:
+Each interviewer should provide feedback in Lever within 24 hours after meeting with the candidate. The feedback should give as much detail and context as possible. This will help to align expectations both for the Recruiting team and for the final interviewers \(MLT and AA\). As a guideline, please complete your feedback notes around:
 
 * Areas that you went through during the interview
 * Likes
