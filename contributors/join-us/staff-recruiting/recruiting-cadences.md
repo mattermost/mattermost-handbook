@@ -33,7 +33,7 @@ Each interviewer should provide feedback in Lever within 24 hours after meeting 
 * Wishes
 * Red flags (if any)
 * Alignment to our [Leadership Principles](https://mattermost.com/about-us/)
-* Candidate's concerns or questions.
+* Candidate's concerns or questions
 
 ## Mid-interview sync
 
