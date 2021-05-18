@@ -22,7 +22,10 @@ Recruiting shares a metrics update in the Hiring Managers Channel every Monday m
 
 ## Recruiter intake session
 
-Your Recruiter will schedule an intake session after you’ve completed your Job Description. During this call, your Recruiter works with you to ensure alignment on the level, ideal candidate profile, application, screening questions, the interview process, and next steps. 
+Your Recruiter will schedule an intake session after you’ve completed your [Job description and & ICP](https://docs.google.com/document/d/1rpTI2NKu4H_781vpx_eD9Fku7go4gGDs1P7bJAMQvAU/edit) (Ideal Candidate Profile) form. During this call, your Recruiter works with you to ensure alignment on the level, ideal candidate profile, application, screening questions, the interview process, and next steps. This session will also serve as an alignment meeting with the interviewers selected for the panel. The **Focus & Screening areas** should be defined for each interviewer along with the scorecard and Lever interview feedback form for each one. 
+
+## Interview feedback
+Each interviewer should provide feedback in Lever within 24 hs after meeting with the candidate. The feedback should give as much detail and context as possible. This will help to align expectations both for the Recruiting team and lately, for the final interviewers (MLT and AA). As a guideline, please complete your feedback notes around this: Areas that you went through during the interview; Likes; Wishes; Red flags (if there´s any);Alignment to our [Leadership Principles](https://mattermost.com/about-us/); candidate´s concerns or questions.
 
 ## Mid-interview sync
 
