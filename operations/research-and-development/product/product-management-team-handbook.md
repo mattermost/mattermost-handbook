@@ -222,7 +222,6 @@ Activities:
     * Team Triage
     * Sprint Planning
     * OKRs
-    * Join general Triage meeting
     * Join all feature team meetings \(Triage, Sprint Planning\)
   * Design process \(Feature team designer\)
     * [Spec template](https://docs.google.com/document/u/1/d/1QC4-qysnp3DuPS5nROUpL31WtiJ7RhZCXz24T1WgTko/edit#heading=h.2msta3abogxt)
