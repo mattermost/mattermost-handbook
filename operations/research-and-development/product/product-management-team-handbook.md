@@ -335,10 +335,7 @@ Activities:
 
 #### Triage
 
-* Participate in daily Triage meetings \(not mandatory to join every meeting\)
 * Validate “Won’t fix”, “Won’t do” tickets. Provide a final comment of approval so ticket can be closed by QA
-* Ensure tickets are assigned to teams and assigned a fix version
-  * Jira Fix Version = “unscheduled” means ticket has enough information to be developed, but is not assigned to a specific release version
 * Assist in identifying [Help Wanted tickets](https://handbook.mattermost.com/contributors/contributors/help-wanted)
 * Update Fix Version to “help-wanted”, which will run an automation that will automatically create a corresponding issue in GitHub
 
