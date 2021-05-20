@@ -222,7 +222,6 @@ Activities:
     * Team Triage
     * Sprint Planning
     * OKRs
-    * Join general Triage meeting
     * Join all feature team meetings \(Triage, Sprint Planning\)
   * Design process \(Feature team designer\)
     * [Spec template](https://docs.google.com/document/u/1/d/1QC4-qysnp3DuPS5nROUpL31WtiJ7RhZCXz24T1WgTko/edit#heading=h.2msta3abogxt)
@@ -335,10 +334,7 @@ Activities:
 
 #### Triage
 
-* Participate in daily Triage meetings \(not mandatory to join every meeting\)
 * Validate “Won’t fix”, “Won’t do” tickets. Provide a final comment of approval so ticket can be closed by QA
-* Ensure tickets are assigned to teams and assigned a fix version
-  * Jira Fix Version = “unscheduled” means ticket has enough information to be developed, but is not assigned to a specific release version
 * Assist in identifying [Help Wanted tickets](https://handbook.mattermost.com/contributors/contributors/help-wanted)
 * Update Fix Version to “help-wanted”, which will run an automation that will automatically create a corresponding issue in GitHub
 
