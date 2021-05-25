@@ -9,6 +9,7 @@ description: 1% DRAFT
 The purpose of this handbook is to provide more details on the Product Manager role, processes, and relations to other functions within the organization to foster success for employees in this role. This handbook may be shared with other functional areas so they may gain a better understanding of the Product Manager role, and develop a greater understanding for responsibilities and interaction areas.
 
 [Product Management Areas of Ownership](operations/research-and-development/product/product-ownership-areas.md) 
+[Product Manager Onboarding](operations/research-and-development/product/pm-onboarding.md)
 
 
 ## The Product Manager Role
