@@ -472,19 +472,6 @@ Product Managers are mentioned to assist in answering product question escalatio
 
 ## Frequently Asked Questions (FAQ)
 
-### Can we take this feature out of beta?
-
-To officially release a feature, it should meet the following criteria:
-
-1. **Scalable:** Works for 60k concurrent connections, 60M rows in the database, and in High Availability
-2. **Cross Platform:** Works on all web view sizes, mobile apps, desktop apps
-3. **Measurable:** Telemetry added where appropriate
-4. **Documented:** Complete documentation is available
-5. **Secure:** Reviewed internally for security, and included in future security reviews
-6. **Accessible:** Accessibility has been added for user interface components
-7. **Logged:** Audit log entries have been added to allow System Admins to troubleshoot issues
-8. **Compliant:** Anything needed for compliance is tracked in logs
-
 ### How do I create redirects for in-product documentation?
 
 Documentation that is linked in-product should always use a redirect from www.mattermost.com instead of the docs.mattermost.com site, to ensure links are not broken in the event that they are moved on the docs site.
