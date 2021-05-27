@@ -3,19 +3,20 @@
 
 MatterCon 2021 will be Mattermost's first VR conference. Using Oculus Quest 2 devices, we'll be meeting up virtually from June 22 - 24, 2021. [Join the MatterCon2021 channel on Community](https://community.mattermost.com/core/channels/mattercon-2021). Use the hashtag #mattercon2021.
 
-## Community Engagement Information
+## Community engagement information
 
-We will have multiple opportunities for staff members to engage with the community on June 24th, our official Community Day.
-1. Submit AMA questions for our top contributor panel [here](https://forms.gle/FGpmm7DhvrciQqgr7)
-2. Sign up to be a Community Buddy [here](https://forms.gle/FGpmm7DhvrciQqgr7)
+We'll have multiple opportunities for staff members to engage with the community on June 24th, our official Community Day.
 
-### What is expected of a Community Buddy?
+1. Submit AMA questions for our top contributor panel [here](https://forms.gle/FGpmm7DhvrciQqgr7).
+2. Sign up to be a Community Buddy [here](https://forms.gle/FGpmm7DhvrciQqgr7).
 
-A Community Buddy is an internal staff member who is paired up with a member of our community. We will default to pairing people up via timezones to be most convenient for them. However if there is a specific community member you would like to work with, please indicate that on the form above.
+### What's expected of a Community Buddy?
 
-You will be expected to reach out to them via Mattermost to let them know that you are their buddy, and that you will be available throughout the event in case they have any questions, comments, etc. If you are not the right person to answer their questions, it will be your responsibility to reach out to the correct person, and make sure they connect back with your buddy. We will also expect you to engage with them throughout the event (via Mattermost) periodically, so that they feel as welcomed and included as possible.
+A Community Buddy is an internal staff member who is paired up with a member of our community. We'll default to pairing people up via timezones to be most convenient for them. However if there's a specific community member you'd like to work with, please indicate that on the form above.
 
-## Virtual Reality Information
+You'll be expected to reach out to them via Mattermost to let them know that you're their buddy, and that you'll be available throughout the event in case they have any questions, comments, etc. If you're not the right person to answer their questions, it will be your responsibility to reach out to the correct person, and make sure they connect back with your buddy. We'll also expect you to engage with them throughout the event (via Mattermost) periodically, so that they feel as welcomed and included as possible.
+
+## Virtual reality information
 
 ### When will I receive my Oculus Quest 2?
 
