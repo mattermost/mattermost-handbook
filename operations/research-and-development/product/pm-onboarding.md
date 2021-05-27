@@ -5,7 +5,6 @@
 * [Hiring Process](https://handbook.mattermost.com/contributors/join-us/staff-recruiting/product-manager-hiring)
 * [Interview Processes](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#interview-process)
 
-
 ## First day
 
 ### Objective: Explore the product with fresh eyes
