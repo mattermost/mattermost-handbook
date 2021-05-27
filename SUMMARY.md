@@ -77,6 +77,7 @@
       * [How to Write a Feature Release Announcement](operations/research-and-development/product/how-to-guides-for-product/release-announcement.md)
     * [Product Management Team Handbook](operations/research-and-development/product/product-management-team-handbook.md)
       * [Product Management Areas of Ownership](operations/research-and-development/product/product-ownership-areas.md) 
+      * [Product Manager Onboarding](operations/research-and-development/product/pm-onboarding.md)
     * [Technical Writing Team Handbook](operations/research-and-development/product/product-technical-writing-team-handbook.md)
     * [Analytics](operations/research-and-development/product/analytics/README.md)
       * [Looker](operations/research-and-development/product/analytics/looker/README.md)
