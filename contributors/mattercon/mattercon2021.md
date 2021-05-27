@@ -12,7 +12,7 @@ We'll have multiple opportunities for staff members to engage with the community
 
 ### What's expected of a Community Buddy?
 
-A Community Buddy is an internal staff member who is paired up with a member of our community. We'll default to pairing people up via timezones to be most convenient for them. However if there's a specific community member you'd like to work with, please indicate that on the form above.
+A Community Buddy is an internal staff member who's paired up with a member of our community. We'll default to pairing people up based on time zones to be most convenient for them. However if there's a specific community member you'd like to work with, please indicate that on the form above.
 
 You'll be expected to reach out to them via Mattermost to let them know that you're their buddy, and that you'll be available throughout the event in case they have any questions, comments, etc. If you're not the right person to answer their questions, it will be your responsibility to reach out to the correct person, and make sure they connect back with your buddy. We'll also expect you to engage with them throughout the event (via Mattermost) periodically, so that they feel as welcomed and included as possible.
 
