@@ -185,11 +185,11 @@ Purchase as you need. We expect most items to have 18 to 24 month life and would
 
 ### Software systems
 
-All software should be provisioned through a corporate account. This helps mitigate multiple accounts for the same application. To see software Mattermost currently subscribes to, join the [Systems channel](https://community.mattermost.com/private-core/channels/systems) and click on **View Systems** in the header.  
+All software should be provisioned through a corporate account. This helps mitigate multiple accounts for the same application. To see software Mattermost currently subscribes to, join the [Systems channel](https://community.mattermost.com/private-core/channels/systems) and click on **View Systems** in the header.
 
-If there's a piece of software you're looking to buy that Mattermost does not have a subscription to, discuss with your manager and then post in the [Systems channel](https://community.mattermost.com/private-core/channels/systems) to discuss with IT. All committed or material subscription requests should follow the instructions to purchase by [submitting a PO](https://handbook.mattermost.com/operations/finance/purchasing/how-to-procure-a-vendor-contract). 
+If there's a piece of software you're looking to buy that Mattermost does not have a subscription to, discuss with your manager and then post in the [Systems channel](https://community.mattermost.com/private-core/channels/systems) to discuss with IT. All committed or material subscription requests should follow the instructions to purchase by [submitting a PO](https://handbook.mattermost.com/operations/finance/purchasing/how-to-procure-a-vendor-contract).
 
-If you are seeking to test a new software and it is not a material cost or comittment (e.g. a month-to-month cloud hosted software), the most expedient method may be requesting a [Virtual credit card](https://handbook.mattermost.com/operations/finance/purchasing/request-a-divvy-virtual-credit-card). Reach out to the [Purchases](https://community.mattermost.com/private-core/channels/purchases) channel  
+If you are seeking to test a new software and it is not a material cost or comittment (e.g. a month-to-month cloud hosted software), the most expedient method may be requesting a [Virtual credit card](https://handbook.mattermost.com/operations/finance/purchasing/request-a-divvy-virtual-credit-card). Reach out to the [Purchases](https://community.mattermost.com/private-core/channels/purchases) channel.
 
 Note that any software expensed that has not been vetted through Procurement will not be reimbursed. Should you have questions, reach out to the [Purchases](https://community.mattermost.com/private-core/channels/purchases) channel.
 
