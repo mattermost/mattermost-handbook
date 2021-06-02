@@ -16,52 +16,32 @@ The deadline to get the pre-packaged version to the self-managed release is by s
  - Use Incident Collaboration Playbooks / checklist for releases.
  - Publishing a release: https://docs.google.com/document/d/11uLGhYYNnsulL1oUAlfFyNcT3wgAiDJmCSvnNkuAbpA/edit#heading=h.6kw7puo0cpnm 
  - Publicity process: https://docs.google.com/document/d/1C1ke76Y-KV9k0buJsv57kqq5HFdR2BwnpkmVHmBCxuA/edit# 
- -TBD - goal is to use feature flags for features, maybe also for Focalboard itself.
+ - Goal is to use feature flags for features. Focalboard itself is currently behind a feature flag and tagged as experimental in June release.
  - Goal is to automate as many tests as possible. Also to integrate with the QA dashboard.
- - Focalboard will be tagged as experimental for June release.
- - Keep bugs in Github; Focalboard for work items.
-Track and triage via Focalboard? PR milestones
-Triage meetings?
-Changelog
-Changes
-Upgrade notes
-Contributors
-Known issues
-Add changelog to docs.mattermost.com?
-Notice.txt
-Regular updates
-Update Open Source Components doc and Release Lifecycle doc
-Dependencies
-Update project dependencies
-Feature flags?
-Translations
-Process to make sure translations are included in releases
-Version requirements
-List software requirements (e.g. OS, browser)
-Minimum server version requirements
-Testing
-Process
-Automated tests
-Load tests? Upgrade tests?
-Marketing
-Release announcements, tweets
-In-product notice?
-Wikipedia
-Download page
-Documentation
-Process (for features)? 
-Release
-App store release
-Github release
-Check minimum required server version (if applicable)
-Contributors
-Swag
-MVP?
-Release dates 
-Communicate in google calendar and channel header
-Retrospectives
-For releases and issues
-Metrics
-Quality metrics, e.g. number of bugs fixed, number of dot releases, etc.
-Update Jira Releases page
-Security updates communication
+
+## Basic release tasks
+ - Track and triage bugs via GitHub; Focalboard for work items
+ - PR milestones
+ - Triage meetings?
+ - Changelog with changes, upgrade notes, contributors, and known issues
+    - **Add changelog to docs.mattermost.com? XXXX**
+ - Update NOTICE.txt
+ - **Update Open Source Components doc and Release Lifecycle doc? XXXX**
+ - Update dependencies
+ - Translations monitoring
+ - List software requirements (e.g. OS, browser) and minimum server version requirements
+ - Testing + automated tests
+    - **Load tests? Upgrade tests? XXXX**
+ - Marketing - Release announcements, tweets
+    - **In-product notice? Wikipedia? Download page XXXX**
+ - Documentation
+ - Release
+    - App store release
+    - Github release
+    - Check minimum required server version (if applicable)
+ - Contributors
+    - Swag
+ - **Release dates - Communicate in google calendar and channel header XXXX**
+ - **Retrospectives XXXX**
+ - **Metrics - Quality metrics, e.g. number of bugs fixed, number of dot releases, etc. XXXX**
+ - **Security updates communication XXXX**
