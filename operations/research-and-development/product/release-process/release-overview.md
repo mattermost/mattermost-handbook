@@ -33,18 +33,62 @@ Mattermost numbers stable releases in the following format:
 - Release frequency: As required
 - Example: v1.2.5, v1.2.6
 
+## Objectives
+
+The goal is to deliver value to users quickly by a) shipping fast to get features to customers quickly for experimentation / feedback, and b) iteratively behind feature flags as a protection if any issues arise. This document outlines the principles and guidelines for how we release a new update of each product line weekly to Cloud and monthly to Self-Managed.
+
+## Multi-product Release Principles
+
+The goal is not to have the same release cadence for all products, but there may be similar schedules. E.g. Incident Collaboration and Focalboard plugins are pre-packed once a month with the self-managed releases. When products get bigger, we’ll need a dedicated release manager for Focalboard maybe sooner, IC maybe fine for now as is. We can duplicate/reuse a similar build process for new plugins. In the future we can also consider adding a slash command that anyone can trigger to cut RCs. Also, amins have a config option to turn off products (Focalboard and IC).
+
+1. **Focus on High Impact by shipping every new feature and any riskier code changes behind a feature flag.**
+ - Enables us to iterate in Cloud to deliver value to Self-Managed users more quickly by shipping changes faster. 
+ - E.g. The feature complete deadline for Self-Managed release is roughly 3 weeks prior to release day (Gitlab allows submitting changes until 3 working days (5 days) before Code Complete). Each suite vertical is individually responsible for quality and deciding if a feature should be included in a release or not (with the release team giving guidelines). This may mean shipping more patch releases, but we can manage some of this by using feature flags. This also requires good test automation coverage (see below).
+
+2. **Automate.**
+ - This allows us to ship releases more often and push feature complete deadlines to later.
+ - Automate release processes and tasks.
+ - Automate release tests and have E2E tests for features.
+
+3. **Earn Trust by communicating to external and internal stakeholders clearly.**
+ - Enables us to make expectations for releases clear for all stakeholders.
+ - Make expectations for each release clear (release dates, etc.). Communicate. Ensure that everyone on the team is familiar with the release processes.
+ - Release notes, minimum version requirements, and any important upgrade notes need to be available for customers and communicated via docs, twitter, blog, emails, channels, download page, Github.
+
+4. **Earn Trust by including all stakeholders (Tech Writers, Marketing, QA, etc.) early in the release process.**
+ - Enables us to avoid missing key tasks and to avoid last minute work.
+ - E.g. When opening a PR, add a “Docs/Needed” label for any PRs that need docs and communicate to Tech Writers. Don’t wait until merging the PR/feature. This ensures that we have time to complete docs on time when our releases become faster.
+ - Make tracking bugs and testing requirements easy. E.g:
+ - Resolve Jira tickets for QA when PRs are merged (and cherry-picked).
+ - Add QA test steps to Jira tickets and/or PRs.
+ - Add Fix Versions and Milestones in Jira/PRs for bugs/tickets for easy tracking.
+ - Add clear Release Notes on PRs.
+
+5. **Achieve Customer Obsession by doing retrospectives on release issues and monitoring customer/community release bug reports after releases.**
+ - This allows us to learn from issues so that they don’t happen again and to fix critical bugs asap.
+ - Retrospectives for issues and dot releases are important. Sample retrospective doc used for releases. Could also use Incident Collaboration for this.
+ - Monitor community and customer reports in Github, Forum, Zendesk, and channels like Ask R&D, in partnership with the Support team.
+
+6. **Release new products tightly integrated with the Mattermost suite.**
+ - E.g. Focalboard will ship as a plugin in June; Incident Collaboration is a plugin. Plugins are the strategy for now, maybe there will be another strategy for the long-term.
+
+## Overview of Release Channels
+
+ - Incident Collaboration Playbooks are used for Cloud, Mobile, Dot releases, Self-managed, and plugin releases, including Incident Collaboration.
+ - Documentation on the release pipeline process with a Miro **XXX**
+
 ## Overview of Release Cycles
 
 Currently Mattermost Cloud releases occur on a 2-week cycle, but the goal is to release more frequently. Cloud and Self-Managed PRs don’t need to be cherry-picked to releases, except for any last minute bug fixes that get merged after the release branch is cut, and any necessary hotfixes.
 
 Schedule for Mattermost Cloud releases:
- - (T-7): 1 week prior to the release day, the ``master`` branch is merged to the Cloud branch.
+ - (T-7): 7 working days prior to the release day, the ``master`` branch is merged to the Cloud branch.
  - (T-0): Release Day
 
 Schedule for Self-Managed releases:
- - (T-30): Feature Review/Judgment Day/Release branch cut
- - (T-9): RC1 Cut
- - (T-8 to T-7): RC testing and final QA testing
+ - (T-12): Feature Review/Judgment Day/Release branch cut
+ - (T-11): RC1 Cut
+ - (T-10): RC testing and final QA testing
  - (T-5): Code Freeze
  - (T-2): Cut Final
  - (T-0): Release Day
@@ -71,7 +115,7 @@ Release dates are currently communicated in the following ways. Further iteratio
 
 **Understanding the Cadence**
 
- - The Mattermost Cloud releases follow a 2-week cycle and the release day is normally on Wednesdays. Feature Complete deadline for each Mattermost Cloud release is on Mondays 9 days prior to the release day.
+ - The Mattermost Cloud releases follow a 2-week cycle and the release day is normally on Wednesdays. Feature Complete deadline for each Mattermost Cloud release is on Mondays 7 working days prior to the release day.
  - The Mobile App release cadence is monthly on the 16th of every month.
  - Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next Self-Managed release. The release branch for a Self-Managed release (e.g. ``release-5.32``) will be cut once the Mattermost Cloud release that will be used for the next Self-Managed release has been shipped.
  - This cadence is subject to change in the future and any changes will be documented and announced.
