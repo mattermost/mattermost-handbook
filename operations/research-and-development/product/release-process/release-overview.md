@@ -39,43 +39,48 @@ The goal is to deliver value to users quickly by a) shipping fast to get feature
 
 ## Multi-product Release Principles
 
-The goal is not to have the same release cadence for all products, but there may be similar schedules. E.g. Incident Collaboration and Focalboard plugins are pre-packed once a month with the self-managed releases. When products get bigger, we’ll need a dedicated release manager for Focalboard maybe sooner, IC maybe fine for now as is. We can duplicate/reuse a similar build process for new plugins. In the future we can also consider adding a slash command that anyone can trigger to cut RCs. Also, amins have a config option to turn off products (Focalboard and IC).
+The goal is not to have the same release cadence for all products, but there may be similar schedules. E.g. Incident Collaboration and Focalboard plugins are pre-packed once a month with the self-managed releases. When products get bigger, we’ll need a dedicated release manager for Focalboard maybe sooner, Incident Collaboration is fine for now as is. We can duplicate/reuse a similar build process for new plugins. In the future we can also consider adding a slash command that anyone can trigger to cut RCs. Also, amins have a config option to turn off products (Focalboard and Incident Collaboration).
+
+**Release Owners**
+  - Messaging: Amy Blais
+  - Focalboard: Chen and devs; TBD: Amy Blais
+  - Incident Collaboration: Incident Collaboration dev rotation
 
 1. **Focus on High Impact by shipping every new feature and any riskier code changes behind a feature flag.**
- - Enables us to iterate in Cloud to deliver value to Self-Managed users more quickly by shipping changes faster. 
- - E.g. The feature complete deadline for Self-Managed release is roughly 3 weeks prior to release day (Gitlab allows submitting changes until 3 working days (5 days) before Code Complete). Each suite vertical is individually responsible for quality and deciding if a feature should be included in a release or not (with the release team giving guidelines). This may mean shipping more patch releases, but we can manage some of this by using feature flags. This also requires good test automation coverage (see below).
+  - Enables us to iterate in Cloud to deliver value to Self-Managed users more quickly by shipping changes faster. 
+  - E.g. The feature complete deadline for Self-Managed release is roughly 3 weeks prior to release day (Gitlab allows submitting changes until 3 working days (5 days) before Code Complete). Each suite vertical is individually responsible for quality and deciding if a feature should be included in a release or not (with the release team giving guidelines). This may mean shipping more patch releases, but we can manage some of this by using feature flags. This also requires good test automation coverage (see below).
 
 2. **Automate.**
- - This allows us to ship releases more often and push feature complete deadlines to later.
- - Automate release processes and tasks.
- - Automate release tests and have E2E tests for features.
+  - This allows us to ship releases more often and push feature complete deadlines to later.
+  - Automate release processes and tasks.
+  - Automate release tests and have E2E tests for features.
 
 3. **Earn Trust by communicating to external and internal stakeholders clearly.**
- - Enables us to make expectations for releases clear for all stakeholders.
- - Make expectations for each release clear (release dates, etc.). Communicate. Ensure that everyone on the team is familiar with the release processes.
- - Release notes, minimum version requirements, and any important upgrade notes need to be available for customers and communicated via docs, twitter, blog, emails, channels, download page, Github.
+  - Enables us to make expectations for releases clear for all stakeholders.
+  - Make expectations for each release clear (release dates, etc.). Communicate. Ensure that everyone on the team is familiar with the release processes.
+  - Release notes, minimum version requirements, and any important upgrade notes need to be available for customers and communicated via docs, twitter, blog, emails, channels, download page, Github.
 
 4. **Earn Trust by including all stakeholders (Tech Writers, Marketing, QA, etc.) early in the release process.**
- - Enables us to avoid missing key tasks and to avoid last minute work.
- - E.g. When opening a PR, add a “Docs/Needed” label for any PRs that need docs and communicate to Tech Writers. Don’t wait until merging the PR/feature. This ensures that we have time to complete docs on time when our releases become faster.
- - Make tracking bugs and testing requirements easy. E.g:
- - Resolve Jira tickets for QA when PRs are merged (and cherry-picked).
- - Add QA test steps to Jira tickets and/or PRs.
- - Add Fix Versions and Milestones in Jira/PRs for bugs/tickets for easy tracking.
- - Add clear Release Notes on PRs.
+  - Enables us to avoid missing key tasks and to avoid last minute work.
+  - E.g. When opening a PR, add a “Docs/Needed” label for any PRs that need docs and communicate to Tech Writers. Don’t wait until merging the PR/feature. This ensures that we have time to complete docs on time when our releases become faster.
+  - Make tracking bugs and testing requirements easy. E.g:
+  - Resolve Jira tickets for QA when PRs are merged (and cherry-picked).
+  - Add QA test steps to Jira tickets and/or PRs.
+  - Add Fix Versions and Milestones in Jira/PRs for bugs/tickets for easy tracking.
+  - Add clear Release Notes on PRs.
 
 5. **Achieve Customer Obsession by doing retrospectives on release issues and monitoring customer/community release bug reports after releases.**
- - This allows us to learn from issues so that they don’t happen again and to fix critical bugs asap.
- - Retrospectives for issues and dot releases are important. Sample retrospective doc used for releases. Could also use Incident Collaboration for this.
- - Monitor community and customer reports in Github, Forum, Zendesk, and channels like Ask R&D, in partnership with the Support team.
+  - This allows us to learn from issues so that they don’t happen again and to fix critical bugs asap.
+  - Retrospectives for issues and dot releases are important. Sample retrospective doc used for releases. Could also use Incident Collaboration for this.
+  - Monitor community and customer reports in Github, Forum, Zendesk, and channels like Ask R&D, in partnership with the Support team.
 
 6. **Release new products tightly integrated with the Mattermost suite.**
- - E.g. Focalboard will ship as a plugin in June; Incident Collaboration is a plugin. Plugins are the strategy for now, maybe there will be another strategy for the long-term.
+  - E.g. Focalboard will ship as a plugin in June; Incident Collaboration is a plugin. Plugins are the strategy for now, maybe there will be another strategy for the long-term.
 
 ## Overview of Release Channels
 
- - Incident Collaboration Playbooks are used for Cloud, Mobile, Dot releases, Self-managed, and plugin releases, including Incident Collaboration.
- - Documentation on the release pipeline process with a Miro **XXX**
+  - Incident Collaboration Playbooks are used for Cloud, Mobile, Dot releases, Self-managed, and plugin releases, including Incident Collaboration.
+  - Documentation on the release pipeline process with a Miro **XXX**
 
 ## Overview of Release Cycles
 
@@ -112,6 +117,10 @@ Release dates are currently communicated in the following ways. Further iteratio
   - Lists key release dates and deadlines.
 3. PM and R&D meetings 
   - Updates are provided on upcoming key dates and/or features.
+4. Productboard
+  - [Productboard](https://mattermost.productboard.com/roadmap/2855466-features-by-release) - One calendar overview of what releases + features are coming up.
+5. Spreadhseet
+  - [Overview of release deadlines and cherry-picking guidelines](https://docs.google.com/spreadsheets/d/1jGEnuaZxosmC-JSUXFeZOR7I34ORFtNjPVw8hvzCIC4/edit#gid=0).
 
 **Understanding the Cadence**
 
@@ -184,7 +193,7 @@ When triaging a bug report, consider the following:
 
 **Q: How are PRs merged for release?**
 
-  - A: PRs are first merged to master. The dev who submitted the fix is also responsible for cherry-picking it to the release branch after a release branch has been cut.
+  - A: PRs are first merged to master. As needed, the dev who submitted the fix is also responsible for cherry-picking it to the release branch after a release branch has been cut.
 
 **Q: How is cherry-picking done?**
 
@@ -200,15 +209,15 @@ When triaging a bug report, consider the following:
 
 **Q: What is community-daily.mattermost kept on?**
 
-  - A: Normally on `master` branch.
+  - A: Normally on ``master`` branch and it updates once a day.
 
 **Q: How to remove a feature/bug from a release?**
 
-  - A: Revert from release branch. Optionally revert from master.
+  - A: The feature flag is turned off. Another option is reverting the feature from the master and release branches.
 
 **Q: How are NOTICE.txt PRs submitted?**
 
-  - A: PRs are first merged to master. The dev who submitted the fix is then responsible for cherry-picking it to the release branch.
+  - A: PRs are first merged to master. The dev reviewer is responsible for helping cherry-picking it to the release branch.
 
 **Q: Is an improvement a feature or a bug?**
 
@@ -220,7 +229,7 @@ When triaging a bug report, consider the following:
 
 **Q: How does translations branching work?**
 
-  - A: Lock the translation server to the release branch. The translation PR will be submitted against the release branch and it can just be merged directly to the release branch without cherry-picking. When the translation server is locked back to master, the next PR against master will include those translations that went in for the release branch.
+  - A: The translation PR will be submitted against the master branch and will be cherry-picked to the release branch as needed.
 
 **Q: How does cutting mobile builds work?**
 
@@ -228,11 +237,11 @@ When triaging a bug report, consider the following:
 
 **Q: What is the process for community PRs?**
 
-  - A: Review, merge, and cherry-pick.
+  - A: Review, merge, and cherry-pick as needed.
 
 **Q: Will RC testing remain, or will RC testing process change?**
 
-  - There will be some manual RC testing until all release tests are automated.
+  - There is still manual RC testing for Mobile App releases until all release tests are automated.
 
 **Q: Do Mobile and Desktop App releases follow the "cloud first" strategy?**
 
@@ -248,4 +257,4 @@ When triaging a bug report, consider the following:
 
 **Q: How will versioning work?**
 
-  - Version numbers will be less meaningful for Mattermost Cloud. Proposing the name of this to be capabilities following the naming used by OpenGL. With Mattermost Cloud, it's not whether or not a feature is enabled, but whether or not the server is capable of supporting the feature.
+  - Currently the GitHub are tagged as a date, e.g. ``cloud-2021-06-02-1``. With Mattermost Cloud, it's not whether or not a feature is enabled, but whether or not the server is capable of supporting the feature.
