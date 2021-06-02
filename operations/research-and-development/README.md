@@ -116,6 +116,7 @@ R&D includes engineering, QA, product management, and design \(UX, UI\).
 * Pablo Vélez Vidal - Engineer
 * Nick Misasi - Engineer
 * Steve Mudie - QA
+* Najla Dadmand - Product Manager
 * Anneliese Klein - UX Designer
 * Justine Geffen - Technical Writer
 
@@ -173,4 +174,5 @@ R&D includes engineering, QA, product management, and design \(UX, UI\).
 * Rohitesh Gupta - Product Security Engineer
 * Corey Robinson - Security Engineer, Infrastructure & Operations
 * Kennedy Torkura - Cloud Security Engineer
+* Paul Harrison - Infrastructure Security Engineer
 * Katie Wiersgalla - Product Manager
