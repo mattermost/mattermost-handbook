@@ -33,7 +33,7 @@ These are quick links to sites you may find useful.
 ### Where to find us
 
 * Technical writers: [DWG: Documentation working group](https://community.mattermost.com/private-core/channels/dwg-documentation-working-group)
-* Product Managers:
+* Product Managers: [Product Management](https://community.mattermost.com/private-core/channels/product-management)
 * UX team: [UX Design](https://community-release.mattermost.com/private-core/channels/ux-design-private)
 
 **Tip:** We generally use channel naming conventions to make it easier to find channels. Team channels are prefixed with "team", feature channels prefixed with "feature" and so on. For example, if you're looking for a team channel, open the channel browser and search for "team".
