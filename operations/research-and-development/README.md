@@ -14,11 +14,11 @@ R&D includes engineering, QA, product management, documentation, and design \(UX
 
 We use a variety of tools at Mattermost. Not every team uses the same tools, and it can get overwhelming to try remember who uses what and where it is.
 
-You can find the list of tools used across each team on [this Airtable sheet](https://airtable.com/shr54GQg6KqZJ0Hkt/tblI4gu3oPUiZazs8).
+During onboarding you'll be provided with a list of tools to set up. You can also visit the [Helpdesk](https://helpdesk.mattermost.com/support/catalog/items) to find the tool and request access.
 
 ### Where to find information
 
-These are quick links to sites you may find useful.
+We use a range of web properties and tools to document and share plans, specs, roadmaps, and release schedules.
 
 * Product roadmaps, feature releases, planned features: [Features by release productboard](https://mattermost.productboard.com/roadmap/2855466-features-by-release), [Release roadmap by vertical](https://mattermost.productboard.com/roadmap/2941622-release-roadmap-by-product-vertical).
 * Product specs: [Teams](https://mattermost.atlassian.net/wiki/spaces?label=teams), [Software project](https://mattermost.atlassian.net/wiki/spaces?label=software-project)
