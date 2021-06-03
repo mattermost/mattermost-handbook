@@ -40,6 +40,8 @@ These are quick links to sites you may find useful.
 
 ## Who we are
 
+We have three verticals: Messaging, Incident Collaboration, and Focalboard. The teams are arranged around these verticals.
+
 ### Leadership
 
 * Corey Hulen - CTO, Head of Product
