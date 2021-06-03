@@ -14,6 +14,7 @@ On the first day of each month, the Focalboard team's Product Manager and Dev Le
 
 ## Notes
 
+ - Critical bugs are flagged and fixed before releasing, with quick dot releases completed as needed.
  - Incident Collaboration Playbook is used to run releases.
  - Documentation on publishing a release: https://docs.google.com/document/d/11uLGhYYNnsulL1oUAlfFyNcT3wgAiDJmCSvnNkuAbpA/edit#heading=h.6kw7puo0cpnm 
  - Documentation on publicity process: https://docs.google.com/document/d/1C1ke76Y-KV9k0buJsv57kqq5HFdR2BwnpkmVHmBCxuA/edit# 
