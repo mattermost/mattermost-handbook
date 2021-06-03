@@ -39,12 +39,12 @@ The goal is to deliver value to users quickly by a) shipping fast to get feature
 
 ## Multi-product Release Principles
 
-The goal is not to have the same release cadence for all products, but there may be similar schedules. E.g. Incident Collaboration and Focalboard plugins are pre-packed once a month with the self-managed releases. When products get bigger, we’ll need a dedicated release manager for Focalboard maybe sooner, Incident Collaboration is fine for now as is. We can duplicate/reuse a similar build process for new plugins. In the future we can also consider adding a slash command that anyone can trigger to cut RCs. Also, amins have a config option to turn off products (Focalboard and Incident Collaboration).
+The goal is not to have the same release cadence for all products, but there may be similar schedules. E.g. Incident Collaboration and Focalboard plugins are pre-packed once a month with the self-managed releases, however, amins have a config option to turn off products. As the product suite gets bigger, we’ll need a dedicated Release Manager for each product. We can duplicate/reuse a similar build process for new plugins in the suite.
 
 **Release Owners**
   - Messaging: Amy Blais
-  - Focalboard: Chen and devs; TBD: Amy Blais
-  - Incident Collaboration: Incident Collaboration dev rotation
+  - Focalboard: Chen and Focalboard devs; TBD: Amy Blais
+  - Incident Collaboration: Incident Collaboration dev rotation; TBD: Amy Blais
 
 1. **Focus on High Impact by shipping every new feature and any riskier code changes behind a feature flag.**
   - Enables us to iterate in Cloud to deliver value to Self-Managed users more quickly by shipping changes faster. 
