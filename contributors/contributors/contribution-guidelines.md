@@ -82,6 +82,8 @@ comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
+While the Community leaders are responsibile for handling violations, we ask that you do your best to immediately disengage and report infractions quickly to ensure situations do not escalate. 
+
 ## Enforcement Guidelines
 
 Community leaders will follow these Community Impact Guidelines in determining
