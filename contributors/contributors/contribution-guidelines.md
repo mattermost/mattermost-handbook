@@ -68,7 +68,10 @@ All complaints will be reviewed and investigated promptly and fairly.
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
-**All reports will remain anonymous**. The exception is direct message violations: while we cannot provide reporter anonymity in those situations, they will be handled with extra care so as to not escalate the situation. A draft of the violation message will be sent to the reporter for final review before it is sent.
+**All reports will remain anonymous**. The exception is direct message violations: while we 
+cannot provide reporter anonymity in those situations, they will be handled with extra care 
+so as to not escalate the situation. A draft of the violation message will be sent to the reporter 
+for final review before it is sent.
 
 ## Enforcement Responsibilities
 
@@ -82,7 +85,9 @@ comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
-While the Community leaders are responsibile for handling violations, we ask that you do your best to immediately disengage and report infractions quickly to ensure situations do not escalate. 
+While the Community leaders are responsibile for handling violations, we ask that 
+you do your best to immediately disengage and report infractions quickly to ensure 
+situations do not escalate. 
 
 ## Enforcement Guidelines
 
