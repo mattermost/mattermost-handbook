@@ -148,11 +148,10 @@ Release Manager is able to look at the version we have deployed to Mattermost Cl
 
 Releases are now focused on "shipping features and improvements when they're ready for Mattermost Cloud, and then they'll get to a Self-Managed release once they've been available on Mattermost Cloud for 2+ weeks".
 
- - A new Cloud branch (based off of ``master``) is used, and any regression bug fixes for the next Cloud release will be cherry-picked there.
- - This applies to webapp/server/Redux/Enterprise repos.
+ - If the PR is scheduled for a specific Mattermost Cloud or Self-Managed release, please add the ``Cherry-pick Approved`` label and Self-Managed milestone on the PR. Cloud doesn't have a specific milestone in GitHub and the PRs can be tracked via the ``Cherry-pick Approved`` label. The Release Manager keeps track of PRs with the ``Cherry-pick Approved`` label and Self-Managed milestone on a daily basis.
+ - A new Cloud branch (based off of ``master``) is used, and any regression bug fixes for the next Cloud release will be cherry-picked there. This applies to webapp/server/Enterprise repos.
  - A fix version such as “Cloud (November 24)” is added in Jira to track regression bug fixes for Mattermost Cloud releases.
  - The Self-Managed releases are based off of Mattermost Cloud releases.
- - Submitted feature or bug fix PRs don’t need a release milestone added to them unless the PR is scheduled for a specific Mattermost Cloud or Self-Managed release. The Release Manager will track merged PRs and help ensure that correct milestones are added as needed. Any concerns can be brought up for discussion on a case-by-case basis.
 
 ## Triaging Mattermost Cloud Customer Issues
 
