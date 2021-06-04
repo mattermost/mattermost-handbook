@@ -23,11 +23,10 @@ Pre-work for the current release begins at the code complete date of the previou
 
 Day when Leads and PMs decide which major features are included in the release, and which are postponed. **Stabilization** period begins when all features for release have been committed. During this period, only **bugs** can be committed to the release branch. Non-bug pull requests are tagged for the next version. Exceptions can be made by the Release Manager during triage. Review the [Release Features & Bugs Quality Gate Guidelines](https://docs.google.com/document/d/1QxB_A1qkEJBKAvQpRa7JiSQLZhwg6HAEajNRNa7ldGg/edit)
 
-1. **(Team) Judgment Day Meeting (10:00am San Francisco time):**
-    - Begin daily triage of tickets with the team
-        - Also triage tickets in the backlog
-2. Release Manager:
+1. Release Manager:
     - Post this checklist in [Release Checklist](https://community.mattermost.com/core/channels/release-checklist) channel
+    - Begin daily triage of tickets with the team
+      - Also triage tickets in the backlog
     - Prior to the cut to Self-Managed, the Release manager reviews new feature flags and provides a report to the PM/QA team for their review. Essentially a feature will be included in a Self-Managed release once the feature flag has been removed.
     - Confirm with PMs that each Enterprise feature is in the correct [pricing SKU](https://about.mattermost.com/pricing/)
     - Review any features that are currently in beta and confirm with PMs if there are any to be promoted
@@ -49,7 +48,7 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Prepare bullet points for release announcement and share for PMs to work on. [Refer to the process here](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements)
     - Ask PMs and Tech Writer to complete release documentation by T-9 deadline. [Example request](https://community.mattermost.com/core/pl/w4oobh4zpigsfbqskx5ix5jgxo)
     - Schedule a meeting with PMs and QAs to discuss upcoming features in the next feature release
-3. Dev:
+2. Dev:
     - Cut release branches for server and mobile
         - Merge database upgrade before cutting the branch
         - Update [model/version.go](https://github.com/mattermost/mattermost-server/blob/master/model/version.go#L16)
@@ -57,7 +56,7 @@ Day when Leads and PMs decide which major features are included in the release, 
         - Update https://prev.test.mattermost.com to the previous release version
    - Prioritize reviewing, updating, and merging of pull requests for current release until there are no more tickets in the [pull request queue](https://github.com/mattermost/mattermost-server/pulls) marked for the current release
       - After the cut-off, any PRs that include significant code changes require approval of the Release Manager before merging
-4. QA:
+3. QA:
     - Prioritize testing PRs and resolved tickets for this release
     - Ensure that new features are also properly tested on mobile apps
     - Prioritize updating release tests in test management and automated tests
@@ -66,9 +65,7 @@ Day when Leads and PMs decide which major features are included in the release, 
 
 ### C. (T-minus 9 working days) RC1 Cut and RC Testing Begins
 
-1. **(Team) Daily Release Update Meeting**
-    - Triage Jira tickets
-2. Release Manager:
+1. Release Manager:
     - Post this checklist in Release Checklist channel
     - Verify all items in the last posted release checklist are complete
     - Post in the [Release: Self-Managed](https://community.mattermost.com/core/channels/release-discussion) channel the rough timing when the release candidate will be cut
@@ -86,12 +83,12 @@ Day when Leads and PMs decide which major features are included in the release, 
       - Confirm Open Source Components changes have been added
     - Find [www-gitlab-com merge request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=blog%20post&label_name%5B%5D=release) for latest GitLab release blog post and make request for adding GitLab Mattermost update (see [example request](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests/2910#note_14096885), [example update](https://about.gitlab.com/2016/07/22/gitlab-8-10-released/#gitlab-mattermost-32)). Post to ``Release: Self-Managed`` channel with link to request
     - Confirm the required URLs for the blog/release announcement were prepared
-3. Logistics @hanna.park:
+2. Logistics @hanna.park:
     - Mail out contributor and security researcher mugs
       - Space out the ordering of mugs over the next three weeks to prevent mistakes being made by the supplier (e.g., If there are 12 contributors to order mugs for, place an order every 2nd or 3rd day over the next three weeks)
     - Update [Team](http://www.mattermost.org/team/) page with new contributors
     - Generate an E20 5000 seat test licence and email to Lindy for release testing
-4. QA:
+3. QA:
     - Confirm up to date with testing PRs and resolved tickets
     - Confirm up to date with test updates and known issues in release test management and automated tests
     - Assign release testing areas to team members
@@ -101,7 +98,7 @@ Day when Leads and PMs decide which major features are included in the release, 
        - Find QA or other teammates to help finish unfinished tests if needed
        - Verify all release tests are finished, bring any concerns to Triage/Release meeting
        - Go through test cycles and verify all issues and comments have been filed or updated in Jira as needed
-5. Build:
+4. Build:
     - Review all `TODO` notes, including one for uncommenting upgrade code
     - Confirm all PRs in [`/enterprise`](https://github.com/mattermost/enterprise/pulls) repo have been merged
     - Master is tagged and branched and `Release Candidate 1` is cut (e.g. 3.5.0-RC1) according to the Release Candidate Checklist in `mattermost/process`
@@ -109,26 +106,23 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Make PRs for bug fixes to the release branch
     - Review PRs made from release branch and merge changes into the release branch as required
     - Run daily automated upgrade tests to avoid catching upgrade bugs late
-6. PM:
+5. PM:
     - Finish draft of blog post for mattermost.com and all art work (screenshots, GIFs, and Twitter banners) used for the blog post
        - Add links to [Admin guide](https://docs.mattermost.com/guides/administrator.html) in the release blog post where needed
 
 ### D. (T-minus 5 working days) Code Freeze
 Day after which only **S1 regressions** should be fixed (crashes, security vulnerabilities) and no other code changes should be committed. Exceptions can be made by the Release Manager during triage on a case-by-case basis. Review the [Bug Severity Guidelines](https://docs.mattermost.com/process/bug-severity-guidelines.html).
 
-1. **(Team) Daily Release Update Meeting**
-    - Continue to triage Jira tickets
-    - If no blocking issues are found, PM, Dev, and QA sign off on the release and begin final smoke tests
-2. Release Manager:
+1. Release Manager:
     - Post this checklist in Release Checklist channel
     - Verify all items in the last posted release checklist are complete
     - Verify that the final translations PR for the release is submitted
     - Update **Known Issues** section with any significant issues that were found and not fixed for the final release
-3. QA:
+2. QA:
     - Verify all Jira tickets other than newly-filed bugs have been tested, verified, and closed
     - As bug fixes are merged and RCs are cut, verify fixes on new RCs, and post in Release Channel after testing
     - After all tickets are verified and closed, run smoke tests on webapp/server, desktop app, and RN apps as appropriate 
-5. Docs:
+3. Docs:
     - Submit Changelog PR for team review
     - Submit any remaining documentation PRs for product updates in the release
     - Check that a redirect page has been set up in mattermost.com for any links added to the System Console
