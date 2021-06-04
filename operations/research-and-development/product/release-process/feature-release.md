@@ -58,11 +58,9 @@ Day when Leads and PMs decide which major features are included in the release, 
    - Prioritize reviewing, updating, and merging of pull requests for current release until there are no more tickets in the [pull request queue](https://github.com/mattermost/mattermost-server/pulls) marked for the current release
       - After the cut-off, any PRs that include significant code changes require approval of the Release Manager before merging
 4. QA:
-    - Prioritize testing PRs and resolved tickets for this release
+    - Prioritize testing PRs and verifying resolved tickets for this release
     - Ensure that new features are also properly tested on mobile apps
-    - Prioritize updating release tests in test management and automated tests
-    - Identify any new teammates who will be joining release testing, send them an intro to the testing process and timeframe, send them the [hardware/software survey](https://drive.google.com/open?id=1IUiNO2S5fgWVn-Y_cyouxheukqKyGQC0_2UX64Ejwk8)
-    - Set up DM/GM channels in preparation for testing auto-closing after 7 days
+    - Prioritize updating test cases as needed in test management and automated tests
 
 ### C. (T-minus 9 working days) RC1 Cut and RC Testing Begins
 
@@ -92,15 +90,10 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Update [Team](http://www.mattermost.org/team/) page with new contributors
     - Generate an E20 5000 seat test licence and email to Lindy for release testing
 4. QA:
-    - Confirm up to date with testing PRs and resolved tickets
-    - Confirm up to date with test updates and known issues in release test management and automated tests
-    - Assign release testing areas to team members
-    - After RC1 is cut: Update test server invite links in Release Testing instructions
+    - Confirm up to date with test case updates and known issues in test management and automated tests
     - After RC1 is cut: Run automated regression tests
-    - Post reminder in Release Announcements channel for any unfinished RC testing, at-mentioning tester(s)
-       - Find QA or other teammates to help finish unfinished tests if needed
-       - Verify all release tests are finished, bring any concerns to Triage/Release meeting
-       - Go through test cycles and verify all issues and comments have been filed or updated in Jira as needed
+    - Create QA manual test cycles as needed and begin manual testing
+    - Bring concerns or issues found in testing to the Release Manager in-channel
 5. Build:
     - Review all `TODO` notes, including one for uncommenting upgrade code
     - Confirm all PRs in [`/enterprise`](https://github.com/mattermost/enterprise/pulls) repo have been merged
@@ -126,8 +119,9 @@ Day after which only **S1 regressions** should be fixed (crashes, security vulne
     - Update **Known Issues** section with any significant issues that were found and not fixed for the final release
 3. QA:
     - Verify all Jira tickets other than newly-filed bugs have been tested, verified, and closed
-    - As bug fixes are merged and RCs are cut, verify fixes on new RCs, and post in Release Channel after testing
-    - After all tickets are verified and closed, run smoke tests on webapp/server, desktop app, and RN apps as appropriate 
+    - As bug fixes are merged, verify fixes on new RCs and post in release channel after testing
+    - Post in the appropriate release channel(s) when release testing is complete, confirm list of any new items that remain to be tested
+    - Go through test cycles and verify all issues and comments have been filed or updated in Jira as needed
 5. Docs:
     - Submit Changelog PR for team review
     - Submit any remaining documentation PRs for product updates in the release
@@ -158,9 +152,7 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
       - Add a placeholder text saying "Details on the security update will be posted here on X date, as per our Responsible Disclosure Policy"
 2. QA:
     - Verify all PRs and tickets for the release have been tested/closed
-    - Verify Selenium server was put on final RC and build passed
-    - Verify smoke tests on webapp/server, desktop app, and RN apps all passed
-    - Post QA approval in ``Release: Self-Managed`` channel
+    - Post QA approval in ``Release: Self-Managed`` channel and playbook channel for that release
 3. Build:
     - Tags a new release (e.g. 1.1.0) and runs an official build which should be essentially identical to the last RC
     - Posts SHA key, md5 sum, and GPG signatures of the final build to ``Release: Self-Managed`` channel
