@@ -23,7 +23,7 @@ On the first Monday of each month, or the next business day, the Incident Collab
 
  - Track and triage bugs via Jira
  - Add PR milestones for QA tracking
- - Update changelog with changes, upgrade notes, contributors, and known issues
+ - Auto-generated release notes with changes, upgrade notes, contributors, and known issues
  - Update NOTICE.txt
  - Update dependencies
  - List software requirements (e.g. OS, browser) and minimum server version requirements
