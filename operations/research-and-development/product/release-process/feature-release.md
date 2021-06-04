@@ -93,7 +93,7 @@ Day when Leads and PMs decide which major features are included in the release, 
     - Confirm up to date with test case updates and known issues in test management and automated tests
     - After RC1 is cut: Run automated regression tests
     - Create QA manual test cycles as needed and begin manual testing
-    - Bring concerns or issues found in testing to the Release Manager in-channel
+    - Bring concerns or issues found during testing to the Release Manager in-channel
 5. Build:
     - Review all `TODO` notes, including one for uncommenting upgrade code
     - Confirm all PRs in [`/enterprise`](https://github.com/mattermost/enterprise/pulls) repo have been merged
