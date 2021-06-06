@@ -10,3 +10,4 @@ This section contains:
 - [Technical Writing Team Handbook](operations/research-and-development/product/product-technical-writing-team-handbook.md)
 - [Analytics](operations/research-and-development/product/analytics/README.md) 
 - [Developer Relations](operations/messaging-and-math/developer-relations.md)
+- [Product Team Hangouts](operations/research-and-development/product/product-team-hangouts.md)
