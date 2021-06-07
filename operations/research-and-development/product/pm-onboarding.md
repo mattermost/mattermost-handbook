@@ -60,7 +60,7 @@ Customer Obsession:
   * [Product Management](https://community.mattermost.com/private-core/channels/product-management)
   * [GTM:PM Engagement](https://community.mattermost.com/private-core/channels/csmpm-engagement) \(Stu Doherty, Jenn Lawler\)
   * [Sales Discussion](https://community.mattermost.com/private-core/channels/sales-discussion) \(Lance Howden, Steve Green, Richard Pidgeon)
-* Join and review the topics and posts in these channels to get a better understanding of our customers
+* Join and review the topics and posts in these channels to get a better understanding of our customers:
   * [Customer Feedback](https://community.mattermost.com/private-core/channels/customer-feedback)
   * [Customer Support](https://community.mattermost.com/private-core/channels/community)
 * Begin watching training videos on [academy.mattermost.com ](https://academy.mattermost.com/)
