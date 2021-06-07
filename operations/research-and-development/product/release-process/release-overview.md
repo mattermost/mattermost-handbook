@@ -35,20 +35,20 @@ Mattermost numbers stable releases in the following format:
 
 ## Objectives
 
-The goal is to deliver value to users quickly by a) shipping fast to get features to customers quickly for experimentation / feedback, and b) iteratively behind feature flags as a protection if any issues arise. This document outlines the principles and guidelines for how we release a new update of each product line weekly to Cloud and monthly to Self-Managed.
+The goal is to deliver value to users quickly by a) shipping fast to get features to customers quickly for experimentation / feedback, and b) iteratively behind feature flags as a protection if any issues arise. This document outlines the principles and guidelines for how we release a new update of each product line weekly to Cloud and monthly to self-managed.
 
 ## Multi-product Release Principles
 
-The goal is not to have the same release cadence for all products, but there may be similar schedules. E.g. Incident Collaboration and Focalboard plugins are pre-packed once a month with the self-managed releases, however, admins have a config option to turn off products. As the product suite gets bigger, we’ll need a dedicated Release Manager for each product. We can duplicate/reuse a similar build process for new plugins in the suite.
+The goal is not to have the same release cadence for all products, but there may be similar schedules. E.g. Incident Collaboration and Focalboard plugins are pre-packed once a month with the Self-sanaged releases, however, admins will have a config option to turn off products. As the product suite gets bigger, we’ll need a dedicated Release Manager for each product. We can duplicate/reuse a similar build process for new plugins in the suite.
 
 **Release Owners**
   - Messaging: Amy Blais
-  - Focalboard: Chen and Focalboard devs; TBD: Amy Blais
+  - Focalboard: Focalboard PM and devs; TBD: Amy Blais
   - Incident Collaboration: Incident Collaboration dev rotation; TBD: Amy Blais
 
 1. **Focus on High Impact by shipping every new feature and any riskier code changes behind a feature flag.**
   - Enables us to iterate in Cloud to deliver value to Self-Managed users more quickly by shipping changes faster. 
-  - E.g. The feature complete deadline for Self-Managed release is roughly 3 weeks prior to release day (Gitlab allows submitting changes until 3 working days (5 days) before Code Complete). Each suite vertical is individually responsible for quality and deciding if a feature should be included in a release or not (with the release team giving guidelines). This may mean shipping more patch releases, but we can manage some of this by using feature flags. This also requires good test automation coverage (see below).
+  - Currently the feature complete deadline for Self-Managed release is roughly 3 weeks prior to release day, but in the future we can consider pushing it to later. Each suite vertical is individually responsible for quality and deciding if a feature should be included in a release or not (with the release team giving guidelines). This may mean shipping more patch releases, but we can manage some of this by using feature flags. This also requires good test automation coverage.
 
 2. **Automate.**
   - This allows us to ship releases more often and push feature complete deadlines to later.
@@ -58,7 +58,7 @@ The goal is not to have the same release cadence for all products, but there may
 3. **Earn Trust by communicating to external and internal stakeholders clearly.**
   - Enables us to make expectations for releases clear for all stakeholders.
   - Make expectations for each release clear (release dates, etc.). Communicate. Ensure that everyone on the team is familiar with the release processes.
-  - Release notes, minimum version requirements, and any important upgrade notes need to be available for customers and communicated via docs, twitter, blog, emails, channels, download page, Github.
+  - Release notes, minimum version requirements, and any important upgrade notes need to be available for customers and communicated via docs, twitter, blog, emails, channels, download page, GitHub.
 
 4. **Earn Trust by including all stakeholders (Tech Writers, Marketing, QA, etc.) early in the release process.**
   - Enables us to avoid missing key tasks and to avoid last minute work.
@@ -76,11 +76,6 @@ The goal is not to have the same release cadence for all products, but there may
 
 6. **Release new products tightly integrated with the Mattermost suite.**
   - E.g. Focalboard will ship as a plugin in June; Incident Collaboration is a plugin. Plugins are the strategy for now, maybe there will be another strategy for the long-term.
-
-## Overview of Release Channels
-
-  - Incident Collaboration Playbooks are used for Cloud, Mobile, Dot releases, Self-managed, and plugin releases, including Incident Collaboration.
-  - Documentation on the release pipeline process with a Miro **XXX**
 
 ## Overview of Release Cycles
 
@@ -185,6 +180,12 @@ When triaging a bug report, consider the following:
 **Q: What is the release cycle for the Mattermost Desktop app?**
 
   - A: Desktop releases are currently released as required.
+
+**Q: Do we use Incident Collaboration playbooks for releases?**
+  - A: Yes, Incident Collaboration playbooks are used for Cloud, Mobile, Dot releases, Self-managed, and plugin releases, including Incident Collaboration itself.
+
+**Q: How does the release build pipeline process work for self-managed releases?**
+  - A: Documentation on the release pipeline process via Miro is available here: **XXX**
 
 **Q: When is release branch cut for a Self-Managed release?**
 
