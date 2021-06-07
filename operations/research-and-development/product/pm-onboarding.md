@@ -59,7 +59,7 @@ Customer Obsession:
 * Join and introduce yourself in these channels, ask to join any and all customer calls - see if you can get a couple scheduled this week:
   * [Product Management](https://community.mattermost.com/private-core/channels/product-management)
   * [GTM:PM Engagement](https://community.mattermost.com/private-core/channels/csmpm-engagement) \(Stu Doherty, Jenn Lawler\)
-  * [Sales Discussion](https://community.mattermost.com/private-core/channels/sales-discussion) \(Lance, Steve, Richard Pidgeon)
+  * [Sales Discussion](https://community.mattermost.com/private-core/channels/sales-discussion) \(Lance Howden, Steve Green, Richard Pidgeon)
 * Join and review the topics and posts in these channels to get a better understanding of our customers
   * [Customer Feedback](https://community.mattermost.com/private-core/channels/customer-feedback)
   * [Customer Support](https://community.mattermost.com/private-core/channels/community)
