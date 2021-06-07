@@ -106,6 +106,7 @@ Readings:
   * People and Processes
 
 ### Activities:
+
 Learn about our customers and users
 * Support
   * Customers: Zendesk \(Sven, Support Lead)\)
