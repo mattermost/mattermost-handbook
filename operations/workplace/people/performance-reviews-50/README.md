@@ -62,13 +62,16 @@ Team members joining in April will not need to do the [90 day New Colleague revi
 Team members joining in August will not need to do the [90 day New Colleague review](https://handbook.mattermost.com/contributors/onboarding#new-colleague-90-day-feedback-process) and will instead take part in  review cycle. Team members joining September - December will follow the typical [90 day New Colleague review process](https://handbook.mattermost.com/contributors/onboarding#new-colleague-90-day-feedback-process) and are not required to complete the End of Year Review.
 
 ### Rating Scale
-Behaviourally-anchored performance ratings help us to establish a shared and agreed upon language that describes well-defined performance expectations, desired behaviours, and outcomes. Rating scales can also check biases and enhance distributive and procedural fairness during performance calibrations. Mattermost previously used a 3-point rating scale. Based on feedback from participants in prior review cycles, this is being expanded for the 2021 Mid-Year Reviews to a 5-point rating scale, increasing granularity around "exceeds expectations" and "meets expectations". 
 
-1. Consistently exceeds expectations: Consistently exceeds expectations and delivers beyond the goals of the role. Influences others to perform better. Manager and direct should discuss more challenging work.
-2. Often exceeds expectations: Regularly exceeds expectations and requires little to no direction to achieve the core goals of the role. 
-3. Consistently meets expectations: Consistently meets expectations and sometimes exceeds expectations. Achieves a majority of the core goals of the role.
-4. Meets expectations: Performs well and usually meets the expectations of the role. Generally has a positive impact on people and team performance.
-5. Needs development: Does not consistently meet expectations that are appropriate for the role or level. Additional direction and support are needed.
+Behaviorally-anchored performance ratings help us to establish a shared and agreed-upon language that describes well-defined performance expectations, desired behaviours, and outcomes. Rating scales can also check biases and enhance distributive and procedural fairness during performance calibrations.
+
+Mattermost previously used a 3-point rating scale. Based on feedback from participants in prior review cycles, this is being expanded for the 2021 Mid-Year Reviews to a 5-point rating scale, increasing granularity around "exceeds expectations" and "meets expectations".
+
+1. **Consistently exceeds expectations:** Consistently exceeds expectations and delivers beyond the goals of the role. Influences others to perform better. Manager and direct should discuss more challenging work.
+2. **Often exceeds expectations:** Regularly exceeds expectations and requires little to no direction to achieve the core goals of the role.
+3. **Consistently meets expectations:** Consistently meets expectations and sometimes exceeds expectations. Achieves a majority of the core goals of the role.
+4. **Meets expectations:** Performs well and usually meets the expectations of the role. Generally has a positive impact on people and team performance.
+5. **Needs development:** Does not consistently meet expectations that are appropriate for the role or level. Additional direction and support are needed.
 
 ### Questions and Answers
 
@@ -78,5 +81,5 @@ Yes. In the process of reviewing performance against target levels, changes in l
 
 #### Are there any resources available?
 
-- Learn how to use Culture Amp, nominate peer reviewers, give effective peer and upward feedback, and write your self-reflection in Culture Amp's [self-guided course](https://www.cultureamptraining.com/performance-reviews-for-employees). 
-- People Managers should take Culture Amp's [self-guided course](https://www.cultureamptraining.com/performance-for-managers) to learn how to use the platform as a people manager. The course includes tips for writing evaluations, giving clear and actionable feedback, and helping your direct reports write strong goals. 
+- Learn how to use Culture Amp, nominate peer reviewers, give effective peer and upward feedback, and write your self-reflection in Culture Amp's [self-guided course](https://www.cultureamptraining.com/performance-reviews-for-employees).
+- People Managers should take Culture Amp's [self-guided course](https://www.cultureamptraining.com/performance-for-managers) to learn how to use the platform as a people manager. The course includes tips for writing evaluations, giving clear and actionable feedback, and helping your direct reports write strong goals.
