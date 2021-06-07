@@ -122,7 +122,7 @@ If you're interested in contributing to the process, please join the [Mattermost
 | Nederlands - Dutch| [Tom De Moor](https://github.com/ctlaltdieliet)| |
 | Polski - Poland| [Daniel Burzmiński (hectorskypl)](https://github.com/hectorskypl)| [Tomasz Gruca (gruceqq)](https://translate.mattermost.com/user/gruceqq) |
 | Português do Brasil - Portuguese|[Rodrigo Corsi (rodcorsi)](https://github.com/rodcorsi)| [Carlos Tadeu Panato Junior (cpanato)](https://github.com/cpanato) |
-| Română - Romanian| [Viorel-Cosmin Miron (uhlhosting)](https://github.com/uhlhosting)||
+| Română - Romanian| TBD (Open Role) ||
 | Svenska - Swedish| [Martin Johnson](https://github.com/johnsonbrothers)|  | |
 | Türkçe - Turkish| [Kaya Zeren](https://twitter.com/kaya_zeren)| | |
 | Pусский - Russian| [Alexey Napalkov](https://github.com/flynbit) | |
