@@ -35,7 +35,7 @@ A good place to start is exploring the websites, and then see if you can find a 
   * Add to team meetings
   * Set up 1-1 times and create 1-1 doc
 * Look at the product with “fresh eyes”
-  * Install Mattermost on your laptop, go through the motions of setting it up
+  * Install Mattermost on your laptop, go through the steps of setting it up
     * Optionally also install the Mattermost Mobile App on your mobile device
   * As you read the documentation, look out for any improvements that can be made \(outdated information, spelling/grammar, etc\)
 
