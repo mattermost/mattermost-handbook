@@ -28,13 +28,14 @@ We use a range of web properties and tools to document and share plans, specs, r
 * How open source software is developed: [Development & Release Process](https://handbook.mattermost.com/operations/research-and-development/product/release-process/release-overview)
 * How contributors can get involved: [Platform Contribution Process](https://handbook.mattermost.com/contributors/contributors/community-playbook)
 * Analytics playbook and data wallows: [Analytics](https://community.mattermost.com/private-core/channels/analytics-2)
-* Work in progress: [WIP: Feature Idea Flow Chart](https://docs.google.com/drawings/d/1D6KiN31mhNr1A0DGGHOuu6hvS0gpDTFuftnh2yyniNQ/edit)
 
 ### Where to find us
 
 * Technical writers: [DWG: Documentation working group](https://community.mattermost.com/private-core/channels/dwg-documentation-working-group)
 * Product Managers: [Product Management](https://community.mattermost.com/private-core/channels/product-management)
-* UX team: [UX Design](https://community-release.mattermost.com/private-core/channels/ux-design-private)
+* UX team: [UX Design](https://community.mattermost.com/core/channels/ux-design)
+* Analysts: [Analytics](https://community.mattermost.com/private-core/channels/analytics-2)
+* Community: [Community Team](https://community.mattermost.com/private-core/channels/community-team)
 
 **Tip:** We generally use channel naming conventions to make it easier to find channels. Team channels are prefixed with "team", feature channels prefixed with "feature" and so on. For example, if you're looking for a team channel, open the channel browser and search for "team".
 
@@ -140,12 +141,13 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 
 * Maria Nuñez - Engineering Lead
 * Allan Guwatudde - Engineer
-* Mario de Frutos - Engineer
 * Pablo Vélez Vidal - Engineer
 * Nick Misasi - Engineer
 * Steve Mudie - QA
+* Najla Dadmand - Product Manager
 * Anneliese Klein - UX Designer
 * Justine Geffen - Technical Writer
+* Eric Nelson - Analytics
 
 #### Cloud Platform Team
 
@@ -203,3 +205,9 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 * Paul Harrison - Infrastructure Security Engineer
 * Kennedy Torkura - Cloud Security Engineer
 * Katie Wiersgalla - Product Manager
+
+### Community Team
+
+* Jason Blais - Community Lead
+* PJ Hagerty - Developer Advocate
+* Emily Cook - Community Manager
