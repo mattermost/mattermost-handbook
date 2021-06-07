@@ -1,6 +1,6 @@
 # Research & Development
 
-R&D includes engineering, QA, product management, documentation, and design \(UX, UI\).
+R&D includes engineering, QA, product management, documentation, analytics, community, and design \(UX, UI\).
 
 ### R&D Key Info
 
