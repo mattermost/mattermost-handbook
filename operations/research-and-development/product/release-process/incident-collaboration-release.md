@@ -27,9 +27,7 @@ On the first Monday of each month, or the next business day, the Incident Collab
  - Update NOTICE.txt
  - Update dependencies
  - Testing + automated tests
-    - **Load tests? Upgrade tests? XXXX**
  - Marketing - Release announcements, tweets
-    - **In-product notice? Wikipedia? XXXX**
  - Feature documentation
  - Release
     - Github release
