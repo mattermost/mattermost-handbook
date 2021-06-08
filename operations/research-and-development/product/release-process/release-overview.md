@@ -209,7 +209,7 @@ When triaging a bug report, consider the following:
 
 **Q: What is community-daily.mattermost kept on?**
 
-  - A: Normally on ``master`` branch and it updates once a day.
+  - A: Normally on ``master`` branch and it updates hourly.
 
 **Q: How to remove a feature/bug from a release?**
 
