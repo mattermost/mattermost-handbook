@@ -41,7 +41,7 @@ A good place to start is exploring the websites, and then see if you can find a 
 
 ## First week
 
-### Objective: Introduction to customers team members, resources, and make first contribution
+### Objective: Introduction to customers, team members, resources, and make first contribution
 
 ### Training focus:
 
@@ -49,7 +49,6 @@ A good place to start is exploring the websites, and then see if you can find a 
 * Introductions to team members through 1-1s
   * Use introductions as learning opportunities to understand different parts of the company \(ask questions!\)
 * Introduction to product
-* Introduction to our “Fast, Obvious, Forgiving” design principles
 * Introduction to key resources
 * Make your first contribution on GitHub
 
@@ -67,7 +66,7 @@ Customer Obsession:
 * Begin reading [docs.mattermost.com](https://docs.mattermost.com/)
 
 Team:
-* Meet the rest of team leads \(Developers, Designer, QA\) and join team meetings
+* Meet your R&D team \(Developers, Designer, QA\) and join team meetings
   * Ask questions to understand development, design, QA processes
 * Meet with Amy \(Release Manager\) and read the release process doc
 * Meet with Ian (CEO) \[[https://github.com/it33/readme/blob/master/README.md](https://github.com/it33/readme/blob/master/README.md/)\). This will be scheduled for you
@@ -93,7 +92,7 @@ Readings:
 
 ## First 30 days
 
-### Objective: Build foundational knowledge
+### Objective: Build foundational knowledge of our company, product, and market.
 
 ### Training focus:
 
@@ -108,24 +107,26 @@ Readings:
 ### Activities:
 
 Learn about our customers and users
-* Support
-  * Customers: Zendesk \(Sven, Support Lead)\)
-    * Meet with Sven for Zendesk training and support overview
-    * Join support standups for a week or two, and help out on support tickets
-  * Community: GitHub, Forums \(Amy\)
-* Customer Success \(Meet with Jenn\)
+* Learn about Mattermost Support by getting an overview on support processes and systems
+  * Customers: Zendesk \(Sven Huester, Support Lead)\)
+  * Community: GitHub, Forums \(Amy Blais\)
+* Learn about Customer Success \(Jenn Lawler\)
   * Overview of Customer Success team, who owns what
   * Current Customer Success processes
   * Typical challenges during customer onboarding
   * Join one CSM team meeting to meet the rest of the CS team
-* Customer calls
-  * Join calls with CSMs
-  * Join calls with Sales team
-* Feature requests
+* Join customer and prospective customer calls
+  * Join calls with CSMs & Sales team
+  * Take detailed notes and log in [Salesforce](https://handbook.mattermost.com/operations/customer-success#logging-a-customer-feedback-in-salesforce)
+* Review feature requests
   * [Uservoice forums](https://mattermost.uservoice.com/)
   * [Process feedback in productboard](https://mattermost.productboard.com/insights/shared-inbox) 
-* Learn about the market
-* Sales \(Regional VPs and Customer Engineers\)
+* Spend a week doing community support in the Mattermost[forum](https://mattermost.uservoice.com/)
+  * Review documentation first and work with Support Lead or PM mentor to answer any questions documentation does not address
+  * Update docs with answers as appropriate
+ 
+Learn about the market
+* Learn about Mattermost Sales \(Regional VPs and Customer Engineers\)
   * Sales team overview
   * Sales team priorities
   * What competitors are we up against
@@ -133,18 +134,14 @@ Learn about our customers and users
   * What are typical challenges for the Sales team
   * Which sales do we win, which do we lose
   * What are the most common questions on configurations and trials
-* Marketing \(Marketing Team Lead\)
+* Learn about Mattermost Marketing \(Marketing Team Lead\)
   * Marketing team overview
   * What are the Marketing team’s priorities
   * What is our current messaging and positioning around Mattermost
-  * What is needed from Product Managers
-* Mini competitive research projects
-    * Review of MS Teams, Slack, Discord, and other chat products
-* Spend a week doing customer support
-  * Review documentation first and work with Support Lead or PM mentor to answer any questions documentation does not address
-  * Update docs with answers as appropriate
-* Spend a couple weeks joining as many customer and prospect calls as possible
-  * Take detailed notes and log in [Salesforce](https://handbook.mattermost.com/operations/customer-success#logging-a-customer-feedback-in-salesforce)
+  * What is needed from Product Managers to support Marketing initiatives
+* Do some mini competitive research analysis
+    * Review of MS Teams, Slack, Discord, and other collaboration products
+
 
 Learn about the product
 * Product Direction \(Product Lead\)
@@ -206,11 +203,11 @@ Update this onboarding document!
 
 ## First 60 days
 
-### Objective: Build confidence through contribution
+### Objective: Build confidence through contribution in your area ownership
 
 ### Training focus:
 
-* Participate in job duties and begin to acquire ownership of a project
+* Participate in job duties and acquire ownership of a full project
 
 ### Activities:
 
@@ -226,7 +223,7 @@ Update this onboarding document!
 
 ## First 90 days
 
-### Objective: Take ownership of responsibilities
+### Objective: Take full ownership of responsibilities
 
 ### Training focus:
 
