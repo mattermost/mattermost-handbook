@@ -8,3 +8,6 @@ This section contains:
 - [Product Management Team Handbook](operations/research-and-development/product/product-management-team-handbook.md)
 - [Product Management Areas of Ownership](operations/research-and-development/product/product-ownership-areas.md) 
 - [Technical Writing Team Handbook](operations/research-and-development/product/product-technical-writing-team-handbook.md)
+- [Analytics](operations/research-and-development/product/analytics/README.md) 
+- [Developer Relations](operations/messaging-and-math/developer-relations.md)
+- [Product Team Hangouts](operations/research-and-development/product/product-team-hangouts.md)

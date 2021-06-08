@@ -84,6 +84,7 @@
         * [Explores](operations/research-and-development/product/analytics/looker/explores.md)
       * [Telemetry](operations/research-and-development/product/analytics/telemetry.md)
     * [Developer Relations](operations/messaging-and-math/developer-relations.md)
+    * [Product Team Hangouts](operations/research-and-development/product/product-team-hangouts.md)
   * [Engineering](operations/research-and-development/engineering/README.md)
     * [Integrations Team Processes](operations/research-and-development/engineering/integrations.md)
     * [Plugin Release Process](operations/research-and-development/engineering/plugin-release-process.md)

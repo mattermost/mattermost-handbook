@@ -61,7 +61,7 @@ There are several ways you can report a Code of Conduct violation:
   * If the violation is in a Public or Private channel, include a link to the conversation being reported.
   * If the violation is in a Direct Message conversation, provide screenshots.
 * On the Mattermost forum: Send a message to [@mattermostconduct](https://forum.mattermost.org/u/mattermostconduct/).
-* Email conduct@mattermost.com
+* Email [conduct@mattermost.com](mailto:community@mattermost.com).
 
 All complaints will be reviewed and investigated promptly and fairly.
 
