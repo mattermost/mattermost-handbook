@@ -142,7 +142,6 @@ Learn about the market
 * Do some mini competitive research analysis
     * Review of MS Teams, Slack, Discord, and other collaboration products
 
-
 Learn about the product
 * Product Direction \(Product Lead\)
   * [Current Year Company Strategy](https://docs.google.com/document/d/1HDUdNRMmz9Cuo9n8X1hn2q_y2mq1u5lwRwvEYO-tOmM/edit#)
