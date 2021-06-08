@@ -68,7 +68,7 @@ All complaints will be reviewed and investigated promptly and fairly.
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
-**All reports will remain anonymous**. The exception is direct message violations: while we 
+**All reports will remain anonymous**. The exception is Direct Message violations: while we 
 cannot provide reporter anonymity in those situations, they will be handled with extra care 
 so as to not escalate the situation. A draft of the violation message will be sent to the reporter 
 for final review before it is sent.
