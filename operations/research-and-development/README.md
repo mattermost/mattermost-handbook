@@ -4,9 +4,6 @@ R&D includes engineering, QA, product management, documentation, analytics, comm
 
 ### R&D Key Info
 
-
-**Product Strategy**
-
 * [Analyst Research](https://community.mattermost.com/private-core/channels/analyst-research): Analyst meeting tracker, briefing procedures, research. We are currently Gartner clients.
 * [Compete](https://community.mattermost.com/private-core/channels/compete): Key articles on competitors. Also see [automated feeds from competitor marketing](https://community.mattermost.com/private-core/channels/compete-feeds).
 
