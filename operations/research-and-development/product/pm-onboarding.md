@@ -41,7 +41,7 @@ A good place to start is exploring the websites, and then see if you can find a 
 
 ## First week
 
-### Objective: Introduction to customers, team members, resources, and make first contribution
+### Objective: Introduction to customers, team members, resources, and  processes
 
 ### Training focus:
 
@@ -50,7 +50,12 @@ A good place to start is exploring the websites, and then see if you can find a 
   * Use introductions as learning opportunities to understand different parts of the company \(ask questions!\)
 * Introduction to product
 * Introduction to key resources
-* Make your first contribution on GitHub
+* Introduction to key processes
+
+### Training outputs:
+* Post introduction as PM and ask to join customer calls
+* Get access to key tools (Jira, Github)
+* Open your first pull request in Github for an improvement to docs.mattermost.com or in-product text. 
 
 ### Activities:
 
@@ -103,6 +108,13 @@ Readings:
 * Market and Competitive Landscape
 * Team
   * People and Processes
+
+
+### Training outputs:
+* Post detailed notes from customer calls  in [Salesforce](https://handbook.mattermost.com/operations/customer-success#logging-a-customer-feedback-in-salesforce)
+* Answer at least one question doing a week of community support in the Mattermost[forum](https://mattermost.uservoice.com/)
+* Document areas of improvement you see in your area of responsibility or in team's processes.  Share these with your manager. 
+* Update this onboarding document. 
 
 ### Activities:
 
@@ -194,6 +206,7 @@ Learn about the product development process
   * Ramp up on a couple of ongoing projects or smaller projects
 * Shadow release process meetings and conversations
   * Ask Amy to add to release meetings for the upcoming release
+* Identify areas of improvement for your area of improvement. 
 * Other projects identified by PM mentor to assist in learning about your area of responsibility
 
 Update this onboarding document!
@@ -206,13 +219,18 @@ Update this onboarding document!
 
 ### Training focus:
 
-* Participate in job duties and acquire ownership of a full project
+* Participate in job duties and acquire ownership of a full feature. 
+
+### Training outputs:
+* Document detailed notes from customer calls for requirements and use cases.
+* Kick off a project with the UX, Engineering and QA. 
+* Write spec document and 1-pager for your feature. 
 
 ### Activities:
 
 * Participate in transitional projects with exiting PM owner
-* Interview clients for research for an upcoming project
-* Document research findings and requirements
+* Interview customers or users for research for an upcoming project
+* Document research findings, use cases and requirements
 * Work with UX team on specs for your project and validation of designs with customers
 * Work with Development on specs and PR reviews for your project
 * Work with QA on test plans
@@ -229,6 +247,11 @@ Update this onboarding document!
 * Own all features within the release
 * Update and maintain roadmap
 * Work directly with developers, designers, and other stakeholders to progress projects
+
+### Training outputs:
+* Update and share roadmap with your direct manager.
+* Respond to customers and internal stakeholders on questions relating to areas of your responsibility. 
+* Prepare research and requirements for next upcoming projects. 
 
 ### Activities:
 
