@@ -1,4 +1,4 @@
-## Mid-Year Perforamnce Review Timeline 2021
+## Mid-Year Performance Review Timeline 2021
 
 * **June 9 - June 14:** Staff to select their peer reviewers in Culture Amp. HR office hours for questions and feedback training. (Note: People Managers can make changes to peer panels).
 * **June 15 - June 28:** Peer reviews and self-reflections to be completed.
