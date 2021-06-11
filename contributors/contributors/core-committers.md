@@ -200,7 +200,7 @@ The core team's Product Designers design features, user experience, and how the 
    - @matthew.birtch on [community.mattermost.com](https://community.mattermost.com/core/messages/@matthew.birtch) and [@matthewbirtch](https://github.com/matthewbirtch) on GitHub
 - **<a name="michael.gamble">Michael Gamble</a>**
    - @michael.gamble on [community.mattermost.com](https://community.mattermost.com/core/messages/@michael.gamble) and [@michaelgamble](https://github.com/michaelgamble) on GitHub
-- **<a name="anneliese.klein">Anneleise Klein</a>**
+- **<a name="anneliese.klein">Anneliese Klein</a>**
    - @anneliese.klein on [community.mattermost.com](https://community.mattermost.com/core/messages/@anneliese.klein) and [@annelieseklein](https://github.com/annelieseklein) on GitHub
 - **<a name="abhijit.singh">Abhijit Singh</a>**
    - @abhijit.singh on [community.mattermost.com](https://community.mattermost.com/core/messages/@abhijit.singh) and [@abhijit-singh](https://github.com/abhijit-singh) on GitHub
