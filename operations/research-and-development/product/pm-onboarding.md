@@ -112,7 +112,7 @@ Readings:
 
 ### Training outputs:
 * Post detailed notes from customer calls  in [Salesforce](https://handbook.mattermost.com/operations/customer-success#logging-a-customer-feedback-in-salesforce)
-* Answer at least one question doing a week of community support in the Mattermost[forum](https://mattermost.uservoice.com/)
+* Answer at least one question during the week of community support in the Mattermost [forum](https://forum.mattermost.org/)
 * Document areas of improvement you see in your area of responsibility or in team's processes.  Share these with your manager. 
 * Update this onboarding document. 
 
