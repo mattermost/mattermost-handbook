@@ -8,7 +8,7 @@ In order to continually increase what we offer to customers we need to continual
 
 Hiring Managers should confirm with their team's [MLT](https://handbook.mattermost.com/operations/operations/mlt-cadence#introduction-to-mlt) that the new headcount requisition has been approved.
 
-Hiring plans are created twice a year, and reviewed every quarter. Hiring Managers and department leads can request additional headcount by completing an Issue/Solution Proposal and sharing with Ian Tien and Aneal Vallurupalli.
+Hiring plans are created twice a year, and reviewed every quarter. Hiring Managers and department leads can request additional headcount by completing a [New Requisition ID Request Form](https://forms.gle/ewYXCm1FZPAb6Pyr6). As part of this request form and only for non-backfill roles, Hiring Managers will be asked to submit an [Issue/Solution Proposal](https://handbook.mattermost.com/operations/operations/company-processes/issue-solution). Finance assigns all requisition IDs and the CEO (Ian Tien) and VP, Finance & Operations (Aneal Vallurupalli) will need to approve ISP ahead of a new requisition ID assignment.
 
 ## Role description
 
@@ -83,7 +83,7 @@ There are multiple pre-meet scores:
 
 ### Company pre-meet score
 
-Company pre-meet scores are as follows: 
+Company pre-meet scores are as follows:
 
 #### Community experience
 
@@ -112,10 +112,10 @@ Company pre-meet scores are as follows:
 
 #### Perspective
 
-* **Does not current reside in San Francisco Bay Area \(+3\)**
+* **Does not currently reside in San Francisco Bay Area \(+3\)**
 * **Worked outside the U.S. for at least 2 years as an adult \(+2\)**
 * **Gender identity other than male \(+3\)**
-* **Lack of any university or college education \(+3\):** For someone to be highly successful in technology without a formal education is rare and team members will this profile can help us expand into new talent pools.
+* **Lack of any university or college education \(+3\):** For someone to be highly successful in technology without a formal education is rare and team members with this profile can help us expand into new talent pools.
 
 ## Interview process
 
@@ -162,7 +162,7 @@ The following list of people are approved as As Appropriate interviewers:
 * Ian Tien, CEO and co-founder
 * Corey Hulen, CTO and co-founder
 
-Each AA interviewer should have at least 3 reserved slots per week available for AA interviews, ideally in different timezone ranges, providing capacity for 12 new hires per month per AA.
+Each AA interviewer should have at least three reserved slots per week available for AA interviews, ideally in different timezone ranges, providing capacity for 12 new hires per month per AA.
 
 #### Checklist for As Appropriate Interview
 
@@ -192,25 +192,26 @@ All take-home projects should list the expected amount of time to complete. This
 ## Offer stage
 
 ### Reference checks
-WIP 
 
+Reference checks are required and Hiring Managers should determine their preferred method for reference checks. See the [Recruiting Playbook - Reference Checks](https://docs.google.com/document/d/1ziIFoI0dB0_WZZHBeGAy0BLNMafl0jGAdQ6Z7QA3Ah8/edit#heading=h.2utbizbsdr5h) for additional instructions.
 
-### Offer Approval Process
+### Offer approval process
 
 Once reference checks are complete and an offer is ready to be made, the Recruiter enters the offer information in Lever for approval.
 
 The order of approval will follow:
 
 1. HR Director
-2. MLT member
-3. VP of Finance and Operations
-4. CEO
+2. Team MLT member
+3. CTO (for R&D offers)
+4. VP of Finance and Operations
+5. CEO
 
 After offer approval, the Recruiter, Team MLT member, or AA Interviewer will extend a verbal offer to the candidate. Upon verbal acceptance, the Director of HR will send the offer letter.
 
 ### Extending an offer
 
-Recruiting will typically extend an offer, unless otherwise determined by the MLT member or Hiring Manager. Exceptions may be made if the Team MLT member or AA Interviewer prefers to extend the offer.
+Recruiting will typically extend an offer, unless otherwise determined by the MLT member or Hiring Manager. Exceptions may be made if the Team MLT member or AA interviewer prefers to extend the offer.
 
 ### Sending an offer and notifying internal teams
 
@@ -220,9 +221,6 @@ This process will be managed by HR.
 2. Upon full execution of a new staff contract, the Recruiter will mark the candidate as **Hired** in Lever and export the profile to BambooHR.
 3. Once exported to BambooHR, an automatic New Starter Notification will be sent to the Hiring Team to kick-off the onboarding process.
 
-### Pre-onboarding process
+### Pre-onboarding Preparation
 
-New colleagues will receive pre-onboarding instructions from the People team. Hiring Managers will also receive a request to indicate new systems for their new direct report.
-
-* The Recruiter will share the ICP with HR as part of the Offer Request.
-* Hiring Managers should review the role ICP with the new hire during Onboarding to help align them to the role’s focus areas and help contextualize their priorities as they ramp-up with the team and their new peers.
+New colleagues will receive pre-onboarding instructions from the People team. Hiring Managers will also need to complete [pre-onboarding activities](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/onboarding/manager-onboarding-1#onboarding).

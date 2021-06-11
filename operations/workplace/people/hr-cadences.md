@@ -18,6 +18,10 @@ The goal is monthly for managers and quarterly for non-managers. Your HR partner
 
 Manager listening sessions will happen once a month. In addition to the above topics, this is also an opportunity for people managers to unpack questions around people management challenges, concerns, and/or best practices. This feedback will also help drive future Manager training topics.
 
+## New Hire Feedback
+
+People use [New Hire feedback](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/onboarding#post-onboarding-readiness) to improve the onboarding process as it relates to general company onboarding. People may give suggestions to functional or department lead(s) if relevant feedback exists. New hire feedback cadences:
+
 ## Staff Enablement Survey
 
 Staff enablement data provides a benchmark understanding of the level of enablement felt by staff in the workplace. This is also a predictor of satisfaction and business outcomes. Quantitative data is a starting point to gather qualitative data for customized action planning.
@@ -33,7 +37,7 @@ We value high trust over micromanagement and want to continuously improve how we
 * Post-action planning at team and company level.
 * Reporting group minimum of 5 responses is required for any reporting filters related to: Managers, Teams, etc. This is a commonly-used threshold that helps maintain anonymity of survey responses.
 
-### Past Surveys
+### Staff Enablement Results
 
 * [March 2020 - Staff Engagement Survey](https://docs.google.com/presentation/d/1bkUQOCvJyYX-695gpZI7SJal14AWefFx5fJQxTOJKlI/edit#slide=id.g730cbfe72a_0_9).
 
