@@ -8,12 +8,21 @@ Email: Spend@mattermost.com (Budget requests), Procurement@mattermost.com (Procu
 
 ## The team
 
-* Aneal Vallurupalli, VP of Finance and Operations
-* Tim Quock, Director of Finance
+* Tim Quock, VP of Finance
 * Brian Bettencourt, Senior Accounting Lead
 * Isabel Alorro, Accounting Lead
 * Jeff Dynda, Jr. Staff Accountant
 * Jeff Pravlik, Senior Deal Desk Analyst
+
+## AOR
+
+For inquiries regarding customer invoices, sales commissions and payroll (all entities), please reach out to Brian Bettencourt.
+
+For inquiries regarding budgets, procurement, vendor bills, staff member expense reimbursements, and virtual credit card requests, please reach out to Isabel Alorro.
+
+For inquiries regarding customer invoices and collections, vendor bills and payments, sales orders, please reach out to Jeff Dynda.
+
+For inquiries regarding deal desk and sales orders, please reach out to Jeff Pravlik.
 
 ## Key resources
 
