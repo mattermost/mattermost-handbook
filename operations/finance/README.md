@@ -24,6 +24,8 @@ For inquiries regarding customer invoices and collections, vendor bills and paym
 
 For inquiries regarding deal desk and sales orders, please reach out to Jeff Pravlik.
 
+For more detailed AORs within the Finance team, please refer to the [Areas of Responsibility](https://docs.google.com/spreadsheets/d/1iSnhnQrshyZf2NSxoWOjJ0_e-sbqA6A-GrJ5G2h2wZo/edit#gid=0) sheet.
+
 ## Key resources
 
 * Professional Services Procurement: [How to procure at Mattermost](https://handbook.mattermost.com/operations/finance/purchasing)
