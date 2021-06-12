@@ -173,6 +173,5 @@ R&D includes engineering, QA, product management, and design \(UX, UI\).
 * Juho Nurminen - Staff Product Security Engineer
 * Rohitesh Gupta - Product Security Engineer
 * Corey Robinson - Security Engineer, Infrastructure & Operations
-* Kennedy Torkura - Cloud Security Engineer
 * Paul Harrison - Infrastructure Security Engineer
 * Katie Wiersgalla - Product Manager
