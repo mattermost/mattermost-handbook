@@ -8,8 +8,7 @@ Email: Spend@mattermost.com (Budget requests), Procurement@mattermost.com (Procu
 
 ## The team
 
-* Aneal Vallurupalli, VP of Finance and Operations
-* Tim Quock, Director of Finance
+* Tim Quock, VP of Finance and Operations
 * Brian Bettencourt, Senior Accounting Lead
 * Isabel Alorro, Accounting Lead
 * Jeff Dynda, Jr. Staff Accountant
