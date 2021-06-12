@@ -257,7 +257,7 @@ The core team's QA testers verify the correct functionality of the product from 
 
 # Technical Writers
 
-The core team's technical writers who document product features and functionality from release to release.
+The core team's technical writers document product features and functionality from release to release.
 
 - **<a name="justine.geffen">Justine Geffen</a>**
     - @justine.geffen on [community.mattermost.com](https://community.mattermost.com/core/messages/@justine.geffen) and [@justinegeffen](https://github.com/justinegeffen) on GitHub
