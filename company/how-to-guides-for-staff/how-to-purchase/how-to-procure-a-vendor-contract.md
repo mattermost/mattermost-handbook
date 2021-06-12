@@ -58,7 +58,7 @@ Once a PO is submitted, the request is routed to the [Procurement Team](mailto:p
 
 If you did not provide a contract in the PO submission and have received spend approval, ask your vendor contact to send you a **Word Document** of their contract so that Legal may review and if necessary, REDLINE the agreement. You may reference the legal review process outlined in the [Authorization Matrix](https://drive.google.com/a/mattermost.com/open?id=1fDIMiO0uydB_1zCUxZ4sGfSnBJ0P_49zbeQGgTqbYPI).
 
-All contracts are to address either Ian Tien \(CEO\) or Time Quock \(VP Finance & Operations\), and should include the following relevant information:
+All contracts are to address either Ian Tien \(CEO\) or Tim Quock \(VP Finance\), and should include the following relevant information:
 
 | Type            | Information |
 | ----------------|-------------|
