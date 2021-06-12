@@ -4,7 +4,7 @@
 
 ## Who can sign on behalf of the company?
 
-Company agreements should only be signed by CEO, Ian Tien, or VP Finance & Operations, Tim Quock with the following exceptions:
+Company agreements should only be signed by CEO, Ian Tien, or VP Finance, Tim Quock, with the following exceptions:
 
 * If you are on-site and need to sign an NDA to enter a facility you may sign such an agreement.
 * The following agreements may also be signed by the Head of Legal, Jamie Hurewitz:
