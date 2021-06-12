@@ -58,7 +58,7 @@ Once a PO is submitted, the request is routed to the [Procurement Team](mailto:p
 
 If you did not provide a contract in the PO submission and have received spend approval, ask your vendor contact to send you a **Word Document** of their contract so that Legal may review and if necessary, REDLINE the agreement. You may reference the legal review process outlined in the [Authorization Matrix](https://drive.google.com/a/mattermost.com/open?id=1fDIMiO0uydB_1zCUxZ4sGfSnBJ0P_49zbeQGgTqbYPI).
 
-All contracts are to address either Ian Tien \(CEO\) or Aneal Vallurupalli \(VP Finance\), and should include the following relevant information:
+All contracts are to address either Ian Tien \(CEO\) or Time Quock \(VP Finance & Operations\), and should include the following relevant information:
 
 | Type            | Information |
 | ----------------|-------------|
@@ -96,7 +96,7 @@ Once the contract is approved, the Procurement Team will prepare the [contract f
 
 1. Create a PDF of the fully approved contract.
 2. Director or above will initial in DocuSign.
-3. Contract sent to VP Finance or CEO for final signature in DocuSign.
+3. Contract sent to VP Finance & Operations or CEO for final signature in DocuSign.
 
 Please note that contracts that don’t go through our internal signing process will take much longer to procure and sign.
 
