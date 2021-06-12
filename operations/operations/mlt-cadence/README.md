@@ -17,7 +17,7 @@ This section outlines:
 
 * Ian Tien: Co-Founder and CEO
 * Corey Hulen: Co-Founder and CTO
-* Tim Quock: VP, Finance & Operations
+* Tim Quock: VP, Finance
 * Chris Overton: VP, Engineering
 * Barry Duplantis: VP, Customer Success
 * Matt Harper: VP, Marketing
