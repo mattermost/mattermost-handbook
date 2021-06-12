@@ -10,7 +10,7 @@ Company agreements should only be signed by CEO, Ian Tien, or VP Finance & Opera
 * The following agreements may also be signed by the Head of Legal, Jamie Hurewitz:
   * Non-Disclosure Agreements.
   * Data Privacy Agreements
-* The following agreements may also be signed by the VP Finance, Tim Quock.
+* The following agreements may also be signed by the VP Finance & Operations, Tim Quock.
   * Unmodified Order Forms where the Customer is requesting a Mattermost signature.
   * Vendor contracts.
 * Any contracts with terms that could have material impacts on financing or M&A transactions may only be signed by the CEO (e.g. non-standard liability, indemnification or inability to assign the agreement).
