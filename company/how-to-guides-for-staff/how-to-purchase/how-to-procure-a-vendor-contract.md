@@ -96,7 +96,7 @@ Once the contract is approved, the Procurement Team will prepare the [contract f
 
 1. Create a PDF of the fully approved contract.
 2. Director or above will initial in DocuSign.
-3. Contract sent to VP Finance & Operations or CEO for final signature in DocuSign.
+3. Contract sent to VP Finance or CEO for final signature in DocuSign.
 
 Please note that contracts that don’t go through our internal signing process will take much longer to procure and sign.
 
