@@ -237,9 +237,6 @@ The core team also has QA testers who verify the correct functionality of the pr
 - **<a name="rohitesh.gupta">Rohitesh Gupta</a>**
     - @rohitesh.gupta on [community.mattermost.com](https://community.mattermost.com/core/messages/@rohitesh.gupta) and [@srkgupta](https://github.com/srkgupta) on GitHub
     - Dev areas: Security
-- **<a name="kennedy.torkura">Kennedy Torkura</a>**
-    - @kennedy.torkura on [community.mattermost.com](https://community.mattermost.com/core/messages/@kennedy.torkura) and [@maineffort](https://github.com/maineffort) on GitHub
-    - Dev areas: Security
 - **<a name="paul.harrison">Paul Harrison</a>**
     - @paul.harrison on [community.mattermost.com](https://community.mattermost.com/core/messages/@pauk.harrison) and [@iyampaul](https://github.com/iyampaul) on GitHub
     - Dev areas: Security
