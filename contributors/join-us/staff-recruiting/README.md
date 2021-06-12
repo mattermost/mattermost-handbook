@@ -8,7 +8,7 @@ In order to continually increase what we offer to customers we need to continual
 
 Hiring Managers should confirm with their team's [MLT](https://handbook.mattermost.com/operations/operations/mlt-cadence#introduction-to-mlt) that the new headcount requisition has been approved.
 
-Hiring plans are created twice a year, and reviewed every quarter. Hiring Managers and department leads can request additional headcount by completing a [New Requisition ID Request Form](https://forms.gle/ewYXCm1FZPAb6Pyr6). As part of this request form and only for non-backfill roles, Hiring Managers will be asked to submit an [Issue/Solution Proposal](https://handbook.mattermost.com/operations/operations/company-processes/issue-solution). Finance assigns all requisition IDs and the CEO (Ian Tien) and VP, Finance & Operations (Aneal Vallurupalli) will need to approve ISP ahead of a new requisition ID assignment.
+Hiring plans are created twice a year, and reviewed every quarter. Hiring Managers and department leads can request additional headcount by completing a [New Requisition ID Request Form](https://forms.gle/ewYXCm1FZPAb6Pyr6). As part of this request form and only for non-backfill roles, Hiring Managers will be asked to submit an [Issue/Solution Proposal](https://handbook.mattermost.com/operations/operations/company-processes/issue-solution). Finance assigns all requisition IDs and the CEO (Ian Tien) and VP, Finance & Operations (Tim Quock) will need to approve ISP ahead of a new requisition ID assignment.
 
 ## Role description
 
