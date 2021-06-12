@@ -1,6 +1,6 @@
 # Company Agreements
 
-**Note: Pull Requests for updates to this page need to be signed off by both VP Finance & Operations and CEO in the PR process.**
+**Note: Pull Requests for updates to this page need to be signed off by both VP Finance and CEO in the PR process.**
 
 ## Who can sign on behalf of the company?
 
