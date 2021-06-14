@@ -25,6 +25,8 @@ Rather than always call a department "Marketing" - which is a broad term that in
 - [Cecilia Tao](https://community.mattermost.com/core/messages/@cecilia.tao) - Sr. Growth Marketing Manager
 - [Harrison Eaton](https://community.mattermost.com/core/messages/@harrison.eaton) - Growth Marketing Manager
 
+DRI for this page: Matt Harper
+
 ## Cadence, Channels, and Tools
 
 ### M&M Leadership Weekly Tactical \(55m\)
