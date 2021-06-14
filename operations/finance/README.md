@@ -2,17 +2,34 @@
 
 ## Where to find us
 
-Mattermost: [Purchases Channel](https://community.mattermost.com/private-core/channels/purchases) and [Sales: Ops Announcements](https://community.mattermost.com/private-core/channels/sales).
+Mattermost:
 
-Email: Spend@mattermost.com (Budget requests), Procurement@mattermost.com (Procurement questions), AP@mattermost.com (vendor and bill inquiries), and AR@mattermost.com (customer and invoicing inquiries).
+- [Purchases Channel](https://community.mattermost.com/private-core/channels/purchases) 
+- [Sales: Ops Announcements](https://community.mattermost.com/private-core/channels/sales).
+
+Email:
+
+- Spend@mattermost.com (Budget requests)
+- Procurement@mattermost.com (Procurement questions)
+- AP@mattermost.com (Vendor and bill inquiries)
+- AR@mattermost.com (Customer and invoicing inquiries)
 
 ## The team
 
-* Tim Quock, VP Finance
-* Brian Bettencourt, Senior Accounting Lead
-* Isabel Alorro, Accounting Lead
-* Jeff Dynda, Jr. Staff Accountant
-* Jeff Pravlik, Senior Deal Desk Analyst
+* [Tim Quock](https://community.mattermost.com/core/messages/@tim.quock) - VP of Finance
+* [Brian Bettencourt](https://community.mattermost.com/core/messages/@brian.bettencourt) - Senior Accounting Lead
+* [Isabel Alorro](https://community.mattermost.com/core/messages/@isabel.alloro) - Accounting Lead
+* [Jeff Dynda](https://community.mattermost.com/core/messages/@jeff.dynda) - Jr. Staff Accountant
+* [Jeff Pravlik](https://community.mattermost.com/core/messages/@jeff.pravlik) - Senior Deal Desk Analyst
+
+## AORs
+
+- For inquiries regarding customer invoices, sales commissions and payroll (all entities), please reach out to [Brian Bettencourt](https://community.mattermost.com/core/messages/@brian.bettencourt).
+- For inquiries regarding budgets, procurement, vendor bills, staff member expense reimbursements, and virtual credit card requests, please reach out to [Isabel Alorro](https://community.mattermost.com/core/messages/@isabel.alloro).
+- For inquiries regarding customer invoices and collections, vendor bills and payments, sales orders, please reach out to [Jeff Dynda](https://community.mattermost.com/core/messages/@jeff.dynda).
+- For inquiries regarding deal desk and sales orders, please reach out to [Jeff Pravlik](https://community.mattermost.com/core/messages/@jeff.pravlik).
+
+For more detailed AORs within the Finance team, please refer to the [Areas of Responsibility](https://docs.google.com/spreadsheets/d/1iSnhnQrshyZf2NSxoWOjJ0_e-sbqA6A-GrJ5G2h2wZo/edit#gid=0) sheet.
 
 ## Key resources
 
