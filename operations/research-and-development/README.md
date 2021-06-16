@@ -200,7 +200,6 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 * Rohitesh Gupta - Product Security Engineer
 * Corey Robinson - Security Engineer, Infrastructure & Operations
 * Paul Harrison - Infrastructure Security Engineer
-* Kennedy Torkura - Cloud Security Engineer
 * Katie Wiersgalla - Product Manager
 
 ### Community Team
