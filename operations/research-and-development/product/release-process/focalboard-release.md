@@ -33,7 +33,7 @@ The release that will be included in the next self-managed release pre-packaged 
  - Feature documentation
  - Release
     - App store release
-    - Github release
+    - GitHub release
     - Check minimum required server version (if applicable)
  - Contributors
     - Swag
