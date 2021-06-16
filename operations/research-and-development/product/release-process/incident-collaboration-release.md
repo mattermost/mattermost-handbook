@@ -30,7 +30,7 @@ On the first Monday of each month, or the next business day, the Incident Collab
  - Marketing - Release announcements, tweets
  - Feature documentation
  - Release
-    - Github release
+    - GitHub release
     - Check minimum required server version (if applicable)
  - Contributors
     - Swag
