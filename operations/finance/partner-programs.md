@@ -14,7 +14,7 @@ Companies who enter into a Mattermost Authorized Reseller agreement typically ha
 
 ### Becoming a Mattermost Authorized Reseller 
 
-- Complete a [contact form](https://mattermost.com/contact-us) with Mattermost requesting an Authorized Reseller discussion and, if available, include the name of the customer to which you would like to resell.
+- Complete a [contact form](https://mattermost.com/contact-us) with Mattermost to request an Authorized Reseller discussion and, if available, include the name of the customer to which you would like to resell.
 - You'll be in contact with a partner manager via email, or possibly phone, to understand the details of your business and the resale transaction.
 - Once the resale is approved internally, you will be provided a one-time click-sign authorized reseller agreement to complete, along with purchase order information for your customer.
 
