@@ -50,7 +50,7 @@ Value-Added Resellers who complete online training and have set up local support
    - An existing customer has inquired by purchasing Mattermost Enterprise Edition via resale.
    - Your company has at least two years of operating history.
    - If your company is located in a non-English-speaking country, you are willing and able to provide first and second tier support in the local language, via training materials provided by Mattermost, Inc.
-   - Provided partnership discussion meets expectations, a non-exclusive reseller agreement is offered to the reseller specific to geography and industry.
+   - Provided the partnership discussion meets expectations, a non-exclusive reseller agreement is offered to the reseller specific to geography and industry.
 - Reseller works with Strategic Alliance Manager on Mattermost Enterprise Edition opportunities.
 
 ### Order Processing
