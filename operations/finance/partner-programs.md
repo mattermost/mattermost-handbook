@@ -67,7 +67,7 @@ Mattermost, Inc. will then:
 - After the customer registration form is complete, it will be reviewed within one business day and a license key issued via email.
 - Issue you an invoice (payment due within 30 days).
 
-If a partner has registered a deal, received approval and the customer purchases online, the partner may invoice Mattermost for a referral fee equal to the discount off list price for the product with an invoice note "Referral fee for deal registration [DEAL_REGISTRATION_NUMBER]" (sent to payments@mattermost.com).
+If a partner has registered a deal, received approval, and the customer purchases online, the partner may invoice Mattermost for a referral fee equal to the discount off list price for the product with an invoice note "Referral fee for deal registration [DEAL_REGISTRATION_NUMBER]" (sent to payments@mattermost.com).
 
 ## Mattermost Deployment Solutions Partner Program
 
