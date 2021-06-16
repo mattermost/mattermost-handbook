@@ -10,7 +10,7 @@ Mattermost offers multiple partner programs:
 
 The purpose of the Mattermost Authorized Reseller Program is to enable customers to purchase Mattermost Enterprise Edition via a fulfillment partner. The fulfillment partner earns a fee from the customer for reselling Mattermost into their procurement department, and for navigating the various approval processes, but does not provide support or installation services.
 
-Companies who enter into a Mattermost Authorized Reseller agreement typically have existing relationships with customers and help them procure information technology products.
+Companies who enter into a Mattermost Authorized Reseller agreement typically have existing relationships with customers, and help them procure information technology products.
 
 ### Becoming a Mattermost Authorized Reseller 
 
