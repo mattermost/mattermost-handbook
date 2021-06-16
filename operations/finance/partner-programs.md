@@ -35,7 +35,7 @@ Mattermost, Inc. will then:
 
 The purpose of the Mattermost Value-Added Reseller program is to enable customers to purchase Mattermost Enterprise Edition via a partner who provides fulfillment support as well as first and second tier customer support in local timezone and local language.
 
-Value-Added Resellers who complete online training and have set up local support processes are offered a discount to Mattermost Enterprise Edition list prices.
+Value-Added Resellers who complete online training, and have set up local support processes, are offered a discount to Mattermost Enterprise Edition list prices.
 
 ### Benefits of being a Mattermost Value-Added Reseller ("VAR")
 
