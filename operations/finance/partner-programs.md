@@ -108,7 +108,7 @@ For example: A well-known city with a unique name like Johannesburg would be dis
 
 ## Partner Evaluation License 
 
-As a Value-Added Reseller or Deployment Solution Partner you can request a renewable 1-year E20 license for up to 50 users.
+As a Value-Added Reseller or Deployment Solution Partner, you can request a renewable 1-year E20 license for up to 50 users.
 
 - Go to https://www.mattermost.com/trial/ to complete a trial form and enter [RESELLER] after your organization name.
 - In the “Where are you with Mattermost” section, select **Other**.
