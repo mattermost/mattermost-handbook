@@ -26,7 +26,7 @@ On the first Monday of each month, or the next business day, the Incident Collab
  - Auto-generated release notes with changes, upgrade notes, minimum server version requirement, contributors, and known issues
  - Update NOTICE.txt
  - Update dependencies
- - Testing + automated tests
+ - Testing and automated tests
  - Marketing - Release announcements, tweets
  - Feature documentation
  - Release
