@@ -116,6 +116,7 @@
     * [How to Contribute Content](operations/messaging-and-math/content-marketing/contributing-content.md)
 * [Sales](operations/sales.md)
   * [Deal Desk](operations/finance/deal-desk.md)
+  * [Partner Programs](operations/finance/partner-programs.md)
   * [Lead Management](operations/messaging-and-math/lead-management.md)
 * [Customer Success](operations/customer-success/README.md)
   * [Customer Support](operations/customer-success/customer-support.md)
