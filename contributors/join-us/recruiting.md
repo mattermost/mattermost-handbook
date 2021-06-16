@@ -1,6 +1,6 @@
-# Recruiting
+# Things Candidates Should Know
 
-**Mattermost's mission is to make the world safer and more productive by developing and delivering secure, open source collaboration software that is trusted, flexible, and offers fast time-to-value.**  
+**Mattermost's mission is to make the world safer and more productive by developing and delivering secure, open source collaboration software that is trusted, flexible, and offers fast time-to-value.**
 
 ### Bring Your Best Self to Work at Mattermost
 
@@ -17,59 +17,133 @@ If you're considering a role at Mattermost, here are the **Top 10 Reasons to wor
 7. **Improve a product you use every day:** Work on a team with deep empathy for users and customers.
 8. **Focus on results:** Output matters, not hours worked. Enjoy life and don’t burn out.
 9. **Learn, Master, Teach:** Building new skills, becoming experts, and training others is core to our culture.
-10. **Friends around the world:** Build relationships with staff and contributors in dozens of countries.
+10. **Friends around the world:** Build relationships with staff and contributors in dozens of countries/regions.
+
+In addition to this page, we also encourage anyone interested in interviewing at Mattermost to read [About Mattermost](https://handbook.mattermost.com/company/about-mattermost).
+
+## Working and Meeting Across the Globe
+
+### Remote First
+
+We’re headquartered in Palo Alto, California and, like many open source companies, Mattermost's staff and contributors are widely geographically located. We run as a distributed, high performance, and high trust team using a few principles:
+
+#### 1. Work Anywhere with Good Internet
+
+Working from anywhere means more time with loved ones, no commute, and controlling everything about your workspace.
+
+The one requirement is having the ability to [join video calls using Zoom](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux) between 8am and 1pm California time, which requires a reliable internet connection. Recommended download/upload speeds should be 8 Mbps/512 kbps for smooth group calling and screensharing, with a bare minimum of 4 Mbps/128 kbps. The [Ookla Speed Test](https://www.speedtest.net/) can be used to check your internet speed.
+
+There are exceptions to this requirement, for example: part-time roles that don’t need to take meetings, or roles providing support outside core meeting hours. Hiring Managers and Recruiters will indicate any time zone requirements for specific roles and/or teams.
+
+We're continually expanding where we can hire staff, updated lists can be found [here](https://handbook.mattermost.com/contributors/join-us).
+
+#### 2. Be Clear and Precise
+
+Working in a distributed organization means it may take time before a person reads your message and responds, so make sure you are clear.
+
+Communicate relevant information in the first message:
+
+* Avoid “Are you free to talk?” and “Can we talk about something at 3pm?”, instead use “Can we speak about ulimit issue Customer X is having?”
+
+Write unambiguously:
+
+* Avoid “I think the answer is Yes”, instead use “Yes”, “No”, or “I think the answer is Yes, I’ll confirm with Steve and let you know.”
+
+Likewise, we emphasize written communication. Reading is faster than listening and it reaches more people, which means more happens in less time.
+
+#### 3. Take Ownership
+
+Own the outcomes of your work: When working on problems, requests, and feedback always be clear about next steps, and either drive the resolution or create a ticket to track the work. Communicate blindspots and help your teammates understand potential [Brown M&Ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms).
+
+#### 4. Make Meaningful Connections
+
+We have [warm-ups](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/mattermost-communication#ice-breaker) in some meetings to learn more about each other. It’s part of our culture where we get to know each other.
+
+Find time after meetings and video conferences to get to know your teammates. Ask them about their weekends and how their life is outside of work.
+
+When you meet in person at off-sites and events, build on those relationships.
+
+#### 5. Be the Change You Want to See
+
+When something isn't clearly documented, take the initiative to figure out what's going on, and update the documentation for the people who come after you.
+
+[Learn, Master, Teach](https://handbook.mattermost.com/company/about-mattermost/mindsets#learn-master-teach) is a model we use to pass on training after you’ve been trained to help grow everyone at the company.
+
+### Meetups
+
+We have Meetups around the world to deepen and broaden our relationships and build the future of our products together.
+
+* Watch highlights of our Community Meetups in Toronto, Canada: [Archery Tag in 2019](https://www.youtube.com/watch?v=5c9oJdbXrMU), [Curling in 2018](https://www.youtube.com/watch?v=9K7DDhe1wHI) and [CN Tower in 2017](https://www.youtube.com/watch?v=5c9oJdbXrMU&t=4s).
+* [MatterCon](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/mattercon#goal) is an annual conference for Mattermosters and the contributor community to come together.
+  * [MatterCon 2020 in Nassau, Bahamas](https://www.youtube.com/watch?v=5YA3DK0u2L4).
+  * [MatterCon 2019 in Punta Cana, Dominican Republic](https://www.youtube.com/watch?v=pMySvCfy7Bw&feature=youtu.be).
+  * [MatterCon 2018 in Lisbon, Portugal](https://www.youtube.com/watch?v=CZXaYttz3NA&feature=youtu.be).
+* Teams will also plan meetups, with locations determined by the Team Lead.
+
+**Additional resources**
+
+* [Mattermost Blog](https://mattermost.com/blog/)
+* [Mattermost Leadership Principles](https://handbook.mattermost.com/company/about-mattermost#leadership-principles)
+
+### Interview Process
+
+We can hire from many countries and regions across the globe. While in-office interviews typically go through 1-3 interview rounds, our candidates and interviewers may be located in various time zones and therefore each interview is scheduled separately.
 
 ## Interview Stages
 
-We can hire from many countries and regions across the globe. While in-office interviews typically go through 1 - 3 interview rounds, our candidates and interviewers may be located in various timezones and therefore each interview is scheduled separately. The stages are as follows:
+As a fully remote and global team, Mattermost interviewers are located in different time zones. Since we also interview candidates across different time zones, we schedule interviews one-on-one as opposed to a panel of interviews on one specific date. Below are the typical stages and number of interviewers a candidate can expect in a full interview process at Mattermost.
 
-1. **Recruiter Screen:** This person is a candidate's main point of contact during the interview process at Mattermost. For some roles, Hiring Managers may incorporate a recruiter screen within their first interview with a candidate.
-2. **Hiring Manager, Technical, and Team Interviews:** This portion typically consists of 3 - 4 interviewers. In addition to the Hiring Manager, candidates can expect to interview with team and cross-team members who will work closely with, or similarly to, the individual in this role.
+All interviews take place over video (using Zoom). Interviewers will wait 5 minutes for a candidate to join before leaving the interview. We encourage candidates to email their recruiting contact and the Mattermost interviewer if they are not able to make a scheduled interview.
+
+1. **Recruiter Screen:** This is a candidate's main point of contact during the interview process at Mattermost. For some roles, Hiring Managers may incorporate a recruiter screen within their first interview with a candidate.
+2. **Hiring Manager, Technical, and Team Interviews:** This portion typically consists of 3-4 interviewers. In addition to the Hiring Manager, candidates can expect to interview with team and cross-team members who will work closely with, or similarly to, the individual in this role.
 3. **Interview Project:** All take-home projects will list the expected amount of time expected to complete. We really appreciate all of the time spent completing a take-home project. As a 'thank you,' candidates will be invited to select a gift option upon completion of the project.
 4. **Final Interviews:** This typically includes the Hiring Team's [MLT](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#mlt) and one of our co-founders. **Note:** For Director and above interviews, both Mattermost co-founders will interview candidates.
 5. **Final Decision:** A member of the Hiring Team will reach out to you to let you know our decision.
 
 We hope that you have a great experience interviewing at Mattermost and welcome any feedback you may have. We may invite candidates to share feedback about our interview process so we may continually improve the process and experience.
 
-## Open Roles
+## Reference Checks and Offer Stage
 
-Mattermost's openings can be found [here](https://mattermost.com/careers/).
+Candidates will receive a verbal offer to join Mattermost. Upon verbal acceptance, the hiring team will send the contract paperwork to the new candidate. Offer letters will be signed internally first: 
+- [CAO to initial](https://handbook.mattermost.com/operations/operations/company-processes/company-agreements#who-are-contract-accountability-owners-caos) as the first signer.
+- The prospective staff member will be the third and final signer.
 
-Hiring plans are created twice a year and reviewed every quarter. Hiring Managers and department leads can request additional headcount by completing an [Issue/Solution Proposal](https://handbook.mattermost.com/operations/operations/issue-solution) and sharing with the CEO and VP, Finance & Operations.
+Reference checks are typically done through [SkillSurvey](https://www.skillsurvey.com/reference-checking-solution/) or a Hiring Manager may decide to conduct references on their own. Candidates will be informed of reference type ahead of providing references. All contracts are contingent on the successful and satisfactory completion of reference checks.
 
-## Hiring Across the Globe
+### General Benefits
 
-**We currently support hiring in the following countries/regions:**
+#### Flexible Hours
 
-* Canada, Chile, Finland, Georgia, Germany, India, Mauritius, Philippines, Poland, South Africa, Turkey, Ukraine, United Kingdom, United States
+Results matter far more than hours in an office. Your time at Mattermost is flexible. Go see the dentist, visit a friend, walk your dog – no need to ask permission.
 
-We are constantly working towards adding more countries/regions to this list, but it takes a lot of time and resources. This list will be updated as we are able to hire in additional countries/regions.
+If there’s something urgent going on at work, just let [teammates know your status](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#where-to-go-to-see-whos-out).
 
-Due to local laws, there may be restrictions on which types of roles we can hire in each country/region.
+For most roles, we require the ability to join meetings between 8am and 1pm California time. The exception is people who are dedicated to support in other time zones, or team members that don’t need to be in real-time discussions.
 
-## Hiring in the United States
+#### Paid Time Off and Holidays
 
-We currently have staff in the following U.S. states:
+Just as flexible as our working hours, learn about our [paid time off and holidays policy and process](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off). During Covid, we've also occasionally called a [Family and Friends Day](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off/family-and-friends-day), and will run the majority of the company with the minimal staff needed to meet our service level commitments. Staff who are on-call, or who choose to work that day, can take an alternate day off.
 
-* AZ CA CO FL GA IN KS MA MD MI MO NC NJ NV NY OK SC TN TX UT VA WA WI
+#### Home Office Benefits
 
-Preparing to hire an employee in a new state takes time, and we may be subject to new regulations, taxes, and reporting obligations. If a candidate is progressing in the interview process and would be living and working from a U.S. state not listed above, the Recruiter will DM @tim.quock with the state and the title of the position the candidate may fill at least three weeks prior to an anticipated offer.
-
-## Candidate Frequently Asked Questions 
-
-**Does Mattermost offer home office benefits?**
-
-We want staff to have full control of their own space. As such, we offer a [guideline on home office purchases](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#home-office-guidelines), including what Mattermost covers.
-
-We also will reimburse a portion of team member's [monthly mobile device subscriptions](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#mobile-device-policy) and [home internet cost](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#other-expenses).
-
-**Can I expense a co-working space?**
+Staff have full control of their own space. We offer a [guideline on home office purchases](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#home-office-guidelines).
 
 We understand that working from home every day may not be practical for every individual. We will reimburse staff for [flexible office space](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#other-expenses).
 
-**Can I enroll in an external course or class related to my role?**
+#### Mobile and Home Internet
 
-Yes, team members can receive reimbursement for [professional development](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#other-expenses) annually.
+We reimburse $50 per month of [home internet costs](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#other-expenses) as well as a portion of [monthly mobile device subscriptions](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#mobile-device-policy) where appropriate.
+
+#### Professional Development
+
+We want to enable staff to do the best work of their careers at Mattermost. In addition to [360-style performance reviews](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50) and transparent career and role leveling, Mattermost team members can also receive a reimbursement up to $500 USD for [professional development](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#other-expenses) annually.
+
+**Additional employee benefits**
+
+Mattermost uses professional employment organizations and are able to offer additional benefits to employees based in: [US](https://docs.mattermost.com/process/benefits-us.html), [Canada](https://docs.mattermost.com/process/benefits-canada.html), UK, Germany, and India (to be updated).
+
+#### Frequently Asked Questions
 
 **Are there core hours that I'll be expected to work?**
 
@@ -79,6 +153,11 @@ We have a weekly all-company [Customer Obsession Meeting](https://handbook.matte
 
 Mattermost staff and Community members are eligible to receive a $500 USD referral bonus if the candidate they refer is hired and completes 90 days of service with Mattermost.
 
+#### How to refer a candidate
+
+* Log in to [Lever](https://hire.lever.co/candidates), our Applicant Tracking System, using your Mattermost email address. Select the **Interviews** tab and then select **+ Refer Candidate** button.
+* You can also send the referral´s resume to our Technical Recruiting Manager, Teresa Novoa (teresa@mattermost.com) or careers@mattermost.com.
+
 #### Referral Criteria
 
 * A candidate who is not currently being considered for a role at Mattermost.
@@ -86,10 +165,11 @@ Mattermost staff and Community members are eligible to receive a $500 USD referr
 * The candidate must be submitted in Lever.
 * Both the staff member and the referred hire must be employed by Mattermost at the payroll date following 90 days of service to receive the bonus.
 
-#### Who Isn't Eligible to Receive the Bonus
+#### Who Isn't Eligible to Receive the Bonus?
 
 * Co-founders, C-levels, and Vice Presidents are not eligible to receive the referral bonus.
 * Hiring Managers are not eligible to receive the bonus for staff that will report to them because hiring is a large part of a Manager's responsibilities.
+* Recruiting and Community team members as well as staff members involved in the Community may not refer a Community member who is already part of the Community.
 * Referral bonuses are not given if there are external recruiting agency fees associated with hiring the new staff member.
 * Agencies and external recruiters without a contracted relationship with Mattermost are not eligible to receive the bonus.
 * Reach out to the Director of HR (DM: @natalie.jew) with any referral bonus eligibility questions.

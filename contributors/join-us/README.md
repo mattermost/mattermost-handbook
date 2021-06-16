@@ -47,6 +47,24 @@ Note: This section is work-in-progress, being migrated from: [https://docs.matte
 
 Mattermost is a remote-first company, and staff work from locations ranging from their home office to shared workspaces. Our headquarters is on the internet - specifically, we work on an open test server called [https://pre-release.mattermost.com](https://pre-release.mattermost.com/) which runs a pre-released version of Mattermost software with all the newest features and improvements \(which is occassionally unstable\). The server is integrated with Zoom and employees and staff members can launch voice, video, and screensharing meetings within Mattermost.
 
+#### Hiring Across the Globe
+
+We currently support hiring in the following countries/regions:
+
+* Canada, Chile, Finland, Georgia, Germany, India, Mauritius, Philippines, Poland, South Africa, Turkey, Ukraine, United Kingdom, United States
+
+We are constantly working towards adding more countries/regions to this list, but it takes a lot of time and resources. This list will be updated as we are able to hire in additional countries/regions.
+
+Due to local laws, there may be restrictions on which types of roles we can hire in each country/region.
+
+#### Hiring in the United States
+
+We currently have staff in the following U.S. states:
+
+* AZ, CA, CO, FL, GA, IN, KS, MA, MD, MI, MO, NC, NJ, NV, NY, OK, SC, TN, TX, UT, VA, WA, WI
+
+Preparing to hire an employee in a new state takes time, and we may be subject to new regulations, taxes, and reporting obligations. If a candidate is progressing in the interview process and would be living and working from a U.S. state not listed above, the Recruiter will DM @tim.quock and @natalie.jew with the state and the title of the position the candidate may fill at least three weeks prior to an anticipated offer.
+
 **Joining the Test Server**
 
 If you’re thinking of joining Mattermost as an open source contributor, as an employee or staff contributor, or as an ecosystem partner, we welcome you to create an account on our server and see what it’s like to work here.
@@ -63,6 +81,8 @@ If you’re in contact with someone with an `@mattermost.com` email address, suc
 
 To practice sending messages in Mattermost, particularly around formatting, you can send messages to yourself to test out how messages will look before sending to another person.
 
+### Referral Progam
+
 ### FAQ
 
 #### Do you offer internships?
@@ -71,9 +91,9 @@ We don’t currently offer internships. If you’re interested in expanding your
 
 #### I’m interested in a staff position, how do I get noticed?
 
-If you haven’t yet experienced the product, you should do that as a first step by joining [our testing server](https://community.mattermost.com).
+If you haven’t yet experienced the product, you should do that as a first step by joining [our Community server](https://community.mattermost.com).
 
-When you apply there’s a question about your experience with Mattermost and at a minimum you should have spent some time using the product and have some opinions on what you like and we might improve.
+When you apply there’s a question about your experience with Mattermost and at a minimum you should have spent some time using the product and have some opinions on what you like and what we might improve.
 
 If you are technical, we hire about 70% of our R&D staff from our open source community. If you want to increase your odds further, please consider trying a beginner or intermediate [open source contribution](https://mattermost.com/contribute/).
 
@@ -82,4 +102,3 @@ If you are technical, we hire about 70% of our R&D staff from our open source co
 Thank you for thinking of us. In general, we don’t work with agency or contingent recruiters unless they are referred from people we know who can vouch for success in working with you.
 
 Unless you fit this criteria, we would ask you remove us from your mailing list.
-

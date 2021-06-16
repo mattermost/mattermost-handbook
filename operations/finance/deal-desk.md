@@ -14,9 +14,19 @@ Our ongoing concentration includes but is not limited to the following:
 * Nonprofit and Academic 
 * Export Compliance
 
-Deal Desk Manager: Elaine Yue (@elaine.yue)
+To submit a request:
+1. Go to the Salesforce Account page of the respective end customer or partner.
+2. Select **Cases > New**.
+3. Select type: MSA, Evaluation, NDA, Partner, Pricing, Supplier Form.
+4. Answer related questions.
+5. Choose **Submit**
+6. Sales Ops reviews request:
+  * **Pricing:** Analysis in Pricing Scenario Calculator (confidential - owned by Finance) and escalated according to Approval Matrix (see link below).
+  * **Terms:** Escalated to Legal and approved by Finance; DocuSign to a Contract Approval Owner for initial and CEO for signature.
+  * **NDAs/Supplier Forms:** DocuSign to a Contract Approval Owner for initial and CEO for signature.
 
-Sr. Order Administration Specialist: Kaelyn Wright (@kaelyn.wright)
+* Deal Desk owner: Jeff Pravlik
+* Order Management owner: Jeff Pravlik
 
 ## Where to find us
 
