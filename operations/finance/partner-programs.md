@@ -20,7 +20,7 @@ Companies who enter into a Mattermost Authorized Reseller agreement typically ha
 
 ### Placing an order as a Mattermost Authorized Reseller 
 
-When ready to place an order submit a purchase order to orders@mattermost.com along with the name, address, and contact information of your customer.
+When ready to place an order, submit a purchase order to orders@mattermost.com along with the name, address, and contact information of your customer.
 
 **Note:** Mattermost does not accept customer purchase orders or custom terms for Reseller orders.
   
