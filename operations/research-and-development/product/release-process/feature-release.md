@@ -59,9 +59,7 @@ Day when Leads and PMs decide which major features are included in the release, 
 3. QA:
     - Prioritize testing PRs and resolved tickets for this release
     - Ensure that new features are also properly tested on mobile apps
-    - Prioritize updating release tests in test management and automated tests
-    - Identify any new teammates who will be joining release testing, send them an intro to the testing process and timeframe, send them the [hardware/software survey](https://drive.google.com/open?id=1IUiNO2S5fgWVn-Y_cyouxheukqKyGQC0_2UX64Ejwk8)
-    - Set up DM/GM channels in preparation for testing auto-closing after 7 days
+    - Prioritize updating test cases as needed in test management and automated tests
 
 ### C. (T-minus 9 working days) RC1 Cut and RC Testing Begins
 
@@ -152,9 +150,7 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
       - Add a placeholder text saying "Details on the security update will be posted here on X date, as per our Responsible Disclosure Policy"
 2. QA:
     - Verify all PRs and tickets for the release have been tested/closed
-    - Verify Selenium server was put on final RC and build passed
-    - Verify smoke tests on webapp/server, desktop app, and RN apps all passed
-    - Post QA approval in ``Release: Self-Managed`` channel
+    - Post QA approval in ``Release: Self-Managed`` channel and playbook channel for that release
 3. Build:
     - Tags a new release (e.g. 1.1.0) and runs an official build which should be essentially identical to the last RC
     - Posts SHA key, md5 sum, and GPG signatures of the final build to ``Release: Self-Managed`` channel
