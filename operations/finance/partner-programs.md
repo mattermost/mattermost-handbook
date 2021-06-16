@@ -49,7 +49,7 @@ Value-Added Resellers who complete online training and have set up local support
 - Reseller applications are reviewed within 1-2 weeks. Resellers meeting the following criteria are invited for a partnership discussion:
    - An existing customer has inquired by purchasing Mattermost Enterprise Edition via resale.
    - Your company has at least two years of operating history.
-   - If your company is located in a non-English-speaking country, you are willing and able to provide 1st and 2nd tier support in the local language, via training materials provided by Mattermost, Inc.
+   - If your company is located in a non-English-speaking country, you are willing and able to provide first and second tier support in the local language, via training materials provided by Mattermost, Inc.
    - Provided partnership discussion meets expectations, a non-exclusive reseller agreement is offered to the reseller specific to geography and industry.
 - Reseller works with Strategic Alliance Manager on Mattermost Enterprise Edition opportunities.
 
