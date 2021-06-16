@@ -85,7 +85,7 @@ To apply for the program, complete the [contact form](https://mattermost.com/con
 
 A directory of Mattermost partners can be found at https://mattermost.com/partners/.
 
-After completion of a partner agreement, partners are invited to send an overview of their services with a logo to inclusion in the Mattermost partner directory. 
+After completion of a partner agreement, partners are invited to send an overview of their services with a logo for inclusion in the Mattermost partner directory. 
 
 To get started, please email the following to partner-directory@mattermost.com:
 
