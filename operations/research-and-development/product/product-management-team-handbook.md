@@ -13,13 +13,22 @@ The purpose of this handbook is to provide more details on the Product Manager r
 
 ## The Product Manager Role
 
-### Function within the organization
-
 Product Managers are organized within the R&D area of Mattermost; however, they have interactions with all departments and areas to ensure success of the product.
 
 ### Strategic priorities
 
 Product Managers are responsible for carrying out the strategic priorities of the product. They are tasked with ensuring the product is profitable by meeting customers and users existing and future needs. Understanding that each client and user have their own set of specific requirements, use cases, and preferences; a Product Manager must understand the patterns across a broad range of input and focus on exploiting value in the areas that will provide the greatest return for the largest audience.
+
+### Core Areas of Responsibility
+
+| Responsibility | What does this mean?| Actions taken for this responsibility|
+| :--- | :--- | :--- |
+| **Problem Definition** | Listen to current, prospective, and target customers and users to understand their problems and other solutions available to address their problems. Have a deep understanding of what the problem is, their use case, what's a “must have” to resolve the problem and what's a “nice to have”. Understand where the problem is with the deep context of a user/customer experience. | <ul><li>Document problem statements and use cases from interviews and feedback channels.</li> <li>Conduct competitive analysis and market research.</li> <li>Determine demand for a solution by validating propensity of problem or use case within our broader customer/user bases and market.</li> <li>Document what is required by users or customers to solve the problem.</li><li> Draft 1-pagers and PRFAQs.</li> </ul> |
+| **Strategy Alignment** | Determine how problem statements align with direction and mission of your area of ownership and strategy of Mattermost. Determine priority of solving the problem and the scope at which it needs to be solved. Drive alignment and agreement on importance of priority. Say "no" when something does not align. | <ul><li>Score and prioritize features by impact, gain alignment from MLT, teammates, and GTM on the priority and scope of the required solution.</li> <li>Document and share decisions and alignment discussions.</li> </ul> |
+| **Solution Definition & Validation** | Work with design and engineering to find solutions. Represent the voice of the user/customer to ensure must-have requirements are addressed. Coordinate external functions that need to be consulted in definition of solutions. | <ul><li>Write spec documents and produce low fidelity wireframes and user flows.</li> <li> Determine packaging based on how the solution fits the needs of ICs, Managers, or Executives. </li> <li> Validate solutions with users and customers to ensure they meet their use cases and requirements.</li> </ul> |
+| **Solution Scheduling & Development** | Work with developers, designers, and QA team to negotiate scope of functionality, resolve challenges, and ensure features meet quality standards. Represent resources and be the coordinator of collaboration across all functions and Eng teams. | <ul><li>Expose and resolve challenges between functions.</li> <li>Test features to ensure key use cases are solved. Update stakeholders with expected timelines and changes to solution scope.</li> </ul> |
+| **Solution Release** | Work with Release Manager and Marketing to prepare customer and internal enablement and announcement materials. Ensure go-to-market and operations are prepared to accommodate adoption of new functionality. | <ul><li>Prepare release announcement from finalized 1-pagers/PRFAQs, record a demo of the feature, update public facing roadmaps and forums with release updates. </li> <li> Complete product documentation and changelog information with assistance from Tech Writers.</li> <li> Ready operational and customer-facing teams with training and enablement materials.</li> </ul> |
+| **Solution Adoption** | Advocate for adoption of the new value added to the product. Monitor feedback and iterate on improvements to improve experience.  | <ul><li>Track feature usage and feedback through qualitative and quantitative data gathering.</li> <li> Demo and share features with existing customers and users.</li> <li> Iterate on feature with additional feedback from customers/users. </li> </ul>|
 
 ### Guiding principles for the PM role \(WIP\)
 
@@ -464,11 +473,6 @@ Product Managers are mentioned to assist in answering product question escalatio
 |:-----|:------|:----|:------|:-------|:-------|
 | <li> All PMs</li> <li>Optional: Sales, BizOps, Marketing departments</li> | <li>PMs share roadmap highlights: Focus is on features with clear release timelines, and a clear benefit to customers, so Sales knows what is coming up soon they can talk to customers about.</li> <li>Demos, PRFAQs, and designs are shared as needed to illustrate the benefits</li> <li>Open Q&A</li> | Monthly meeting on 1st Monday of the month from 9:00am - 10:00am Palo Alto time. | <li>Prepare a list of features you'd like to showcase during the meeting. The agenda of features PMs are presented are typically coordinated a few days in advance.</li> <li>Prepare a short demo of the features. Show prototypes or designs if a demo environment is not available.</li> <li>Prepare information that the team may need to be aware of regarding feature, and be prepared to answer questions about the feature.</li>| <li>Present your demos and share any other important information regarding features or upcoming product changes.</li> <li>Answer questions from the team. It may be necessary to time-cop a particular topic to ensure we can share all the demos on the agenda.</li>| <li>Share recoring post meeting.</li> <li>Share feedback survey post meeting.</li>|
 
-### Monthly Product Training cal
-
-| Attendees | Format | Time | Meeting Prep | During Meeting | Post Meeting |
-|:-----|:------|:----|:------|:-------|:-------|
-| <li> Selected PMs</li> <li>Optional: Sales, BizOps, Marketing departments</li> | <li>PMs do a deeper training on upcoming feature about to be released or one recently released.</li> <li>Demos, Enablement materials and technical overview is presented. </li> <li>Open Q&A</li> | Monthly meeting on 3rd Monday of the month from 9:00am - 10:00am Palo Alto time. | <li>Topics are decided at least 1 month in advanced in a weekly PM Sync meeting</li> <li>Prepare presentation materials</li> <li>Provide agenda and materials (as able) prior to the meeting.</li>| <li>Present use cases, value propositions, demo of feature and technical details.</li> <li>Answer questions from the team. It may be necessary to time-cop a particular topic to ensure we can share all the demos on the agenda.</li>| <li>Share recoring post meeting.</li> <li>Share feedback survey post meeting.</li>|
 
 ## Frequently Asked Questions (FAQ)
 
