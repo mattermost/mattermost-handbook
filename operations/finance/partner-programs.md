@@ -56,7 +56,7 @@ Value-Added Resellers who complete online training and have set up local support
 ### Order Processing
 
 - For each customer opportunity, you must [complete a deal registration form](https://about.mattermost.com/reseller-deal-registration) to be eligible for a reseller discount.
-- Once the deal is registered Mattermost will review the registration and contact you regarding approval, rejection, or to obtain more information.
+- Once the deal is registered, Mattermost will review the registration and contact you regarding approval, rejection, or to obtain more information.
 - Request a quotation from your Mattermost Strategic Alliance Manager for customer purchase, including the email address of the customer contact who will receive the license key.
 - The customer must sign the quotation before you issue a purchase order.
 
