@@ -188,6 +188,9 @@ When triaging a bug report, consider the following:
 
   - A: Self-Managed releases are based off of Mattermost Cloud releases. For example, the Self-Managed v5.32.0 release is based off of the ``cloud-2021-01-26`` release tag. Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next Self-Managed release. The release branch for a Self-Managed release will be cut once the Mattermost Cloud release that will be used for the next Self-Managed release has been shipped.
 
+**Q: How does the release build pipeline process work for self-managed releases?**
+  - A: Documentation on the release pipeline process via Miro is available here: https://miro.com/app/board/o9J_lH-zx0k=/?utm_source=notification&utm_medium=email&utm_campaign=daily-updates&utm_content=go-to-board&fromRedirect=1 (has restricted access).
+
 **Q: How are PRs merged for release?**
 
   - A: PRs are first merged to master. As needed, the dev who submitted the fix is also responsible for cherry-picking it to the release branch after a release branch has been cut.
