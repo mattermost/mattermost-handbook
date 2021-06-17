@@ -36,4 +36,4 @@ On the first Monday of each month, or the next business day, the Incident Collab
     - Swag
  - Release dates communicated in Incident Response google calendar
  - Release retrospective
- - **Security updates communication XXXX**
+ - **TBD: Security updates communication**
