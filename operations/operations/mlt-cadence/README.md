@@ -17,25 +17,26 @@ This section outlines:
 
 * Ian Tien: Co-Founder and CEO
 * Corey Hulen: Co-Founder and CTO
-* Aneal Vallurupalli: VP, Finance
+* Tim Quock: VP, Finance
 * Chris Overton: VP, Engineering
 * Barry Duplantis: VP, Customer Success
 * Matt Harper: VP, Marketing
 
 # MLT Cadence
 
-## MLT Weekly Business Review (WBR)
+## Biweekly Business Review (BBR)
 
-**Tuesdays 10:00am to 11:00am Palo Alto time with MLT**
+**Biweekly Tuesdays 10:00am to 10:50am Palo Alto time with MLT**
 
 **Required attendees: MLT + extended team (TBD)**
 
-The purpose of MLT WBR is to review the health of the business by reviewing our goals dashboard, identifying key risks/challenges/issues, and identifying owners for actions. Discussions held in [MLT WBR Channel](https://community.mattermost.com/private-core/channels/MLT-WBR).
+The purpose of BBR is to review the health of the business by reviewing our goals dashboard, identifying key risks/challenges/issues, and identifying owners for actions. Discussions held in [MLT BBR Channel](https://community.mattermost.com/private-core/channels/bbr).
 
 #### Pre-work
 
-* Dashboard to be updated by all owners by Tuesday 9am Palo Alto Time.
-* 2x2 prepared by each functional owner (TBD if reviewed separately or aggregated into one 2x2) (e.g., next product releases, marketing launches).
+* Dashboards emailed out Fridays by Amy Nicol, all attendees review and ask questions asynchronously if they have them.
+* By Monday at 12pmPT, key stakeholders add issues, challenges & risk with next actions and asks to the team in the FRM doc.
+* Before the meeting on Tuesday's, all attendees have reviewed doc. 
 
 #### Process
 
@@ -62,7 +63,7 @@ The purpose of MLT WBR is to review the health of the business by reviewing our 
 
 ## MLT Weekly Executive Meeting 
 
-**Tuesdays 11:00am to 12:00pm Palo Alto time with MLT**
+**Tuesdays 9:00am to 9:50pm Palo Alto time with MLT**
 
 **Required attendees: MLT only + HR representative**
 
@@ -90,6 +91,8 @@ Topics are queued in a [central spreadsheet](https://docs.google.com/spreadsheet
 * Two slots of 45 minutes each. Typically two topics - one for each slot. However, bigger topics can occupy two slots
 * MLT reviews document for the first 15 minutes; discusses for the next 25 minutes to reach any decisions for clarity and closure
 * (Five minutes before end of slot) Decisions/actions are summarized
+
+**These meetings are cancelled if no topics are raised.**
 
 ## MLT Planning
 
