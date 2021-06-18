@@ -24,8 +24,7 @@
  
 **Translations**
 
- - Post a reminder at T-12 for translators about the release translations due date, e.g., https://community.mattermost.com/core/pl/466tkyxfdtftirxj31n8gpou5h.
- - Monitor progress of translations at https://translate.mattermost.com/projects/mattermost/ and ping language maintainers a few days before due date if they're not getting to 100%.
+ - Monitor progress of translations at https://translate.mattermost.com/ and ping language maintainers a few days before due date if they're not getting to 100%.
  - Ask DevOps to submit a new translations PR if a translation deadline extension is requested.
  - Target date for final translations PR is T-5, but T-3 is acceptable.
 

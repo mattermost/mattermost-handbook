@@ -30,15 +30,15 @@ A release announcement for each feature should be started early in the product p
 
 #### D. \(T-minus 7 working days\) Product Marketing Director Review
 
-* The PM-approved draft will be provided for review to the Director of Product Marketing. Katie or Jason provides the release announcement copy for review and relays edits back to the Product Management team via the Product Manager's internal channel.
+* The PM-approved draft will be provided for review to the Director of Product Marketing. Katie Wiersgalla (@wiersgallak) provides the release announcement copy for review and relays edits back to the Product Management team via the Product Manager's internal channel.
 
 #### E. \(T-minus 5 working days\) CPO Review
 
-* The release announcement draft will be provided for review to the CPO. Katie or Jason provides the release announcement copy to the CPO for his review and relays edits back to the Product Management team via the Product Manager's internal channel.  Product Managers have two business days to resolve comments and provide updates.
+* The release announcement draft will be provided for review to the CPO. Katie Wiersgalla (@wiersgallak) provides the release announcement copy to the CPO for his review and relays edits back to the Product Management team via the Product Manager's internal channel.  Product Managers have two business days to resolve comments and provide updates.
 
 #### F. \(T-minus 2 working days\) Marketing Preparation
 
-* Katie or Jason provides the final and approved release announcement copy for Amy to give to the marketing team.
+* Katie provides the final and approved release announcement copy for Amy Blais (@amy.blais) to give to the marketing team.
 
 #### G. \(T-minus 0 working days\) Release
 
