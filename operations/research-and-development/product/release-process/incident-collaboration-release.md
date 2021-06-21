@@ -18,6 +18,8 @@ On the first Monday of each month, or the next business day, the Incident Collab
 
  - Critical bugs are flagged and fixed before releasing, with quick dot releases completed as needed.
  - The team uses Incident Collaboration Playbook checklists for releases and for pre-packaging with self-managed.
+    - Playbooks Team: [Plugin Release playbook](https://community.mattermost.com/core/com.mattermost.plugin-incident-management/playbooks/hzgiqpzsbinpujdnue9xa1kj4y) (has limited access)
+    - Playbooks Team: [Feature Swimlane playbook](https://community.mattermost.com/core/com.mattermost.plugin-incident-management/playbooks/1gtdk5q57irzib67w6ocaatimy) (has limited access)
 
 ## Basic release tasks
 
