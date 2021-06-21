@@ -35,19 +35,19 @@ The purpose of BBR is to review the health of the business by reviewing our goal
 #### Pre-work
 
 * Dashboards emailed out Fridays by Amy Nicol, all attendees review and ask questions asynchronously if they have them.
-* By Monday at 12pmPT, key stakeholders add issues, challenges & risk with next actions and asks to the team in the FRM doc.
-* Before the meeting on Tuesday's, all attendees have reviewed doc. 
+* By Monday at 12pm PT, key stakeholders add issues, challenges, and risk with next actions and asks to the team in the FRM doc.
+* Before the meeting on Tuesdays, all attendees have reviewed doc.
 
 #### Process
 
-* **\(0:10\) Review WBR Agenda Doc:** Time for all to read data
-* **\(0:15\) MLT Good News:**  Always start with anyone wanting to share the good news, e.g., customer wins, new release delivered, new web page launched, etc.
-* **\(0:20\) V2MOM Metrics Dashboard Review:** Review Dashboard
+* **\(0:10\) Review WBR Agenda Doc:** Time for all to read data.
+* **\(0:15\) MLT Good News:**  Always start with anyone wanting to share the good news, e.g., customer wins, new release delivered, new webpage launched, etc.
+* **\(0:20\) V2MOM Metrics Dashboard Review:** Review Dashboard.
   * Discuss reds and new goals to create
   * Discuss yellows and paths to green
   * Review key updates to greens
   * Create new action items and assign to owners in Asana 
-* **\(0:25\) 2X2 Business Review:** Review WBR 2x2 document summarizing:  
+* **\(0:25\) 2x2 Business Review:** Review WBR 2x2 document summarizing:  
   * State of the business
     * Key business metrics (ARR, churn, customer count, health score)
     * Big updates from Sales, R&D, Marketing, Finance, etc.
