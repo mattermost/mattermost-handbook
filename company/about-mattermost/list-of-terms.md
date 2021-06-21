@@ -66,6 +66,9 @@ A specific type of [mana](list-of-terms.md#mana) for developers similar to “po
 
 _Directly Responsible Individual_ means a human individual who is accountable for a given Area Of Responsibility. A DRI is a single person, not a group of people. If there is a shift schedule, define each shift as a separate AOR \(e.g. Tier 2 Mobile Support Escalations Weekdays 8am to 5pm Palo Alto time\). If you are unsure who is the DRI, make the AOR more specific until the DRI is clear.
 
+### Edge
+“Edge Release”, a version of Mattermost which indicates the latest unstable release off of the main branch.
+
 ### ESR
 
 “Extended Support Release”, a version of Mattermost maintained for a longer period of time that will receive security fixes.
@@ -91,6 +94,9 @@ A beneficial change to code that is not fixing a bug.
 ### Iteration
 
 Iteration means being able to quickly improve on something by shipping a minimally viable change in how we do things. It's the opposite of the "wait, wait, wait, ship" method we call the [Windows Vista Approach](list-of-terms.md#windows-vista-approach).
+
+### Latest
+“Latest Release”, a version of Mattermost which indicates the latest stable release.
 
 ### LHS
 
