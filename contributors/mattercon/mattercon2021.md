@@ -67,11 +67,11 @@ There are additional troubleshooting steps in the [Mattermost-Focalboard announc
   - If you skip this you will have a generic faceless avatar. You can upload a photo if you don't like your avatar.
 7. Choose body type.
 8. Wait for your avatar.
-9. Click on LOOKS GOOD.
+9. Select LOOKS GOOD.
 10. Enter Spatial (btw we're still on the phone).
 11. In the top right corner, select the Pair Headset guy.
-12. Put on your OQ2 and open your Spatial app, you will see the code to pair your OQ2 with the Spatial app on your phone.
-  - Right Oculus button is your menu button, you will see all the apps you own, friends, settings etc.
+12. Put on your Oculus Quest 2 (OQ2), and open your Spatial app. You'll see the code to pair your OQ2 with the Spatial app on your phone.
+  - The right Oculus button is your menu button. You'll see all the apps you own, your friends, VR settings etc.
 
 Well done, you just paired your OQ2 to the Spatial app!
 
@@ -79,7 +79,7 @@ Next:
 
 1. Put on your OQ2 headset.
 2. Open the Spatial app if it isn't already open.
-3. Click on the Intro to Spatial space.
+3. Select the Intro to Spatial space.
 4. Go through steps 1-5.
 5. Leave the Intro to Spatial space by pressing the menu button on your left hand (small circle grooved-in button).
 6. Leave room.
