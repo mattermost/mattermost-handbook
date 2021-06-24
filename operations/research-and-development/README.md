@@ -81,7 +81,7 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 * Dylan Haussermann - QA
 * Matt Birtch - UX Designer
 
-#### Full Stack 3 (name TBD)
+#### Full Stack 3 (Team Apollo)
 
 * Joram Wilander - Engineering Lead
 * Ashish Bhate - Engineer
