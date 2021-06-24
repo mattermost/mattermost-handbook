@@ -56,6 +56,37 @@ Some of you may have already received your Oculus Quest 2 headsets and some may 
 
 There are additional troubleshooting steps in the [Mattermost-Focalboard announcement](https://github.com/mattermost/focalboard/discussions/349). If this doesn't resolve the problem, let the [Focalboard team](https://community.mattermost.com/core/channels/focalboard) know.
 
+## Setting up Spatial
+
+1. Search for the Spatial app inside your OCULUS MOBILE APP and download/install/start.
+2. Download the Spatial app on your PHONE.
+3. Sign up using your @mattermost.com email.
+  - If you don't have a Mattermost email please use your personal email and DM @hanna.park to be added to the MatterConVR21 Spatial.
+5. Give yourself a name.
+6. Create a 3D avatar by taking a picture with your webcam, uploading a photo, or skip.
+  - If you skip this you will have a generic faceless avatar. You can upload a photo if you don't like your avatar.
+7. Choose body type.
+8. Wait for your avatar.
+9. Click on LOOKS GOOD.
+10. Enter Spatial (btw we're still on the phone).
+11. Top right corner, click on Pair Headset guy.
+12. Put on your OQ2 and open your Spatial app, you will see the code to pair your OQ2 with the Spatial app on your phone.
+  - Right Oculus button is your menu button, you will see all the apps you own, friends, settings etc.
+
+Well done, you just paired your OQ2 to the Spatial app!
+
+Next: 
+
+1. Put on your OQ2 headset.
+2. Open the Spatial app if it isn't already open.
+3. Click on the Intro to Spatial space.
+4. Go through steps 1-5.
+5. Leave the Intro to Spatial space by pressing the menu button on your left hand (small circle grooved-in button).
+6. Leave room.
+7. Slight grab and swipe left and right to find the Mattermost VR Gallery and team rooms!
+  - If you don't see your team room, create one and share the link with @hanna.park.
+8. Go into the Mattermost VR Gallery, look around, say hi to all the focalbirds, take a selfie, leave a sticky, post your pet pics and help decorate our gallery!
+
 ## Community VR tips and tricks
 
 ### Staying charged up
