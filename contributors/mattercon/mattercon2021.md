@@ -69,7 +69,7 @@ There are additional troubleshooting steps in the [Mattermost-Focalboard announc
 8. Wait for your avatar.
 9. Click on LOOKS GOOD.
 10. Enter Spatial (btw we're still on the phone).
-11. Top right corner, click on Pair Headset guy.
+11. In the top right corner, select the Pair Headset guy.
 12. Put on your OQ2 and open your Spatial app, you will see the code to pair your OQ2 with the Spatial app on your phone.
   - Right Oculus button is your menu button, you will see all the apps you own, friends, settings etc.
 
