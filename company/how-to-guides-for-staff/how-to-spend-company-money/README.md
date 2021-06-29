@@ -248,6 +248,8 @@ Team events and meetups should be planned in advance with ample notice and appro
 
 The [Airfare](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#airfare-and-traveling), [Meals and Entertainment](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#meals-and-entertainment), and [Hotel](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#hotel-and-lodging) policies take precedence even in the case of team events or meetups.
 
+Team off sites where travel and overnight stays are required, have a budget of $250 per person per day, which includes lodging, meals and meeting spaces. It does not include travel costs or external partner and customer dinners.
+
 ### Team celebrations
 
 There will be times to celebrate with staff members, and we want you to. Please be sure to obtain approval from your department head by following the [Manager Approval](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#manager-approval) process.
