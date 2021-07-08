@@ -248,6 +248,8 @@ Team events and meetups should be planned in advance with ample notice and appro
 
 The [Airfare](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#airfare-and-traveling), [Meals and Entertainment](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#meals-and-entertainment), and [Hotel](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#hotel-and-lodging) policies take precedence even in the case of team events or meetups.
 
+For team off sites, where travel and overnight stays are necessary, we encourage staff to use their best judgment. Historically, the average cost is $250 USD per person per day which includes meals, lodging, and meeting spaces. Travel costs like airfare, ride shares, or external partner and customer dinners are considered an additional expenditure and should seek [manager approval](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money#manager-approval) first. 
+
 ### Team celebrations
 
 There will be times to celebrate with staff members, and we want you to. Please be sure to obtain approval from your department head by following the [Manager Approval](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#manager-approval) process.
