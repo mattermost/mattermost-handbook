@@ -14,7 +14,7 @@ Below are the primary and seconday KPIs used to measure each:
 
 ### Average Production Workspace Cost
 
- - **Description**: The fraction which compares the amount of Production Environment costs with the number of workspaces which at a given month of the Cloud Infrastructure service.
+ - **Description**: The fraction which compares the amount of Production Environment costs with the number of workspaces which at a given month of the Cloud Infrastructure service. Production Environment will be defined as the environment where we host all our customers, including paid and free workspaces.
  - **Formula**: APWC = Production Environment Costs/Number of Workspaces  
 
 ### Average Production Freemium Cost
@@ -25,7 +25,7 @@ Note: Until February 2021 we measure all workspaces as active since we introduce
 
 ### Average Subscription Workspace Cost
 
- - **Description**: The fraction which compares the amount of Production Environment costs with the number of workspaces that have 11 or more users which at a given month the Cloud Infrastructure service.
+ - **Description**: The fraction which compares the amount of Production Environment costs with the number of workspaces that have 11 or more users which at a given month the Cloud Infrastructure service. A paid workspace is defined as successful receipt of payment for the time period (e.g. payment for the previous month completed, when measuring ASWC for the previous month).
  - **Formula**: ASWC = Production Environment Costs/ Paid Workspaces
 
 ### Development Metric
@@ -43,7 +43,7 @@ Note: Until February 2021 we measure all workspaces as active since we introduce
 ### Workspaces Balance Metric
 
  - **Description**: The fraction which compares the paid workspaces  with the total  number of workspaces which at a given month the Cloud Infrastructure service.
- - **Formula**: WBM  = Paid Workspaces/Total Workspaces
+ - **Formula**: WB = Paid Workspaces/Total Workspaces
 
 ### Secondary Average Production Workspace Cost 
 
