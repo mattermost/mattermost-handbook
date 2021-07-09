@@ -31,7 +31,7 @@ Note: Until February 2021 we measure all workspaces as active since we introduce
 ### Development Metric
 
  - **Description**: The fraction which compares the amount we spend on environments related to our features testing with the total cloud infrastructure costs.
- - **Formula**: DM = (Test Environment Costs +Dev Environment Costs)/Total AWS Cloud Costs
+ - **Formula**: DM = (Test Environment Costs + Dev Environment Costs)/Total AWS Cloud Costs
 
 ### Customers Platform Balance Metric
 
