@@ -48,7 +48,7 @@ Below are the primary and secondary KPIs used to measure each.
 ### Secondary Average Production Workspace Cost 
 
  - **Description**: The fraction which compares the amount of Production Environment and Core Environment costs with the number of workspaces which at a given month of the Cloud Infrastructure service.
- - **Formula**: SAPWC  = (Production Environment Costs +Core Environment Costs)/Workspaces
+ - **Formula**: SAPWC  = (Production Environment Costs + Core Environment Costs)/Workspaces
 
 ### Secondary Average Subscription Workspace Cost
 
