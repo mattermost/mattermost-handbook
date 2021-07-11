@@ -14,7 +14,7 @@ Below are the primary and secondary KPIs used to measure each.
 
 ### Average Production Workspace Cost
 
- - **Description**: The fraction which compares the amount of Production Environment costs with the number of workspaces which at a given month of the Cloud Infrastructure service. Production Environment will be defined as the environment where we host all our customers, including paid and free workspaces.
+ - **Description**: The fraction which compares the amount of Production Environment costs with the number of workspaces which are active in a given month of the Cloud Infrastructure service. Production Environment will be defined as the environment where we host all our customers, including paid and free workspaces.
  - **Formula**: APWC = Production Environment Costs/Number of Workspaces  
 
 ### Average Production Freemium Cost
@@ -71,5 +71,4 @@ Note: Until February 2021 we measure all workspaces as active since we introduce
  - **Formula**: ATPFC = Production Environment Costs/Freemium Workspaces (Active and Inactive)
 
 Note: Until February 2021 we measure all workspaces as active since we introduced hibernation functionality the last 3 days of February.
-
 
