@@ -42,7 +42,7 @@ Below are the primary and secondary KPIs used to measure each.
 
 ### Workspaces Balance Metric
 
- - **Description**: The fraction which compares the paid workspaces  with the total  number of workspaces which at a given month the Cloud Infrastructure service.
+ - **Description**: The fraction which compares the paid workspaces with the total number of workspaces which at a given month the Cloud Infrastructure service.
  - **Formula**: WB = Paid Workspaces/Total Workspaces
 
 ### Secondary Average Production Workspace Cost 
