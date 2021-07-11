@@ -21,7 +21,7 @@ Below are the primary and secondary KPIs used to measure each.
 
  - **Description**: An approximation of what free workspaces cost us. The fraction compares the amount of Production Environment costs with the number of active free workspaces.
  - **Formula**: APFC = Production Environment Costs/Freemium Active Workspaces
-Note: Until February 2021 we measure all workspaces as active since we introduced hibernation functionality the last 3 days of February
+**Note:** Until February 2021 we measured all workspaces as active. Hibernation functionality was introduced in the last three days of February 2021.
 
 ### Average Subscription Workspace Cost
 
