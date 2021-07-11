@@ -2,7 +2,7 @@
 
 The Cloud SRE team uses certain KPIs to monitor cloud infrastructure costs from the engineering standpoint. These KPIs are used to help the business and the Cloud SRE team to set goals for cost optimization.
 
-As of July 2021, the goals for the SRE team are to
+As of July 2021, the goals for the SRE team are to:
 
  - Decrease the Average Cost Per Workspace (APWC)
  - Keep development and test environments costs (DM) below 20% of total costs
@@ -71,7 +71,6 @@ Note: Until February 2021 we measure all workspaces as active since we introduce
  - **Formula**: ATPFC = Production Environment Costs/Freemium Workspaces (Active and Inactive)
 
 Note: Until February 2021 we measure all workspaces as active since we introduced hibernation functionality the last 3 days of February.
-
 
 
 
