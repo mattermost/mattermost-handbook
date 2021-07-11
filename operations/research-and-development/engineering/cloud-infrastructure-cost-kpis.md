@@ -70,4 +70,4 @@ Below are the primary and secondary KPIs used to measure each.
  - **Description**: Roughly is how much free workspaces cost to us. The fraction which compares the amount of Production Environment costs with the number of all free workspaces (active and inactive).
  - **Formula**: ATPFC = Production Environment Costs/Freemium Workspaces (Active and Inactive)
 
-Note: Until February 2021 we measure all workspaces as active since we introduced hibernation functionality the last 3 days of February.
+**Note:** Until February 2021 we measured all workspaces as active. Hibernation functionality was introduced in the last three days of February 2021.
