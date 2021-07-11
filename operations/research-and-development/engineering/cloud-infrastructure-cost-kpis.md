@@ -57,7 +57,7 @@ Below are the primary and secondary KPIs used to measure each.
 
 ### Active Average Production Workspace Cost 
 
- - **Description**: The fraction which compares the amount of Production Environment costs with the number of active workspaces which at a given month of the Cloud Infrastructure service.
+ - **Description**: The fraction which compares the amount of Production Environment costs with the number of active workspaces within a given month of the Cloud Infrastructure service.
  - **Formula**: AAPWC = Production Environment Costs/Active Workspaces
 
 ### Secondary Active Average Subscription Workspace Cost 
