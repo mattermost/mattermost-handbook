@@ -35,7 +35,7 @@ Below are the primary and secondary KPIs used to measure each.
 
 ### Customers Platform Balance Metric
 
- - **Description**: The fraction which compares the variable costs we have because we run the cloud Product with the costs that are directly correlated with customers usage (both paid and freemium)
+ - **Description**: The fraction which compares the variable costs we have because we run the Cloud product with the costs that are directly correlated with customers' usage (both paid and freemium).
  - **Formula**: CPBM = Customer Specific Costs/Variable Platform Costs
 
 ## Secondary KPIs
