@@ -8,7 +8,7 @@ As of July 2021, the goals for the SRE team are to:
  - Keep development and test environments costs (DM) below 20% of total costs
  - Increase the WB fraction (ratio of paid workspaces relative to total workspaces)
 
-Below are the primary and seconday KPIs used to measure each:
+Below are the primary and secondary KPIs used to measure each.
 
 ## Primary KPIs
 
@@ -71,6 +71,5 @@ Note: Until February 2021 we measure all workspaces as active since we introduce
  - **Formula**: ATPFC = Production Environment Costs/Freemium Workspaces (Active and Inactive)
 
 Note: Until February 2021 we measure all workspaces as active since we introduced hibernation functionality the last 3 days of February.
-
 
 
