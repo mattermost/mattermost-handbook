@@ -38,7 +38,7 @@ COM is short for [Customer Obsession Meeting](https://docs.mattermost.com/proces
 
 Because the term "country" may be either controversial or incorrect when describing a geographic area governed by a state-like political entity we use the term "country/region" to avoid any accidental or implied judgement on the independence of a region. If the term "country" appears to be incorrectly used, when "country/region" is more appropriate, please contact info@mattermost.com.
 
-### CRT
+### Collapsed Reply Threads
 The "Collapsed Reply Thread" is a feature to hide replies to a parent message in Mattermost.
 
 ### Customer
