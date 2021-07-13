@@ -38,6 +38,9 @@ COM is short for [Customer Obsession Meeting](https://docs.mattermost.com/proces
 
 Because the term "country" may be either controversial or incorrect when describing a geographic area governed by a state-like political entity we use the term "country/region" to avoid any accidental or implied judgement on the independence of a region. If the term "country" appears to be incorrectly used, when "country/region" is more appropriate, please contact info@mattermost.com.
 
+### CRT
+The "Collapsed Reply Thread" is a feature to hide replies to a parent message in Mattermost.
+
 ### Customer
 
 The primary external audience we are focused on for an initiative, which could be an end user without budget \(if our goal is adoption and engagement\) or a buyer \(if our objective for the initiative is revenue\). A customer does not include internal staff, since staff are not external.
