@@ -22,3 +22,6 @@ redirects:
    contributors/mattercon: /contributors/join-us/recruiting#working-and-meeting-across-the-globe.md
    operations/messaging-and-math/developer-relations: /operations/research-and-development/product/developer-relations.md
    contributors/join-us/mattercon/mattermost-code-of-conduct: ./contributors/mattercon/mattermost-code-of-conduct.md
+   operations/it: /operations/workplace/it
+   operations/it/helpdesk: operations/workplace/it/helpdesk
+   operations/it/hardware-buy-back-policy: operations/workplace/it/hardware-buy-back-policy
