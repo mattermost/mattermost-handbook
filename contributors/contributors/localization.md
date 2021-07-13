@@ -113,22 +113,23 @@ If you're interested in contributing to the process, please join the [Mattermost
 | Language | Official Reviewer(s) | Maintainers  |  
 |:----------|:----------------------|:--------------|
 | Deutsch - German | TBD (Open Role) |
-| Español - Spanish| [Elias Nahum (enahum)](https://github.com/enahum)| [Jesús Espino](https://github.com/jespino) |
-| Français - French| [William Gathoye (wget)](https://github.com/wget) |              |
-| Magyar - Hungarian| [Zsolt Godó (@sakaitsu)](https://translate.mattermost.com/user/sakaitsu)| [Csaba Tóth (tsabi)](https://translate.mattermost.com/user/tsabi) |
+| English - Australian | [Matthew Williams (matthew.williams)](https://translate.mattermost.com/user/matthew-w/) |
+| Español - Spanish | [Elias Nahum (enahum)](https://github.com/enahum) | [Jesús Espino (jespino)](https://github.com/jespino) |
+| Français - French | [William Gathoye (wget)](https://github.com/wget) | |
+| Magyar - Hungarian | [Zsolt Godó (sakaitsu)](https://translate.mattermost.com/user/sakaitsu) | [Csaba Tóth (tsabi)](https://translate.mattermost.com/user/tsabi) |
 | Italiano - Italian | [Michael Longo (mlongo4290)](https://github.com/mlongo4290) | [Ema Panz (thepanz)](https://github.com/thepanz)|
-| 日本語 - Japanese | [Yusuke Nemoto (kaakaa)](https://github.com/kaakaa) |
-| 한국어 - Korean|TBD (Open Role)| |
-| Nederlands - Dutch| [Tom De Moor](https://github.com/ctlaltdieliet)| |
-| Polski - Poland| [Daniel Burzmiński (hectorskypl)](https://github.com/hectorskypl)| [Tomasz Gruca (gruceqq)](https://translate.mattermost.com/user/gruceqq) |
-| Português do Brasil - Portuguese|[Rodrigo Corsi (rodcorsi)](https://github.com/rodcorsi)| [Carlos Tadeu Panato Junior (cpanato)](https://github.com/cpanato) |
-| Română - Romanian| TBD (Open Role) ||
-| Svenska - Swedish| [Martin Johnson](https://github.com/johnsonbrothers)|  | |
-| Türkçe - Turkish| [Kaya Zeren](https://twitter.com/kaya_zeren)| | |
-| Pусский - Russian| [Alexey Napalkov](https://github.com/flynbit) | |
-| Yкраїнська - Ukrainian| TBD (Open Role)| | 
-| 中文 (简体) - Simplified Chinese| [aeomin](http://translate.mattermost.com/user/aeomin)||
-| 中文 (繁體) - Traditional Chinese| [Tze-Kei Lee (chikei)](https://github.com/chikei)| |
+| 日本語 - Japanese | [Yusuke Nemoto (kaakaa)](https://github.com/kaakaa) | |
+| 한국어 - Korean | TBD (Open Role) | |
+| Nederlands - Dutch | [Tom De Moor (ctlaltdieliet)](https://github.com/ctlaltdieliet) | |
+| Polski - Poland | [Daniel Burzmiński (hectorskypl)](https://github.com/hectorskypl) | [Tomasz Gruca (gruceqq)](https://translate.mattermost.com/user/gruceqq) |
+| Português do Brasil - Portuguese | [Rodrigo Corsi (rodcorsi)](https://github.com/rodcorsi) | [Carlos Tadeu Panato Junior (cpanato)](https://github.com/cpanato) |
+| Română - Romanian | [Nikolai Zahariev (nikolaiz)](translate.mattermost.com/user/nikolaiz) | |
+| Svenska - Swedish | [Martin Johnson (johnsonbrothers)](https://github.com/johnsonbrothers) | |
+| Türkçe - Turkish | [Kaya Zeren (kaya_zeren)](https://twitter.com/kaya_zeren) | | 
+| Pусский - Russian | [Alexey Napalkov (flynbit)](https://github.com/flynbit) | |
+| Yкраїнська - Ukrainian | TBD (Open Role) | | 
+| 中文 (简体) - Simplified Chinese | [aeomin (aeomin)](http://translate.mattermost.com/user/aeomin) | |
+| 中文 (繁體) - Traditional Chinese | [Tze-Kei Lee (chikei)](https://github.com/chikei) | |
 
 ## Administrative Tasks
 
@@ -138,12 +139,12 @@ To grant trusted translators additional permissions as Weblate admin, add the us
 2. Go to **Users > Django Admin Interface**.
 3. Select the user you want to grant permissions to.
 4. Go to **Groups**.
-5. Add the user to `mattermost@TrustedReviewers` group.
-6. Hit **Save**.
+5. Add the user to the `mattermost@TrustedReviewers` group.
+6. Select **Save**.
 
 To add a new language:
 
 1. Go to [https://translate.mattermost.com/projects/i18n-wip](https://translate.mattermost.com/projects/i18n-wip).
-2. Click any of the components on the resulting page, then select **Tools > Start new translation**. 
-3. Select the languages you want to add, then click **Start new translation**.
+2. Select any of the components on the resulting page, then select **Tools > Start new translation**. 
+3. Select the languages you want to add, then **Start new translation**.
 4. Repeat step 2 for every component in [https://translate.mattermost.com/projects/i18n-wip](https://translate.mattermost.com/projects/i18n-wip).
