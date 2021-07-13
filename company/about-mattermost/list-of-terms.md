@@ -39,7 +39,7 @@ COM is short for [Customer Obsession Meeting](https://docs.mattermost.com/proces
 Because the term "country" may be either controversial or incorrect when describing a geographic area governed by a state-like political entity we use the term "country/region" to avoid any accidental or implied judgement on the independence of a region. If the term "country" appears to be incorrectly used, when "country/region" is more appropriate, please contact info@mattermost.com.
 
 ### Collapsed Reply Threads (CRT)
-Collapsed Reply Threads (CRT) (Beta) is a Mattermost Messaging feature offering an enhanced experience for users communicating in threads and replying to messages. When enabled, Collapsed Reply Threads improve users’ ability to process channel content, find, follow, and resume conversations more easily, and keep threaded conversations focused. See our [Organizing Conversations using Collapsed Reply Threads (Beta)](https://docs.mattermost.com/help/messaging/organizing-conversations.html) product documentation for details. 
+Collapsed Reply Threads (CRT) is a Mattermost Messaging feature available in beta offering an enhanced experience for users communicating in threads and replying to messages. When enabled, Collapsed Reply Threads improve users’ ability to process channel content, find, follow, and resume conversations more easily, and keep threaded conversations focused. See our [Organizing Conversations using Collapsed Reply Threads (Beta)](https://docs.mattermost.com/help/messaging/organizing-conversations.html) product documentation for details. 
 
 ### Customer
 
