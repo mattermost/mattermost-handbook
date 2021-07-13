@@ -8,6 +8,7 @@ Email:
 * security@mattermost.com (General Inquiry)
 * security-alerting@mattermost.com (Incident Reporting / Alerting)
 * privacy@mattermost.com (Privacy related requests (e.g. GDPR, CCPA))
+* responsibledisclosure@mattermost.com (Responsible Disclosure)
 
 ## Team
 
@@ -16,9 +17,9 @@ Email:
 ### Product Security
 
 * Juho Nurminen, Staff Product Security Engineer
-* Rohitesh Gupta, Product Security Engineer
+* Rohitesh Gupta, Product Security Engineer II
   
 ### Security Operations
 
 * Paul Harrison, Staff Security Engineer
-* Corey Robinson, Security Engineer
+* Corey Robinson, Security Engineer II
