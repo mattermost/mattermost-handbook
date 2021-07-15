@@ -59,7 +59,7 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 
 #### Technical Writer
 
-* Carrie Warner - Senior Technical Writer
+* Carrie Warner - Technical Writer
 
 #### Full Stack 1 (name TBD)
 
@@ -110,7 +110,6 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 * Alejandro García Montoro - Engineer
 * Caleb Roseland - Engineer
 * Shota Gvinepadze - Engineer
-* Prapti Shrestha - QA SDET
 * Ian Tao - Product Manager
 * Abhijit Singh - UX Designer
 * Justine Geffen - Technical Writer
@@ -124,7 +123,8 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 * Hossein Ahmadian - Engineer
 * Harshil Sharma - Engineer
 * Ogi Marusic - QA
-* Chen-I Lim - Product Manager
+* Chen Lim - Product Manager
+* Asaad Mahmood - UX Designer
 * Michael Gamble - UX Designer
 * Justine Geffen - Technical Writer
 
@@ -141,7 +141,6 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 * Pablo Vélez Vidal - Engineer
 * Nick Misasi - Engineer
 * Steve Mudie - QA
-* Najla Dadmand - Product Manager
 * Anneliese Klein - UX Designer
 * Justine Geffen - Technical Writer
 * Eric Nelson - Analytics
