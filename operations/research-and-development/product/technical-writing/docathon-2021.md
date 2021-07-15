@@ -1,6 +1,6 @@
 # Documentation Hackathon 2021
 
-The first Mattermost Docathon is being held from July 26th to August 6th 2021.
+The first Mattermost Docathon is being held from July 26th to August 6th 2021. Take a look at our [blog post](https://mattermost.com/blog/docathon-2021/) if you haven't already.
 
 ## What is a Docathon?
 
