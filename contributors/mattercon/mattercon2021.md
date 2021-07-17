@@ -22,13 +22,13 @@ A Community Buddy is an internal staff member who's paired up with a member of o
 
 You'll be expected to reach out to them via Mattermost to let them know that you're their buddy, and that you'll be available throughout the event in case they have any questions, comments, etc. If you're not the right person to answer their questions, it will be your responsibility to reach out to the correct person, and make sure they connect back with your buddy. We'll also expect you to engage with them throughout the event (via Mattermost) periodically, so that they feel as welcomed and included as possible.
 
+## MatterCon2021 Thinkathon
+
+The theme for this year's MatterCon is *New Ideas*. Visit the Community team's post about the [Thinkathon](https://github.com/mattermost/community/discussions/5) to share your ideas - no matter how outlandish they may seem!
+
 ## Getting ready for Mattercon2021
 
-### When will I receive my Oculus Quest 2?
-
-Some of you may have already received your Oculus Quest 2 headsets and some may still have to wait a bit but everyone should have their Oculus Quest 2 headsets in a couple of weeks to the address and phone number on your BambooHR profile. Please make sure your BambooHR profile is up-to-date!
-
-### Did you receive your Oculus Quest 2?
+### Setting up the Oculus Quest 2
 
 1. Log in using your Facebook account. If you don't have one or don't want to use your personal Facebook account, feel free to create a Facebook account using your @mattermost.com email.
 2. Download the Oculus app on your phone/mobile device.
