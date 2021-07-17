@@ -311,6 +311,58 @@ The following example is a block of Go code.
 
 The majority of Mattermost technical documentation is written in `.rst`. However, there are some instances where Markdown is used, for example the Mattermost Handbook. You can read more about using Markdown in the [Formatting Text](https://docs.mattermost.com/help/messaging/formatting-text.html) section of the User's Guide.
 
+## In-product copy
+
+The Technical Writers often work with the UI/UX team on in-product copy. The majority of guidelines are available in the [Mattermost Compass Design System](https://zeroheight.com/29be2c109/p/995619-compass-design-system). Here are some additional things to take note of:
+ 
+### CTAs
+
+#### Self-managed renew license Customer Portal details page
+
+"Complete purchase"
+
+#### Self-managed renewal license Customer Portal confirmation
+
+"Renew now"
+"Download license"
+"Complete purchase"
+
+#### Self-managed renewal license email
+
+"Renew now"
+
+#### Self-managed start trial license page
+
+"Start trial"
+"Purchase a license" "Contact sales"
+"Choose file"
+
+#### Self-managed feature page
+
+"Start trial"
+"Not right now"  "Yes, start now"
+"Purchase a license"
+ 
+#### Self-managed feature page after trial ended
+
+"Purchase a license" "Learn more"
+
+#### Cloud trial
+
+Customer Portal: "Subscribe now"
+System Console: "Subscribe now"
+Questions: "Contact sales"
+Purchase completed: "Subscribe"
+System Console: "Upgrade now"
+ 
+IC DM: "Start 30-day trial" "Learn more"
+
+#### Cloud purchase subscription
+
+"Subscribe"
+ 
+#### Cloud upgrade
+
 ## Editing the Mattermost User Guide
 
 These are some additional tips for writing [Mattermost documentation for end users](https://docs.mattermost.com/guides/user.html).
