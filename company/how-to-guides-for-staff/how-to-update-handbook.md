@@ -110,6 +110,7 @@ Below is a list of approved reviewers.
 5. @TQuock: Signs off on changes to [finance](https://handbook.mattermost.com/operations/finance).
 6. @natalie-hub: Signs off on changes to [workplace](https://handbook.mattermost.com/operations/workplace).
 7. @it33: Signs off on changes to signing authority \([example](https://github.com/mattermost/mattermost-handbook/pull/60)\).
+8. @dschalla: Signs off on changes to [Security](https://handbook.mattermost.com/operations/security).
 
 Each PR should be reviewed by at least one approved reviewer. A build check requiring at least one approved review prior to a merge is planned, similar to other Mattermost repositories.
 
