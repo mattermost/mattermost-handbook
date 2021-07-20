@@ -147,8 +147,11 @@ Below is the list of core committers working on Mattermost:
 - **<a name="collin.eng">Collin Eng</a>**
     - @collin.eng on [community.mattermost.com](https://community.mattermost.com/core/messages/@collin.eng) and [@engineereng](https://github.com/engineereng) on GitHub
     - Dev areas: TBD
-- **<a name="alla.guwattudde">Allan Guwattudde</a>**
+- **<a name="allan.guwatudde">Allan Guwatudde</a>**
     - @allan.guwatudde on [community.mattermost.com](https://community.mattermost.com/core/messages/@allan.guwatudde) and [@agmeteor](https://github.com/agmeteor) on GitHub
+    - Dev areas: Customer Portal, Growth Engineering 
+- **<a name="nathaniel.allred">Nathaniel Allred</a>**
+    - @nathaniel.allred on [community.mattermost.com](https://community.mattermost.com/core/messages/@nathaniel.allred) and [@neallred](https://github.com/neallred) on GitHub
     - Dev areas: Customer Portal, Growth Engineering 
 - **<a name="nick.misasi">Nick Misasi</a>**
     - @nick.misasi on [community.mattermost.com](https://community.mattermost.com/core/messages/@nick.misasi) and [@nickmisasi](https://github.com/nickmisasi) on GitHub
@@ -156,9 +159,7 @@ Below is the list of core committers working on Mattermost:
 - **<a name="pablo.velez">Pablo Velez</a>**
     - @pablo.velez on [community.mattermost.com](https://community.mattermost.com/core/messages/@pablo.velez) and [@pablovelezvidal](https://github.com/pablovelezvidal) on GitHub
     - Dev areas: Customer Portal, Growth Engineering 
-- **<a name="nathaniel.allred">Nathaniel Allred</a>**
-    - @nathaniel.allred on [community.mattermost.com](https://community.mattermost.com/core/messages/@nathaniel.allred) and [@neallred](https://github.com/neallred) on GitHub
-    - Dev areas: Customer Portal, Growth Engineering 
+
    
 # Core Developers
 
