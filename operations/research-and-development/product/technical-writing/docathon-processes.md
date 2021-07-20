@@ -15,7 +15,7 @@ You can submit contributions in one or more of the following ways:
 
 1. Open a PR directly from a doc page using the GitHub **Edit** option in the top-right corner of the page.
 2. Visit the docs repo, find the page you want to edit, and open a PR that way.
-3. Create new content! You may not be able to create a branch for your new content but feel free to create a Google doc and share it with us. We'll work with you on finding the perfect place for it.
+3. Create new content! You may not be able to create a branch for your new content, but feel free to create a Google doc and share it with us. We'll work with you on finding the perfect place for it.
 
 ## Reviews and editing 
 
