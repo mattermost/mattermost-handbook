@@ -61,16 +61,15 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 
 * Carrie Warner - Technical Writer
 
-#### Full Stack 1 (Team Ursa)
+#### Team Ursa (Full Stack team 1)
 
-* Catalin Tomai - Engineering Lead
-* Martin Kraft - Engineer
+* Martin Kraft - Engineering Lead
 * Claudio Costa - Engineer
 * Shaz Amjad - Engineer
 * Benjamin Cooke - Engineer
 * Furqan Malik - SDET
 
-#### Full Stack 2 (Team Interstellar)
+#### Team Interstellar (Full Stack team 2)
 
 * Catalin Tomai - Engineering Lead
 * Lev Brouk - Engineer
@@ -81,7 +80,7 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 * Dylan Haussermann - QA
 * Matt Birtch - UX Designer
 
-#### Full Stack 3 (Team Apollo)
+#### Team Apollo (Full Stack team 3)
 
 * Joram Wilander - Engineering Lead
 * Ashish Bhate - Engineer
