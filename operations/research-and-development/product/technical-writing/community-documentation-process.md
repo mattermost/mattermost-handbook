@@ -4,7 +4,7 @@ In the past, community-managed documentation lived in the product documentation.
 
 Additionally, having the content hosted on a static site didn't lend itself to engagement and interaction.
 
-Going forward, our existing community-written documentation will be posted in the dedicated forum category.
+Going forward, our existing community-written documentation will be available on the [Mattermost Forum](https://forum.mattermost.org/) within a dedicated forum category called **Unofficial Product Documentation**.
 
 ## Process for new community-written content
 
