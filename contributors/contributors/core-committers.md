@@ -77,7 +77,7 @@ Below is the list of core committers working on Mattermost:
     - Dev areas: Extensions
 - **<a name="maria.nunez">Maria Nuñez</a>**
     - @maria.nunez on [community.mattermost.com](https://community.mattermost.com/core/messages/@maria.nunez) and [@marianunez](https://github.com/marianunez) on GitHub
-    - Dev areas: Custormer Portal, Growth Engineering
+    - Dev areas: Customer Portal, Growth Engineering
 - **<a name="devin.binnie">Devin Binnie</a>**
     - @devin.binnie on [community.mattermost.com](https://community.mattermost.com/core/messages/@devin.binnie) and [@devinbinnie](https://github.com/devinbinnie) on GitHub
     - Dev areas: Desktop/Web and Mobile apps
