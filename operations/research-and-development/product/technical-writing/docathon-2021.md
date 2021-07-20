@@ -2,7 +2,7 @@
 
 The first Mattermost Docathon is being held from July 26th to August 6th 2021. Take a look at our [blog post](https://mattermost.com/blog/docathon-2021/) if you haven't already.
 
-## What is a Docathon?
+## What's a Docathon?
 
 A docathon is a hackathon for product documentation. 
 
@@ -22,3 +22,7 @@ Absolutely! Here are some ways you can get involved:
 * **Help review technical content for accuracy:** Actively monitor the [~Docathon 2021](https://community-daily.mattermost.com/core/channels/docathon2021) channel, respond to questions, and engage community members who post with questions or concerns. You can also help by being open to contributors messaging you directly if they have questions and prefer not to ask in the public channel, and relay any feedback back to the Technical Writing team.
 * **Help us with Linked In recommendations or endorsements for top contributors:** This is particularly welcome in cases where, during PR reviews, you encounter Docathon contributors you want to network with and whose professional career you want to support.
 * **Contribute your own content or ideas for either Mattermost product documentation, or the Docathon event itself!**
+
+## What's a "valid" contribution?
+
+A valid contribution is one that isn't done just for the sake of submitting a PR, but that fixes an error, improves, or adds value to our documentation. While there are no penalties for submitting invalid Docathon PRs, if you're not sure how to contribute rather come and ask us - we're more than happy to help get you started.
