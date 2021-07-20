@@ -80,6 +80,8 @@
       * [Product Management Areas of Ownership](operations/research-and-development/product/product-ownership-areas.md) 
       * [Product Manager Onboarding](operations/research-and-development/product/pm-onboarding.md)
     * [Technical Writing Team Handbook](operations/research-and-development/product/product-technical-writing-team-handbook.md)
+      * [Docathon 2021](operations/research-and-development/product/technical-writing/docathon-2021.md)
+        * [Getting Started with Contributing](operations/research-and-development/product/technical-writing/docathon-processes.md)
     * [Analytics](operations/research-and-development/product/analytics/README.md)
       * [Looker](operations/research-and-development/product/analytics/looker/README.md)
         * [Dashboards](operations/research-and-development/product/analytics/looker/dashboards.md)
