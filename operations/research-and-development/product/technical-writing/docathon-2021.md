@@ -8,7 +8,7 @@ A docathon is a hackathon for product documentation.
 
 ## Why a Docathon? 
 
-Documentation isn't written in a vacuum and it's important to see the customer’s documentation journey through the eyes of our Mattermost community. The best way to do that is to get our community involved! Documentation is also often a great way to get started on your open source contribution journey as it's usually how you get to know the product.
+Documentation isn't written in a vacuum, and it's important to see the customer’s documentation journey through the eyes of our Mattermost community. The best way to do that is to get our community involved! Documentation is also a great way to get started on your open source contribution journey as it's usually how you get to know the product.
 
 ## Who can participate?
 
