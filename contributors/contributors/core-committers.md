@@ -77,7 +77,7 @@ Below is the list of core committers working on Mattermost:
     - Dev areas: Extensions
 - **<a name="maria.nunez">Maria Nuñez</a>**
     - @maria.nunez on [community.mattermost.com](https://community.mattermost.com/core/messages/@maria.nunez) and [@marianunez](https://github.com/marianunez) on GitHub
-    - Dev areas: Toolkit, Plugins, Web App
+    - Dev areas: Customer Portal, Growth Engineering
 - **<a name="devin.binnie">Devin Binnie</a>**
     - @devin.binnie on [community.mattermost.com](https://community.mattermost.com/core/messages/@devin.binnie) and [@devinbinnie](https://github.com/devinbinnie) on GitHub
     - Dev areas: Desktop/Web and Mobile apps
@@ -102,9 +102,6 @@ Below is the list of core committers working on Mattermost:
 - **<a name="ian.whitlock">Ian Whitlock</a>**
      - @ian.whitlock on [community.mattermost.com](https://community.mattermost.com/core/messages/@ian.whitlock) and [@gigawhitlocks](https://github.com/gigawhitlocks) on GitHub
     - Dev areas: Cloud
-- **<a name="mario.de.frutos">Mario de Frutos</a>**
-    - @mario.de.frutos on [community.mattermost.com](https://community.mattermost.com/core/messages/@mario.de.frutos) and [@ethervoid](https://github.com/ethervoid) on GitHub
-    - Dev areas: Server, Load Tests
 - **<a name="agniva.de.sarker">Agniva De Sarker</a>**
     - @agniva.de.sarker on [community.mattermost.com](https://community.mattermost.com/core/messages/@agniva.de.sarker) and [@agnivade](https://github.com/agnivade) on GitHub
     - Dev areas: Performance, Load Tests, Go internals
@@ -150,7 +147,19 @@ Below is the list of core committers working on Mattermost:
 - **<a name="collin.eng">Collin Eng</a>**
     - @collin.eng on [community.mattermost.com](https://community.mattermost.com/core/messages/@collin.eng) and [@engineereng](https://github.com/engineereng) on GitHub
     - Dev areas: TBD
-
+- **<a name="allan.guwatudde">Allan Guwatudde</a>**
+    - @allan.guwatudde on [community.mattermost.com](https://community.mattermost.com/core/messages/@allan.guwatudde) and [@agmeteor](https://github.com/agmeteor) on GitHub
+    - Dev areas: Customer Portal, Growth Engineering 
+- **<a name="nathaniel.allred">Nathaniel Allred</a>**
+    - @nathaniel.allred on [community.mattermost.com](https://community.mattermost.com/core/messages/@nathaniel.allred) and [@neallred](https://github.com/neallred) on GitHub
+    - Dev areas: Customer Portal, Growth Engineering 
+- **<a name="nick.misasi">Nick Misasi</a>**
+    - @nick.misasi on [community.mattermost.com](https://community.mattermost.com/core/messages/@nick.misasi) and [@nickmisasi](https://github.com/nickmisasi) on GitHub
+    - Dev areas: Customer Portal, Growth Engineering 
+- **<a name="pablo.velez">Pablo Velez</a>**
+    - @pablo.velez on [community.mattermost.com](https://community.mattermost.com/core/messages/@pablo.velez) and [@pablovelezvidal](https://github.com/pablovelezvidal) on GitHub
+    - Dev areas: Customer Portal, Growth Engineering 
+   
 # Core Developers
 
 Below is the list of core developers working on individual Mattermost repositories:
@@ -187,8 +196,6 @@ The core team's Product Managers design, plan, prioritize, and coordinate featur
     - @aaron.rothschild on [community.mattermost.com](https://community.mattermost.com/core/messages/@aaron.rothschild) and [@aaronrothschild](https://github.com/aaronrothschild) on GitHub
 - **<a name="ian.tao">Ian Tao</a>**
     - @tao on [community.mattermost.com](https://community.mattermost.com/core/messages/@tao) and [@itao](https://github.com/itao) on GitHub
-- **<a name="najla.dadmand">Najla Dadmand</a>**
-    - @najla.dadmand on [community.mattermost.com](https://community.mattermost.com/core/messages/@najla.dadmand) and [@ndadmand21](https://github.com/ndadmand21) on GitHub
 
 # Product Designers
 
