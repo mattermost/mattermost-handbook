@@ -19,4 +19,4 @@ You can submit contributions in one or more of the following ways:
 
 ## Reviews and editing 
 
-We don't expect perfection so please don't spend a lot of time trying to follow the style guide rigorously. That's our job! Bear in mind that we may edit your PR directly, for stylistic changes. The only reason we do this is because it's quicker - if you have any questions about changes we've made, we'll be more than happy to go through them.
+We don't expect perfection, so please don't spend a lot of time trying to follow the style guide rigorously. That's our job! Bear in mind that we may edit your PR directly for stylistic changes. The only reason we do this is because it's quicker - if you have any questions about changes we've made, we'll be more than happy to go through them with you!
