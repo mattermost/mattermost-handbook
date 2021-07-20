@@ -2,7 +2,7 @@
 
 In the past, community-managed documentation lived in the product documentation. In some cases, this created some confusion as although the content was in our product documentation it wasn't written and tested by Mattermost and thus not officially supported.
 
-Additionally, although the content may still need testing and we encourage feedback, having it hosted in a static site didn't lend itself to engagement and interaction.
+Additionally, having the content hosted on a static site didn't lend itself to engagement and interaction.
 
 Going forward, our existing community-written documentation will be posted in the dedicated forum category.
 
