@@ -25,4 +25,4 @@ Absolutely! Here are some ways you can get involved:
 
 ## What's a "valid" contribution?
 
-A valid contribution is one that isn't done just for the sake of submitting a PR, but that fixes an error, improves, or adds value to our documentation. While there are no penalties for submitting invalid Docathon PRs, if you're not sure how to contribute rather come and ask us - we're more than happy to help get you started.
+A valid contribution is one that isn't done just for the sake of submitting a PR, but one that fixes an error, improves existing content, or adds value to our product documentation. While there are no penalties for submitting invalid Docathon PRs, if you're not sure how to contribute, please ask us how to get involved - we're more than happy to help get you started.
