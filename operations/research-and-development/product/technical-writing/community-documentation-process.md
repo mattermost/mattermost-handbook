@@ -8,7 +8,7 @@ Going forward, our existing community-written documentation will be posted in th
 
 ## Process for new community-written content
 
-If you've written, or would like to write, new content for Mattermost please add it as a new thread in the [Unofficial Product Documentation](https://forum.mattermost.org/c/docs/37) category.
+If you've written, or want to write, new content for Mattermost, please add it as a new thread in the [Unofficial Product Documentation](https://forum.mattermost.org/c/docs/37) category.
 
 Once submitted, you'll receive notifications about any activity on your post.
 
