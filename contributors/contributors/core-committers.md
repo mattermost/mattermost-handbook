@@ -159,7 +159,6 @@ Below is the list of core committers working on Mattermost:
 - **<a name="pablo.velez">Pablo Velez</a>**
     - @pablo.velez on [community.mattermost.com](https://community.mattermost.com/core/messages/@pablo.velez) and [@pablovelezvidal](https://github.com/pablovelezvidal) on GitHub
     - Dev areas: Customer Portal, Growth Engineering 
-
    
 # Core Developers
 
