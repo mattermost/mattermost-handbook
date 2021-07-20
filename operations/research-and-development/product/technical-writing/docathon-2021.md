@@ -18,7 +18,7 @@ The Docathon is designed to provide opportunities for all contributors to get in
 
 Absolutely! Here are some ways you can get involved:
 
-* **Help us merge PR submissions:** This will basically just entail helping us go through the PRs with the Documentation 2021 label, making sure they follow our style guide and fix any grammatical issues. This isn't an extremely rigorous process - we just want to make sure anything merged follows some standardization.
+* **Help us merge PR submissions:** This includes helping us go through the PRs with the **Docathon 2021** label, making sure PRs follow our style guide, and fixing any grammatical issues. This isn't an extremely rigorous process - we just want to make sure anything merged follows some standardization.
 * **Help review any technical content for accuracy:** Be actively monitoring the ~Docathon 2021 channel for any questions, and just basically being engaging to anyone who posts. Also being open for participants to DM you if they have questions they dont want to ask in the public channel. Also help relay any feedback to us.
 * **Help us endorse and/or write recommendations for people on LinkedIn:** This is especially welcome if you help with reviewing and there's someone you personally feel compelled to network with and help out their professional career.
 * **Contribute your own content or ideas for either Mattermost product documentation, or the Docathon event itself!**
