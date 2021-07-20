@@ -88,16 +88,16 @@ Ultimately, when responding to users you should always keep the Golden Rule in m
 
 **What do we retweet?**
 
-* Pictures of swag
-** If there’s a lot of swag posts at once (e.g., socks), be careful not to retweet all of them to clutter our timeline
-** Try to retweet an assortment of different swag types
-* Announcements about new plugins from the community
-* Industry reports that mention Mattermost
-** E.g., “Best collaboration software for 2021”
-* Third-party content about using Mattermost 
-** e.g., “Mattermost Recipes” not written by Mattermost
-* Announcements about upcoming events we will be attending
-* Pro-Mattermost posts from team/community members
+1. Pictures of swag
+* If there’s a lot of swag posts at once (e.g., socks), be careful not to retweet all of them to clutter our timeline
+* Try to retweet an assortment of different swag types
+2. Announcements about new plugins from the community
+3. Industry reports that mention Mattermost
+* E.g., “Best collaboration software for 2021”
+4. Third-party content about using Mattermost 
+* e.g., “Mattermost Recipes” not written by Mattermost
+5. Announcements about upcoming events we will be attending
+6. Pro-Mattermost posts from team/community members
 
 
 
