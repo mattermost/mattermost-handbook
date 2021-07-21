@@ -47,7 +47,11 @@ Ultimately, when responding to users you should always keep the Golden Rule in m
 * When asking someone to take action, use "Would you be open to..." instead of "Would you like to...".
 * Communities really respond well to being praised and thanked for their work.
 
-## Twitter
+## Community Forums
+
+Below are guidelines or processes for specific forums we engage with the Mattermost community:
+
+### Twitter
 
 **Intended Outcomes**
 1. **Likes and loves** - Every promoter feels appreciated (like, heart, etc.) and we have acknowledgement to the best content (re-tweet, quoted re-tweet, mention, shout out, replies, * humor, etc.)
@@ -99,5 +103,37 @@ Ultimately, when responding to users you should always keep the Golden Rule in m
 5. Announcements about upcoming events we will be attending
 6. Pro-Mattermost posts from team/community members
 
+### LinkedIn
 
+To be added.
+
+### YouTube
+
+To be added.
+
+### HackerNews
+
+To be added.
+
+### GitHub
+
+To be added.
+
+### Discourse
+
+To be added.
+
+### Reddit
+
+To be added.
+
+### StackOverflow
+
+To be added.
+
+## How do I report inappropriate content in Mattermost community sites?
+
+Content in any community site managed by Mattermost should follow the guidelines above. Content that is deemed to be controversial, offensive, potentially defamatory or infringing content from material distributed, broadcast, or posted on websites will be edited or removed.
+
+We ask the community's help in reporting any such content to community@mattermost.com.
 
