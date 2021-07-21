@@ -8,11 +8,13 @@ We want to be especially thoughtful on the topic in the time of Covid, economic 
 
 ## Upcoming Family and Friends Day
 
-* Friday, May 28, 2021
-* Monday, May 31, 2021
+Friday, July 2 2021
+Monday, July 5 2021
 
 **Past Family and Friends Days**
 
+* Friday, May 28, 2021
+* Monday, May 31, 2021
 * Friday, September 4, 2020
 * Friday, October 9, 2020
 * Monday, November 20, 2020

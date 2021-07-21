@@ -45,7 +45,7 @@ While we're sharing average costs for various items below, you should use your b
 
 #### Business computer accessories
 
-* USB-C Adapter for New MacBooks: Average price **80 USD**
+* USB-C dock for New MacBooks: Average price **150 USD**
 * External monitor: Average price **500 USD**
 * HDMI cable: Average price **15 USD**
 * Webcam: Average price **75 USD**
@@ -187,7 +187,9 @@ Purchase as you need. We expect most items to have 18 to 24 month life and would
 
 All software should be provisioned through a corporate account. This helps mitigate multiple accounts for the same application. To see software Mattermost currently subscribes to, join the [Systems channel](https://community.mattermost.com/private-core/channels/systems) and click on **View Systems** in the header.
 
-If there's a piece of software you're looking to buy that Mattermost does not have a subscription to, discuss with your manager and then post in the [Systems channel](https://community.mattermost.com/private-core/channels/systems) to discuss with the Procurement team.
+If there's a piece of software you're looking to buy that Mattermost does not have a subscription to, discuss with your manager and then post in the [Systems channel](https://community.mattermost.com/private-core/channels/systems) to discuss with IT. All committed or material subscription requests should follow the instructions to purchase by [submitting a PO](https://handbook.mattermost.com/operations/finance/purchasing/how-to-procure-a-vendor-contract).
+
+If you are seeking to test a new software and it is not a material cost or comittment (e.g. a month-to-month cloud hosted software), the most expedient method may be requesting a [Virtual credit card](https://handbook.mattermost.com/operations/finance/purchasing/request-a-divvy-virtual-credit-card). Reach out to the [Purchases](https://community.mattermost.com/private-core/channels/purchases) channel. Please note that IT will need to be provisioned an account to any new software solution to properly audit and administrate access.
 
 Note that any software expensed that has not been vetted through Procurement will not be reimbursed. Should you have questions, reach out to the [Purchases](https://community.mattermost.com/private-core/channels/purchases) channel.
 
@@ -245,6 +247,8 @@ We will reimburse mileage according to local laws of the country in which your c
 Team events and meetups should be planned in advance with ample notice and approval from your direct MLT.
 
 The [Airfare](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#airfare-and-traveling), [Meals and Entertainment](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#meals-and-entertainment), and [Hotel](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#hotel-and-lodging) policies take precedence even in the case of team events or meetups.
+
+For team off sites, where travel and overnight stays are necessary, we encourage staff to use their best judgment. Historically, the average cost is $250 USD per person per day which includes meals, lodging, and meeting spaces. Travel costs like airfare, ride shares, or external partner and customer dinners are considered an additional expenditure and should seek [manager approval](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money#manager-approval) first. 
 
 ### Team celebrations
 

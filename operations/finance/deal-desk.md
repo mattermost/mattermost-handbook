@@ -25,8 +25,8 @@ To submit a request:
   * **Terms:** Escalated to Legal and approved by Finance; DocuSign to a Contract Approval Owner for initial and CEO for signature.
   * **NDAs/Supplier Forms:** DocuSign to a Contract Approval Owner for initial and CEO for signature.
 
-* Deal Desk Manager: Jim Ketaily
-* Sr. Order Administration Specialist: Jeff Pravlik
+* Deal Desk owner: Jeff Pravlik
+* Order Management owner: Jeff Pravlik
 
 ## Where to find us
 

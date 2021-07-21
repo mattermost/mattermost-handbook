@@ -38,6 +38,9 @@ COM is short for [Customer Obsession Meeting](https://docs.mattermost.com/proces
 
 Because the term "country" may be either controversial or incorrect when describing a geographic area governed by a state-like political entity we use the term "country/region" to avoid any accidental or implied judgement on the independence of a region. If the term "country" appears to be incorrectly used, when "country/region" is more appropriate, please contact info@mattermost.com.
 
+### Collapsed Reply Threads (CRT)
+Collapsed Reply Threads (CRT) is a Mattermost Messaging feature available in beta offering an enhanced experience for users communicating in threads and replying to messages. When enabled, Collapsed Reply Threads improve users’ ability to process channel content, find, follow, and resume conversations more easily, and keep threaded conversations focused. See our [Organizing Conversations using Collapsed Reply Threads (Beta)](https://docs.mattermost.com/help/messaging/organizing-conversations.html) product documentation for details. 
+
 ### Customer
 
 The primary external audience we are focused on for an initiative, which could be an end user without budget \(if our goal is adoption and engagement\) or a buyer \(if our objective for the initiative is revenue\). A customer does not include internal staff, since staff are not external.
@@ -66,6 +69,9 @@ A specific type of [mana](list-of-terms.md#mana) for developers similar to “po
 
 _Directly Responsible Individual_ means a human individual who is accountable for a given Area Of Responsibility. A DRI is a single person, not a group of people. If there is a shift schedule, define each shift as a separate AOR \(e.g. Tier 2 Mobile Support Escalations Weekdays 8am to 5pm Palo Alto time\). If you are unsure who is the DRI, make the AOR more specific until the DRI is clear.
 
+### Edge
+“Edge Release”, a version of Mattermost which indicates the latest unstable release off of the main branch.
+
 ### ESR
 
 “Extended Support Release”, a version of Mattermost maintained for a longer period of time that will receive security fixes.
@@ -91,6 +97,9 @@ A beneficial change to code that is not fixing a bug.
 ### Iteration
 
 Iteration means being able to quickly improve on something by shipping a minimally viable change in how we do things. It's the opposite of the "wait, wait, wait, ship" method we call the [Windows Vista Approach](list-of-terms.md#windows-vista-approach).
+
+### Latest
+“Latest Release”, a version of Mattermost which indicates the latest stable release.
 
 ### LHS
 

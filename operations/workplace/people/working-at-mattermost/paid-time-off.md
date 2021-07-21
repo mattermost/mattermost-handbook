@@ -57,6 +57,7 @@ We have entities in Germany, UK, US, and we have a large Canadian contingent, so
 * Ascension Day (Germany) \(5/13/2021\)
 * Spring Bank Holiday (UK) \(5/31/2021\)
 * Memorial Day (US) \(5/31/2021\)
+* Juneteenth (US) \(6/18/2021\)
 * Whit Monday (Germany) \(6/24/2021\)
 * Canada Day (Canada) \(7/1/2021\)
 * Independence Day (US) \(7/5/2021\)

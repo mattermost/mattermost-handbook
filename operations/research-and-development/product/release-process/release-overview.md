@@ -31,20 +31,62 @@ Mattermost numbers stable releases in the following format:
 - Release frequency: As required
 - Example: v1.2.5, v1.2.6
 
-## Overview of release cycles
+## Objectives
+
+The goal is to deliver value to users quickly by a) shipping fast to get features to customers quickly for experimentation / feedback, and b) iteratively behind feature flags as a protection if any issues arise. This document outlines the principles and guidelines for how we release a new update of each product line weekly to Cloud and monthly to self-managed.
+
+## Multi-product Release Principles
+
+The goal is not to have the same release cadence for all products, but there may be similar schedules. E.g. Incident Collaboration and Focalboard plugins are pre-packed once a month with the Self-sanaged releases, however, admins will have a config option to turn off products. As the product suite gets bigger, we’ll need a dedicated Release Manager for each product. We can duplicate/reuse a similar build process for new plugins in the suite.
+
+**Release Owners**
+  - Messaging: Amy Blais
+  - Focalboard: Focalboard PM and devs; TBD: Amy Blais
+  - Incident Collaboration: Incident Collaboration dev rotation; TBD: Amy Blais
+
+1. **Focus on High Impact by shipping every new feature and any riskier code changes behind a feature flag.**
+  - Enables us to iterate in Cloud to deliver value to Self-Managed users more quickly by shipping changes faster. 
+  - Currently the feature complete deadline for Self-Managed release is roughly 3 weeks prior to release day, but in the future we can consider pushing it to later. Each suite vertical is individually responsible for quality and deciding if a feature should be included in a release or not (with the release team giving guidelines). This may mean shipping more patch releases, but we can manage some of this by using feature flags. This also requires good test automation coverage.
+
+2. **Automate.**
+  - This allows us to ship releases more often and push feature complete deadlines to later.
+  - Automate release processes and tasks.
+  - Automate release tests and have E2E tests for features.
+
+3. **Earn Trust by communicating to external and internal stakeholders clearly.**
+  - Enables us to make expectations for releases clear for all stakeholders.
+  - Make expectations for each release clear (release dates, etc.). Communicate. Ensure that everyone on the team is familiar with the release processes.
+  - Release notes, minimum version requirements, and any important upgrade notes need to be available for customers and communicated via docs, twitter, blog, emails, channels, download page, GitHub.
+
+4. **Earn Trust by including all stakeholders (Tech Writers, Marketing, QA, etc.) early in the release process.**
+  - Enables us to avoid missing key tasks and to avoid last minute work.
+  - E.g. When opening a PR, add a “Docs/Needed” label for any PRs that need docs and communicate to Tech Writers. Don’t wait until merging the PR/feature. This ensures that we have time to complete docs on time when our releases become faster.
+  - Make tracking bugs and testing requirements easy. E.g:
+  - Resolve Jira tickets for QA when PRs are merged (and cherry-picked).
+  - Add QA test steps to Jira tickets and/or PRs.
+  - Add Fix Versions and Milestones in Jira/PRs for bugs/tickets for easy tracking.
+  - Add clear Release Notes on PRs.
+
+5. **Achieve Customer Obsession by doing retrospectives on release issues and monitoring customer/community release bug reports after releases.**
+  - This allows us to learn from issues so that they don’t happen again and to fix critical bugs asap.
+  - Retrospectives for issues and dot releases are important. Sample retrospective doc used for releases. Could also use Incident Collaboration for this.
+  - Monitor community and customer reports in Github, Forum, Zendesk, and channels like Ask R&D, in partnership with the Support team.
+
+6. **Release new products tightly integrated with the Mattermost suite.**
+  - E.g. Focalboard will ship as a plugin in June; Incident Collaboration is a plugin. Plugins are the strategy for now, maybe there will be another strategy for the long-term.
+
+## Overview of Release Cycles
 
 Currently Mattermost Cloud releases occur on a 2-week cycle, but the goal is to release more frequently. Cloud and Self-Managed PRs don’t need to be cherry-picked to releases, except for any last minute bug fixes that get merged after the release branch is cut, and any necessary hotfixes.
 
-**Schedule for Mattermost Cloud releases:**
-
- - (T-7): 1 week prior to the release day, the ``master`` branch is merged to the Cloud branch.
+Schedule for Mattermost Cloud releases:
+ - (T-7): 7 working days prior to the release day, the ``master`` branch is merged to the Cloud branch.
  - (T-0): Release Day
 
-**Schedule for self-managed releases:**
-
- - (T-30): Feature Review/Judgment Day/Release branch cut
- - (T-9): RC1 Cut
- - (T-8 to T-7): RC testing and final QA testing
+Schedule for Self-Managed releases:
+ - (T-12): Feature Review/Judgment Day/Release branch cut
+ - (T-11): RC1 Cut
+ - (T-10): RC testing and final QA testing
  - (T-5): Code Freeze
  - (T-2): Cut Final
  - (T-0): Release Day
@@ -68,10 +110,14 @@ Release dates are currently communicated in the following ways. Further iteratio
   - Lists key release dates and deadlines.
 3. PM and R&D meetings
   - Updates are provided on upcoming key dates and/or features.
+4. Productboard
+  - [Productboard](https://mattermost.productboard.com/roadmap/2855466-features-by-release) - One calendar overview of what releases + features are coming up.
+5. Spreadhseet
+  - [Overview of release deadlines and cherry-picking guidelines](https://docs.google.com/spreadsheets/d/1jGEnuaZxosmC-JSUXFeZOR7I34ORFtNjPVw8hvzCIC4/edit#gid=0).
 
 **Understanding the cadence**
 
- - The Mattermost Cloud releases follow a 2-week cycle and the release day is normally on Wednesdays. Feature Complete deadline for each Mattermost Cloud release is on Mondays 9 days prior to the release day.
+ - The Mattermost Cloud releases follow a 2-week cycle and the release day is normally on Wednesdays. Feature Complete deadline for each Mattermost Cloud release is on Mondays 7 working days prior to the release day.
  - The Mobile App release cadence is monthly on the 16th of every month.
  - Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next self-managed release. The release branch for a self-managed release (e.g. ``release-5.32``) will be cut once the Mattermost Cloud release that will be used for the next self-managed release has been shipped.
  - This cadence is subject to change in the future and any changes will be documented and announced.
@@ -97,11 +143,10 @@ The Release Manager is able to look at the version we have deployed to Mattermos
 
 Releases are now focused on "shipping features and improvements when they're ready for Mattermost Cloud, and then they'll get to a self-managed release once they've been available on Mattermost Cloud for 2+ weeks".
 
- - A new Cloud branch (based off of ``master``) is used, and any regression bug fixes for the next Cloud release will be cherry-picked there.
- - This applies to webapp/server/Redux/Enterprise repos.
+ - If the PR is scheduled for a specific Mattermost Cloud or Self-Managed release, please add the ``Cherry-pick Approved`` label and Self-Managed milestone on the PR. Cloud doesn't have a specific milestone in GitHub and the PRs can be tracked via the ``Cherry-pick Approved`` label. The Release Manager keeps track of PRs with the ``Cherry-pick Approved`` label and Self-Managed milestone on a daily basis.
+ - A new Cloud branch (based off of ``master``) is used, and any regression bug fixes for the next Cloud release will be cherry-picked there. This applies to webapp/server/Enterprise repos.
  - A fix version such as “Cloud (November 24)” is added in Jira to track regression bug fixes for Mattermost Cloud releases.
- - The self-managed releases are based off of Mattermost Cloud releases.
- - Submitted feature or bug fix PRs don’t need a release milestone added to them unless the PR is scheduled for a specific Mattermost Cloud or self-managed release. The Release Manager will track merged PRs and help ensure that correct milestones are added as needed. Any concerns can be brought up for discussion on a case-by-case basis.
+ - The Self-Managed releases are based off of Mattermost Cloud releases.
 
 ## Triaging Mattermost Cloud customer issues
 
@@ -140,13 +185,19 @@ When triaging a bug report, consider the following:
 
   - A: Desktop releases are currently released as required.
 
-**Q: When is release branch cut for a self-managed release?**
+**Q: Do we use Incident Collaboration playbooks for releases?**
+  - A: Yes, Incident Collaboration playbooks are used for Cloud, Mobile, Dot releases, Self-managed, and plugin releases, including Incident Collaboration itself.
+
+**Q: When is release branch cut for a Self-Managed release?**
 
   - A: Self-managed releases are based off of Mattermost Cloud releases. For example, the self-managed v5.32.0 release is based off of the ``cloud-2021-01-26`` release tag. Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next self-managed release. The release branch for a self-managed release will be cut once the Mattermost Cloud release that will be used for the next self-managed release has been shipped.
 
+**Q: How does the release build pipeline process work for self-managed releases?**
+  - A: Documentation on the release pipeline process via Miro is available here: https://miro.com/app/board/o9J_lH-zx0k=/?utm_source=notification&utm_medium=email&utm_campaign=daily-updates&utm_content=go-to-board&fromRedirect=1 (has restricted access).
+
 **Q: How are PRs merged for release?**
 
-  - A: PRs are first merged to master. The dev who submitted the fix is also responsible for cherry-picking it to the release branch after a release branch has been cut.
+  - A: PRs are first merged to master. As needed, the dev who submitted the fix is also responsible for cherry-picking it to the release branch after a release branch has been cut.
 
 **Q: How is cherry-picking done?**
 
@@ -162,15 +213,15 @@ When triaging a bug report, consider the following:
 
 **Q: What is community-daily.mattermost kept on?**
 
-  - A: Normally on `master` branch.
+  - A: Normally on ``master`` branch and it updates hourly.
 
 **Q: How to remove a feature/bug from a release?**
 
-  - A: Revert from `release` branch. Optionally revert from `master`.
+  - A: The feature flag is turned off. Another option is reverting the feature from the master and release branches.
 
 **Q: How are NOTICE.txt PRs submitted?**
 
-  - A: PRs are first merged to `master`. The dev who submitted the fix is then responsible for cherry-picking it to the `release` branch.
+  - A: PRs are first merged to master. The dev reviewer is responsible for helping cherry-picking it to the release branch.
 
 **Q: Is an improvement a feature or a bug?**
 
@@ -182,7 +233,7 @@ When triaging a bug report, consider the following:
 
 **Q: How does translations branching work?**
 
-  - A: Lock the translation server to the `release` branch. The translation PR will be submitted against the `release` branch and it can just be merged directly to the `release` branch without cherry-picking. When the translation server is locked back to `master`, the next PR against `master` will include those translations that went in for the `release` branch.
+  - A: The translation PR will be submitted against the master branch and will be cherry-picked to the release branch as needed.
 
 **Q: How does cutting mobile builds work?**
 
@@ -190,11 +241,11 @@ When triaging a bug report, consider the following:
 
 **Q: What is the process for community PRs?**
 
-  - A: Review, merge, and cherry-pick.
+  - A: Review, merge, and cherry-pick as needed.
 
 **Q: Will RC testing remain, or will RC testing process change?**
 
-  - There will be some manual RC testing until all release tests are automated.
+  - There is still manual RC testing for Mobile App releases until all release tests are automated.
 
 **Q: Do Mobile and Desktop App releases follow the "cloud first" strategy?**
 
@@ -210,4 +261,4 @@ When triaging a bug report, consider the following:
 
 **Q: How will versioning work?**
 
-  - Version numbers will be less meaningful for Mattermost Cloud. Proposing the name of this to be capabilities following the naming used by OpenGL. With Mattermost Cloud, it's not whether or not a feature is enabled, but whether or not the server is capable of supporting the feature.
+  - Currently the GitHub are tagged as a date, e.g. ``cloud-2021-06-02-1``. With Mattermost Cloud, it's not whether or not a feature is enabled, but whether or not the server is capable of supporting the feature.
