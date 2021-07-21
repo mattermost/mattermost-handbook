@@ -155,7 +155,15 @@
   * [Naming Files and Agreements](operations/finance/naming-files-and-agreements.md)
   * [Risk Management](operations/finance/risk-management/README.md)
     * [Mattermost U.S. Consulting Agreements](operations/finance/risk-management/mattermost-templated-agreements.md)
-  * Operations Playbook  
+  * Operations Playbook
+* [Security](operations/security/README.md)
+  * [Policies](operations/security/policies/README.md)
+  * [Privacy](operations/security/privacy/README.md)
+    * [Data Deletion Requests](operations/security/privacy/data-deletion-requests.md)
+    * [Data Subject Access Requests](operations/security/privacy/data-subject-access-requests.md)
+  * [Product Security](operations/security/product-security/README.md)
+  * [Security Operations](operations/security/security-operations/README.md)
+    * [User Guides](operations/security/security-operations/user-guides.md)
 * [Workplace](operations/workplace/README.md)
   * [PeopleOps](operations/workplace/people/README.md)
     * [HR Cadences](operations/workplace/people/hr-cadences.md)
