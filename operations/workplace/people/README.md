@@ -110,9 +110,7 @@ BambooHR is our Human Resources Information System (HRIS). Bamboo is a single so
 > * Executive Assistants (EAs) are able to update personal information for the MlT team members they support, and to be vacation-ready any appropriate back-up EAs will be able to update personal information as-needed. 
 > * To access the system go to [https://mattermost.bamboohr.com/](https://mattermost.bamboohr.com/) and use your Mattermost credentials to log in.
 
-Resources 
-
-> * How-to for Staff Members
+Resources: How-to for Staff Members 
 >  * [Update your information](https://help.bamboohr.com/hc/en-us/sections/206084487-Managing-Your-Information)
 >  * [Find the Company Directory](https://help.bamboohr.com/hc/en-us/articles/216836007)
 >  * [Update your Information](https://help.bamboohr.com/hc/en-us/articles/227321928-Employee-Access-Manual) 
