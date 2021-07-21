@@ -9,9 +9,9 @@ description: 50% Draft
 * Get the System Admin for Mattermost excited to upgrade or to buy E20 to empower end users
 * Everything should be ready to share
   * Every paragraph feels like it's ready to copy and paste into a tweet
-  * Every person we thank who is on Twitter, we Tweet to them
+  * Every person we thank who is on Twitter, we tweet to them
 
-## **Process**
+## Process
 
 ### A. \(T-minus 20 working days\) Blog Post Outline
 
@@ -23,7 +23,7 @@ description: 50% Draft
 
 * PMs finish the blog post draft by writing a section for each feature
 
-### C. \(T-minus 10 working days\) Head of PM, CPO and MLT Reviews
+### C. \(T-minus 10 working days\) Head of PM, CPO, and MLT Reviews
 
 * Head of PM, CPO, and MLT review the title, intro, and content
 
@@ -38,7 +38,7 @@ description: 50% Draft
 * Release Manager publishes the blog post
 * Marketing (Justin) schedules tweets from blog post \(Tuesdays 10am PT, and Thursdays 10am if there's extra\)
 
-## **Checklist for review of draft:**
+## Checklist for review of draft
 
 The Release Manager \(Amy Blais\) owns the release announcement, including the following checklist items unless otherwise indicated:
 
@@ -60,11 +60,11 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
    3. The audience is primarily focused on admins, then end users
    4. No spelling errors or broken links
    5. One or more people on the team put themselves in the shoes of a System Admin responsible for upgrading Mattermost and have read through the announcement out loud, clicked on the links, and feel we've met our [High Standards leadership principle](https://handbook.mattermost.com/company/about-mattermost#leadership-principles)
-4. **Thank-you's and call-to-actions**
-   1. Simple paragraph to call admins to upgrade
+4. **Thank you's and call-to-actions**
+   1. Simple paragraph to call System Admins to upgrade
    2. MVP winner and security note \(if applicable\) are included
       1. Ask Hanna for an image of the MVP winner's coaster to include in a tweet
-   3. \(**Marketing owns\)** All contributors are recognized with a screenshot 
+   3. \(**Marketing owns\)** All contributors are recognized with a screenshot
       1. Names should not be red-underlined \(if they are, add them to the dictionary prior to taking a screenshot\)
       2. Screenshot not surrounded by a border
       3. Below the screenshot, include a text version of their names in small font with a link to their GitHub handle
@@ -79,12 +79,12 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
          3. **Low** - Bare minimum to call an image
    3. A screenshot should always be included for the feature that is highlighted
 
-## **Style Guidelines**
+## Style Guidelines
 
-1. Highlight past successes: Cross link to promote traffic 
+1. Highlight past successes: Cross link to promote traffic
 2. Links tell a story: Links should indicate the content they lead to without clicking, avoid "read this blog post" and instead "learn more about the incident response alpha program"
 3. Actionable (e.g. downloading the latest mobile app release, including links)
-4. Clear, concise and consistent throughout
+4. Clear, concise, and consistent throughout
 
 ## Screenshot Guidelines
 
@@ -93,10 +93,10 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 ## Language Guidelines
 
 1. Use simple language with no buzzwords
-2. Specify Desktop app or Mobile App if a feature is not dependent on the server release
+2. Specify Desktop app or Mobile app if a feature is not dependent on the server release
 3. Use common wording, e.g. say "Servers" instead of "Sites"; say `plugins` not `plug-ins`; say "Browser" instead of "Webapp"
 4. Avoid phrases that are too vague, such as "Better messaging experience"
 5. Do not use internal names of features, such as "Unread toasts", "Deep linking"
 6. Say "You" instead of "Users" to talk directly to the reader
-7. Say  "AD/LDAP" instead of just "AD" or just "LDAP"
+7. Say "AD/LDAP" instead of just "AD" or just "LDAP"
 8. "System Console" and "System Admin" should be capitalized
