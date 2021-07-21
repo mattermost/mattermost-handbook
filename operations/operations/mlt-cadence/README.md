@@ -17,36 +17,37 @@ This section outlines:
 
 * Ian Tien: Co-Founder and CEO
 * Corey Hulen: Co-Founder and CTO
-* Aneal Vallurupalli: VP, Finance
+* Tim Quock: VP, Finance
 * Chris Overton: VP, Engineering
 * Barry Duplantis: VP, Customer Success
 * Matt Harper: VP, Marketing
 
 # MLT Cadence
 
-## MLT Weekly Business Review (WBR)
+## Biweekly Business Review (BBR)
 
-**Tuesdays 10:00am to 11:00am Palo Alto time with MLT**
+**Biweekly Tuesdays 10:00am to 10:50am Palo Alto time with MLT**
 
 **Required attendees: MLT + extended team (TBD)**
 
-The purpose of MLT WBR is to review the health of the business by reviewing our goals dashboard, identifying key risks/challenges/issues, and identifying owners for actions. Discussions held in [MLT WBR Channel](https://community.mattermost.com/private-core/channels/MLT-WBR).
+The purpose of BBR is to review the health of the business by reviewing our goals dashboard, identifying key risks/challenges/issues, and identifying owners for actions. Discussions held in [MLT BBR Channel](https://community.mattermost.com/private-core/channels/bbr).
 
 #### Pre-work
 
-* Dashboard to be updated by all owners by Tuesday 9am Palo Alto Time.
-* 2x2 prepared by each functional owner (TBD if reviewed separately or aggregated into one 2x2) (e.g., next product releases, marketing launches).
+* Dashboards emailed out Fridays by Amy Nicol, all attendees review and ask questions asynchronously if they have them.
+* By Monday at 12pm PT, key stakeholders add issues, challenges, and risk with next actions and asks to the team in the FRM doc.
+* Before the meeting on Tuesdays, all attendees have reviewed doc.
 
 #### Process
 
-* **\(0:10\) Review WBR Agenda Doc:** Time for all to read data
-* **\(0:15\) MLT Good News:**  Always start with anyone wanting to share the good news, e.g., customer wins, new release delivered, new web page launched, etc.
-* **\(0:20\) V2MOM Metrics Dashboard Review:** Review Dashboard
+* **\(0:10\) Review WBR Agenda Doc:** Time for all to read data.
+* **\(0:15\) MLT Good News:**  Always start with anyone wanting to share the good news, e.g., customer wins, new release delivered, new webpage launched, etc.
+* **\(0:20\) V2MOM Metrics Dashboard Review:** Review Dashboard.
   * Discuss reds and new goals to create
   * Discuss yellows and paths to green
   * Review key updates to greens
   * Create new action items and assign to owners in Asana 
-* **\(0:25\) 2X2 Business Review:** Review WBR 2x2 document summarizing:  
+* **\(0:25\) 2x2 Business Review:** Review WBR 2x2 document summarizing:  
   * State of the business
     * Key business metrics (ARR, churn, customer count, health score)
     * Big updates from Sales, R&D, Marketing, Finance, etc.
@@ -62,7 +63,7 @@ The purpose of MLT WBR is to review the health of the business by reviewing our 
 
 ## MLT Weekly Executive Meeting 
 
-**Tuesdays 11:00am to 12:00pm Palo Alto time with MLT**
+**Tuesdays 9:00am to 9:50pm Palo Alto time with MLT**
 
 **Required attendees: MLT only + HR representative**
 
@@ -90,6 +91,8 @@ Topics are queued in a [central spreadsheet](https://docs.google.com/spreadsheet
 * Two slots of 45 minutes each. Typically two topics - one for each slot. However, bigger topics can occupy two slots
 * MLT reviews document for the first 15 minutes; discusses for the next 25 minutes to reach any decisions for clarity and closure
 * (Five minutes before end of slot) Decisions/actions are summarized
+
+**These meetings are cancelled if no topics are raised.**
 
 ## MLT Planning
 

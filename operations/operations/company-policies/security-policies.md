@@ -69,253 +69,253 @@ All dependencies are updated on a regular basis to ensure Mattermost uses the la
 ### Governance
 
 1. Do you maintain a quality management system (QMS) approved by management? Does your quality management system (QMS) include coverage for software application security principles?
--  Yes.
+ -  Yes.
 
 2. Is quality management system (QMS) content published and communicated to all relevant employees?
--  Yes.
+ -  Yes.
 
 3. Is quality management system (QMS) content reviewed and updated (if appropriate) at least once per year?
--  Yes.
+ -  Yes.
 
 4. Is there defined management oversight who is responsible for application quality and security reporting and signoff?
--  Yes.
+ -  Yes.
 
 5. For all IT systems including but not limited to servers, routers, switches, firewalls, databases, and external social spaces, is management approval required prior to creating all user and privileged accounts (e.g., system or security administrator)?
--  Yes.
+ -  Yes.
 
 6. For all IT systems including but not limited to servers, routers, switches, firewalls, and databases, are privileged accounts (e.g., system or security administrator) logged at all times and reviewed on at least a quarterly basis?
--  Yes.
+ -  Yes.
 
 7. Are all system, application and device password files encrypted using an industry standard encryption algorithm where technically feasible?
--  Yes
+ -  Yes
 
 8. For all IT systems including but not limited to servers, routers, switches, firewalls, and databases, do privileged accounts (e.g., system or security administrator) that communicate directly with the internet, contain any personally identifiable information (PII) such as: social security numbers, credit card numbers, patient health record information, or other confidential records?
--  Yes
+ -  Yes
 
 9. Is all sensitive, protected health information (PHI) and personally identifiable information (PII) protected using an industry standard encryption algorithm where technically feasible?
--  Yes
+ -  Yes
 
 10. Are information assets classified?
--  Yes.
+ -  Yes.
 
 11. Are security roles and responsibilities of personnel defined and documented in accordance with the organization’s information security policy?
--  Yes.
+ -  Yes.
 
 12. Is a background screening performed prior to allowing personnel access to Scoped Systems and Data?
--  Yes.
+ -  Yes.
 
 13. Are new hires required to sign any agreements upon hire?
--  Yes.
+ -  Yes.
 
 14. Is there a disciplinary process for non-compliance with information security policies?
--  Yes, disclosure of confidential information or egregious disregard for documented security policies is grounds for termination.
+ -  Yes, disclosure of confidential information or egregious disregard for documented security policies is grounds for termination.
 
 15. Is there a personnel termination or change of status process?
--  Yes.
+ -  Yes.
 
 ### Access Control
 
 1. Is access to and maintenance of applications, systems, network components (including routers, databases, firewalls, voice communications servers, voice recording servers, voice response units (VRU) etc), operating systems, virtualization components, hypervisors, or other information objects restricted to authorized personnel only?
--  Yes.
+ -  Yes.
 
 2. Is access to and maintenance of applications, systems, network components (including routers, databases, firewalls, voice communications servers, voice recording servers, voice response units (VRU) etc), operating systems, virtualization components, hypervisors, or other information objects granted based upon need-to-know job function?
--  Yes.
+ -  Yes.
 
 3. Are unique user IDs required for all user and privileged accounts (e.g., system or security administrator) to access all IT systems including but not limited to servers, routers, switches, firewalls, and databases?
--  Yes.
+ -  Yes.
 
 4. Are passwords required for all user and privileged accounts (e.g., system or security administrator) to access all IT systems including but not limited to servers, routers, switches, firewalls, and databases?
--  Yes.
+ -  Yes.
 
 5. Are there written network password policies and/or procedures?
--  Yes.
+ -  Yes.
 
-5. Is password administration employed for critical systems?
--  Yes.
+6. Is password administration employed for critical systems?
+ -  Yes.
 
-6. Are passwords prevented from being displayed in clear text during user authentication or in electronic/printed reports?
--  Yes.
+7. Are passwords prevented from being displayed in clear text during user authentication or in electronic/printed reports?
+ -  Yes.
 
-7. If user accounts are assigned to non-permanent personnel (e.g., contractors, consultants) for troubleshooting purposes, are the accounts disabled or removed after each use?
--  Yes.
+8. If user accounts are assigned to non-permanent personnel (e.g., contractors, consultants) for troubleshooting purposes, are the accounts disabled or removed after each use?
+ -  Yes.
 
 ### Operational Security
 
 1. Is there a risk assessment program that has been approved by management, communicated to appropriate personnel, and has an owner to maintain and review the program?
--  Yes.
+ -  Yes.
 
 2. Is there an information security policy that has been approved by management, communicated to appropriate personnel, and has an owner to maintain and review the policy?
--  Yes.
+ -  Yes.
 
 3. Is there a vendor management program?
--  Yes.
+ -  Yes.
 
 4. Is there a respondent information security function responsible for security initiatives?
--  Yes.
+ -  Yes.
 
 5. Is there an asset management policy or program that has been approved by management, communicated to appropriate personnel, and has an owner to maintain and review the policy?
--  Yes.
+ -  Yes.
 
 6. Are management approved operating procedures utilized?
--  Yes.
+ -  Yes.
 
 7. Is there an operational change management/change control policy or program that has been approved by management, communicated to appropriate personnel, and has an owner to maintain and review the policy?
--  Yes.
+ -  Yes.
 
 8. Are system backups performed?
--  Yes.
+ -  Yes.
 
 9. Are firewalls in use for both internal and external connections?
--  Yes.
+ -  Yes.
 
 10. Are firewalls or IPS(s) secured against unauthorized access from the internet, Extranet, and Intranet users?
--  Yes.
+ -  Yes.
 
 11. Are vulnerability assessments, scans, or penetration tests performed on internal or external networks?
--  Yes.
+ -  Yes.
 
 12. Are incoming emails scanned for questionable file attachments?
--  Yes.
+ -  Yes.
 
 13. Does the company use spam filtering software to reduce the number of unsolicited emails?
--  Yes.
+ -  Yes.
 
 14. Are email attachments scanned by anti-virus software?
--  Yes.
+ -  Yes.
 
 ### Business Resiliency
 
 For more information on Business Resiliency, see the Business Continuity Plan.
 
 1. Is there an established Business Resiliency program that has been approved by management and communicated to appropriate personnel?
--  Yes.
+ -  Yes.
 
 2. Has a Business Impact Analysis been conducted?
--  Yes.
+ -  Yes.
 
 3. Is there a formal process focused on identifying and addressing risks of disruptive incidents to the organization?
--  Yes.
+ -  Yes.
 
 4. Is there an established Business Resiliency program that has been approved by management and communicated to appropriate personnel?
--  Yes.
+ -  Yes.
 
 5. Are specific response and recovery strategies defined for addressing risks of disruptive incidents to the organization?
--  Yes.
+ -  Yes.
 
 6. Are formal business continuity procedures developed and documented?
--  Yes.
+ -  Yes.
 
 7. Has senior management assigned the responsibility for the overall management of the response and recovery efforts?
--  Yes.
+ -  Yes.
 
 8. Is there a periodic review of your Business Resiliency Program?
--  Yes, annually.
+ -  Yes, annually.
 
 9. Is there an Influenza Pandemic/Infectious Disease Outbreak Plan?
--  Yes.
+ -  Yes.
 
 10. Is there insurance coverage for business interruptions or general services interruption?
--  Yes.
+ -  Yes.
 
 ### Compliance
 
 1. Is there an internal audit, risk management, or compliance department with responsibility for identifying and tracking resolution of outstanding regulatory issues?
--  Yes.
+ -  Yes.
 
 2. Are there policies and procedures to ensure compliance with applicable legislative, regulatory, and contractual requirements to address intellectual property rights on business processes or information technology software products?
--  Yes.
+ -  Yes.
 
 3. Is there a records retention policy covering paper and electronic records, including email in support of applicable regulations, standards, and contractual requirements?
--  Yes. For example, records of customers with NDAs are retained in the event an NDA is terminated and requires destruction of records.
+ -  Yes. For example, records of customers with NDAs are retained in the event an NDA is terminated and requires destruction of records.
 
 4. Is licensing maintained in all jurisdictions where the business operates or where licensing is required?
--  Yes.
+ -  Yes.
 
 5. Is there an internal compliance and ethics program to ensure professional ethics and business practices are implemented?
--  Yes.
+ -  Yes.
 
 6. Are policies and procedures maintained for enabling compliance with applicable legal, regulatory, statutory, or contractual obligations related to any information security requirements?
--  Yes.
+ -  Yes.
 
 7. Is there a formalized governance process to identify and assess changes that could significantly affect the system of internal controls for security, confidentiality, and availability?
--  Yes.
+ -  Yes.
 
 ### Software Development Life Cycle (SDLC)
 
 1. Are there documented processes, procedures, standards and templates used in your SDLC process?
--  Yes.
+ -  Yes.
 
 2. Do the materials above include references to application security best practices and principles being followed?
--  Yes.
+ -  Yes.
 
 3. Are design and code reviews performed as part of your SDLC processes?
--  Yes.
+ -  Yes.
 
 4. Are security considerations (checklists, standards, and policies) referenced in the design and code review?
--  Yes.
+ -  Yes.
 
 5. Is application code managed in a secure configuration management system with access controls?
--  Yes.
+ -  Yes.
 
 6. Is there a configuration management plan and are release artifacts maintained in a configuration management system?
--  Yes.
+ -  Yes.
 
 7. Are test plans and records kept that reflects the tests performed and results observed for each release?
--  Yes.
+ -  Yes.
 
 8. Is a release criteria defined, measured and reported on to confirm targeted release quality is achieved?
--  Yes.
+ -  Yes.
 
 9. Do you work with third parties that may have access to your IP and sensitive data?
--  Yes, we may employ vendors and consultants, including third-party security analysts.
+ -  Yes, we may employ vendors and consultants, including third-party security analysts.
 
 10. If so, is access to data controlled by terms of Non-Disclosure Agreements?
--  Yes.
+ -  Yes.
 
 ### Training
 
 1. Is internal company training available and performed commensurate with personnel roles and responsibilities?
--  Yes.
+ -  Yes.
 
 2. Does training include security awareness?
--  Yes.
+ -  Yes.
 
 3. Does training include education on policies, standards, procedures, and updates when needed?
--  Yes.
+ -  Yes.
 
 4. Are personnel training plans and records kept for internal company compliance purposes?
--  Yes.
+ -  Yes.
 
 ### Validation
 
 1. Are results from the execution of test plans reported and used to track and justify release readiness?
--  Yes.
+ -  Yes.
 
 2. Does the quality assurance organization have authority to delay shipment of releases due to non-conformance reasons?
--  Yes.
+ -  Yes.
 
 3. Is some form of static code scanning performed as part of the release acceptance? What tools are used?
--  Yes, static analysis tools include ESLint and gofmt.
+ -  Yes, static analysis tools include ESLint and gofmt.
 
 4. Is some form of dynamic code scanning performed as part of the release acceptance? What tools are used?
--  Yes, Jenkins is used for dynamic code scanning as part of the release process.
-
+ -  Yes, Jenkins is used for dynamic code scanning as part of the release process.
+ 
 ### Security Response
 
 1. Do you have a documented company security incident response process?
--  Yes.
+ -  Yes.
 
 2. Do your maintenance releases include fixes for both quality and security related issues?
--  Yes.
+ -  Yes.
 
 3. Do you provide dedicated security patches for software versions that are released and supported in the field? How?
--  Yes. Security patches may be provided on the latest release when applicable.
+ -  Yes. Security patches may be provided on the latest release when applicable.
 
 4. Is there proactive notification provided to customers and software partners (PTC)? How?
--  Yes. Security updates are announced via email to customers as well as mailing list subscribers.
+ -  Yes. Security updates are announced via email to customers as well as mailing list subscribers.
 
 5. Is there a specified response policy that includes the timeframe issues are to be addressed?
--  Yes, please see: https://about.mattermost.com/support/.
+ -  Yes, please see: https://about.mattermost.com/support/.
 
 ## Infrastructure Security Policies
 
