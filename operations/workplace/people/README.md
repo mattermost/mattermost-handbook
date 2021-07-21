@@ -103,7 +103,7 @@ If you are a U.S. staff member and on payroll through TriNet, see [TriNet Contac
 
 ### BambooHR
 
-BambooHR is our Human Resources Information System (HRIS). Bamboo is a single source of truth for Staff Information, and data updates are spported by the following directly responsible individuals [DRIs](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#dri): 
+BambooHR is our Human Resources Information System (HRIS). BambooHR is a single source of truth for staff information, and data updates are supported by the following [directly responsible individuals](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#dri):
 > * The People Ops team uses BambooHR to store and update staff job information, records and important documents, for HR reporting and analytics, and to create new hire onboarding and offboarding workflows.
 > * Staff use BambooHR to update their personal and emergency contact information, and to reference the organizational chart and staff directory.
 > * Managers use BambooHR to recieve onboarding/offboarding notifications, approve appropriate changes for their team and/or direct reports. Note: managers will receive requests via a BambooHR notification sent to a Manager's Mattermost email address. Managers can click through the email notification to approve or approve directly in BambooHR. 
