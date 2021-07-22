@@ -224,4 +224,7 @@
   * [Exec Recruiting](contributors/join-us/exec-recruiting/README.md)
     * [EA Logistics](contributors/join-us/exec-recruiting/ea-logistics.md)
 
-    
+## Help and Support
+  
+  * [Contact Us](contact-us.md)
+
