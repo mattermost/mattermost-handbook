@@ -55,7 +55,7 @@ HR
 * @natalie.jew - [Natalie Jew](https://mattermost.bamboohr.com/employees/employee.php?id=174&page=2077) - Director of HR
 * @lynn.conway - [Lynn Conway](https://mattermost.bamboohr.com/employees/employee.php?id=207&page=2077) - People Partner
 * @cecily.sullivan - [Cecily Sullivan](https://mattermost.bamboohr.com/employees/employee.php?id=328&page=2077) - HR Generalist
-* @idayat.ogungbade - [Idayat Ogungbade](https://mattermost.bamboohr.com/employees/employee.php?id=323&page=2077)] - Total Rewards Manager
+* @idayat.ogungbade - [Idayat Ogungbade](https://mattermost.bamboohr.com/employees/employee.php?id=323&page=2077) - Total Rewards Manager
 
 Recruiting
 
