@@ -1,4 +1,4 @@
-# Community Engagement Guidelines
+# Social Engagement Guidelines
 
 This playbook outlines the processes and practices used to engage with the Mattermost community across social community channels.
 
