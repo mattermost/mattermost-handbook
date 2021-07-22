@@ -33,7 +33,7 @@ Working from anywhere means more time with loved ones, no commute, and controlli
 
 The one requirement is having the ability to [join video calls using Zoom](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux) between 8am and 1pm California time, which requires a reliable internet connection. Recommended download/upload speeds should be 8 Mbps/512 kbps for smooth group calling and screensharing, with a bare minimum of 4 Mbps/128 kbps. The [Ookla Speed Test](https://www.speedtest.net/) can be used to check your internet speed.
 
-There are exceptions to this requirement, for example: part-time roles that don’t need to take meetings, or roles providing support outside core meeting hours. Hiring Managers and Recruiters will indicate any time zone requirements for specific roles and/or teams.
+There are exceptions to this requirement, for example: Part-time roles that don’t need to take meetings, or roles providing support outside core meeting hours. Hiring Managers and Recruiters will indicate any time zone requirements for specific roles and/or teams.
 
 We're continually expanding where we can hire staff, updated lists can be found [here](https://handbook.mattermost.com/contributors/join-us).
 
@@ -57,9 +57,7 @@ Own the outcomes of your work: When working on problems, requests, and feedback 
 
 #### 4. Make Meaningful Connections
 
-We have [warm-ups](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/mattermost-communication#ice-breaker) in some meetings to learn more about each other. It’s part of our culture where we get to know each other.
-
-Find time after meetings and video conferences to get to know your teammates. Ask them about their weekends and how their life is outside of work.
+We have ice-breakers in some meetings to learn more about each other. It’s part of our culture where we get to know each other. Find time after meetings and video conferences to get to know your teammates. Ask them about their weekends and how their life is outside of work.
 
 When you meet in person at off-sites and events, build on those relationships.
 
@@ -155,8 +153,8 @@ Mattermost staff and Community members are eligible to receive a $500 USD referr
 
 #### How to refer a candidate
 
-* Log in to [Lever](https://hire.lever.co/candidates), our Applicant Tracking System, using your Mattermost email address. Select the **Interviews** tab and then select **+ Refer Candidate** button.
-* You can also send the referral´s resume to our Technical Recruiting Manager, Teresa Novoa (teresa@mattermost.com) or careers@mattermost.com.
+* Log in to [Lever](https://hire.lever.co/candidates), our Applicant Tracking System, using your Mattermost email address. Select the **Interviews** tab and then **+ Refer Candidate**.
+* You can also send the referral's resume to our Technical Recruiting Manager, Teresa Novoa (teresa@mattermost.com) or careers@mattermost.com.
 
 #### Referral Criteria
 
