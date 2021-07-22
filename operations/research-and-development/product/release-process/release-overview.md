@@ -1,6 +1,6 @@
 # Release Overview
 
-Mattermost ships with a new version on the 16th of each month in [binary form](http://docs.mattermost.com/administration/upgrade.html#mattermost-team-edition) for self-hosted customers. Mattermost also ships releases with new features and bug fixes [to Mattermost Cloud](https://docs.mattermost.com/guides/cloud-admin-guide.html) every two weeks.
+Mattermost ships with a new version on the 16th of each month in [binary form](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html#upgrading-to-the-latest-version) for self-managed customers. Mattermost also ships releases with new features and bug fixes [to Mattermost Cloud](https://docs.mattermost.com/about/product.html#mattermost-cloud) every two weeks.
 
 For the past few years, Mattermost used a monthly “tick-tock” alternating release cycle. A tick-tock cycle refers to even-numbered releases (e.g., 5.26) containing new features, and odd-numbered releases (e.g., 5.27) containing only bug fixes and performance improvements. As our product and team continue to evolve, we're moving away from this alternating release cycle in favor of a general monthly server release.
 
@@ -188,7 +188,7 @@ When triaging a bug report, consider the following:
 **Q: Do we use Incident Collaboration playbooks for releases?**
   - A: Yes, Incident Collaboration playbooks are used for Cloud, Mobile, Dot releases, Self-managed, and plugin releases, including Incident Collaboration itself.
 
-**Q: When is release branch cut for a Self-Managed release?**
+**Q: When is release branch cut for a self-managed release?**
 
   - A: Self-managed releases are based off of Mattermost Cloud releases. For example, the self-managed v5.32.0 release is based off of the ``cloud-2021-01-26`` release tag. Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next self-managed release. The release branch for a self-managed release will be cut once the Mattermost Cloud release that will be used for the next self-managed release has been shipped.
 
@@ -253,7 +253,7 @@ When triaging a bug report, consider the following:
 
 **Q: How do we track feature differences for Mattermost Cloud and self-managed releases?**
 
-  - Any feature that's promoted out of the feature flag process would be turned on for the Self-Managed releases. That way Self-Managed releases only get fully tested features that are ready for release, and does not get the ones still being tested. There will be some cases where we need to make a fix or change something for the Self-Managed release (e.g., a bug that only occurs if you use a certain Self-Managed setting or a certain database we don't use in Mattermost Cloud). In those cases the Self-Managed release might have some changes that are not a direct copy of the Mattermost Cloud build.
+  - Any feature that's promoted out of the feature flag process would be turned on for the self-managed releases. That way self-managed releases only get fully tested features that are ready for release, and does not get the ones still being tested. There will be some cases where we need to make a fix or change something for the self-managed release (e.g., a bug that only occurs if you use a certain self-managed setting or a certain database we don't use in Mattermost Cloud). In those cases the self-managed release might have some changes that are not a direct copy of the Mattermost Cloud build.
 
 **Q: What information does the Customer Support team need for Cloud releases?**
 
