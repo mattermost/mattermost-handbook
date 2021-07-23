@@ -27,7 +27,7 @@ Absolutely! Here are some ways you can get involved:
 
 One of our goals for this Docathon is for our documentation to benefit from great, high-quality contributions that really increase their value. 
 
-Contributors who contribute one or more merged PRs will receive a Mattermost swag pack. Contributors with 5+ merged PRs will receive LinkedIn and/or GitHub endorsements and recommendations from some of our our professional tech writers and product managers.
+Contributors who contribute one or more merged PRs will receive a Mattermost swag pack. Contributors with 5+ merged PRs will receive LinkedIn and/or GitHub endorsements and recommendations from some of our professional tech writers and product managers.
 
 The top five contributions will each receive 1 pair of AirPod Pro headphones.
 
