@@ -47,7 +47,7 @@ Good contributions achieve one or more of the following goals:
 * Fills an existing gap.
 * Offers a fresh perspective.
 * Clarifies, expands, supplements, illustrates, corrects, or updates existing content with imagery, examples, or recommendations based on real-world experience.
-* Requires minimum work for the Writing team to implement.
+* Requires minimum work to implement.
 
 If you're contributing to our documentation with your own ideas (i.e., not based on existing GitHub issues) that's great - but please clearly describe the problem space you're addressing in your PR. This context is important and helps us evaluate incoming PRs effectively.
 
