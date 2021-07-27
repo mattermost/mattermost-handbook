@@ -4,13 +4,7 @@ In addition to Github Issues, we also use Jira tickets for managing chunks of wo
 
 ## Ticket creation
 
-We strive for actionable tickets with clear goals and measures of accomplishment. Those asking for work to be done (e.g. reporting the ticket) should be able to agree with those doing the work in the ticket on when the ticket is done. Those doing the work in the ticket should have the resources they need to perform the work. This includes things like:
-
-* Links to wireframes and designs (and making sure those with access to work on the ticket have access to the wireframes and designs)
-* Screenshots of actual and desired states.
-* Step by step reproducibility for bugs.
-* Considerations of things that may break by performing the work.
-* Steps to test and verify the work was completed.
+Follow these [guidelines](https://handbook.mattermost.com/operations/research-and-development/product/development-process/new-bug-tickets)
 
 ## Ticket triage
 
