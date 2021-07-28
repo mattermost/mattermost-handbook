@@ -20,7 +20,7 @@ Ticket reach this state by having been assigned a sprint (could be the "Queued" 
 
 ### To Do
 
-Tickets reach this state by being assigned to the implementer, who has clear intention to work on the ticket soon (within the next Sprint or two). A ticket moves back to [Will Do](#will-do) if the implementer no longer has present or future bandwidth to do the work in the ticket.
+Tickets reach this state by being assigned to the implementer, who has clear intention to work on the ticket soon (within the next sprint or two). A ticket moves back to [Will Do](#will-do) if the implementer no longer has present or future bandwidth to do the work in the ticket.
 
 ### In Progress
 
