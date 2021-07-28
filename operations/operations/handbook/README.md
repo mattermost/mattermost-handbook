@@ -20,13 +20,13 @@ Great question. It's a team effort across the whole company, but we have a secre
 
 A Handbook Champion is a volunteer from a specific team/operational area who drives Handbook-first adoption and acts as a go-to in the team for Handbook questions.
 
-### How do I drive Handbook-first adoption?
-
-To put it simply, anytime someone in your team/operational area mentions a process in a meeting or asks about one, remind them that they should either document it or can find it in the Handbook. You may also be asked to review PRs before they're merged. In time, you'll find that you're reminding less, and being asked to review more... until Handbook-first becomes a company habit.
-
 ### What's expected of Handbook Champions?
 
-There's no time or output expectation - and it's completely voluntary. The only requirement is that you're excited about the Handbook and knowledge sharing, and love knowing that you're building something indispensable. 
+There's no time or output expectation - and it's completely voluntary. The only requirement is that you're excited about the Handbook and knowledge sharing, and love knowing that you're building something indispensable.
+
+### What do I need to do?
+
+To put it simply, anytime someone in your team/operational area mentions a process in a meeting or asks about one, remind them that they should either document it or can find it in the Handbook. You may also be asked to review PRs before they're merged. In time, you'll find that you're reminding less, and being asked to review more... until Handbook-first becomes a company habit.
 
 ### How do I get involved?
 
