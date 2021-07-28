@@ -8,7 +8,7 @@ Follow these [guidelines](https://handbook.mattermost.com/operations/research-an
 
 ## Ticket triage
 
-Ticket triage happens within the team's normal Sprint cycle. At that meeting, the team reviews all new tickets, assessing the scope, effort, and impact of the ticket. They make a decision of the priority of the ticket. Once its decided in triage meeting that the ticket should be worked on, the bug moves into its [first ticket state](#will-do).
+Ticket triage happens within the team's normal sprint cycle. At that meeting, the team reviews all new tickets, assessing the scope, effort, and impact of the ticket. They make a decision of the priority of the ticket. Once it's decided in triage meeting that the ticket should be worked on, the ticket moves into its [first ticket state](#will-do).
 
 ## Ticket states
 
