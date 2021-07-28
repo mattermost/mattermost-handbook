@@ -16,7 +16,7 @@ Handbook-first means that when you have a new idea, a new process, an update to 
 
 Great question. It's a team effort across the whole company, but we have a secret weapon in the form of Handbook Champions.
 
-## What are Handbook Champions
+## Handbook Champions
 
 A Handbook Champion is a volunteer from a specific team/operational area who drives Handbook-first adoption and acts as a go-to in the team for Handbook questions.
 
