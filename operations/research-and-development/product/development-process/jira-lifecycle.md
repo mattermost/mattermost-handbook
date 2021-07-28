@@ -4,7 +4,7 @@ In addition to Github Issues, we also use Jira tickets for managing chunks of wo
 
 ## Ticket creation
 
-Follow these [guidelines](https://handbook.mattermost.com/operations/research-and-development/product/development-process/new-bug-tickets)
+Follow these [guidelines](https://handbook.mattermost.com/operations/research-and-development/product/development-process/new-bug-tickets).
 
 ## Ticket triage
 
