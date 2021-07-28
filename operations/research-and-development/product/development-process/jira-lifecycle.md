@@ -24,7 +24,7 @@ Tickets reach this state by being assigned to the implementer, who has clear int
 
 ### In Progress
 
-Tickets reach this state by the implementer beginning to perform the work needed to finish the ticket. A ticket can be in progress for an indefinite period of time, but if tickets are routinely in progress across multiple Sprints, it is likely a sign that the tickets need better definition or reduction in scope. A ticket moves back to [To Do](#to-do) if the implmenter is no longer working towards completing the ticket.
+Tickets reach this state by the implementer beginning to perform the work needed to finish the ticket. A ticket can be in progress for an indefinite period of time, but if tickets are routinely in progress across multiple sprints, it is likely a sign that the tickets need better definition or reduction in scope. A ticket moves back to [To Do](#to-do) if the implmenter is no longer working towards completing the ticket.
 
 ### Submitted
 
