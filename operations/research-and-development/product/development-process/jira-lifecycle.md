@@ -1,4 +1,4 @@
-# Jira ticket lifecycle
+# Jira Ticket Lifecycle
 
 In addition to GitHub Issues, we also use Jira tickets for managing chunks of work to be performed.
 
