@@ -28,7 +28,7 @@ Tickets reach this state by the implementer beginning to perform the work needed
 
 ### Submitted
 
-For tickets that require code changes, tickets reach this state by the implementer opening a merge request. They can be in submitted state indefinitely as long as forward progress is being made in the merge request review. A ticket moves back to [In Progress](#in-progress) if are too many issues with the merge request for it to make sense to keep the merge request open.
+For tickets that require code changes, tickets reach this state by the implementer opening a pull request. They can be in submitted state indefinitely as long as forward progress is being made in the merge request review. A ticket moves back to [In Progress](#in-progress) if are too many issues with the pull request for it to make sense to keep the pull request open.
 
 ### Done
 
