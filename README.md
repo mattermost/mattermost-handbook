@@ -1,18 +1,17 @@
 # Mattermost Handbook
 
-The purpose of this handbook is to _**iteratively increase clarity**_ for Mattermost staff and community co-building the future of our company and our offerings.
+The Mattermost Handbook is a continual work-in-progress for _Mattermost staff_--people who are paid to work on our open source software and to help run the company behind our software. The purpose of this handbook is to _**iteratively increase clarity**_ for Mattermost staff and community co-building the future of our company and our offerings.
 
-It's Day 1 at Mattermost. We're a growing company and growing open source project out to support the massive transformation underway as open source software unlocks the massive potential of people and teams around the world.
+Early in our history, when we were a much smaller company, our staff handbook was included in our product documentation. Now the Handbook lives in the the dedicated repository at [https://github.com/mattermost/mattermost-handbook](https://github.com/mattermost/mattermost-handbook) which is edited using GitBook as a frontend. 
+Want to contribute to the Handbook? Start here: [How to update the Handbook](company/how-to-guides-for-staff/how-to-update-handbook.md).
 
-The "Mattermost Handbook" is a continual work-in-progress for _Mattermost staff_--people who are paid to work on our open source software and to help run the company behind our software.
+All documentation is available under the terms of a [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
-Early in our history, when we were a much smaller company, [our staff handbook was included in our product documentation](https://docs.mattermost.com/guides/core.html) and we are incrementally moving out of our documentation and into the dedicated repository at [https://github.com/mattermost/mattermost-handbook](https://github.com/mattermost/mattermost-handbook) which is edited using GitBook as a frontend.
-
-Some norms you'll see here in the handbook:
+Some norms you'll see here in the Handbook:
 
 ## Growing companies are a work-in-progress
 
-As an open source company we like to share early. Sharing ideas early gets us feedback sooner, so we can iterate faster, so we can better results.
+It's Day 1 at Mattermost. We're a growing company and growing open source project out to support the massive transformation underway as open source software unlocks the massive potential of people and teams around the world. As an open source company we like to share early. Sharing ideas early gets us feedback sooner, so we can iterate faster, so we can better results.
 
 We have a mindset of [1% and 50% drafts](company/about-mattermost/mindsets.md#drafts-at-1-50-99) that express how complete our thinking is around proposal we're reviewing.
 
