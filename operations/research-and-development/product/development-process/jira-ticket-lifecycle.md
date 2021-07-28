@@ -30,7 +30,7 @@ Tickets reach this state by the implementer beginning to perform the work needed
 
 For tickets that require code changes, tickets reach this state by the implementer opening a pull request. Many tickets can be tested by QA at the time of the pull request. For such tickets, the QA steps to test and verify should be added to the ticket when moving the ticket to the "Submitted" state.
 
-Tickets can be in submitted state indefinitely as long as forward progress is being made in the merge request review. A ticket moves back to [In Progress](#in-progress) if are too many issues with the pull request for it to make sense to keep the pull request open.
+Tickets can be in submitted state indefinitely as long as forward progress is being made in the pull request review. A ticket moves back to [In Progress](#in-progress) if are too many issues with the pull request for it to make sense to keep the pull request open.
 
 ### Done
 
