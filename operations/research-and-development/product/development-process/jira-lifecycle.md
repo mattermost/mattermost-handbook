@@ -32,4 +32,4 @@ For tickets that require code changes, tickets reach this state by the implement
 
 ### Done
 
-Tickets reach this state by having a merge request merged. Once moved to this state, tickets trigger additional work to be performed by the QA team. Tickets move back into [In Progress](#in-progress) from this state if QA detects there are defects or regressions because of the work merged by the ticket.
+Tickets reach this state by having a pull request merged. Once moved to this state, tickets trigger additional work to be performed by the QA team. Tickets move back into [In Progress](#in-progress) from this state if QA detects there are defects or regressions because of the work merged by the ticket.
