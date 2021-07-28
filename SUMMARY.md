@@ -41,7 +41,7 @@
           * [Contribute to Documentation](operations/operations/publishing/publishing-guidelines/submitting-documentation-with-your-PR.md) 
         * [Confidentiality Guidelines](operations/operations/publishing/publishing-guidelines/confidentiality-guidelines.md)
       * [Post-Publication Quality Control Process](operations/operations/publishing/quality-control-process.md)
-  * [Handbook Processes and Policies](/operations/operations/handbook/readme.md)
+  * [Handbook Processes and Policies](/operations/operations/handbook/README.md)
   * [Previous Fiscal Year Information](operations/operations/previous-fiscal-year-information.md)
 * [Research and Development](operations/research-and-development/README.md)
   * [Product](operations/research-and-development/product/README.md)
