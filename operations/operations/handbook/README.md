@@ -18,20 +18,28 @@ Great question. It's a team effort across the whole company, but we have a secre
 
 ## Handbook Champions
 
-A Handbook Champion is a volunteer from a specific team/operational area who drives Handbook-first adoption and acts as a go-to in the team for Handbook questions.
+A Handbook Champion is a volunteer from a specific team/operational area who drives Handbook-first adoption and acts as a go-to in the team for Handbook questions. While they aren't responsible for a set num
 
 ### What's expected of Handbook Champions?
 
-There's no time or output expectation - and it's completely voluntary. The only requirement is that you're excited about the Handbook and knowledge sharing, and love knowing that you're building something indispensable.
+The only requirements are that you're excited about the Handbook and knowledge sharing, and love knowing that you're building something indispensable.
+
+There's no set time or output expectation - and it's completely voluntary. The idea is not to have you write or update everything yourself, but to corral your team/operational area and get them into the habit of documenting everything in the Handbook.
 
 ### What do I need to do?
 
 To put it simply, anytime someone in your team/operational area mentions a process in a meeting or asks about one, remind them that they should either document it or can find it in the Handbook. You may also be asked to review PRs before they're merged. In time, you'll find that you're reminding less, and being asked to review more... until Handbook-first becomes a company habit.
 
+Of course, if you have ideas for content that's needed or content that should be updated and you're happy to tackle some of it that's fantastic. Likewise if you have suggestions, ideas, complaints, or issues - feel free to raise them.
+
 ### How do I get involved?
 
 You can join the Handbook Champions channel, and then also update this list with your name and team/organizational area. There can be multiple champions per team.
 
+### Will there be meetings?
+
+Yes. We'll sync up once every two weeks initially, for 25 minutes. This will allow us to catch up, sync up, and keep up.
+
 ### Do I get a cool badge?
 
-Yes! You get a Handbook Champion badge, and may also be eligible for a Contribution Champion badge, depending a number of factors.
+Yes! You get a Handbook Champion badge, and may also be eligible for a Contribution Champion badge, depending a number of factors. There's also swag on offer.
