@@ -94,6 +94,8 @@
     * [Integrations Team Processes](operations/research-and-development/engineering/integrations.md)
     * [Plugin Release Process](operations/research-and-development/engineering/plugin-release-process.md)
     * [Data Engineering](operations/research-and-development/engineering/data-engineering.md)
+    * [Sustained Engineering](operations/research-and-development/engineering/sustained-engineering/team.md)
+       * [On Call](operations/research-and-development/engineering/sustained-engineering/on-call.md)
   * [Quality Assurance](operations/research-and-development/quality/README.md)
     * [QA Workflow](operations/research-and-development/quality/qa-workflow/README.md)
     * [QA Testing Tips and Tools](operations/research-and-development/quality/testing-tips-and-tools.md)
