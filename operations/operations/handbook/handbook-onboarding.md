@@ -1,6 +1,6 @@
 # Getting Started with the Handbook
 
-The Mattermost Handbook is a work-in-progress in that information is constantly being updated, added, revised, and edited. 
+The Mattermost Handbook is a work-in-progress in that information is constantly being updated, added, revised, and edited.
 
 ## Editing the Handbook
 
