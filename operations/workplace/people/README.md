@@ -15,6 +15,7 @@ Description: >-
 
 | Date | Edited By | Change Notes |
 | :--- | :--- | :--- |
+| 7/21/2021 | Lynn Conway | Updated Team |
 | 7/10/2020 | Natalie Jew | Updated Employment Verification |
 | 7/10/2020 | Natalie Jew | Added HR Systems |
 | 7/8/2020 | Natalie Jew | Added [Recruiting Process - stage descriptions](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#recruiter-intake-session) |
@@ -30,14 +31,14 @@ Description: >-
   * [💬](https://emojipedia.org/speech-balloon/)[People Ops Channel](https://community.mattermost.com/private-core/channels/people-ops)
   * 📁[Legacy PeopleOps Page](https://docs.mattermost.com/process/people-ops.html)\(to be [tomb-stoned](../../../company/about-mattermost/list-of-terms.md#tomb-stoned)\)
 * Compensation
-  * 🧑@natalie.jew - [Natalie Jew](https://mattermost.bamboohr.com/employees/employee.php?id=174&page=2077) - Director of HR  or 🧑@lynn.conway - [Lynn Conway](https://mattermost.bamboohr.com/employees/employee.php?id=207&page=2077)
+  * @idayat.ogungbade - [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) - Total Rewards Manager 
 * Employment Verification
-  * 🧑@lynn.conway - [Lynn Conway](https://mattermost.bamboohr.com/employees/employee.php?id=207&page=2077) 
+  * @cecily.sullivan - [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) - HR Generalist 
 * Benefits
   * 📁[Legacy U.S. Benefits Page](https://docs.mattermost.com/process/benefits-us.html) \(to be [tomb-stoned](../../../company/about-mattermost/list-of-terms.md#tomb-stoned)\)
-    * 🧑@natalie.jew - [Natalie Jew](https://mattermost.bamboohr.com/employees/employee.php?id=174&page=2077) 
+    * @cecily.sullivan - [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) 
   * 📁[Legacy Canadian Benefits](https://docs.mattermost.com/process/benefits-canada.html) \(to be [tomb-stoned](../../../company/about-mattermost/list-of-terms.md#tomb-stoned)\) 
-    * 🧑@lynn.conway - [Lynn Conway](https://mattermost.bamboohr.com/employees/employee.php?id=207&page=2077) 
+    * @lynn.conway - [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) 
 * For Managers
   * Hiring
     * 📁[Hiring workflow ](https://docs.google.com/document/d/1EBIoL0kHqj2S3DtwAz9FvDgYDljZ5KoQpAnYePO84s8/edit)
@@ -51,12 +52,14 @@ Description: >-
 
 HR
 
-* 🧑@natalie.jew - [Natalie Jew](https://mattermost.bamboohr.com/employees/employee.php?id=174&page=2077) - Director of HR
-* 🧑@lynn.conway - [Lynn Conway](https://mattermost.bamboohr.com/employees/employee.php?id=207&page=2077) - People Partner
+* @natalie.jew - [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew) - Director of HR
+* @lynn.conway - [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) - People Partner
+* @cecily.sullivan - [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) - HR Generalist
+* @idayat.ogungbade - [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) - Total Rewards Manager
 
 Recruiting
 
-* 🧑@teresa.novoa - [Teresa Novoa](https://mattermost.bamboohr.com/employees/employee.php?id=113&page=2077) - Technical Recruiting Manager
+* @teresa.novoa - [Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa) - Technical Recruiting Manager
 
 ## General Information
 
@@ -114,7 +117,6 @@ Resources: How-to for Staff Members
 >  * [Update your information](https://help.bamboohr.com/hc/en-us/sections/206084487-Managing-Your-Information)
 >  * [Find the Company Directory](https://help.bamboohr.com/hc/en-us/articles/216836007)
 >  * [Update your Information](https://help.bamboohr.com/hc/en-us/articles/227321928-Employee-Access-Manual) 
-
 
 ### Culture Amp
 
