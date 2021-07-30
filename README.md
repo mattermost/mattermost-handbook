@@ -1,6 +1,6 @@
 # Mattermost Handbook
 
-The Mattermost Handbook is a continual work-in-progress for _Mattermost staff_--people who are paid to work on our open source software and to help run the company behind our software. The purpose of this handbook is to _**iteratively increase clarity**_ for Mattermost staff and community co-building the future of our company and our offerings.
+The Mattermost Handbook is a continual work-in-progress or Mattermost staff (people who are paid to work on our open source software), contributor community, and end user community. We use it to document the processes that underpin our company behind our software. Its purpose is to **iteratively increase clarity** for Mattermost staff and community co-building the future of our company and our offerings, and provide a single-source of truth.
 
 Early in our history, when we were a much smaller company, our staff handbook was included in our product documentation. Now the Handbook lives in the the dedicated repository at [https://github.com/mattermost/mattermost-handbook](https://github.com/mattermost/mattermost-handbook) which is edited using GitBook as a frontend. 
 
