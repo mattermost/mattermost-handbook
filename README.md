@@ -3,6 +3,7 @@
 The Mattermost Handbook is a continual work-in-progress for _Mattermost staff_--people who are paid to work on our open source software and to help run the company behind our software. The purpose of this handbook is to _**iteratively increase clarity**_ for Mattermost staff and community co-building the future of our company and our offerings.
 
 Early in our history, when we were a much smaller company, our staff handbook was included in our product documentation. Now the Handbook lives in the the dedicated repository at [https://github.com/mattermost/mattermost-handbook](https://github.com/mattermost/mattermost-handbook) which is edited using GitBook as a frontend. 
+
 Want to contribute to the Handbook? Start here: [How to update the Handbook](company/how-to-guides-for-staff/how-to-update-handbook.md).
 
 All documentation is available under the terms of a [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/3.0/).
