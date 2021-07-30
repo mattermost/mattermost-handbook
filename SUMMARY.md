@@ -68,6 +68,7 @@
       * [Mobile Feature Guidelines](operations/research-and-development/product/development-process/mobile-feature-guidelines.md)
       * [Deprecation Policy](operations/research-and-development/product/development-process/deprecated-features.md)
       * [Mattermost Software Requirements Process](operations/research-and-development/product/development-process/software-requirements.md)
+      * [Jira Ticket Lifecycle](operations/research-and-development/product/development-process/jira-ticket-lifecycle.md)
       * [Creating New Jira Bug Tickets](operations/research-and-development/product/development-process/new-bug-tickets.md)
         * [Severity Levels for Bug Tickets](operations/research-and-development/product/development-process/bug-severity-guidelines.md)
         * [Jira Fix Versions](operations/research-and-development/product/development-process/jira-fix-versions.md)
