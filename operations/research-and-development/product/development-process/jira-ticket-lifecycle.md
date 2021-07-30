@@ -38,11 +38,11 @@ Tickets reach this state by having a pull request merged. Once moved to this sta
 
 A ticket could also move to "Done" from any state if it is decided that the work or change will not be performed or accepted. Common reasons for this include:
 
-* the ticket is a duplicate of another
-* the ticket is no longer relevant
-* priorities changed enough that the ticket will never be worked on
-* a bug ticket can not be reproduced
-* what is observed in the bug ticket is deemed acceptable behavior
+* The ticket is a duplicate of another.
+* The ticket is no longer relevant.
+* Priorities changed enough that the ticket will never be worked on.
+* A bug ticket can not be reproduced.
+* What is observed in the bug ticket is deemed acceptable behavior.
 
 ### Close
 
