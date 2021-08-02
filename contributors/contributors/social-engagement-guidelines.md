@@ -62,7 +62,7 @@ Below are guidelines or processes for specific forums we engage with the Matterm
 
 **Intended Outcomes**
 
-1. **Likes and loves:** Every promoter feels appreciated (like, heart, etc.) and we have acknowledgement to the best content (re-tweet, quoted re-tweet, mention, shout out, replies, * humor, etc.)
+1. **Likes and loves:** Every promoter feels appreciated (like, heart, etc.) and we have acknowledged the best content (re-tweet, quoted re-tweet, mention, shout out, replies, * humor, etc.)
 2. **Listening and respond:** Everyone with a relevant question gets a reply in 1 business day (except trolls)
 3. **Data, learning, and iteration:** Understand how we're doing week-to-week, what we've learned, and how we'll up-level our approach.
 
