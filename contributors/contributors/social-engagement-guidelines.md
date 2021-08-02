@@ -26,7 +26,7 @@ Ultimately, when responding to users you should always keep the Golden Rule in m
 * Ask someone who knows the answer instead of replying with an assumption or incomplete understanding.
 * Don't be afraid to reroute if you don't have the answer and are having trouble figuring it out. A good place to start is the [Mattermost peer-to-peer help channel](https://community-release.mattermost.com/core/channels/peer-to-peer-help).
 
-3. **Choose over-communication vs under-communication**
+3. **Choose over-communication vs. under-communication**
 
 * Providing as much knowledge, context, and documentation up-front can reduce the number of interactions needed for the conversation to be satisfied.
 * Make reducing frustration a priority; e.g., if you need to ask someone else for an answer and think it might take some time to discuss, inform the user so they can expect a delayed response.
