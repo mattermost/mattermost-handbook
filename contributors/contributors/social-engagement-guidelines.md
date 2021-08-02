@@ -90,7 +90,7 @@ Below are guidelines or processes for specific forums we engage with the Matterm
 2. Asks for a specific feature or group of features.
 * **Multiple Feature Requests:** *Thank you for the suggestions @username. Would you be open to contributing them in the feature idea forum so they can be discussed and upvoted by the community? You get 10 votes in the feature idea forum, and each one influences the future of the project. https://mattermost.uservoice.com/*
 * **Single Feature Request:** *Thank you for the suggestion @username. Would you be open to contributing it in the feature idea forum so it can be discussed and upvoted by the community? You get 10 votes in the feature idea forum, and each one influences the future of the project. https://mattermost.uservoice.com/*
-* **Planned Feature Request:** *Thank you for your feedback. We are excited to share that [feature] will be available in our [edition] Edition soon. Please see our forum post for more information: [link to forum post].*
+* **Planned Feature Request:** *Thank you for your feedback. We're excited to share that [feature] will be available in our [edition] Edition soon. Please see our forum post for more information: [link to forum post].*
 * **Shipped Feature Request:** Thank you for your feedback. Mattermost already supports [feature]. You can learn more about it in our documentation: [link to docs].
 3. Feedback about their experience, not specific to a feature or a product.
 * *Appreciate the feedback. If your team has suggestions on how to improve Mattermost, we would love to hear more in our feature proposal forum. You get 10 votes there, and each one influences the future of the project: https://mattermost.uservoice.com/* or
