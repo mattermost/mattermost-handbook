@@ -93,7 +93,7 @@ Below are guidelines or processes for specific forums we engage with the Matterm
 * **Planned Feature Request:** *Thank you for your feedback. We're excited to share that [feature] will be available in our [edition] Edition soon. Please see our forum post for more information: [link to forum post].*
 * **Shipped Feature Request:** Thank you for your feedback. Mattermost already supports [feature]. You can learn more about it in our documentation: [link to docs].
 3. Feedback about their experience, not specific to a feature or a product.
-* *Appreciate the feedback. If your team has suggestions on how to improve Mattermost, we would love to hear more in our feature proposal forum. You get 10 votes there, and each one influences the future of the project: https://mattermost.uservoice.com/* or
+* *Appreciate the feedback. If your team has suggestions on how to improve Mattermost, we'd love to hear more in our feature proposal forum. You get 10 votes there, and each one influences the future of the project: https://mattermost.uservoice.com/* or
 * *Thanks @{username}, highly appreciate your feedback. If you have additional feedback about your experience, we'd love to hear. You can share at http://forum.mattermost.org to start a discussion.*
 4. Tweet of forum post, asking someone from Mattermost team to respond.
 * *Thank you for reaching out. Our team responded to you in the forums and we're happy to help with further questions there.* 
