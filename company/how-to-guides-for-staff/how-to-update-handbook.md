@@ -1,9 +1,27 @@
 # How to Update the Handbook
 
+## Who can update update the Handbook?
+
+Contributions from everyone, from staff members to community members, are welcome. You don't have to work at Mattermost to submit an update or fix something that's caught your eye.
+
+## How do I know what to update?
+
+"Update the Handbook" is a term we use regularly at Mattermost but it's not always obvious exactly what to update or how. Here are some examples of what a Handbook update could be:
+
+* Updating your team page with new team members and AORs.
+* Adding a new page to describe a new process.
+* Updating existing content to accommodate a change in process, policy, or requirement.
+* Archiving old content that should be preserved for reference.
+
+Updating the Handbook can be as easy as fixing a typo, or as complex as reorganizing an entire section. The key is to update it regularly, so that updates are less daunting and time-consuming.
+
 ## Guidelines
+
+The Handbook is a public-facing body of work and although it's a constantly-evolving work-in-progress, we still need to ensure our content is accurate, easy to read, and clear.
 
 * **Be concise:** Say what's essential, not more.
 * **Get feedback:** Have someone from your target audience read your draft to share feedback so you can [savor surprises](../about-mattermost/mindsets.md#savor-surprises).
+* **Don't aim for perfection:** Our goal is regular iteration and so your content doesn't have to be perfect before it's published. It will be reviewed by an editor prior to publication so any major errors will be addressed then.
 
 ## Steps
 
