@@ -24,7 +24,7 @@ Ultimately, when responding to users you should always keep the Golden Rule in m
 2. **Don't answer if unsure**
 
 * Ask someone who knows the answer instead of replying with an assumption or incomplete understanding.
-* Don't be afraid to reroute if you don't have the answer and are having trouble figuring it out. A good place to start is the [Mattermost peer-to-peer help channel](https://community-release.mattermost.com/core/channels/peer-to-peer-help)
+* Don't be afraid to reroute if you don't have the answer and are having trouble figuring it out. A good place to start is the [Mattermost peer-to-peer help channel](https://community-release.mattermost.com/core/channels/peer-to-peer-help).
 
 3. **Choose over-communication vs under-communication**
 
