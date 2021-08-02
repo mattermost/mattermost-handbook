@@ -19,7 +19,7 @@ Ultimately, when responding to users you should always keep the Golden Rule in m
 1. **Be professional**
 
 * Maintain professionalism in your responses, as you are speaking as a member of the company. Avoid slang or colloquialisms that may not translate well across other languages.
-* Do not use humour in your responses, as it can be received in the wrong way by the community. Instead, stay factual when answering questions.
+* Do not use humor in your responses, as it can be received in the wrong way by the community. Instead, stay factual when answering questions.
 
 2. **Don't answer if unsure**
 
