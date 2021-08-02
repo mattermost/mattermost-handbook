@@ -8,7 +8,7 @@ Improve the Mattermost brand by responding to all Mattermost mentions and questi
 
 ## Principles
 
-1. **Earn Trust** - Take actions that maximize the trust of others. Be empathetic, consistent, knowledgeable and truthful.
+1. **Earn Trust:** Take actions that maximize the trust of others. Be empathetic, consistent, knowledgeable, and truthful.
 
 ## General Guidelines
 
