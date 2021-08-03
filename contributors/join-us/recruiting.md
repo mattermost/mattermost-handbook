@@ -57,7 +57,7 @@ Own the outcomes of your work: When working on problems, requests, and feedback 
 
 #### 4. Make Meaningful Connections
 
-We have ice-breakers in some meetings to learn more about each other. It’s part of our culture where we get to know each other. Find time after meetings and video conferences to get to know your teammates. Ask them about their weekends and how their life is outside of work.
+We have [ice-breakers](https://handbook.mattermost.com/contributors/join-us/ice-breakers) in some meetings to learn more about each other. It’s part of our culture where we get to know each other. Find time after meetings and video conferences to get to know your teammates. Ask them about their weekends and how their life is outside of work.
 
 When you meet in person at off-sites and events, build on those relationships.
 
