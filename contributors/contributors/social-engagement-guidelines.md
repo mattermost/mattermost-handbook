@@ -109,7 +109,7 @@ Below are guidelines or processes for specific forums we engage with the Matterm
 
 5. Customer asking for help to address an issue they are having with a deployment or specific feature in the system.
 
-    *Thank you for reaching out. We recommend opening a support ticket where our team can best help you troubleshoot the issue. For more information about Enterprise Edition support levels, see https://about.mattermost.com/support/.*
+    * *Thank you for reaching out. We recommend opening a support ticket where our team can best help you troubleshoot the issue. For more information about Enterprise Edition support levels, see https://about.mattermost.com/support/.*
 
 **What do we retweet?**
 
@@ -126,7 +126,7 @@ Below are guidelines or processes for specific forums we engage with the Matterm
 
 4. Third-party content about using Mattermost 
 
-    * e.g., “Mattermost Recipes” not written by Mattermost
+    * E.g., “Mattermost Recipes” not written by Mattermost
 
 5. Announcements about upcoming events we will be attending
 
