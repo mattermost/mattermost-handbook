@@ -14,17 +14,25 @@ Handbook-first means that when you have a new idea, a new process, an update to 
 
 ### How do we drive Handbook-first?
 
-Great question. It's a team effort across the whole company, but we have a secret weapon in the form of Handbook Champions.
+Great question. It's a team effort across the whole company, but we plan to have a secret weapon in the form of Handbook Champions. 
 
 ## Handbook Champions
 
-A Handbook Champion is a volunteer from a specific team/operational area who drives Handbook-first adoption and acts as a go-to in the team for Handbook questions. While they aren't responsible for a set num
+A Handbook Champion is a volunteer from a specific team/operational area who drives Handbook-first adoption and acts as a go-to in the team for Handbook questions. They also enjoy saying "oh you can find that in the Handbook!" and "You should put the in the Handbook!". They're motivated by the understanding that a single source of truth is empowering and decreases wasted time. Lastly, Handbook Champions enjoy working with their team to ensure processes, ideas, plans, and everything in between are documented in the Handbook. 
+
+The long-term goal is that Handbook Champions will have a huge impact on Mattermost by supporting constant iteration, decreasing the barrier to information, and breaking down knowledge silos.
 
 ### What's expected of Handbook Champions?
 
 The only requirements are that you're excited about the Handbook and knowledge sharing, and love knowing that you're building something indispensable.
 
-There's no set time or output expectation - and it's completely voluntary. The idea is not to have you write or update everything yourself, but to corral your team/operational area and get them into the habit of documenting everything in the Handbook.
+There's no set time or output expectation - and it's completely voluntary. The idea is not to have you write or update everything yourself, but to corral your team/operational area and get them into the habit of documenting everything in the Handbook. Another aspect is sharing outstanding Help Wanted issues with your team to see where any gaps can be filled.
+
+However, if the Handbook is something you're passionate about:
+
+* You can take as much initiative as you want.
+* You can suggest and own new content.
+* You can help drive change and alignment if that’s what you’re interested in.
 
 ### What do I need to do?
 
@@ -34,7 +42,7 @@ Of course, if you have ideas for content that's needed or content that should be
 
 ### How do I get involved?
 
-You can join the Handbook Champions channel, and then also update this list with your name and team/organizational area. There can be multiple champions per team.
+You can join the [Handbook Champions channel](https://community.mattermost.com/private-core/channels/handbook-champions), and then also update [this list](https://docs.google.com/spreadsheets/d/1emT9vTA-D61uESeQdLuFZY-dY6MNBDpyaH7z_pw6hYI/edit?usp=sharing) with your name and team/organizational area. There can be multiple champions per team.
 
 ### Will there be meetings?
 
@@ -42,4 +50,4 @@ Yes. We'll sync up once every two weeks initially, for 25 minutes. This will all
 
 ### Do I get a cool badge?
 
-Yes! You get a Handbook Champion badge, and may also be eligible for a Contribution Champion badge, depending a number of factors. There's also swag on offer.
+Yes! You get a Handbook Champion badge, and may also be eligible for a Contribution Champion badge, depending a number of factors. There's also swag on offer (of course!)
