@@ -221,6 +221,7 @@
   * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
   * [MatterCon2021](contributors/mattercon/mattercon2021.md)
 * [Join Us](contributors/join-us/README.md)
+  * [Ice-breakers](contributors/join-us/ice-breakers.md)
   * [Help Wanted Tickets](contributors/contributors/help-wanted.md)
   * [Localization](contributors/contributors/localization.md)
   * [Mattermost GitHub Sponsorship](contributors/contributors/github-sponsorship.md)
