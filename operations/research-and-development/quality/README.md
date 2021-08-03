@@ -12,7 +12,7 @@ If you'd like to learn more, you are welcome to join the Mattermost community an
 - [QA: Contributors](https://community.mattermost.com/core/channels/qa-contributors) for info and discussions about contributing to QA efforts at Mattermost
 
 ## In this Section
-### UI Test Automation
-### QA Workflow
-### Testing Tips and Tools
+### [e2e Test Writing](https://developers.mattermost.com/contribute/webapp/end-to-end-tests)
+### [QA Workflow](https://handbook.mattermost.com/operations/research-and-development/quality/qa-workflow)
+### [Testing Tips and Tools](https://handbook.mattermost.com/operations/research-and-development/quality/testing-tips-and-tools)
 ### Test Case and Test Cycle Management
