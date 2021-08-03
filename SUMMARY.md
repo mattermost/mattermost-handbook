@@ -211,7 +211,7 @@
   * [Core Committers](contributors/contributors/core-committers.md)
   * [Community Systems](contributors/contributors/community-systems.md)
   * [Guidelines & Playbooks](contributors/contributors/guidelines.md)
-    * [Social Engagement Guidelines](conributors/contributors/social-engagement-guidelines.md)
+    * [Social Engagement Guidelines](contributors/contributors/social-engagement-guidelines.md)
     * [Contribution Guidelines and Code of Conduct](contributors/contributors/contribution-guidelines.md)
     * [Mattermost Community Playbook](contributors/contributors/community-playbook.md)
     * [How to Run a Hackathon](contributors/contributors/how-to-run-a-hackathon.md)
