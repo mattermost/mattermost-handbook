@@ -159,8 +159,8 @@ Typically the AA is the last person on the interview loop and scheduled in advan
 
 The following list of people are approved as As Appropriate interviewers:
 
-* Ian Tien, CEO and co-founder
-* Corey Hulen, CTO and co-founder
+* Ian Tien, CEO and co-founder (final approver for any FTE other than in Chris Overton's org)
+* Corey Hulen, CTO and co-founder (final approver for any engineer in Chris Overton's org) 
 
 Each AA interviewer should have at least three reserved slots per week available for AA interviews, ideally in different timezone ranges, providing capacity for 12 new hires per month per AA.
 
