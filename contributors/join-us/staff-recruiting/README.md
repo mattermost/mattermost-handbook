@@ -159,8 +159,8 @@ Typically the AA is the last person on the interview loop and scheduled in advan
 
 The following list of people are approved as As Appropriate interviewers:
 
-* Ian Tien, CEO and co-founder
-* Corey Hulen, CTO and co-founder
+* Ian Tien, CEO and co-founder for anyone who is not an engineer in the R&D department  
+* Corey Hulen, CTO and co-founder for all engineers in the R&D department. 
 
 Each AA interviewer should have at least three reserved slots per week available for AA interviews, ideally in different timezone ranges, providing capacity for 12 new hires per month per AA.
 
@@ -170,6 +170,7 @@ Each AA interviewer should have at least three reserved slots per week available
 
 * A complete [Mid-Interview summary](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#bookmark=id.vjo02zxnnbyi).
 * Attachments of any work artifacts produced during the interview loop.
+* Compensation expectations in a SECRET note in Lever. 
 
 **Logistics**
 
