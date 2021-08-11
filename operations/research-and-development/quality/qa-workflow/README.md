@@ -26,7 +26,7 @@ Note: Specific teams may develop their own variations on this workflow. This is 
 1. Develop test plans for new features, add test cases to Zephyr test management
 2. Approve new features after manual testing passes
 3. (QA Platform) Oversee testing infrastructure and server needs
-4. Help tend to community campaigns such as test automation Hackathons
+4. Help tend to community campaigns such as test automation Hackathons and QA community feature testing
 5. Add or update documentation as you find need or opportunity
 
 ------------------------------------------
