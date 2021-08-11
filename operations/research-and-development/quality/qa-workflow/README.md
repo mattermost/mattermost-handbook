@@ -17,7 +17,7 @@ Note: Specific teams may develop their own variations on this workflow. This is 
 6. (QA Platform) Manual release testing and maintenance
 
 ### Monthly
-1. SDET rotation to monitor nightly automated tests and investigate and update as needed (see below)
+1. SDET (Software Development Engineer in Test, the test engineers in QA) rotation to monitor nightly automated tests and investigate and update as needed (see below)
 2. Oversee your team's release testing and QA-approve releases (cadence may vary by team / product)
 3. (QA Platform) Detox mobile release testing and maintenance
 
