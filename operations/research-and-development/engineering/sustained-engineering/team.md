@@ -1,13 +1,10 @@
 # The Sustained Engineering Team (SET)
-The Sustained Engineering Team (SET) is responsible for improving and maintaining quality of the Mattermost products. Its role is ever evolving, but currently primarily focuses on:
-
-1. Responding to customer incidents and questions escalated by support (either via OpsGenie or the [~Sustained Engineering](https://community.mattermost.com/core/channels/sustained-engineering) channel)
-2. Responding to any incidents on company Mattermost environments like community and community-daily
-
-Often, people in SET primarily play the role first responders, then handing off to whichever engineering team best equipped to resolve the issue. 
+The Sustained Engineering Team (SET) is responsible for improving and maintaining quality of the Mattermost products, as well as helping support with any issues they require engineering support with. Often, people in SET primarily play the role of first responders, then handing off to whichever engineering team best equipped to resolve an issue. 
 
 ## Team Members
-SET is a rotating team that is comprised of engineers from the different engineering teams. The rotation is on a weekly cycle for engineers, and two-week cycle for leads. Who is currently on SET can be seen in the header of the [~Sustained Engineering](https://community.mattermost.com/core/channels/sustained-engineering) channel.
+SET is a rotating team that is comprised of engineers from the different engineering teams. The rotation is on a weekly cycle for engineers, and two-week cycle for leads.
+
+Who is currently on SET can be seen in the header of the [~Sustained Engineering](https://community.mattermost.com/core/channels/sustained-engineering) channel.
 
 Engineering teams will commit a total of 4 engineers plus a lead to SET for each rotation. While on SET, that engineer should attend their feature team's sprint planning, but it should be taken into account that any urgent SET-related issue may take them out of the regular day-to-day planned work. Plan appropriately.
 
@@ -22,24 +19,24 @@ The SET Lead is also on call (via OpsGenie), and is escalated to whenever neithe
 
 The **SET Primary** is usually an engineer from one of the engineering teams. The SET Primary is the first person to respond to any issues escalated. There are two ways to respond to an issue:
 
-1. Handle the issue themselves, e.g. by implementing a fix
-2. Hand off the issue to the appropriate team or person
+1. Handle the issue itself, e.g. by implementing a fix, answering a question.
+2. Hand off the issue to the appropriate team or person.
 
-The **SET Backup** is usually an engineer from one of the engineering teams. In case thet SET Primary is not available or unresponsive, the back-up temporarily takes over. 
+The **SET Backup** is usually an engineer from one of the engineering teams. In case thet SET Primary is not available or unresponsive, the back-up temporarily takes over. In certain situations it may also be required for the primary to ask for help to the backup.
 
+## Workflow
 
-## Workflow Process
+Work for SET comes from various sources:
 
-SET works in a continuous style using this [Kanban JIRA board](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=33). Tickets in the TO DO column should be organized from highest priority to lowest priority, based on the [Priority of Work](#priority-of-work) section. The SET lead should make sure that the tickets are priority ordered but team members can move tickets around to meet the correct priorities as necessary.
-
-Team members on SET should pull tickets off the top of TO DO queue, work on them to completion and then pull another one off the TO DO queue.
-
-Discussion related to SET should occur in the [~Sustained Engineering](https://community.mattermost.com/core/channels/sustained-engineering) channel on https://community.mattermost.com.
+1. The SET [Kanban JIRA board](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=33). Tickets in the TO DO column should be organized from highest priority to lowest priority, based on the [Priority of Work](#priority-of-work) section. The SET lead should make sure that the tickets are priority ordered but team members can move tickets around to meet the correct priorities as necessary. If tickets get stuck in a certain state, it's also the SET responsibility to push them to completion, either by nudging people or taking them over.
+2. OpsGenie: Support has an e-mail address they will send urgent escalations to. These result in pages in OpsDuty, first sent to the SET Primary, then to SET Back-up and ultimately to the SET Lead when not timely acknowledged.
+3. The [~Sustained Engineering](https://community-daily.mattermost.com/core/channels/sustained-engineering) channel. Support may use this channel to ask questions or raise urgent issues.
+4. The [~Ask R&D](https://community-daily.mattermost.com/core/channels/ask-r-and-d) channel. This is the place where support and community can ask any type of R&D related questions.
 
 
 ## Triage
 
-SET triages SET tickets asynchronously and also helps Release Manager to
+SET triages [SET tickets](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=33) asynchronously and also helps the Release Manager to
 
 * Help route new unassigned tickets to the appropriate engineering team
 * Assign bugs to SET when there is no clear engineering team owner
@@ -51,18 +48,12 @@ Below is how SET prioritizes what is worked on.
 
 1. Quality issues affecting community.mattermost.com or community-daily.mattermost.com
   * When a high impact issue affects the community server, SET responds and is responsible to coordinate fixing
-  * Primary goal is to restore stability, whether this is fixing or reverting code
+  * The primary goal is to restore stability, whether this is achieved by fixing the issue or reverting code
 2. Handles customer support escalation
-  * Primary goal is to help with issues that require code change
+  * The rimary goal is to help with issues that require code changes or in-depth knowledge of the code internals
   * Be helpful with training/knowledge sharing for the support team
   * Identify customer support requests that are features and route to PM as necessary
 3. General bug fixes
   * Pick up any bugs in triage without an obvious owning feature team
   * Work on bugs in this order: hotfix, release, customer reported, other
-
-## Customer and Pre-Sales Support Escalation Process
-
-Part of SET's responsibility is to interface with the customer support team. SET's primary goal in respect to support is to triage escalated support issues, work on any high priority customer bugs requiring code change, as well as provide training and knowledge share with the customer support team. 
-
-For details on the Customer/Pre-Sales Support Escalation Process, please refer to [this document](https://docs.google.com/document/d/1eEnG0YA6G8_1futRlvBs2Vm88xkc0nTnZCynYXZNTBE/edit?usp=sharing). 
-
+4. [~Ask R&D](https://community-daily.mattermost.com/core/channels/ask-r-and-d) channel — this channel should be monitored, but checking it once or twice per day is sufficient.
