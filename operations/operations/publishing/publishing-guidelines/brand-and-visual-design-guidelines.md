@@ -109,7 +109,7 @@ Product-specific typography guidelines coming soon.
 
 ## Presentation Guidelines
 
-[PowerPoint and Google Slides Templates](https://docs.google.com/presentation/d/1Amvw7GCoxXIKvgpovGg0iGkZ0jo74sihWbLZgFe6Cl4).
+[PowerPoint and Google Slides Templates](https://docs.google.com/presentation/d/1UVho9S2l6fZ_Ps8sVmF6FgQ7EgeeHrD8sX8H44n4iew).
 
 ![](../../../../.gitbook/assets/branding/brand-and-visual-design-guidelines-presentation-sample-slides.png)
 
