@@ -128,6 +128,7 @@
   * [Marketing Operations](operations/business-operations/marketing-operations.md)
   * [Self Service](operations/business-operations/self-service.md)
   * [Salesforce Administration](operations/business-operations/salesforce-administration.md)
+* [Legal](operations/legal/legal.md)
 * [Finance](operations/finance/README.md)
   * [Spending Company Money](operations/finance/spending-company-money/README.md)
     * [How to Use Accrualify](operations/finance/spending-company-money/how-to-use-accrualify/README.md)
