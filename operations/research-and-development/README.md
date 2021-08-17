@@ -28,7 +28,7 @@ We use a range of web properties and tools to document and share plans, specs, r
 
 ### Where to find us
 
-* Technical writers: [DWG: Documentation working group](https://community.mattermost.com/private-core/channels/dwg-documentation-working-group)
+* Technical writers: [DWG: Documentation Working Group](https://community.mattermost.com/private-core/channels/dwg-documentation-working-group)
 * Product Managers: [Product Management](https://community.mattermost.com/private-core/channels/product-management)
 * UX team: [UX Design](https://community.mattermost.com/core/channels/ux-design)
 * Analysts: [Analytics](https://community.mattermost.com/private-core/channels/analytics-2)
@@ -82,7 +82,7 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 
 #### Team Apollo (Full Stack team 3)
 
-* Joram Wilander - Engineering Lead
+* Guillermo Vaya - Engineering Lead
 * Ashish Bhate - Engineer
 * Anurag Shivarathri - Engineer
 * Kyriakos Ziakoulis - Engineer
@@ -94,7 +94,6 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 * Joram Wilander - Engineering Lead
 * Harrison Healey - Engineer
 * Devin Binnie - Engineer
-* Guillermo Vaya - Engineer
 
 #### Server Platform
 
@@ -117,7 +116,7 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 ### Focalboard
 
 * Scott Bishel - Engineering Lead
-* Jesus Espino - Engineer
+* Jesús Espino - Engineer
 * Miguel de la Cruz - Engineer
 * Doug Lauder - Engineer
 * Hossein Ahmadian - Engineer
