@@ -16,12 +16,11 @@ Mattermost has documentation for users, systems administrators, and developers. 
 
 Have you encountered an issue while deploying or using Mattermost that you’d like to report?
 
-
 1. Search our [Jira issues](https://mattermost.atlassian.net/issues/?jql=) to see if anyone else has already reported the issue. If so, show your support by commenting on the issue, and share any additional information you might have.
 2. If the issue is a security vulnerability, please review our [Responsible Disclosure Policy](https://mattermost.com/security-vulnerability-report/) to ensure our users stay safe.
 3. If the first two steps don’t apply, you can [create a new issue](https://github.com/mattermost/platform/issues/new) on the Mattermost Server GitHub repository. Please fill out all sections in the Issue template.
 
-## Translation & Localization
+## Translation and Localization
 
 Mattermost UI translations and localization are handled on [Weblate](https://translate.mattermost.com/projects/mattermost/). Anyone is welcome to sign up for an account and start contributing! If you have questions, join the Localization channel on the [Mattermost community server](https://docs.mattermost.com/guides/community-chat.html).
 
