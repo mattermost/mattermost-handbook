@@ -135,5 +135,5 @@ Each PR should be reviewed by at least one approved reviewer. A build check requ
 Below is a list of permissions handbook contributors have access to:
 
 1. @jasonblais, @justinegeffen, @amyblais, @cwarnermm: Write permissions to the repository.
-2. Staff contributors: Submit changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, submit PR reviews, and be requested as reviewers.
-3. Non-staff contributors: Submit changes to handbook.mattermost.com via PRs. Have access to request reviews, add labels, and submit PR reviews.
+2. Staff contributors: Submit changes to handbook.mattermost.com via PRs. May have access to request reviews, add labels, submit PR reviews, and be requested as reviewers.
+3. Non-staff contributors: Submit changes to handbook.mattermost.com via PRs. Do not have access to request reviews, add labels. Can submit PR reviews.
