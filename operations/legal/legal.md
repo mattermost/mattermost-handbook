@@ -1,6 +1,6 @@
 ## Legal
 
-### **Where to find us**
+### Where to find us
 
 Mattermost: 
 
