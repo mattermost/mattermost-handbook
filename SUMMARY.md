@@ -161,6 +161,7 @@
   * [Risk Management](operations/finance/risk-management/README.md)
     * [Mattermost U.S. Consulting Agreements](operations/finance/risk-management/mattermost-templated-agreements.md)
   * Operations Playbook
+* [Legal](operations/legal/legal.md)
 * [Security](operations/security/README.md)
   * [Policies](operations/security/policies/README.md)
   * [Privacy](operations/security/privacy/README.md)
