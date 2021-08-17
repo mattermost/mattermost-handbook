@@ -17,7 +17,7 @@ Office Hours:
 
 (The Zoom link for Legal Office Hours can be found in the “Notes” section in the [Legal](https://community.mattermost.com/private-core/channels/legal) Mattermost channel)
 
-### **Team**
+### Team
 
 * Jamie Hurewitz, Head of Legal
 
