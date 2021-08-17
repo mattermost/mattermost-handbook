@@ -49,9 +49,3 @@ Office Hours:
 * [US Consulting Agreement](https://handbook.mattermost.com/operations/finance/risk-management/mattermost-templated-agreements)
 * [Company Policies](https://handbook.mattermost.com/operations/security/policies)
 * [Mattermost Legal Terms](https://mattermost.com/terms-of-service/)
-
-
-
-
-
-
