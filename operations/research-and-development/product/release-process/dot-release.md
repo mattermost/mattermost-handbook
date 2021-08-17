@@ -45,6 +45,7 @@ Once bug fix release is ready to cut:
     - Merge the Changelog PR with notes on patch releases (see [example entry](https://docs.mattermost.com/administration/changelog.html#release-v3-5.1))
     - Update the [version archive](https://docs.mattermost.com/administration/version-archive.html)
     - Update the [Extended Support Release documentation](https://docs.mattermost.com/administration/extended-support-release.html) if needed
+    - If there are any breaking compatibility changes in a supported GitLab Omnibus release (current + two previous versions) open an issue in the [GitLab Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab) repo to make sure GitLab is aware
     - Update [Mattermost server download page](https://mattermost.com/download) with the links to the EE and TE bits
       - Test the download links before and after updating the page
     - Confirm that [mattermost-docker](https://github.com/mattermost/mattermost-docker/releases) has been updated to the latest version (contact the maintainer via direct message on community server if necessary)

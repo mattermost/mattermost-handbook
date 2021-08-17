@@ -1,20 +1,20 @@
 # Mattermost Handbook
 
-The purpose of this handbook is to _**iteratively increase clarity**_ for Mattermost staff and community co-building the future of our company and our offerings.
+The Mattermost Handbook is a continual work-in-progress or Mattermost staff (people who are paid to work on our open source software), contributor community, and end user community. We use it to document the processes that underpin our company behind our software. Its purpose is to **iteratively increase clarity** for Mattermost staff and community co-building the future of our company and our offerings, and provide a single-source of truth.
 
-It's Day 1 at Mattermost. We're a growing company and growing open source project out to support the massive transformation underway as open source software unlocks the massive potential of people and teams around the world.
+Early in our history, when we were a much smaller company, our staff handbook was included in our product documentation. Now the Handbook lives in the the dedicated repository at [https://github.com/mattermost/mattermost-handbook](https://github.com/mattermost/mattermost-handbook) which is edited using GitBook as a frontend. 
 
-The "Mattermost Handbook" is a continual work-in-progress for _Mattermost staff_--people who are paid to work on our open source software and to help run the company behind our software.
+Want to contribute to the Handbook? Start here: [How to update the Handbook](company/how-to-guides-for-staff/how-to-update-handbook.md).
 
-Early in our history, when we were a much smaller company, [our staff handbook was included in our product documentation](https://docs.mattermost.com/guides/core.html) and we are incrementally moving out of our documentation and into the dedicated repository at [https://github.com/mattermost/mattermost-handbook](https://github.com/mattermost/mattermost-handbook) which is edited using GitBook as a frontend.
+All documentation is available under the terms of a [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
-Some norms you'll see here in the handbook:
+Some norms you'll see here in the Handbook:
 
 ## Growing companies are a work-in-progress
 
-As an open source company we like to share early. Sharing ideas early gets us feedback sooner, so we can iterate faster, so we can better results.
+It's Day 1 at Mattermost. We're a growing company and growing open source project out to support the massive transformation underway as open source software unlocks the massive potential of people and teams around the world. As an open source company we like to share early. Sharing ideas early gets us feedback sooner, so we can iterate faster, so we can better results.
 
-We have a mindset of [1% and 50% drafts](company/about-mattermost/mindsets.md#drafts-at-1-50-99) that express how complete our thinking is around proposal we're reviewing.
+On some pages, you'll see reference to [1% and 50% drafts](company/about-mattermost/mindsets.md#drafts-at-1-50-99). This is used to express how complete our thinking is around the published content, and indicate whether fundamental changes may be made. 
 
 When a section of the handbook is at less than the 50% draft stage you should see it labeled in the page description with the % draft status. When a section doesn't have a % draft status, assume it's over the 50% draft stage.
 

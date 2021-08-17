@@ -5,7 +5,7 @@ structure:
     
 redirects:  
    company/how-to-guides-for-staff/how-to-spend-company-money: /operations/finance/how-to-spend-company-money/README.md
-   company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract: /operations/finance/spending-company-money/how-to-procure-a-vendor-contract.md
+   operations/finance/spending-company-money/procurement/how-to-procure-a-vendor-contract: /company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract.md
    company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify: /operations/finance/staff-member-expenses/how-to-use-expensify.md
    company/how-to-guides-for-staff/how-to-spend-company-money/airfare-and-traveling: /operations/finance/staff-member-expenses/airfare-and-traveling.md
    company/how-to-guides-for-staff/how-to-spend-company-money/how-to-reimburse-the-company: /operations/finance/staff-member-expenses/how-to-reimburse-the-company.md
@@ -16,7 +16,12 @@ redirects:
    company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/README: /operations/finance/spending-company-money/procurement/how-to-on-board-as-a-vendor/README.md
    company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/how-to-invoice-mattermost: /operations/finance/spending-company-money/procurement/how-to-invoice-mattermost.md
    company/how-to-guides-for-staff/how-to-purchase: /operations/finance/how-to-spend-company-money/README.md
-   company/about-mattermost/mindset#likes-and-wishes: /company/about-mattermost/mindsets.md#likes-and-wishes.md
-   contributors/onboarding/staff-on-boarding-guide#leadership-principles: /company/about-mattermost.md#leadership-principles.md
-   contributors/onboarding/staff-on-boarding-guide: /operations/workplace/people/working-at-mattermost/onboarding/staff-onboarding-guide/README.md
-   contributors/mattercon: /contributors/join-us/recruiting.md#working-and-meeting-across-the-globe.md
+   company/about-mattermost/mindsets#likes-and-wishes: /company/about-mattermost/mindsets.md
+   contributors/onboarding/staff-on-boarding-guide#leadership-principles: ./company/about-mattermost/README.md#leadership-principles
+   contributors/onboarding/staff-on-boarding-guide: /operations/workplace/people/working-at-mattermost/onboarding.md
+   contributors/mattercon: /contributors/join-us/recruiting#working-and-meeting-across-the-globe.md
+   operations/messaging-and-math/developer-relations: /operations/research-and-development/product/developer-relations.md
+   contributors/join-us/mattercon/mattermost-code-of-conduct: ./contributors/mattercon/mattermost-code-of-conduct.md
+   operations/it: /operations/workplace/it/README.md
+   operations/it/helpdesk: operations/workplace/it/helpdesk.md
+   operations/it/hardware-buy-back-policy: operations/workplace/it/hardware-buy-back-policy.md

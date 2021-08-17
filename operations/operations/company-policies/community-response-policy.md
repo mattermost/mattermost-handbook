@@ -99,13 +99,13 @@ For more guidelines on Mattermost forums and the public GitHub repositories, see
 Below is the list of members mapped to each role mentioned as an approved responder:
 
 * CEO: Ian Tien
-* CPO: Chandar Venkatamaran
+* CTO: Corey Hulen
 * VP Eng: Chris Overton
-* VP Finance: Aneal Vallurupalli
-* VP Marketing: Ian Tien (interim)
+* VP Finance: Tim Quock
+* VP Marketing: Matt Harper
 * Director of HR: Natalie Jew
 * Lead PM: Katie Wiersgalla
-* Head of Legal: Aneal Vallurupalli
+* Head of Legal: Jamie Hurewitz
 * Head of Security: Daniel Schalla
 * Head of Community: Jason Blais
 * Security PM: Katie Wiersgalla

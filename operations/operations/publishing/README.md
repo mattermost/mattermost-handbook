@@ -4,27 +4,27 @@ This page provides processes and guidelines for publishing in our public web pro
 
 The goal is to have clear public web properties where it is easy to find solutions to problems or questions you have for each of our audiences:
 
-* **Staff** to do their work effectively
-* **Users** \(including developers, administrators and end users\) and **Buyers** to easily adopt and purchase Mattermost
-* **Contributors** to easily contribute to Mattermost
+* **Staff** to do their work effectively.
+* **Users** \(including developers, administrators and end users\) and **Buyers** to easily adopt and purchase Mattermost.
+* **Contributors** to easily contribute to Mattermost.
 
 ## Principles
 
 **Trust**
 
-* Consistent experience across public sites, including brand and voice
-* No inaccurate information
-* No "dead ends" where the user does not have a pathway to continue
-* No confidential information
+* Consistent experience across public sites, including brand and voice.
+* No inaccurate information.
+* No "dead ends" where the user does not have a pathway to continue.
+* No confidential information.
 
 **Growth**
 
-* Effective self-service where anyone can find solutions to problems or questions starting from a Google search
-* Scalable processes and guidelines that empower everyone to contribute
+* Effective self-service where anyone can find solutions to problems or questions starting from a Google search.
+* Scalable processes and guidelines that empower everyone to contribute.
 
 **Iteration**
 
-* Iteration over completeness, with constant openness to feedback
+* Iteration over completeness, with constant openness to feedback.
 
 ## Directly Responsible Individuals
 

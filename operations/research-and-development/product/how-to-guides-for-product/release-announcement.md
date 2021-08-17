@@ -10,13 +10,39 @@ Each Product Manager is responsible for writing a release announcement for every
 
 It's important to think of the release announcement as a press release. We're communicating changes to our current and prospective customers so we want it to be exciting as well as informative. The release announcement is a coordinated document, with each Product Manager contributing their own features as sub-headings. The headline and first paragraph will be written by PM leads and the CPO after all other features have been provided.
 
-**Note:** Consider using this information in productboard for your features to validate the messaging and to keep consistency across channels. 
+**Note:** Consider using this information in productboard for your features to validate the messaging and to keep consistency across channels.
 
 ### Timeline
 
-A release announcement for each feature should be started early in the product planning process. Each Product Manager is directly responsible for writing the announcement for each of their features. For large product features or new products, a PRFAQ should be completed. For smaller features, a “mini-PRFAQ” should be completed in the form of a blog post.
+A release announcement for each feature should be started early in the product planning process. Each Product Manager is directly responsible for writing the announcement for each of their features. For large product features or new products, a PRFAQ should be completed. For smaller features, a “mini-PRFAQ” should be completed in the form of a blog post. Below are the expected deadlines ("T-X" dates don't include holidays/weekends):
 
-Release announcements and tweets are due from Product Managers at T-14, so a first draft can be completed by T-11, per our [release announcement process](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements). They should be provided to your Lead (Katie), who will coordinate all into one single document for the release. A final draft of the combined release announcement for the newsletter will be provided for review to CPO and MLT team by T-10. Finally, the approved release announcement will be provided to marketing by T-2 and published on release day.
+#### A. \(T-minus 14 working days\) Outline
+
+* Release Manager provides an outline of the release announcement and deadlines for Product Managers, along with a heads-up for Director of Product Marketing that the blog post is coming. Release Manager also adds deadlines to the PM Weekly Sync Agenda.
+
+#### B. \(T-minus 9 working days\) First draft
+
+* A draft of the release announcement and tweets are completed by Product Managers. Product Managers prepare the release announcement from their 2-pager documents. Product Managers are reminded of the deadline in the weekly Monday PM Sync meeting. The T-9 deadline should be the 1st Monday of the month for our Roadmap call (this will either be T-9 or the first Monday of the month, whichever comes earlier).
+
+#### C. \(T-minus 8 working days\) Lead Product Managers' Review
+
+* Product Management leads do a final review on the release announcement and prepare the headline and byline content.
+
+#### D. \(T-minus 7 working days\) Product Marketing Director Review
+
+* The PM-approved draft will be provided for review to the Director of Product Marketing. Katie Wiersgalla (@wiersgallak) provides the release announcement copy for review and relays edits back to the Product Management team via the Product Manager's internal channel.
+
+#### E. \(T-minus 5 working days\) CPO Review
+
+* The release announcement draft will be provided for review to the CPO. Katie Wiersgalla (@wiersgallak) provides the release announcement copy to the CPO for his review and relays edits back to the Product Management team via the Product Manager's internal channel.  Product Managers have two business days to resolve comments and provide updates.
+
+#### F. \(T-minus 2 working days\) Marketing Preparation
+
+* Katie provides the final and approved release announcement copy for Amy Blais (@amy.blais) to give to the marketing team.
+
+#### G. \(T-minus 0 working days\) Release
+
+* The release announcement is published. T-0 is based on the Release Day in the Mattermost Release Dates calendar.
 
 ### Feature Headline
 
@@ -32,9 +58,10 @@ Example: **Enable your users to get more control over their schedule without lea
 
 ### Feature Details
 
-Next, describe in more detail how the feature works and what functionality is included. This could take the form of a bulleted list or a few more sentences. 
+Next, describe in more detail how the feature works and what functionality is included. This could take the form of a bulleted list or a few more sentences.
 
-Example: 
+Example:
+
 ``` none
 With the new two-way Microsoft Office 365 Calendar integration feature, your users can now:
  - See a daily summary of their calendar events

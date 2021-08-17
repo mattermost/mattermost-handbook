@@ -13,3 +13,5 @@ If you need to submit a purchase order, please make sure you've submitted a [bud
 Once you have set up your account, you can log in to see your Accrualify dashboard to review and take action on your actionable items.
 
 ![](../../../../.gitbook/assets/How-to-set-up-your-Accrualify-account-2.PNG)
+
+If you'll be out of office for any amount of time and would like to assign a vacation delegate during your time away, please reach out to AP@mattermost.com.

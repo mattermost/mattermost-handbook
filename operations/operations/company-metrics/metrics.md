@@ -1,3 +1,10 @@
+# Self-Serve Analytics Metric Definitions
+The document linked below has been created in hopes of creating a *more* self-serve Analytics infrastructure for product, product managers, and other employees to perform their own analysis. It provides up-to-date metric definitions, as well as Looker links to pre-filtered jumping off points for modeling the data. This documentation was presented in series of Self-Serve Analytics workshops that were hosted in early June FY22. A recording from the workshop has also been provided below for additional context.
+
+1. [Self-Serve Analytics: Mattermost Metric Definitions](https://docs.google.com/document/d/10mChNYHOPutoTDA7Gm-XqRQYKtipt6RKaAmQofLYy58/edit?usp=sharing)
+2. [FY22 Self-Serve Analytics Training Session Recording](https://drive.google.com/file/d/1uSVkXJcU7YUlCGw6Cl9k-PzchbEVMj7_/view?usp=sharing)
+
+
 # MLT Metrics
 
 This section outlines metric definitions maintained by finance for reporting to investors. 

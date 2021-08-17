@@ -18,6 +18,7 @@ No pull requests for major features should be **merged** to the current release 
 1. Release Manager:
     - Post this checklist in Release Checklist channel
     - Draft Changelog in a WIP PR with updates for compatibility notes, highlights, feature additions and bug fixes
+    - Monitor and report any app crash reports in Testflight during the release cycle
     - Start posting a daily Zero Bug Balance query
     - Prepare a list of highlights to be included in the next Mattermost release announcement
 2. PM:
@@ -31,8 +32,8 @@ No pull requests for major features should be **merged** to the current release 
 ### B. (T-minus 19 working days) Feature Testing
 
 1. QA:
-    - Prioritize testing merged PRs and resolved tickets
-    - Write and update tests in the Release Testing spreadsheet
+    - Prioritize testing PRs and verifying resolved tickets for this release
+    - Prioritize updating test cases as needed in test management and automated tests
     
 ### C. (T-minus 15 working days) Judgment Day
 
@@ -61,9 +62,10 @@ Day when PM decides which major features are included in the release, and which 
     - Create release branch for mattermost-mobile and mattermost-redux
     - Cut release candidate build
 3. QA:
-    - Confirm all pull requests merged into the current release have been tested
-    - Ensure the release testing spreadsheet covers any changes and new features, and confirm known issues are listed in the relevant tests
-    - Assign each area of the spreadsheet to a team member and give the core team access permissions
+    - Confirm up to date with test case updates and known issues in test management and automated tests
+    - After release candidate build is available: Run automated tests
+    - Create QA manual test cycles as needed and begin manual testing
+    - Bring concerns or issues found during testing to the Release Manager in-channel
 4. Docs:
     - Submit any remaining documentation PRs for product updates in the release
 
@@ -76,10 +78,12 @@ Day when PM decides which major features are included in the release, and which 
     - Update Changelog for any new bug fixes
     - Check that the release candidate is available to beta testers
 2. QA:
-    - Post release testing instructions and spreadsheet to Release Discussion channel
-    - As bug fixes are merged, verify fixes on new builds and post in Native Mobile Apps channel after testing
+    - Create non-QA manual test cycle, assign testers, [kick off RC testing](https://docs.google.com/document/d/1kGvss1Mc9xfocvmJTYJZ0iXN09UtLKvzrAFMkUpFEtM)
+    - As bug fixes are merged, verify fixes on new builds and post in relevant release channel(s) after testing
+    - Post in the appropriate release channel(s) when release testing is complete, confirm list of any new items that remain to be tested
+    - Go through test cycles and verify all issues and comments have been filed or updated in Jira as needed
 3. Team:
-    - Test assigned areas of the testing spreadsheet and file any bugs found in Jira 
+    - Complete testing assignments and file any bugs found in Jira 
     - Daily triage of hotfix candidates and decide on whether and when to cut next RC or final
 4. Dev:
     - Make pull requests for hotfixes to the release branch
@@ -87,8 +91,8 @@ Day when PM decides which major features are included in the release, and which 
 5. Build:
     - Verify with Release Manager before cutting any new RCs (approved fixes should be merged)
     - Push next RC to acceptance and announce in Native Mobile Apps channel
-6. QA: 
-    - Test the new RC to verify fixes merged to the release branch work
+6. QA:     
+    - When all testing is complete and no outstanding items remain, post approval for final cut in the relevant channel(s)
 
 ### F. (T-minus 2 working days) Release Build Cut
 

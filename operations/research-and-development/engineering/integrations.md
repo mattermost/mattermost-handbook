@@ -4,7 +4,7 @@ description: 1% DRAFT
 
 # Integrations Team Processes
 
-## Weekly Team Meeting
+## Weekly team meeting
 
 - Schedule meeting items by running `/agenda queue Tuesday [item]` in [`~extensibility-meeting`](https://community.mattermost.com/core/channels/extensibility-meeting).
 
@@ -45,7 +45,7 @@ description: 1% DRAFT
 
 ```
 Scope
-------
+-----
 
 <!-- Your understanding of what functional impact the PR will have on the product -->
 
@@ -53,7 +53,7 @@ Scope
 - Test that username of meeting creator is always shown.
 
 Testing notes
-----------------
+-------------
 
 <!-- Testing you've done that you feel validate the change and cover any needed regression -->
 
@@ -68,11 +68,11 @@ Follow-up concerns
 Seeing an intermittent connection issue with Zoom on http://dkh-local.ngrok.io. Seems to occur on desktop.
 ```
 
-## Ticket Workflow
+## Ticket workflow
 
 ### Jira
 
-- Jira ticket must be filled for:
+- Jira tickets must be filed for:
     - Planed changes in the core product (Server, Webapp, Mobile, Redux).
     - Bugs in the core product (Server, Webapp, Mobile, Redux).
 - Jira ticket may be filled for larger multi-plugin projects.
@@ -89,3 +89,50 @@ Seeing an intermittent connection issue with Zoom on http://dkh-local.ngrok.io. 
 - Staff members add the issues there are working on for the current sprint to https://github.com/orgs/mattermost/projects/1.
     - Putting an issue is always preferred over putting a PR on the board.
 
+## Documentation process
+
+**1% draft**
+
+This guide outlines the processes and workflows for requesting, updating, managing, and maintaining documentation for Mattermost-managed and community-managed apps, plugins, and integrations. This includes the branching strategy for the Gitbook repos, how to set up a new Gitbook, and the process for aligning documentation with releases.
+
+Mattermost integrations documentation currently spans:
+
+- [docs.mattermost.com](https://docs.mattermost.com/guides/integration.html): Outline of how integrations work with Mattermost and a list of integrations available.
+- Gitbook: Configuration and User documentation for plugins, as well as developer content.
+- developers.mattermost.com: Apps documentation, plugin documentation, introduction to the contribution process, contribution workflow, testing, and validation information.
+
+Mattermost-managed integrations are maintained by Mattermost staff and the documentation is written and maintained by the Integrations team. Community-managed integrations are maintained by their creator, which includes documentation maintenance.
+
+## Apps documentation workflow
+
+The Apps Framework and Marketplace documentation lives [here](https://developers.mattermost.com/integrate/apps/). When submitting documentation updates and new documentation for apps, there are two options available:
+
+1. Submit the content with your PR in the [plugin-apps](https://github.com/mattermost/mattermost-plugin-apps) repo. Add the ``Docs/Needed`` label to the PR and ping @justinegeffen. The content will then be added to the docs, and the ``Docs/Done`` label added to your PR.
+
+2. Alternatively, you're welcome (and encouraged) to submit the docs PR yourself, [here](https://github.com/mattermost/mattermost-developer-documentation/tree/master/site/content/integrate/apps), then add a ``Docs/Needed`` label and tag @justinegeffen.
+
+For both options, please ensure that doc updates are either provided by you or requested ahead of merge so there's time to review the content. At least four days' notice is ideal. The goal is to ensure that docs and releases are always in sync.
+
+## Plugin documentation workflow
+
+The plugin documentation will soon be moved to developers.mattermost.com and will follow the same process as above. Until then, if you have a documentation update for your plugin, please work with @justinegeffen to ensure changes made in time and aligned with release.
+
+This is the same process used for the webapp and server repos in terms of documentation work.
+
+### Documentation for plugins with multiple versions
+
+If a plugin has documentation for multiple versions the master branch is the source of truth of the docs for the current release version of a plugin. Previous releases are archived as a (version)-docs branch when docs need to change.
+
+Every time we release a new minor or major version plugin we cut a new branch with docs and keep the branch forever so customers can still refer back to it.
+
+Plugins that don't have documentation for multiple versions can have their content updated in master and don't follow this process.
+
+### Working in Gitbook
+
+We use Gitbook to render our documentation. A migration process from Gitbook to the Developers website is scheduled to start soon, at which point all plugin documentation will live in that repo. 
+
+Details of the PR process for updating docs once this migration is complete will follow.
+
+## Documentation template for contributions
+
+TODO

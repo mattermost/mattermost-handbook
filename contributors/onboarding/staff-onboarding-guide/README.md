@@ -28,12 +28,11 @@ Our mission is to make the world safer and more productive by developing and del
 
 Leadership principles are deliberate choices defining our behavior. When facing complexity, uncertainty, or ambiguity \(CUA\) we determine our point of view and our actions through the lens of our values:
 
-* **Customer Obsession:** Mattermost exists to make customers successful. Every project starts with the customer perspective.
-* **Ownership:** Own the outcome of your actions. Act on behalf of the company, not just the team. Never say “that’s not my job.”
-* **High-Impact:** Choose high-impact projects over low-impact projects. Figure out what matters most and focus on those priorities.
-* **Insist on High Standards:** Have relentlessly high standards. Continually raise the bar for high-quality products and processes.
-* **Self-Awareness:** Seek to understand strengths and growth opportunities while being open to criticism. Share critiques constructively and respectfully.
-* **Earn Trust:** Make decisions based on maximizing the trust of others in your judgment. Be open, self-critical and factual.
+* **Customer Obsession:** We exist to make customers successful. In everything we do, start with customer perspective and work backwards. Earn and keep their trust.
+* **Ownership:** Own the outcomes of your activity. Don’t drop the ball. When we see a vacuum on something important, we jump in – we never say “it’s not my job.”
+* **High-Impact:** Align work to our shared vision and focus on those priorities. When deciding to work on low impact or high impact projects, choose high impact.
+* **Self-Awareness:** We understand and seek to understand our strengths and growth opportunities, as individuals and organizations. We are open to critique and share critique constructively and respectfully.
+* **Earn Trust:** Make decisions based on maximizing the trust of others in your judgement. Be open, self-critical, and factual. Earn and keep peoples' trust.
 
 To view video of these Leadership Principles, please click [here](https://drive.google.com/open?id=1cuxqePfpj2zy4DYLQ__DPtq2uJdGfwaL).
 
@@ -51,13 +50,13 @@ Mattermost is an open source, remote-first, communities-centered company based i
 
 **Open source** means that by default we make our technology, business process and source code available to the public. We develop a small portion as proprietary technology, built upon our open source work, to license for subscription fees that enable more high quality open source work to be produced. Since the start of the Mattermost open source project in 2015, we have used this model to develop effective open source solutions for the world to use. This model is sometimes called [Thin Open Core](https://medium.com/open-consensus/2-open-core-definition-examples-tradeoffs-e4d0c044da7c).
 
-**Remote-first** means that by default our staff works anywhere in the world where a\) we have support for quality video calling and b\) where we can work in a legally appropriate environment. Mattermost was born in an extraordinary age where organizations can attract, hire and enable remote teams–working from homes, coffee shops and co-working spaces across timezones–to produce better technology and business results in less time than purely office-based teams, while maintaining security and compliance standards.
+**Remote-first** means that by default our staff works anywhere in the world where a\) we have support for quality video calling and b\) where we can work in a legally appropriate environment. Mattermost was born in an extraordinary age where organizations can attract, hire, and enable remote teams – working from homes, coffee shops and co-working spaces across timezones – to produce better technology and business results in less time than purely office-based teams, while maintaining security and compliance standards.
 
 Remote-first culture flourishes when we share one simple principle: **Courtesy**. Courtesy means Mattermosters are thoughtful about keeping our communities appropriately informed, following etiquette for discussions, calls and video meetings, and giving and receiving feedback on how to work better together. Courtesy also means we gladly accommodate those who prefer to work out of a dedicated office. We are remote-first, not remote-only.
 
 **Communities-centered** means we define our success in the context of the success of our [communities](https://docs.mattermost.com/process/community-overview.html): users, customers, implementers, resellers, technology partners, contributors, and colleagues. The success of each community is owned by a member of the Mattermost leadership team. The plural definition of “communities” is intended to avoid unconsciously marginalizing downstream stakeholders.
 
-**Based in Palo Alto, California and headquartered on the internet** means the mailing address for Mattermost, Inc. is in Palo Alto, California, and our headquarters is on the internet, specifically the Mattermost instance at [https://community.mattermost.com](https://community.mattermost.com/). Our online headquarters is where Mattermost staff work with our communities of colleagues, users, partners, customers and contributors, to envision, develop and refine new open source technologies to make the world safer and more productive.
+**Based in Palo Alto, California and headquartered on the internet** means the mailing address for Mattermost, Inc. is in Palo Alto, California, and our headquarters is on the internet, specifically the Mattermost instance at [https://community.mattermost.com](https://community.mattermost.com/). Our online headquarters is where Mattermost staff work with our communities of colleagues, users, partners, customer, and contributors, to envision, develop and refine new open source technologies to make the world safer and more productive.
 
 ### [General Onboarding Activities](https://handbook.mattermost.com/contributors/onboarding)
 
@@ -70,7 +69,7 @@ Welcome to Mattermost! This is a general overview of activities that all staff s
 * Review the expense policy: [How to spend company money](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money).
 * Attend your first [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com). Join the [Customer Obsession Meeting channel](https://community.mattermost.com/private-core/channels/cust-obs-meeting) and find past COM meetings in the channel to view at your leisure.
 * Use the [Onboarding](https://community.mattermost.com/private-core/channels/onboarding) channel for any questions.
-* Review the [Time Off Policy](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#communicating-time-off) and add the Time Off calendar to your Mattermost Google Calendar. 
+* Review the [Time Off Policy](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#communicating-time-off) and add the Time Off calendar to your Mattermost Google Calendar.
  * Follow [Google's instructions to 'add a calendar using a link'](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en) and copy the calendar link from [this URL](https://calendar.google.com/calendar?cid=bWF0dGVybW9zdC5jb21fbWczbnVsZ2Y2ZTcwZTUwb2hscTJycmtjbmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). 
 
 #### Month 1
@@ -88,7 +87,7 @@ Welcome to Mattermost! This is a general overview of activities that all staff s
 #### Month 2
 
 * Check out the [Mattermost Blog](https://mattermost.com/blog/). If you're interested in submitting a blog, reach out to the [Marketing channel](https://community.mattermost.com/private-core/channels/marketing-website-priv) for more information.
-* Update the Handbook. This can be an update on existing documentation or a new subject or page. Documentation is vital for asynchronous communication. All Staff should feel empowered and encouraged to iterate and update as needed.
+* Update the Handbook. This can be an update on existing documentation or a new subject or page. Documentation is vital for asynchronous communication. All staff should feel empowered and encouraged to iterate and update as needed.
 * Blindspot Check - review [how-to guides](https://handbook.mattermost.com/company/how-to-guides-for-staff).
 
 #### Month 3
@@ -104,7 +103,7 @@ Welcome to Mattermost! This is a general overview of activities that all staff s
 - R&D onboarding
   - [Product team onboarding](https://handbook.mattermost.com/operations/research-and-development/product/product-management-team-handbook#onboarding)
   - [Engineering team onboarding](https://handbook.mattermost.com/contributors/onboarding/staff-onboarding-guide/engineer-onboarding)
-  - [Support onboarding](https://handbook.mattermost.com/operations/business-operations/customer-support)
+  - [Support onboarding](https://handbook.mattermost.com/operations/customer-success/customer-support)
   - QA onboarding
 - G&A onboarding
 - Marketing onboarding
