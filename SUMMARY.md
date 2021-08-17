@@ -130,6 +130,7 @@
   * [Lead Management](operations/messaging-and-math/lead-management.md)
 * [Customer Success](operations/customer-success/README.md)
   * [Customer Support](operations/customer-success/customer-support.md)
+* [Legal](operations/legal/legal.md)
 * [Finance](operations/finance/README.md)
   * [Budget](operations/finance/spending-company-money/budget.md)
   * [Purchasing](operations/finance/purchasing/README.md)
