@@ -21,7 +21,7 @@ Office Hours:
 
 * Jamie Hurewitz, Head of Legal
 
-### **How to Engage with Mattermost Legal**
+### How to Engage with Mattermost Legal
 
 | **SUBJECT OF ENGAGEMENT** | **INFORMATION/PROCESS** |
 :-------------------------- | :---------------------- |
