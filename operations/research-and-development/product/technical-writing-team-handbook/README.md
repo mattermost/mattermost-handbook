@@ -8,24 +8,21 @@ The Mattermost Technical Writers focus primarily on writing, editing, and mainta
 
 Documentation and technical writing at Mattermost covers \(but isn't limited to\) the following verticals:
 
-* Messaging
-  * [Mattermost Overview](https://docs.mattermost.com/overview/index.html)
-  * [User's Guide](https://docs.mattermost.com/guides/user.html)
-  * [Administrator's Guide](https://docs.mattermost.com/guides/administrator.html)
+* Channels
   * Mattermost Cloud
-  * Apps Framework and Marketplace
   * Self-managed deployments
   * Messaging features and functionality
-* Incident Collaboration
-* Focalboard
+* Playbooks
+* Boards
 * Growth
   * Customer Portal
   * Telemetry
+* Apps Framework and Marketplace
 
 Other areas of documentation include:
 
 * Mattermost Handbook
-* Integrations \(Admin Guide, plugin documentation, and developer journey\)
+* Integrations \(developer documentation, plugin documentation, and developer journey\)
 * GitLab documentation for:
   * [GitLab Mattermost docs](https://docs.gitlab.com/omnibus/gitlab-mattermost/%20)
   * GitLab helm chart docs
@@ -49,17 +46,13 @@ Other areas of documentation include:
 
 Please reach out to the [Documentation Working Group](https://community.mattermost.com/private-core/channels/dwg-documentation-working-group) for any questions.
 
-### Technical documentation processes
-
-The processes around documentation, such as SLAs for issues and requesting documentation assistance are detailed below.
-
-#### Contributing to documentation
+### Contributing to documentation
 
 The basic outline for getting started with contributions is provided in the [README](https://github.com/mattermost/docs/blob/master/README.md) of the docs repo. If you have write access to the repo, you can create a branch off master and work on that.
 
 Once complete, submit your Pull Request \(PR\). Ensure that you assign appropriate approvers and labels - if you've forked the repo or don't have the correct repo permissions you may not be able to do this, so you can skip this step. Read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review) - it applies to various types of contributions including documentation.
 
-#### Submitting feature documentation
+### Submitting feature documentation
 
 Feature documentation is a joint effort between Product Managers and Technical Writers. In the same way that we want to empower everyone to contribute to our documentation, Product Managers are encouraged to write MVP documentation for their product/feature.
 
@@ -90,7 +83,7 @@ When the content has been refined and approved in draft format:
 
 You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review).
 
-#### Submitting documentation with your PR
+### Submitting documentation with your PR
 
 We want to empower everyone to contribute to our documentation, and be comfortable submitting documentation for contributions. As such, we don't expect every contribution to adhere to our style guide when first submitted.
 
@@ -109,7 +102,7 @@ You can read more about the review process [here](https://developers.mattermost.
 
 **Note:** This process does not apply to the [API Documentation requirements](https://github.com/mattermost/mattermost-api-reference) as it is updated automatically and isn't part of the documentation process.
 
-#### Adding reviewers to PRs
+### Adding reviewers to PRs
 
 Mattermost documentation covers a number of different topics. For documentation, the following reviewers are recommended:
 
@@ -151,7 +144,7 @@ If your change requires dev review add the developer/s you've been working with 
 
 The full list of R&D teams is available [here](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit#gid=0).
 
-#### Requesting Documentation via Doc Up
+### Requesting Documentation via Doc Up
 
 Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the Doc Up plugin embedded in the post menu.
 
@@ -179,7 +172,7 @@ Documentation does not have to be written by the Technical Writer/s. You can rai
 
 We really want the community to own the docs as much as possible. In light of this, please mark your issue as **Help Wanted** so that community members are able to identify work that they’re able to assist with. If your documentation request/issue applies to a repository other than _mattermost/docs_, you can use the **Docs Needed** and **Editor Review** labels and/or ping @justinegeffen or @cwarnermm.
 
-#### i18n contributions
+### i18n contributions
 
 **Note: This process is a 1% draft.\***
 
@@ -195,9 +188,9 @@ Currently, submitting a translation PR follows the same writing and editing proc
 6. Decide if we want to indicate translations level - e.g. “Alpha” or “Beta” for translations that are in progress.
 7. Test you can successfully rate a translated docs page by selecting a rating emoji. Ping @justine.geffen for validation of this.
 
-### General contribution workflow
+## General contribution workflow
 
-#### Jira Tickets
+### Jira Tickets
 
 The [Technical Writing Jira board](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=80) is a snapshot of the current Technical Writing workload.
 
@@ -213,41 +206,50 @@ For best results, please include as much content, context, and detail as possibl
 
 If the Jira ticket is for documentation related to a release, the documentation needs to be complete at least 10 days prior to release. Please ensure you allow sufficient time for your request to be completed or it will be moved to the next available slot.
 
-#### Editing requests
+### Editing requests
 
 When submitting a PR for documentation, whether it's a minor update, a new piece of content, or a content proposal, please add the **Editor Review** label \(if possible\). Once the Technical Writer/Editor has reviewed the PR they'll remove the label. When all the requested reviews are complete, the **Reviews Complete** label is applied and the changes are merged.
 
-#### Providing editorial feedback
+### Providing editorial feedback
 
 If you're asked to provide editorial feedback on a PR, and it's your first editorial feedback request, first read up on the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review) to get an idea of what's expected in terms of turnaround time, type of feedback, and so on.
 
 Editorial feedback is based on the guidelines laid out in the [Documentation Style Guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide) as well as the [Voice, Tone, and Writing Style Guide](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines).
 
-#### Formatting and Style Guide
+### Formatting and Style Guide
 
 The [Documentation Style Guide](https://docs.mattermost.com/guides/core.html#documentation-style-guide) and [UI text guidelines](https://docs.mattermost.com/process/documentation-UItext-guidelines.html).
 
-### Community documentation involvement
+## Community documentation involvement
 
 Every month the Mattermost community plans, builds, tests, documents, releases, and supports new product improvements for Team Edition to benefit the user community. The Mattermost Enterprise Team does the same for Enterprise Edition to benefit the subscriber community.
 
 A critical part of this development is documentation which ranges from feature documentation to FAQs, guides, and tutorials.
 
-#### Feature documentation
+### Feature documentation
 
 Feature documentation is a collaborative effort between the Product Manager and Technical Writer within a specific timeframe aligned with releases. Community members are welcome to assist, if the time expectations are manageable.
 
 Feature request documentation is usually located in the [mattermost-server](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+is%3Aissue+label%3ADocs%2FNeeded) repo and the [mattermost-webapp](https://github.com/mattermost/mattermost-webapp/pulls?q=is%3Aopen+is%3Apr+label%3ADocs%2FNeeded) repo and are labelled as `Docs/Needed`. As these are tied to a release \(and a deadline\) it’s best to only take on the work if you’re sure you can complete it on time. It’s understood that community members contribute in their available time, which is why this type of documentation isn’t usually the best option to take on.
 
-#### Help Wanted tickets/doc issues
+### Help Wanted tickets/doc issues
 
 Help Wanted tickets are generally not linked to a release and are more flexible in terms of timeline and delivery date. You can find the documentation Help Wanted tickets [here](https://github.com/mattermost/docs/labels/Help%20Wanted). To start working on one, assign it to yourself, add a comment indicating you’ll be working on it, find the relevant document in the [source](https://github.com/mattermost/docs/tree/master/source) directory, read through the [README](https://github.com/mattermost/docs/blob/master/README.md) file if you're not familiar with the process, and get started.
 
 If you have any questions, you can post them in the [Documentation](https://community.mattermost.com/core/channels/documentation) channel and we'll be happy to help.
 
-#### Engineering/developer documentation
+### Engineering/developer documentation
 
 Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated \(or created\) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation.
 
 Visit the [Contribute to Documentation](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/submitting-documentation-with-your-pr) page to get started with submitting documentation with your PR. You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review).
 
+## PR tips and best practices
+
+* Try submit files in batches rather than single PRs per file. This reduces the PR load and also groups your changes more effectively.
+* When there are lots of changes requested, especially on a docs PR where the changes are "safe" (meaning they don't need to be QA tested), you can use the "Add suggestion to batch" feature in GitHub to commit all of the suggestions at once. You have to be in the "Files changed" tab to actually use the feature, though it is also shown in the "Conversation" tab. Then you can use one commit message like "Added batch suggestions from @Carrie Warner". This just makes the commit history of the PR a lot more readable and useful.
+* Descriptive PR titles and commit messages go a long way, especially when the PR is referenced in the future. The default PR titles that GitHub gives us like "Updated README.md" are not very helpful because there's no way to know the purpose of the PR by reading the title. For all the reviewer knows, maybe the whole file was translated to Japanese because we realize that's our main audience, but I wouldn't know if that was the case unless it was in the PR title.
+
+## GitHub training
+
+GitHub training videos coming soon!
