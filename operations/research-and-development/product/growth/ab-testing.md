@@ -89,6 +89,8 @@ One-sided Test Sample Size Formula:
 Two-sided Sample Size Formula: 
 * n = ( (Z1-𝜶/2 * √ 𝞺1*(1- 𝞺1) ) + (Z1-𝜷 * √ 𝞺2*(1- 𝞺2) ) ) / 𝝈 )2
 
+![](../../../.gitbook/assets/z-score-table.png
+
 ### Design & Implementation
 When designing an A/B test, it’s key to:
 1. Simplify the test changes as much as possible.
