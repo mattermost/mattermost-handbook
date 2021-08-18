@@ -4,11 +4,21 @@ This playbook outlines the processes and practices used to engage with the Matte
 
 ## Goal
 
-Improve the Mattermost brand by responding to all Mattermost mentions and questions asked online in a timely manner.
+[Earn trust](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) and improve the Mattermost brand by responding to all Mattermost mentions and questions asked online in a timely manner. We want to help members of the community with their questions, but also making sure that the community is heard and that the feedback from the community reaches the rest of the team at Mattermost.
 
-## Principles
+## Expectations
 
-1. **Earn Trust:** Take actions that maximize the trust of others. Be empathetic, consistent, knowledgeable, and truthful.
+The Community Team is responsible for monitoring and responding to mentions across social media. However, mentions will often require input from someone with specific domain knowledge to ensure we give an accurate response. In these cases, it is expected for subject matter experts within the company to help the community team craft responses.
+
+We understand that everyone is busy, and that these types of requests can often seem like an unnecessary interruption. To mitigate this, the Community Team does the following before asking for assistance:
+1. Search the documentation, Mattermost, the forum, and GitHub issues to see if the question/concern has already been answered.
+2. Redirect the user to more appropriate support channels if the mention seems like it will require in-depth analysis or excessive back-and-forth. 
+
+This allows us to respond to the majority of our mentions without help, but there are still times when input from subject matter experts can help us respond much more quickly and accurately.
+
+## Can you help respond to this?
+
+We're asking for help responding to this comment so we can ensure we give the best possible answer as quickly as possible. We want to make sure the wider community has the best possible experience when reaching out to us online. 
 
 ## General Guidelines
 
