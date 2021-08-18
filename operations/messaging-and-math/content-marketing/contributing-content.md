@@ -1,4 +1,4 @@
-# Contributing Content to Mattermost
+# How to Contribute Content
 
 Been to a conference recently? Worked on something cool? Got something else Mattermost-related you want to post about? Writing a blog post is a great way to share your experience with the community.
 
@@ -6,14 +6,13 @@ Been to a conference recently? Worked on something cool? Got something else Matt
 
 * Write your blog post
 * Submit your draft and any image/video files to the Content team in the [Mattermost: Content channel](https://community-release.mattermost.com/core/channels/mattermost-blog)
-* Address recommendations for scope and clarity (if applicable)
-* Submit bio and headshot to include in post (first submission only)
+* Address recommendations for scope and clarity \(if applicable\)
+* Submit bio and headshot to include in post \(first submission only\)
 * Share published post on your social channels
-
 
 ## Writing for Mattermost
 
-The purpose of the [Mattermost blog](https://mattermost.com/blog/) is to help developers learn how they can be more productive and to share how the Mattermost team is solving interesting technology challenges. Our intent is for every piece of content to educate and inspire readers to improve their own productivity, whether they’re troubleshooting individual processes or optimizing workflows for their whole team. 
+The purpose of the [Mattermost blog](https://mattermost.com/blog/) is to help developers learn how they can be more productive and to share how the Mattermost team is solving interesting technology challenges. Our intent is for every piece of content to educate and inspire readers to improve their own productivity, whether they’re troubleshooting individual processes or optimizing workflows for their whole team.
 
 The mission of helping developers be more productive doesn’t mean focus only on productivity tools and tips -- sharing how we solved broader technical problems, interesting tech that we’re excited about, and industry trends and issues are all relevant to the larger goal of helping developers unblock their workflows.
 
@@ -22,18 +21,19 @@ The mission of helping developers be more productive doesn’t mean focus only o
 * Are focused on a single, clear topic 
 * Cover a new topic or angle that isn’t already part of our content catalog
 * Are written concisely and clearly, and formatted for easy skimming
-* Include images or other visuals that enrich the reading experience (videos, gifs, infographics, charts, etc.)
+* Include images or other visuals that enrich the reading experience \(videos, gifs, infographics, charts, etc.\)
 
-Check out [this post](https://mattermost.com/blog/monitoring-cloud-environments-at-scale-with-prometheus-and-thanos/) and [this post](https://mattermost.com/blog/ci-cd-pipeline-security/) for examples of well-focused content. 
+Check out [this post](https://mattermost.com/blog/monitoring-cloud-environments-at-scale-with-prometheus-and-thanos/) and [this post](https://mattermost.com/blog/ci-cd-pipeline-security/) for examples of well-focused content.
 
 ### Our content wishlist
 
 While we don't have a specific content wishlist, we welcome a wide variety of content submissions, especially on techinical topics. If you're not sure if a topic would be appropriate for the Mattermost blog, feel free to ask on [~Mattermost: Content](https://community-release.mattermost.com/core/channels/mattermost-blog).
 
 If you’re looking for inspiration, here are a few general types of post that we’re always looking for more of:
+
 * How we solved a technical problem, e.g. [Monitoring Cloud Environments at Scale with Prometheus and Thanos](https://mattermost.com/blog/monitoring-cloud-environments-at-scale-with-prometheus-and-thanos/)
 * How we built or designed a feature for our product, e.g. [How Mattermost approaches accessibility for the visually impaired](https://mattermost.com/blog/mattermost-accessibility-for-the-visually-impaired/)
-* Best practices (or at least, our practices) for a common workflow or process, e.g. [An Introduction to CI/CD pipeline security](https://mattermost.com/blog/ci-cd-pipeline-security/)
+* Best practices \(or at least, our practices\) for a common workflow or process, e.g. [An Introduction to CI/CD pipeline security](https://mattermost.com/blog/ci-cd-pipeline-security/)
 * How to use Mattermost in a unique way, e.g. [5 workflow automations for Mattermost that we love at n8n](https://mattermost.com/blog/5-workflow-automations-for-mattermost-that-we-love-at-n8n/)
 
 ### Need help writing?
@@ -54,16 +54,16 @@ If you aren’t sure if your post requires approval, let us know!
 
 ## Submitting Content
 
-When you have a post ready for review, please submit a draft and any image/video files to the Content team on the [~Mattermost: Content channel](https://community-release.mattermost.com/core/channels/mattermost-blog) on the Contributor server. You can upload files to this [Content Submission folder](https://drive.google.com/drive/folders/1GKxp0wnYUxFs_9fVRSJVI7kcdVejqIt3?usp=sharing), or link them directly in the channel. 
+When you have a post ready for review, please submit a draft and any image/video files to the Content team on the [~Mattermost: Content channel](https://community-release.mattermost.com/core/channels/mattermost-blog) on the Contributor server. You can upload files to this [Content Submission folder](https://drive.google.com/drive/folders/1GKxp0wnYUxFs_9fVRSJVI7kcdVejqIt3?usp=sharing), or link them directly in the channel.
 
 ### Accepted Formats
 
-* Google Docs (preferred)
+* Google Docs \(preferred\)
 * Markdown file 
 
 ## Review Process
 
-After you’ve submitted your post to the Content team, we’ll review it and get back to you within 3 business days with any feedback or suggestions. Articles may require up to 2 rounds of revisions. 
+After you’ve submitted your post to the Content team, we’ll review it and get back to you within 3 business days with any feedback or suggestions. Articles may require up to 2 rounds of revisions.
 
 Here are the types of edits and feedback you can expect to receive:
 
@@ -75,10 +75,11 @@ Here are the types of edits and feedback you can expect to receive:
   * Removing sections that don’t support the core topic of the post
   * Adding additional context or detail
 
-You (and any other required approvers) will have a chance to review the final version of your post before it goes live. Remember that our goal isn’t to change your voice and tone, just to make you sound like the best version of yourself!
+You \(and any other required approvers\) will have a chance to review the final version of your post before it goes live. Remember that our goal isn’t to change your voice and tone, just to make you sound like the best version of yourself!
 
-## Publishing 
+## Publishing
 
-After your post is approved, the Content Team will take care of getting it ready for publication in WordPress and let you know when it is scheduled to be published. 
+After your post is approved, the Content Team will take care of getting it ready for publication in WordPress and let you know when it is scheduled to be published.
 
 If this is your first time submitting an article to the Mattermost blog, don’t forget to **submit a short bio and a headshot** so we can include it in the post!
+

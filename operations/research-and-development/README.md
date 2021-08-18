@@ -1,4 +1,4 @@
-# Research & Development
+# Research and Development
 
 R&D includes engineering, QA, product management, documentation, analytics, community, and design \(UX, UI\).
 
@@ -61,7 +61,7 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 
 * Carrie Warner - Technical Writer
 
-#### Team Ursa (Full Stack team 1)
+#### Team Ursa \(Full Stack team 1\)
 
 * Martin Kraft - Engineering Lead
 * Claudio Costa - Engineer
@@ -69,7 +69,7 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 * Benjamin Cooke - Engineer
 * Furqan Malik - SDET
 
-#### Team Interstellar (Full Stack team 2)
+#### Team Interstellar \(Full Stack team 2\)
 
 * Catalin Tomai - Engineering Lead
 * Lev Brouk - Engineer
@@ -80,7 +80,7 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 * Dylan Haussermann - QA
 * Matt Birtch - UX Designer
 
-#### Team Apollo (Full Stack team 3)
+#### Team Apollo \(Full Stack team 3\)
 
 * Guillermo Vaya - Engineering Lead
 * Ashish Bhate - Engineer
@@ -205,3 +205,4 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 * Jason Blais - Community Lead
 * PJ Hagerty - Developer Advocate
 * Emily Cook - Community Manager
+

@@ -18,7 +18,7 @@ It's one of the most difficult things a people manager needs to do - it's also o
 
 In addition to the primary goal increasing the output of colleagues and of the organization, the performance review process also serves to align our actions to the [Mattermost Leadership Principles](../../../../company/about-mattermost/#leadership-principles). These are used as the criteria for peer-evaluation, and to calibrate role levels with colleagues', which may result in level-based promotions and compensation adjustments or, if level expectations are repeatedly not met, changes in role.
 
-## Manager Training 
+## Manager Training
 
 We believe a Manager’s fundamental role in a performance review is to improve performance. We use Chapter 13 of the book [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK) as the framework and pre-reading for our review process.
 
@@ -33,10 +33,9 @@ At performance review time all managers should:
 
 Feedback is solicited in a 360-degree style to incorporate feedback from peers. If you manage people, your manager may include direct reports in your peer feedback panel.
 
-### Peer Feedback 
+### Peer Feedback
 
-Staff are welcome to select 3-6 peers for their peer feedback panel. Managers can adjust the panel at any time. 
-Peer reviews include [Likes and Wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes). 
+Staff are welcome to select 3-6 peers for their peer feedback panel. Managers can adjust the panel at any time. Peer reviews include [Likes and Wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes).
 
 Note: HR will try and limit peer review panel requests to a maximum of 5 per person.
 
@@ -47,8 +46,9 @@ Note: HR will try and limit peer review panel requests to a maximum of 5 per per
 ### Manager Evaluation
 
 Managers will review all feedback to complete your performance appraisal. Managers will provide a rating for the following areas:
- - **Performance rating** is a manager's rating based on a direct report's execution of [AORs](https://handbook.mattermost.com/operations/operations/areas-of-responsibility) and other responsibilities for the review period.
- - **Capability rating** is a manager’s rating based on a direct report’s ability to achieve the review period’s desired results.
+
+* **Performance rating** is a manager's rating based on a direct report's execution of [AORs](https://handbook.mattermost.com/operations/operations/areas-of-responsibility) and other responsibilities for the review period.
+* **Capability rating** is a manager’s rating based on a direct report’s ability to achieve the review period’s desired results.
 
 ## What is the process?
 
@@ -56,10 +56,10 @@ All staff take part in the Annual End of Year Performance Review Cycle and the M
 
 * Mid-Year Review
 * [Formal Review Process](https://handbook.mattermost.com/operations/people/performance-reviews-50/formal-review-process)
-  
+
 Team members joining in April will not need to do the [90 day New Colleague review](https://handbook.mattermost.com/contributors/onboarding#new-colleague-90-day-feedback-process) and will instead take part in the Mid-Year Performance Review Cycle. Team members joining May - August will follow the typical [90 day New Colleague review process](https://handbook.mattermost.com/contributors/onboarding#new-colleague-90-day-feedback-process) and are not required to complete the Mid-Year Review.
 
-Team members joining in August will not need to do the [90 day New Colleague review](https://handbook.mattermost.com/contributors/onboarding#new-colleague-90-day-feedback-process) and will instead take part in  review cycle. Team members joining September - December will follow the typical [90 day New Colleague review process](https://handbook.mattermost.com/contributors/onboarding#new-colleague-90-day-feedback-process) and are not required to complete the End of Year Review.
+Team members joining in August will not need to do the [90 day New Colleague review](https://handbook.mattermost.com/contributors/onboarding#new-colleague-90-day-feedback-process) and will instead take part in review cycle. Team members joining September - December will follow the typical [90 day New Colleague review process](https://handbook.mattermost.com/contributors/onboarding#new-colleague-90-day-feedback-process) and are not required to complete the End of Year Review.
 
 ### Rating Scale
 
@@ -81,5 +81,6 @@ Yes. In the process of reviewing performance against target levels, changes in l
 
 #### Are there any resources available?
 
-- Learn how to use Culture Amp, nominate peer reviewers, give effective peer and upward feedback, and write your self-reflection in Culture Amp's [self-guided course](https://www.cultureamptraining.com/performance-reviews-for-employees).
-- People Managers should take Culture Amp's [self-guided course](https://www.cultureamptraining.com/performance-for-managers) to learn how to use the platform as a people manager. The course includes tips for writing evaluations, giving clear and actionable feedback, and helping your direct reports write strong goals.
+* Learn how to use Culture Amp, nominate peer reviewers, give effective peer and upward feedback, and write your self-reflection in Culture Amp's [self-guided course](https://www.cultureamptraining.com/performance-reviews-for-employees).
+* People Managers should take Culture Amp's [self-guided course](https://www.cultureamptraining.com/performance-for-managers) to learn how to use the platform as a people manager. The course includes tips for writing evaluations, giving clear and actionable feedback, and helping your direct reports write strong goals.
+

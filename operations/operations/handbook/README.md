@@ -1,4 +1,4 @@
-# Overview
+# Handbook Processes and Policies
 
 Welcome to the Mattermost Handbook process, policy, and onboarding section.
 
@@ -14,11 +14,11 @@ Handbook-first means that when you have a new idea, a new process, an update to 
 
 ### How do we drive Handbook-first?
 
-Great question. It's a team effort across the whole company, but we plan to have a secret weapon in the form of Handbook Champions. 
+Great question. It's a team effort across the whole company, but we plan to have a secret weapon in the form of Handbook Champions.
 
 ## Handbook Champions
 
-A Handbook Champion is a volunteer from a specific team/operational area who drives Handbook-first adoption and acts as a go-to in the team for Handbook questions. They also enjoy saying "oh you can find that in the Handbook!" and "You should put the in the Handbook!". They're motivated by the understanding that a single source of truth is empowering and decreases wasted time. Lastly, Handbook Champions enjoy working with their team to ensure processes, ideas, plans, and everything in between are documented in the Handbook. 
+A Handbook Champion is a volunteer from a specific team/operational area who drives Handbook-first adoption and acts as a go-to in the team for Handbook questions. They also enjoy saying "oh you can find that in the Handbook!" and "You should put the in the Handbook!". They're motivated by the understanding that a single source of truth is empowering and decreases wasted time. Lastly, Handbook Champions enjoy working with their team to ensure processes, ideas, plans, and everything in between are documented in the Handbook.
 
 The long-term goal is that Handbook Champions will have a huge impact on Mattermost by supporting constant iteration, decreasing the barrier to information, and breaking down knowledge silos.
 
@@ -50,4 +50,5 @@ Yes. We'll sync up once every two weeks initially, for 25 minutes. This will all
 
 ### Do I get a cool badge?
 
-Yes! You get a Handbook Champion badge, and may also be eligible for a Contribution Champion badge, depending a number of factors. There's also swag on offer (of course!)
+Yes! You get a Handbook Champion badge, and may also be eligible for a Contribution Champion badge, depending a number of factors. There's also swag on offer \(of course!\)
+

@@ -1,4 +1,4 @@
-# How to Update the Handbook
+# How to update the handbook
 
 ## Who can update update the Handbook?
 
@@ -31,17 +31,15 @@ If this is your first time contributing to Mattermost, first read the [Mattermos
 
 1. The quickest way to begin is navigating to the page you want to edit in [Mattermost Handbook](https://handbook.mattermost.com/), then clicking the **Edit on GitHub** icon in the top right navigation. This opens the page in GitHub that you can edit.
 2. In GitHub click the pencil icon in the navigation bar \(above the page header\) called **Edit the file in your fork of this project** to open the editable Markdown-format page.
-
-  * To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
-
+   * To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
 3. Make your edits. When you're ready to submit your changes, scroll to the bottom of the page to commit your changes and start a pull request.
 4. Add a descriptive title if the default title isn't sufficient. Add an extended description to summarize the changes you've made.
 5. Click the **Propose file change** button.
 
 ![](../../.gitbook/assets/how-to-update-handbook-commit-changes.png)
 
-6. On the next page, scroll down to compare changes with the original document and then select **Create pull request**.
-7. Confirm that the title and description are correct. Then select **Create pull request**.
+1. On the next page, scroll down to compare changes with the original document and then select **Create pull request**.
+2. Confirm that the title and description are correct. Then select **Create pull request**.
 
 ![](../../.gitbook/assets/how-to-update-handbook-create-new-pull-request.png)
 
@@ -56,7 +54,7 @@ Once the review process is complete, the change is merged and pushed live. We re
 Creating a new page follows the same process as above, with two exceptions:
 
 * Navigate to that section of the handbook where you'd like to add the new page and select **Create new file**.
-* Add your new page to the [Handbook table of contents](https://github.com/mattermost/mattermost-handbook/blob/0.2.1/SUMMARY.md). If you plan to reorder the table of contents as part of your change, please tag @jason.blais or @justine.geffen in Mattermost (@jasonblais or @justinegeffen in GitHub) as a redirect may need to be set up to accommodate the change.
+* Add your new page to the [Handbook table of contents](https://github.com/mattermost/mattermost-handbook/blob/0.2.1/SUMMARY.md). If you plan to reorder the table of contents as part of your change, please tag @jason.blais or @justine.geffen in Mattermost \(@jasonblais or @justinegeffen in GitHub\) as a redirect may need to be set up to accommodate the change.
 
 [Watch a two-minute training video on how to create a new page in GitHub](https://drive.google.com/file/d/12JUpEdP3uU_bPxDVWdlEZv65v1tttlQn/view?usp=sharing).
 
@@ -69,12 +67,11 @@ If you want to create nested content, you can create folders. You cannot create 
 1. Navigate to the folder within which you're creating your new folder.
 2. Click on **New file**.
 3. Enter the new folder's name in the text field and add `/` at the end.
-5. In the next text box, enter the name of the new page, ending with `.md`.
-6. Select **Commit new file**.
-7. Add a descriptive title if the default title isn't sufficient. Add an extended description to summarize the changes you've made.
-8. Click the **Propose file change** button.
-
-* Add your new page to the [Handbook table of contents](https://github.com/mattermost/mattermost-handbook/blob/0.2.1/SUMMARY.md).
+4. In the next text box, enter the name of the new page, ending with `.md`.
+5. Select **Commit new file**.
+6. Add a descriptive title if the default title isn't sufficient. Add an extended description to summarize the changes you've made.
+7. Click the **Propose file change** button.
+8. Add your new page to the [Handbook table of contents](https://github.com/mattermost/mattermost-handbook/blob/0.2.1/SUMMARY.md).
 
 ### Folder and page naming conventions
 
@@ -100,7 +97,7 @@ You can update the left-hand navigation in the [SUMMARY.md](https://github.com/m
 
 GitBook dynamically changes the URL based on the location in the table of contents. This means that when a page changes its location, the previous link results in a 'page not found' error.
 
-There is a redirect file that we use to prevent this in the `gitbook.yaml` file. Please mention @jason.blais or @justine.geffen in Mattermost (@jasonblais or @justinegeffen in GitHub) for assistance if needed.
+There is a redirect file that we use to prevent this in the `gitbook.yaml` file. Please mention @jason.blais or @justine.geffen in Mattermost \(@jasonblais or @justinegeffen in GitHub\) for assistance if needed.
 
 ### How do I add an image to the documentation?
 
@@ -121,7 +118,7 @@ Follow these two steps:
 
 Below is a list of approved reviewers.
 
-1. @jasonblais: Reviews major changes to handbook.mattermost.com, such as updates to the Table of Contents (SUMMARY.md).
+1. @jasonblais: Reviews major changes to handbook.mattermost.com, such as updates to the Table of Contents \(SUMMARY.md\).
 2. @justinegeffen, @amyblais, @cwarnermm: Editor reviews of all submitted PRs for correct grammar and consistent style.
 3. @kevinfayle: Signs off on changes to [marketing ops and analytics](https://handbook.mattermost.com/operations/messaging-and-math/demand-generation-reporting).
 4. @aedott: Signs off on changes to [messaging and math](https://handbook.mattermost.com/operations/messaging-and-math).
@@ -137,3 +134,4 @@ Below is a list of permissions handbook contributors have access to:
 1. @jasonblais, @justinegeffen, @amyblais, @cwarnermm: Write permissions to the repository.
 2. Staff contributors: Submit changes to handbook.mattermost.com via PRs. May have access to request reviews, add labels, submit PR reviews, and be requested as reviewers.
 3. Non-staff contributors: Submit changes to handbook.mattermost.com via PRs. Do not have access to request reviews, add labels. Can submit PR reviews.
+

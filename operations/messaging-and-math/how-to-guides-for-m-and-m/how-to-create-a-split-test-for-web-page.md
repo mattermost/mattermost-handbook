@@ -19,3 +19,4 @@ The following gives a split test framework for a web page, inspired by [A/B test
    1. Software like VWO and Optimizely usually calculate this for you automatically.
    2. [Read this article to learn more about statistical significance in split tests](https://data36.com/statistical-significance-in-ab-testing/).
 6. **Apply Results:** Regardless of which variation \(or control\) wins, consider if the learnings can be applied on any other pages, and continue to iterate to improve results.
+

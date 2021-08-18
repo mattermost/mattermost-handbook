@@ -1,4 +1,4 @@
-# HR Feedback Cadences
+# HR Cadences
 
 This section outlines HR cadences for company wide operations.
 
@@ -20,7 +20,7 @@ Manager listening sessions will happen once a month. In addition to the above to
 
 ## New Hire Feedback
 
-People use [New Hire feedback](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/onboarding#post-onboarding-readiness) to improve the onboarding process as it relates to general company onboarding. People may give suggestions to functional or department lead(s) if relevant feedback exists. New hire feedback cadences:
+People use [New Hire feedback](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/onboarding#post-onboarding-readiness) to improve the onboarding process as it relates to general company onboarding. People may give suggestions to functional or department lead\(s\) if relevant feedback exists. New hire feedback cadences:
 
 ## Staff Enablement Survey
 
@@ -32,7 +32,7 @@ We value high trust over micromanagement and want to continuously improve how we
 
 ### Cadence
 
-* Every six months (in March and September).
+* Every six months \(in March and September\).
 * [Additional logistics can be found here](https://handbook.mattermost.com/operations/operations/company-cadence#staff-enablement-survey).
 * Post-action planning at team and company level.
 * Reporting group minimum of 5 responses is required for any reporting filters related to: Managers, Teams, etc. This is a commonly-used threshold that helps maintain anonymity of survey responses.
@@ -46,7 +46,7 @@ For additional information on Gallup [see the Gallup website](https://www.gallup
 ### Survey Questions, Explained
 
 #### **Q1: I know what is expected of me at Mattermost.**
- 
+
 Role clarity and alignment is vital at any company. This is especially important for our remote teams and is a significant reason Mattermost uses a variety of methods to align expectations with individuals, within teams, and across teams. This includes performance reviews to discuss expectations and give feedback, [AORs](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#aor) to help cross-team collaboration, project planning with clear [DRIs](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#dri) that create transparency on roles within project teams, and QBRs that provide team and individual focus as it relates to Mattermost’s Mission and Vision.
 
 Role clarity requires a continuous dialogue with one’s Manager. In order to [earn](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) and keep [trust](https://docs.google.com/presentation/d/1BDSaeW-M92gth_NM1vI23dtbFLBsYVIk/edit#slide=id.g6f3b66b1fb_0_352), conversations around expectations are important to avoid misalignment of expectations which can cause frustration, affect productivity, and result in performance issues.
@@ -95,7 +95,7 @@ High performers are motivated to continue maintaining a high bar when they feel 
 
 Maintaining high trust in a remote environment requires intent from every team member at Mattermost. We can't physically “see” someone’s commitment to work, and micromanagement doesn’t work with our [leadership principles](https://handbook.mattermost.com/company/about-mattermost#leadership-principles) or our culture of high trust.
 
-To mitigate assumption-based thought, we want to focus on improving and communicating standards for asynchronous communications, transparent AORs, and empathetic remote norms (e.g. response times, time zones) as part of Mattermost’s culture of high trust.
+To mitigate assumption-based thought, we want to focus on improving and communicating standards for asynchronous communications, transparent AORs, and empathetic remote norms \(e.g. response times, time zones\) as part of Mattermost’s culture of high trust.
 
 #### **Q10. I have a best friend at Mattermost.**
 
@@ -121,7 +121,7 @@ Understanding where you are today and what the next step may be improves transpa
 
 #### **Q13. How likely are you to recommend Mattermost as a place to work?**
 
-Staff Net Promoter Score (SNPS) is a health index measuring overall engagement, happiness, and loyalty. SNPS is a common indicator of attrition, both voluntary and involuntary. Understanding how Promoters, Detractors, and Passives rate each category gives us, Mattermost, an opportunity to retain talent, improve performance, and enhance the staff experience.
+Staff Net Promoter Score \(SNPS\) is a health index measuring overall engagement, happiness, and loyalty. SNPS is a common indicator of attrition, both voluntary and involuntary. Understanding how Promoters, Detractors, and Passives rate each category gives us, Mattermost, an opportunity to retain talent, improve performance, and enhance the staff experience.
 
 #### **Q14. Select Direct Manager.**
 
@@ -136,3 +136,4 @@ These questions give Managers insight on behaviors that are positively observed 
 After the survey analysis is presented at [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com), HR will share Team Enablement Results with MLT and Managers, as long as there are at least five submitted responses. HR will work with MLT or the Team Lead to focus on relevant and actionable results based on the feedback. Next, MLT or Team Leads will share and discuss any next steps with the team.
 
 Post-survey actions start with team conversations and may include pulse surveys and listening sessions to help contextualize feedback and uncover blindspots. With bi-annual surveys, post-survey action planning should be iterative throughout the year.
+

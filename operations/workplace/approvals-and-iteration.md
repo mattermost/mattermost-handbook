@@ -10,8 +10,9 @@ Compensation changes follow a similar process as the [annual compensation review
 
 1. Discuss the compensation change request with an [HR Partner](https://handbook.mattermost.com/operations/workplace/people#team).
 2. The Manager and Team MLT member to agree on compensation proposal.
-3. HR will send a Compensation Approval Request by email to the appropriate approvers and CC the Manager requesting the change, DRIs for HR (HRIS and change memo), and Payroll. The approval chain is below.
- * R&D compensation changes: Team MLT, CTO, VP, Finance & Operations, CEO
- * Non-R&D compensation changes: Team MLT, VP, Finance & Operations, CEO
+3. HR will send a Compensation Approval Request by email to the appropriate approvers and CC the Manager requesting the change, DRIs for HR \(HRIS and change memo\), and Payroll. The approval chain is below.
+   * R&D compensation changes: Team MLT, CTO, VP, Finance & Operations, CEO
+   * Non-R&D compensation changes: Team MLT, VP, Finance & Operations, CEO
 4. Upon complete email approval, the Manager will share the compensation update with the staff member and inform HR after the compensation change has been communicated.
 5. Upon confirmation from the Manager, HR will send compensation change memos to each individual and update BambooHR.
+

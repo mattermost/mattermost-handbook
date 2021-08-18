@@ -1,4 +1,4 @@
-# Community
+# Mattermost Community
 
 ## Mattermost Community
 
@@ -30,7 +30,7 @@ People deploying Mattermost and supporting end users.
 
 #### System Integrators
 
-People who extend and customize Mattermost privately but who do not share back their work with the open source community (for a range of reasons, often related to confidentiality) are considered “users”. When users are able to share their work with others in the community they are recognized as “contributors”.
+People who extend and customize Mattermost privately but who do not share back their work with the open source community \(for a range of reasons, often related to confidentiality\) are considered “users”. When users are able to share their work with others in the community they are recognized as “contributors”.
 
 #### Customers
 
@@ -143,3 +143,4 @@ When possible, influence contributors to apply themselves to the highest impact 
 #### Mattermost Staff
 
 Mattermost staff are paid by Mattermost, Inc. to take on any of the contributor roles mentioned above, as well as to develop and support Mattermost Enterprise Edition as a commercial extension of the Mattermost open source project for large and sophisticated organizations.
+

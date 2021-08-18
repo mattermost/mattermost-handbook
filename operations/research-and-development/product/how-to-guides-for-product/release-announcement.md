@@ -14,7 +14,7 @@ It's important to think of the release announcement as a press release. We're co
 
 ### Timeline
 
-A release announcement for each feature should be started early in the product planning process. Each Product Manager is directly responsible for writing the announcement for each of their features. For large product features or new products, a PRFAQ should be completed. For smaller features, a “mini-PRFAQ” should be completed in the form of a blog post. Below are the expected deadlines ("T-X" dates don't include holidays/weekends):
+A release announcement for each feature should be started early in the product planning process. Each Product Manager is directly responsible for writing the announcement for each of their features. For large product features or new products, a PRFAQ should be completed. For smaller features, a “mini-PRFAQ” should be completed in the form of a blog post. Below are the expected deadlines \("T-X" dates don't include holidays/weekends\):
 
 #### A. \(T-minus 14 working days\) Outline
 
@@ -22,7 +22,7 @@ A release announcement for each feature should be started early in the product p
 
 #### B. \(T-minus 9 working days\) First draft
 
-* A draft of the release announcement and tweets are completed by Product Managers. Product Managers prepare the release announcement from their 2-pager documents. Product Managers are reminded of the deadline in the weekly Monday PM Sync meeting. The T-9 deadline should be the 1st Monday of the month for our Roadmap call (this will either be T-9 or the first Monday of the month, whichever comes earlier).
+* A draft of the release announcement and tweets are completed by Product Managers. Product Managers prepare the release announcement from their 2-pager documents. Product Managers are reminded of the deadline in the weekly Monday PM Sync meeting. The T-9 deadline should be the 1st Monday of the month for our Roadmap call \(this will either be T-9 or the first Monday of the month, whichever comes earlier\).
 
 #### C. \(T-minus 8 working days\) Lead Product Managers' Review
 
@@ -30,15 +30,15 @@ A release announcement for each feature should be started early in the product p
 
 #### D. \(T-minus 7 working days\) Product Marketing Director Review
 
-* The PM-approved draft will be provided for review to the Director of Product Marketing. Katie Wiersgalla (@wiersgallak) provides the release announcement copy for review and relays edits back to the Product Management team via the Product Manager's internal channel.
+* The PM-approved draft will be provided for review to the Director of Product Marketing. Katie Wiersgalla \(@wiersgallak\) provides the release announcement copy for review and relays edits back to the Product Management team via the Product Manager's internal channel.
 
 #### E. \(T-minus 5 working days\) CPO Review
 
-* The release announcement draft will be provided for review to the CPO. Katie Wiersgalla (@wiersgallak) provides the release announcement copy to the CPO for his review and relays edits back to the Product Management team via the Product Manager's internal channel.  Product Managers have two business days to resolve comments and provide updates.
+* The release announcement draft will be provided for review to the CPO. Katie Wiersgalla \(@wiersgallak\) provides the release announcement copy to the CPO for his review and relays edits back to the Product Management team via the Product Manager's internal channel.  Product Managers have two business days to resolve comments and provide updates.
 
 #### F. \(T-minus 2 working days\) Marketing Preparation
 
-* Katie provides the final and approved release announcement copy for Amy Blais (@amy.blais) to give to the marketing team.
+* Katie provides the final and approved release announcement copy for Amy Blais \(@amy.blais\) to give to the marketing team.
 
 #### G. \(T-minus 0 working days\) Release
 
@@ -48,7 +48,7 @@ A release announcement for each feature should be started early in the product p
 
 The headline for your feature should start with a verb and describe what the feature allows customer to do and the edition it's provided in.
 
-Example: **Sync Office 365 Calendar status with Mattermost (E20 edition)**
+Example: **Sync Office 365 Calendar status with Mattermost \(E20 edition\)**
 
 ### Feature Benefit
 
@@ -62,7 +62,7 @@ Next, describe in more detail how the feature works and what functionality is in
 
 Example:
 
-``` none
+```text
 With the new two-way Microsoft Office 365 Calendar integration feature, your users can now:
  - See a daily summary of their calendar events
  - Sync their Office 365 Calendar status automatically into Mattermost (e.g., “Away” if you have a meeting on your calendar)
@@ -81,6 +81,7 @@ Finally, add a link to the documentation, forum post, or repository as appropria
 
 Product Managers are also responsible for drafting the tweets that correspond to your features.
 
-Each tweet should start with **Mattermost Release vx.xx now…** or **Mattermost mobile app release vx.xx now…** and should describe the action the new feature allows them to do. This should be very similar to the headline written in the release announcement. Tweets should include the relevant hashtags: #mm524m, #opensource, #sre, #devops, #mattermost (where #mm524 is the release number).
+Each tweet should start with **Mattermost Release vx.xx now…** or **Mattermost mobile app release vx.xx now…** and should describe the action the new feature allows them to do. This should be very similar to the headline written in the release announcement. Tweets should include the relevant hashtags: \#mm524m, \#opensource, \#sre, \#devops, \#mattermost \(where \#mm524 is the release number\).
 
-Example Tweet: **Mattermost Release v5.24 now lets you view and manage your team or channel members from the System Console. #mm524 #opensource #sre #devops #mattermost**
+Example Tweet: **Mattermost Release v5.24 now lets you view and manage your team or channel members from the System Console. \#mm524 \#opensource \#sre \#devops \#mattermost**
+

@@ -4,11 +4,11 @@ description: 50% DRAFT
 
 # Plugin Release Process
 
-WIP: Migrating links and content from: https://github.com/jfrerich/plugin-release-process/blob/master/README.md.
+WIP: Migrating links and content from: [https://github.com/jfrerich/plugin-release-process/blob/master/README.md](https://github.com/jfrerich/plugin-release-process/blob/master/README.md).
 
 ## Overview
 
-The release process for modifying plugin versions and plugin version dependencies currently requires a developer to perform several non-automated tasks. Bumping, tagging, releasing, publishing, and bundling (preloading) versions are not necessarily complicated, but a formal set of steps is required and should be followed. This document describes those processes in detail and will be used to help standardize and automate these flows in the future.
+The release process for modifying plugin versions and plugin version dependencies currently requires a developer to perform several non-automated tasks. Bumping, tagging, releasing, publishing, and bundling \(preloading\) versions are not necessarily complicated, but a formal set of steps is required and should be followed. This document describes those processes in detail and will be used to help standardize and automate these flows in the future.
 
 ## Goals
 
@@ -35,7 +35,7 @@ The Future Enhancements section of this document describes additional suggestion
 * Compare commits from last bump/tagged release.
 * Documentation changes aren’t necessarily vital.
   * Documentation through bundled releases aren’t viewable through the app and users will be looking at the latest master commit in the GitHub repo.
-* The PR for the version bump (in the plugin repo) does not mean that is the last commit to get tagged. This step only bumps the version. The tagging step actually determines the commit that is tagged with the release tag.
+* The PR for the version bump \(in the plugin repo\) does not mean that is the last commit to get tagged. This step only bumps the version. The tagging step actually determines the commit that is tagged with the release tag.
 
 ### Create release issue
 
@@ -51,13 +51,13 @@ The Future Enhancements section of this document describes additional suggestion
 
 * Feature or patch bumping determined by commits being added from previous release tag.
 * Look through existing Issues and PRs and make sure the Milestone label is added for items to be included with release.
-* Verify no existing security issues (using [Updating Security Alerts Through CLI](#updating-security-alerts-through-cli)).
+* Verify no existing security issues \(using [Updating Security Alerts Through CLI](plugin-release-process.md#updating-security-alerts-through-cli)\).
   * If security issues exist, submit PR and merge before bumping version.
 * Install/Update [`pluginops`](https://github.com/mattermost/mattermost-utilities/tree/master/pluginops).
 * Run `pluginops release` inside a local copy of the repository.
 * Follow the steps of the tool.
 * Once the local changes are done, follow the link to open a PR.
-* Add any further reasoning or description for version bump (if necessary).
+* Add any further reasoning or description for version bump \(if necessary\).
 * Add 2 Developers and 1 QA for review.
 * You might also add a PM review to verify the release from a PM perspective.
 
@@ -93,7 +93,7 @@ Plugins that are released with Mattermost are called bundled plugins. These plug
 * Create PR against master branch with following:
   * **Title:** `Update bundled plugins for vX.XX`
   * **Summary:** List of updated plugins
-    * Ideally includes `from version` > `to version` for each plugin
+    * Ideally includes `from version` &gt; `to version` for each plugin
 
 ### Publish a plugin release version to the Plugin Marketplace
 
@@ -101,17 +101,17 @@ The steps to have a plugin version added the Plugin Marketplace are included wit
 
 ### Release to `community.mattermost.com`
 
-Once the Plugin Marketplace PR is merged, request an update on the plugin in the `~community-configuration`[https://community.mattermost.com/core/channels/community-configuration] channel.
+Once the Plugin Marketplace PR is merged, request an update on the plugin in the `~community-configuration`\[[https://community.mattermost.com/core/channels/community-configuration](https://community.mattermost.com/core/channels/community-configuration)\] channel.
 
 Then close the release issue.
 
 ## Security upgrade process
 
-(**`TODO`**: Automate checking all released plugins through CLI, cron, or GH webhook event)  
-(**`TODO`**: User must be repo admin to see and resolve automated security issue)  
-(**`TODO`**: Need method to hook to tell us when security issue is found)  
-(**`TODO`**: PR for security updates should be discrete)  
-(**`TODO`**: investigate `npm ls`)
+\(**`TODO`**: Automate checking all released plugins through CLI, cron, or GH webhook event\)  
+\(**`TODO`**: User must be repo admin to see and resolve automated security issue\)  
+\(**`TODO`**: Need method to hook to tell us when security issue is found\)  
+\(**`TODO`**: PR for security updates should be discrete\)  
+\(**`TODO`**: investigate `npm ls`\)
 
 Security alerts are displayed when viewing a GitHub repo and are resolved via the automated `dependabot` tool
 
@@ -121,12 +121,13 @@ Security alerts are displayed when viewing a GitHub repo and are resolved via th
 * `git checkout -b bump-dependency-versions`
 * `cd webapp/`
   * `npm-check -E -u` to view the changes interactively
+
     `npm-check -E -y` to update without interactive
 * `git add package-lock.json package-lock.json`
 * `git commit -m "Update dependencies"`
 * `git push --set-upstream origin bump-dependency-versions`
 * Create PR
-  * Title: `Update Dependencies` (Will automatically get set)
+  * Title: `Update Dependencies` \(Will automatically get set\)
   * Summary: Update dependencies
 
 ### Updating security alerts through CLI
@@ -140,8 +141,8 @@ Security alerts are displayed when viewing a GitHub repo and are resolved via th
 * `git commit -m "Update dependencies"`
 * `git push --set-upstream origin npm-audit-fix`
 * Create PR
-  * Title: `Update Dependencies` (Will automatically get set)
-  * Summary: <library_name>: <from_version> -> <to_version>
+  * Title: `Update Dependencies` \(Will automatically get set\)
+  * Summary: :  -&gt; 
 
 ### Updating security alerts through GitHub
 
@@ -158,3 +159,4 @@ Clicking on a specific security alert will open the details alert and provide a 
 ![Security Alert Details](../../../.gitbook/assets/security-serialze-javascript.png)
 
 ![Generating automated security update](../../../.gitbook/assets/security-generating-automated-security.png)
+

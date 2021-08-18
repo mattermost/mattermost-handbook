@@ -1,4 +1,4 @@
-# Getting Started with the Handbook
+# Handbook Onboarding
 
 The Mattermost Handbook is a work-in-progress in that information is constantly being updated, added, revised, and edited.
 
@@ -13,3 +13,4 @@ You don't need to ask permission to add content to the Handbook. Follow the step
 ## Questions, suggestions, bugs
 
 If you have an idea for content, you can submit an issue detailing your idea. The more information you provide the better. That said, if you have content ideas why not add it to the Handbook, open a PR, and see where that goes.
+

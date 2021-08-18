@@ -1,4 +1,4 @@
-# Ice Breakers
+# Ice-breakers
 
 In some Mattermost team meetings we set aside time to get to know our teams and the people that make them up. To do this, we ask that people do something in fron to of the group to introduce themselves and help us to get to know them on a personal level.
 
@@ -21,3 +21,4 @@ The pets of Mattermost are always a joy to see. Hearing and seeing them during m
 ### Let's Play a Game
 
 Some ice breakers are about learning more about everyone together. This could telling 2 truths and 1 lie or learning which Hogwarts House you think you'd be sorted into. Great for breakouts as well as ice breakers, it's an interesting look into someone's self-perception.
+

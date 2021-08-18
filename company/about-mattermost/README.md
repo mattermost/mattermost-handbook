@@ -47,18 +47,18 @@ Mattermost, Inc is a commercial open source company with a subscription-based, [
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Mattermost Team Edition</b> 
+      <td style="text-align:left"><b>Mattermost Team Edition</b>
         <br />
-        <br /><em>Audience: </em>Development team that wants to self-host workplace
-        messaging in private network</td>
+        <br /><em>Audience:</em> Development team that wants to self-host workplace messaging
+        in private network</td>
       <td style="text-align:left">
         <p>Our core product is Mattermost Team Edition offered under an open source
-          MIT license. It's built for a team of 10 to 50 developers and IT
-          professionals who need to self-host a workplace messaging platform. Developer-focused
+          MIT license. It&apos;s built for a team of 10 to 50 developers and IT professionals
+          who need to self-host a workplace messaging platform. Developer-focused
           features including web, desktop, and mobile apps, core integrations with
           DevOps platforms, archiving, search, and extensibility framework are offered
           in the open source core at no cost.</p>
-        <p>Mattermost Team Edition is packaged as a single Linux binary that's
+        <p>Mattermost Team Edition is packaged as a single Linux binary that&apos;s
           straightforward to install and maintain, with automated deployment from
           public cloud marketplaces including AWS, Azure, VMWare, and GCP.</p>
       </td>
@@ -67,8 +67,7 @@ Mattermost, Inc is a commercial open source company with a subscription-based, [
       <td style="text-align:left">
         <p><b>Mattermost Enterprise Edition</b>
         </p>
-        <p></p>
-        <p><em>Audience: </em>IT organization needing to self-host workplace messaging
+        <p><em>Audience:</em> IT organization needing to self-host workplace messaging
           in private network for multiple development teams, or other end users in
           high trust environments</p>
       </td>
@@ -105,6 +104,7 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 |  |  |  |
 | :--- | :--- | :--- |
-| The Mattermost logomark is called "the instrument".   It represents four tools organizations need to achieve their highest priorities:   A **compass** for direction, a **clock** to set pace, a **meter** to measure output, and a **dial** representing inputs - the contribution of everyone on the team.  |  | ![](../../.gitbook/assets/image%20%2820%29.png) |
+| The Mattermost logomark is called "the instrument".   It represents four tools organizations need to achieve their highest priorities:   A **compass** for direction, a **clock** to set pace, a **meter** to measure output, and a **dial** representing inputs - the contribution of everyone on the team. |  | ![](../../.gitbook/assets/image%20%286%29%20%282%29.png) |
 
 See [brand guidelines](https://mattermost.org/brand-guidelines/) for usage guidance.
+
