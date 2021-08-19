@@ -48,7 +48,7 @@ Example of valid Null & Alternative Hypothesis:
 
 
 ### Minimum Detectable Effect Size \(MDE\)
-The MDE is essentially the minimum relative change between test and control means to justify the changes. A smaller MDE requires a larger sample size, i.e. ability to confidently claim a small change to the baseline in the test group is statistically significant. 
+The MDE is essentially the minimum relative change between test and control means to justify the changes. A smaller MDE requires a larger sample size, i.e. ability to confidently claim a small change to the baseline in the test group is statistically significant. A relative MDE of 15%-20% is typical for proportions and conversion rates, but the MDE will vary based on the metric specified by the Success Criteria.
 
 #### Example 
 The Product Team wants to increase the proportion of users that invite members within the first 14 days on the platform. They’re evaluating two potential UI changes \(interventions\) to affect this change: 
