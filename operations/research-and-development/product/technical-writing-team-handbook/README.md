@@ -248,7 +248,7 @@ Visit the [Contribute to Documentation](https://handbook.mattermost.com/operatio
 
 * Try to submit files in batches rather than single PRs per file. This reduces the PR load and also groups your changes more effectively.
 * When there are lots of changes requested, especially on a docs PR where the changes are "safe" (meaning they don't need to be QA tested), you can use the "Add suggestion to batch" feature in GitHub to commit all of the suggestions at once. You have to be in the "Files changed" tab to actually use the feature, though it is also shown in the "Conversation" tab. Then you can use one commit message like "Added batch suggestions from @Carrie Warner". This just makes the commit history of the PR a lot more readable and useful.
-* Descriptive PR titles and commit messages go a long way, especially when the PR is referenced in the future. The default PR titles that GitHub gives us like "Updated README.md" are not very helpful because there's no way to know the purpose of the PR by reading the title. For all the reviewer knows, maybe the whole file was translated to Japanese because we realize that's our main audience, but I wouldn't know if that was the case unless it was in the PR title.
+* Descriptive PR titles and commit messages go a long way, especially when the PR is referenced in the future. The default PR titles that GitHub gives us like "Updated README.md" are not very helpful because there's no way to know the purpose of the PR by reading the title. For example, if the whole file was translated to Japanese because we realize that's our main audience, that information isn't obvious unless I open the PR and read it - or if it's in the PR title.
 
 ## GitHub training
 
