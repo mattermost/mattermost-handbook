@@ -8,7 +8,7 @@ Mattermost:
 
 Email:
 
-* [legal@mattermost.com](https://github.com/mattermost/mattermost-handbook/tree/c545c822840df7c22b2c066fb19e483e9d23c77c/operations/legal/legal@mattermost.com)
+* [legal@mattermost.com](mailto:legal@mattermost.com)
 
 Office Hours:
 
