@@ -11,7 +11,9 @@ This playbook outlines the processes and practices used to engage with the Matte
 The Community Team is responsible for monitoring and responding to mentions across social media. However, mentions will often require input from someone with specific domain knowledge to ensure we give an accurate response. In these cases, it is expected for subject matter experts within the company to help the community team craft responses.
 
 We understand that everyone is busy, and that these types of requests can often seem like an unnecessary interruption. To mitigate this, the Community Team does the following before asking for assistance:
+
 1. Search the documentation, Mattermost, the forum, and GitHub issues to see if the question/concern has already been answered.
+
 2. Redirect the user to more appropriate support channels if the mention seems like it will require in-depth analysis or excessive back-and-forth. 
 
 This allows us to respond to the majority of our mentions without help, but there are still times when input from subject matter experts can help us respond much more quickly and accurately.
