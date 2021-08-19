@@ -8,7 +8,7 @@ Mattermost:
 
 Email:
 
-* [legal@mattermost.com](emailto:legal@mattermost.com)
+* [legal@mattermost.com](mailto:legal@mattermost.com)
 
 Office Hours:
 
