@@ -2,7 +2,7 @@
 
 ## Technical Writing Handbook
 
-The Mattermost Technical Writers focus primarily on writing, editing, and maintaining technical documentation \(including the User's Guide, Administrator's Guide, and Developer documentation\).
+The Mattermost Technical Writers focus primarily on writing, editing, structuring, and maintaining technical and product documentation for Mattermost Channels, Boards, and Playbooks as well as developer documentation and the company Handbook. Technical Writers also work on in-product microcopy, provide editorial reviews for all documentation across the organization, and work closely with the community to improve documentation.
 
 ### Areas of responsibility \(AORs\)
 
