@@ -17,7 +17,7 @@ Documentation and technical writing at Mattermost covers \(but isn't limited to\
 * Growth
   * Customer Portal
   * Telemetry
-* Apps Framework and Marketplace
+* App Framework and Marketplace
 
 Other areas of documentation include:
 
