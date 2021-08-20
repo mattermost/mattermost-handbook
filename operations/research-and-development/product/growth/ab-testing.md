@@ -7,10 +7,13 @@ This document will provide an overview of Mattermost’s A/B Testing methodology
 Before you can determine the success criteria \(i.e. the metric that measures success\), you must clearly articulate what the goal/objective of your AB test is. This goal/objective is a statement about the behavior you're trying to influence, the direction of that influence, and the method for achieving that influence. 
 
 An example of a goal/objective could be:
+
 1. Objective: Increase early user retention and engagement.
   * Method: Alter the location and design of the invite member feature.
+
 2. Objective: Increase Cloud free-to-paid conversions.
   * Method: Alter design of the purchasing process within the Billing & Subscription section of the Admin Console.
+
 3. Objective: Increase conversions of Mattermost Cloud Trial Sign Ups
   * Method: Alter paid ad messaging, visuals, and/or targeting.
 
@@ -94,7 +97,7 @@ One-sided Test Sample Size Formula:
 Two-sided Sample Size Formula: 
 * n = \( \(Z1-𝜶/2 * √ 𝞺1*\(1- 𝞺1\) \) + \(Z1-𝜷 * √ 𝞺2*\(1- 𝞺2\) \) \) / 𝝈 \)^2
 
-![](../../../.gitbook/assets/z-score-table.png
+![](../../../.gitbook/assets/z-score-table.png)
 
 There are online AB test sample size calculators that allow you to determine the minimum required sample size per test variation. These tests allow you to quickly check the required sample size to achieve an adequate level of statistical power and confidence. [This AB Test Sample Size Calculator by AB Testguide](https://abtestguide.com/abtestsize/) provides the option to switch between one and two-sided tests, as well as specify industry standard powers and confidence levels. The duration of the test depends on the volume of users and instances being created over time. The fewer being created the longer the test will take. Given Mattermost's current Cloud sign up frequency it would take at least 12-16 weeks for a single test on new end users to reach a industry-accepted level of statistical power and confidence. Which requires patience our fast-paced culture does not often permit... All the more reason to increase the breadth and depth of our marketing and business development initiatives.
 
