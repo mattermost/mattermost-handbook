@@ -85,6 +85,8 @@
     * [Technical Writing Team Handbook](operations/research-and-development/product/technical-writing-team-handbook/README.md)
       * [Docathon 2021](operations/research-and-development/product/technical-writing-team-handbook/docathon-2021/README.md)
         * [Getting Started with Contributing](operations/research-and-development/product/technical-writing-team-handbook/docathon-2021/docathon-processes.md)
+    * [Growth](operations/research-and-development/product/growth/README.md)
+      * [A/B Testing Methodology](operations/research-and-development/product/growth/ab-testing.md)
     * [Analytics](operations/research-and-development/product/analytics/README.md)
       * [Looker](operations/research-and-development/product/analytics/looker/README.md)
         * [Dashboards](operations/research-and-development/product/analytics/looker/dashboards.md)
