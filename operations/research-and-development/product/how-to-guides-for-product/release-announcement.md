@@ -32,11 +32,11 @@ A release announcement for each feature should be started early in the product p
 
 * The PM-approved draft will be provided for review to the Director of Product Marketing and to the Director of Communications. Katie Wiersgalla \(@wiersgallak\) provides the release announcement copy for review and relays edits back to the Product Management team via the Product Manager's internal channel.
 
-#### F. \(T-minus 2 working days\) Marketing Preparation
+#### E. \(T-minus 2 working days\) Marketing Preparation
 
 * Katie provides the final and approved release announcement copy for Amy Blais \(@amy.blais\) to give to the marketing team.
 
-#### G. \(T-minus 0 working days\) Release
+#### F. \(T-minus 0 working days\) Release
 
 * The release announcement is published. T-0 is based on the Release Day in the Mattermost Release Dates calendar.
 
