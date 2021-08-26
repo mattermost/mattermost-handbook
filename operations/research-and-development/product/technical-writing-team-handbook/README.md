@@ -52,6 +52,12 @@ The basic outline for getting started with contributions is provided in the [REA
 
 Once complete, submit your Pull Request \(PR\). Ensure that you assign appropriate approvers and labels - if you've forked the repo or don't have the correct repo permissions you may not be able to do this, so you can skip this step. Read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review) - it applies to various types of contributions including documentation.
 
+## PR tips and best practices
+
+* Try to submit files in batches rather than single PRs per file. This reduces the PR load and also groups your changes more effectively.
+* When there are lots of changes requested, especially on a docs PR where the changes are "safe" (meaning they don't need to be QA tested), you can use the "Add suggestion to batch" feature in GitHub to commit all of the suggestions at once. You have to be in the "Files changed" tab to actually use the feature, though it is also shown in the "Conversation" tab. Then you can use one commit message like "Added batch suggestions from @Carrie Warner". This just makes the commit history of the PR a lot more readable and useful.
+* Descriptive PR titles and commit messages go a long way, especially when the PR is referenced in the future. The default PR titles that GitHub gives us like "Updated README.md" are not very helpful because there's no way to know the purpose of the PR by reading the title. For example, if the whole file was translated to Japanese because we realize that's our main audience, that information isn't obvious unless you open the PR and read it - or if it's in the PR title.
+
 ### Submitting feature documentation
 
 Feature documentation is a joint effort between Product Managers and Technical Writers. In the same way that we want to empower everyone to contribute to our documentation, Product Managers are encouraged to write MVP documentation for their product/feature.
@@ -243,12 +249,6 @@ If you have any questions, you can post them in the [Documentation](https://comm
 Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated \(or created\) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation.
 
 Visit the [Contribute to Documentation](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/submitting-documentation-with-your-pr) page to get started with submitting documentation with your PR. You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review).
-
-## PR tips and best practices
-
-* Try to submit files in batches rather than single PRs per file. This reduces the PR load and also groups your changes more effectively.
-* When there are lots of changes requested, especially on a docs PR where the changes are "safe" (meaning they don't need to be QA tested), you can use the "Add suggestion to batch" feature in GitHub to commit all of the suggestions at once. You have to be in the "Files changed" tab to actually use the feature, though it is also shown in the "Conversation" tab. Then you can use one commit message like "Added batch suggestions from @Carrie Warner". This just makes the commit history of the PR a lot more readable and useful.
-* Descriptive PR titles and commit messages go a long way, especially when the PR is referenced in the future. The default PR titles that GitHub gives us like "Updated README.md" are not very helpful because there's no way to know the purpose of the PR by reading the title. For example, if the whole file was translated to Japanese because we realize that's our main audience, that information isn't obvious unless you open the PR and read it - or if it's in the PR title.
 
 ## GitHub training
 
