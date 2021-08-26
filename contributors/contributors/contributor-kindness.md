@@ -8,7 +8,7 @@ With the scale of Mattermost and its communities, we can't assume everyone is wo
 
 ## Respect one's timezone
 
-With contributors and staff around the world, there is no way to know when any person involved in Mattermost is available. Some folks will work their local 9-5 but others choose hours convenient to them and their team. Be concious of when people are available and what works for them. Again, if it isn't a blocker, patience helps. If it's a blocker, perhaps reach out and see if someone else can help.
+With contributors and staff around the world, there is no way to know when any person involved in Mattermost is available. Some folks will work their local 9-5 but others choose hours convenient to them and their team. Be conscious of when people are available and what works for them. Again, if it isn't a blocker, patience helps. If it's a blocker, perhaps reach out and see if someone else can help.
 
 ## Use kind words
 
