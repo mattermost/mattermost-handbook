@@ -1,6 +1,6 @@
 # Contributor Kindness
 
-While there are specific rules of interaction in every Mattermost project, as governed by our [Code of Conduct](https://handbook.mattermost.com/contributors/mattercon/mattermost-code-of-conduct), activities by contributors and other community members. While we hope the idea of treating everyone hoe you would like to be treated is a good start, we wanted to lay out some specific guidelines for interaction to ensure everyone is kind and respectful to one another.
+While there are specific rules of interaction in every Mattermost project, as governed by our [Code of Conduct](https://handbook.mattermost.com/contributors/mattercon/mattermost-code-of-conduct), activities by contributors and other community members. While we hope the idea of treating everyone how you would like to be treated is a good start, we wanted to lay out some specific guidelines for interaction to ensure everyone is kind and respectful to one another.
 
 ## Respect One's Time
 With the scale of Mattermost and its communities, we cannot assume everyone is working at the same pace as ourselves. We also cannot be aware of all the constraints an individual's time. Whether there are personal or professional responsibilities, many people have significant draws on their time. If someone you need input from is unreachable, reach out in a kind way. If the issue is not a blocker, give the other person ample time to respond. 
