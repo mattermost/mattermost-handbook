@@ -88,11 +88,11 @@ Creating new content can take the form of a new page, or an entirely new section
 2. Navigate through the directories until you reach the section where you'd like to add your new content.
 3. Select **Add file > Create new file**.
 
-When you create a new page in the Handbook ensure that:
+  When you create a new page in the Handbook ensure that:
 
-* The page name is all lowercase.
-* There are hyphens instead of spaces between the words.
-* New page names end with `.md`.
+  * The page name is all lowercase
+  * There are hyphens instead of spaces between the words.
+  * New page names end with `.md`.
 
 4. Write your content as needed.
 5. When you're ready to submit your changes, scroll to the bottom of the page to commit your changes and start a pull request.
