@@ -2,7 +2,7 @@
 
 ## Technical Writing Handbook
 
-The Mattermost Technical Writers focus primarily on writing, editing, and maintaining technical documentation \(including the User's Guide, Administrator's Guide, and Developer documentation\).
+Mattermost Technical Writers focus primarily on writing, editing, structuring, and maintaining Mattermost technical and product documentation, end user documentation for Mattermost Channels, Boards, and Playbooks, as well as developer documentation and the company Handbook. Technical Writers also manage in-product microcopy, provide editorial reviews for all documentation across the organization, and work closely with the community to improve documentation.
 
 ### Areas of responsibility \(AORs\)
 
@@ -51,6 +51,12 @@ Please reach out to the [Documentation Working Group](https://community.mattermo
 The basic outline for getting started with contributions is provided in the [README](https://github.com/mattermost/docs/blob/master/README.md) of the docs repo. If you have write access to the repo, you can create a branch off master and work on that.
 
 Once complete, submit your Pull Request \(PR\). Ensure that you assign appropriate approvers and labels - if you've forked the repo or don't have the correct repo permissions you may not be able to do this, so you can skip this step. Read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review) - it applies to various types of contributions including documentation.
+
+## PR tips and best practices
+
+* Try to submit files in batches rather than single PRs for each file update. This reduces the PR load and also groups your changes more effectively.
+* When there are lots of changes requested, especially on a docs PR that doesn't require QA testing, you can use the "Add suggestion to batch" feature in GitHub to commit all of the suggestions at once. You need to be on the **Files changed** tab to use this feature, though it's also shown on the **Conversation** tab. By batching your suggestions, you can use one commit message such as "Added batch suggestions from @Carrie Warner". This just makes the commit history of the PR a lot more readable and useful for everyone reviewing it.
+* Descriptive PR titles and commit messages go a long way, especially when the PR is referenced in the future. The default PR titles that GitHub gives us like "Updated README.md" are not very helpful because there's no way to know the purpose of the PR by reading the title. For example, if the whole file was translated to Japanese because we realize that's our main audience, that information isn't obvious unless you open the PR and read it - or if it's in the PR title.
 
 ### Submitting feature documentation
 
@@ -243,12 +249,6 @@ If you have any questions, you can post them in the [Documentation](https://comm
 Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated \(or created\) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation.
 
 Visit the [Contribute to Documentation](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/submitting-documentation-with-your-pr) page to get started with submitting documentation with your PR. You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review).
-
-## PR tips and best practices
-
-* Try submit files in batches rather than single PRs per file. This reduces the PR load and also groups your changes more effectively.
-* When there are lots of changes requested, especially on a docs PR where the changes are "safe" (meaning they don't need to be QA tested), you can use the "Add suggestion to batch" feature in GitHub to commit all of the suggestions at once. You have to be in the "Files changed" tab to actually use the feature, though it is also shown in the "Conversation" tab. Then you can use one commit message like "Added batch suggestions from @Carrie Warner". This just makes the commit history of the PR a lot more readable and useful.
-* Descriptive PR titles and commit messages go a long way, especially when the PR is referenced in the future. The default PR titles that GitHub gives us like "Updated README.md" are not very helpful because there's no way to know the purpose of the PR by reading the title. For all the reviewer knows, maybe the whole file was translated to Japanese because we realize that's our main audience, but I wouldn't know if that was the case unless it was in the PR title.
 
 ## GitHub training
 
