@@ -95,7 +95,60 @@ An error message informs the user that something went wrong. Errors prevent the 
 * If a solution or workaround isn’t obvious, suggest one.
 * Examples:
   * **Messages must have fewer than 120 characters.**
-  * **A connection to the Plugin Marketplace server could not be established. Check your settings in the** [**System Console**](https://github.com/mattermost/mattermost-handbook/tree/7aa7b57d703dc9e728d9ba53931bae8f5585d8f3/operations/research-and-development/product/hyperlink%3E/README.md). 
+  * **A connection to the Plugin Marketplace server could not be established. Check your settings in the** [**System Console**](https://github.com/mattermost/mattermost-handbook/tree/7aa7b57d703dc9e728d9ba53931bae8f5585d8f3/operations/research-and-development/product/hyperlink%3E/README.md).
+
+## In-product copy
+
+The Technical Writers often work with the UI/UX team on in-product copy. The majority of guidelines are available in the [Mattermost Compass Design System](https://zeroheight.com/29be2c109/p/995619-compass-design-system). Here are some additional things to take note of:
+ 
+### CTAs
+
+#### Self-managed renew license Customer Portal details page
+
+"Complete purchase"
+
+#### Self-managed renewal license Customer Portal confirmation
+
+"Renew now"
+"Download license"
+"Complete purchase"
+
+#### Self-managed renewal license email
+
+"Renew now"
+
+#### Self-managed start trial license page
+
+"Start trial"
+"Purchase a license" "Contact sales"
+"Choose file"
+
+#### Self-managed feature page
+
+"Start trial"
+"Not right now"  "Yes, start now"
+"Purchase a license"
+ 
+#### Self-managed feature page after trial ended
+
+"Purchase a license" "Learn more"
+
+#### Cloud trial
+
+Customer Portal: "Subscribe now"
+System Console: "Subscribe now"
+Questions: "Contact sales"
+Purchase completed: "Subscribe"
+System Console: "Upgrade now"
+ 
+IC DM: "Start 30-day trial" "Learn more"
+
+#### Cloud purchase subscription
+
+"Subscribe"
+ 
+#### Cloud upgrade
+
 
 ## Button labels and links
 
