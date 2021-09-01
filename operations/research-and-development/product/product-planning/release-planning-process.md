@@ -24,26 +24,26 @@ In a time-based release cycle, you release at a predetermined date with whatever
 
 Mattermost uses time-based releases for the following reasons:
 
-- **Trust:** Having a predetermined release date increases predictability as it enables organizations to plan their own upgrade cycle.
-- **Iteration:** Having a set release cadence enables us to release new features and bug fixes early and often; in a feature-based release cycle, a release may get delayed by days or even weeks if surprises arise during the release cycle.
-- **Community:** A time-based release cycle is preferred among developer communities, especially in open source. Contributors are aware of the release schedule and often aim to complete development by a specified date so that the feature makes it into a release. However, if those dates are missed, we can simply deliver the community-built feature on the next release. Doing feature-based releases with the community is risky, since there is generally less influence on when exactly the work is completed.
+* **Trust:** Having a predetermined release date increases predictability as it enables organizations to plan their own upgrade cycle.
+* **Iteration:** Having a set release cadence enables us to release new features and bug fixes early and often; in a feature-based release cycle, a release may get delayed by days or even weeks if surprises arise during the release cycle.
+* **Community:** A time-based release cycle is preferred among developer communities, especially in open source. Contributors are aware of the release schedule and often aim to complete development by a specified date so that the feature makes it into a release. However, if those dates are missed, we can simply deliver the community-built feature on the next release. Doing feature-based releases with the community is risky, since there is generally less influence on when exactly the work is completed.
 
-You can find step-by-step details of the release planning process and timelines at https://handbook.mattermost.com/operations/research-and-development/product/release-process.
+You can find step-by-step details of the release planning process and timelines at [https://handbook.mattermost.com/operations/research-and-development/product/release-process](https://handbook.mattermost.com/operations/research-and-development/product/release-process).
 
 ## Release planning cadence
 
 At Mattermost, our planning cadence consists of:
 
-- **Yearly:** Company fiscal year and long term product strategy planning
-- **Quarterly:** Release Plan and Quarterly OKR planning
-- **Monthly:** Check in on OKR status
+* **Yearly:** Company fiscal year and long term product strategy planning
+* **Quarterly:** Release Plan and Quarterly OKR planning
+* **Monthly:** Check in on OKR status
 
 Since we follow an agile development style, our release plan is also agile. We plan releases quarterly, following the process outlined below.
 
 Before each quarter begins, we lock on plans for:
 
-- **What's Launching:** Key initiatives we plan to work with Marketing on launching this quarter.
-- **What's In Progress:** Key initiatives we will start working on this quarter, but may not ship until a future quarter.
+* **What's Launching:** Key initiatives we plan to work with Marketing on launching this quarter.
+* **What's In Progress:** Key initiatives we will start working on this quarter, but may not ship until a future quarter.
 
 We also update the backlog to show which items we are considering for 6 to 12 months out, but this list is flexible and gets updated each quarter based on any changes to company strategy, product goals, community needs, and market conditions.
 

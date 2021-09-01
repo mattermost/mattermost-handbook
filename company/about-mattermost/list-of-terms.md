@@ -28,7 +28,7 @@ An obvious error in Mattermost software that is typically a code defect. Changes
 
 ### CAO
 
-_Contract Accountability Owner_ is a [DRI](list-of-terms.md#dri) for ensuring a contract meets our guidelines and standards ahead of final approval by [a company signatory](../../operations/operations/company-agreements.md#who-can-sign-on-behalf-of-the-company). Also see [listing of CAOs](../../operations/operations/company-agreements.md#who-are-contract-accountability-owners-caos).
+_Contract Accountability Owner_ is a [DRI](list-of-terms.md#dri) for ensuring a contract meets our guidelines and standards ahead of final approval by [a company signatory](../../operations/operations/company-processes/company-agreements.md#who-can-sign-on-behalf-of-the-company). Also see [listing of CAOs](../../operations/operations/company-processes/company-agreements.md#who-are-contract-accountability-owners-caos).
 
 ### COM
 
@@ -38,8 +38,9 @@ COM is short for [Customer Obsession Meeting](https://docs.mattermost.com/proces
 
 Because the term "country" may be either controversial or incorrect when describing a geographic area governed by a state-like political entity we use the term "country/region" to avoid any accidental or implied judgement on the independence of a region. If the term "country" appears to be incorrectly used, when "country/region" is more appropriate, please contact info@mattermost.com.
 
-### Collapsed Reply Threads (CRT)
-Collapsed Reply Threads (CRT) is a Mattermost Messaging feature available in beta offering an enhanced experience for users communicating in threads and replying to messages. When enabled, Collapsed Reply Threads improve users’ ability to process channel content, find, follow, and resume conversations more easily, and keep threaded conversations focused. See our [Organizing Conversations using Collapsed Reply Threads (Beta)](https://docs.mattermost.com/help/messaging/organizing-conversations.html) product documentation for details. 
+### Collapsed Reply Threads \(CRT\)
+
+Collapsed Reply Threads \(CRT\) is a Mattermost Messaging feature available in beta offering an enhanced experience for users communicating in threads and replying to messages. When enabled, Collapsed Reply Threads improve users’ ability to process channel content, find, follow, and resume conversations more easily, and keep threaded conversations focused. See our [Organizing Conversations using Collapsed Reply Threads \(Beta\)](https://docs.mattermost.com/help/messaging/organizing-conversations.html) product documentation for details.
 
 ### Customer
 
@@ -70,6 +71,7 @@ A specific type of [mana](list-of-terms.md#mana) for developers similar to “po
 _Directly Responsible Individual_ means a human individual who is accountable for a given Area Of Responsibility. A DRI is a single person, not a group of people. If there is a shift schedule, define each shift as a separate AOR \(e.g. Tier 2 Mobile Support Escalations Weekdays 8am to 5pm Palo Alto time\). If you are unsure who is the DRI, make the AOR more specific until the DRI is clear.
 
 ### Edge
+
 “Edge Release”, a version of Mattermost which indicates the latest unstable release off of the main branch.
 
 ### ESR
@@ -99,6 +101,7 @@ A beneficial change to code that is not fixing a bug.
 Iteration means being able to quickly improve on something by shipping a minimally viable change in how we do things. It's the opposite of the "wait, wait, wait, ship" method we call the [Windows Vista Approach](list-of-terms.md#windows-vista-approach).
 
 ### Latest
+
 “Latest Release”, a version of Mattermost which indicates the latest stable release.
 
 ### LHS
@@ -145,7 +148,7 @@ Term for publicly documenting information in a web-discoverable format \(GitHub 
 
 ### PTO
 
-_Paid Time Off_ is time away from work paid for by the company to staff, including holidays, vacations, and approved leaves of absence. See [PTO](../../operations/workplace/people/working-at-mattermost/paid-time-off.md).
+_Paid Time Off_ is time away from work paid for by the company to staff, including holidays, vacations, and approved leaves of absence. See [PTO](../../operations/workplace/people/working-at-mattermost/paid-time-off/).
 
 ### RHS
 
@@ -180,3 +183,4 @@ The following is a list of terms no longer used with links to their definitions 
 #### Tomb-stoned
 
 Previously hyphenated, now not hyphenated, see [Tombstoned](list-of-terms.md#tombstoned).
+

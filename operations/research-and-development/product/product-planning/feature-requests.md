@@ -43,3 +43,4 @@ If a deal is dependent on committing to a concrete timeline for a feature, the S
 The Product Management team will then evaluate the ask, and determine if we can commit to a timeline or if the feature does not fit on our roadmap.
 
 Please be aware that committing to a concrete timeline for a deal is the exception not the norm, as it can have a negative impact on delivering other features that the rest of our user base is expecting.
+

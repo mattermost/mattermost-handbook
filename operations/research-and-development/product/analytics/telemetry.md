@@ -11,3 +11,4 @@ To collect telemetry, we are using [RudderStack](https://rudderstack.com/) which
 ## [The Telemetry Handbook](https://docs.google.com/document/d/1CJeMFxnwUq8njKd3S3zxnfqrwUz8zNDsTmUAYqgy_uo/edit?usp=sharing)
 
 We have created this handbook to ensure we collect useful telemetry from all sources. This handbook is the guideline for how to implement telemetry, both from the perspective of Product Managers and the engineers doing the actual implementation.
+

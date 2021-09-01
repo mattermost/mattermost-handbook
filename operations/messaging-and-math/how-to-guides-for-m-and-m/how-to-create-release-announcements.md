@@ -30,13 +30,13 @@ description: 50% Draft
 ### F. \(T-minus 2 working days\) Set Up Blog Post in Wordpress
 
 * Release manager checks that the guidelines in the Checklist for Review of Draft are met
-* Marketing (Justin) sets up the blog post in Wordpress and asks Release Manager to review
-* Marketing (Justin) ensures that the blog post is mobile-friendly by testing it on smartphone and tablet platforms
+* Marketing \(Justin\) sets up the blog post in Wordpress and asks Release Manager to review
+* Marketing \(Justin\) ensures that the blog post is mobile-friendly by testing it on smartphone and tablet platforms
 
 ### G. \(T-minus 0 working days\) Blog Post and Tweets Published
 
 * Release Manager publishes the blog post
-* Marketing (Justin) schedules tweets from blog post \(Tuesdays 10am PT, and Thursdays 10am if there's extra\)
+* Marketing \(Justin\) schedules tweets from blog post \(Tuesdays 10am PT, and Thursdays 10am if there's extra\)
 
 ## Checklist for review of draft
 
@@ -44,7 +44,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 
 1. **Exciting headline and subtitle**
    1. Begin with a clear headline stating the purpose, e.g., "launching X", "ending support for Y", "announcing Z"
-   2. Subtitle should focus on the System Admin for Mattermost deciding whether to upgrade or buy E20 to empower end users (customer focus)
+   2. Subtitle should focus on the System Admin for Mattermost deciding whether to upgrade or buy E20 to empower end users \(customer focus\)
    3. Subtitle summarizes the whole release, not just one or two main features. Lead with the most exciting/impactful new feature
 2. **Compelling, specific one-liners**
    1. Introduce features with compelling, concise, specific descriptions
@@ -83,7 +83,7 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 
 1. Highlight past successes: Cross link to promote traffic
 2. Links tell a story: Links should indicate the content they lead to without clicking, avoid "read this blog post" and instead "learn more about the incident response alpha program"
-3. Actionable (e.g. downloading the latest mobile app release, including links)
+3. Actionable \(e.g. downloading the latest mobile app release, including links\)
 4. Clear, concise, and consistent throughout
 
 ## Screenshot Guidelines
@@ -100,3 +100,4 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
 6. Say "You" instead of "Users" to talk directly to the reader
 7. Say "AD/LDAP" instead of just "AD" or just "LDAP"
 8. "System Console" and "System Admin" should be capitalized
+

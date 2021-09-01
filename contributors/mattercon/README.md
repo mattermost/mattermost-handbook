@@ -8,13 +8,13 @@ MatterCon is **not** a mandatory trip or a department offsite, nor is it a vacat
 
 ### Goal
 
-Our goal is to increase the share of Mattermost in the market by increasing effectiveness, efficiency and communication of our organization through:   
-  
+Our goal is to increase the share of Mattermost in the market by increasing effectiveness, efficiency and communication of our organization through:
+
 * Building and strengthening relationships.
-*  Increasing alignment through understanding of objectives, process and domain topics.
-*  Reflecting on and improving processes and plans.
-*  Creating a fun culture for contributors and team members.
-*  Breaking down work barriers and become more empathetic for team and community members around the world.
+* Increasing alignment through understanding of objectives, process and domain topics.
+* Reflecting on and improving processes and plans.
+* Creating a fun culture for contributors and team members.
+* Breaking down work barriers and become more empathetic for team and community members around the world.
 
 ### Who
 
@@ -85,10 +85,11 @@ Here's what it was like at MatterCon 2019 in Puta Cana, Dominican Republic:
 
 [MatterCon 2019](https://youtu.be/pMySvCfy7Bw)
 
-Here's MatterCon 2018 in Lisbon, Portugal: 
+Here's MatterCon 2018 in Lisbon, Portugal:
 
-[MatterCon 2018](https://www.youtube.com/watch?v=CZXaYttz3NA&t=2s)  
-  
-Here's MatterCon 2017 in Las Vegas, USA: 
+[MatterCon 2018](https://www.youtube.com/watch?v=CZXaYttz3NA&t=2s)
+
+Here's MatterCon 2017 in Las Vegas, USA:
 
 [MatterCon 2017](https://www.youtube.com/watch?v=_RpmrM-5UFY&t=65s)
+

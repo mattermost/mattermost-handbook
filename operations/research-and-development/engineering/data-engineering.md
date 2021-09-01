@@ -116,3 +116,4 @@
         * Frequency: 6 hours
         * Dimensions: **Page Path**, **Page Title**
         * Measures: **Page Visits**, **Unique Page Visits**, **Avg Time on Page**
+

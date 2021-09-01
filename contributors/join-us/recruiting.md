@@ -57,7 +57,7 @@ Own the outcomes of your work: When working on problems, requests, and feedback 
 
 #### 4. Make Meaningful Connections
 
-We have ice-breakers in some meetings to learn more about each other. It’s part of our culture where we get to know each other. Find time after meetings and video conferences to get to know your teammates. Ask them about their weekends and how their life is outside of work.
+We have [ice-breakers](https://handbook.mattermost.com/contributors/join-us/ice-breakers) in some meetings to learn more about each other. It’s part of our culture where we get to know each other. Find time after meetings and video conferences to get to know your teammates. Ask them about their weekends and how their life is outside of work.
 
 When you meet in person at off-sites and events, build on those relationships.
 
@@ -91,21 +91,22 @@ We can hire from many countries and regions across the globe. While in-office in
 
 As a fully remote and global team, Mattermost interviewers are located in different time zones. Since we also interview candidates across different time zones, we schedule interviews one-on-one as opposed to a panel of interviews on one specific date. Below are the typical stages and number of interviewers a candidate can expect in a full interview process at Mattermost.
 
-All interviews take place over video (using Zoom). Interviewers will wait 5 minutes for a candidate to join before leaving the interview. We encourage candidates to email their recruiting contact and the Mattermost interviewer if they are not able to make a scheduled interview.
+All interviews take place over video \(using Zoom\). Interviewers will wait 5 minutes for a candidate to join before leaving the interview. We encourage candidates to email their recruiting contact and the Mattermost interviewer if they are not able to make a scheduled interview.
 
 1. **Recruiter Screen:** This is a candidate's main point of contact during the interview process at Mattermost. For some roles, Hiring Managers may incorporate a recruiter screen within their first interview with a candidate.
 2. **Hiring Manager, Technical, and Team Interviews:** This portion typically consists of 3-4 interviewers. In addition to the Hiring Manager, candidates can expect to interview with team and cross-team members who will work closely with, or similarly to, the individual in this role.
 3. **Interview Project:** All take-home projects will list the expected amount of time expected to complete. We really appreciate all of the time spent completing a take-home project. As a 'thank you,' candidates will be invited to select a gift option upon completion of the project.
-4. **Final Interviews:** This typically includes the Hiring Team's [MLT](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#mlt) and one of our co-founders. **Note:** For Director and above interviews, both Mattermost co-founders will interview candidates.
+4. **Final Interviews:** This typically includes the Hiring Team's [MLT](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#mlt) and one of our co-founders per the ["As Appropriate" interview process](https://handbook.mattermost.com/contributors/join-us/recruiting#as-appropriate-interviews-aa-s). Corey Hulen is final approver on any engineering hire in Chris Overton's organization. Ian Tien if final approver on all other FTE hires. **Note:** For Director and above interviews, and interviews outside of engineering for technical or product roles, both Mattermost co-founders will interview candidates.
 5. **Final Decision:** A member of the Hiring Team will reach out to you to let you know our decision.
 
 We hope that you have a great experience interviewing at Mattermost and welcome any feedback you may have. We may invite candidates to share feedback about our interview process so we may continually improve the process and experience.
 
 ## Reference Checks and Offer Stage
 
-Candidates will receive a verbal offer to join Mattermost. Upon verbal acceptance, the hiring team will send the contract paperwork to the new candidate. Offer letters will be signed internally first: 
-- [CAO to initial](https://handbook.mattermost.com/operations/operations/company-processes/company-agreements#who-are-contract-accountability-owners-caos) as the first signer.
-- The prospective staff member will be the third and final signer.
+Candidates will receive a verbal offer to join Mattermost. Upon verbal acceptance, the hiring team will send the contract paperwork to the new candidate. Offer letters will be signed internally first:
+
+* [CAO to initial](https://handbook.mattermost.com/operations/operations/company-processes/company-agreements#who-are-contract-accountability-owners-caos) as the first signer.
+* The prospective staff member will be the third and final signer.
 
 Reference checks are typically done through [SkillSurvey](https://www.skillsurvey.com/reference-checking-solution/) or a Hiring Manager may decide to conduct references on their own. Candidates will be informed of reference type ahead of providing references. All contracts are contingent on the successful and satisfactory completion of reference checks.
 
@@ -139,7 +140,7 @@ We want to enable staff to do the best work of their careers at Mattermost. In a
 
 **Additional employee benefits**
 
-Mattermost uses professional employment organizations and are able to offer additional benefits to employees based in: [US](https://docs.mattermost.com/process/benefits-us.html), [Canada](https://docs.mattermost.com/process/benefits-canada.html), UK, Germany, and India (to be updated).
+Mattermost uses professional employment organizations and are able to offer additional benefits to employees based in: [US](https://docs.mattermost.com/process/benefits-us.html), [Canada](https://docs.mattermost.com/process/benefits-canada.html), UK, Germany, and India \(to be updated\).
 
 #### Frequently Asked Questions
 
@@ -154,7 +155,7 @@ Mattermost staff and Community members are eligible to receive a $500 USD referr
 #### How to refer a candidate
 
 * Log in to [Lever](https://hire.lever.co/candidates), our Applicant Tracking System, using your Mattermost email address. Select the **Interviews** tab and then **+ Refer Candidate**.
-* You can also send the referral's resume to our Technical Recruiting Manager, Teresa Novoa (teresa@mattermost.com) or careers@mattermost.com.
+* You can also send the referral's resume to our Technical Recruiting Manager, Teresa Novoa \(teresa@mattermost.com\) or careers@mattermost.com.
 
 #### Referral Criteria
 
@@ -170,7 +171,7 @@ Mattermost staff and Community members are eligible to receive a $500 USD referr
 * Recruiting and Community team members as well as staff members involved in the Community may not refer a Community member who is already part of the Community.
 * Referral bonuses are not given if there are external recruiting agency fees associated with hiring the new staff member.
 * Agencies and external recruiters without a contracted relationship with Mattermost are not eligible to receive the bonus.
-* Reach out to the Director of HR (DM: @natalie.jew) with any referral bonus eligibility questions.
+* Reach out to the Director of HR \(DM: @natalie.jew\) with any referral bonus eligibility questions.
 
 #### Receiving the Referral Bonus
 
@@ -181,3 +182,4 @@ Mattermost staff and Community members are eligible to receive a $500 USD referr
 ### Relocating
 
 Staff agreements are conditioned upon the country/region of residence noted in a staff member's contract. Location change requests should be discussed with HR and your MLT member. Staff must receive written approval from the company prior to a country/region relocation.
+

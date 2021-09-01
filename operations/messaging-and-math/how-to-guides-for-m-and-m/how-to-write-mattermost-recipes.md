@@ -14,3 +14,4 @@ Mattermost recipes are technical posts that show how to use Mattermost alongside
 > * **See Also:** The final section is optional, and is for links to other documentation about the tools mentioned in the recipe.
 
 For an example Mattermost recipe, [please read this blog post](https://about.mattermost.com/learn/connect-irc-to-mattermost/).
+

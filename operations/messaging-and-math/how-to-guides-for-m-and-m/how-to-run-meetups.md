@@ -14,3 +14,4 @@ Below is a checklist for how to run meetups, such as [Mattermost's GitLab Commit
 * Contact Team Admin for shipping assistance with swag \(must have shipping location\).
 * Decide on collateral and contact Team Admin for shipping assistance.
 * Will you be getting party decor such as napkins, sign, balloons, etc. Can contact Team Admin for assistance.
+

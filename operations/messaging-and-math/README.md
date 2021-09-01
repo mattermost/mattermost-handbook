@@ -14,16 +14,16 @@ Rather than always call a department "Marketing" - which is a broad term that in
 
 ## The team
 
-- [Matt Harper](https://community.mattermost.com/core/messages/@matt.harper) - VP of Marketing
-- [Jack O'Brien](https://community.mattermost.com/core/messages/@jack.obrien) - Director of Product Marketing
-- Jeff Benanto - Director of Communications
-- [Kevin Fayle](https://community.mattermost.com/core/messages/@kevin.fayle) - Director of Marketing Operations & Analytics
-- [JuliAnn Tulberg](https://community.mattermost.com/core/messages/@juliann.tulberg) - Creative Director
-- [Ben Lloyd Pearson](https://community.mattermost.com/core/messages/@ben.pearson) - Director of Developer Marketing
-- [Ashley Dotterweich](https://community.mattermost.com/core/messages/@ashley.dotterweich) - Head of Content
-- [Emily Dela Cruz](https://community.mattermost.com/core/messages/@emily.delacruz) - Lead Web Developer
-- [Cecilia Tao](https://community.mattermost.com/core/messages/@cecilia.tao) - Sr. Growth Marketing Manager
-- [Harrison Eaton](https://community.mattermost.com/core/messages/@harrison.eaton) - Growth Marketing Manager
+* [Matt Harper](https://community.mattermost.com/core/messages/@matt.harper) - VP of Marketing
+* [Jack O'Brien](https://community.mattermost.com/core/messages/@jack.obrien) - Director of Product Marketing
+* Jeff Benanto - Director of Communications
+* [Kevin Fayle](https://community.mattermost.com/core/messages/@kevin.fayle) - Director of Marketing Operations & Analytics
+* [JuliAnn Tulberg](https://community.mattermost.com/core/messages/@juliann.tulberg) - Creative Director
+* [Ben Lloyd Pearson](https://community.mattermost.com/core/messages/@ben.pearson) - Director of Developer Marketing
+* [Ashley Dotterweich](https://community.mattermost.com/core/messages/@ashley.dotterweich) - Head of Content
+* [Emily Dela Cruz](https://community.mattermost.com/core/messages/@emily.delacruz) - Lead Web Developer
+* [Cecilia Tao](https://community.mattermost.com/core/messages/@cecilia.tao) - Sr. Growth Marketing Manager
+* [Harrison Eaton](https://community.mattermost.com/core/messages/@harrison.eaton) - Growth Marketing Manager
 
 DRI for this page: Matt Harper
 
@@ -89,3 +89,4 @@ Weekly check-in to clear tactical issues:
 ### Tools
 
 * M&M runs largely in Mattermost, Asana, and Zoom in North American timezone.
+
