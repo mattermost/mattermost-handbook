@@ -1,17 +1,17 @@
  # Community Equity, Diversity, and Inclusion (EDI)
  
-We are commited to purposefully designing EDI into every facet of our programs and operations.
+We are committed to purposefully designing EDI into every facet of our programs and operations.
 
 This section is meant to document tips and best practices that we strive to follow as we plan events and activities.
 
 ### Event organization best practices
-1. Tools: We purposefully think about the tools we are using to engage our audience. For example, some people in the open source world may not be able to use tools that are proprietary software. Also, some people in certain countries may not be able to use certain tools because of country restrictions. Sending a survey beforehand with different tool options could help identify good tools to use for a specific event.
-2. Time zones: We try to be as inclusive of as many different time zones as possible.
+1. Tools: We purposefully think about the tools we are using to engage our audience. For example, some people in the open source world may not be able to use tools that are proprietary software. Also, some people in certain countries may not be able to use certain tools because of country/region restrictions. Sending a survey beforehand with different tool options could help identify good tools to use for a specific event.
+2. Timezones: We try to be as inclusive of as many different timezones as possible.
 3. Code of Conduct: We make our Code of Conduct a requirement at all events and actively help our community with friction and conflict.
 4. Accessibility: We advocate for accessibility in all of our events and materials.
 5. Captioning and Translation: We strive to have all video captioned in at least American English, and translated in as many languages as possible. For help looking for translators, [***INSERT STUFF HERE***]
 6. Share slides beforehand: Share slides with attendees so that people who use screen readers can follow along.
-7. Images should have alt text: This is for screen readers for people who are blind or are visually imparied. Be descriptive with the image. Maybe a few sentences about what the most important content is.
+7. Images should have alt text: This is for screen readers for people who are blind or are visually impaired. Be descriptive with the image. Maybe a few sentences about what the most important content is.
 8. Use proper headings in your editor: Use your editor's headings so that screen readers understand the organization of the page.
 9. Describe infographics with audio: Describe the most important parts of infographics to help with accessibility.
 
