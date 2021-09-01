@@ -1,29 +1,24 @@
 # User Interface Text Guidelines
 
-## UX writing principles
+Mattermost user interface content (microcopy) is where we can set our users up for success and build engagement with the product instead of reliance on documentation.
 
-Following these guidelines ensures that in-product communication to our users has the the same, consistent, voice.
+When we write copy for our product messaging our primary goals are to:
 
-**Concise**
+* Write with empathy
+* Provide context
+* Help users build mental models
+* Reduce cognitive load
+* Proactively prevent failure
 
-Use short words and sentences.
+To achieve these goals, we ensure that we have the right content for the right user at the right time.
 
-**Clear**
+In addition to this, we prioritize:
 
-Always write for clarity and simplicity. Err on the side of simple language that can be understood by novice users, and avoid vague terms and jargon.
+* Plain language
+* Readability
+* Consistency
 
-**Consistent**
-
-Be consistent with terminology across the product. Although we may have different terms for the same things internally, always use the same language to describe the same thing within the product.
-
-## User interface text guidelines
-
-These guidelines cover two types of UI text:
-
-* Messages triggered because something happened
-* Static text on the user interface
-
-### General principles for UI \(in-product\) text
+These writing principles mean that we think like a friend, and talk like a coach to reduce friction and increase satisfaction. 
 
 * Keep in mind that your users are from all over the world. 
 * Use the present tense to describe a current state or condition, and the future tense to state something that is very definitely going to happen.
@@ -31,7 +26,23 @@ These guidelines cover two types of UI text:
   * If you’ll end up blaming the user. For example, don’t say **You entered an incorrect password**. Instead, say **The password is incorrect**.
   * If you’re describing what just happened. For example: **Your incoming webhook is set up**.
   * If the subject \(the doer of an action\) is the Mattermost application itself. For example: **The image has been deleted** instead of **The server deleted the image**.
-* If you’re asking the user to do or not do something, use imperatives \(command phrases\). For example, use **Don't change the Hostname** instead of **It's not recommended to change the Hostname**. Better still, explain what could go wrong if they do or don’t do something. For example: **Don't change the Hostname because doing so** .
+* If you’re asking the user to do or not do something, use imperatives \(command phrases\). For example, use **Don't change the Hostname** instead of **It's not recommended to change the Hostname**. Better still, explain what could go wrong if they do or don’t do something. For example: **Don't change the Hostname because doing so**.
+
+## Types of in-product content
+
+In general, users will encounter the following types of messaging when using Mattermost:
+
+* Help/info text
+* Calls to Action
+* Confirmation dialogs
+* Errors
+* Notifications
+
+In general, this content is either:
+
+* Triggered because something happened
+* Static text on the user interface
+* An actionable button which leads to a process
 
 ### Guidelines for system messages
 
