@@ -19,5 +19,5 @@ Other ways we foster diversity, inclusion, and belonging
 1. Images: We seek to promote the use of images that represent a diverse group of users, customers, and community members. When we see a lack of diverse representation, we speak up and actively help update those images when possible.
 2. Speakers: As event organizers and participants, we seek to include a diverse set of speakers in events that we organize or sponsor.
 3. We are open-minded: We actively seek feedback and keep an open mind about our current policies. We are open to change and are willing to make structural changes to ensure that we continue to foster EDI among our team and the wider community.
-4. We retain a growth-mindset and keep learning: We read articple, attend workshops, and participate in trainings that help educate us about how to foster EDI in our community and how to be inclusive ourselves.
+4. We retain a growth-mindset and keep learning: We read articles, attend workshops, and participate in training that helps educate us about how to foster EDI in our community and how to be inclusive ourselves.
 5. We encourage a diverse set of community members to participate in research: We recognize the product inclusivity is important and that we need to build with our community, not just for them.
