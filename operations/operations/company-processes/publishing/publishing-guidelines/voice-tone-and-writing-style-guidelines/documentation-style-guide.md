@@ -4,19 +4,38 @@ Mattermost documentation is presented in various forms. We have product document
 
 The contents of this document can be applied to our product documentation, Handbook, developer documentation, and API guides. In-product copy and microcopy are covered in a separate guide.
 
+Apply the style guide in the following situations:
+
+- When you create a new document.
+- When you convert a document from Markdown to reStructuredText.
+- When you revise a document.
+
+When you revise a document, apply the style guide rules to the part that you changed. If you have time to update the rest of the document, then do so. If the scope is significantly greater than you originally anticipated, then do what you can and what makes sense, and then create an [issue in GitHub](https://github.com/mattermost/docs/issues). Give the issue an appropriate title, such as *File XXX converted to .rst, but needs updating for style guide*.
+
 ## General principles
 
-* Always think about the audience that will be reading your writing. Our audience comprises multiple personas, but we typically communicate with a technical audience and want to present Mattermost as being a friend of the practitioner in development, IT, and operations. It must be accurate and clear, and easy to navigate. 
-* The document structure should be consistent, as should the left-hand navigation sections. For example, each of our tools' documentation includes a Getting Started section, an Overview section, and the section names are the same. This is as much for us as it is for our audience - consistency makes it easy for contributors to help us with content, and helps provide context and familiarity to readers.
-* 
+* **Always think about the audience that will be reading your writing.** Our audience comprises multiple personas, but we typically communicate with a technical audience and want to present Mattermost as being a friend of the practitioner in development, IT, and operations. It must be accurate and clear, and easy to navigate. 
+* **The document structure should be consistent, as should the left-hand navigation sections.** For example, each of our tools' documentation includes a Getting Started section, an Overview section, and the section names are the same. This is as much for us as it is for our audience - consistency makes it easy for contributors to help us with content, and helps provide context and familiarity to readers.
+* **Write in the context of achievement.** The documentation should help Mattermost users and administrators achieve their goals. Write imperative sentences as much as possible. Imperative sentences begin with verbs and give instructions, information, and advice to help people install, administer, and use Mattermost with success. Use positive constructs as much as possible, but note that a negative construct can act as a warning that causes a reader to pay closer attention to the content, resulting in higher levels of accomplishment.
+* **Write to facilitate scanning.** Readers need to find information quickly. People don't read documentation as much as they scan it for solutions to their immediate problem. Writing and presentation styles that seem redundant in essays or other texts are often helpful to people scanning for information.
 
 ## Writing style
 
 While we don't strictly follow a specific Style Guide, we've based our Style Guide on the Chicago Manual of Style for the most part. We also borrow conventions from the AP Style Guide. In cases where we have a blend of the two, we've provided references and explanations.
 
+Mattermost documentation is read and used in many countries/regions and cultures. For this reason, you must consider cultural differences on a global scale. Names, places, events, and actions should be chosen as carefully as possible to avoid misunderstanding.
+
+Also remember that English isn't the primary language of many readers of the documentation. Keep the following advice in mind when writing:
+
+* Choose words with one or very few meanings.
+* Use simple verb forms in writing. Most verbs in the simple form are likely to have an equivalent in another language.
+* Avoid jargon and slang words.
+* Limit difficult words to technical terms where their use is unavoidable.
+* Always make sure that your spelling is correct.
+
 ### Language
 
-We write in English and use American English. This means we use "z" instead of "s" in words like "organization". It helps to set your browser and editing tool to use a US dictionary so that if you inadvertently use British English, you'll be alerted.
+We write in English and use American English. This means we use "z" instead of "s" in words like "organization". It helps to set your browser and editing tool to use a US dictionary so that if you inadvertently use British English, you'll be alerted. Currently, our documentation is not localized, but many other aspects of Mattermost's tools, such as in-product copy, are.
 
 One very important rule is to avoid constructs where you are forced to write either _he_ or _she_, or _his_ or _her_. You can use _they_ or _their_ as singular forms instead. As we write in first-person, we generally refer to _you_, _users_, _them_.
 
@@ -25,6 +44,12 @@ One very important rule is to avoid constructs where you are forced to write eit
 We borrow from both AP and Chicago in this instance:
 
 Spell out numbers when the number is the first word in a sentence or is less than or equal to ten \(i.e. one to nine\), otherwise use figures \(i.e., 10 upwards\). Use commas to make long number strings easier to read.
+
+Avoid
+  3 cows ran for 6 kilometers when they saw 2300097 mosquitoes chasing them.
+
+Preferred
+  Three cows ran for six kilometers when they saw 2,300,097 mosquitoes chasing them.
 
 [Helpful overview](https://www.grammarbook.com/numbers/numbers.asp):
 
@@ -36,7 +61,11 @@ The Chicago Manual of Style recommends spelling out the numbers zero through one
 
 We use the Oxford \(serial\) comma in our documentation.
 
-Instead of writing *"Mattermost's writing style is clear, concise and simple."* we write *"Mattermost's writing style is clear, concise, and simple."*
+Avoid
+  The cows ran from wolves, coyotes and mosquitoes.
+
+Preferred
+  The cows ran from wolves, coyotes, and mosquitoes.
 
 ### Capitalization
 
@@ -64,19 +93,31 @@ Instead of *"Writing Guidelines for Editors"* we write *"Writing guidelines for 
 
 Use the second person and avoid the first person.
 
-Instead of writing *"We’ll view the status in the **Status** pane."* we write *"View the status in the **Status** pane."*
+Avoid
+  We'll view the status in the *Status* pane.
+
+Preferred
+  View the status in the *Status* pane.
 
 ### Voice
 
 Use active voice in preference to passive voice. Active voice has the subject of a sentence doing the action. In passive voice, the subject has an action done to it.
 
-Instead of writing *"The **Status** pane will be opened by the system."* we write *"The system opens the **Status** pane."*
+Avoid
+  The *Status* pane will be opened by the system.
+
+Preferred
+  The system opens the *Status* pane.
 
 ### Tense
 
 Use the present tense.
 
-Instead of writing *"Sharing this link will let other users view the linked message.* we write *"Sharing this link lets other users view the linked message."*
+Avoid
+  Sharing this link will let other users view the linked message.
+
+Preferred
+  Sharing this link lets other users view the linked message.
 
 ## Terminology Guide
 
@@ -193,6 +234,40 @@ Throughout Mattermost documentation, you’ll see the below terms mentioned and 
   </tbody>
 </table>
 
+To promote consistency and clarity, follow the word usage and spelling guidelines below.
+
+can, might, may
+  The word *may* can have several meanings. To avoid ambiguity, use *can* or *might* instead of *may*. Use *can* to mean *capable of* and *might* to mean that something is possible. Use *may* only to give permission to do something.
+
+downtime
+  Use as one word *downtime*, not *down time*.
+
+emoji, emojis
+  Use *emojis* as the plural form of *emoji*.
+
+login, log in, log into
+  Use *login* as a noun or adjective, and *log in* and *log into* as verbs. For example: *Log into the Mattermost server using your System Admin login credentials.*
+
+setup, set up
+  Use *setup* as a noun or adjective, and *set up* as a verb. For example: *Set up your operating system as described in the Ubuntu documentation.*
+
+sign-in, sign in, and sign into
+  Use *sign-in* as a noun or adjective, and *sign in* and *sign into* as verbs. For example: *Sign into your Mattermost account using the sign-in credentials that were sent to you.*
+
+Single sign-on
+  Single sign-on is abbreviated as SSO. When using the long form in a heading with title case, it's *Single Sign-on*.
+
+## Gender-neutral Text
+
+Avoid constructs where you're forced to write either *he or she* or *his or her*. You can use *they* or *their* as singular forms instead.
+
+Preferred
+  The community manager monitors the forum for well-written questions and answers, and posts them to the Contributors channel.
+Avoid
+  The community manager posts questions and answers that they think are well-written.
+Do not use
+  The community manager posts questions and answers that he or she thinks are well-written.
+
 ## Using ReStructuredText markup \(rst\)
 
 The reStructuredText specification allows for a certain degree of flexibility in markup to achieve your goals. For example, you can use any one of more than a dozen characters for section title underlines, and you have the option of using an overline in addition to an underline.
@@ -287,9 +362,24 @@ Create numbered lists and procedure steps using numbers for the top-level list a
 
 ### Name-value groups
 
+Use a name-value group instead of a hand-created list.
+
+A name-value group is typically a group of terms and their corresponding definitions, but can also be questions and answers, topics and values, or other name-value groups. In HTML output, a name-value group is represented as a definition list.
+
+Preferred
+  Total Users
+    The total number of active accounts created on your system. Excludes inactive accounts.
+  Total Teams
+    The total number of teams created on your system.
+
+Avoid
+  **Total Users:** The total number of active accounts created on your system. Excludes inactive accounts.
+
+  **Total Teams:**  The total number of teams created on your system.
+
 To create a name-value group such as a definition list, type the term on a line by itself. On the next line, indent the definition.
 
-```text
+```
   Total users
     The total number of active accounts created on your system. Excludes inactive accounts.
   Total teams
@@ -310,6 +400,10 @@ For example:
 The link renders as: [Mattermost Manifesto](https://www.mattermost.org/manifesto/).
 
 ### Internal links to Mattermost documentation
+
+When creating a link to another document in the Mattermost documentation, create a link with a relative URL.
+
+A link with an absolute URL is not as flexible as a relative URL. Relative URLs don't break when the documentation is moved to another host, or if the documentation is hosted on a server that's behind a firewall without access to the Internet.
 
 The Sphinx processor extends reStructuredText to implement references, called roles, to locations within a documentation set. The two roles that are relevant in Mattermost documentation are the `:doc:` role and the `:ref:` role.
 
