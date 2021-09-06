@@ -101,7 +101,7 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 * Agniva De Sarker - Engineer
 * Ibrahim Acikgoz - Engineer
 
-### Incident Collaboration
+### Playbooks
 
 * Jesse Hallam - Engineering Lead
 * Christopher Speller - Engineer
@@ -113,7 +113,7 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 * Abhijit Singh - UX Designer
 * Justine Geffen - Technical Writer
 
-### Focalboard
+### Boards
 
 * Scott Bishel - Engineering Lead
 * Jesús Espino - Engineer
@@ -205,4 +205,3 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 * Jason Blais - Community Lead
 * PJ Hagerty - Developer Advocate
 * Emily Cook - Community Manager
-
