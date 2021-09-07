@@ -198,6 +198,8 @@ The core team's Product Managers design, plan, prioritize, and coordinate featur
   * @jason on [community.mattermost.com](https://community.mattermost.com/core/messages/@jason) and [@jasonblais](https://github.com/jasonblais) on GitHub
 * [**Katie Wiersgalla**](core-committers.md)
   * @katie.wiersgalla on [community.mattermost.com](https://community.mattermost.com/core/messages/@katie.wiersgalla) and [@wiersgallak](https://github.com/wiersgallak) on GitHub
+* [**Stephen Van Hemmen**](core-committers.md)
+  * @stephen.vanhemmen on [community.mattermost.com](https://community.mattermost.com/core/messages/@stephen.vanhemmen) and [@stephenvanhemmen](https://github.com/stephenvanhemmen) on GitHub
 
 ## Product Designers
 
