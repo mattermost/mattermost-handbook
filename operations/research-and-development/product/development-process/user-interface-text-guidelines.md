@@ -10,13 +10,11 @@ When we write copy for our product messaging our primary goals are to:
 * Reduce cognitive load
 * Proactively prevent failure
 
-To achieve these goals, we ensure that we have the right content for the right user at the right time.
+To achieve these goals, we ensure that we have the right content for the right user at the right time. In addition to this, we prioritize:
 
-In addition to this, we prioritize:
-
-* Plain language
-* Readability
-* Consistency
+* Plain language: We use natural language for documentation and in-product text.
+* Readability: We strive to make our documentation pages easy to scan and not overwhelming.
+* Consistency: We ensure that we all refer to the same things using the same words or names, to avoid confusion.
 
 These writing principles mean that we think like a friend, and talk like a coach to reduce friction and increase satisfaction. 
 
@@ -99,10 +97,41 @@ An error message informs the user that something went wrong. Errors prevent the 
 
 ## In-product copy
 
-The Technical Writers often work with the UI/UX team on in-product copy. The majority of guidelines are available in the [Mattermost Compass Design System](https://zeroheight.com/29be2c109/p/995619-compass-design-system). Here are some additional things to take note of:
- 
-### CTAs
+The Technical Writers often work with the UI/UX team on in-product copy. The majority of guidelines are available in the [Mattermost Compass Design System](https://zeroheight.com/29be2c109/p/995619-compass-design-system).
 
+### Guidelines for punctuation
+
+**Titles**
+
+Titles shouldn't have periods unless the headline is more than one sentence.
+
+**Paragraphs**
+
+Paragraphs should always be properly punctuated.
+
+**Bullets**
+
+Bullets lists shouldn't have periods unless the bullet text is more than one sentence.
+
+**Button labels**
+
+Button labels shouldn't have periods or other punctuation.
+
+### Guidelines for capitalization
+
+**Titles**
+
+Titles should use sentence case \(e.g. **This article is about user interface content**\) with the exception of proper nouns \(e.g. **This article is about Mattermost**\).
+
+**Button labels, input labels, and navigation labels**
+
+These labels should use sentence case. \(e.g. **This article is about user interface content**\) with the exception of proper nouns \(e.g. **This article is about Mattermost**\).
+
+
+### How we write things
+
+### Words we use in CTAs
+ 
 #### Self-managed renew license Customer Portal details page
 
 "Complete purchase"
@@ -149,7 +178,6 @@ IC DM: "Start 30-day trial" "Learn more"
  
 #### Cloud upgrade
 
-
 ## Button labels and links
 
 Button labels should always use action words and describe the action as concisely as possible. They should be limited to four words or less. Examples: “Log In”, “Send Invitation”.
@@ -161,34 +189,6 @@ Navigation labels should be as short as possible and support the user in finding
 ### Input labels
 
 Input labels should be as short and concise as possible and describe the input field.
-
-### Capitalization
-
-**Titles**
-
-Titles should use sentence case \(e.g. **This article is about user interface content**\) with the exception of proper nouns \(e.g. **This article is about Mattermost**\).
-
-**Button labels, input labels, and navigation labels**
-
-These labels should use sentence case. \(e.g. **This article is about user interface content**\) with the exception of proper nouns \(e.g. **This article is about Mattermost**\).
-
-### Punctuation
-
-**Titles**
-
-Titles shouldn't have periods unless the headline is more than one sentence.
-
-**Paragraphs**
-
-Paragraphs should always be properly punctuated.
-
-**Bullets**
-
-Bullets lists shouldn't have periods unless the bullet text is more than one sentence.
-
-**Button labels**
-
-Button labels shouldn't have periods or other punctuation.
 
 ## Guidelines for UI elements
 
@@ -391,4 +391,3 @@ Use this table when writing the text for UI elements such as windows, dialog box
 .. \[_\] For headline style, capitalize all words except those with three letters or fewer, articles \(_a_,_ an_,_ the_\), prepositions \(_on_,_ to_,_ in_,_ from_,_ of_\), and coordinating conjunctions \(_and_,_ but_,_ or_,_ for\*\). Despite these exceptions, always capitalize the first and last word. For sentence case, capitalize only the first word.
 
 ![](../../../../.gitbook/assets/uitable2.png)
-
