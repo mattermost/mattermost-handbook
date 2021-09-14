@@ -69,6 +69,7 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 * Benjamin Cooke - Engineer
 * Furqan Malik - SDET
 * Marina Karpenko - UX Designer
+* Hamza Kazmi - Engineering Intern
 
 #### Team Interstellar \(Full Stack team 2\)
 
@@ -113,6 +114,7 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 * Ian Tao - Product Manager
 * Abhijit Singh - UX Designer
 * Justine Geffen - Technical Writer
+* Stephen Vanhemmen - Product Management Intern
 
 ### Boards
 
@@ -163,6 +165,7 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 
 * Joram Wilander - Engineering Lead
 * Carlos Panato - Engineer
+* Adolfo García Veytia - Engineer
 * Elisabeth Kulzer - Engineer
 * Amy Blais - Release Manager
 
