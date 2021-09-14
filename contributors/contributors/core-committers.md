@@ -6,9 +6,9 @@ A core committer is a maintainer on the Mattermost project that has merge access
 
 Below is the list of core committers working on Mattermost:
 
-* [**Angelos Kyratzakos**](core-committers.md)
-  * @angelos.kyratzakos on [community.mattermost.com](https://community.mattermost.com/core/messages/@angelos.kyratzakos) and [@angeloskyratzakos](https://github.com/angeloskyratzakos) on GitHub
-  * Dev areas: Kubernetes, Infrastructure
+* [**Adolfo García Veytia**](core-committers.md)
+  * @puerco on [community.mattermost.com](https://community.mattermost.com/core/messages/@puerco) and [@puerco](https://github.com/puerco) on GitHub
+  * Dev areas: DevOps
 * [**Agniva De Sarker**](core-committers.md)
   * @agniva.de.sarker on [community.mattermost.com](https://community.mattermost.com/core/messages/@agniva.de.sarker) and [@agnivade](https://github.com/agnivade) on GitHub
   * Dev areas: Performance, Load Tests, Go internals
@@ -17,10 +17,13 @@ Below is the list of core committers working on Mattermost:
   * Dev areas: Toolkit, Plugins, Server
 * [**Allan Guwatudde**](core-committers.md)
   * @allan.guwatudde on [community.mattermost.com](https://community.mattermost.com/core/messages/@allan.guwatudde) and [@agmeteor](https://github.com/agmeteor) on GitHub
-  * Dev areas: Customer Portal, Growth Engineering 
+  * Dev areas: Customer Portal, Growth Engineering
 * [**Andre Vasconcelos**](core-committers.md)
   * @avasconcelos114 on [community.mattermost.com](https://community.mattermost.com/core/messages/@avasconcelos114) and [@avasconcelos114](https://github.com/avasconcelos114) on GitHub
   * Dev areas: Web App, Mobile Apps
+* [**Angelos Kyratzakos**](core-committers.md)
+  * @angelos.kyratzakos on [community.mattermost.com](https://community.mattermost.com/core/messages/@angelos.kyratzakos) and [@angeloskyratzakos](https://github.com/angeloskyratzakos) on GitHub
+  * Dev areas: Kubernetes, Infrastructure
 * [**Amit Uttam**](core-committers.md)
   * @amit.uttam on [community.mattermost.com](https://community.mattermost.com/core/messages/@amit.uttam) and [@chuttam](https://github.com/chuttam) on GitHub
   * Dev areas: Mobile
@@ -94,7 +97,7 @@ Below is the list of core committers working on Mattermost:
   * Dev areas: Permissions, Compliance, LDAP
 * [**Ian Whitlock**](core-committers.md)
   * @ian.whitlock on [community.mattermost.com](https://community.mattermost.com/core/messages/@ian.whitlock) and [@gigawhitlocks](https://github.com/gigawhitlocks) on GitHub
-    * Dev areas: Cloud
+   * Dev areas: Cloud
 * [**Ibrahim Acikgoz**](core-committers.md)
   * @ibrahim.acikgoz on [community.mattermost.com](https://community.mattermost.com/core/messages/@ibrahim.acikgoz) and [@isacikgoz](https://github.com/isacikgoz) on GitHub
   * Dev areas: Backend, CLI, Performance
@@ -211,7 +214,7 @@ The core team's Product Designers design features, user experience, and how the 
   * @abhijit.singh on [community.mattermost.com](https://community.mattermost.com/core/messages/@abhijit.singh) and [@abhijit-singh](https://github.com/abhijit-singh) on GitHub
 * [**Anneliese Klein**](core-committers.md)
   * @anneliese.klein on [community.mattermost.com](https://community.mattermost.com/core/messages/@anneliese.klein) and [@annelieseklein](https://github.com/annelieseklein) on GitHub
-  * * [**Asaad Mahmood**](core-committers.md)
+* [**Asaad Mahmood**](core-committers.md)
   * @asaad.mahmood on [community.mattermost.com](https://community.mattermost.com/core/messages/@asaad.mahmood) and [@asaadmahmood](https://github.com/asaadmahmood) on GitHub
 * [**Marina Karpenko**](core-committers.md)
   * @marina.karpenko on [community.mattermost.com](https://community.mattermost.com/core/messages/@marina.karpenko) and [@Rina-dsg](https://github.com/Rina-dsg) on GitHub
@@ -300,4 +303,3 @@ The core team's technical writers document product features and functionality fr
 7. The new core committer is gifted with lot of :heart: and lot of swag :tada: \(details TBD\)
    * Core committer mug.
    * ...
-
