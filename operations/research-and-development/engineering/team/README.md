@@ -16,7 +16,7 @@ The **SET Lead** is usually one of the engineering team's Engineering Leads. The
 
 1. Ensures that raised issues are being addressed
 2. Communicates the status of ongoing issues appropriately to stake holders
-3. Is a point of escalation in case stake holders do not else who else to escalate to
+3. Is a point of escalation in case stake holders do not know who else to escalate to
 
 The SET Lead is also on call \(via OpsGenie\), and is escalated to whenever neither the SET primary nor SET backup acknowledge an issue in the appropriate time.
 
@@ -25,7 +25,7 @@ The **SET Primary** is usually an engineer from one of the engineering teams. Th
 1. Handle the issue itself, e.g. by implementing a fix, answering a question.
 2. Hand off the issue to the appropriate team or person.
 
-The **SET Backup** is usually an engineer from one of the engineering teams. In case thet SET Primary is not available or unresponsive, the back-up temporarily takes over. In certain situations it may also be required for the primary to ask for help to the backup.
+The **SET Backup** is usually an engineer from one of the engineering teams. In the case that the SET Primary is not available or unresponsive, the SET backup temporarily takes over. In certain situations it may also be required for the primary to ask for help to the backup.
 
 ## Workflow
 
@@ -52,7 +52,7 @@ Below is how SET prioritizes what is worked on.
    * When a high impact issue affects the community server, SET responds and is responsible to coordinate fixing
    * The primary goal is to restore stability, whether this is achieved by fixing the issue or reverting code
 2. Handles customer support escalation
-   * The rimary goal is to help with issues that require code changes or in-depth knowledge of the code internals
+   * The primary goal is to help with issues that require code changes or in-depth knowledge of the code internals
    * Be helpful with training/knowledge sharing for the support team
    * Identify customer support requests that are features and route to PM as necessary
 3. General bug fixes
