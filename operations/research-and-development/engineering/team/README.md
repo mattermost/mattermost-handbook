@@ -14,9 +14,9 @@ Engineering teams will commit a total of 4 engineers plus a lead to SET for each
 
 The **SET Lead** is usually one of the engineering team's Engineering Leads. The SET lead, leads the SET team during its rotation. In practice this means the SET lead:
 
-1. Ensures that raised issues are being addressed
-2. Communicates the status of ongoing issues appropriately to stake holders
-3. Is a point of escalation in case stake holders do not else who else to escalate to
+1. Ensures that raised issues are being addressed.
+2. Communicates the status of ongoing issues appropriately to stakeholders.
+3. Is a point of escalation in case stakeholders do not know who else to escalate to.
 
 The SET Lead is also on call \(via OpsGenie\), and is escalated to whenever neither the SET primary nor SET backup acknowledge an issue in the appropriate time.
 
@@ -25,7 +25,7 @@ The **SET Primary** is usually an engineer from one of the engineering teams. Th
 1. Handle the issue itself, e.g. by implementing a fix, answering a question.
 2. Hand off the issue to the appropriate team or person.
 
-The **SET Backup** is usually an engineer from one of the engineering teams. In case thet SET Primary is not available or unresponsive, the back-up temporarily takes over. In certain situations it may also be required for the primary to ask for help to the backup.
+The **SET Backup** is usually an engineer from one of the engineering teams. In the case that the SET Primary is not available or unresponsive, the SET backup temporarily takes over. In certain situations it may also be required for the primary to ask for help to the backup.
 
 ## Workflow
 
@@ -40,23 +40,22 @@ Work for SET comes from various sources:
 
 SET triages [SET tickets](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=33) asynchronously and also helps the Release Manager to
 
-* Help route new unassigned tickets to the appropriate engineering team
-* Assign bugs to SET when there is no clear engineering team owner
-* Make sure reported bugs are in fact bugs and recommend turning non-bugs into stories or feature requests
+* Help route new unassigned tickets to the appropriate engineering team.
+* Assign bugs to SET when there is no clear engineering team owner.
+* Make sure reported bugs are in fact bugs and recommend turning non-bugs into stories or feature requests.
 
 ## Priority of Work
 
 Below is how SET prioritizes what is worked on.
 
 1. Quality issues affecting community.mattermost.com or community-daily.mattermost.com
-   * When a high impact issue affects the community server, SET responds and is responsible to coordinate fixing
-   * The primary goal is to restore stability, whether this is achieved by fixing the issue or reverting code
+   * When a high impact issue affects the community server, SET responds and is responsible to coordinate fixing.
+   * The primary goal is to restore stability, whether this is achieved by fixing the issue or reverting code.
 2. Handles customer support escalation
-   * The rimary goal is to help with issues that require code changes or in-depth knowledge of the code internals
-   * Be helpful with training/knowledge sharing for the support team
-   * Identify customer support requests that are features and route to PM as necessary
+   * The primary goal is to help with issues that require code changes or in-depth knowledge of the code internals.
+   * Be helpful with training/knowledge sharing for the support team.
+   * Identify customer support requests that are features and route to PM as necessary.
 3. General bug fixes
-   * Pick up any bugs in triage without an obvious owning feature team
-   * Work on bugs in this order: hotfix, release, customer reported, other
+   * Pick up any bugs in triage without an obvious owning feature team.
+   * Work on bugs in this order: hotfix, release, customer reported, other.
 4. [~Ask R&D](https://community-daily.mattermost.com/core/channels/ask-r-and-d) channel — this channel should be monitored, but checking it once or twice per day is sufficient.
-
