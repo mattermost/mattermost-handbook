@@ -8,7 +8,7 @@ Below is the list of core committers working on Mattermost:
 
 * [**Adolfo García Veytia**](core-committers.md)
   * @puerco on [community.mattermost.com](https://community.mattermost.com/core/messages/@puerco) and [@puerco](https://github.com/puerco) on GitHub
-  * Dev areas: DevOps
+  * Dev areas: DevOps, SBOM, Containers, Kubernetes, Supply Chain
 * [**Agniva De Sarker**](core-committers.md)
   * @agniva.de.sarker on [community.mattermost.com](https://community.mattermost.com/core/messages/@agniva.de.sarker) and [@agnivade](https://github.com/agnivade) on GitHub
   * Dev areas: Performance, Load Tests, Go internals
