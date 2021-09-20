@@ -70,6 +70,7 @@ We have three verticals: Messaging, Incident Collaboration, and Focalboard. The 
 * Furqan Malik - SDET
 * Marina Karpenko - UX Designer
 * Hamza Kazmi - Engineering Intern
+* Collin Eng - Engineering Intern
 
 #### Team Interstellar \(Full Stack team 2\)
 
