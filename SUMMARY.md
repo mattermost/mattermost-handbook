@@ -209,6 +209,7 @@
 
 * [Contributors](contributors/contributors/README.md)
   * [How to contribute to Mattermost](contributors/contributors/ways-to-contribute/README.md)
+    * [Community Content Program](contributors/contributors/ways-to-contribute/community-content-program.md)
     * [Documentation contributions](contributors/contributors/ways-to-contribute/documentation-contributions.md)
     * [Help Wanted Tickets](contributors/contributors/ways-to-contribute/help-wanted.md)
     * [Localization](contributors/contributors/ways-to-contribute/localization.md)
