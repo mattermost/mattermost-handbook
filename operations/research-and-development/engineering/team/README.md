@@ -20,6 +20,8 @@ The **SET Lead** is usually one of the engineering team's Engineering Leads. The
 
 The SET Lead is also on call \(via OpsGenie\), and is escalated to whenever neither the SET primary nor SET backup acknowledge an issue in the appropriate time.
 
+There is a weekly technical escalations call ("Weekly Escalated Accounts Discussion") on Wednesdays that the SET Lead is supposed to attend as well. If you are not yet invited to this call, please reach out to `@zef.hemel` on community.
+
 The **SET Primary** is usually an engineer from one of the engineering teams. The SET Primary is the first person to respond to any issues escalated. There are two ways to respond to an issue:
 
 1. Handle the issue itself, e.g. by implementing a fix, answering a question.
