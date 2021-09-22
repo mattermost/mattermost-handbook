@@ -33,3 +33,18 @@ We will select 1 MVP from each project listed above to receive an exclusive Matt
 
 ![keyboard1](https://i.imgur.com/BtjEDsR.png)
 ![keyboard2](https://i.imgur.com/eScWLsT.png)
+
+## Resources
+
+### Internal
++ [Mattermost contribute page](https://mattermost.com/contribute/)
++ [Getting Started overview](https://developers.mattermost.com/contribute/getting-started/)
++ [Pull request checklist](https://developers.mattermost.com/contribute/getting-started/contribution-checklist/)
++ [Mattermost Hacktoberfest tips](https://mattermost.com/blog/hacktoberfest-2018-is-here-its-a-chance-to-give-back-to-communities-you-love/)
++ [Contributor community channel](https://community.mattermost.com/core/channels/developers)
++ [Hacktoberfest 2021 community channel](https://community.mattermost.com/core/channels/hacktoberfest-2021)
+
+### External
++ [DigitalOcean beginners guide for Hacktoberfest](https://hacktoberfest.digitalocean.com/resources/beginners)
++ [DigitalOcean participation rules and guides](https://hacktoberfest.digitalocean.com/resources/participation)
++ [All Hacktoberfest events](https://hacktoberfest.digitalocean.com/events)
