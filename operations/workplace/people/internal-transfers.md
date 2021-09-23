@@ -70,4 +70,3 @@ Before engaging in a side project, staff need to obtain written approval from Ma
 * Expected time commitment.
 * Description of services provided.
 * Whether or not this work will be paid.
-
