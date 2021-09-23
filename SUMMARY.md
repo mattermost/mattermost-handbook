@@ -213,6 +213,7 @@
     * [Documentation contributions](contributors/contributors/ways-to-contribute/documentation-contributions.md)
     * [Help Wanted Tickets](contributors/contributors/ways-to-contribute/help-wanted.md)
     * [Localization](contributors/contributors/ways-to-contribute/localization.md)
+    * [Hacktoberfest 2021](contributors/events/hacktoberfest2021.md)
   * [Mattermost Community](contributors/contributors/community.md)
   * [Contributor Kindness](contributors/contributors/contributor-kindness.md)
   * [Core Committers](contributors/contributors/core-committers.md)
