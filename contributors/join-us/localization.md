@@ -16,7 +16,7 @@ To translate a language:
    * If it is, perhaps offer to help translate or review and make suggestions.
    * If not, ask to setup your language on the [Mattermost localization channel](https://community.mattermost.com/core/channels/localization), so you can start helping with the translation.
 
-   **Note:** Languages are grouped either as "shipped", "work in progress". A language [ships in Mattermost](https://docs.mattermost.com/help/settings/account-settings.html#language) if it meets specified translation quality.
+   **Note:** Languages are grouped either as "shipped" or "work in progress". A language [ships in Mattermost](https://docs.mattermost.com/help/settings/account-settings.html#language) if it meets specified translation quality.
 
 3. Review translation rules written by localization leads, when applicable:
    * [German \(Regeln zur Übersetzung von Mattermost\)](https://gist.github.com/der-test/6e04bff8a173e053811cb93e08838ca2).
