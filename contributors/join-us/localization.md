@@ -108,7 +108,7 @@ If you're interested in contributing to the process, please join the [Mattermost
 
 | Language | Official Reviewer\(s\) | Maintainers |
 | :--- | :--- | :--- |
-| Bulgarian | [Nikolai Zahariev \(nikolaiz\)](https://github.com/mattermost/mattermost-handbook/tree/55178956e5d33dde426723e7eb3897c9fcacc52e/contributors/contributors/translate.mattermost.com/user/nikolaiz/README.md) | |
+| Bulgarian | [[Nikolai Zahariev \(nikolaiz\)](https://translate.mattermost.com/user/nikolaiz/) | |
 | Deutsch - German | TBD \(Open Role\) |  |
 | English - Australian | [Matthew Williams \(matthew.williams\)](https://translate.mattermost.com/user/matthew-w/) |  |
 | Español - Spanish | [Elias Nahum \(enahum\)](https://github.com/enahum) | [Jesús Espino \(jespino\)](https://github.com/jespino) |
