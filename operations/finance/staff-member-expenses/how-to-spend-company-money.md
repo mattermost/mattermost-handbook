@@ -101,7 +101,7 @@ As with other computer devices, once your desktop is received, you're required t
 
 ### Other computer technology
 
-If you need a device other than a laptop or mobile phone such as an iPad or equivalent for your role, you should have a business use reason for the device and authorization from your manager before purchasing. If both are satisfied, you can proceed with purchasing the device on your own or you can reach out to [People Ops](https://community.mattermost.com/private-core/channels/ask-people-team) who can purchase this for you.
+If you need a device other than a laptop or mobile phone for your role, you should have a business use reason for the device and authorization from your manager before purchasing. If both are satisfied, you can proceed with purchasing the device on your own or you can reach out to [People Ops](https://community.mattermost.com/private-core/channels/ask-people-team) who can purchase this for you.
 
 After you obtain the asset, it's necessary to register your hardware by completing the [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform) if any one or more of the following criteria are met:
 
@@ -113,7 +113,7 @@ If you purchased the device on your own and you're submitting an expense report 
 
 ### Mobile device policy
 
-The Mattermost mobile device policy enables the use of mobile devices for customer-facing roles or those providing repeating on-call service in a secure fashion.
+The Mattermost mobile device policy enables the use of mobile devices for customer-facing roles, development, or those providing repeating on-call service in a secure fashion.
 
 #### Subscription
 
@@ -139,7 +139,7 @@ The company doesn't currently provide mobile device subscriptions in a centraliz
 
 #### Hardware
 
-The company standard device is an iPhone SE that should be ordered by the employee and expensed. Currently no other platforms are supported.
+If you require a tablet or phone as a part of your role, you should have a business use reason for the device and authorization from your manager. Once you receive approval, send an email to IT@mattermost.com with the device required (iOS Phone/Tablet, Android Phone/Tablet). A member of the IT team will reach out to coordinate the purchase and delivery of the requested device. Please note that devices will be on average 2 generations behind the newest available model. 
 
 Usage of a company phone is **mandatory** for the following staff groups:
 
@@ -150,8 +150,6 @@ Usage of a company phone is **voluntary** for the following staff groups:
 * Staff who are participating in on-call rotations, with approval from their direct manager and not part of a mandatory staff group.
 
 Continued usage of personal phones for business is endorsed and acceptable within the voluntary group. Remaining staff groups are currently not eligible for a company mobile device. The scope of the staff groups may be modified in the future, resulting in changes in mandatory and voluntary groups.
-
-Developers who work on mobile need to be able to test Mattermost on iOS and Android devices. Mattermost will cover the cost of whichever type of device you don’t use as your existing personal and/or company-provided device. As with our Ownership policy, the 1,000 USD threshold applies and the device will need to be returned to Mattermost if you leave the company.
 
 #### Mobile device management \(MDM\)
 
