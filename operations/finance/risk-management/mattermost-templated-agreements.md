@@ -22,4 +22,4 @@ This agreement is typically used for vendors who do not require Mattermost to si
 3. [Submit a purchase order on Accrualify](https://handbook.mattermost.com/operations/finance/purchasing/how-to-use-accrualify/how-to-submit-a-po) and attach the draft to the purchase order request.
 4. The purchase order will go through the proper review and approvals within Accrualify.
 5. The [Procurement Team](Procurement@mattermost.com) will reach out to you for additional information, if needed, and will copy you in all review and DocuSign communications.
-6. For any questions or concerns, please reach out to the [Procurement Team](Procurement@mattermost.com) anytime.
+6. For any questions or concerns, please reach out to the [Procurement Team](Procurement@mattermost.com) any time.
