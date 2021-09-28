@@ -48,7 +48,7 @@ Official languages are listed in **Account Settings &gt; Display &gt; Language**
 
 ### Beta
 
-* 90% of translation verified by someone deeply knowledgeable in Mattermost functionality and in the target language.
+* At least 90% of string translation verified by someone deeply knowledgeable in Mattermost functionality and in the target language. Languages at risk for ongoing maintenance can require a higher translation threshold closer to 100%.
 * Up to 10% of translation may be out-of-date due to changes to English-language text since the last translation and review cycle.
 
 Beta languages are listed in **Account Settings &gt; Display &gt; Language** appended with **\(Beta\)**.
@@ -108,6 +108,7 @@ If you're interested in contributing to the process, please join the [Mattermost
 
 | Language | Official Reviewer\(s\) | Maintainers |
 | :--- | :--- | :--- |
+| Bulgarian | [[Nikolai Zahariev \(nikolaiz\)](https://translate.mattermost.com/user/nikolaiz/) | |
 | Deutsch - German | TBD \(Open Role\) |  |
 | English - Australian | [Matthew Williams \(matthew.williams\)](https://translate.mattermost.com/user/matthew-w/) |  |
 | Español - Spanish | [Elias Nahum \(enahum\)](https://github.com/enahum) | [Jesús Espino \(jespino\)](https://github.com/jespino) |
@@ -119,7 +120,7 @@ If you're interested in contributing to the process, please join the [Mattermost
 | Nederlands - Dutch | [Tom De Moor \(ctlaltdieliet\)](https://github.com/ctlaltdieliet) |  |
 | Polski - Poland | [Daniel Burzmiński \(hectorskypl\)](https://github.com/hectorskypl) | [Tomasz Gruca \(gruceqq\)](https://translate.mattermost.com/user/gruceqq) |
 | Português do Brasil - Portuguese | [Rodrigo Corsi \(rodcorsi\)](https://github.com/rodcorsi) | [Carlos Tadeu Panato Junior \(cpanato\)](https://github.com/cpanato) |
-| Română - Romanian | [Nikolai Zahariev \(nikolaiz\)](https://github.com/mattermost/mattermost-handbook/tree/55178956e5d33dde426723e7eb3897c9fcacc52e/contributors/contributors/translate.mattermost.com/user/nikolaiz/README.md) |  |
+| Română - Romanian | TBD \(Open Role\) |  |
 | Svenska - Swedish | [Martin Johnson \(johnsonbrothers\)](https://github.com/johnsonbrothers) |  |
 | Türkçe - Turkish | [Kaya Zeren \(kaya\_zeren\)](https://twitter.com/kaya_zeren) |  |
 | Pусский - Russian | [Alexey Napalkov \(flynbit\)](https://github.com/flynbit) |  |
