@@ -6,7 +6,7 @@ description: >-
 
 # Mattermost U.S. Consulting Agreements
 
-This agreement is typically used for vendors who do not require Mattermost to sign a [custom agreement](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#procuring-a-vendor). Before you kick off the process, please confirm your vendor satisfies the criteria below. If you are not sure, please reach out to [Procurement Team](Procurement@mattermost.com).
+This agreement is typically used for vendors who do not require Mattermost to sign a [custom agreement](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#procuring-a-vendor). Before you kick off the process, please confirm your vendor satisfies the criteria below. If you're not sure, please reach out to [Procurement Team](Procurement@mattermost.com).
 
 ## **Criteria:**
 
