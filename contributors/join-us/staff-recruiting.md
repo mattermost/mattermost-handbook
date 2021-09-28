@@ -160,8 +160,8 @@ Typically the AA is the last person on the interview loop and scheduled in advan
 
 The following list of people are approved as As Appropriate interviewers:
 
-* Ian Tien, CEO and co-founder for anyone who is not an engineer in the R&D department  
-* Corey Hulen, CTO and co-founder for all engineers in the R&D department. 
+* Ian Tien, CEO and co-founder for all roles outside of R&D.
+* Corey Hulen, CTO and co-founder for all roles in the R&D department including Engineers, Product Managers, and UX.
 
 Each AA interviewer should have at least three reserved slots per week available for AA interviews, ideally in different timezone ranges, providing capacity for 12 new hires per month per AA.
 
@@ -226,4 +226,3 @@ This process will be managed by HR.
 #### Pre-onboarding Preparation
 
 New colleagues will receive pre-onboarding instructions from the People team. Hiring Managers will also need to complete [pre-onboarding activities](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/onboarding/manager-onboarding-1#onboarding).
-
