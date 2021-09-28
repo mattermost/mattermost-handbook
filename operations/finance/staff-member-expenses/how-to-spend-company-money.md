@@ -139,7 +139,7 @@ The company doesn't currently provide mobile device subscriptions in a centraliz
 
 #### Hardware
 
-If you require a tablet or phone as a part of your role, you should have a business use reason for the device and authorization from your manager. Once you receive approval, send an email to IT@mattermost.com with the device required (iOS Phone/Tablet, Android Phone/Tablet). A member of the IT team will reach out to coordinate the purchase and delivery of the requested device. Please note that devices will be on average 2 generations behind the newest available model. 
+If you require a tablet or phone as a part of your role, you should have a business use reason for the device and authorization from your manager. Once you receive approval, send an email to IT@mattermost.com with the device required (iOS Phone/Tablet, Android Phone/Tablet). A member of the IT team will reach out to coordinate the purchase and delivery of the requested device. Please note that devices will be on average 2 generations behind the newest available model.
 
 Usage of a company phone is **mandatory** for the following staff groups:
 
