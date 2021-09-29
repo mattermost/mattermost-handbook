@@ -1,4 +1,4 @@
-# The Mattermost Community Content Program
+# The Mattermost Community Writing Program
 
 Mattermost wants to be a central resource for helping developers improve their productivity. To that end, we want to open our blog to our diverse community to share expertise, tips and tricks, guides, and other technical resources that help developers get work done. We’ll compensate authors whenever we publish their content.
 
@@ -54,3 +54,22 @@ Our editorial staff will reach out to let you know if we want to publish your co
 **How do you evaluate content ideas?**
 
 Our team reviews every submission, and we look for technical content that comprehensively covers software development topics with clear explanations. Explain as much detail as possible and leave no concepts out.
+
+## Terms and Conditions
+
+Mattermost Community Writing Program Standard Terms & Conditions (“Writing Program Terms”): 
+
+1. Mattermost can only accept submissions from individuals who can legally receive payments from Mattermost. Before your proposal can be approved you will be required to verify your legal status and ability to accept payment under the laws of the United States. You will be responsible for all applicable taxes owed on the fees paid under this Program. Mattermost will not be responsible for any withholding.
+1. All fee determinations under the program are made at the sole discretion of Mattermost.
+1. Your submission of content to Mattermost does not in any way establish any sort of employment relationship between you and Mattermost. Your relationship with Mattermost is that of an independent contractor and not that of an employee. 
+1. You agree to grant Mattermost a perpetual, non-revocable, license to the content you submit to Mattermost.
+1. All content submitted to Mattermost under this program shall be licensed under the Creative Commons Attribution-Non-Commercial-ShareAlike 4.0 International ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)) license.
+1. You agree to comply with all applicable laws and regulations, including copyright laws.
+1. You agree to comply with the terms and conditions of the [Mattermost Terms of Service](https://mattermost.com/terms-of-service/).
+1. In no event shall Mattermost be liable with respect to any subject matter relating to this agreement under any contract, negligence, strict liability or other legal or equitable theory for special, incidental, consequential  or direct damages.
+1. Mattermost makes no representation or warranty of any kind. You represent and warrant that your content will not infringe upon or misappropriate the intellectual property rights of any third party.
+1. This program is governed by the laws of the State of California.
+1. This Agreement constitutes the entire agreement between Mattermost and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of Mattermost, or by the posting by Mattermost of a revised version.
+
+By submitting your application to the Mattermost Community Writing Program you are agreeing to these Writing Program Terms and the [Mattermost Privacy Policy](https://mattermost.com/privacy-policy/).
+
