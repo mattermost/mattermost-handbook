@@ -96,6 +96,7 @@
     * [Product Team Hangouts](operations/research-and-development/product/product-team-hangouts.md)
   * [Engineering](operations/research-and-development/engineering/README.md)
     * [Cloud Infrastructure Cost KPIs](operations/research-and-development/engineering/cloud-infrastructure-cost-kpis.md)
+    * [Cloud Data Export Process](operations/research-and-development/engineering/cloud-data-export-process.md)
     * [Integrations Team Processes](operations/research-and-development/engineering/integrations.md)
     * [Plugin Release Process](operations/research-and-development/engineering/plugin-release-process.md)
     * [Data Engineering](operations/research-and-development/engineering/data-engineering.md)
