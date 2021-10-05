@@ -49,7 +49,7 @@ Mattermosties are kind and considerate. We have a sense of humor and are general
 ### Process for inviting staff to events
 
 1. Allocate available passes to each department - e.g. 1 Eng, 1 Product, 1 Support, 2 Sales/CS, 1 Marketing. Allocation is typically based on
-  - Goal of an event --> e.g. if the main goal is to generate sales leads, we'd have a bigger sales/marketing presence. If the main goal is product or community awareness, then a bigger eng/product presence.
+  - **Goal of an event** For example, if the main goal is to generate sales leads, we'd have a bigger sales/marketing presence. If the main goal is product or community awareness, then a bigger engineering/product presence.
   - Audience --> e.g. if the audience is mostly users (devs, etc), then we tended to bring more community, product or eng folks. Usually aligned with the goal of an event, but not always. Example is FOSDEM where we only bring the community team and engineers.
 2. Based on allocation, create a list of specific individuals we'd like to invite
   - Prioritize those who have expressed interested in attending events.
