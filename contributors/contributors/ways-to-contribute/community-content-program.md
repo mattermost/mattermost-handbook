@@ -2,17 +2,13 @@
 
 Mattermost wants to be a central resource for helping developers improve their productivity. To that end, we want to open our blog to our diverse community to share expertise, tips and tricks, guides, and other technical resources that help developers get work done. We’ll compensate authors whenever we publish their content.
 
-
 ## About You
 
 We’re looking for a diverse group of skilled writers with deep technical knowledge to write content for us. You should have experience writing content, be comfortable receiving feedback about your work, and be open to making revisions recommended by our editorial team.
 
-
 ## Recommended Topics
 
 We seek a broad range of technical content for software developers that provide rich detail about popular tools. We typically want content that targets beginner to intermediate software developers, but we are open to a range of technical depth.
-
-
 
 * How to use popular app frameworks like Node, React, Vue, Flask, Kotlin, etc.
 * Software development productivity hacks.
@@ -20,15 +16,11 @@ We seek a broad range of technical content for software developers that provide 
 * Unique DevOps infrastructure at scale.
 * Introductions to useful libraries, programming environments, languages, and tech stacks.
 
-
 ## Compensation
 
 Most authors receive $250 - $350 for publishing unique content, but exceptionally detailed content about prevalent technologies can earn up to $500. We also run regular events that offer bonuses for writing about specific topics.
 
-
 ## The Process
-
-
 
 1. **Submit Your Idea** - Submit your idea via our [application form](https://docs.google.com/forms/d/e/1FAIpQLSeaydlRPSA5U8S0_6JYBOpnA1762t0irWLO-AYsvahPRLzZMA/viewform) with an outline of your content and a previous writing example demonstrating your technical knowledge and writing capabilities. We will only publish unique, first-run content where our blog is the first platform for it to be published.
 2. **Refine** - Our editorial team will reach out to you to provide feedback on the idea and make any structural changes requests.
@@ -36,7 +28,6 @@ Most authors receive $250 - $350 for publishing unique content, but exceptionall
 4. **Revise** - Submit your initial draft to our editors, and we’ll collaborate with you to copyedit, design a hero image, and prepare the article for publication. You should 1-2 rounds of revisions over the next 1-2 weeks.
 5. **Publish** - Once revisions are complete, we’ll send your compensation, publish the article, and promote it across all of our channels.
 6. **Do it Again** - There’s no limit to the number of articles you can publish through this program. We love to build long-term relationships with our community and would love for you to be a repeat author on our blog. Start at step 1 again and keep going!
-
 
 ## Frequently Asked Questions
 
@@ -72,4 +63,3 @@ Mattermost Community Writing Program Standard Terms & Conditions (“Writing Pro
 1. This Agreement constitutes the entire agreement between Mattermost and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of Mattermost, or by the posting by Mattermost of a revised version.
 
 By submitting your application to the Mattermost Community Writing Program you are agreeing to these Writing Program Terms and the [Mattermost Privacy Policy](https://mattermost.com/privacy-policy/).
-
