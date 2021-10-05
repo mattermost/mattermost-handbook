@@ -59,6 +59,22 @@ The team is also responsible for dictating the coding style and practices used t
 
 The team is not responsible for experimenting with new technologies or dictating the project structure/tooling used for all other JS projects within Mattermost. Because feature teams are able to move much quicker when they're writing brand new code, they have more opportunities to try out new technologies and practices. When those experiments are successful, the Web Platform team will help integrate them back into the Web App and make them available for other Mattermost projects.
 
+Areas of expertise:
+
+* Web App performance
+* Redux store structure
+* Desktop
+* Routing
+* Frontend coding style and best practices
+
 ### Server Platform
 
 The role of the Server Platform team is to own the backend multi-product architecture and server performance while supporting other teams that rely on the server.
+
+Areas of expertise:
+
+* Multi-product and server platform archiecture
+* Load testing and server performance
+* Database requirements
+* Clustering and high availability
+* Backend coding style and best practices
