@@ -55,7 +55,7 @@ The role of the Web Platform team is to own the infrastructure behind the Web Ap
 
 Within the Web App, that means tooling (e.g. build tools, testing frameworks, style checking), core systems (e.g. Redux, routing), and helping maintain the core features of the app. For the areas owned, the team is also responsible for educating other teams about those areas and helping them coordinate work that might require changes to those things.
 
-The team is also responsible for dictating the coding style and practices used throughout the web app which can be used as a reference for other JS projects. As recommended practices change, the team will work with the community and other teams to implement those in the web app whenever possible.
+The team is also responsible for dictating the coding style and practices used throughout the Web App which can be used as a reference for other JS projects. As recommended practices change, the team will work with the community and other teams to implement those in the Web App whenever possible.
 
 The team is not responsible for experimenting with new technologies or dictating the project structure/tooling used for all other JS projects within Mattermost. Because feature teams are able to move much quicker when they're writing brand new code, they have more opportunities to try out new technologies and practices. When those experiments are successful, the Web platform team will help integrate them back into the Web App and make them available for other Mattermost projects.
 
