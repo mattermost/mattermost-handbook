@@ -52,7 +52,7 @@ Mattermosties are kind and considerate. We have a sense of humor and are general
   - Goal of an event --> e.g. if the main goal is to generate sales leads, we'd have a bigger sales/marketing presence. If the main goal is product or community awareness, then a bigger eng/product presence.
   - Audience --> e.g. if the audience is mostly users (devs, etc), then we tended to bring more community, product or eng folks. Usually aligned with the goal of an event, but not always. Example is FOSDEM where we only bring the community team and engineers.
 2. Based on allocation, create a list of specific individuals we'd like to invite
-  - Prioritize those who have expresesd interested in attending events.
+  - Prioritize those who have expressed interested in attending events.
   - Prioritize those who are geographically close (lower costs, less time and effort for folks to attend).
   - Prioritize specific needs, e.g. for KubeCon, we have previously invited engineers who worked on our Kubernetes operator and Cloud platform, instead of other engineers. For security events it has been our security engineers, etc
 3. Once we have an invite list
