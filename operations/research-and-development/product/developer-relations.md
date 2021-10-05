@@ -51,7 +51,7 @@ Mattermosties are kind and considerate. We have a sense of humor and are general
 1. Allocate available passes to each department - e.g. 1 Eng, 1 Product, 1 Support, 2 Sales/CS, 1 Marketing. Allocation is typically based on
   - **Goal of an event** For example, if the main goal is to generate sales leads, we'd have a bigger sales/marketing presence. If the main goal is product or community awareness, then a bigger engineering/product presence.
   - **Audience** For example, if the audience is mostly users (devs, etc), then we tend to bring more community, product or engineering folks. Usually aligned with the goal of an event, but not always. An example is FOSDEM where we only bring the community team and engineers.
-2. Based on allocation, create a list of specific individuals we'd like to invite
+2. Based on allocation, create a list of specific individuals we'd like to invite.
   - Prioritize those who have expressed interested in attending events.
   - Prioritize those who are geographically close (lower costs, less time and effort for folks to attend).
   - Prioritize specific needs, e.g. for KubeCon, we have previously invited engineers who worked on our Kubernetes operator and Cloud platform, instead of other engineers. For security events it has been our security engineers, etc
