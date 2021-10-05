@@ -54,7 +54,7 @@ Mattermosties are kind and considerate. We have a sense of humor and are general
 2. Based on allocation, create a list of specific individuals we'd like to invite.
   - Prioritize those who have expressed interested in attending events.
   - Prioritize those who are geographically close (lower costs, less time and effort for folks to attend).
-  - Prioritize specific needs, e.g. for KubeCon, we have previously invited engineers who worked on our Kubernetes operator and Cloud platform, instead of other engineers. For security events it has been our security engineers, etc
+  - Prioritize specific needs, e.g. for KubeCon, we have previously invited engineers who worked on our Kubernetes operator and Cloud platform, instead of other engineers. For security events it has been our security engineers, etc.
 3. Once we have an invite list
   - Reach out to their manager asking if they are okay for us to pull a headcount for the event.
   - If either the MLT/manager or individual says no, ask who they'd recommend instead.
