@@ -104,6 +104,8 @@
   * [Quality Assurance](operations/research-and-development/quality/README.md)
     * [QA Workflow](operations/research-and-development/quality/qa-workflow.md)
     * [QA Testing Tips and Tools](operations/research-and-development/quality/testing-tips-and-tools.md)
+  * [Organization](operations/research-and-development/organization/README.md)
+    * [Channels](operations/research-and-development/organization/channels.md)
 * [Messaging and Math](operations/messaging-and-math/README.md)
   * [How to guides for M&M](operations/messaging-and-math/how-to-guides-for-m-and-m/README.md)
     * [How to create release announcements](operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements.md)
