@@ -6,7 +6,7 @@ Make sure to join us over on our [Hacktoberfest 2021 Mattermost community server
 
 ## Projects
 
-| Project             | Description         | Skills              | Open Issues         | Contribution Guides |
+| Project             | Description         | Tech Stack          | Open Issues         | Contribution Guides |
 | :------------------ | :------------------ | :------------------ | :------------------ | :------------------ |
 | Server | Highly-scalable Mattermost installation written in Go | Golang | [Issues](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FGo%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue) | [Guide](https://developers.mattermost.com/contribute/server/) |
 | Web App | Webapp of Mattermost server | ReactJS, JavaScript | [Issues](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FReactJS%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue) | [Guide](https://developers.mattermost.com/contribute/webapp/) |
