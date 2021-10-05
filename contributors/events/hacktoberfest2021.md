@@ -40,7 +40,7 @@ We will select 1 MVP from each project listed above to receive an exclusive Matt
 + [Mattermost contribute page](https://mattermost.com/contribute/)
 + [Getting Started overview](https://developers.mattermost.com/contribute/getting-started/)
 + [Pull request checklist](https://developers.mattermost.com/contribute/getting-started/contribution-checklist/)
-+ [Mattermost Hacktoberfest tips](https://mattermost.com/blog/hacktoberfest-2018-is-here-its-a-chance-to-give-back-to-communities-you-love/)
++ [Mattermost Hacktoberfest tips](https://mattermost.com/blog/hacktoberfest-2021/)
 + [Contributor community channel](https://community.mattermost.com/core/channels/developers)
 + [Hacktoberfest 2021 community channel](https://community.mattermost.com/core/channels/hacktoberfest-2021)
 
