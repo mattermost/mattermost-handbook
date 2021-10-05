@@ -2,7 +2,7 @@
 
 The source of truth for the R&D org structure and team membership is [this spreadsheet](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit#gid=1820415931).
 
-R&D is split into five different divisions: Products, Cloud, Platform, Security and Community.
+R&D is split into five different divisions: Products, Cloud, Platform, Security, and Community.
 
 ## Products
 
