@@ -4,7 +4,7 @@ Channels is split into feature teams and platform teams.
 
 ## Feature Teams
 
-The feature teams are responsible for designing, developing and maintaining the features of the Channels product. They are full stack and own feature development across the entire tech stack (web app, mobile, desktop and backend).
+The feature teams are responsible for designing, developing, and maintaining the features of the Channels product. They are full stack and own feature development across the entire tech stack (Web App, Mobile, Desktop, and backend).
 
 These teams are flexible enough to work on whatever is highest impact. Each team does have areas of expertise and features they own but any feature team can work on any portion of the product.
 
