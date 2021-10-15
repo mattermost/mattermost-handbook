@@ -17,7 +17,7 @@ Some additional ideas on where to start contributing to Mattermost product docs:
 
 ## Working with us
 
-We really the time taken by contributors to help us, and want to help every contributor submit meaningful content that adds value to our documentation. We refer to these types of contributions as valid contributions.
+We really appreciate the time taken by contributors to help us, and want to help every contributor submit meaningful content that adds value to our documentation. We refer to these types of contributions as valid contributions.
 
 A valid contribution is one that isn't done just for the sake of submitting a PR, but one that:
 
