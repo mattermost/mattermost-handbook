@@ -60,7 +60,16 @@ Once complete, submit your Pull Request \(PR\). Ensure that you assign appropria
 
 ### Submitting feature documentation
 
-Feature documentation is a joint effort between Product Managers and Technical Writers. In the same way that we want to empower everyone to contribute to our documentation, Product Managers are encouraged to write MVP documentation for their product/feature.
+Feature documentation is a joint effort between Product Managers and Technical Writers. In the same way that we want to empower everyone to contribute to our documentation, Product Managers are encouraged to write MVP documentation for their product/feature. 
+
+If your PR is for a new feature, major update to an existing feature, or a fix that impacts the current documentation, it's recommended that you include documentation around the change. This is helpful in providing context for reviewers, and also ensures the content can be added to the documentation quickly.
+
+You can contribute documentation in one of the following ways:
+
+* Update the relevant page on [docs.mattermost.com](https://docs.mattermost.com), and submit a PR for that. This PR is submitted to the docs repo, reviewed by the relevant team members, and merged from there.
+* Submit your documentation as a new file, including the context and changes, any code samples, and processes. You can submit this as part of your PR, or you can open a new PR in the docs repo and include a link to your open code PR.
+
+We don't expect a huge body of documentation or that it's perfectly-written - but rather a clear, concise outline of the change which can be added to our documentation. The content can be provided as a list, rough notes, or you can use the example below for content and structural guidance if your documentation is quite detailed.
 
 **Note:** Due to the cadence of the release cycle, feature documentation needs to be complete and submitted as [per the release process](https://handbook.mattermost.com/operations/research-and-development/product/release-process/feature-release#e-t-minus-15-working-days-judgment-day) to allow sufficient time for review and to ensure it's included in the release documentation update.
 
@@ -75,6 +84,7 @@ This is a guideline of what MVP feature documentation can include. Requirements 
 * A description of the product/feature/update which forms the basis of the documentation.
 * Steps for any processes or procedures \(configuration of a feature, troubleshooting, etc\).
 * Any FAQs or troubleshooting questions if relevant.
+* Any limitations, issues, or known problems.
 * Configuration settings and examples for the `config.json` file if relevant.
 * \(If possible\) Suggestions of where in the docs the content should go.
 
@@ -89,6 +99,12 @@ When the content has been refined and approved in draft format:
 
 You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review).
 
+You can find additional guidance around formatting [here](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/documentation-style-guide#using-restructuredtext-markup-rst).
+
+Once your PR is submitted, there's a review process that includes an editorial review, a PM review, and sometimes a dev review. During the editorial review, editors may make punctuation and/or terminology changes and commit them to save time on the review process. This only applies to punctuation/terminology - content suggestions and questions will follow the usual review and discussion process.
+
+Once the review is complete, we'll move your contribution to the appropriate part of [docs.mattermost.com](https://docs.mattermost.com) \(if it's not there already\) and then merge it. We'll share the URL and you can edit it at any time if you need to.
+
 ### Submitting documentation with your PR
 
 We want to empower everyone to contribute to our documentation, and be comfortable submitting documentation for contributions. As such, we don't expect every contribution to adhere to our style guide when first submitted.
@@ -97,7 +113,7 @@ During the review process the editorial team also provides feedback on style ele
 
 Here are some guidelines:
 
-* When submitting a PR, please include updated documentation if applicable.
+* When submitting a code PR, please include updated documentation if applicable.
 * The documentation update can be in the form of a bullet list or an outline.
 * Label the PR as **Docs Needed**/**Editor Review** and tag @justinegeffen or @carriewarnermm.
 * The documentation you've submitted will be reviewed.
@@ -114,29 +130,29 @@ Mattermost documentation covers a number of different topics. For documentation,
 
 **Editor Review**
 
-* Amy Blais \(@amyblais\)
 * Carrie Warner \(@cwarnermm\)
 * Justine Geffen \(@justinegeffen\)
 
 **Product Manager Review**
 
-* Admin Guide - Enterprise: Katie Wiersgalla \(@wiersgallak\)
-* Admin Guide - Security: Katie Wiersgalla \(@wiersgallak\)
-* Admin Guide - Cloud: Katie Wiersgalla \(@wiersgallak\)
-* Admin Guide - Licensing: Jason Blais\(\@jasonblais\)
-* End User Guide - Mobile and desktop app: Eric Sethna \(@esethna\)
+* Channels: Katie Wiersgalla \(@wiersgallak\)
+* Security: Katie Wiersgalla \(@wiersgallak\)
+* Cloud: Katie Wiersgalla \(@wiersgallak\)
+* Playbooks: Ian Tao \(@tao\)
+* Boards: Chen-I Lim \@chenilim\)
+* Licensing: Jason Blais\(\@jasonblais\)
+* Mobile and desktop app: Eric Sethna \(@esethna\)
 * Apps and Marketplace: Aaron Rothschild \(@aaronrothschild\)
-* Incident Collaboration: Ian Tao \(@itao\)
 * Handbook and Process; Community: Jason Blais \(@jasonblais\)
 
 **Dev Review**
 
 If your change requires dev review add the developer/s you've been working with as the reviewer/s. If you're unsure who to add as a dev reviewer you can select one of the team leads below:
 
-* Core Enterprise Features: Scott Bishel \(@sbishel\)
-* Core Features: Scott Bishel \(@sbishel\)
+* Boards: Scott Bishel \(@sbishel\)
 * Integrations: Catalin Tomei \(@catalintomai\)
-* Workflows \(Incident Collaboration\): Jesse Hallam \(@lieut-data\)
+* Playbooks: Jesse Hallam \(@lieut-data\)
+* Channels: Martin Kraft \(@mkraft\)
 * Growth: Maria Nuñez \(@marianunez\)
 * SRE: Joram Wilander \(@jwilander\) \(\interm\)
 * Cloud Platform: Joram Wilander \(@jwilander\)
@@ -180,9 +196,9 @@ We really want the community to own the docs as much as possible. In light of th
 
 ### i18n contributions
 
-**Note: This process is a 1% draft.\***
+**Note: This process is in flight.\***
 
-Our User's Guide and Administrator's Guide are available for translation contributions. Join the [i18n channel](https://community.mattermost.com/core/channels/localization) on our Community server and connect with our translation community members. The documentation translation process is still being defined.
+Our product documentation is available for translation contributions. Join the [i18n channel](https://community.mattermost.com/core/channels/localization) on our Community server and connect with our translation community members. The documentation translation process is still being defined.
 
 Currently, submitting a translation PR follows the same writing and editing process as other PRs. However, there are additional considerations to bear in mind when submitting your PR as these assist with the approval and merge process:
 
