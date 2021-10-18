@@ -53,7 +53,7 @@ To ensure an uncluttered presentation, always maintain a full "X" space around t
 
 ### Logo downloads
 
-[You can download all Mattermost logo files here](https://mattermost.com/wp-content/uploads/2021/09/Mattermost_Logo.zip).
+[You can download all Mattermost logo files here](http://mattermost.com/wp-content/uploads/2021/10/Mattermost_Logo.zip).
 
 ## Brand guidelines
 
