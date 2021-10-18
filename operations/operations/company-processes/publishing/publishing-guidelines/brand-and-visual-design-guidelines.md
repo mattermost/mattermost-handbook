@@ -57,7 +57,7 @@ To ensure an uncluttered presentation, always maintain a full "X" space around t
 
 ## Brand guidelines
 
-You can view the [Mattermost Brand Guidelines here](https://mattermost.com/wp-content/uploads/2021/09/Mattermost_Brand_Guidelines.pdf).
+You can view the [Mattermost Brand Guidelines here](http://mattermost.com/wp-content/uploads/2021/10/Mattermost_Brand_Guidelines.pdf).
 
 ## Name usage guidelines
 
