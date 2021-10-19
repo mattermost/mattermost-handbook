@@ -77,6 +77,7 @@
       * [User Interface Text Guidelines](operations/research-and-development/product/development-process/user-interface-text-guidelines.md)
     * [How to Guides for Product](operations/research-and-development/product/how-to-guides-for-product/README.md)
       * [How to Use productboard](operations/research-and-development/product/how-to-guides-for-product/how-to-use-productboard.md)
+      * [How to Record a Roadmap Video](operations/research-and-development/product/how-to-guides-for-product/how-to-record-a-roadmap-video.md)
       * [How to Update Integrations Directory](operations/research-and-development/product/how-to-guides-for-product/integrations-directory.md)
       * [How to Write a Feature Release Announcement](operations/research-and-development/product/how-to-guides-for-product/release-announcement.md)
     * [Product Management Team Handbook](operations/research-and-development/product/product-management-team-handbook/README.md)
