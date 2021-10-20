@@ -8,7 +8,7 @@ R&D is split into five different divisions: Products, Cloud, Platform, Security,
 
 The Products division is split into a number of different verticals, each responsible for a single product. The current product verticals are:
 
-* [Channels](/operations/research-and-development/organization/channels)
+* [Channels](/operations/research-and-development/organization/channels.md)
 * Boards
 * Playbooks
 
