@@ -2,12 +2,12 @@
 
 | Product Area | Example Features | PM Owner |
 | :--- | :--- | :--- |
-| Administration | System Console, Compliance, Authentication, User and Team Management, Permissions | Katie Wiersgalla |
-| Apps & Integrations | Plugins, Apps Marketplace, Apps & Plugin Framework | Aaron Rothschild |
+| Playbooks | Incident Response Colloboration, Checklists, Retrospectives | Ian Tao |
+| Boards | Boards, Tasks, Focalboard | Chen-I Lim |
+| Channels End-User Productivity | Chat, Search, Notifications, Status, User Settings, Onboarding, Mobile | Eric Sethna |
+| Channels: Apps & Integrations | Plugins, Apps, Apps Marketplace, Apps & Plugin Framework | Aaron Rothschild |
 | Customer Journey | Trials, Billing, Purchases/Customer Portal, In-Product Notices, Admin Advisor, Licenses | Jason Blais |
-| End-User Experience | Chat, Search, Notifications, Status, User Settings, Onboarding, Mobile | Eric Sethna |
-| Incident Collaboration | Playbooks, Incident Response Workflow | Ian Tao |
-| Focalboard | Boards, Tasks | Chen-I Lim |
+| Channels: Administration | System Console, Compliance, Authentication, User and Team Management, Shared Channels| Katie Wiersgalla |
 | Platform | High Availabilty, Database, File Storage, Security, Logging, VPC Peering, Kubernetes, Omnibus | Katie Wiersgalla |
 
 For a comprehensive list of ownership areas, please see [this document](https://docs.google.com/spreadsheets/d/1-EUPdTpOxNx4bwf-312Pgqis7xSObK00c-KYwPXr2Y0/edit?usp=sharing).
