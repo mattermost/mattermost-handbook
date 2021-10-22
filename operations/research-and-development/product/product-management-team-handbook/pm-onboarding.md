@@ -78,7 +78,7 @@ Team:
 
 Fresh perspective product review: 
 
-Before diving too deeply into docs, processes, and everything else - take this chance to look at the product with fresh eyes! Keep a list of questions, observations, and points of confusion to help with your own learning and to provide feedback on your first impressions of Mattermost for the rest of the team.
+Before diving too deeply into docs, processes, and everything else - take this chance to share a list of questions, observations, and points of confusion to help with your own learning and to provide feedback on your first impressions of Mattermost for the rest of the team.
 
 A good place to start is exploring the websites, and then start a cloud trial account.
 
@@ -87,7 +87,6 @@ A good place to start is exploring the websites, and then start a cloud trial ac
 * [https://docs.mattermost.com](https://docs.mattermost.com/)
 * [https://developers.mattermost.com](https://developers.mattermost.com/)
 * [http://github.com/mattermost](https://github.com/mattermost/)
-* [https://www.mattermost.com/demo](https://www.mattermost.com/demo/)
 
 
 ## First 30 days
@@ -108,7 +107,7 @@ A good place to start is exploring the websites, and then start a cloud trial ac
 
 * Post detailed notes from customer calls in [Salesforce](https://handbook.mattermost.com/operations/customer-success#logging-a-customer-feedback-in-salesforce)
 * Answer at least one question during the week of community support in the Mattermost [forum](https://forum.mattermost.org/)
-* Document areas of improvement you see in your area of responsibility or in team's processes.  Share these with your manager. 
+* Document areas of improvement you see in your area of ownership or in team's processes.  Share these with your manager. 
 * Update this onboarding document. 
 
 ### Activities:
@@ -204,7 +203,7 @@ Learn about the product development process
   * Contribute where possible \(reviewing research and design specs, filing Jira ticket bugs\)
   * Ramp up on a couple of ongoing projects or smaller projects
 * Identify areas of improvement for your area of improvement. 
-* Other projects identified by PM mentor to assist in learning about your area of responsibility
+* Other projects identified by PM mentor to assist in learning about your area of ownership
 
 Update this onboarding document!
 
@@ -217,13 +216,13 @@ Update this onboarding document!
 
 ### Training focus:
 
-* Participate in job duties and acquire ownership of a full feature. 
+* Participate in job duties and acquire ownership of a full feature (or more). 
 
 ### Training outputs:
 
 * Document detailed notes from customer calls for requirements and use cases.
 * Kick off a project with the UX, Engineering and QA. 
-* Write spec document and 1-pager for your feature. 
+* Write spec document and release announcements for your feature. 
 
 ### Activities:
 
@@ -235,7 +234,7 @@ Update this onboarding document!
 * Work with QA on test plans
 * Prepare customer facing documentation for your project
 * Allow PM mentor to shadow you and review your work, providing guidance and feedback
-* Other projects identified by PM mentor to assist in learning about your area of responsibility
+* Other projects identified by PM mentor to assist in learning about your area of ownership
 
 ## First 90 days
 
@@ -250,12 +249,12 @@ Update this onboarding document!
 ### Training outputs:
 
 * Update and share roadmap with your direct manager.
-* Respond to customers and internal stakeholders on questions relating to areas of your responsibility. 
+* Respond to customers and internal stakeholders on questions relating to areas of your ownership. 
 * Prepare research and requirements for next upcoming projects. 
 
 ### Activities:
 
 * Prepare research and queue next projects
 * Work independently with Feature team \(Dev, UX, QA\)
-* Answer questions related to the projects you have been involved in and areas of responsibility within the product \(with support as needed from PM mentor\).
+* Answer questions related to the projects you have been involved in and areas of ownership within the product \(with support as needed from PM mentor\).
 
