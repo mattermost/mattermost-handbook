@@ -53,7 +53,6 @@
       * [Roadmap Views](operations/research-and-development/product/product-planning/roadmap-views.md)
       * [Release Plan](operations/research-and-development/product/product-planning/release-plan.md)
       * [Launch Plan](operations/research-and-development/product/product-planning/launch-plan.md)
-      * [Release Planning Cadence](operations/research-and-development/product/product-planning/release-planning-cadence.md)
       * [Feature Requests](operations/research-and-development/product/product-planning/feature-requests.md)
     * [Release Process](operations/research-and-development/product/release-process/README.md)
       * [Release Overview](operations/research-and-development/product/release-process/release-overview.md)
