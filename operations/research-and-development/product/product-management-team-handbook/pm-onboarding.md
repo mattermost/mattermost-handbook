@@ -1,39 +1,22 @@
 # Product Manager Onboarding
 
-## Recruiting process
-
-* [Hiring Process](https://handbook.mattermost.com/contributors/join-us/staff-recruiting/product-manager-hiring)
-* [Interview Processes](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#interview-process)
-
 ## First day
 
-### Objective: Explore the product with fresh eyes
+### Objective: Get a good idea of what your first few weeks and months at Mattermost will be. 
 
-Before diving too deeply into docs, processes, and everything else - take this chance to look at the product with fresh eyes! Keep a list of questions, observations, and points of confusion to help with your own learning and to provide feedback on your first impressions of Mattermost for the rest of the team.
-
-A good place to start is exploring the websites, and then see if you can find a way to install a version of Mattermost to try it out.
-
-* Google Mattermost
-* [https://mattermost.com](https://mattermost.com/)
-* [https://docs.mattermost.com](https://docs.mattermost.com/) \(User, Cloud, Self-Managed, Integrations guides\)
-* [https://developers.mattermost.com](https://developers.mattermost.com/)
-* [http://github.com/mattermost](https://github.com/mattermost/)
-* [https://www.mattermost.com/demo](https://www.mattermost.com/demo/)
 
 ### Activities:
 
 * Meet with direct manager
-  * Company org overview
-    * [https://mattermost.bamboohr.com/employees/orgchart.php](https://mattermost.bamboohr.com/employees/orgchart.php)
-    * [https://developers.mattermost.com/internal/rd-teams/](https://developers.mattermost.com/internal/rd-teams/)
-  * Add to meetings
-  * Get accounts set up
-  * First day projects
-  * Set up 1-1 times and create 1-1 doc
-* Meet with “PM buddy”
-  * Learn about team
-  * Add to team meetings
-  * Set up 1-1 times and create 1-1 doc
+  * Review your area of ownership and team members
+    * [Product Areas of Ownership](/operations/research-and-development/product/product-management-team-handbook/product-ownership-areas)
+    * [R&D Org](https://handbook.mattermost.com/operations/research-and-development/organization)
+  * Get added to key organization and team meetings
+  * Get 1:1 set up for the next few weeks for frequent check-ins
+  * Review the onboarding plan for first 90 days
+
+* HR Paperwork & Logistics 
+
 * Look at the product with “fresh eyes”
   * Install Mattermost on your laptop, go through the steps of setting it up
     * Optionally also install the Mattermost Mobile App on your mobile device
@@ -41,7 +24,8 @@ A good place to start is exploring the websites, and then see if you can find a 
 
 ## First week
 
-### Objective: Introduction to customers, team members, resources, and  processes
+### Objective: Get an introduction to product, customers, team members, resources, and  processes
+
 
 ### Training focus:
 
@@ -52,9 +36,9 @@ A good place to start is exploring the websites, and then see if you can find a 
 * Introduction to key resources
 * Introduction to key processes
 
-### Training outputs:
+### Training outcomes:
 
-* Post introduction as PM and ask to join customer calls
+* Post introduction to PM team to GTM teams. Request to join customer calls
 * Get access to key tools \(Jira, Github\)
 * Open your first pull request in Github for an improvement to docs.mattermost.com or in-product text. 
 
@@ -87,21 +71,27 @@ Team:
     * [Mattermost Platform](https://mattermost.atlassian.net/projects/MM/issues/MM-10977?filter=allopenissues)
 * Make your first edit and pull request on GitHub
   * Update documentation or product help text
-* Small contributions
+* Make other small contributions based on your fresh experience with Mattermost
   * File a bug in Jira
-  * Test a new feature on a test server and suggest an improvement
-  * Leave feedback on a design proposal
+  * Test a new feature on a test server and suggest an improvement in our UX feedback channel
+  * Leave feedback on a design proposal in our spec channel
 
-Readings:
+Fresh perspective product review: 
 
-* The Advantage:
-  * [https://drive.google.com/file/d/1zOV4nqVPxRHsQrxcqQwkGq2hCvB2CKJU/view](https://drive.google.com/file/d/1zOV4nqVPxRHsQrxcqQwkGq2hCvB2CKJU/view)
-* The Five Dysfunctions of a Team: A Leadership Fable
-  * [https://drive.google.com/file/d/1yvLMW5tHGoTTjrq5VY17SCoeQoNXn9jA/view?usp=sharing](https://drive.google.com/file/d/1yvLMW5tHGoTTjrq5VY17SCoeQoNXn9jA/view?usp=sharing)
+Before diving too deeply into docs, processes, and everything else - take this chance to share a list of questions, observations, and points of confusion to help with your own learning and to provide feedback on your first impressions of Mattermost for the rest of the team.
+
+A good place to start is exploring the websites, and then start a cloud trial account.
+
+* Google Mattermost
+* [https://mattermost.com](https://mattermost.com/)
+* [https://docs.mattermost.com](https://docs.mattermost.com/)
+* [https://developers.mattermost.com](https://developers.mattermost.com/)
+* [http://github.com/mattermost](https://github.com/mattermost/)
+
 
 ## First 30 days
 
-### Objective: Build foundational knowledge of our company, product, and market.
+### Objective: Build your foundational knowledge of our company, product, and market.
 
 ### Training focus:
 
@@ -115,9 +105,9 @@ Readings:
 
 ### Training outputs:
 
-* Post detailed notes from customer calls  in [Salesforce](https://handbook.mattermost.com/operations/customer-success#logging-a-customer-feedback-in-salesforce)
+* Post detailed notes from customer calls in [Salesforce](https://handbook.mattermost.com/operations/customer-success#logging-a-customer-feedback-in-salesforce)
 * Answer at least one question during the week of community support in the Mattermost [forum](https://forum.mattermost.org/)
-* Document areas of improvement you see in your area of responsibility or in team's processes.  Share these with your manager. 
+* Document areas of improvement you see in your area of ownership or in team's processes.  Share these with your manager. 
 * Update this onboarding document. 
 
 ### Activities:
@@ -127,7 +117,7 @@ Learn about our customers and users
 * Learn about Mattermost Support by getting an overview on support processes and systems
   * Customers: Zendesk \(Sven Huester, Support Lead\)\)
   * Community: GitHub, Forums \(Amy Blais\)
-* Learn about Customer Success \(Jenn Lawler\)
+* Learn about Customer Success \(Tiffany Stinson\)
   * Overview of Customer Success team, who owns what
   * Current Customer Success processes
   * Typical challenges during customer onboarding
@@ -177,7 +167,7 @@ Learn about the product
     * [Engineering OKRs](https://mattermost.productboard.com/feature-board/1749949-release-summary-internal)
 * Product Analytics \(Eric Nelson\)
   * Tips on things to watch out for if running your own analytics
-  * Dive into product analytics
+  * Dive into product analytics \(via Looker\)
 
 Learn about the product development process
 
@@ -212,10 +202,8 @@ Learn about the product development process
 * Shadow feature team meetings and conversations
   * Contribute where possible \(reviewing research and design specs, filing Jira ticket bugs\)
   * Ramp up on a couple of ongoing projects or smaller projects
-* Shadow release process meetings and conversations
-  * Ask Amy to add to release meetings for the upcoming release
 * Identify areas of improvement for your area of improvement. 
-* Other projects identified by PM mentor to assist in learning about your area of responsibility
+* Other projects identified by PM mentor to assist in learning about your area of ownership
 
 Update this onboarding document!
 
@@ -228,13 +216,13 @@ Update this onboarding document!
 
 ### Training focus:
 
-* Participate in job duties and acquire ownership of a full feature. 
+* Participate in job duties and acquire ownership of a full feature (or more). 
 
 ### Training outputs:
 
 * Document detailed notes from customer calls for requirements and use cases.
 * Kick off a project with the UX, Engineering and QA. 
-* Write spec document and 1-pager for your feature. 
+* Write spec document and release announcements for your feature. 
 
 ### Activities:
 
@@ -246,7 +234,7 @@ Update this onboarding document!
 * Work with QA on test plans
 * Prepare customer facing documentation for your project
 * Allow PM mentor to shadow you and review your work, providing guidance and feedback
-* Other projects identified by PM mentor to assist in learning about your area of responsibility
+* Other projects identified by PM mentor to assist in learning about your area of ownership
 
 ## First 90 days
 
@@ -261,12 +249,12 @@ Update this onboarding document!
 ### Training outputs:
 
 * Update and share roadmap with your direct manager.
-* Respond to customers and internal stakeholders on questions relating to areas of your responsibility. 
+* Respond to customers and internal stakeholders on questions relating to areas of your ownership. 
 * Prepare research and requirements for next upcoming projects. 
 
 ### Activities:
 
 * Prepare research and queue next projects
 * Work independently with Feature team \(Dev, UX, QA\)
-* Answer questions related to the projects you have been involved in and areas of responsibility within the product \(with support as needed from PM mentor\).
+* Answer questions related to the projects you have been involved in and areas of ownership within the product \(with support as needed from PM mentor\).
 
