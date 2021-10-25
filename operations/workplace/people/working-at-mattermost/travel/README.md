@@ -16,7 +16,7 @@ This person will partner with the Workplace Community Manager on planning and lo
  
 ### Staff Travel Guidelines During COVID 
  
-Mattermost is not requiring any team members to travel during COVID. Although there may be some in-person travel planned for teams, departments, conferences, or meet-ups, no team member will be required to attend. We understand that folks may feel safer to travel depending on the current COVID data for the region they reside and plan to travel to, but we also understand that factors can change very quickly. We've created the following guidelines for anyone looking into or participating in any sort of in-person travel.  
+Mattermost doesn't require any team members to travel during COVID. Although there may be some in-person travel planned for teams, departments, conferences, or meet-ups no team member will be required to attend. We understand that folks may feel safer to travel depending on the current COVID data for the region they reside and plan to travel to, but we also understand that factors can change very quickly. We've created the following guidelines for anyone looking into or participating in any sort of in-person travel.
 1. **100% optional event.** Attendance is not required for in-person meetings or events. Attending meetings or events in-person is at your own discretion and risk. Travelers should note:
   * You may need a proof of Covid-19 vaccine and/or PCR test at departure/arrival at some airports. It's each traveler’s responsibility to research, understand, and abide by these requirements.
   * Travelers are responsible for knowing any travel visa requirements of their destination region(s) and region of origin. Please see more info here: Handbook > business travel.
