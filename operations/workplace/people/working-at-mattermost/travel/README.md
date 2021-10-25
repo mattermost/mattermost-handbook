@@ -32,7 +32,7 @@ If you are unsure, please reach out to your manager or workplace to help blindsp
   a. For conferences or solo-type trips, Mattermost will not sponsor any lodging expenses due to quarantine requirements, unless there's a unique situation where this quarantine was unavoidable. [Note: this trip is optional and not a work requirement, and similar to other trips like MatterCon, we won't cover any expenses outside of what the regional meetups state. We do have travel insurance, and staff are encouraged to review the AIG FAQ to understand coverage, guidelines and requirements.]
   b. Our preferred airline vendor is United Airlines and we have an account you can use.  For info on booking travel, see handbook: staff member expenses > airfare and traveling.
   c. If you need help booking your travels, please use [this form](https://forms.gle/CEMNgK4GHuAWAiqX6).
-5. **Travel Approval.** Travel Champions will need approval by their Team MLT member and the Workplace Community Manager (WPCM) prior to booking. Travel approval requests should include: trip dates, purpose, and budget/cost. 
+5. **Travel approval.** Travel Champions will need approval by their Team MLT member and the Workplace Community Manager (WPCM) prior to booking. Travel approval requests should include: trip dates, purpose, and budget/cost.
   a. Please use [this Meetups template](https://docs.google.com/spreadsheets/d/1ZD6BchqUMPC0quYkU_vnT95vENxMSGZ3DRWQi7jxWhQ/edit?usp=sharing) and share with the WPCM for review and approval.
   b. **Travel champions are responsible for all travel planning.** See above template for more information. If you need help please reach out to the WPCM.
   c. Meetup requests that are longer than one day must be submitted two months in advance
