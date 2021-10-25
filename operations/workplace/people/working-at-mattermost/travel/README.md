@@ -6,7 +6,9 @@ description: 25% - this is a work in progress page and will be added to overtime
 
 ### Things to know about planning an in-person meet-up 
  
-We run as a distributed, high performance and high-trust team and enabling team members to make meaningful connections is part of our culture.  In-person meetups are an opportunity to build on those relationships. All in-person travel requires a Meetup Champions, also called Travel DRIs. This person will partner with the Workplace Community Manager on planning and logistics, and will also be responsible for obtaining appropriate approvals and ensuring applicable travel guidelines are followed.  
+We run as a distributed, high performance and high trust team and enabling team members to make meaningful connections is part of our culture. In-person meetups are an opportunity to build on those relationships. All in-person travel requires a Meetup Champions, also called Travel DRIs.
+
+This person will partner with the Workplace Community Manager on planning and logistics, and will also be responsible for obtaining appropriate approvals and ensuring applicable travel guidelines are followed.
 
 **Process for getting started**  
 1. Obtain written approval to plan an in-person meetup from your Team MLT. 
