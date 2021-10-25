@@ -38,7 +38,7 @@ If you are unsure, please reach out to your manager or workplace to help blindsp
   c. Meetup requests that are longer than one day must be submitted two months in advance.
   d. Meetup requests for a one-day meetup must be submitted two weeks in advance.
 6. **Mask etiquette.** In addition to following the guidelines of the venues and region, team  should plan to follow the [CDC Guidelines for face coverings](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/about-face-coverings.html).
-7. **Covid-19 Travel Working Group.** This group will consist of: Hanna Park, Natalie Jew, Jamie Hurewitz, Zef Hemmel, who will meet on a monthly basis to assess any changes that may need to be made to the guidelines. Changes will be shared with MLT and MLX prior to finalization and internal messaging. 
+7. **Covid-19 Travel Working Group.** This group will consist of: Hanna Park, Natalie Jew, Jamie Hurewitz, Zef Hemel, who will meet on a monthly basis to assess any changes that may need to be made to the guidelines. Changes will be shared with MLT and MLX prior to finalization and internal messaging.
  
 **Upcoming Meetings**
 * October 1, 2021
