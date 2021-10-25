@@ -12,7 +12,7 @@ This person will partner with the Workplace Community Manager on planning and lo
 
 **Process for getting started**  
 1. Obtain written approval to plan an in-person meetup from your Team MLT.
-2. Make a copy of this [Meetup Template](https://docs.google.com/spreadsheets/d/1ZD6BchqUMPC0quYkU_vnT95vENxMSGZ3DRWQi7jxWhQ/edit#gid=626981306) and complete as much as you can. Share your Meetup Template and the written approval with the Workplace Community Manager (WPCM). 
+2. Make a copy of this [Meetup Template](https://docs.google.com/spreadsheets/d/1ZD6BchqUMPC0quYkU_vnT95vENxMSGZ3DRWQi7jxWhQ/edit#gid=626981306) and complete as much as you can. Share your Meetup Template and the written approval with the Workplace Community Manager (WPCM).
  
 ### Staff Travel Guidelines During COVID 
  
