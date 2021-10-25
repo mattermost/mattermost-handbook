@@ -11,7 +11,7 @@ We run as a distributed, high performance and high trust team and enabling team 
 This person will partner with the Workplace Community Manager on planning and logistics, and will also be responsible for obtaining appropriate approvals and ensuring applicable travel guidelines are followed.
 
 **Process for getting started**  
-1. Obtain written approval to plan an in-person meetup from your Team MLT. 
+1. Obtain written approval to plan an in-person meetup from your Team MLT.
 2. Make a copy of this [Meetup Template](https://docs.google.com/spreadsheets/d/1ZD6BchqUMPC0quYkU_vnT95vENxMSGZ3DRWQi7jxWhQ/edit#gid=626981306) and complete as much as you can. Share your Meetup Template and the written approval with the Workplace Community Manager (WPCM). 
  
 ### Staff Travel Guidelines During COVID 
