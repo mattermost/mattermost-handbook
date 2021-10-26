@@ -34,7 +34,7 @@ If time off is being taken for sickness, including physical and mental needs, pl
 ### Common Time Off Questions
 
 1. **Is there really no limit?** There is no limit to how much time off you can take when your work is meeting or exceeding expectations. We strongly recommend a minimum of 2 weeks per year.
-2. **Is PTO monitored?** PTO is not monitored but we encourage managers to ensure their DRs are taking at least the recommended minimum of 2 weeks off per year (and/or the statutory minimum in their region of residence).  Time off is reported in regions where there is a statutory requirement to do so. 
+2. **Is PTO monitored?** PTO is not monitored, but we encourage managers to ensure their direct reports are taking at least the recommended minimum of 2 weeks off per year (and/or the statutory minimum in their region of residence). Time off is reported in regions where there is a statutory requirement to do so. 
  
 
 ## Holidays
