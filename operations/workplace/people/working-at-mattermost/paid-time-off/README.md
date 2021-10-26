@@ -18,7 +18,7 @@ Note: If you are taking [Pregnancy](../leaves-of-absence/pregnancy-leave.md) or 
 
 ### When you take time off \(full days only\) please do the following:
 
-1. Communicate your Paid Time Off (PTO) by booking time off in Bamboo > Time Off > Paid Time Off
+1. Communicate your Paid Time Off (PTO) by booking time off in **BambooHR > Time Off > Paid Time Off**.
 2. As long as you have entered your time off in Bamboo, and you have arranged for coverage while you are gone, you are able to take your vacation without it being approved in BambooHR. Consecutive days off in excess of 14 require manager approval in Bamboo prior to the vacation starting. 
 3. PTO covers any number of things - including vacations, stay-cations, moving days, bereavement, etc. 
 4. PTO is in addition to official public holidays in your region of residence. In some countries where there are statutory vacation requirements, public holidays are a supplementary entitlement. When entering a public holiday in **BambooHR > Time Off > Paid Time Off**, please indicate in the Notes section that it is a Public Holiday to distinguish it from vacation time. 
