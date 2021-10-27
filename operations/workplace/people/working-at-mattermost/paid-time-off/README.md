@@ -23,9 +23,9 @@ Note: If you are taking [Pregnancy](../leaves-of-absence/pregnancy-leave.md) or 
 3. PTO covers any number of things - including vacations, stay-cations, moving days, bereavement, etc. 
 4. PTO is in addition to official public holidays in your region of residence. In some countries where there are statutory vacation requirements, public holidays are a supplementary entitlement. 
 
-When entering a public holiday in **BambooHR > Time Off > Paid Time Off**, please indicate in the **Notes** section that it is a Public Holiday to distinguish it from vacation time. 
+When entering a public holiday, please enter these days in **BambooHR > Time Off > Public Holidays** to distinguish it from vacation time. 
 
-If time off is being taken for sickness, including physical and mental needs, please enter these days in **BambooHR > Sick Time**, to distinguish from other types of PTO. Follow the appropriate process according to the statutory requirements in your region of residence. If taking extended time off for medical leave or for other types of [leaves](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/leaves-of-absence), reach out to HR: hr@mattermost.com.
+If time off is being taken for sickness, including physical and mental needs, please enter these days in **BambooHR > Sick**, to distinguish from other types of PTO. Follow the appropriate process according to the statutory requirements in your region of residence. If taking extended time off for medical leave or for other types of [leaves](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/leaves-of-absence), reach out to HR: hr@mattermost.com.
 
 5. [Automatically direct Mattermost message replies](https://docs.mattermost.com/help/settings/account-settings.html#automatic-direct-message-replies) and set your [out-of-office email response](https://docs.mattermost.com/help/settings/account-settings.html#automatic-direct-message-replies). 
 6. Enjoy your time off!
