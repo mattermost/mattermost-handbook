@@ -1,8 +1,8 @@
- # Community Equity, Diversity, and Inclusion (EDI)
+# Community Equity, Diversity, and Inclusion (EDI)
  
 We're committed to purposefully designing EDI into every facet of our programs and operations. This section is meant to document tips and best practices that we strive to follow as we plan events and activities.
 
-### Event organization best practices
+## Event organization best practices
 
 1. **Tools:** We purposefully think about the tools we are using to engage our audience. For example, some people in the open source world may not be able to use tools that are proprietary software. Also, some people in certain countries may not be able to use certain tools because of country/region restrictions. Sending a survey beforehand with different tool options could help identify good tools to use for a specific event.
 2. **Timezones:** We try to be as inclusive of as many different timezones as possible.
