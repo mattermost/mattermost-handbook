@@ -1,4 +1,4 @@
-# Family & Friends Day
+# Family and Friends Day
 
 At Mattermost we care a lot about our communities: our customers, our open source contributors, our staff, and the friends and family that support our staff to do all that they do.
 
@@ -8,10 +8,11 @@ We want to be especially thoughtful on the topic in the time of Covid, economic 
 
 ## Upcoming Family and Friends Day
 
-* Friday, 5 November 2021
+TBA
 
 **Past Family and Friends Days**
 
+* Friday, November 5 2021
 * Monday, July 5 2021
 * Friday, July 2 2021 
 * Friday, May 28, 2021
@@ -43,4 +44,3 @@ Absolutely. Our [Paid Time Off process](https://handbook.mattermost.com/operatio
 **Do I still need to follow the** [**communicating time off process**](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#communicating-time-off) **for these days?**
 
 We can assume most team members will be off these days, but still recommend updating your out-of-office messages in Mattermost and email to reference the public announcement to Family and Friends Days, and indicate that you’ll return messages after the event.
-
