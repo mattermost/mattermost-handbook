@@ -1,8 +1,6 @@
  # Community Equity, Diversity, and Inclusion (EDI)
  
-We are committed to purposefully designing EDI into every facet of our programs and operations.
-
-This section is meant to document tips and best practices that we strive to follow as we plan events and activities.
+We're committed to purposefully designing EDI into every facet of our programs and operations. This section is meant to document tips and best practices that we strive to follow as we plan events and activities.
 
 ### Event organization best practices
 
