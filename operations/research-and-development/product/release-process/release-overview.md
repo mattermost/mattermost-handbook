@@ -129,7 +129,7 @@ The Release Manager is able to look at the version we have deployed to Mattermos
 
 **Process for merging the `master` branch into the `cloud` branch**
 
-* Every two weeks on a Monday, the Server team opens PRs in server, api-reference, and Enterprise branches to merge the `master` branch into the `cloud` branch \([example PR](https://github.com/mattermost/mattermost-server/pull/18916)\).
+* Every two weeks on a Monday, the Server Team opens PRs in server, api-reference, and enterprise repositories to merge the `master` branch into the `cloud` branch \([example PR](https://github.com/mattermost/mattermost-server/pull/18916)\).
    * Merge conflicts are fixed and release database version is bumped as needed.
 * For webapp branch, the current `cloud` branch is deleted and a new one is created from the ``master`` branch. A backup of the `cloud` branch is saved.
 * Devs and Release Manager should be aware of the dates when a `master` branch is merged into a `cloud` branch in order to be mindful of avoiding having incomplete features in a Cloud release, and to include bug fixes that we may want to include in a release.
