@@ -27,6 +27,9 @@ One of our ongoing initiatives is to ensure our documentation is written in natu
 
 In tabbed content the wording needs to be exactly the same across all instances, for consistency.
 
+"From Mattermost version 6.0..."
+"In Mattermost versions up to v5.39"
+
 ### UI/in-product content
 
 ### CTAs for Cloud
