@@ -204,9 +204,9 @@ The core team's Product Managers design, plan, prioritize, and coordinate featur
 * [**Stephen Van Hemmen**](core-committers.md)
   * @stephen.vanhemmen on [community.mattermost.com](https://community.mattermost.com/core/messages/@stephen.vanhemmen) and [@stephenvanhemmen](https://github.com/stephenvanhemmen) on GitHub
 * [**Chen Lim**](core-committers.md)
-  * @chen-i.lim on [community.mattermost.com](https://community.mattermost.com/core/messages/@katie.wiersgalla) and [@chenilim](https://github.com/chenilim) on GitHub
+  * @chen-i.lim on [community.mattermost.com](https://community.mattermost.com/core/messages/@chen-i.lim) and [@chenilim](https://github.com/chenilim) on GitHub
 * [**Winson Wu**](core-committers.md)
-  * @winson.wu on [community.mattermost.com](https://community.mattermost.com/core/messages/@katie.wiersgalla) and [@wuwinson](https://github.com/wuwinson) on GitHub
+  * @winson.wu on [community.mattermost.com](https://community.mattermost.com/core/messages/@winson.wu) and [@wuwinson](https://github.com/wuwinson) on GitHub
 
 ## Product Designers
 
