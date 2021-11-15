@@ -3,12 +3,11 @@
 The Sustained Engineering Team \(SET\) is responsible for improving and maintaining quality of the Mattermost products, as well as helping support with any issues they require engineering support with. Often, people in SET primarily play the role of first responders, then handing off to whichever engineering team best equipped to resolve an issue.
 
 ## Team Members
-
 SET is a rotating team that is comprised of engineers from the different engineering teams. The rotation is on a weekly cycle for engineers, and two-week cycle for leads.
 
 Who is currently on SET can be seen in the header of the [~Sustained Engineering](https://community.mattermost.com/core/channels/sustained-engineering) channel.
 
-Engineering teams will commit a total of 4 engineers plus a lead to SET for each rotation. While on SET, that engineer should attend their feature team's sprint planning, but it should be taken into account that any urgent SET-related issue may take them out of the regular day-to-day planned work. Plan appropriately.
+Engineering teams will commit a total of 4 engineers (two primaries for two time zones, two backups for two timezones) plus a lead to SET for each rotation. While on SET, that engineer should attend their feature team's sprint planning, but it should be taken into account that any urgent SET-related issue may take them out of the regular day-to-day planned work. How this is managed is up to the SET team member's engineering lead, some let them work on regular sprint work and accept the interruptions, others let them focus on fixing bugs to reduce the cost of context switching.
 
 ## Roles
 
@@ -20,12 +19,9 @@ The **SET Lead** is usually one of the engineering team's Engineering Leads. The
 
 The SET Lead is also on call \(via OpsGenie\), and is escalated to whenever neither the SET primary nor SET backup acknowledge an issue in the appropriate time.
 
-There is a weekly technical escalations call ("Weekly Escalated Accounts Discussion") on Wednesdays that the SET Lead is supposed to attend as well. If you are not yet invited to this call, please reach out to [Zef Hemel](https://community.mattermost.com/core/messages/@zefhemel) on community.
+We use a Mattermost Playbook to run the SET cycle. For this, the SET Lead creates a new run of the [SET Cycle](https://community-daily.mattermost.com/playbooks/playbooks/w36ro78cgj8qtjq5mf6say7bxe/preview) playbook and follows the steps as codified by the playbook. **Note:** Running this playbooks requires the SET Lead to have priviledges to create public channels on the "Contributors" team at community, if you do not have this, request it in the [Community Configuration](https://community-daily.mattermost.com/core/channels/community-configuration) channel.
 
-The **SET Primary** is usually an engineer from one of the engineering teams. The SET Primary is the first person to respond to any issues escalated. There are two ways to respond to an issue:
-
-1. Handle the issue itself, e.g. by implementing a fix, answering a question.
-2. Hand off the issue to the appropriate team or person.
+The **SET Primary** is usually an engineer from one of the engineering teams. The SET Primary is the first person to respond to any issues escalated. Escalation primarilly happens through the "Sustained Engineering" channel or OpsGenie in cases of time urgency.
 
 The **SET Backup** is usually an engineer from one of the engineering teams. In the case that the SET Primary is not available or unresponsive, the SET backup temporarily takes over. In certain situations it may also be required for the primary to ask for help to the backup.
 
@@ -38,13 +34,12 @@ Work for SET comes from various sources:
 3. The [~Sustained Engineering](https://community-daily.mattermost.com/core/channels/sustained-engineering) channel. Support may use this channel to ask questions or raise urgent issues.
 4. The [~Ask R&D](https://community-daily.mattermost.com/core/channels/ask-r-and-d) channel. This is the place where support and community can ask any type of R&D related questions.
 
-## Triage
+When a new issue is raised, it is the SET primary's duty to:
 
-SET triages [SET tickets](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=33) asynchronously and also helps the Release Manager to
-
-* Help route new unassigned tickets to the appropriate engineering team.
-* Assign bugs to SET when there is no clear engineering team owner.
-* Make sure reported bugs are in fact bugs and recommend turning non-bugs into stories or feature requests.
+1. Understand the customer impact and priority of the issue (if required with the help of the SET lead, or relevant product managers). If the issue is really a feature request or low-urgency bug, a JIRA ticket is filed and assigned to the appropriate team. In that case, the SET responsibilities end here. In case of higher-impact issues, the steps continue:
+2. Investigate to understand the source of the issue.
+3. Prepare a "hand-off package" including (where relevant): logs, Grafana snapshots, and above all a clear description of what the issue is ready to be acted on by the responsible team.
+4. Hand-off the issue to the team who owns the problematic part of the product. Of course, if the issue is in the scope of expertise of the SET engineers, they handle the issue themselves.
 
 ## Priority of Work
 
