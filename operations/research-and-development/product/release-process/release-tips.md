@@ -1,5 +1,17 @@
 # Release Tips
 
+**Bug Bashes**
+
+* Run a bug bash at least for major releases.
+* Bug bashes can either be run asynchronously/individually or as a group.
+* Use a Playbook to run bug bashes - [example bug bash Playbook](https://community.mattermost.com/playbooks/playbooks/raxoo6hua3gpdpthaqmpmdzptw/edit).
+  * PMs can assign test assignments and testers under the "Testing areas" checklist item.
+* Decide environments to test on - normally community-daily or rc.test.mattermost.com + include Mobile and Desktop app environments.
+* Decide date(s) for the bug bash.
+* Announce bug bash on the day when the bug bash starts.
+* Invite community members to participate in the bug bash.
+* Triage owner (normally release manager) - review reported issues to identify what to fix for the upcoming release and open/assign tickets to teams.
+
 **Changelog Checklist**
 
 * Features
