@@ -82,6 +82,7 @@
     * [Product Management Team Handbook](operations/research-and-development/product/product-management-team-handbook/README.md)
       * [Product Management Areas of Ownership](operations/research-and-development/product/product-management-team-handbook/product-ownership-areas.md)
       * [Product Manager Onboarding](operations/research-and-development/product/product-management-team-handbook/pm-onboarding.md)
+      * [Product Manager Levels](operations/research-and-development/product/product-management-team-handbook/pm-levels.md)
     * [Technical Writing Team Handbook](operations/research-and-development/product/technical-writing-team-handbook/README.md)
       * [Technical Writer Levels](operations/research-and-development/product/technical-writing-team-handbook/writer-levels.md)
       * [Docathon 2021](operations/research-and-development/product/technical-writing-team-handbook/docathon-2021/README.md)
