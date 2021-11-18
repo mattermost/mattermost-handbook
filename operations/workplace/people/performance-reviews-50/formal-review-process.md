@@ -12,13 +12,15 @@ Before each review cycle, Managers read the performance review chapter in High O
 
 ## Feedback panel requests
 
-Managers will select peers in Culture Amp who can most effectively provide feedback on achievements and performance over the past year \(this can include upward feedback for people managers. Depending on the role, PT Staff and community members may be solicited to provide feedback in addition to the peer panel selected in Culture Amp\). Managers should log in to Culture Amp, go to **my team &gt; request team feedback** and determine the peer panels for each direct report. More information for managers on selecting peer panels is available [here](https://academy.cultureamp.com/hc/en-us/articles/360003789699-Request-team-feedback).
+All FT staff partcipating in the review cycle will receive a notification via email as well as a task in your Culture Amp inbox inviting you to nominate peers for feedback. To get started, click **complete nominations** from the task and search for the peers you'd like to nominate. (Note that Culture Amp pulls its information directly from BambooHR, so legal names will appear in Culture Amp. If you can't find a peer, please reach out to hr@mattermost.com). Confirm nominations by selecting **send nominations**. We recommend selecting 3-6 peers who can effectively provide feedback on achievements and performance over the past 6 months. Peer nomination selections will be sent to your manager to be finalized. More information on peer nominations and deciding who to nominate is available [here](https://support.cultureamp.com/hc/en-us/articles/360016973880-Performance-Review-Cycle-Guide-for-Managers-and-Employees). 
+
+Once your direct report has completed their nominations, Managers will receive an email and a task in your Culture Amp inbox. You are able to either (a) accept your direct report's nominations and immediately send feedback requests to their peer selection, or (b) edit their nominations or add new peers for additional feedback. Depending on the role, PT Staff and community members may be solicited to provide feedback in addition to the peer panel selected in Culture Amp.To complete, select **schedule requests**. Your requests will be scheduled to be sent when the feedback stage starts. Managers may return to this page to send more requests up until the end of the feedback stage. More information for managers on selecting peer panels is available [here](https://academy.cultureamp.com/hc/en-us/articles/360003789699-Request-team-feedback).
 
 Prior to selecting peer panels and writing performance reviews for their direct reports, managers should take the Culture Amp training available [here](https://www.cultureamptraining.com/performance-for-managers).
 
 ## Peer feedback
 
-Managers will select the peer panels in Culture Amp. To get started, log in to Culture Amp and navigate to your **task list** where you'll find requests for peer or upward feedback. On average, teammates should be completing feedback surveys for 3 - 6 of their peers.
+Staff who have received peer feedback requests will receive an email and a task in their Culture Amp inbox. To complete the request, click **give feedback**. Peers may decline the request based on bandwidth (more than 5 peer feedback requests), if they have give feedback in the previous review cycle and feel that their feedback would be duplicative, or if they don't have feedback to share. 
 
 ## Self reflection
 
