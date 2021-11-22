@@ -13,18 +13,16 @@ Table of contents
 
 # Set up VPN access on Pritunl
 
-### Viscosity client   
+### Viscosity client
+
 1. Install a VPN client that supports DNS settings such as Visocity.
 
 ```bash
 brew cask install viscosity
 ```
 
-2. Go to the [VPN server](https://pritunl.core.cloud.mattermost.com) and select **Sign in with OneLogin**. 
-Then connect with your OneLogin username and password and when prompt put the OTP (One Time Password).
-Select `Show More` and hit `Download Profile` 
+2. Go to the [VPN server](https://pritunl.core.cloud.mattermost.com) and select **Sign in with OneLogin**. Then connect with your OneLogin username and password and when prompt put the OTP (One Time Password). Select `Show More` and hit `Download Profile` 
 <span style="display:block;text-align:center;width:40%">![Pritunl User Profiles](/img/vpn_cloud_4.png)</span>
-
 
 3. Open the Viscosity application or your preferred VPN client and go to settings/preferences.
    
@@ -47,10 +45,9 @@ Select `Show More` and hit `Download Profile`
 
 7. After following these steps you should be able to connect to VPN and then to resolve private DNS entries.
 
+### Pritunl client
 
-### Pritunl client   
-1. Go to the [VPN server](https://pritunl.core.cloud.mattermost.com) and select **Sign in with OneLogin** 
-Then connect with your OneLogin username and password and when prompt put the OTP (One Time Password).
+1. Go to the [VPN server](https://pritunl.core.cloud.mattermost.com) and select **Sign in with OneLogin**. Then connect with your OneLogin username and password and when prompt put the OTP (One Time Password).
 
 2. Select `Download Client` which will redirect you to download the Pritunl Client. 
 
@@ -82,7 +79,8 @@ Then connect with your OneLogin username and password and when prompt put the OT
 
 8. After following these steps you should be able to connect to VPN and resolve private DNS entries.
 
-## Gnome VPN Client
+## Gnome VPN client
+
 1. Go to the [VPN server](https://pritunl.core.cloud.mattermost.com) and select **Sign in with OneLogin**.
 
 2. Connect with your OneLogin username and password and when prompted input the OTP (One Time Password).
@@ -107,8 +105,7 @@ Then connect with your OneLogin username and password and when prompt put the OT
 
 12. From now on, enable the VPN through the taskbar picker in the upper right corner of Gnome.
 
-## Older Setup of VPN access on OpenVPN
-
+## Older setup of VPN access on OpenVPN
 
 1. Login to the [VPN server](https://vpn.cloud.mattermost.com) using your mattermost email and OneLogin password. Please select `connect` instead of `login` on the drop down menu. 
    * If login fails, ask Cloud team to check if your username is in the correct group
