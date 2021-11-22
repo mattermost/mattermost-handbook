@@ -1,4 +1,3 @@
-# AWS
 
 Most of our infrastructure is hosted in AWS.
 
