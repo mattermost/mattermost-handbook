@@ -6,6 +6,8 @@ description: >-
 
 # Mattermost Leadership Team \(MLT\)
 
+## Mattermost Leadership Team \(MLT\)
+
 This section outlines:
 
 * Introduction to MLT
@@ -13,7 +15,7 @@ This section outlines:
 * Process for alignment and cascading communications
 * Process for quarterly business reviews, planning, and board meetings
 
-## Introduction to MLT
+### Introduction to MLT
 
 * Ian Tien: Co-Founder and CEO
 * Corey Hulen: Co-Founder and CTO
@@ -22,13 +24,13 @@ This section outlines:
 * Barry Duplantis: VP, Customer Success
 * Matt Harper: VP, Marketing
 
-# MLT Cadence
+## MLT Cadence
 
-## Biweekly Business Review (BBR)
+### Biweekly Business Review \(BBR\)
 
 **Biweekly Tuesdays 10:00am to 10:50am Palo Alto time with MLT**
 
-**Required attendees: MLT + extended team (TBD)**
+**Required attendees: MLT + extended team \(TBD\)**
 
 The purpose of BBR is to review the health of the business by reviewing our goals dashboard, identifying key risks/challenges/issues, and identifying owners for actions. Discussions held in [MLT BBR Channel](https://community.mattermost.com/private-core/channels/bbr).
 
@@ -49,10 +51,10 @@ The purpose of BBR is to review the health of the business by reviewing our goal
   * Create new action items and assign to owners in Asana 
 * **\(0:25\) 2x2 Business Review:** Review WBR 2x2 document summarizing:  
   * State of the business
-    * Key business metrics (ARR, churn, customer count, health score)
+    * Key business metrics \(ARR, churn, customer count, health score\)
     * Big updates from Sales, R&D, Marketing, Finance, etc.
   * Issues/Challenges/Risks
-    * Key customer issues (at-risk customers, deals, etc.)
+    * Key customer issues \(at-risk customers, deals, etc.\)
     * Key R&D risks/challenges/issues
     * Key marketing risks/challenges
   * Goals
@@ -61,7 +63,7 @@ The purpose of BBR is to review the health of the business by reviewing our goal
   * Upcoming marketing milestones and dates
 * **\(0:55\) Decisions/Actions:** Summarize decisions/actions in writing 
 
-## MLT Weekly Executive Meeting 
+### MLT Weekly Executive Meeting
 
 **Tuesdays 9:00am to 9:50pm Palo Alto time with MLT**
 
@@ -71,11 +73,11 @@ The purpose of the MLT Weekly Executive Meeting is to discuss MLT topics like CE
 
 Ian to moderate through Asana.
 
-## MLT Weekly Deep Dive Meeting
+### MLT Weekly Deep Dive Meeting
 
 **Wednesdays 9:00am to 10:30am Palo Alto time with MLT**
 
-**Required attendees: MLT only + extended team (as appropriate by topic)**
+**Required attendees: MLT only + extended team \(as appropriate by topic\)**
 
 The purpose of this new MLT Weekly Deep Dive series is to achieve a deeper understanding and clarity on functional areas and/or strategic topics through reviews, discussions, and decisions.
 
@@ -83,18 +85,18 @@ Topics are queued in a [central spreadsheet](https://docs.google.com/spreadsheet
 
 #### Pre-work
 
-* (Vice-Chair) Agenda drafted based on queued topics in a central Google Doc
-* (Owner) Prepare narrative document for the meeting
+* \(Vice-Chair\) Agenda drafted based on queued topics in a central Google Doc
+* \(Owner\) Prepare narrative document for the meeting
 
 #### Process
 
 * Two slots of 45 minutes each. Typically two topics - one for each slot. However, bigger topics can occupy two slots
 * MLT reviews document for the first 15 minutes; discusses for the next 25 minutes to reach any decisions for clarity and closure
-* (Five minutes before end of slot) Decisions/actions are summarized
+* \(Five minutes before end of slot\) Decisions/actions are summarized
 
 **These meetings are cancelled if no topics are raised.**
 
-## MLT Planning
+### MLT Planning
 
 The purpose of target setting is to confirm targets, plan and budget for MLT departments for the period.
 
@@ -165,16 +167,16 @@ The following should happen within a 2 week period, with 1 - 2 iterations in eac
 * Department V2MOMs are posted
 * MLT presents company plan to their departments
 
-## Quarterly Business Review \(QBR\)
+### Quarterly Business Review \(QBR\)
 
 Each quarter we review process towards our V2MOMs and discuss achievements and opportunities. The QBR is an exercise to increase output through concise, efficient review of quarterly goals for company and department in the context of V2MOMs.
 
 **Time and people**
 
 * Scheduled 1 week after quarter end and can be broken out into:
-    * 90 mins for Sales QBR (30 mins for each region)
-    * 45 mins CS QBR
-    * 2 hours for MLT QBR (30 mins each for Product, Engineering, G&A, and Marketing)
+  * 90 mins for Sales QBR \(30 mins for each region\)
+  * 45 mins CS QBR
+  * 2 hours for MLT QBR \(30 mins each for Product, Engineering, G&A, and Marketing\)
 
 **Prior to meeting**
 
@@ -197,7 +199,7 @@ Each quarter we review process towards our V2MOMs and discuss achievements and o
 
 As reviews happen, follow-up items are noted in RAPID format and meetings scheduled based on RAPID assignments.
 
-## Board Meetings
+### Board Meetings
 
 * Between 21st and end of the month
 * Scheduled 18 months in advance
@@ -215,7 +217,7 @@ As reviews happen, follow-up items are noted in RAPID format and meetings schedu
 1. 25 minute debrief scheduled with each board member same day or the day after board meeting via their admins
 2. One hour debrief with MLT scheduled same day after board meeting
 
-## Fiscal Year Planning \(1%\) <a id="fiscal-year-planning"></a>
+### Fiscal Year Planning \(1%\) <a id="fiscal-year-planning"></a>
 
 Preparation for the annual plan and budget for the next fiscal year begins in the second half of the current fiscal year.
 
@@ -262,3 +264,4 @@ V2MOMs, quarterly plans, and proposed orgs are reviewed by MLT. Use the followin
 * Measures
 
 MLT shares feedback on each V2MOM and quarterly plan. Cross-department dependencies documented.
+

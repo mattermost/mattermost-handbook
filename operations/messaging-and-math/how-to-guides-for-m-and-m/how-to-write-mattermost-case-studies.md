@@ -2,7 +2,7 @@
 description: 50% draft
 ---
 
-# How to write Mattermost case studies
+# How to write Mattermost Case Studies
 
 ## Case Studies
 
@@ -13,7 +13,9 @@ This document outlines some of the procedures and materials in developing an eff
 Case studies are valuable for any audience, but for technical audiences they provide a great opportunity to show off the potential value of your product to an audience that often bristles at conventional marketing. With that in mind, here are a few things to focus on when creating case studies for developers, security architects, quality engineers, and other technical buyers:
 
 * **Context matters.** Capturing the broader landscape of our customers’ workflow and tooling, and how Mattermost fits into that landscape is essential.
-Don’t forget time to value. Technical folks know that a new tool isn’t often something that will be ready to use “out of the box,” so case studies can be a good place to show that set up and maintenance won’t be a major issue.
+
+  Don’t forget time to value. Technical folks know that a new tool isn’t often something that will be ready to use “out of the box,” so case studies can be a good place to show that set up and maintenance won’t be a major issue.
+
 * **Get the right people in the room.** The value that a CTO gets from a product and the value that a developer gets can be very different conversations. If you’re not speaking with the right person, you might get a lot of vague answers to key questions.
 
 Taken from Ashley’s guide to [Writing Case Studies for a Technical Audience](https://docs.google.com/document/d/18UL7LNOIcYkZ4NEF-aeDfhXDq7pyoSvwvEq9hmLrKks/edit#) for Heavybit.
@@ -21,7 +23,7 @@ Taken from Ashley’s guide to [Writing Case Studies for a Technical Audience](h
 ### Case Study Requirements
 
 Our goal with case studies is to highlight our most successful customers and share how they're benefiting from using Mattermost. Our general requirements:
- 
+
 * Customer has completed a deployment of Mattermost.
 * Customer’s use case aligns with a use case we want to emulate.
 * Customer has been actively using Mattermost for at least three months.
@@ -45,70 +47,70 @@ The process is approximately as follows:
    * Creates a draft blog post  to promote the case study in WordPress. The draft is then reviewed for formatting, grammar, and other [style guidelines](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines).
    * Drafts social media posts to promote the case study.
 8. The blog post is then published and may be used in other marketing materials to share the benefits of a Mattermost solution with other potential customers.
-  * The case study coordinator follows up with the customer to share a link to the final case study, thank them for participating, and encourage them to share on their company's social channels.
+   * The case study coordinator follows up with the customer to share a link to the final case study, thank them for participating, and encourage them to share on their company's social channels.
 9. Case study owner writes a description of the case study with key details, to be shared with Sales, Customer Success, and other teams.
-  * Ex. “We’re excited to introduce our latest case study with Worldline. Worldline first started using Mattermost because they needed a more secure alternative to Slack. Mattermost gives Worldline a central collaboration space that its distributed team uses to find information, organize projects, and speed up development workflows using the Mattermost GitLab plugin.”
-  
+   * Ex. “We’re excited to introduce our latest case study with Worldline. Worldline first started using Mattermost because they needed a more secure alternative to Slack. Mattermost gives Worldline a central collaboration space that its distributed team uses to find information, organize projects, and speed up development workflows using the Mattermost GitLab plugin.”
+
 ### Customer Questionnaire
 
 The below customer questionnaire template helps us gather information to share with the Mattermost community on your business, your needs, and how Mattermost can help serve your organization.
 
 > We’d love your help answering some of these questions, either in email or over a phone call or video conference, to prepare a case study draft for your organization’s review and approval.
-
+>
 > Please contact your Mattermost Marketing contact to get started.
-
+>
 > #### Business Information
-
+>
 > Help us understand your current company’s challenges and goals, and how they fit into the landscape of your industry.
-
+>
 > * How long have you been in business?
 > * How many employees do you have?
 > * What are some of the objectives of your department at this time?
-
+>
 > #### Need
-
+>
 > Please help share some context on the need for a solution.
-
+>
 > * What did your processes/workflow look like before using Mattermost?
 > * What challenges and objectives led you to look for a solution?
 > * What might have happened if you didn't identify a solution?
 > * Did you explore other solutions prior to this that didn't work out? If so, what happened?
-
+>
 > #### Decision Process
-
+>
 > Help us understand how you arrived at a decision to use Mattermost \(this will help other potential customers through their own process\).
-
+>
 > * How did you hear about our product or service?
 > * Who was involved in the selection process?
 > * What was most important to you when evaluating your options?
-
+>
 > #### Implementation
-
+>
 > We’re very interested in learning about your onboarding procedure.
-
+>
 > * How long did it take to get up and running?
 > * Did that meet your expectations?
 > * Who was involved in the process?
-
+>
 > #### Solution in Action
-
+>
 > Please share how the solution is used today.
-
+>
 > * Is there a particular aspect of the product or service that you rely on most?
 > * Who is using the product or service?
 > * What are some of the top use cases for the solution?
 > * What other software/tools do you use as part of your workflow? What integrations do you have with Mattermost?
-
+>
 > #### Results
-
+>
 > Please share the most impressive measurable outcomes you can think of – the more numbers, the better.
-
+>
 > * How is the product or service helping you save time and increase productivity?
 > * In what ways does that enhance your competitive advantage?
 > * How much have you increased key metrics, such as reducing response time, time-to-resolution, and reducing time spent in meetings?
-
+>
 > If you’re completing the questionnaire by email, please send a copy of the questions completed above to your Mattermost Marketing contact for next steps.
-
+>
 > Thank you so much for being part of our community!
 
 ### Case Study Interview Process
@@ -157,7 +159,7 @@ We do our best to make case studies as quick and straightforward as possible. In
 * 30 min case study interview.
 * 1-2 rounds of case study draft review.
 
-If you have limited availability during a case study cycle (preparing for a big release, stakeholders on vacation, etc) please let us know and we’ll do our best to accommodate your schedule or revise our process.
+If you have limited availability during a case study cycle \(preparing for a big release, stakeholders on vacation, etc\) please let us know and we’ll do our best to accommodate your schedule or revise our process.
 
 **Will I have a chance to review the case study before it goes live?**
 
@@ -180,3 +182,4 @@ Please let your CSM know if you'd like us to remove your case study. Note that i
 **I really love using Mattermost! Are there other customer programs I can participate in?**
 
 We love featuring our users as guest contributors on our blog and as collaborators on webinars. If you’re interested in sharing more of your experience with our community, please let us know!
+

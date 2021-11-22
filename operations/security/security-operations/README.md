@@ -1,4 +1,8 @@
 ---
 description: >-
-    0% complete - Explanation of Security Operations's role and processes in the company.
+  0% complete - Explanation of Security Operations's role and processes in the
+  company.
 ---
+
+# Security Operations
+

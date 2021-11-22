@@ -16,7 +16,7 @@ We are currently focused on:
 
 ## Q2FY21 Priorities
 
-![](../../../.gitbook/assets/analytics_q2.png)
+![](../../../../.gitbook/assets/analytics_q2.png)
 
 ## Automating Mattermost Business Metrics
 

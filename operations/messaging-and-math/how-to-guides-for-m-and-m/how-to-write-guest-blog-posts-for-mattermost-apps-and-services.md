@@ -28,3 +28,4 @@ Follow these guidelines to develop a clear and concise guest blog post:
 * At the end of the post, include a short summary of the guest company as well as a call for readers to share feedback.
 * Also, refer to [style guidelines](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines) while writing the article.
 * Choose a relevant visual for the blog post, such as a photo of the author or the guest company’s building.
+
