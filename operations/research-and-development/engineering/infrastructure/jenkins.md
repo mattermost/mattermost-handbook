@@ -1,4 +1,3 @@
-# Jenkins
 
 ### [build.mattermost.com](https://build.mattermost.com/)
 
