@@ -1,4 +1,3 @@
-# Add plugin
 
 To add a plugin to https://community.mattermost.com, you need to do the following:
 
