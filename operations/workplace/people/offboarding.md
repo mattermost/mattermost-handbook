@@ -20,8 +20,9 @@
    * If needed, provide context on what led to the staff member’s resignation.
    * Confirm who will be taking over staff member’s responsibilities in the interim.
 5. Termination Retrospective with HR or Team MLT. This is not a formal [retrospective](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-do-a-post-escalation-post-mortem), but is an opportunity to understand how to improve as a function, team, and company. HR may initiate this during Step 3, and will also request Manager feedback on:
-   * Confirm rehire eligibility \(if resignation was regrettable, not regrettable\).
-   * Confirm whether a backfill is required. If yes, follow instructions to [open a new role](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#how-to-open-a-new-role).
+  * Confirm rehire eligibility (if resignation was regrettable, not regrettable).
+  * Confirm whether a backfill is required. If yes, follow instructions to [open a new role](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#how-to-open-a-new-role).
+6. Update the Handbook: If applicable, update your team list and any content that may include outdated contact information.
 
 Thank the departing staff member for their contributions and wish them the best for the future. Every person that joins Mattermost is part of the team and welcome to join our [Community](https://mattermost.com/community/) and stay in touch in whatever capacity feels most comfortable.
 
