@@ -195,6 +195,8 @@ The core team's Product Managers design, plan, prioritize, and coordinate featur
   * @aaron.rothschild on [community.mattermost.com](https://community.mattermost.com/core/messages/@aaron.rothschild) and [@aaronrothschild](https://github.com/aaronrothschild) on GitHub
 * [**Chen Lim**](core-committers.md)
   * @chen-i.lim on [community.mattermost.com](https://community.mattermost.com/core/messages/@chen-i.lim) and [@chenilim](https://github.com/chenilim) on GitHub
+* [**Don Hogan**](core-committers.md)
+  * @don.hogan on [community.mattermost.com](https://community.mattermost.com/core/messages/@don.hogan) and [@dontoisme](https://github.com/dontoisme) on GitHub
 * [**Eric Sethna**](core-committers.md)
   * @eric on [community.mattermost.com](https://community.mattermost.com/core/messages/@eric) and [@esethna](https://github.com/esethna) on GitHub
 * [**Ian Tao**](core-committers.md)
