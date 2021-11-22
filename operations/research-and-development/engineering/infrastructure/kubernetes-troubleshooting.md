@@ -1,4 +1,4 @@
-# Kubernetes Maintenance"
+# Kubernetes Maintenance
 
 This page helps developers access and perform any type of maintenance in the Production Mattermost Kubernetes Cluster, which is running on AWS using EKS.
 
