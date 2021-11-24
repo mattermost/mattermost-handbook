@@ -48,9 +48,9 @@ When facing a high impact problem without a simple and obvious solution, focus y
 
 ## Emotion, Assumption, and Priority
 
-Consider when two rational people disagree, the cause often comes from one of three areas:
+Consider when rational people disagree, the cause often comes from one of three areas: emotion, assumption and priority. Understanding the underlying difference in thinking can help us get to agreement faster: 
 
-1. **Emotion:** There could be an **emotion** biasing the discussion. Just asking if this might be the case can clear the issue. It’s okay to have emotions. We are humans, not robots.
+1. **Emotion:** Is there a strong emotion biasing the discussion? Talking through that emotion can often solve an issue. It’s okay to have emotions. We are humans, not robots.
 2. **Assumption:** People may have different underlying **assumptions** \(including definitions\). Try to understand each other’s assumptions and get to agreement or facts when you can.
 3. **Priorities:** Finally, people can have different **priorities**. When everyone’s priorities are shared and understood it’s easier to find solutions that satisfy everyone’s criteria.
 
