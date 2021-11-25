@@ -172,7 +172,7 @@ The full list of R&D teams is available [here](https://docs.google.com/spreadshe
 
 Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the Doc Up plugin embedded in the post menu.
 
-![Access the Doc Up plugin by hovering over a message and clicking the &quot;...&quot; menu.](../../../.gitbook/assets/doc-up-plugin.png)
+Access the Doc Up plugin by hovering over a message and selecting the ***...*** menu.
 
 When you select Doc Up and choose **Admin** as the issue type, an issue is generated in the GitHub docs repo, and added to the issues list. An update is listed in the Documentation channel, with the issue link.
 
