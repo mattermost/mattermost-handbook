@@ -1,6 +1,6 @@
 ---
 description: >-
-    0% complete - Explanation of the Plugin Security Review Process
+    90% complete - Guidelines for Engineering staff working on Security issues
 ---
 
 # Working on security-sensitive Pull Requests
