@@ -42,6 +42,34 @@ When developing a fix for a security issue, bear in mind that the code, comments
 
 **When commenting on your code**, keep references to security issues to a minimum. For example: If it's necessary to highlight that a non-obvious validation check is necessary for security, avoid the following:
 
+<table>
+<tr><td><h1 title="Not like this!">❌</h1></td><td>
+
+```Go
+// Do not remove! This check prevents a security issue!
+if url.Opaque != "" {
+    return "", errors.New("malformed URL");
+}
+```
+
+</td></tr>
+</table>
+
+Instead refer to the ticket ID or some other opaque identifier only:
+
+<table>
+<tr><td><h1 title="This is better!">✅</h1></td><td>
+
+```Go
+// See MM-1234
+if url.Opaque != "" {
+    return "", errors.New("malformed URL");
+}
+```
+
+</td></tr>
+</table>
+
 With the latter, any other staff member or your future self can still easily find the context, but you avoid pointing out to would-be attackers that the change is critical for security.
 
 **When developing unit/e2e tests**, do not use the Proof-of-Concept (PoC) exploits received from the security team or documented on the vulnerability ticket as-is: the purpose of these PoCs is to clearly demonstrate the security issue and its implications, which often means they are very easy to "weaponize". Instead, test the intended functionality using more benign payloads. For example in the case of a Cross-Site Scripting (XSS) issue resulting from missing HTML special character escaping, test the fix using sets of individual characters or garbage input instead of a full XSS payload. If you are unsure about your approach to testing, ask the Security team!
