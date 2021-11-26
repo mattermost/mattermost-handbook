@@ -42,33 +42,25 @@ When developing a fix for a security issue, bear in mind that the code, comments
 
 **When commenting on your code**, keep references to security issues to a minimum. For example: If it's necessary to highlight that a non-obvious validation check is necessary for security, avoid the following:
 
-<table>
-<tr><td><h1 title="Not like this!">❌</h1></td><td>
-
-```Go
+{% hint style="danger" %}
+```go
 // Do not remove! This check prevents a security issue!
 if url.Opaque != "" {
     return "", errors.New("malformed URL");
 }
 ```
-
-</td></tr>
-</table>
+{% endhint %}
 
 Instead refer to the ticket ID or some other opaque identifier only:
 
-<table>
-<tr><td><h1 title="This is better!">✅</h1></td><td>
-
-```Go
+{% hint style="success" %}
+```go
 // See MM-1234
 if url.Opaque != "" {
     return "", errors.New("malformed URL");
 }
 ```
-
-</td></tr>
-</table>
+{% endhint %}
 
 With the latter, any other staff member or your future self can still easily find the context, but you avoid pointing out to would-be attackers that the change is critical for security.
 
