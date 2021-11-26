@@ -1,8 +1,3 @@
----
-description: >-
-    90% complete - Guidelines for Engineering staff working on Security issues
----
-
 # Working on Security-sensitive Pull Requests
 
 ## Overview
