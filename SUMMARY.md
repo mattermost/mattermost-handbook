@@ -182,7 +182,7 @@
     * [Data Deletion Requests](operations/security/privacy/data-deletion-requests.md)
     * [Data Subject Access Requests](operations/security/privacy/data-subject-access-requests.md)
   * [Product Security](operations/security/product-security/README.md)
-    * [Working on security-sensitive pull requests](operations/security/product-security/working-on-sensitive-prs)
+    * [Working on Security-sensitive Pull Requests](operations/security/product-security/working-on-sensitive-prs.md)
   * [Security Operations](operations/security/security-operations/README.md)
     * [User Guides](operations/security/security-operations/user-guides.md)
 * [Workplace](operations/workplace/README.md)
