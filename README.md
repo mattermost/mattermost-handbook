@@ -12,6 +12,8 @@ Some norms you'll see here in the Handbook:
 
 ## Growing companies are a work-in-progress
 
+Make a test change here.
+
 It's Day 1 at Mattermost. We're a growing company and growing open source project out to support the massive transformation underway as open source software unlocks the massive potential of people and teams around the world. As an open source company we like to share early. Sharing ideas early gets us feedback sooner, so we can iterate faster, so we can better results.
 
 On some pages, you'll see reference to [1% and 50% drafts](company/about-mattermost/mindsets.md#drafts-at-1-50-99). This is used to express how complete our thinking is around the published content, and indicate whether fundamental changes may be made.
