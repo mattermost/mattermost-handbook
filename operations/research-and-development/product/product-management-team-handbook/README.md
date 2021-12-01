@@ -317,7 +317,7 @@ Product Managers are mentioned to assist in answering product question escalatio
       <td style="text-align:left">
         <p>Senior PM Managers</p>
         <p>All PMs</p>
-        <p>Release Manager</p>
+        <p>Release Manager, Head of UX</p>
       </td>
       <td style="text-align:left">
         <p>Update progress on features for current release</p>
@@ -350,7 +350,7 @@ Product Managers are mentioned to assist in answering product question escalatio
   </tbody>
 </table>
 
-### Monthly Product:Sales call
+### Monthly Roadmap Call
 
 <table>
   <thead>
@@ -371,9 +371,9 @@ Product Managers are mentioned to assist in answering product question escalatio
       </td>
       <td style="text-align:left">
         <p>PMs share roadmap highlights: Focus is on features with clear release
-          timelines, and a clear benefit to customers, so Sales knows what is coming
+          timelines, and a clear benefit to customers, so GTM knows what is coming
           up soon they can talk to customers about.</p>
-        <p>Demos, PRFAQs, and designs are shared as needed to illustrate the benefits</p>
+        <p>Demos, 1-pagers and designs are shared as needed to illustrate the benefits</p>
         <p>Open Q&amp;A</p>
       </td>
       <td style="text-align:left">Monthly meeting on 1st Monday of the month from 9:00am - 10:00am Palo
