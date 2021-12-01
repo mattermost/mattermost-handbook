@@ -1,6 +1,6 @@
 # Corporate Credit Card Policy
 
-## Corporate Credit Card Oath
+## Corporate credit card oath
 
 It is the expectation that each corporate cardholder will act responsibly and in good faith, treating the possession and use of the credit card as a right and not a privilege. Failure to spend company money within reason could result in privileges being revoked.
 
@@ -15,13 +15,13 @@ As a cardholder, you are the primary individual responsible for the card. You ar
 * All charges incurred have a corresponding receipt with a description of the business expense to justify the purpose. If you have an executive assistant facilitating your reports please provide them with your receipts.
 * Expense reports with corporate credit card expenses will be submitted with an expense timely but no later than the last day of the month, and a minimum once a month. It is however recommended to submit more often than once a month to avoid a backlog and administrative burdens.
 
-## Submitting Corporate Credit Card Expense Reports
+## Submitting corporate credit card expense reports
 
 Corporate credit cards have a direct link to Expensify allowing transactions to automatically push from American Express to Expensify the day after a purchase is made, each as an individual expense under the [Mattermost, Inc - AMEX & Chase Policy](https://www.expensify.com/policy?policyID=514F68463D6C2397). If you do not see a known credit card transaction, reach out to the [Purchases Channel](https://community.mattermost.com/private-core/channels/purchases) and a member from the Finance team can manually push these from American Express to Expensify.
 
 All expenses incurred in the month should be properly categorized. As corporate cards are used for large business-related expenses, there are several more categories available under the [Mattermost, Inc - AMEX & Chase Policy](https://www.expensify.com/policy?policyID=514F68463D6C2397) than all other policies.
 
-## Fraudulent Charges
+## Fraudulent charges
 
 If an erroneous or fraudulent charge is discovered on a corporate card, it is the staff member's responsibility whose name the card is under, to promptly and with urgency dispute the charge. Below are the steps to follow:
 
