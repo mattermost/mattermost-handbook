@@ -1,5 +1,7 @@
 # List of Terms
 
+Please also see [List of Mattermost Acronyms](https://community.mattermost.com/plugins/focalboard/workspace/orw8z8yajpd9fgxtuijq31eqkh/shared/bemqt6wf847fsdjoeobkor8ucye/v4mxkwwfzw38jicn8a1tsze8mja?r=kneszyxxkixzc45wq5ebjna15eo) for abbreviated terms. 
+
 ## Current Terms
 
 The following lists current terms actively used at Mattermost. You can also see [Tombstoned Terms](list-of-terms.md#tombstoned-terms) for terms that have either been modified or deprecated. We use Tombstoned Terms to preserve links to previous definitions so clarity is maintained.
