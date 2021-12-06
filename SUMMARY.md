@@ -150,6 +150,7 @@
   * [Purchasing](operations/finance/purchasing/README.md)
     * [Purchase Submission Request](operations/finance/purchasing/how-to-procure-a-vendor-contract.md)
     * [Virtual Credit Card](operations/finance/purchasing/request-a-divvy-virtual-credit-card.md)
+    * [Corporate Credit Card Policy](operations/finance/staff-member-expenses/corporate-credit-card-policy.md)
     * [Contracts and Signing](operations/finance/purchasing/contracts-and-signing.md)
     * [How to Use Accrualify](operations/finance/purchasing/how-to-use-accrualify/README.md)
       * [Setting up your Account](operations/finance/purchasing/how-to-use-accrualify/how-to-set-up-your-account.md)
