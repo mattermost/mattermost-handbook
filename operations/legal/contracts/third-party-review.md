@@ -11,4 +11,4 @@ If you have a contract from a third party that needs review, you can go to the [
 7. Assign the Review to **“Jamie Hurewitz”**. 
 8. Include any additional information that may be helpful for the review. Select **“Request Review”**.
 
-**Note: Legal will not review any Sales-related contracts that do not meet the [required minimum thresholds](mattermost-handbook/operations/legal/contracts/sales-related/contracts). Legal will also not review any Procurement related contracts until they have first been submitted through the Procurement process and approved by Finance and and Security.**
+**Note: Legal will not review any Sales-related contracts that do not meet the [required minimum thresholds](https://handbook.mattermost.com/operations/legal/contracts/requesting-sales-contracts#sales-related-contracts). Legal will also not review any Procurement related contracts until they have first been submitted through the Procurement process and approved by Finance and and Security.** 
