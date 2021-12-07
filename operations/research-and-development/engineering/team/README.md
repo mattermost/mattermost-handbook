@@ -41,7 +41,7 @@ Below is how SET prioritizes what is worked on.
    * Work on bugs in this order: hotfix, release, customer reported, other.
 4. [~Ask R&D](https://community-daily.mattermost.com/core/channels/ask-r-and-d) channel — this channel should be monitored, but checking it once or twice per day is sufficient.
 
-## Workflow
+## Sources of escalations
 
 Work for SET comes from various sources:
 
@@ -50,17 +50,18 @@ Work for SET comes from various sources:
 3. The [~Sustained Engineering](https://community-daily.mattermost.com/core/channels/sustained-engineering) channel. Support may use this channel to ask questions or raise urgent issues.
 4. The [~Ask R&D](https://community-daily.mattermost.com/core/channels/ask-r-and-d) channel. This is the place where support and community can ask any type of R&D related questions.
 
+## Workflow
 When a new issue is raised, follow these steps:
 
 1. **Create a JIRA ticket** for the issue, initially connected to the "Sustained Engineering" team, and assigned to the SET Primary and moved to _In Progress_. Ensure the ticket describes the problem clearly and is as specific as possible. For example, if Mattermost is slow specify what is slow: the server, the client, a particular request.
 2. **Understand the customer impact and priority of the issue.** Determine the priority of the issue following [the levels specified here](https://support.mattermost.com/hc/en-us/articles/360038546151-Ticket-Priority-Guidelines), clearly mark this priority in the ticket. If the issue is really a feature request or low-urgency bug, change the ticket type and reassign it to the appropriate team. In that case, the SET responsibilities end. 
-4. If the issue is of **L1 (critical) or L2 (major), create a run of the [SET Incident Playbook](https://community-daily.mattermost.com/playbooks/playbooks/w5qizi5kojd7jejrsfpat5dupo)** and follow the steps.
+4. If the issue is of **L1 (critical) or L2 (major), create a run of the [SET Incident Playbook](https://community-daily.mattermost.com/playbooks/playbooks/w5qizi5kojd7jejrsfpat5dupo)** and follow the playbook. Make sure that updates (using the Playbooks "Post update" feature) are posted **at least daily**.
 3. **Investigate the source of the issue,** update the JIRA ticket accordingly. Ensure the following things are clearly listed in the ticket (where appropriate):
    * Mattermost version
    * Database type and version
    * Configuration used
    * Relevant logs
-   * A CPU profile (in case of high-CPU usage issue): 
+   * A CPU profile (in case of high-CPU usage issue)
    * A heap profile (in case of memory use)
    * Stack trace (in case  a service gets stuck)
 4. Hand-over (optional): once the issue is sufficiently narrowed down _and_ there is a more appropriate owner than SET, hand the issue over as follows:
