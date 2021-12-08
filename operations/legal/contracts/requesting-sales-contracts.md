@@ -41,7 +41,7 @@ If you selected the **“Mattermost - Non-Disclosure Agreement”** template:
 
 ### Reseller Agreements
 
-If you selected the  **“Non - Exclusive Reseller Agreement”** template:
+If you selected the  **“Non-Exclusive Reseller Agreement”** template:
 
 1. Select the appropriate Mattermost Signatory. Please consult the Handbook for [proper signing authority](https://handbook.mattermost.com/operations/operations/company-processes/company-agreements) if you need additional guidance.
 2. Choose the Reseller that will be entering into the Reseller Agreement with Mattermost. If the Reseller is not in the list, select **“Invite a New Reseller”** and fill out all of the required fields. Select **“Save”**.
