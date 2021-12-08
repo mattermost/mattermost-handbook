@@ -29,9 +29,9 @@ This is a weekly all-staff meeting focused on increasing alignment and awareness
       <th style="text-align:left">
         <ul>
           <li>All Mattermost Staff</li>
-          <li>Chair: Jason Blais</li>
+          <li>Chair: Amy Nicol</li>
           <li>Co-Chairs: Co-founders</li>
-          <li>Vice Chair: Amy Nicol</li>
+          <li>Vice Chair: Jeff Benanto</li>
         </ul>
       </th>
     </tr>
@@ -70,15 +70,15 @@ This is a weekly all-staff meeting focused on increasing alignment and awareness
   <tbody></tbody>
 </table>
 
-1. Vice Chair works 1-1 with presenters to prepare for them.
-2. Team members can share  meeting agenda topics with Vice Chair via direct message. Must be shared at least 24 hours prior to meeting start and be aligned with the meeting objectives above.
+1. Chair works 1-1 with presenters to prepare for them.
+2. Team members can share  meeting agenda topics with Chair via direct message. Must be shared at least 24 hours prior to meeting start and be aligned with the meeting objectives above.
 
 **2 - T-2:** Chair and Vice Chair meet to review agenda. Vice Chair posts draft agenda to [Customer Obs Prep channel](https://community-release.mattermost.com/private-core/channels/cust-obs-prep) and labels it as 50% draft.
 
 **3 - T-1:** COM prep meeting held with Chair, Co-Chairs and Vice Chair and review the following items:
 
 1. Meeting starts with thematic goal, including the theme statement, defining objectives, and actions the company is taking towards the goal.
-2. YouTweetInFace is drafted. This should include relevant hashtags to draw attention and spread the word about Mattermost to a wider audience.
+2. Good News is shared by the Marketing Team
 3. Introductions for each Week 2 Welcome are confirmed by PeopleOps.
    1. If new hire or manager is away, introduction is postponed to the following meeting.
    2. New team members are introduced on their second week by their manager, including name, role, what they're working on, timezone, additional info as appropriate \(max 2 minutes\).
@@ -97,7 +97,7 @@ After the prep meeting, Vice Chair posts a screenshot of the final agenda into t
 4. \(Vice Chair\) Start Zoom recording at 8:00am Palo Alto time.
 5. \(Chair and Co-Chairs\) Run through the agenda, which comprises one or more of the following items:
    * **Introduction**: One of the founders does an introduction to the meeting. Usually to align company on short and long term objectives, to reiterate larger vision for the company, or to emphasize leadership principles.
-   * **Announcements**: News or updates shared by team members.
+   * **Good News**: News or updates shared by team members.
    * **Week 2 Welcomes**: New team members introduced on their second week by their manager, or optionally by the new team member themselves.
    * **Main Topics**: Align and educate team around challenges faced by Enterprise customers and around department near term goals. Examples include: FOSDEM event highlights and learnings; Enterprise customer's path from pilot to production; department VPMOM share; key updates, use cases or stories from customers.
      * Links to publicly shared documents or slides may be included in meeting notes.
@@ -105,9 +105,10 @@ After the prep meeting, Vice Chair posts a screenshot of the final agenda into t
 
 ### **After meeting:**
 
-1. \(Vice Chair\) Share meeting recording \(viewable only by signed-in users and non-downloadable\) and link to feedback survey. [See an example here](https://community.mattermost.com/private-core/pl/nai7nsr61jnbzd67kg37853ybc). **Note**: Include the hashtag `#com-recording` somewhere in the post.
-2. \(Vice Chair\) Post a link to the meeting recording in the header of the [Customer Obsession Meeting channel](https://community.mattermost.com/private-core/channels/cust-obs-meeting) and in the meeting notes.
-3. \(Vice Chair\) Collect feedback from survey and add to next meeting's draft agenda for Chair and Co-Chairs to review.
+1. \(Chair\) Share meeting recording \(viewable only by signed-in users and non-downloadable\) and link to feedback survey. [See an example here](https://community.mattermost.com/private-core/pl/nai7nsr61jnbzd67kg37853ybc). **Note**: Include the hashtag `#com-recording` somewhere in the post.
+2. \(Chair\) Post a link to the meeting recording in the header of the [Customer Obsession Meeting channel](https://community.mattermost.com/private-core/channels/cust-obs-meeting) and in the meeting notes.
+3. \(Chair\) Collect feedback from survey and add to next meeting's draft agenda for Chair and Co-Chairs to review.
+4. \(Presenter\) Any presenter that introduces a new acronym needs to include this in the [Mattermost Acronyms Focalboard](https://community.mattermost.com/boards/workspace/orw8z8yajpd9fgxtuijq31eqkh/bemqt6wf847fsdjoeobkor8ucye/vu8rm3mniwp8jbmtr6xkxpwor8r).  
 
 ## Staff Enablement Survey
 
