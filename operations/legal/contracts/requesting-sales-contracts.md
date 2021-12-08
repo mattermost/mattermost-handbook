@@ -10,7 +10,7 @@
 ## Requesting a new template
 
 1. Enter into the **"Opportunity"** for which you are looking to have a contract created.
-2. Select **"Send Contract"** in the top right corner.
+2. Select **"Send Contract"** in the top right corner of the Opportunity.
 3. From the drop-down list, select the contract template you would like to create, select **“Confirm”**.
 
 **Note: You will not see the templates for the Software License Agreements if your Opportunity does not meet the minimum threshold for modifying the terms as required above.**
@@ -41,13 +41,14 @@ If you selected the **“Mattermost - Non-Disclosure Agreement”** template:
 
 ### Reseller Agreements
 
-If you selected the  **“Mattermost - Reseller Agreement”** template:
+If you selected the  **“Non-Exclusive Reseller Agreement”** template:
 
 1. Select the appropriate Mattermost Signatory. Please consult the Handbook for [proper signing authority](https://handbook.mattermost.com/operations/operations/company-processes/company-agreements) if you need additional guidance.
 2. Choose the Reseller that will be entering into the Reseller Agreement with Mattermost. If the Reseller is not in the list, select **“Invite a New Reseller”** and fill out all of the required fields. Select **“Save”**.
-3. Choose whether this will be a one-time resale transaction or an ongoing reseller relationship.
-4. Verify the information for Exhibit A of the Reseller Agreement, then select **“Complete Draft”**,
-5. In the **“Party Information”** box, please select **“Signatories Signing Order”** and toggle so that **“Signing Order”** is **‘ON’** and the other party is set to sign first. Select **“Save”**.
-6. You may now **“Send”** the Draft Reseller Agreement. This will send the document to the other party for review and signature.
+3. Choose whether this will be a **one-time** resale transaction or an **ongoing** reseller relationship.
+4. Verify the contract default contract information, then select **next**.
+5. Verify the information for the Exhibits of the Reseller Agreement (as applicable), then select **“Complete Draft”**,
+6. In the **“Party Information”** box, please select **“Signatories Signing Order”** and toggle so that **“Signing Order”** is **‘ON’** and the other party is set to sign first. Select **“Save”**.
+7. You may now **“Send”** the Draft Reseller Agreement. This will send the document to the other party for review and signature.
 
-**If the other party returns any redlines to the template created, please sumbit them back to Legal through the Opportunity by creating a case.**
+**If the other party returns any redlines to the template created, please submit them back to Legal through the Opportunity by creating a case.**
