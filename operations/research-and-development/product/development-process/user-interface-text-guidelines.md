@@ -93,7 +93,7 @@ An error message informs the user that something went wrong. Errors prevent the 
 * If a solution or workaround isn’t obvious, suggest one.
 * Examples:
   * **Messages must have fewer than 120 characters.**
-  * **A connection to the Plugin Marketplace server could not be established. Check your settings in the** [**System Console**](https://github.com/mattermost/mattermost-handbook/tree/7aa7b57d703dc9e728d9ba53931bae8f5585d8f3/operations/research-and-development/product/hyperlink%3E/README.md).
+  * **A connection to the Marketplace server could not be established. Check your settings in the **System Console**.**
 
 ## In-product copy
 
@@ -101,9 +101,9 @@ The Technical Writers often work with the UI/UX team on in-product copy. The maj
 
 ### Guidelines for punctuation
 
-**Titles**
+**Headings**
 
-Titles shouldn't have periods unless the headline is more than one sentence.
+These are H1 headings such as the title of a modal. Titles shouldn't have periods unless the headline is more than one sentence. Titles also shouldn't contain punctuation such as question marks, colons, semi-colons.
 
 **Paragraphs**
 
@@ -133,12 +133,20 @@ We follow the same capitalization rules across all our documentation assets, inc
 **Use:** This article is about Mattermost
 
 ### How we write things (WIP)
- 
+
+As previously mentioned, we write with empathy in the context of achievement, and in natural language. This can be quite hard to do; as technical writers we generally lean toward very clear and concise writing that can feel clinical. Writing more naturally means we try to avoid convoluted phrasing and we try to make things more simple. 
+
+So, instead of saying: "When testing the Java app ensure your third-party connection is secure before initiating the test sequence." rather say: "Make sure your third-party connection is secure before testing the app."
+
+Because we strive to use natural language, the way we phrase microcopy isn't templated - that would defeat the point. Instead, here are some examples of microcopy we use for various features and products. The common theme is clarity and empathy.
+
 ### Words we use in CTAs (WIP)
- 
+
+One way of making life easier for our customers is to ensure we are consistent with our terminology. The content below lists the CTA microcopy for various license renewal flows.
+
 #### Self-managed renew license Customer Portal details page
 
-"Complete purchase"
+* "Complete purchase"
 
 #### Self-managed renewal license Customer Portal confirmation
 
@@ -183,7 +191,7 @@ We follow the same capitalization rules across all our documentation assets, inc
 
 ## Button labels and links
 
-Button labels should always use action words and describe the action as concisely as possible. They should be limited to four words or less. Examples: “Log In”, “Send Invitation”.
+Button labels should always use action words and describe the action as concisely as possible. They should be limited to four words or less. Examples: “Log in”, “Send invitation”.
 
 ## Navigation labels
 
