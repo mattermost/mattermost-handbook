@@ -10,7 +10,7 @@ We’re looking for a diverse group of skilled writers with deep technical knowl
 
 We seek a broad range of technical content for software developers that provide rich detail about popular tools. We typically want content that targets beginner to intermediate software developers, but we are open to a range of technical depth.
 
-* How to use popular app frameworks like Node, React, Vue, Flask, Kotlin, etc.
+* How to use popular app frameworks like Node, React, Vue, Flask, Kotlin, machine learning, etc.
 * Software development productivity hacks.
 * Tips and tricks for popular software development tools.
 * Unique DevOps infrastructure at scale.
