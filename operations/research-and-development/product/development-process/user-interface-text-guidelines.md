@@ -111,7 +111,7 @@ Paragraphs should always be properly punctuated.
 
 **Bullets**
 
-Bullets lists shouldn't have periods unless the bullet text is more than one sentence.
+Bullet lists shouldn't have periods unless the bullet text is more than one sentence.
 
 **Button labels**
 
@@ -119,18 +119,22 @@ Button labels shouldn't have periods or other punctuation.
 
 ### Guidelines for capitalization
 
-**Titles**
+We follow the same capitalization rules across all our documentation assets, including in-product text and UI elements: Always use sentence case (except where you're using a proper noun, of course). This applies to:
 
-Titles should use sentence case \(e.g. **This article is about user interface content**\) with the exception of proper nouns \(e.g. **This article is about Mattermost**\).
+* Page titles
+* Page headings
+* Section headings
+* Button labels
+* Input labels
+* Navigation labels
+* Menu items
 
-**Button labels, input labels, and navigation labels**
+**Instead of:** This Article is About Mattermost
+**Use:** This article is about Mattermost
 
-These labels should use sentence case. \(e.g. **This article is about user interface content**\) with the exception of proper nouns \(e.g. **This article is about Mattermost**\).
-
-
-### How we write things
-
-### Words we use in CTAs
+### How we write things (WIP)
+ 
+### Words we use in CTAs (WIP)
  
 #### Self-managed renew license Customer Portal details page
 
@@ -138,43 +142,42 @@ These labels should use sentence case. \(e.g. **This article is about user inter
 
 #### Self-managed renewal license Customer Portal confirmation
 
-"Renew now"
-"Download license"
-"Complete purchase"
+* "Renew now"
+* "Download license"
+* "Complete purchase"
 
 #### Self-managed renewal license email
 
-"Renew now"
+* "Renew now"
 
 #### Self-managed start trial license page
 
-"Start trial"
-"Purchase a license" "Contact sales"
-"Choose file"
+* "Start trial"
+* "Purchase a license" "Contact sales"
+* "Choose file"
 
 #### Self-managed feature page
 
-"Start trial"
-"Not right now"  "Yes, start now"
-"Purchase a license"
+* "Start trial"
+* "Not right now"  "Yes, start now"
+* "Purchase a license"
  
 #### Self-managed feature page after trial ended
 
-"Purchase a license" "Learn more"
+* "Purchase a license" "Learn more"
 
 #### Cloud trial
 
-Customer Portal: "Subscribe now"
-System Console: "Subscribe now"
-Questions: "Contact sales"
-Purchase completed: "Subscribe"
-System Console: "Upgrade now"
- 
-IC DM: "Start 30-day trial" "Learn more"
+* Customer Portal: "Subscribe now"
+* System Console: "Subscribe now"
+* Questions: "Contact sales"
+* Purchase completed: "Subscribe"
+* System Console: "Upgrade now"
+* IC DM: "Start 30-day trial" "Learn more"
 
 #### Cloud purchase subscription
 
-"Subscribe"
+* "Subscribe"
  
 #### Cloud upgrade
 
