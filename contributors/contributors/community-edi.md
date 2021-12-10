@@ -11,7 +11,7 @@ We're committed to purposefully designing EDI into every facet of our programs a
 5. **Captioning and translation:** Strive to have all video captioned in at least American English, and translated in as many languages as possible.
 6. **Share slides beforehand:** Share slides with attendees so that people who use screen readers can follow along.
 7. **Images should have alt text:** This is for screen readers for people who are blind or are visually impaired. Be descriptive with the image. Maybe a few sentences about what the most important content is.
-8. **Use proper headings in your editor:** Use your editor's headings so that screen readers understand the organization of the page.
+8. **Use proper headings in your text editor:** Use your text editor's built-in heading formatting so that screen readers understand the organization of the page.
 9. **Describe infographics with audio:** Describe the most important parts of infographics to help with accessibility.
 
 Other ways we foster diversity, inclusion, and belonging:
