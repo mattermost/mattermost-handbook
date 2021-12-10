@@ -38,9 +38,9 @@ In general, users will encounter the following types of messaging when using Mat
 
 In general, this content is either:
 
-* Triggered because something happened
 * Static text on the user interface
 * An actionable button which leads to a process
+* Triggered because something happened
 
 ### Guidelines for system messages
 
@@ -128,6 +128,8 @@ We follow the same capitalization rules across all our documentation assets, inc
 * Input labels
 * Navigation labels
 * Menu items
+* Field hint text 
+* Hover text
 
 **Instead of:** This Article is About Mattermost
 **Use:** This article is about Mattermost
