@@ -24,7 +24,7 @@ These writing principles mean that we think like a friend, and talk like a coach
   * If you’ll end up blaming the user. For example, don’t say **You entered an incorrect password**. Instead, say **The password is incorrect**.
   * If you’re describing what just happened. For example: **Your incoming webhook is set up**.
   * If the subject \(the doer of an action\) is the Mattermost application itself. For example: **The image has been deleted** instead of **The server deleted the image**.
-* If you’re asking the user to do or not do something, use imperatives \(command phrases\). For example, use **Don't change the Hostname** instead of **It's not recommended to change the Hostname**. Better still, explain what could go wrong if they do or don’t do something. For example: **Don't change the Hostname because doing so**.
+* If you’re asking the user to do or not do something, use imperatives \(command phrases\). For example, use **Don't change the Hostname** instead of **It's not recommended to change the Hostname**. Better still, explain what could go wrong if they do or don’t do something. For example: **Don't change the Hostname because doing so will break something**.
 
 ## Types of in-product content
 
