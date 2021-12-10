@@ -27,7 +27,7 @@ For details about how we write UI text, naming conventions for CTAs, and writing
 
 ### Tabbed content
 
-In tabbed content the wording needs to be exactly the same across all instances, for consistency.
+When presenting content in tabs, tab names must be exactly the same across all instances, for consistency.
 
 "From Mattermost version 6.0..."
 "In Mattermost versions up to v5.39"
