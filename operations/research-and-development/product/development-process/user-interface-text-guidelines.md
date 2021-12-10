@@ -12,7 +12,7 @@ When we write copy for our product messaging our primary goals are to:
 
 To achieve these goals, we ensure that we have the right content for the right user at the right time. In addition to this, we prioritize:
 
-* Plain language: We use natural language for documentation and in-product text.
+* Plain language: We choose natural language, simple words, and short sentences for documentation and in-product text.
 * Readability: We strive to make our documentation pages easy to scan and not overwhelming.
 * Consistency: We ensure that we all refer to the same things using the same words or names, to avoid confusion.
 
