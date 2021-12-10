@@ -10,7 +10,7 @@ We’re looking for a diverse group of skilled writers with deep technical knowl
 
 We seek a broad range of technical content for software developers that provide rich detail about popular tools. We typically want content that targets beginner to intermediate software developers, but we are open to a range of technical depth.
 
-* How to use popular app frameworks like Node, React, Vue, Flask, Kotlin, etc.
+* How to use popular app frameworks like Node, React, Vue, Flask, Kotlin, machine learning, etc.
 * Software development productivity hacks.
 * Tips and tricks for popular software development tools.
 * Unique DevOps infrastructure at scale.
@@ -22,7 +22,7 @@ Most authors receive $250 - $350 for publishing unique content, but exceptionall
 
 ## The Process
 
-1. **Submit Your Idea** - Submit your idea via our [application form](https://docs.google.com/forms/d/e/1FAIpQLSeaydlRPSA5U8S0_6JYBOpnA1762t0irWLO-AYsvahPRLzZMA/viewform) with an outline of your content and a previous writing example demonstrating your technical knowledge and writing capabilities. We will only publish unique, first-run content where our blog is the first platform for it to be published.
+1. **Submit Your Idea** - Submit your idea via our [application form](https://form.asana.com/?k=S5-Dbo0LVh8y4kmGJ1QPvg&d=279683980846511) with an outline of your content and a previous writing example demonstrating your technical knowledge and writing capabilities. We will only publish unique, first-run content where our blog is the first platform for it to be published.
 2. **Refine** - Our editorial team will reach out to you to provide feedback on the idea and make any structural changes requests.
 3. **Write your content** - Once we’ve approved your topic, it’s time to write the content. We'll provide additional guidelines and expectations to help you get started, but generally speaking, following Digital Ocean's [technical writing guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines) is a good plan.
 4. **Revise** - Submit your initial draft to our editors, and we’ll collaborate with you to copyedit, design a hero image, and prepare the article for publication. You should 1-2 rounds of revisions over the next 1-2 weeks.
