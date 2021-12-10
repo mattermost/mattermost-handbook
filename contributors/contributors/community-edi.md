@@ -8,7 +8,7 @@ We're committed to purposefully designing EDI into every facet of our programs a
 2. **Timezones:** Be as inclusive of as many different timezones as possible.
 3. **Code of Conduct:** Make our Code of Conduct a requirement at all events and actively help our community with friction and conflict.
 4. **Accessibility:** Advocate for accessibility in all of our events and materials.
-5. **Captioning and translation:** Strive to have all video captioned in at least American English, and translated in as many languages as possible. For help looking for translators, [***INSERT STUFF HERE***]
+5. **Captioning and translation:** Strive to have all video captioned in at least American English, and translated in as many languages as possible.
 6. **Share slides beforehand:** Share slides with attendees so that people who use screen readers can follow along.
 7. **Images should have alt text:** This is for screen readers for people who are blind or are visually impaired. Be descriptive with the image. Maybe a few sentences about what the most important content is.
 8. **Use proper headings in your editor:** Use your editor's headings so that screen readers understand the organization of the page.
