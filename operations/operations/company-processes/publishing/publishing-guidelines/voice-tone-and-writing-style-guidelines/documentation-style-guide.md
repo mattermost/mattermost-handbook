@@ -21,7 +21,9 @@ When you revise a document, apply the style guide rules to the part that you cha
 
 ## How we write things
 
-One of our ongoing initiatives is to ensure our documentation is written in natural, clear language. We also focus on empathy and ensuring that we set our readers up for success. This section of the style guide is about content we reuse across our documentation, how we write UI text, and naming conventions for CTAs among other things.
+One of our ongoing initiatives is to ensure our documentation is written in natural, clear language. We also focus on empathy and ensuring that we set our readers up for success. This section of the style guide is about content we reuse across our documentation. 
+
+For details about how we write UI text, naming conventions for CTAs, and writing with empathy, take a look at the [User Interface Text Guidelines](operations/research-and-development/product/development-process/user-interface-text-guidelines.md).
 
 ### Tabbed content
 
@@ -29,12 +31,6 @@ In tabbed content the wording needs to be exactly the same across all instances,
 
 "From Mattermost version 6.0..."
 "In Mattermost versions up to v5.39"
-
-### UI/in-product content
-
-### CTAs for Cloud
-
-### CTAs for self-hosted
 
 ## Writing style
 
