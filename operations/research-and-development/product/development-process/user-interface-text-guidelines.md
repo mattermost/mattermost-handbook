@@ -30,7 +30,7 @@ These writing principles mean that we think like a friend, and talk like a coach
 
 In general, users will encounter the following types of messaging when using Mattermost:
 
-* Help/info text
+* Help, hints, or informative text
 * Calls to Action
 * Confirmation dialogs
 * Errors
