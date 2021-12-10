@@ -134,7 +134,7 @@ We follow the same capitalization rules across all our documentation assets, inc
 
 ### How we write things (WIP)
 
-As previously mentioned, we write with empathy in the context of achievement, and in natural language. This can be quite hard to do; as technical writers we generally lean toward very clear and concise writing that can feel clinical. Writing more naturally means we try to avoid convoluted phrasing and we try to make things more simple. 
+As previously mentioned, we write with empathy in the context of achievement using natural language. This can be quite hard to do; as technical writers we generally lean toward very clear and concise writing that can feel clinical. Writing more naturally means we try to avoid convoluted phrasing and we try to make things more simple. 
 
 So, instead of saying: "When testing the Java app ensure your third-party connection is secure before initiating the test sequence." rather say: "Make sure your third-party connection is secure before testing the app."
 
