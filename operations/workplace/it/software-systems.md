@@ -1,4 +1,5 @@
 # Software Systems
+#### 50% complete. This guide, along with all our guides, is a work-in-progress and iterates as we consider new data and frameworks.
 
 The IT team at Mattermost looks to empower everyone with the software systems they need to work effectively. A default list of applications is automatically provisioned to each staff member on their start date based off their role. 
 
