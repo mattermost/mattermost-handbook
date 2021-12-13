@@ -19,8 +19,6 @@ The **SET Lead** is usually one of the engineering team's Engineering Leads. The
 
 The SET Lead is also on call \(via OpsGenie\), and is escalated to whenever neither the SET primary nor SET backup acknowledge an issue in the appropriate time.
 
-We use a Mattermost Playbook to run the SET cycle. For this, the SET Lead creates a new run of the [SET Cycle](https://community-daily.mattermost.com/playbooks/playbooks/w36ro78cgj8qtjq5mf6say7bxe/preview) playbook and follows the steps as codified by the playbook.
-
 The **SET Primary** is usually an engineer from one of the engineering teams. The SET Primary is the first person to respond to any issues escalated. Escalation primarilly happens through the "Sustained Engineering" channel or OpsGenie in cases of time urgency.
 
 The **SET Backup** is usually an engineer from one of the engineering teams. In the case that the SET Primary is not available or unresponsive, the SET backup temporarily takes over. In certain situations it may also be required for the primary to ask for help to the backup.
@@ -45,10 +43,21 @@ Below is how SET prioritizes what is worked on.
 
 Work for SET comes from various sources:
 
-1. The SET [Kanban JIRA board](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=33). Tickets in the TO DO column should be organized from highest priority to lowest priority, based on the [Priority of Work](./#priority-of-work) section. The SET lead should make sure that the tickets are priority ordered but team members can move tickets around to meet the correct priorities as necessary. If tickets get stuck in a certain state, it's also the SET responsibility to push them to completion, either by nudging people or taking them over.
-2. OpsGenie: Support has an e-mail address they will send urgent escalations to. These result in pages in OpsDuty, first sent to the SET Primary, then to SET Back-up and ultimately to the SET Lead when not timely acknowledged.
-3. The [~Sustained Engineering](https://community-daily.mattermost.com/core/channels/sustained-engineering) channel. Support may use this channel to ask questions or raise urgent issues.
+1. OpsGenie: Support has an e-mail address they will send urgent escalations to. These result in pages in OpsDuty, first sent to the SET Primary, then to SET Back-up and ultimately to the SET Lead when not timely acknowledged.
+2. The [~Sustained Engineering](https://community-daily.mattermost.com/core/channels/sustained-engineering) channel. Support may use this channel to ask questions or raise urgent issues.
+3. The SET [Kanban JIRA board](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=33). Tickets in the TO DO column should be organized from highest priority to lowest priority, based on the [Priority of Work](./#priority-of-work) section. The SET lead should make sure that the tickets are priority ordered but team members can move tickets around to meet the correct priorities as necessary. If tickets get stuck in a certain state, it's also the SET responsibility to push them to completion, either by nudging people or taking them over.
 4. The [~Ask R&D](https://community-daily.mattermost.com/core/channels/ask-r-and-d) channel. This is the place where support and community can ask any type of R&D related questions.
+
+## SET Weekly Cycle
+We use a Mattermost Playbook to run the SET cycle. For this, the SET Lead creates a new run of the [SET Cycle](https://community-daily.mattermost.com/playbooks/playbooks/w36ro78cgj8qtjq5mf6say7bxe/preview) playbook and follows the steps as codified by the playbook. Overall a SET cycles consists of three phases:
+
+1. Start: review all ongoing issues and make sure they have appropriate owners in the current SET team.
+2. Monitor: Monitor the sources of SET escalations (previous section) and act accordingly (see next section)
+3. Hand-over: by Friday end of day, make sure the next week's SET team (especially the SET Lead) is aware of ongoing issues and have sufficient context to continue the work. Specifically:
+   * Ensure that the incoming SET team is in the right incident channels (if anybody)
+   * SET JIRA tickets find new assignees in the incoming SET team
+   * Any additional knowledge (beside what's in the JIRA tickets and channels) that the incoming SET team will need to continue the work is transferred.
+
 
 ## Workflow
 When a new issue is raised, follow these steps:
