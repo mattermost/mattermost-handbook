@@ -34,8 +34,9 @@ Feedback on this handbook is immensely appreciated. There are two ways you can s
 
 ## Key links and materials
 
-Below is a work-in-progress list of key documents and channels at Mattermost. A `*` indicates material internal to Mattermost staff.
+Below is a work-in-progress list of key documents and channels at Mattermost. The symbol `*` indicates material internal to Mattermost staff.
 
 - [Mattermost 6.0 Launch Announcement](https://mattermost.com/blog/mattermost-v6-0-is-now-available/)
   - [Newsroom](https://mattermost.com/newsroom/)
   - [Message House](https://docs.google.com/document/d/1Cb5-6PmjHXV_zCfAceEvKoehgG90vo4KcTjqnxzvAyo/edit)*
+  - [Product Onboarding](https://docs.google.com/document/d/1BCFdXHMY5iWc6Ix66yuLtLNbO0sYLMJJDDsSLwqvlTA/edit)*
