@@ -218,6 +218,7 @@
   * [IT](operations/workplace/it/README.md)
     * [IT Helpdesk](operations/workplace/it/helpdesk.md)
     * [Hardware Buy Back Policy](operations/workplace/it/hardware-buy-back-policy.md)
+    * [Software Systems](operations/workplace/it/software-systems.md)
 
 ## Contributors
 
