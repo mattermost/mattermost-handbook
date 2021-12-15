@@ -7,7 +7,7 @@ SET is a rotating team that is comprised of engineers from the different enginee
 
 Who is currently on SET can be seen in the header of the [~Sustained Engineering](https://community.mattermost.com/core/channels/sustained-engineering) channel.
 
-Engineering teams will commit a total of 4 engineers (two primaries for two time zones, two backups for two timezones) plus a lead to SET for each rotation. While on SET, that engineer should attend their feature team's sprint planning, but it should be taken into account that any urgent SET-related issue may take them out of the regular day-to-day planned work. How this is managed is up to the SET team member's engineering lead, some let them work on regular sprint work and accept the interruptions, others let them focus on fixing bugs to reduce the cost of context switching.
+Engineering teams will commit a total of 4 engineers (a primary and a backup for each of the two shifts) plus a lead to SET for each rotation. While on SET, an engineer still attends their team's meetings, but it should be taken into account that any SET-related issue may take them out of the regular day-to-day planned work. How this is managed is up to the engineering lead from the engineer's team, e.g.: some work on regular sprint work and accept the interruptions, others focus on fixing bugs to reduce the cost of context switching.
 
 ## Roles
 
@@ -19,7 +19,7 @@ The **SET Lead** is usually one of the engineering team's Engineering Leads. The
 
 The SET Lead is also on call \(via OpsGenie\), and is escalated to whenever neither the SET primary nor SET backup acknowledge an issue in the appropriate time.
 
-The **SET Primary** is an engineer from one of the engineering teams. The SET Primary is the first person to respond to any issues escalated. Escalation primarilly happens through the "Sustained Engineering" channel or OpsGenie in cases of time urgency.
+The **SET Primary** is  an engineer from one of the engineering teams. The SET Primary is the first person to respond to any issues escalated. Escalation primarilly happens through the "Sustained Engineering" channel or OpsGenie in cases of time urgency (refer to [Sources of scalations](#Sources-of-escalations) section for more details).
 
 The **SET Backup** is usually an engineer from one of the engineering teams. In the case that the SET Primary is not available or unresponsive, the SET backup temporarily takes over. In certain situations it may also be required for the primary to ask for help to the backup.
 
@@ -35,7 +35,7 @@ Below is how SET prioritizes what is worked on.
    * Be helpful with training/knowledge sharing for the support team.
    * Identify customer support requests that are features and route to PM as necessary.
 3. General bug fixes
-   * Pick up any bugs in triage without an obvious owning feature team.
+   * Pick up any bugs in triage.
    * Work on bugs in this order: hotfix, release, customer reported, other.
 4. [~Ask R&D](https://community-daily.mattermost.com/core/channels/ask-r-and-d) channel — this channel should be monitored, but checking it once or twice per day is sufficient.
 
