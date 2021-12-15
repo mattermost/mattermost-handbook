@@ -2,11 +2,11 @@
 
 Mattermost wants to be a central resource for helping developers improve their productivity. To that end, we want to open our blog to our diverse community to share expertise, tips and tricks, guides, and other technical resources that help developers get work done. We’ll compensate authors whenever we publish their content.
 
-## About You
+## About you
 
 We’re looking for a diverse group of skilled writers with deep technical knowledge to write content for us. You should have experience writing content, be comfortable receiving feedback about your work, and be open to making revisions recommended by our editorial team.
 
-## Recommended Topics
+## Recommended topics
 
 We seek a broad range of technical content for software developers that provide rich detail about popular tools. We typically want content that targets beginner to intermediate software developers, but we are open to a range of technical depth.
 
@@ -20,14 +20,14 @@ We seek a broad range of technical content for software developers that provide 
 
 Most authors receive $250 - $350 for publishing unique content, but exceptionally detailed content about prevalent technologies can earn up to $500. We also run regular events that offer bonuses for writing about specific topics.
 
-## The Process
+## The process
 
-1. **Submit Your Idea** - Submit your idea via our [application form](https://form.asana.com/?k=S5-Dbo0LVh8y4kmGJ1QPvg&d=279683980846511) with an outline of your content and a previous writing example demonstrating your technical knowledge and writing capabilities. We will only publish unique, first-run content where our blog is the first platform for it to be published.
+1. **Submit Your idea** - Submit your idea via our [application form](https://form.asana.com/?k=S5-Dbo0LVh8y4kmGJ1QPvg&d=279683980846511) with an outline of your content and a previous writing example demonstrating your technical knowledge and writing capabilities. We will only publish unique, first-run content where our blog is the first platform for it to be published.
 2. **Refine** - Our editorial team will reach out to you to provide feedback on the idea and make any structural changes requests.
 3. **Write your content** - Once we’ve approved your topic, it’s time to write the content. We'll provide additional guidelines and expectations to help you get started, but generally speaking, following Digital Ocean's [technical writing guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines) is a good plan.
 4. **Revise** - Submit your initial draft to our editors, and we’ll collaborate with you to copyedit, design a hero image, and prepare the article for publication. You should 1-2 rounds of revisions over the next 1-2 weeks.
 5. **Publish** - Once revisions are complete, we’ll send your compensation, publish the article, and promote it across all of our channels.
-6. **Do it Again** - There’s no limit to the number of articles you can publish through this program. We love to build long-term relationships with our community and would love for you to be a repeat author on our blog. Start at step 1 again and keep going!
+6. **Do it again** - There’s no limit to the number of articles you can publish through this program. We love to build long-term relationships with our community and would love for you to be a repeat author on our blog. Start at step 1 again and keep going!
 
 ## Frequently Asked Questions
 
@@ -63,3 +63,17 @@ Mattermost Community Writing Program Standard Terms & Conditions (“Writing Pro
 1. This Agreement constitutes the entire agreement between Mattermost and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of Mattermost, or by the posting by Mattermost of a revised version.
 
 By submitting your application to the Mattermost Community Writing Program you are agreeing to these Writing Program Terms and the [Mattermost Privacy Policy](https://mattermost.com/privacy-policy/).
+
+## Plagiarism policy
+
+The Mattermost blog produces original, first-run content that has never been published previously on another website. All code, copy, images, and other content should be the result of the author's original thought, work, research, and self-expression. Mattermost will cease all work with any author that reproduces someone else's work to claim as their own. This includes borrowing content, wording, or organizational structure from another person or organization's published articles, code, documentation, or any other content resources.
+
+Some examples of plagiarism include:
+
+* Rewording existing blog posts to pass the content as your own.
+* Copy and pasting external documentation without directly referencing the documentation source.
+* Modifying someone else's code to change variable and function names, comments, and other non-essential elements.
+* Using images from another source, even if you make modifications to that image.
+* Failing to attribute content published under permissive licenses like the Creative Commons License.
+
+If you're unsure about a question or concern related to plagiarism, please consult with the Mattermost content team before submission.
