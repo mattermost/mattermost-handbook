@@ -72,6 +72,7 @@
       * [Focalboard Release Process](operations/research-and-development/product/release-process/focalboard-release.md)
       * [Security Release Process](operations/research-and-development/product/release-process/security-release.md)
       * [Mobile App Release Process](operations/research-and-development/product/release-process/mobile-release.md)
+      * [Desktop App Release Process](operations/research-and-development/product/release-process/desktop-release.md)
       * [Release Tips](operations/research-and-development/product/release-process/release-tips.md)
       * [Release Scorecard Definitions](operations/research-and-development/product/release-process/release-scorecard-definitions.md)
     * [How to Guides for Product](operations/research-and-development/product/how-to-guides-for-product/README.md)
