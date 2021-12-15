@@ -63,3 +63,16 @@ Mattermost Community Writing Program Standard Terms & Conditions (“Writing Pro
 1. This Agreement constitutes the entire agreement between Mattermost and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of Mattermost, or by the posting by Mattermost of a revised version.
 
 By submitting your application to the Mattermost Community Writing Program you are agreeing to these Writing Program Terms and the [Mattermost Privacy Policy](https://mattermost.com/privacy-policy/).
+
+## Plagiarism Policy
+The Mattermost blog produces original, first-run content that has never been published previously on another website. All code, copy, images, and other content should be the result of the author's original thought, work, research, and self-expression. Mattermost will cease all work with any author that reproduces someone else's work to claim as their own. This includes borrowing content, wording, or organizational structure from another person or organization's published articles, code, documentation, or any other content resources. 
+
+Some examples of plagiarism include:
+* Rewording existing blog posts to pass the content as your own.
+* Copy and pasting external documentation without directly referencing the documentation source.
+* Modifying someone else's code to change variable and function names, comments, and other non-essential elements.
+* Using images from another source, even if you make modifications to that image.
+* Failing to attribute content published under permissive licenses like the Creative Commons License.
+
+If you're unsure about a question or concern related to plagiarism, please consult with the Mattermost content team before submission.
+
