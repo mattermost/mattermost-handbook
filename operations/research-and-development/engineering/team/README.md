@@ -35,7 +35,7 @@ Below is how SET prioritizes what is worked on.
    * Be helpful with training/knowledge sharing for the support team.
    * Identify customer support requests that are features and route to PM as necessary.
 3. General bug fixes
-   * Pick up any bugs in triage without an obvious owning feature team.
+   * Pick up any bugs in triage.
    * Work on bugs in this order: hotfix, release, customer reported, other.
 4. [~Ask R&D](https://community-daily.mattermost.com/core/channels/ask-r-and-d) channel — this channel should be monitored, but checking it once or twice per day is sufficient.
 
