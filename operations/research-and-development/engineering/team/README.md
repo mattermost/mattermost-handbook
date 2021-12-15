@@ -43,7 +43,7 @@ Below is how SET prioritizes what is worked on.
 
 Work for SET comes from various sources:
 
-1. OpsGenie: Support has an e-mail address they will send urgent escalations to. These result in pages in OpsDuty, first sent to the SET Primary, then to SET Back-up and ultimately to the SET Lead when not timely acknowledged.
+1. OpsGenie: Support has an e-mail address they will send urgent escalations to. These result in pages in OpsDuty, first sent to the SET Primary, then to SET Back-up and ultimately to the SET Lead when not timely acknowledged. **Note:** using this channel of escalation is exceedingly rare, and only happens in extremely time senstive cases.
 2. The [~Sustained Engineering](https://community-daily.mattermost.com/core/channels/sustained-engineering) channel. Support may use this channel to ask questions or raise urgent issues.
 3. The SET [Kanban JIRA board](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=33). Tickets in the TO DO column should be organized from highest priority to lowest priority, based on the [Priority of Work](./#priority-of-work) section. The SET lead should make sure that the tickets are priority ordered but team members can move tickets around to meet the correct priorities as necessary. If tickets get stuck in a certain state, it's also the SET responsibility to push them to completion, either by nudging people or taking them over.
 4. The [~Ask R&D](https://community-daily.mattermost.com/core/channels/ask-r-and-d) channel. This is the place where support and community can ask any type of R&D related questions.
@@ -60,11 +60,11 @@ We use a Mattermost Playbook to run the SET cycle. For this, the SET Lead create
 
 
 ## Workflow
-When a new issue is raised, follow these steps:
+Support may ask questions in the [~Sustained Engineering](https://community-daily.mattermost.com/core/channels/sustained-engineering) channel. If these can be answered without significant time investment (up to about an hour), just answer them. If they require deeper analysis, investigation, or potential hand-off to other people or teams, follow the following steps:
 
 1. **Create a JIRA ticket** for the issue, initially connected to the "Sustained Engineering" team, and assigned to the SET Primary and moved to _In Progress_. Ensure the ticket describes the problem clearly and is as specific as possible. For example, if Mattermost is slow specify what is slow: the server, the client, a particular request.
 2. **Understand the customer impact and priority of the issue.** Determine the priority of the issue following [the levels specified here](https://support.mattermost.com/hc/en-us/articles/360038546151-Ticket-Priority-Guidelines), clearly mark this priority in the ticket. If the issue is really a feature request or low-urgency bug, change the ticket type and reassign it to the appropriate team. In that case, the SET responsibilities end. 
-4. If the issue is of **L1 (critical) or L2 (major), create a run of the [SET Incident Playbook](https://community-daily.mattermost.com/playbooks/playbooks/w5qizi5kojd7jejrsfpat5dupo)** and follow the playbook. Make sure that updates (using the Playbooks "Post update" feature) are posted **at least daily**.
+4. If the issue is of **L1 (critical) or L2 (major)** support [will have a run of the Mattermost Support Incident](https://community-daily.mattermost.com/playbooks/playbooks/bx9xnkb8upribm3wsbye1cdwtw) playbook running that SET will be invited to. Make sure that updates (using the Playbooks "Post update" feature) are posted **at least daily**.
 3. **Investigate the source of the issue,** update the JIRA ticket accordingly. Ensure the following things are clearly listed in the ticket (where appropriate):
    * Mattermost version
    * Database type and version
@@ -74,7 +74,7 @@ When a new issue is raised, follow these steps:
    * A heap profile (in case of memory use)
    * Stack trace (in case  a service gets stuck)
 4. Hand-over (optional): once the issue is sufficiently narrowed down _and_ there is a more appropriate owner than SET, hand the issue over as follows:
-   * If a SET Incident playbook was run, follow the hand-over steps in that playbook
+   * If a _Mattermost Support Incident_ playbook was run, invite the new owning team to the incident channel
    * Reassign the JIRA ticket to the new owning team
 
 **Important:** Even if an issue has been handed over, it remains SET responsibility to ensure good communication between engineering and other stakeholders.
