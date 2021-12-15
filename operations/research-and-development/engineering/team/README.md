@@ -11,7 +11,7 @@ Engineering teams will commit a total of 4 engineers (a primary and a backup for
 
 ## Roles
 
-The **SET Lead** is usually one of the engineering team's Engineering Leads. The SET lead, leads the SET team during its rotation. In practice this means the SET lead:
+The **SET Lead** is one of the engineering team's Engineering Leads. The SET lead, leads the SET team during its rotation. In practice this means the SET lead:
 
 1. Ensures that raised issues are being addressed.
 2. Communicates the status of ongoing issues appropriately to stakeholders.
@@ -19,9 +19,9 @@ The **SET Lead** is usually one of the engineering team's Engineering Leads. The
 
 The SET Lead is also on call \(via OpsGenie\), and is escalated to whenever neither the SET primary nor SET backup acknowledge an issue in the appropriate time.
 
-The **SET Primary** is  an engineer from one of the engineering teams. The SET Primary is the first person to respond to any issues escalated. Escalation primarilly happens through the "Sustained Engineering" channel or OpsGenie in cases of time urgency (refer to [Sources of scalations](#Sources-of-escalations) section for more details).
+The **SET Primary** is an engineer from one of the engineering teams. The SET Primary is the first person to respond to any issues escalated. Escalation primarilly happens through the "Sustained Engineering" channel or OpsGenie in cases of time urgency (refer to [Sources of scalations](#Sources-of-escalations) section for more details).
 
-The **SET Backup** is usually an engineer from one of the engineering teams. In the case that the SET Primary is not available or unresponsive, the SET backup temporarily takes over. In certain situations it may also be required for the primary to ask for help to the backup.
+The **SET Backup** is an engineer from one of the engineering teams. In the case that the SET Primary is not available or unresponsive, the SET backup temporarily takes over. In certain situations it may also be required for the primary to ask for help to the backup.
 
 ## Priority of Work
 
