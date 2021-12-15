@@ -7,7 +7,7 @@ SET is a rotating team that is comprised of engineers from the different enginee
 
 Who is currently on SET can be seen in the header of the [~Sustained Engineering](https://community.mattermost.com/core/channels/sustained-engineering) channel.
 
-Engineering teams will commit a total of 4 engineers (two primaries for two time zones, two backups for two timezones) plus a lead to SET for each rotation. While on SET, that engineer should attend their feature team's sprint planning, but it should be taken into account that any urgent SET-related issue may take them out of the regular day-to-day planned work. How this is managed is up to the SET team member's engineering lead, some let them work on regular sprint work and accept the interruptions, others let them focus on fixing bugs to reduce the cost of context switching.
+Engineering teams will commit a total of 4 engineers (a primary and a backup for each of the two shifts) plus a lead to SET for each rotation. While on SET, an engineer still attends their team's meetings, but it should be taken into account that any SET-related issue may take them out of the regular day-to-day planned work. How this is managed is up to the engineering lead from the engineer's team, e.g.: some work on regular sprint work and accept the interruptions, others focus on fixing bugs to reduce the cost of context switching.
 
 ## Roles
 
