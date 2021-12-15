@@ -8,10 +8,10 @@ In cases where there are requested features completed prior to the next upcoming
 
 A dot release will be prepared sooner if Electron releases a security update, or if other urgent bugs are found.
 
-## Release Timeline
+## Release timeline
 
 Notes:
-- All cut-off dates are based on 15:00 GMT (UTC-00) on the day stated. 
+- All cut-off dates are based on 15:00 GMT (UTC-00) on the day stated.
 - T-minus counts are measured in "working days" (weekdays other than major holidays concurrent in US and Canada) prior to release day.
 
 ### A. (Code complete date of previous release) Beginning of release
