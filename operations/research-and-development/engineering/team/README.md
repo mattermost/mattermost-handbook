@@ -3,7 +3,7 @@
 The Sustained Engineering Team \(SET\) is responsible for improving and maintaining quality of  Mattermost products, as well as helping support with any issues they require engineering support with. Often, people in SET primarily play the role of first responders, then handing off to whichever engineering team best equipped to resolve an issue.
 
 ## Team Members
-SET is a rotating team that is comprised of engineers from the different engineering teams. The rotation is on a weekly cycle for engineers, and two-week cycle for leads.
+SET is a rotating team that is comprised of engineers from the different engineering teams. The rotation is on a two-week cycle. For engineers one of those weeks is as back-up, another is as primary.
 
 Who is currently on SET can be seen in the header of the [~Sustained Engineering](https://community.mattermost.com/core/channels/sustained-engineering) channel.
 
@@ -19,7 +19,7 @@ The **SET Lead** is usually one of the engineering team's Engineering Leads. The
 
 The SET Lead is also on call \(via OpsGenie\), and is escalated to whenever neither the SET primary nor SET backup acknowledge an issue in the appropriate time.
 
-The **SET Primary** is usually an engineer from one of the engineering teams. The SET Primary is the first person to respond to any issues escalated. Escalation primarilly happens through the "Sustained Engineering" channel or OpsGenie in cases of time urgency.
+The **SET Primary** is an engineer from one of the engineering teams. The SET Primary is the first person to respond to any issues escalated. Escalation primarilly happens through the "Sustained Engineering" channel or OpsGenie in cases of time urgency.
 
 The **SET Backup** is usually an engineer from one of the engineering teams. In the case that the SET Primary is not available or unresponsive, the SET backup temporarily takes over. In certain situations it may also be required for the primary to ask for help to the backup.
 
@@ -53,7 +53,7 @@ We use a Mattermost Playbook to run the SET cycle. For this, the SET Lead create
 
 1. Start: review all ongoing issues and make sure they have appropriate owners in the current SET team.
 2. Monitor: Monitor the sources of SET escalations (previous section) and act accordingly (see next section)
-3. Hand-over: by Friday end of day, make sure the next week's SET team (especially the SET Lead) is aware of ongoing issues and have sufficient context to continue the work. Specifically:
+3. Hand-over: by Friday end of day, the SET leads ensures that the next week's SET team (especially the SET Lead) is aware of ongoing issues and have sufficient context to continue the work. Specifically:
    * Ensure that the incoming SET team is in the right incident channels (if anybody)
    * SET JIRA tickets find new assignees in the incoming SET team
    * Any additional knowledge (beside what's in the JIRA tickets and channels) that the incoming SET team will need to continue the work is transferred.
