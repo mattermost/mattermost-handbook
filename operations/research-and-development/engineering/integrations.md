@@ -73,7 +73,7 @@ Seeing an intermittent connection issue with Zoom on http://dkh-local.ngrok.io. 
 ### Jira
 
 * Jira tickets must be filed for:
-  * Planed changes in the core product \(Server, Webapp, Mobile, Redux\).
+  * Planned changes in the core product \(Server, Webapp, Mobile, Redux\).
   * Bugs in the core product \(Server, Webapp, Mobile, Redux\).
 * Jira ticket may be filled for larger multi-plugin projects.
 
@@ -85,7 +85,7 @@ Seeing an intermittent connection issue with Zoom on http://dkh-local.ngrok.io. 
 * You may add a `Difficulty/X` label to set a mana estimate.
   * `Easy` means 2 mana
   * `Medium` means 4 mana
-  * `Hard` mean 8 mana
+  * `Hard` means 8 mana
 * Staff members add the issues there are working on for the current sprint to [https://github.com/orgs/mattermost/projects/1](https://github.com/orgs/mattermost/projects/1).
   * Putting an issue is always preferred over putting a PR on the board.
 
@@ -135,4 +135,3 @@ Details of the PR process for updating docs once this migration is complete will
 ## Documentation template for contributions
 
 TODO
-
