@@ -18,6 +18,12 @@ Documentation and technical writing at Mattermost covers \(but isn't limited to\
   * Customer Portal
   * Telemetry
 * Apps Framework and Marketplace
+* Documentation metrics:
+  * Docs page ratings via Google Analytics
+  * Google Analytics metrics for page visits, read times, and bounce rates
+  * Customer feedback analysis
+  * Metrics dashboards using RudderStack
+* In-product messaging and interface
 
 Other areas of documentation include:
 
@@ -30,12 +36,6 @@ Other areas of documentation include:
   * [developers.mattermost.com](https://developers.mattermost.com), including Contribute, Integrate, and Extend sections
   * [api.mattermost.com](https://api.mattermost.com)
   * General developer experience docs, e.g. code samples, best practices, and tutorials
-* Documentation metrics:
-  * Docs page ratings via Google Analytics
-  * Google Analytics metrics for page visits, read times, and bounce rates
-  * Customer feedback analysis
-  * Metrics dashboards using RudderStack
-* In-product messaging and interface
 * Community and doc review process
   * Process for Doc Up plugin
   * Docs review and release coordination
