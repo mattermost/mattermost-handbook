@@ -18,17 +18,17 @@ Documentation and technical writing at Mattermost covers \(but isn't limited to\
   * Customer Portal
   * Telemetry
 * Apps Framework and Marketplace
+
+Other areas of documentation include:
+
+* Mattermost Handbook
+* Integrations \(developer documentation, plugin documentation, and developer journey\)
 * Documentation metrics:
   * Docs page ratings via Google Analytics
   * Google Analytics metrics for page visits, read times, and bounce rates
   * Customer feedback analysis
   * Metrics dashboards using RudderStack
 * In-product messaging and interface
-
-Other areas of documentation include:
-
-* Mattermost Handbook
-* Integrations \(developer documentation, plugin documentation, and developer journey\)
 * GitLab documentation for:
   * [GitLab Mattermost docs](https://docs.gitlab.com/omnibus/gitlab-mattermost/%20)
   * GitLab helm chart docs
