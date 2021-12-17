@@ -139,7 +139,7 @@ Mattermost documentation covers a number of different topics. For documentation,
 * Security: Katie Wiersgalla \(@wiersgallak\)
 * Cloud: Katie Wiersgalla \(@wiersgallak\)
 * Playbooks: Ian Tao \(@tao\)
-* Boards: Chen-I Lim \@chenilim\)
+* Boards: Winson Wu \@winsonwu\)
 * Licensing: Jason Blais\(\@jasonblais\)
 * Mobile and desktop app: Eric Sethna \(@esethna\)
 * Apps and Marketplace: Aaron Rothschild \(@aaronrothschild\)
@@ -161,7 +161,7 @@ If your change requires dev review add the developer/s you've been working with 
 * Server/infra: Joram Wilander \(@jwilander\)
 * Cloud: Joram Wilander \(@jwilander\)
 * Security: Daniel Schalla \(@dschalla\)
-* QA: Linda Mitchell \(@lindalumitchell\)
+* QA: Saturnino Abril \(@saturninoabril\)
 * Handbook and Process: Jason Blais \(@jasonblais\)
 
 The full list of R&D teams is available [here](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit#gid=0).
@@ -212,21 +212,13 @@ Currently, submitting a translation PR follows the same writing and editing proc
 
 ## General contribution workflow
 
-### Jira Tickets
+### DWG board
 
-The [Technical Writing Jira board](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=80) is a snapshot of the current Technical Writing workload.
+If you have a feature, UI copy, or general documentation requirement, please create a card on the [DWG incoming requests board](https://community.mattermost.com/plugins/focalboard/workspace/g4k9s1f953n4bytz5f9sz9orer/shared/bm47zpk19p3b4ufb3krjt4usgfo/vwgh41ounkbr4d8n3xsbjggoy9y?r=k4z1qsm4y5tntiyqt78fcbksmhh).
 
-If you have a feature, UI copy, or general documentation requirement, please create a ticket and include the following fields:
+For best results, include as much content, context, and detail as possible. Once you're done, tag @carrie.warner or @justine.geffen. The board is checked daily and cards are prioritized based on current workload.
 
-* Label: Documentation
-* Team: Tech Writing
-* Assign the ticket to the relevant writer.
-* Select a sprint.
-* Add the "docs/needed" label so the issue shows up on our board.
-
-For best results, please include as much content, context, and detail as possible.
-
-If the Jira ticket is for documentation related to a release, the documentation needs to be complete at least 10 days prior to release. Please ensure you allow sufficient time for your request to be completed or it will be moved to the next available slot.
+If the card is for documentation related to a release, the documentation needs to be complete at least 10 days prior to release. Please ensure you allow sufficient time for your request to be completed or it will be moved to the next available slot.
 
 ### Editing requests
 
