@@ -34,7 +34,7 @@ Use the [Authorization Matrix](https://docs.google.com/spreadsheets/d/1fDIMiO0uy
 
 * E-sign request sent on weekdays before 4pm Palo Alto time should be signed by 9pm Palo Alto on the same day and if sent on a weekend signed by 9pm Palo Alto time on the following Monday provided one of the following is true:
   * **For e-sign from Mattermost staff member:** The e-sign is sent by a Mattermost staff member and must have Legal approval. E-signs sent from approved Mattermost staff are preferred since they are archived automatically in our e-sign system.
-  * **For e-sign from outside the company:** The e-sign is prepared by a non-Mattermost staff member \(potentially a vendor, partner or customer\) and Legal approval is provided either by a stamp within the document, by initial or via email to Ian Tien and Amy Nicol, ideally ahead of receiving the e-sign request.
+  * **For e-sign from outside the company:** The e-sign is prepared by a non-Mattermost staff member \(potentially a vendor, partner, or customer\) and Legal approval is provided either by a stamp within the document, by initial or via email to Ian Tien and Amy Nicol, ideally ahead of receiving the e-sign request.
       * **Note:** E-sign requests from non-Mattermost staff are automatically filtered to a spam folder and the spam filter needs to be searched to find the request.
 * If the timeline is urgent, or if the e-sign isn't completed by the expected timeline please send Ian Tien and Amy Nicol a Group Direct Message on the Mattermost server to expedite.
 
