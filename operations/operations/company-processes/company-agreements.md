@@ -19,7 +19,7 @@ Use the [Authorization Matrix](https://docs.google.com/spreadsheets/d/1fDIMiO0uy
 
 ## Who can send agreements for signature?
 
-**ONLY** the following staff are approved to send agreementss to be e-signed:
+**ONLY** the following staff are approved to send agreements to be e-signed:
 
 ### Approved Mattermost staff
 
