@@ -2,11 +2,12 @@
 
 | Product Area | Example Features | PM Owner |
 | :--- | :--- | :--- |
-| Playbooks | Incident Response Colloboration, Checklists, Retrospectives | Stephan Vanhemmen, Ian Tao |
-| Boards | Boards, Tasks, Focalboard | Winson Wu, Chen I-Lim |
 | Channels | Chat, Search, Notifications, Status, User Settings, Onboarding, Mobile | Eric Sethna |
+| Playbooks | Incident Response Colloboration, Checklists, Retrospectives | Ian Tao |
+| Boards | Boards, Tasks, Focalboard | Winson Wu, Chen I-Lim |
 | Apps & Integrations | Plugins, Apps, Apps Marketplace, Apps & Plugin Framework | Aaron Rothschild |
-| Growth | Trials, Billing, Purchases/Customer Portal, In-Product Notices, Admin Advisor, Licenses | Don Hogan |
+| Growth | Trials, User Activation, Signup Flows, In-Product Notices, Admin Advisor | Don Hogan |
+| Cloud & Self-Service | Cloud, Billing, Purchases/Customer Portal, Licenses | Jason Blais |
 | Users & Teams | User Invite, User Sign-in/Authentication, User Roles, User & Team Management, User Groups, User Settings| Laney Coletti-Saracino|
 | Distribution | High Availabilty, Database, File Storage, Security, Logging, VPC Peering, Kubernetes, Omnibus | Neil Barnett |
 
