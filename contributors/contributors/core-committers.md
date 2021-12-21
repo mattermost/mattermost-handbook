@@ -238,7 +238,14 @@ The core team's Product Designers design features, user experience, and how the 
 The core team's release manager prioritizes and coordinates Cloud and self-managed releases across all the teams.
 
 * [**Amy Blais**](core-committers.md)
-  * @amyblais on [community.mattermost.com](https://community.mattermost.com/core/messages/@amyblais) and [@amyblais](https://github.com/amyblais) on GitHub
+  * @amy.blais on [community.mattermost.com](https://community.mattermost.com/core/messages/@amy.blais) and [@amyblais](https://github.com/amyblais) on GitHub
+
+## Product Analyst Engineers
+
+The core team's product analyst engineer owns product data modelling, analysis & reporting to draw data-driven insights to product and engineering teams.
+
+* [**Srikar Gudipudi**](core-committers.md)
+  * @srikar.gudipudi on [community.mattermost.com](https://community.mattermost.com/core/messages/@srikar.gudipudi) and [@sri-byte](https://github.com/sri-byte) on GitHub
 
 ## QA Testers
 
