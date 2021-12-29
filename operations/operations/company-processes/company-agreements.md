@@ -29,20 +29,20 @@ The following staff are approved to send contracts to be e-signed in accordance 
 | Corporate Agreements | - | &#9745; | - | - | - | - | - |
 | MM Standard Order Form | - | - | &#9745; | - |  - | - | - |
 | Non-Standard Order Form | - | - | &#9745; | - |  - | - | `APPROVAL`|
-| MM Standard MSA`*`| - | - | &#9745; | - |  - | - | - |
-| Non-Standard MSA`*`| - | - | &#9745; | - |  - | - | `APPROVAL` |
+| MM Standard MSA `*`| - | - | &#9745; | - |  - | - | - |
+| Non-Standard MSA `*`| - | - | &#9745; | - |  - | - | `APPROVAL` |
 | MM Standard Reseller | - | - | &#9745; | - | - | - | -|
 | Non-Standard Reseller | - | - | &#9745; | - |-| - | `APPROVAL`|
 | Sales Commission Plan| - | - | - | &#9745; |  - | - | -|
-| Customer Success MBO Plan`***`| - | - | - | - | &#9745; | - | -|
+| Customer Success MBO Plan `***`| - | - | - | - | &#9745; | - | -|
 | Supplier Forms| - | - | - | - |  - | &#9745;  | - |
 | Secuirty Questionnaire| - | - | - | - |  - | - | &#9745; |
-| MM Standard NDA`**`| - |  &#9745; | - | - |- | - | -|
-| Non-Standard NDA`**`| - | - | - | - | - | - | &#9745;|
+| MM Standard NDA `**`| - |  &#9745; | - | - |- | - | -|
+| Non-Standard NDA `**`| - | - | - | - | - | - | &#9745;|
 
  - `*` _MSA = Master Service Agreement_
  - `**` _NDA = Non-Disclosure Agreement_
- - `***` _MBO = Managed Business Opbjective_ 
+ - `***` _MBO = Managed Business Objective_ 
  - `APPROVAL` - _Requires approval first from Department head before sending via e-sign_
  
 If the primary person below is not available to send for signature (e.g. PTO or Out of Office), the secondary person will take their place.
@@ -59,33 +59,43 @@ If the primary person below is not available to send for signature (e.g. PTO or 
 
 ## What is the signing order for e-signs?
 
-All e-signs should have be initialled or approved first before signature unless the following criteria are met:
-- it's a standard agreement
+All e-signs should be initialled or approved first before signature unless all the following criteria are met:
+- standard agreement is used
 - standard agreement has not been modified or redlined
 
-Below are the deparments and roles that should be initialled or provid an approval stamp on the final document before sending for signature 
+Below are the deparments and roles that should initiall or provide an approval stamp on the final document before sending for signature  to the CEO or VP Finance. 
 
 | Agreement | HR | Sales Ops | Customer Success | Finance | Legal | Security |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | 
-| Staff  | X | -| - | - | - | - |
-| Vendor  | - | -| - | - | X | - |
+| Staff  | &#9745; | -| - | - | - | - |
+| Vendor  | - | -| - | - | &#9745; | - |
 | MM Standard Consulting  | -| - | - | - | - | - |
-| Non-Standard Consulting  | -| - | - | - | X |-|
-| Corporate Agreements | -| - | - | X |- |- | 
+| Non-Standard Consulting  | -| - | - | - | &#9745; |-|
+| Corporate Agreements | -| - | - | &#9745; |- |- | 
 | MM Standard Order Form | -| - | - | - | - | - |
-| Non-Standard Order Form | -| - | - | - | X | - |
-| MM Standard MSA`*`| -| - | - | - | - | - |
-| Non-Standard MSA`*`| -| - | - | - | X | - |
+| Non-Standard Order Form | -| - | - | - | &#9745; | - |
+| MM Standard MSA `*`| -| - | - | - | - | - |
+| Non-Standard MSA `*`| -| - | - | - | &#9745; | - |
 | MM Standard Reseller | -| - | - | - | - | - |
-| Non-Standard Reseller | -| - | - | - | X | - |
-| Sales Commission Plan| -| X| - | X | - | - |
-| Customer Success MBO Plan`***`| X| - | X | - | - | - |
-| Other MBO Plan`***`| X| - | - | - | - | - |
-| Supplier Forms| -| - | - | X | - | - |
-| Secuirty Questionnaire| -| - | - | - |X | X |
-| MM Standard NDA`**`| -| - | - | - | - | - |
-| Non-Standard NDA`**`| -| - | - | - | X | - |
+| Non-Standard Reseller | -| - | - | - | &#9745; | - |
+| Sales Commission Plan `2`| -| &#9745;| - | &#9745;| - | - |
+| Customer Success MBO Plan `***` `2`| &#9745;| - | &#9745; | - | - | - |
+| Other MBO Plan `***`| &#9745;| - | - | - | - | - |
+| Supplier Forms| -| - | - | &#9745; | - | - |
+| Secuirty Questionnaire `2`| -| - | - | - |&#9745; |&#9745;|
+| MM Standard NDA `**`| -| - | - | - | - | - |
+| Non-Standard NDA `**`| -| - | - | - | &#9745; | - |
 
+- `2` - _Requires two or more people to review and initial the document before sending for signature_
+
+| Department | Person Approved to Initial/Stamp |
+| --- | :--- |
+| HR  | Natalie Jew |
+| Sales Ops  | Jim Ketaily |
+| Customer Success  | Natalie Jew |
+| Finance  | Elad Rosenberg |
+| Legal  | Jamie Hurewitz|
+| Security  | Daniel Schalla |
 
 ## What are e-sign completion expectations?
 
