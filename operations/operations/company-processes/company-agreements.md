@@ -42,7 +42,7 @@ The following staff are approved to send contracts to be e-signed in accordance 
 
  - `*` _MSA = Master Service Agreement_
  - `**` _NDA = Non-Disclosure Agreement_
- - `***` _MBO = Managed Business Objective_ 
+ - `***` _MBO = Managed Business Objective_
  - `APPROVAL` - _Requires approval first from Department head before sending via e-sign_
  
 If the primary person below is not available to send for signature (e.g. PTO or Out of Office), the secondary person will take their place.
@@ -60,10 +60,11 @@ If the primary person below is not available to send for signature (e.g. PTO or 
 ## What is the signing order for e-signs?
 
 All e-signs should be initialled or approved first before signature unless all the following criteria are met:
-- standard agreement is used
-- standard agreement has not been modified or redlined
 
-Below are the deparments and roles that should initiall or provide an approval stamp on the final document before sending for signature  to the CEO or VP Finance. 
+- Standard agreement is used
+- Standard agreement has not been modified or redlined
+
+Below are the deparments and roles that should initiall or provide an approval stamp on the final document before sending for signature  to the CEO or VP Finance.
 
 | Agreement | HR | Sales Ops | Customer Success | Finance | Legal | Security |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | 
@@ -116,4 +117,3 @@ Below are the deparments and roles that should initiall or provide an approval s
       * Each should have sticker labels indicating what is needed to sign, so nothing is missed.
     * A pen.
     * Appropriate envelopes and/or UPS mailing labels to send the signed package on after it is received.
-
