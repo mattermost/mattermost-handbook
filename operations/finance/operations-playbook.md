@@ -1,10 +1,14 @@
 # Operations Playbook
+[50% draft](https://handbook.mattermost.com/company/about-mattermost/mindsets#drafts-at-1-50-99)
 
-## Accounting overview
+Purpose: To provide an overveiw of the current process, playbooks, and flows that govern the day-to-day actions of the Finance and Accounting function. This is meant to 
 
-![Accounting Systems Flows v2](https://user-images.githubusercontent.com/52299088/147831802-b83d5a70-5e29-423d-a792-dcde79ae0849.png)
+## Accounting Overview
+[Flowchart Link](https://lucid.app/lucidchart/a9134447-128d-4731-a687-763be22ff980/edit?invitationId=inv_ae8373db-7c88-4728-9db3-7209e1f6c7ec&page=0_0#)
+![Accounting Systems Flows v2](https://user-images.githubusercontent.com/52299088/147887705-885ce32d-106a-4d0e-82c8-a1bb90b2baaa.png)
 
-The below table is the current list of each systems and provider used within the Finance function. As we are continuously improving our processes, this list update to refelct the current state. 
+
+The below table is the current list of each system and provider used within the Accounting function. As we are continuously improving our processes, this list is updated periodically to refelct the current processes and functions. New processes or depricated processes will be noted and dated when added.
 
 |Systems|Definition|Systems|Definition|
 |:----|:----|:----|:----|
@@ -22,7 +26,7 @@ The below table is the current list of each systems and provider used within the
 
 ### Treasury
 
-The banking and treasury function is robust and defined by the number 
+Internal processes and framework for day-to-day banking and treasury functions.
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -39,6 +43,7 @@ The banking and treasury function is robust and defined by the number
 
 
 ### Revenue and acounts receivable
+Internal processes and framework for order processinng, sales order review and invoicing, recognizing US GAAP revenue, cash collections, and uncollectible receivables.
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -63,6 +68,7 @@ The banking and treasury function is robust and defined by the number
 
 
 ### Prepaid assets
+Internal processes and framework for booking and recognizing upfront payments for future vendor services. 
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -71,6 +77,7 @@ The banking and treasury function is robust and defined by the number
 
 
 ### Fixed assets
+Internal processes and framework for booking and recognizing phyiscal property and depreciation/amortization. 
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -80,6 +87,7 @@ The banking and treasury function is robust and defined by the number
 
 
 ### Procurement and accounts payable 
+Internal processes and framework for requesting spend, obtaining functional and financial approvals, review of vendor and consultant contracts, contract signing, invoice processing and classification, and making payments. 
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -93,6 +101,7 @@ The banking and treasury function is robust and defined by the number
 
 
 ### Payroll
+Internal processes and framework for day-to-day payroll processes.
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -105,6 +114,7 @@ The banking and treasury function is robust and defined by the number
 
 
 ### Equity
+Internal processes and framework for equity transactions and US GAAP expense reporting
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -114,6 +124,7 @@ The banking and treasury function is robust and defined by the number
 |[FAQ: Mattermost Stock Plan](https://docs.google.com/document/d/1jcYEMZvg2xGz5XdlxE661Aw0vgVL0u1FiOs8tBdUVwY/edit?usp=sharing)|`G-word`|FAQ| |As needed|Tim Quock|Corporate Finance|
 
 ### Expenses
+Internal processes and framework for [how to spend company money](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money).
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -127,6 +138,7 @@ The banking and treasury function is robust and defined by the number
 
 
 ### Intercompany
+Internal processes and framework for intercompany transactions and reporting.
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -135,6 +147,7 @@ The banking and treasury function is robust and defined by the number
 
 
 ### Corporate accounting and consolidations
+Internal processes and framework for financial consolidations and other corporate matters. 
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -146,6 +159,8 @@ The banking and treasury function is robust and defined by the number
 
 
 ### Taxes
+Internal processes and framework for corporate taxes, sales and use tax, and other tax matters.
+
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -155,6 +170,7 @@ The banking and treasury function is robust and defined by the number
 
 
 ### Systems
+Internal processes and framework for system integrations and automated workflows/scripts.
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -167,10 +183,11 @@ The banking and treasury function is robust and defined by the number
 |[Automated dunning process](https://docs.google.com/document/d/14Ihyy4YorrCjCv02aovvO9BSNpbJnkBWrEA13yeXW3Q/edit?usp=sharing)|`Netsuite`|Playbook| |As needed|Jeff Dynda|Finance|
 
 
-## Corporate finance overview
-
+## Corporate Finance Overview
+The corporate finance function consists of FP&A operations, Corprorate Finance and Budget, Long-term Planning, and Strategic Finance.
 
 ### Budget
+Internal processes and framework to run the annual budget, review actuals to budget, and out of cycle budgetary requests. 
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -179,6 +196,7 @@ The banking and treasury function is robust and defined by the number
 
 
 ### Financial, Planning and Analysis (FP&A)
+Internal processes and framework for day-to-day FP&A responsabilites. 
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -190,6 +208,7 @@ The banking and treasury function is robust and defined by the number
 
 
 ### Financing
+Internal processes and framework for loans, line of ccredits, and financing rounds.
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -197,19 +216,20 @@ The banking and treasury function is robust and defined by the number
 |[409A valuation process]| |Playbook| |Annual|Elad Rosenberg|Corporate Finance|
 
 
-## Table of contents
+## Roles and Access Rights
 Below is a list of access roles. If you are trying to access a document in, you can only do so if you have the permission to do so. All roles are administered via Google Suite shared drive. If you are unable to access a document and believe you should, reach out to Tim Quock, VP Finance. 
 
 
 |Access Role|Members|
 |:----|:----|
-|Finance|All of Finance (Finance and Accounting)|
-|Corporate Finance|FP&AAccounting|All of Accounting|
-|Payroll|Payroll Team Only|
-|Mattermost|All of Mattermost Staff|
+|[Finance](https://drive.google.com/drive/folders/1W9vxRRPgzIeBF12k3GzhLS4spoiSm0ow?usp=sharing)|All of Finance (Finance and Accounting)|
+|[Corporate Finance](https://drive.google.com/drive/folders/1E6DByz8Ea0tDvw2_flmDJNQu-1e3cdGN?usp=sharing)|FP&A
+|[Accounting](https://drive.google.com/drive/folders/1ks7MSjrfQoP2YfhBD4EmG8xGJI1zKvEF?usp=sharing)|All of Accounting|
+|[Payroll](https://drive.google.com/drive/folders/1DpBE2VLAQhGlP-UytUEyok3RHgaaK0Sc?usp=sharing)|Payroll Team Only|
+|[Mattermost](https://drive.google.com/drive/folders/1ofBZbAdpDUHud3kGWAv0jJSwM-n8kFx8?usp=sharing)|All of Mattermost Staff|
 |MLT|Executive Team Only|
-|G&A|All of G&A|
-|Equity|Finance team members that are allowed to view equity|
+|[G&A](https://drive.google.com/drive/folders/1sc6sVfXDE-nADfpHhvGlh1CoyMz0J-45?usp=sharing)|All of G&A|
+|[Equity](https://drive.google.com/drive/folders/1rEgoUcuNRJmfRgFr3ocvD10bqi8fzHtf?usp=sharing)|Finance team members that are allowed to view equity|
 
 
 
