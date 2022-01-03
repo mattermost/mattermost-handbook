@@ -1,26 +1,27 @@
 # Operations Playbook
 [50% draft](https://handbook.mattermost.com/company/about-mattermost/mindsets#drafts-at-1-50-99)
 
-Purpose: To provide an overveiw of the current process, playbooks, and flows that govern the day-to-day actions of the Finance and Accounting function. This is meant to 
+Purpose: To provide an overveiw of the current process, playbooks, and flows that govern the day-to-day actions of the Finance and Accounting function. When using the operations playbook, not all documents are made available as they contain sensitive or personal information. To comply with governing laws (e.g. GDPR, CCPA) and the safety of all Mattermost staff, we are only providing access based merited need. For access rights transparency, you may refer to this [referenceable table](https://handbook.mattermost.com/operations/finance/operations-playbook#roles-and-access-rights) which you may use to see team members authorized to access each document.  
 
 ## Accounting Overview
-[Flowchart Link](https://lucid.app/lucidchart/a9134447-128d-4731-a687-763be22ff980/edit?invitationId=inv_ae8373db-7c88-4728-9db3-7209e1f6c7ec&page=0_0#)
 ![](../../.gitbook/assets/accounting-systems-flows-v2.png)
+
+[Flowchart Link](https://lucid.app/lucidchart/a9134447-128d-4731-a687-763be22ff980/edit?invitationId=inv_ae8373db-7c88-4728-9db3-7209e1f6c7ec&page=0_0#)
 
 The below table is the current list of each system and provider used within the Accounting function. As we are continuously improving our processes, this list is updated periodically to refelct the current processes and functions. New processes or depricated processes will be noted and dated when added.
 
-|Systems|Definition|Systems|Definition|
+|**Systems**|Definition|**Systems**|Definition|
 |:----|:----|:----|:----|
-|Netsuite|ERP system|Celigo|Integrator for various systems|
-|Banking|Silicon Valley Bank or First Republic Bank|S-Connector|Integrator for Stripe and Netsuite|
-|Expensify|Expense tracking, approval, and payments (US)|Divvy|For issuing virtual credit cards|
-|Deel|Staff not going through an entity or contract|Transferwise|For paying international vendors|
-|Vistra|3rd party accounting and payroll provider|Paypal|For small ancillary spend|
-|TriNet|US payroll|Bamboo|HR system of record|
-|Ubiquity|US 401k|G-Sheet|Collaboration and supporting docs purpose|
-|Accrualify|Procure to pay system|G-Word|Collaboration and supporting docs purpose|
-|SFDC|Order logging and forecasting|G-Powerpoint|Collaboration and supporting docs purpose|
-|Stripe|Self-serve and cloud billing system|Excel|Collaboration and supporting docs purpose|
+|**Netsuite**|ERP system|**Celigo**|Integrator for various systems|
+|**Banking**|Silicon Valley Bank or First Republic Bank|**S-Connector**|Integrator for Stripe and Netsuite|
+|**Expensify**|Expense tracking, approval, and payments (US)|**Divvy**|For issuing virtual credit cards|
+|**Deel**|Staff not going through an entity or contract|**Transferwise**|For paying international vendors|
+|**Vistra**|3rd party accounting and payroll provider|**Paypal**|For small ancillary spend|
+|**TriNet**|US payroll|**Bamboo**|HR system of record|
+|**Ubiquity**|US 401k|**G-Sheet**|Collaboration and supporting docs purpose|
+|**Accrualify**|Procure to pay system|**G-Word**|Collaboration and supporting docs purpose|
+|**SFDC**|Order logging and forecasting|**G-Powerpoint**|Collaboration and supporting docs purpose|
+|**Stripe**|Self-serve and cloud billing system|**Excel**|Collaboration and supporting docs purpose|
 
 
 ### Treasury
