@@ -42,7 +42,7 @@ Internal processes and framework for day-to-day banking and treasury functions.
 |[Cash disbursement waterfall](https://docs.google.com/document/d/1hpD-c16kx_lliXhuxkF9oNZED9idlzk2O-0nJQlptbY/edit#)|`Netsuite`|Playbook| |Monthly|Jeff Dynda|Accounting|
 
 
-### Revenue and acounts receivable
+### Revenue and accounts receivable
 Internal processes and framework for order processinng, sales order review and invoicing, recognizing US GAAP revenue, cash collections, and uncollectible receivables.
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
