@@ -1,7 +1,7 @@
 # Operations Playbook
 [50% draft](https://handbook.mattermost.com/company/about-mattermost/mindsets#drafts-at-1-50-99)
 
-Purpose: To provide an overveiw of the current process, playbooks, and flows that govern the day-to-day actions of the Finance and Accounting function. When using the operations playbook, not all documents are made available as they contain sensitive or personal information. To comply with governing laws (e.g. GDPR, CCPA) and the safety of all Mattermost staff, we are only providing access based merited need. For access rights transparency, you may refer to this [referenceable table](https://handbook.mattermost.com/operations/finance/operations-playbook#roles-and-access-rights) which you may use to see team members authorized to access each document.  
+Purpose: To provide an overview of the current process, playbooks, and flows that govern the day-to-day actions of the Finance and Accounting function. When using the operations playbook, not all documents are made available as they contain sensitive or personal information. To comply with governing laws (e.g. GDPR, CCPA) and the safety of all Mattermost staff, we are only providing access-based merited need. For access rights transparency, you may refer to this [referenceable table](https://handbook.mattermost.com/operations/finance/operations-playbook#roles-and-access-rights) which you may use to see team members authorized to access each document.  
 
 ## Accounting Overview
 ![](../../.gitbook/assets/accounting-systems-flows-v2.png)
