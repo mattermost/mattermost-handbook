@@ -101,7 +101,7 @@ The name "brown M&M" comes from a safety technique used by the American music ba
 
 When making project investment decisions, we optimize for high impact in the context of customer obsession, empowered by ownership, while being constrained by “be proud of what you build”.
 
-The failure case is over-investing in processes and infrastructure, stealing mana from higher priority work, reducing speed and agility for the company and unnecessarily increasing cost and bureacracy.
+The failure case is over-investing in processes and infrastructure, stealing mana from higher priority work, reducing speed and agility for the company and unnecessarily increasing cost and bureaucracy.
 
 The objective of optimization is to invest at minimal levels for efficiency and safety while maximizing impact.
 
@@ -138,7 +138,7 @@ This system has several benefits:
 
 1. The Mini-boss provides feedback on the most obvious issues, allowing the End-boss to focus on nuanced issues the Mini-boss didn’t find.
 2. The Mini-boss learns from the End-boss feedback, understanding what was missed, and becoming a better reviewer.
-3. Eventually the Mini-boss will be as skilled at reviewing as the End-boss, who will have nothing futher to add after the Mini-boss review. At this point, the Mini-boss becomes an End-boss, ready to train a new Mini-boss.
+3. Eventually the Mini-boss will be as skilled at reviewing as the End-boss, who will have nothing further to add after the Mini-boss review. At this point, the Mini-boss becomes an End-boss, ready to train a new Mini-boss.
 
 The naming of this term comes from video games, where a person submitting material for review must pass a “mini-boss” challenge before a “end-boss” challenge for different disciplines.
 
