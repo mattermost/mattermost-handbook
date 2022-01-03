@@ -5,8 +5,7 @@ Purpose: To provide an overveiw of the current process, playbooks, and flows tha
 
 ## Accounting Overview
 [Flowchart Link](https://lucid.app/lucidchart/a9134447-128d-4731-a687-763be22ff980/edit?invitationId=inv_ae8373db-7c88-4728-9db3-7209e1f6c7ec&page=0_0#)
-![Accounting Systems Flows v2](https://user-images.githubusercontent.com/52299088/147887705-885ce32d-106a-4d0e-82c8-a1bb90b2baaa.png)
-
+![](../../.gitbook/assets/accounting-systems-flows-v2.png)
 
 The below table is the current list of each system and provider used within the Accounting function. As we are continuously improving our processes, this list is updated periodically to refelct the current processes and functions. New processes or depricated processes will be noted and dated when added.
 
