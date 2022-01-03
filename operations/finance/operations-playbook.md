@@ -57,7 +57,7 @@ Internal processes and framework for order processinng, sales order review and i
 |[Cloud and sales-serve reconciliation](https://docs.google.com/document/d/1K6wjEx7LftW1t8og9EV3vaM9CRsQP7jmDDOfr4nHQ4Y/edit?usp=sharing)|`Netsuite` `Stripe`|Playbook| |Monthly|Jeff Dynda|Accounting|
 |[Recognize revenue for self-managed and cloud sales-serve and self-serve sales](https://docs.google.com/document/d/1PUK3qgsgQQ2NOLEEVZAvmeJgkCo4zXs99JKnnKappJk/edit)|`Netsuite`|Playbook| |Monthly|Ben Graham|Accounting|
 |[Accounts receivable reconciliation and rollforward](https://docs.google.com/document/d/1yYAIXQjCI17Zd3uRHj798WMNzkdpBImlR5Zs1vsimPw/edit?usp=sharing)|`Netsuite`|Playbook| |Monthly|Jeff Dynda|Accounting|
-|[Initiating customer credit freeze](https://docs.google.com/document/d/1TSCUqJh7SoWEpkeozshCDvnrT9sWglHDB5GUoGNXV6M/edit?usp=sharing)|`Netsuite` "SFDC`|Playbook| |Weekly|Jeff Dynda|Accounting|
+|[Initiating customer credit freeze](https://docs.google.com/document/d/1TSCUqJh7SoWEpkeozshCDvnrT9sWglHDB5GUoGNXV6M/edit?usp=sharing)|`Netsuite` `SFDC`|Playbook| |Weekly|Jeff Dynda|Accounting|
 |[Accounts receivable write-off](https://docs.google.com/document/d/1ogUGZ0jdVbJhHR7wYtB6_WBrCer4UWn7iX1r7cZIO_I/edit?usp=sharing)|`Netsuite`|Playbook| |Quarterly|Jeff Dynda|Accounting|
 |[Issuing SLA credits](https://docs.google.com/document/d/1YnvUA6jdAJF55kd4YaILpK_BfrM2MUnkM5XCUXa71MY/edit?usp=sharing)|`Netsuite` `Stripe`|Playbook| |As needed|Ben Graham|Accounting|
 |[Record deferred revenue](https://docs.google.com/document/d/1IzKya4OrMcFiiF4iuG9IrKsIcSEZ8YpOpdEPJNLHbnM/edit#heading=h.ocf5tbkimw96)|`Netsuite`|Playbook| |Monthly|Ben Graham|Accounting|
