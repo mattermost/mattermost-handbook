@@ -8,7 +8,7 @@ The defining attributes of a responsible cardholder include the following:
 
 * Abiding by the [How to Spend Company Money](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money) policy.
 * Avoiding business-related purchases as an expense. Travel and one-time expenses such as individual travel meals, airfare, team dinner, etc. are allowable expenses to put on your corporate credit card. Business-related expenses such as software spend, hosting costs, prepayments for conference events, and other large or recurring expenses that are not individual or one-time expense in nature should follow the [Purchasing Process](https://handbook.mattermost.com/operations/finance/purchasing/how-to-procure-a-vendor-contract).
-* Reviewing and validating credit card transactions in a timely manner. If there is an unknown or suspicious charge(s), follow the [Fraudulent Charges](https://docs.google.com/document/d/1R8jYReScjKnJdHLxzOatvlnsXWNyu7SgRoOj8WR4cJk/edit#heading=h.o8c034r4yeer) steps.
+* Reviewing and validating credit card transactions in a timely manner. If there is an unknown or suspicious charge(s), follow the [Fraudulent Charges](https://handbook.mattermost.com/operations/finance/staff-member-expenses/corporate-credit-card-policy#fraudulent-charges) steps.
 
 As a cardholder, you are the primary individual responsible for the card. You are ultimately responsible for all charges on your card including those by other staff members. Your responsibility to ensure the following:
 
