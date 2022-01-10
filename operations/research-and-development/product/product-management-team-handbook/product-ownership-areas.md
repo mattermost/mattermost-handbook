@@ -5,7 +5,7 @@
 | Channels | Chat, Search, Notifications, Status, User Settings, Onboarding, Mobile | Eric Sethna |
 | Playbooks | Incident Response Colloboration, Checklists, Retrospectives | Ian Tao |
 | Boards | Boards, Tasks, Focalboard | Winson Wu, Chen I-Lim |
-| Calls | Audio & Video Calls | 
+| Calls | Audio & Video Calls | Ian Tao |
 | Apps & Integrations | Plugins, Apps, Apps Marketplace, Apps & Plugin Framework | Aaron Rothschild |
 | Growth | Product-led growth, Self-serve purchases, Trials, In-product & Email Nurtures, Packaging & Pricing | Don Hogan |
 | Cloud & Self-Service | Cloud, Billing, Purchases/Customer Portal, Licenses | Jason Blais |
