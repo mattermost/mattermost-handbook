@@ -17,7 +17,7 @@ The **SET Lead** is one of the engineering team's Engineering Leads. The SET lea
 2. Communicates the status of ongoing issues appropriately to stakeholders.
 3. Is a point of escalation in case stakeholders do not know who else to escalate to.
 
-The SET Lead is also on call \(via OpsGenie\), and is escalated to whenever neither the SET primary nor SET backup acknowledge an issue in the appropriate time.
+The SET Lead is also on call (via OpsGenie), and is escalated to whenever neither the SET primary nor SET backup acknowledge an issue in the appropriate time.
 
 The **SET Primary** is an engineer from one of the engineering teams. The SET Primary is the first person to respond to any issues escalated. Escalation primarilly happens through the "Sustained Engineering" channel or OpsGenie in cases of time urgency (refer to [Sources of scalations](#Sources-of-escalations) section for more details).
 
