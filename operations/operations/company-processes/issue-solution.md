@@ -67,6 +67,8 @@ We use an Issue/Proposed Solution template to structure these issues, and typica
 
 If the Decision-Maker feels they don’t have enough context to make a decision, DO NOT spend more time talking about the Issue. Instead turn to the RAPID framework described below.
 
+NOTE: If all the key participants have shared their feedback asynchronusly, and it feels the key people are bought in, a decision-maker can consider making the decision asynchronously. Since the goal of an ISP is to help find blindspots, and to get buy-in, once you have that you don't need a meeting. 
+
 # Type 1 vs Type 2 Decisions
 
 A Type 1 decision is a “one-way door”. Once it’s made, it’s very difficult to reverse. Acquiring a company, or discontinuing a product line are examples of Type 1 decisions. 
