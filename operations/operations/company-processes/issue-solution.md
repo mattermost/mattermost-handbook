@@ -92,20 +92,21 @@ Here is an Example of a RAPID. In an Issue/Proposed Solution using RAPID:
   1. The Issue
   2. The Proposed Solution
   3. The list of people needed to make and implement the decision:
-    - R (Recommend) = the one who first proposed the Issue and Solution
-    - A (Agree) = those people whose input must be incorporated in the decision. This is typically blank, unless is is the legal team to ensure no one is breaking the law. It should be very rare that anyone else's agreement is required for a decision. 
-    - P (Perform) = those people who will have to enact any decision and therefore should be heard
-    - I (Input) = those people whose input is worth considering
-    - D (Decide) = the one who will make the decision. 
-      - If Type 1, this should be the CEO.
-      - If Type 2, this should be someone other than the CEO.
+      - R (Recommend) = the one who first proposed the Issue and Solution
+      - A (Agree) = those people whose input must be incorporated in the decision. This is typically blank, unless is is the legal team to ensure no one is breaking the law. It should be very rare that anyone else's agreement is required for a decision. 
+      - P (Perform) = those people who will have to enact any decision and therefore should be heard
+      - I (Input) = those people whose input is worth considering
+      - D (Decide) = the one who will make the decision. 
+        - If Type 1, this should be the CEO.
+        - If Type 2, this should be someone other than the CEO.
   4. A section on the document for each person above to write their comments.
 
 2. The R then reaches out to all the As, Ps and Is to solicit their input. Once this input is received, the document is ready to be reviewed by the D.
 
 3. The R schedules a Decision Meeting and invites the D, As, Is and Ps.
-  - If the issue is urgent, the R schedules this Decision Meeting as soon as it needs to be.
-  - If the issue is non-urgent, the R can use the next Team Meeting as the Decision Meeting.  (This is much more efficient, and should be done whenever the issue is non-urgent.)
+
+    - If the issue is urgent, the R schedules this Decision Meeting as soon as it needs to be.
+    - If the issue is non-urgent, the R can use the next Team Meeting as the Decision Meeting.  (This is much more efficient, and should be done whenever the issue is non-urgent.)
 
 4. At the Decision Meeting, the D reads through the document. If they have any questions, they asks them. If the questions can be fully answered in 5 minutes, they decide. If the questions cannot be answered in 5 minutes, the D asks for another round of written responses on the document to answer the questions. At the next Team Meeting, the D reviews these responses, and decides.
 
