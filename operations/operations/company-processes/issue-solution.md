@@ -22,6 +22,7 @@ Example: A digital marketer who's responsible for managing the executing of adve
 
 Pros: 	
 - Takes very little time.
+
 Con:    	
 - Creates very little buy-in and gets no benefit from the team’s knowledge and experience. 
 
@@ -31,6 +32,7 @@ A Decision-Maker creates (or assigns someone to create) a written straw man (a h
 
 Pros: 	
 - Creates more buy-in. Gets some minimal benefit from the collective wisdom of the team.
+
 Con:   	
 - Takes more time.
 
@@ -40,6 +42,7 @@ Decision-Maker invites a team to a meeting where a dilemma is discussed from scr
 
 Pros: 	
 - Creates the most buy-in. Gets a lot of benefit from the collective wisdom of the team.
+
 Con:   	
 - Takes the most time.
  
