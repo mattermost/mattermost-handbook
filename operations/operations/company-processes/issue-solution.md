@@ -6,44 +6,46 @@ Note: Special thanks to [Matt Mochary](https://www.linkedin.com/in/matt-mochary-
 
 # Decision making
 
-## Getting buy-in 
+## Getting buy-in
 
 One of the core challenges in leadership is getting teams to buy into a decision intellectually and emotionally.
 
-You create buy-in when you make people feel they are part of the decision, and that their input contributes to the final outcome. The more influence they feel they have on the outcome, the more they’ll be invested in the final result.
+You create buy-in when you make people feel they're part of the decision, and that their input contributes to the final outcome. The more influence they feel they have on the outcome, the more they’ll be invested in the final result.
 
-Broadly, there are three ways to make a decision. Each has a different time requirement, and creates a different level of buy-in. The methods that create the most buy-in also take the most amount of time: 
+Broadly, there are three ways to make a decision. Each has a different time requirement, and creates a different level of buy-in. The methods that create the most buy-in also take the most amount of time.
   
-### Method A: Unilateral decision 
+### Method A: Unilateral decision
 
 For a decision where there's a clear decision maker based on Areas of Responsibility (see Type 1 vs Type 2 below), the decision maker announces a decision to the team, and answers questions. This is typical when a decision is within someone’s Area of Responsibility.
 
 Example: A digital marketer who's responsible for managing the executing of advertising campaigns using different vendors would make a Method A decision on which vendors to choose, and let others know.
 
-Pros: 	
+Pros:
 - Takes very little time.
 
-Con:    	
-- Creates very little buy-in and gets no benefit from the team’s knowledge and experience. 
+Con:   	
+- Creates very little buy-in and gets no benefit from the team’s knowledge and experience.
 
-### Method B: Issue and proposed solution 
+### Method B: Issue and proposed solution
 
-A Decision-Maker creates (or assigns someone to create) a written straw man (a hypothetical answer designed to inspire discussion), shares it with the team, invites team to give feedback (written and verbal), facilitates group discussion, makes everyone feel heard by repeating back their comments, and then makes a final decision.
+A decision maker creates (or assigns someone to create) a written straw man (a hypothetical answer designed to inspire discussion), shares it with the team, invites team to give feedback (written and verbal), facilitates group discussion, makes everyone feel heard by repeating back their comments, and then makes a final decision.
 
-Pros: 	
+Pros:
 - Creates more buy-in. Gets some minimal benefit from the collective wisdom of the team.
 
-Con:   	
+Con:
 - Takes more time.
 
-### Method C: Wallow on strategic issue 
+### Method C: Wallow on strategic issue
 
-Decision-Maker invites a team to a meeting where a dilemma is discussed from scratch with no straw man. Team shares ideas. Decision-maker repeats back everyone’s ideas until they feel heard. Decision-Maker shares their own idea last (because theirs is the loudest voice in the room). Decision-maker makes decision.  (Note that this is not a consensus decision. Buy-in is created by Decision-Maker confirming that they heard all ideas, not by accommodating all ideas.)
+A decision maker invites a team to a meeting where a dilemma is discussed from scratch with no straw man. The team shares ideas. The decision maker repeats back everyone’s ideas until they feel heard. The decision maker shares their own idea last (because theirs is the loudest voice in the room). Lastly, decision maker makes the decision. 
 
-Pros: 	
+Note that this is not a consensus decision. Buy-in is created by the decision maker confirming that they heard all ideas, not by accommodating all ideas.
+
+Pros:
 - Creates the most buy-in. Gets a lot of benefit from the collective wisdom of the team.
 
-Con:   	
+Con:
 - Takes the most time.
  
 Not surprisingly, the greatest benefits require the most work. If you want more buy-in and a better decision, you need to take more time in making the decision.
@@ -52,7 +54,7 @@ So, which method should you use? It depends on how significant the decision is, 
 
 For everyday, low-impact issues (for example, entering a new reseller relationship), Method A is sufficient. For major, core issues (for example, Company 10-Year Vision), Method C is necessary. For everything in between (the vast majority of important decisions), Method B is optimal.
 
-For Method B, we use the Issue/Proposed Solution method:
+For Method B, we use the Issue/Proposed Solution method.
 
 # Issues/Proposed Solution
 
@@ -62,11 +64,11 @@ Instead, we require that anyone who presents an issue at a team meeting do so in
 
 All Issues and Proposed Solutions are presented at the weekly Team Meeting, including a pre-recording that can be replayed asynchronously at high speed to save time.
 
-Allow up to 5 minutes of discussion for each tactical (short-term) Proposed Solution and up to 20 minutes for each strategic (long-term) Proposed Solution. If in that time, the Decision-Maker feels that they have enough context to make a decision, they announce and write the decision. The Solution is turned into one or more Next Actions with a DRI (Directly Responsible Individual) and Due Date for each.
+Allow up to 5 minutes of discussion for each tactical (short-term) Proposed Solution and up to 20 minutes for each strategic (long-term) Proposed Solution. If in that time, the decision maker feels that they have enough context to make a decision, they announce and write the decision. The Solution is turned into one or more Next Actions with a DRI (Directly Responsible Individual) and Due Date for each.
 
 We use an Issue/Proposed Solution template to structure these issues, and typically include a recording of the issue so it can be explained quickly and concisely.
 
-If the Decision-Maker feels they don’t have enough context to make a decision, DO NOT spend more time talking about the Issue. Instead turn to the RAPID framework described below.
+If the decision maker feels they don’t have enough context to make a decision, DO NOT spend more time talking about the Issue. Instead turn to the RAPID decision making framework described below.
 
 # Type 1 vs Type 2 decisions
 
@@ -85,8 +87,8 @@ Most decisions are Type 2.
 
 When a decision is complex and can’t be reached efficiently even after a well-prepared ISP, we should use a RAPID framework. This is in specific cases when:
 
-- A team has become too large to easily get all of the needed voices in one room
-- Consensus cannot be reached within 5-20 minutes of discussion
+- A team has become too large to easily get all of the needed voices in one room.
+- Consensus cannot be reached within 5-20 minutes of discussion.
 
 Here is an Example of a RAPID. In an Issue/Proposed Solution using RAPID:
 
@@ -95,10 +97,10 @@ Here is an Example of a RAPID. In an Issue/Proposed Solution using RAPID:
   1. The Issue
   2. The Proposed Solution
   3. The list of people needed to make and implement the decision:
-      - R (Recommend) = the one who first proposed the Issue and Solution
+      - R (Recommend) = the one who first proposed the Issue and Solution.
       - A (Agree) = those people whose input must be incorporated in the decision. This is typically blank, unless is is the legal team to ensure no one is breaking the law. It should be very rare that anyone else's agreement is required for a decision. 
-      - P (Perform) = those people who will have to enact any decision and therefore should be heard
-      - I (Input) = those people whose input is worth considering
+      - P (Perform) = those people who will have to enact any decision and therefore should be heard.
+      - I (Input) = those people whose input is worth considering.
       - D (Decide) = the one who will make the decision. 
         - If Type 1, this should be the CEO.
         - If Type 2, this should be someone other than the CEO.
@@ -109,8 +111,8 @@ Here is an Example of a RAPID. In an Issue/Proposed Solution using RAPID:
 3. The R schedules a Decision Meeting and invites the D, As, Is and Ps.
 
     - If the issue is urgent, the R schedules this Decision Meeting as soon as it needs to be.
-    - If the issue is non-urgent, the R can use the next Team Meeting as the Decision Meeting.  (This is much more efficient, and should be done whenever the issue is non-urgent.)
+    - If the issue is non-urgent, the R can use the next Team Meeting as the Decision Meeting. This is much more efficient, and should be done whenever the issue is non-urgent.
 
-4. At the Decision Meeting, the D reads through the document. If they have any questions, they asks them. If the questions can be fully answered in 5 minutes, they decide. If the questions cannot be answered in 5 minutes, the D asks for another round of written responses on the document to answer the questions. At the next Team Meeting, the D reviews these responses, and decides.
+4. At the Decision Meeting, the D reads through the document. If they have any questions, they asks them. If the questions can be fully answered in 5 minutes, they decide. If the questions can't be answered in 5 minutes, the D asks for another round of written responses on the document to answer the questions. At the next Team Meeting, the D reviews these responses, and decides.
 
 5. Once the D decides, they write up the Decision (or asks the R to do so) along with all the Next Actions (each with a DRI and Due Date). The D then publishes this decision to the company via the appropriate ticketing system and/or other channels.
