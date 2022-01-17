@@ -1,10 +1,10 @@
-# Playbooks Release Process
+# Playbooks release process
 
 This document outlines the Playbooks release process for the Mattermost core team. Our release process draws from many best practice Agile, Scrum, and Software Development Lifecycle methodologies.
 
 Every two weeks, the team runs through a playbook to cut a new release of the plugin, smoke test it, and add it to the marketplace. That gets pushed to cloud immediately \(via split.io\), and any self-managed customers who desire the upgrade may do so from the plugin marketplace.
 
-## Release Timeline
+## Releasetimeline
 
 Schedule for Playbooks releases:
 
@@ -26,7 +26,7 @@ On the first Monday of each month, or the next business day, the Playbooks team'
 
 * Assign milestones to Jira tickets and PRs to help prioritize bug fixes
 * Auto-generated release notes with changes, upgrade notes, minimum server version requirement, contributors, and known issues
-* Update NOTICE.txt
+* Update `NOTICE.txt`
 * Update dependencies
 * Testing and automated tests on PRs and on RCs
 * Marketing - Release announcements, tweets
