@@ -107,7 +107,7 @@ Once your PR is submitted, there's a review process that includes an editorial r
 
 Once the review is complete, we'll move your contribution to the appropriate part of [docs.mattermost.com](https://docs.mattermost.com) \(if it's not there already\) and then merge it. We'll share the URL and you can edit it at any time if you need to.
 
-### Submitting documentation with your PR: Community
+### Submit documentation with your PR: Community
 
 We want to empower everyone to contribute to our documentation, and be comfortable submitting documentation for contributions. As such, we don't expect every contribution to adhere to our style guide when first submitted.
 
@@ -126,7 +126,7 @@ You can read more about the review process [here](https://developers.mattermost.
 
 **Note:** This process does not apply to the [API Documentation requirements](https://github.com/mattermost/mattermost-api-reference) as it is updated automatically and isn't part of the documentation process.
 
-### Adding reviewers to PRs
+### Add reviewers to PRs
 
 Mattermost documentation covers a number of different topics. For documentation, the following reviewers are recommended:
 
@@ -168,15 +168,17 @@ If your change requires dev review add the developer/s you've been working with 
 
 The full list of R&D teams is available [here](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit#gid=0).
 
-### Requesting Documentation via Doc Up
+## Submit a documentation request
 
-Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the Doc Up plugin embedded in the post menu.
+If you have documentation requests or questions, you can submit a request via the Doc Up plugin or submit a GitHub issue directly via the Docs repo. All issues are reviewed and feedback provided. 
 
-Access the Doc Up plugin by hovering over a message and selecting the ***...*** menu.
+While we do accept ad-hoc requests for work, we appreciate this process being followed as it helps us prioritize and ensure coverage for all work.
 
-When you select Doc Up and choose **Admin** as the issue type, an issue is generated in the GitHub docs repo, and added to the issues list. An update is listed in the Documentation channel, with the issue link.
+### Via Doc Up
 
-You can also select **Developer** or **Company Handbook** to direct the Doc Up request to the appropriate repo.
+Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the Doc Up plugin embedded in the post menu. Access the Doc Up plugin by hovering over a message and selecting the ***...*** menu.
+
+When you select Doc Up and choose **Admin** as the issue type, an issue is generated in the GitHub docs repo, and added to the issues list. An update is listed in the Documentation channel, with the issue link. You can also select **Developer** or **Company Handbook** to direct the Doc Up request to the appropriate repo.
 
 As the issues are open to the community, the more information provided in the issue the better.
 
@@ -184,7 +186,7 @@ Review the issue in the [docs repo](https://github.com/mattermost/docs/issues?q=
 
 ### Create a GitHub issue
 
-We really want the community to own the docs as much as possible. If you have feedback on our documentation, a suggestion, or new content you'd like to add but don't know where to put it - you can create a GitHub issue.
+If you have feedback on our documentation, a suggestion, or new content you'd like to add but don't know where to put it - you can create a GitHub issue.
 
 The issue will be reviewed by the Technical Writing team and a **Help Wanted** label may be added so that community members are able to identify work that they’re able to assist with. If your documentation request/issue applies to a repository other than _mattermost/docs_, you can ping @justinegeffen or @cwarnermm. Alternatively, you can open an issue in that repo.
 
@@ -201,18 +203,22 @@ We understand that all work is important and urgent in some way. However, as a s
 
 ### P2: Important
 
-- Content is inaccurate
-- 
+- Content is inaccurate; will affect customer goals and productivity
+- Information about new features or changes isn't documented and needs to be
 
 ### P3: Not urgent/not important
 
 - Enhancement to the user experience of the docs
 
-### i18n contributions
+## Our Board
 
-**Note: This process is in flight.\***
+If urgent and important work is identified, we'll add it to our DWG Board and you can follow its progress there.
 
-Our product documentation is available for translation contributions. Join the [i18n channel](https://community.mattermost.com/core/channels/localization) on our Community server and connect with our translation community members. The documentation translation process is still being defined.
+## i18n contributions
+
+**Note: This process is in flight.***
+
+Our product documentation is available for translation contributions. Join the [i18n channel](https://community.mattermost.com/core/channels/localization) on our Community server and connect with our translation community members. The documentation translation process is still being defined, and @cwarnermm is the DRI along with members of the Localization team.
 
 Currently, submitting a translation PR follows the same writing and editing process as other PRs. However, there are additional considerations to bear in mind when submitting your PR as these assist with the approval and merge process:
 
