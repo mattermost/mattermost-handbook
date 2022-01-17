@@ -6,7 +6,7 @@ If the staff member has completed one calendar year or more at Mattermost at the
 
 If the hardware requires a buyout, IT will send the staff member an email with the determined value. Then if the employee decides to move forward with the purchase, our accounting department will reach out with payment information.
 
-If a staff member decides to retain their hardware, they are required to wipe the device, re-install the base operating system, and remove any and all software and configurations that were supplied by Mattermost. You will be required to sign a document acknowledging you they have not taken or retained any confidential Mattermost software or data.
+If a staff member decides to retain their hardware, they are required to wipe the device, re-install the base operating system, and remove any and all software and configurations that were supplied by Mattermost. You'll be required to sign a document acknowledging you have not taken or retained any confidential Mattermost software or data.
 
 ## Requirements for keeping a device
 

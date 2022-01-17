@@ -20,6 +20,7 @@ This section outlines:
 * Ian Tien: Co-Founder and CEO
 * Corey Hulen: Co-Founder and CTO
 * Tim Quock: VP, Finance
+* David Reardon: VP Worldwide Sales
 * Chris Overton: VP, Engineering
 * Barry Duplantis: VP, Customer Success
 * Matt Harper: VP, Marketing
@@ -251,17 +252,4 @@ The focus of Q4 is arriving at a 99% draft of the plan for next fiscal with alig
 4. Department heads work with their teams, peer stakeholders, and CEO to develop Department V2MOM from 50% to 99%
 5. 99% MLT V2MOM is reviewed by MLT and agreed
 6. 99% Department V2MOMs are reviewed by MLT peers and CEO and agreed
-7. Plan for next fiscal year is locked based on V2MOMs
-
-#### MLT V2MOM Review Process
-
-V2MOMs, quarterly plans, and proposed orgs are reviewed by MLT. Use the following order to review V2MOMs:
-
-* Vision
-* Values
-* Methods
-* Obstacles
-* Measures
-
-MLT shares feedback on each V2MOM and quarterly plan. Cross-department dependencies documented.
-
+7. Plan for next fiscal year 

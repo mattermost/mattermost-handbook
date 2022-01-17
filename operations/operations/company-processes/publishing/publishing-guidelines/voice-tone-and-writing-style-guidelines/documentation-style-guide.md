@@ -19,6 +19,19 @@ When you revise a document, apply the style guide rules to the part that you cha
 * **Write in the context of achievement.** The documentation should help Mattermost users and administrators achieve their goals. Write imperative sentences as much as possible. Imperative sentences begin with verbs and give instructions, information, and advice to help people install, administer, and use Mattermost with success. Use positive constructs as much as possible, but note that a negative construct can act as a warning that causes a reader to pay closer attention to the content, resulting in higher levels of accomplishment.
 * **Write to facilitate scanning.** Readers need to find information quickly. People don't read documentation as much as they scan it for solutions to their immediate problem. Writing and presentation styles that seem redundant in essays or other texts are often helpful to people scanning for information.
 
+## How we write things
+
+One of our ongoing initiatives is to ensure our documentation is written in natural, clear language. We also focus on empathy and ensuring that we set our readers up for success. This section of the style guide is about content we reuse across our documentation. 
+
+For details about how we write UI text, naming conventions for CTAs, and writing with empathy, take a look at the [User Interface Text Guidelines](operations/research-and-development/product/development-process/user-interface-text-guidelines.md).
+
+### Tabbed content
+
+When presenting content in tabs, tab names must be exactly the same across all instances, for consistency.
+
+"From Mattermost version 6.0..."
+"In Mattermost versions up to v5.39"
+
 ## Writing style
 
 While we don't strictly follow a specific Style Guide, we've based our Style Guide on the Chicago Manual of Style for the most part. We also borrow conventions from the AP Style Guide. In cases where we have a blend of the two, we've provided references and explanations.

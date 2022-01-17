@@ -72,6 +72,7 @@
       * [Focalboard Release Process](operations/research-and-development/product/release-process/focalboard-release.md)
       * [Security Release Process](operations/research-and-development/product/release-process/security-release.md)
       * [Mobile App Release Process](operations/research-and-development/product/release-process/mobile-release.md)
+      * [Desktop App Release Process](operations/research-and-development/product/release-process/desktop-release.md)
       * [Release Tips](operations/research-and-development/product/release-process/release-tips.md)
       * [Release Scorecard Definitions](operations/research-and-development/product/release-process/release-scorecard-definitions.md)
     * [How to Guides for Product](operations/research-and-development/product/how-to-guides-for-product/README.md)
@@ -90,6 +91,7 @@
     * [Growth](operations/research-and-development/product/growth/README.md)
       * [A/B Testing Methodology](operations/research-and-development/product/growth/ab-testing.md)
     * [Analytics](operations/research-and-development/product/analytics/README.md)
+      * [Product Analyst Engineer Levels](operations/research-and-development/product/analytics/analyst-levels.md)
       * [Looker](operations/research-and-development/product/analytics/looker/README.md)
         * [Dashboards](operations/research-and-development/product/analytics/looker/dashboards.md)
         * [Explores](operations/research-and-development/product/analytics/looker/explores.md)
@@ -137,7 +139,14 @@
   * [Lead Management](operations/sales/lead-management.md)
 * [Customer Success](operations/customer-success/README.md)
   * [Customer Support](operations/customer-success/customer-support.md)
-* [Legal](operations/legal.md)
+* [Legal](operations/legal/legal.md)
+  * [Contracts](operations/legal/contracts.md)
+    * [Mattermost Contract Repository](operations/legal/contracts/contract-repository.md)
+    * [Requesting Sales Contracts](operations/legal/contracts/requesting-sales-contracts.md)
+    * [Requesting Template Contracts From Legal (Through SpotDraft)](operations/legal/contracts/requesting-template-in-spotdraft.md)
+    * [Signing a Contract using SpotDraft](operations/legal/contracts/signing-contracts.md)
+    * [Requesting Review of a Third-Party Contract](operations/legal/contracts/third-party-review.md)
+    * [Uploading an Executed Agreement](operations/legal/contracts/uploading-contracts.md) 
 * [Finance](operations/finance/README.md)
   * [Budget](operations/finance/budget.md)
   * [Purchasing](operations/finance/purchasing/README.md)
@@ -159,6 +168,7 @@
   * [Staff Member Expenses](operations/finance/staff-member-expenses/README.md)
     * [How to spend company money](operations/finance/staff-member-expenses/how-to-spend-company-money.md)
     * [How to spend company money: Internships](operations/finance/staff-member-expenses/internship-expense-policy.md)
+    * [Corporate Credit Card Policy](operations/finance/staff-member-expenses/corporate-credit-card-policy.md)
     * [How to use Expensify](operations/finance/staff-member-expenses/how-to-use-expensify.md)
     * [How to book airfare and travel](operations/finance/staff-member-expenses/airfare-and-traveling.md)
     * [How to reimburse the company](operations/finance/staff-member-expenses/how-to-reimburse-the-company.md)
@@ -174,7 +184,8 @@
   * [Privacy](operations/security/privacy/README.md)
     * [Data Deletion Requests](operations/security/privacy/data-deletion-requests.md)
     * [Data Subject Access Requests](operations/security/privacy/data-subject-access-requests.md)
-  * [Product Security](operations/security/product-security.md)
+  * [Product Security](operations/security/product-security/README.md)
+    * [Working on Security-sensitive Pull Requests](operations/security/product-security/working-on-sensitive-prs.md)
   * [Security Operations](operations/security/security-operations/README.md)
     * [User Guides](operations/security/security-operations/user-guides.md)
 * [Workplace](operations/workplace/README.md)
@@ -209,6 +220,7 @@
   * [IT](operations/workplace/it/README.md)
     * [IT Helpdesk](operations/workplace/it/helpdesk.md)
     * [Hardware Buy Back Policy](operations/workplace/it/hardware-buy-back-policy.md)
+    * [Software Systems](operations/workplace/it/software-systems.md)
 
 ## Contributors
 
@@ -248,4 +260,3 @@
 ## Help and Support
 
 * [Contact Us](help-and-support/contact-us.md)
-

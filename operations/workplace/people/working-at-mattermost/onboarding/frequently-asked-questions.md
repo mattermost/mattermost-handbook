@@ -42,13 +42,13 @@ Email [hr@mattermost.com](mailto:hr@mattermost.com) with any questions or concer
 * Discuss the dates you plan to take off with your manager, and decide who will be your backup.
 * For meetings you’ll miss, message the chair with any status updates.
 * Post in the [Stand-up channel](https://community-daily.mattermost.com/private-core/channels/stand-up) the dates you’ll be away and who will be your backup. Add the hashtag \#timeoff somewhere in your message so people can spot it easily.
-* Block off time in the shared [Mattermost Timeoff](https://calendar.google.com/calendar/embed?src=mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com&ctz=America%2FLos_Angeles) calendar, so it’s easy for the team to see who is going to be away.
+* Book time off in BambooHR. The dates will appear in Bamboo's [Who's Out Calendar](https://mattermost.bamboohr.com/calendar#), so it’s easy for the team to see who is going to be away. More details [here](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off). 
 * **Optional:** Add an out of office reply in **Account Settings &gt; Notifications &gt; Automatic Direct Message Replies**.
 * **Note:** 
   * If you're taking time off for a personal or family illness in excess of three days, please contact [hr@mattermost.com](mailto:hr@mattermost.com). 
   * Company holidays are listed [here](https://docs.mattermost.com/process/working-at-mattermost.html?#holidays), but please take off on holidays that are relevant to your culture, country of residence, and preferences.
 
-To add the Timeoff calendar to your calendar, use this URL when prompted to [Add Calendar From URL](https://calendar.google.com/calendar/r/settings/addbyurl?tab=mc): [https://calendar.google.com/calendar/ical/mattermost.com\_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com/private-68486d8e03649b706b5824d6c4712951/basic.ics](https://calendar.google.com/calendar/ical/mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com/private-68486d8e03649b706b5824d6c4712951/basic.ics).
+You can create an [iCalendar Feed](https://help.bamboohr.com/hc/en-us/articles/229310127-Create-an-iCalendar-Feed) to link BambooHR's Who's Out Calendar to your GCalendar.
 
 ## Where can I find templates?
 

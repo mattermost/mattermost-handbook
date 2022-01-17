@@ -108,11 +108,11 @@ If you're interested in contributing to the process, please join the [Mattermost
 
 | Language | Official Reviewer\(s\) | Maintainers |
 | :--- | :--- | :--- |
-| Bulgarian | [[Nikolai Zahariev \(nikolaiz\)](https://translate.mattermost.com/user/nikolaiz/) | |
-| Deutsch - German | TBD \(Open Role\) |  |
+| Bulgarian | [Nikolai Zahariev \(nikolaiz\)](https://translate.mattermost.com/user/nikolaiz/) | |
+| Deutsch - German | [JtheBAB \(jthebab\)](https://translate.mattermost.com/user/JtheBAB/) | [Jan-Peter Rusch \(jprusch\)](https://translate.mattermost.com/user/jprusch/) |
 | English - Australian | [Matthew Williams \(matthew.williams\)](https://translate.mattermost.com/user/matthew-w/) |  |
 | Español - Spanish | [Elias Nahum \(enahum\)](https://github.com/enahum) | [Jesús Espino \(jespino\)](https://github.com/jespino) |
-| Français - French | [William Gathoye \(wget\)](https://github.com/wget) |  |
+| Français - French | [William Gathoye \(wget\)](https://github.com/wget) |  [Nathanaël Houn \(nathanaelhoun\)](https://translate.mattermost.com/user/nathanaelhoun/) |
 | Magyar - Hungarian | [Zsolt Godó \(sakaitsu\)](https://translate.mattermost.com/user/sakaitsu) | [Csaba Tóth \(tsabi\)](https://translate.mattermost.com/user/tsabi) |
 | Italiano - Italian | [Michael Longo \(mlongo4290\)](https://github.com/mlongo4290) | [Ema Panz \(thepanz\)](https://github.com/thepanz) |
 | 日本語 - Japanese | [Yusuke Nemoto \(kaakaa\)](https://github.com/kaakaa) |  |

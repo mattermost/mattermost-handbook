@@ -12,7 +12,7 @@ Note: Specific teams may develop their own variations on this workflow. This is 
 
 ### Weekly
 
-1. Participate in team triage / planning meetings
+1. Participate in team triage/planning meetings
 2. Participate in [QA Guild meeting](https://community.mattermost.com/core/channels/qa-weekly-meetings)
 3. Consider giving a demo in QA meeting and/or R&D meeting
 4. \(QA Platform\) Rainforest release testing and maintenance
@@ -22,10 +22,10 @@ Note: Specific teams may develop their own variations on this workflow. This is 
 ### Monthly
 
 1. SDET \(Software Development Engineer in Test, the test engineers in QA\) rotation to monitor nightly automated tests and investigate and update as needed \(see below\)
-2. Oversee your team's release testing and QA-approve releases \(cadence may vary by team / product\)
+2. Oversee your team's release testing and QA-approve releases \(cadence may vary by team/product\)
 3. \(QA Platform\) Detox mobile release testing and maintenance
 
-### As Needed
+### As needed
 
 1. Develop test plans for new features, add test cases to Zephyr test management
 2. Approve new features after manual testing passes
@@ -33,7 +33,7 @@ Note: Specific teams may develop their own variations on this workflow. This is 
 4. Help tend to community campaigns such as test automation Hackathons and QA community feature testing
 5. Add or update documentation as you find need or opportunity
 
-## PR Reviews
+## PR reviews
 
 1. PR author adds `3: QA Review` label to every PR
 2. PR author adds a specific QA person as a reviewer _after_ PM/UX and dev reviews are done
@@ -48,21 +48,21 @@ Note: Specific teams may develop their own variations on this workflow. This is 
 5. Establish or verify test plan and scope if not already spelled out
    * Can use [Test Plan Template](https://docs.google.com/document/d/16w9jMWXRRjuBbkF923Qka02UQyjF5_QI9skNEBb4fQQ) as appropriate, especially for major features
    * Ensure test cases are added or updated in Zephyr test management
-   * For most PRs / bug fixes, note test details in the PR and related JIRA ticket \(no separate document needed\)
-6. Ask questions and report issues in comments on the PR, mentioning the PR author \(and the PM / another dev as needed\)
+   * For most PRs/bug fixes, note test details in the PR and related JIRA ticket \(no separate document needed\)
+6. Ask questions and report issues in comments on the PR, mentioning the PR author \(and the PM/another dev as needed\)
 7. Request changes as part of the Review Changes flow in GitHub, which can make it easier to manage in your PR to-do list
 8. Verify unit and E2E tests are present and provide adequate coverage
    * If needed, add comment mentioning the author to ask about adding tests
    * Important: Ensure that E2E tests contain the proper mapping key to connect with Zephyr test management
 9. Note that some pre-approved scenarios such as many Server team PRs that don't require QA testing may use the label `QA Deferred` 
-10. When complete, click Review Changes, add comment, and approve
+10. When complete, select **Review Changes**, add comment, and approve
 11. Remove label `3: QA Review`
 12. If other reviews are still open, add label `QA Review Done`
 13. If yours was the last review \(commonly the case\), add label `4: Reviews Done`
     * You may be the one to merge the PR if you're the last reviewer; this varies by team
-14. On the related JIRA ticket, assign yourself as QA Assignee
+14. On the related Jira ticket, assign yourself as QA Assignee
 
-## Verifying and Closing Resolved Jira Tickets
+## Verifying and closing resolved Jira tickets
 
 1. [QA-Assigned to you, not-closed](https://mattermost.atlassian.net/issues/?filter=15192)
 2. Handling various ticket resolutions
@@ -70,7 +70,7 @@ Note: Specific teams may develop their own variations on this workflow. This is 
    * `Duplicate`: Ensure the duplicate ticket is linked in a comment and close as duplicate
    * `Done`: Test according to test steps / test plan as appropriate
 3. May not need to re-test for self-managed release if already satisfactorily tested for previous Cloud release
-4. Be sure to test across webapp, mobile apps, and desktop app
+4. Be sure to test across Web App, Mobile apps, and Desktop App
 5. Ensure it is noted in the ticket and test case if any of the expected behavior or the bug itself was environment-specific \(e.g. Android-only, Safari-only, etc.\)
 6. Ensure related Zephyr test cases are linked to the ticket for traceability \(can link to the test case from the ticket in the Zephyr section of the ticket\)
 7. Update test cases in Zephyr as needed
@@ -86,7 +86,7 @@ Note: Specific teams may develop their own variations on this workflow. This is 
     * If a hotfix is being backported to additional versions, add `done-5.38` for example, as the fix is tested on each version
     * Also always leave a comment explaining what testing has been completed and what is left to test 
 
-## UI Test Automation
+## UI test automation
 
 1. [Help drive and write E2E tests for your team](https://developers.mattermost.com/contribute/webapp/end-to-end-tests/)
 2. Happy path for new features and bug fixes should be written or updated by the dev writing the feature or fix
@@ -100,4 +100,3 @@ Note: Specific teams may develop their own variations on this workflow. This is 
 6. Help review and shepherd community contributions
    * [E2E help-wanted issues available for contributors](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Area%2FE2E+Tests%22+)
 7. [E2E overview](https://developers.mattermost.com/contribute/webapp/end-to-end-tests/)
-

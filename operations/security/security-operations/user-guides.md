@@ -1,7 +1,5 @@
 # User Guides
 
-description: &gt;-
-
 ## Reference of internal user guides
 
 * [Vault User Documentation](https://docs.google.com/document/d/1S4i1XFGn7a1VXbtFV28GtbAe56m7fOHDZDgRmm5FBkg/edit)\*

@@ -23,6 +23,12 @@ Other areas of documentation include:
 
 * Mattermost Handbook
 * Integrations \(developer documentation, plugin documentation, and developer journey\)
+* Documentation metrics:
+  * Docs page ratings via Google Analytics
+  * Google Analytics metrics for page visits, read times, and bounce rates
+  * Customer feedback analysis
+  * Metrics dashboards using RudderStack
+* In-product messaging and interface
 * GitLab documentation for:
   * [GitLab Mattermost docs](https://docs.gitlab.com/omnibus/gitlab-mattermost/%20)
   * GitLab helm chart docs
@@ -30,12 +36,6 @@ Other areas of documentation include:
   * [developers.mattermost.com](https://developers.mattermost.com), including Contribute, Integrate, and Extend sections
   * [api.mattermost.com](https://api.mattermost.com)
   * General developer experience docs, e.g. code samples, best practices, and tutorials
-* Documentation metrics:
-  * Docs page ratings via Google Analytics
-  * Google Analytics metrics for page visits, read times, and bounce rates
-  * Customer feedback analysis
-  * Metrics dashboards using RudderStack
-* In-product messaging and interface
 * Community and doc review process
   * Process for Doc Up plugin
   * Docs review and release coordination
@@ -141,7 +141,7 @@ Mattermost documentation covers a number of different topics. For documentation,
 * Security: Katie Wiersgalla \(@wiersgallak\)
 * Cloud: Katie Wiersgalla \(@wiersgallak\)
 * Playbooks: Ian Tao \(@tao\)
-* Boards: Chen-I Lim \@chenilim\)
+* Boards: Winson Wu \@winsonwu\)
 * Licensing: Jason Blais\(\@jasonblais\)
 * Mobile and desktop app: Eric Sethna \(@esethna\)
 * Apps and Marketplace: Aaron Rothschild \(@aaronrothschild\)
@@ -163,7 +163,7 @@ If your change requires dev review add the developer/s you've been working with 
 * Server/infra: Joram Wilander \(@jwilander\)
 * Cloud: Joram Wilander \(@jwilander\)
 * Security: Daniel Schalla \(@dschalla\)
-* QA: Linda Mitchell \(@lindalumitchell\)
+* QA: Saturnino Abril \(@saturninoabril\)
 * Handbook and Process: Jason Blais \(@jasonblais\)
 
 The full list of R&D teams is available [here](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit#gid=0).
@@ -236,7 +236,7 @@ Currently, submitting a translation PR follows the same writing and editing proc
 
 The [Documentation Working Group (DWG) channel](https://community.mattermost.com/core/channels/dwg-documentation-working-group) is where you'll find us, and you can view our current projects in the channel's board.
 
-If the Jira ticket is for documentation related to a release, the documentation needs to be complete at least 10 days prior to release. Please ensure you allow sufficient time for your request to be completed or it will be moved to the next available slot.
+If the card is for documentation related to a release, the documentation needs to be complete at least 10 days prior to release. Please ensure you allow sufficient time for your request to be completed or it will be moved to the next available slot.
 
 ### Submit an editing request
 

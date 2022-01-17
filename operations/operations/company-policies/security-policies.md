@@ -10,7 +10,7 @@ As new threats emerge, a [responsible disclosure policy](https://www.mattermost.
 
 The commercial Mattermost Enterprise Edition extends the security and productivity benefits of the open source solution with support for advanced security, management, scale, and policy compliance features for complex organizations.
 
-## Mattermost Development Guidelines
+## Mattermost development guidelines
 
 ### Tracking
 
@@ -30,14 +30,14 @@ The commercial Mattermost Enterprise Edition extends the security and productivi
 * Mattermost uses a [responsible disclosure policy](https://www.mattermost.org/responsible-disclosure-policy) to accept confidential reports of new threats, so they can be addressed either immediately through a dot release, or by the next monthly release depending on potential impact.
 * When Mattermost software undergoes security and penetration testing at customer sites security updates are added to the core software and [publicly documented by release](https://about.mattermost.com/security-updates).
 
-### Patch Management
+### Patch management
 
 * Critical updates are released for urgent, high priority security issues or critical losses of functionality that should not wait for the next monthly release.
 * Mattermost software has a mandatory upgrade policy and customers and users need to be on the latest release to receive critical updates.
 * Critical updates are delivered as dot releases, for example a critical update to release `3.1.0` would be named `3.1.1`.
 * Customers and subscribers to the Security Bulletin [mailing list](https://mattermost.com/blog/category/security-updates) receive notifications about all critical updates.
 
-### Security Review Checklist
+### Security review checklist
 
 In addition to checklists for quality and reliability, code changes receive multiple reviews for the following system security design principles:
 
@@ -49,7 +49,7 @@ In addition to checklists for quality and reliability, code changes receive mult
 * Preventing cross-site forgery
 * Preventing remote code execution
 
-## Security Update Monitoring
+## Security update monitoring
 
 The following resources are monitored for information about new security threats and attack vectors.
 
@@ -64,7 +64,7 @@ The following resources are monitored for information about new security threats
 
 All dependencies are updated on a regular basis to ensure Mattermost uses the latest security updates.
 
-## Common Security Related Questions for Enterprises
+## Common security-related questions for Enterprises
 
 ### Governance
 
@@ -99,7 +99,7 @@ All dependencies are updated on a regular basis to ensure Mattermost uses the la
 15. Is there a personnel termination or change of status process?
     * Yes.
 
-### Access Control
+### Access control
 
 1. Is access to and maintenance of applications, systems, network components \(including routers, databases, firewalls, voice communications servers, voice recording servers, voice response units \(VRU\) etc\), operating systems, virtualization components, hypervisors, or other information objects restricted to authorized personnel only?
    * Yes.
@@ -118,7 +118,7 @@ All dependencies are updated on a regular basis to ensure Mattermost uses the la
 8. If user accounts are assigned to non-permanent personnel \(e.g., contractors, consultants\) for troubleshooting purposes, are the accounts disabled or removed after each use?
    * Yes.
 
-### Operational Security
+### Operational security
 
 1. Is there a risk assessment program that has been approved by management, communicated to appropriate personnel, and has an owner to maintain and review the program?
    * Yes.
@@ -149,7 +149,7 @@ All dependencies are updated on a regular basis to ensure Mattermost uses the la
 14. Are email attachments scanned by anti-virus software?
     * Yes.
 
-### Business Resiliency
+### Business resiliency
 
 For more information on Business Resiliency, see the Business Continuity Plan.
 
@@ -236,7 +236,7 @@ For more information on Business Resiliency, see the Business Continuity Plan.
 4. Is some form of dynamic code scanning performed as part of the release acceptance? What tools are used?
    * Yes, Jenkins is used for dynamic code scanning as part of the release process.
 
-### Security Response
+### Security response
 
 1. Do you have a documented company security incident response process?
    * Yes.
@@ -249,13 +249,13 @@ For more information on Business Resiliency, see the Business Continuity Plan.
 5. Is there a specified response policy that includes the timeframe issues are to be addressed?
    * Yes, please see: [https://about.mattermost.com/support/](https://about.mattermost.com/support/).
 
-## Infrastructure Security Policies
+## Infrastructure security policies
 
 1. Technical infrastructure, including network security, servers and access control protocols are regularly reviewed for potential threats and vulnerabilities.
 2. Business process, HR process and policies are regularly reviewed for potential threats and vulnerabilities.
 3. A penetration test on the software is performed regularly. A copy of penetration results may be requested by customers upon five \(5\) day written notice at any time, but no more than once per twelve \(12\) month period.
 
-## Business Continuity Plan
+## Business continuity plan
 
 This document outlines Mattermost, Inc.'s **Disaster Recovery and Business Continuity Plan \(DRBCP\)** informed by the Federal Financial Institutions Examination Council guidelines on Business Continuity Planning in the context of Mattermost, Inc. being a vendor providing self-hosted software and consulting services to financial institutions.
 

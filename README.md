@@ -31,3 +31,12 @@ Feedback on this handbook is immensely appreciated. There are two ways you can s
 
 1. You can create an issue in the [Handbook repository](https://github.com/mattermost/mattermost-handbook/issues). Select **New issue**, and provide as much detail as possible in the issue. Screenshots and links are also welcome. Choose **Submit new issue**. The [Handbook channel](https://community.mattermost.com/private-core/channels/handbook) receives a notification and this begins the cycle of feedback and iteration. While not all feedback will result in an update to the handbook, we definitely want to hear everyone's opinion.
 2. You can edit the page directly, and submit your feedback/suggested changes as a Pull Request \(PR\). PRs go through the same cycle of feedback and iteration. The only difference is that an issue is not an immediate change and may take longer to action. A PR already contains the changes, and has a quicker turnaround time. [Learn how to update this handbook through GitHub](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-update-handbook) for detailed steps.
+
+## Key links and materials
+
+Below is a work-in-progress list of key documents and channels at Mattermost. The symbol `*` indicates material internal to Mattermost staff.
+
+- [Mattermost 6.0 Launch Announcement](https://mattermost.com/blog/mattermost-v6-0-is-now-available/)
+  - [Newsroom](https://mattermost.com/newsroom/)
+  - [Message House](https://docs.google.com/document/d/1Cb5-6PmjHXV_zCfAceEvKoehgG90vo4KcTjqnxzvAyo/edit)*
+  - [Product Onboarding](https://docs.google.com/document/d/1BCFdXHMY5iWc6Ix66yuLtLNbO0sYLMJJDDsSLwqvlTA/edit)*

@@ -32,21 +32,21 @@ Mattermost numbers stable releases in the following format: **\[Version Number\]
 
 ## Objectives
 
-The goal is to deliver value to users quickly by a\) shipping fast to get features to customers quickly for experimentation / feedback, and b\) iteratively behind feature flags as a protection if any issues arise. This document outlines the principles and guidelines for how we release a new update of each product line weekly to Cloud and monthly to self-managed.
+The goal is to deliver value to users quickly by a\) shipping fast to get features to customers quickly for experimentation/feedback, and b\) iteratively behind feature flags as a protection if any issues arise. This document outlines the principles and guidelines for how we release a new update of each product line weekly to Cloud and monthly to self-managed.
 
 ## Multi-product Release Principles
 
-The goal is not to have the same release cadence for all products, but there may be similar schedules. E.g. Incident Collaboration and Focalboard plugins are pre-packed once a month with the Self-sanaged releases, however, admins will have a config option to turn off products. As the product suite gets bigger, we’ll need a dedicated Release Manager for each product. We can duplicate/reuse a similar build process for new plugins in the suite.
+The goal is not to have the same release cadence for all products, but there may be similar schedules. E.g. Playbooks and Boards plugins are pre-packed once a month with the self-managed releases, however, admins will have a config option to turn off products. As the product suite gets bigger, we’ll need a dedicated Release Manager for each product. We can duplicate/reuse a similar build process for new plugins in the suite.
 
 **Release Owners**
 
 * Messaging: Amy Blais
-* Focalboard: Focalboard PM and devs; TBD: Amy Blais
-* Incident Collaboration: Incident Collaboration dev rotation; TBD: Amy Blais
+* Boards: Focalboard PM and devs; TBD: Amy Blais
+* Playbooks: Playbooks dev rotation; TBD: Amy Blais
 
 1. **Focus on High Impact by shipping every new feature and any riskier code changes behind a feature flag.**
-   * Enables us to iterate in Cloud to deliver value to Self-Managed users more quickly by shipping changes faster. 
-   * Currently the feature complete deadline for Self-Managed release is roughly 3 weeks prior to release day, but in the future we can consider pushing it to later. Each suite vertical is individually responsible for quality and deciding if a feature should be included in a release or not \(with the release team giving guidelines\). This may mean shipping more patch releases, but we can manage some of this by using feature flags. This also requires good test automation coverage.
+   * Enables us to iterate in Cloud to deliver value to self-managed users more quickly by shipping changes faster. 
+   * Currently the feature complete deadline for self-managed release is roughly 3 weeks prior to release day, but in the future we can consider pushing it to later. Each suite vertical is individually responsible for quality and deciding if a feature should be included in a release or not \(with the release team giving guidelines\). This may mean shipping more patch releases, but we can manage some of this by using feature flags. This also requires good test automation coverage.
 2. **Automate.**
    * This allows us to ship releases more often and push feature complete deadlines to later.
    * Automate release processes and tasks.
@@ -65,21 +65,21 @@ The goal is not to have the same release cadence for all products, but there may
    * Add clear Release Notes on PRs.
 5. **Achieve Customer Obsession by doing retrospectives on release issues and monitoring customer/community release bug reports after releases.**
    * This allows us to learn from issues so that they don’t happen again and to fix critical bugs asap.
-   * Retrospectives for issues and dot releases are important. Sample retrospective doc used for releases. Could also use Incident Collaboration for this.
-   * Monitor community and customer reports in Github, Forum, Zendesk, and channels like Ask R&D, in partnership with the Support team.
+   * Retrospectives for issues and dot releases are important. Sample retrospective doc used for releases. Could also use Playbooks for this.
+   * Monitor community and customer reports in GitHub, Forum, Zendesk, and channels like Ask R&D, in partnership with the Support team.
 6. **Release new products tightly integrated with the Mattermost suite.**
-   * E.g. Focalboard will ship as a plugin in June; Incident Collaboration is a plugin. Plugins are the strategy for now, maybe there will be another strategy for the long-term.
+   * E.g. Boards will ship as a plugin in June; Playbooks is a plugin. Plugins are the strategy for now, maybe there will be another strategy for the long-term.
 
 ## Overview of Release Cycles
 
-Currently Mattermost Cloud releases occur on a 2-week cycle, but the goal is to release more frequently. Cloud and Self-Managed PRs don’t need to be cherry-picked to releases, except for any last minute bug fixes that get merged after the release branch is cut, and any necessary hotfixes.
+Currently Mattermost Cloud releases occur on a 2-week cycle, but the goal is to release more frequently. Cloud and self-managed PRs don’t need to be cherry-picked to releases, except for any last minute bug fixes that get merged after the release branch is cut, and any necessary hotfixes.
 
 Schedule for Mattermost Cloud releases:
 
 * \(T-7\): 7 working days prior to the release day, the `master` branch is merged to the Cloud branch.
 * \(T-0\): Release Day
 
-Schedule for Self-Managed releases:
+Schedule for self-managed releases:
 
 * \(T-12\): Feature Review/Judgment Day/Release branch cut
 * \(T-11\): RC1 Cut
@@ -131,7 +131,7 @@ The Release Manager is able to look at the version we have deployed to Mattermos
 
 * Every two weeks on a Monday, the Server Platform Team opens a PR in the server repository to merge the `master` branch into the `cloud` branch. \([example PR](https://github.com/mattermost/mattermost-server/pull/18916)\).
    * Merge conflicts are fixed and release database version is bumped as needed.
-* For webapp, api-reference and enterprise cloud branches, the current `cloud` branch is deleted and a new one is created from the ``master`` branch for each. A backup of the `cloud` branches are saved.
+* For webapp, api-reference and enterprise cloud branches, the current `cloud` branch is deleted and a new one is created from the `master` branch for each. A backup of the `cloud` branches are saved.
 * Devs and Release Manager should be aware of the dates when a `master` branch is merged into a `cloud` branch in order to be mindful of avoiding having incomplete features in a Cloud release, and to include bug fixes that we may want to include in a release.
 
 **Process for cutting the release branch for Self-Managed releases based off of Cloud releases**
@@ -142,10 +142,10 @@ The Release Manager is able to look at the version we have deployed to Mattermos
 
 Releases are now focused on "shipping features and improvements when they're ready for Mattermost Cloud, and then they'll get to a self-managed release once they've been available on Mattermost Cloud for 2+ weeks".
 
-* If the PR is scheduled for a specific Mattermost Cloud or Self-Managed release, please add the `Cherry-pick Approved` label and Self-Managed milestone on the PR. Cloud doesn't have a specific milestone in GitHub and the PRs can be tracked via the `Cherry-pick Approved` label. The Release Manager keeps track of PRs with the `Cherry-pick Approved` label and Self-Managed milestone on a daily basis.
+* If the PR is scheduled for a specific Mattermost Cloud or self-managed release, please add the `Cherry-pick Approved` label and self-managed milestone on the PR. Cloud doesn't have a specific milestone in GitHub and the PRs can be tracked via the `Cherry-pick Approved` label. The Release Manager keeps track of PRs with the `Cherry-pick Approved` label and self-managed milestone on a daily basis.
 * A new Cloud branch \(based off of `master`\) is used, and any regression bug fixes for the next Cloud release will be cherry-picked there. This applies to webapp/server/Enterprise repos.
 * A fix version such as “Cloud \(November 24\)” is added in Jira to track regression bug fixes for Mattermost Cloud releases.
-* The Self-Managed releases are based off of Mattermost Cloud releases.
+* The self-managed releases are based off of Mattermost Cloud releases.
 
 ## Triaging Mattermost Cloud customer issues
 
@@ -184,9 +184,9 @@ When triaging a bug report, consider the following:
 
 * A: Desktop releases are currently released as required.
 
-**Q: Do we use Incident Collaboration playbooks for releases?**
+**Q: Do we use Playbooks for releases?**
 
-* A: Yes, Incident Collaboration playbooks are used for Cloud, Mobile, Dot releases, Self-managed, and plugin releases, including Incident Collaboration itself.
+* A: Yes, playbooks are used for Cloud, Mobile, Dot releases, self-managed, and plugin releases, including Playbooks itself.
 
 **Q: When is release branch cut for a self-managed release?**
 
@@ -218,11 +218,11 @@ When triaging a bug report, consider the following:
 
 **Q: How to remove a feature/bug from a release?**
 
-* A: The feature flag is turned off. Another option is reverting the feature from the master and release branches.
+* A: The feature flag is turned off. Another option is reverting the feature from the `master` and `release` branches.
 
 **Q: How are NOTICE.txt PRs submitted?**
 
-* A: PRs are first merged to master. The dev reviewer is responsible for helping cherry-picking it to the release branch.
+* A: PRs are first merged to `master`. The dev reviewer is responsible for helping cherry-picking it to the `release` branch.
 
 **Q: Is an improvement a feature or a bug?**
 
@@ -230,11 +230,11 @@ When triaging a bug report, consider the following:
 
 **Q: How does release team monitor what changes went into a release?**
 
-* A: Monitor the commit history of the respective release branch, e.g., [https://github.com/mattermost/mattermost-server/commits/release-5.4](https://github.com/mattermost/mattermost-server/commits/release-5.4) contains commits that shipped with mattermost-server v5.4. Jira ticket is resolved after cherry picking is done.
+* A: Monitor the commit history of the respective `release` branch, e.g., [https://github.com/mattermost/mattermost-server/commits/release-5.4](https://github.com/mattermost/mattermost-server/commits/release-5.4) contains commits that shipped with `mattermost-server v5.4`. Jira ticket is resolved after cherry picking is done.
 
 **Q: How does translations branching work?**
 
-* A: The translation PR will be submitted against the master branch and will be cherry-picked to the release branch as needed.
+* A: The translation PR will be submitted against the master branch and will be cherry-picked to the `release` branch as needed.
 
 **Q: How does cutting mobile builds work?**
 
@@ -263,4 +263,3 @@ When triaging a bug report, consider the following:
 **Q: How will versioning work?**
 
 * Currently the GitHub are tagged as a date, e.g. `cloud-2021-06-02-1`. With Mattermost Cloud, it's not whether or not a feature is enabled, but whether or not the server is capable of supporting the feature.
-

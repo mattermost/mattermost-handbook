@@ -6,9 +6,6 @@ A core committer is a maintainer on the Mattermost project that has merge access
 
 Below is the list of core committers working on Mattermost:
 
-* [**Adolfo García Veytia**](core-committers.md)
-  * @puerco on [community.mattermost.com](https://community.mattermost.com/core/messages/@puerco) and [@puerco](https://github.com/puerco) on GitHub
-  * Dev areas: DevOps, SBOM, Containers, Kubernetes, Supply Chain
 * [**Agniva De Sarker**](core-committers.md)
   * @agniva.de.sarker on [community.mattermost.com](https://community.mattermost.com/core/messages/@agniva.de.sarker) and [@agnivade](https://github.com/agnivade) on GitHub
   * Dev areas: Performance, Load Tests, Go internals
@@ -195,6 +192,8 @@ The core team's Product Managers design, plan, prioritize, and coordinate featur
   * @aaron.rothschild on [community.mattermost.com](https://community.mattermost.com/core/messages/@aaron.rothschild) and [@aaronrothschild](https://github.com/aaronrothschild) on GitHub
 * [**Chen Lim**](core-committers.md)
   * @chen-i.lim on [community.mattermost.com](https://community.mattermost.com/core/messages/@chen-i.lim) and [@chenilim](https://github.com/chenilim) on GitHub
+* [**Don Hogan**](core-committers.md)
+  * @don.hogan on [community.mattermost.com](https://community.mattermost.com/core/messages/@don.hogan) and [@dontoisme](https://github.com/dontoisme) on GitHub
 * [**Eric Sethna**](core-committers.md)
   * @eric on [community.mattermost.com](https://community.mattermost.com/core/messages/@eric) and [@esethna](https://github.com/esethna) on GitHub
 * [**Ian Tao**](core-committers.md)
@@ -236,7 +235,14 @@ The core team's Product Designers design features, user experience, and how the 
 The core team's release manager prioritizes and coordinates Cloud and self-managed releases across all the teams.
 
 * [**Amy Blais**](core-committers.md)
-  * @amyblais on [community.mattermost.com](https://community.mattermost.com/core/messages/@amyblais) and [@amyblais](https://github.com/amyblais) on GitHub
+  * @amy.blais on [community.mattermost.com](https://community.mattermost.com/core/messages/@amy.blais) and [@amyblais](https://github.com/amyblais) on GitHub
+
+## Product Analyst Engineers
+
+The core team's product analyst engineer owns product data modelling, analysis & reporting to draw data-driven insights to product and engineering teams.
+
+* [**Srikar Gudipudi**](core-committers.md)
+  * @srikar.gudipudi on [community.mattermost.com](https://community.mattermost.com/core/messages/@srikar.gudipudi) and [@sri-byte](https://github.com/sri-byte) on GitHub
 
 ## QA Testers
 
