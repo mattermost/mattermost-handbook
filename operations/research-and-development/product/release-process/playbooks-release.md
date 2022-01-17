@@ -6,14 +6,14 @@ Every two weeks, the team runs through a playbook to cut a new release of the pl
 
 ## Release Timeline
 
-Schedule for Incident Collaboration releases:
+Schedule for Playbooks releases:
 
 * Features and bug fixes are merged
 * \(T-3\): Cut a Release Candidate
 * \(T-2\): Smoketesting
 * \(T-0\): Release Day
 
-On the first Monday of each month, or the next business day, the Incident Collaboration team's Product Manager and Dev Lead choose what version of the plugin they will pre-package into that month's self-managed release. The deadline to merge the selected version into the self-managed release is the Code Freeze day. An additional round of testing is required to qualify before merging.
+On the first Monday of each month, or the next business day, the Playbooks team's Product Manager and Dev Lead choose what version of the plugin they will pre-package into that month's self-managed release. The deadline to merge the selected version into the self-managed release is the Code Freeze day. An additional round of testing is required to qualify before merging.
 
 ## Notes
 
