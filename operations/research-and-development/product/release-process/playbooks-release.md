@@ -4,7 +4,7 @@ This document outlines the Playbooks release process for the Mattermost core tea
 
 Every two weeks, the team runs through a playbook to cut a new release of the plugin, smoke test it, and add it to the marketplace. That gets pushed to cloud immediately \(via split.io\), and any self-managed customers who desire the upgrade may do so from the plugin marketplace.
 
-## Releasetimeline
+## Release timeline
 
 Schedule for Playbooks releases:
 
