@@ -1,4 +1,4 @@
-# Incident Collaboration Release Process
+# Playbooks Release Process
 
 This document outlines the Incident Collaboration release process for the Mattermost core team. Our release process draws from many best practice Agile, Scrum, and Software Development Lifecycle methodologies.
 
