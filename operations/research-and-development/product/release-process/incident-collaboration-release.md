@@ -1,6 +1,6 @@
 # Playbooks Release Process
 
-This document outlines the Incident Collaboration release process for the Mattermost core team. Our release process draws from many best practice Agile, Scrum, and Software Development Lifecycle methodologies.
+This document outlines the Playbooks release process for the Mattermost core team. Our release process draws from many best practice Agile, Scrum, and Software Development Lifecycle methodologies.
 
 Every two weeks, the team runs through a playbook to cut a new release of the plugin, smoke test it, and add it to the marketplace. That gets pushed to cloud immediately \(via split.io\), and any self-managed customers who desire the upgrade may do so from the plugin marketplace.
 
@@ -18,18 +18,17 @@ On the first Monday of each month, or the next business day, the Incident Collab
 ## Notes
 
 * Critical bugs are flagged and fixed before releasing, with quick dot releases completed as needed.
-* The team uses Incident Collaboration Playbook checklists for releases and for pre-packaging with self-managed.
-  * Playbooks Team: [Plugin Release playbook](https://community.mattermost.com/core/com.mattermost.plugin-incident-management/playbooks/hzgiqpzsbinpujdnue9xa1kj4y) \(has limited access\)
-  * Playbooks Team: [Feature Swimlane playbook](https://community.mattermost.com/core/com.mattermost.plugin-incident-management/playbooks/1gtdk5q57irzib67w6ocaatimy) \(has limited access\)
+* The team uses a ``Playbooks Team: Plugin Release`` checklist for releases and for pre-packaging with self-managed.
+  * Playbooks Team [Plugin Release playbook](https://community.mattermost.com/playbooks/playbooks/hzgiqpzsbinpujdnue9xa1kj4y/preview) \(has limited access\)
+  * Playbooks Team [Feature Swimlane playbook](https://community.mattermost.com/core/com.mattermost.plugin-incident-management/playbooks/1gtdk5q57irzib67w6ocaatimy) \(has limited access\)
 
 ## Basic release tasks
 
-* Track and triage bugs via Jira
-* Add PR milestones for QA tracking
+* Assign milestones to Jira tickets and PRs to help prioritize bug fixes
 * Auto-generated release notes with changes, upgrade notes, minimum server version requirement, contributors, and known issues
 * Update NOTICE.txt
 * Update dependencies
-* Testing and automated tests
+* Testing and automated tests on PRs and on RCs
 * Marketing - Release announcements, tweets
 * Feature documentation
 * Release
@@ -37,7 +36,6 @@ On the first Monday of each month, or the next business day, the Incident Collab
   * Check minimum required server version \(if applicable\)
 * Contributors
   * Swag
-* Release dates communicated in Incident Response google calendar
+* Release dates communicated in Playbooks google calendar
 * Release retrospective
 * **TBD: Security updates communication**
-
