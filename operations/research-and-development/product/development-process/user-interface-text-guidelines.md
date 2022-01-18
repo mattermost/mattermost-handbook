@@ -103,7 +103,7 @@ The Technical Writers often work with the UI/UX team on in-product copy. The maj
 
 ### How we write things (WIP)
 
-As previously mentioned, we write with empathy in the context of achievement using natural language. This can be quite hard to do; as technical writers we generally lean toward very clear and concise writing that can feel clinical. Writing more naturally means we try to avoid convoluted phrasing and we try to make things more simple. 
+We write with empathy in the context of achievement using natural language. This can be quite hard to do; as technical writers we generally lean toward very clear and concise writing that can feel clinical. Writing more naturally means we try to avoid convoluted phrasing and we try to make things more simple.
 
 So, instead of saying: "When testing the Java app ensure your third-party connection is secure before initiating the test sequence." rather say: "Make sure your third-party connection is secure before testing the app."
 
@@ -115,7 +115,7 @@ There's a big difference between "jargon" and "terminology".
 
 Jargon is usually industry-specific and can be isolating or confusing for users who aren't deeply familiar with them. Terminology is usually universally-accepted and generally understood.
 
-### Guidelines for punctuation
+### Guidelines for UI punctuation
 
 **Headings**
 
@@ -124,6 +124,10 @@ These are H1 headings such as the title of a modal. Titles shouldn't have period
 **Paragraphs**
 
 Paragraphs should always be properly punctuated.
+
+**Sentences**
+
+When you're writing descriptive UI copy, try to write full sentences which can be punctuated. If the copy you're writing can be expressed in a single word, consider moving that word to the input field instead.
 
 **Bullets**
 
