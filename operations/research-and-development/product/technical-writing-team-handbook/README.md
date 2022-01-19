@@ -46,13 +46,13 @@ Other areas of documentation include:
 
 Please reach out to the [Documentation Working Group](https://community.mattermost.com/private-core/channels/dwg-documentation-working-group) for any questions.
 
-### Contributing to documentation
+## How to contribute to the documentation
 
-The basic outline for getting started with contributions is provided in the [README](https://github.com/mattermost/docs/blob/master/README.md) of the docs repo. If you have write access to the repo, you can create a branch off master and work on that.
+Our documentation is open to contributions from anyone. The basic outline for getting started with contributions is provided in the [README](https://github.com/mattermost/docs/blob/master/README.md) of the docs repo. If you have write access to the repo, you can create a branch off master and work on that.
 
 Once complete, submit your Pull Request \(PR\). Ensure that you assign appropriate approvers and labels - if you've forked the repo or don't have the correct repo permissions you may not be able to do this, so you can skip this step. Read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review) - it applies to various types of contributions including documentation.
 
-## PR tips and best practices
+### PR tips and best practices
 
 * Try to submit files in batches rather than single PRs for each file update. This reduces the PR load and also groups your changes more effectively.
 * When there are lots of changes requested, especially on a docs PR that doesn't require QA testing, you can use the "Add suggestion to batch" feature in GitHub to commit all of the suggestions at once. You need to be on the **Files changed** tab to use this feature, though it's also shown on the **Conversation** tab. By batching your suggestions, you can use one commit message such as "Added batch suggestions from @Carrie Warner". This just makes the commit history of the PR a lot more readable and useful for everyone reviewing it.
@@ -62,22 +62,26 @@ Once complete, submit your Pull Request \(PR\). Ensure that you assign appropria
 
 Our [Documentation Style Guide] is a guide to writing Mattermost product documentation and includes guidelines around punctuation, casing, and how to format files. We also have [a guide for writing UI copy](https://handbook.mattermost.com/operations/research-and-development/product/development-process/user-interface-text-guidelines) which includes tip, best practices, and examples.
 
+## Feature documentation process: Product Manager and Developers
+
 ### Submitting feature documentation
 
-Feature documentation is a joint effort between Product Managers and Technical Writers. In the same way that we want to empower everyone to contribute to our documentation, Product Managers are encouraged to write MVP documentation for their product/feature. 
+Feature documentation is a joint effort between Product Managers, Developers, and Technical Writers. In the same way that we want to empower everyone to contribute to our documentation, Product Managers are encouraged to write MVP documentation for their product/feature.
 
-If your PR is for a new feature, major update to an existing feature, or a fix that impacts the current documentation, it's recommended that you include documentation around the change. This is helpful in providing context for reviewers, and also ensures the content can be added to the documentation quickly.
+Feature changes and new features first exist as code PRs. These PRs form the basis of whatever changes are being documented. If a code PR is for a new feature, major update to an existing feature, or a fix that impacts the current documentation, it's recommended that a documentation update is made. The Technical Writers work closely with their development teams to ensure that these types of changes are documented accordingly. 
 
-You can contribute documentation in one of the following ways:
+One way we do this is by using the `Docs/Needed` label. When a code PR is submitted, that may have documentation impact, the `Docs/Needed` label is added. The assigned writer then reviews the PR and, if there are documentation changes needed, opens a PR in the docs repo with reference to the code PR.
+
+As a developer you are also welcome to update the documentation yourself in one of the following ways:
 
 * Update the relevant page on [docs.mattermost.com](https://docs.mattermost.com), and submit a PR for that. This PR is submitted to the docs repo, reviewed by the relevant team members, and merged from there.
-* Submit your documentation as a new file, including the context and changes, any code samples, and processes. You can submit this as part of your PR, or you can open a new PR in the docs repo and include a link to your open code PR.
+* Submit your documentation as a new file, including the context and changes, any code samples, and processes. You can submit this as part of your code PR, or you can open a new PR in the docs repo and include a link to your open code PR.
 
 We don't expect a huge body of documentation or that it's perfectly-written - but rather a clear, concise outline of the change which can be added to our documentation. The content can be provided as a list, rough notes, or you can use the example below for content and structural guidance if your documentation is quite detailed.
 
 **Note:** Due to the cadence of the release cycle, feature documentation needs to be complete and submitted as [per the release process](https://handbook.mattermost.com/operations/research-and-development/product/release-process/feature-release#e-t-minus-15-working-days-judgment-day) to allow sufficient time for review and to ensure it's included in the release documentation update.
 
-The supplied content can be provided informally, in bullet points, or rough notes in a Google Doc/Jira issue/on the PR itself. Refinements are made collaboratively.
+The supplied content can be provided informally, in bullet points, or rough notes in a Google Doc/on the PR itself. Refinements are made collaboratively.
 
 **Feature documentation MVP \(PMs\)**
 
@@ -109,7 +113,7 @@ Once your PR is submitted, there's a review process that includes an editorial r
 
 Once the review is complete, we'll move your contribution to the appropriate part of [docs.mattermost.com](https://docs.mattermost.com) \(if it's not there already\) and then merge it. We'll share the URL and you can edit it at any time if you need to.
 
-### Submitting documentation with your PR
+### Submit documentation with your PR: Community
 
 We want to empower everyone to contribute to our documentation, and be comfortable submitting documentation for contributions. As such, we don't expect every contribution to adhere to our style guide when first submitted.
 
@@ -128,7 +132,7 @@ You can read more about the review process [here](https://developers.mattermost.
 
 **Note:** This process does not apply to the [API Documentation requirements](https://github.com/mattermost/mattermost-api-reference) as it is updated automatically and isn't part of the documentation process.
 
-### Adding reviewers to PRs
+### Add reviewers to PRs
 
 Mattermost documentation covers a number of different topics. For documentation, the following reviewers are recommended:
 
@@ -170,37 +174,57 @@ If your change requires dev review add the developer/s you've been working with 
 
 The full list of R&D teams is available [here](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit#gid=0).
 
-### Requesting Documentation via Doc Up
+## Submit a documentation request
 
-Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the Doc Up plugin embedded in the post menu.
+If you have documentation requests or questions, you can submit a request via the Doc Up plugin or submit a GitHub issue directly via the Docs repo. All issues are reviewed and feedback provided. 
 
-When you select Doc Up and choose **Admin** as the issue type, an issue is generated in the GitHub docs repo, and added to the issues list. An update is listed in the Documentation channel, with the issue link.
+While we do accept ad-hoc requests for work, we appreciate this process being followed as it helps us prioritize and ensure coverage for all work.
 
-You can also select **Developer** or **Company Handbook** to direct the Doc Up request to the appropriate repo.
+### Via Doc Up
+
+Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the Doc Up plugin embedded in the post menu. Access the Doc Up plugin by hovering over a message and selecting the ***...*** menu.
+
+When you select Doc Up and choose **Admin** as the issue type, an issue is generated in the GitHub docs repo, and added to the issues list. An update is listed in the Documentation channel, with the issue link. You can also select **Developer** or **Company Handbook** to direct the Doc Up request to the appropriate repo.
 
 As the issues are open to the community, the more information provided in the issue the better.
 
 Review the issue in the [docs repo](https://github.com/mattermost/docs/issues?q=is%3Aopen+is%3Aissue), [developer documentation repo](https://github.com/mattermost/mattermost-developer-documentation/issues?q=is%3Aopen+is%3Aissue), or [handbook repo](https://github.com/mattermost/mattermost-handbook/issues?q=is%3Aopen+is%3Aissue) and add any links to appropriate documentation and/or Jira tickets. This ensures that the assignee is able to take on and complete the work within the turnaround times.
 
-**Turnaround time**
+### Create a GitHub issue
 
-When the issue has been created, please follow these guidelines to assign [labels](https://developers.mattermost.com/contribute/getting-started/labels). This ensures that the issues are prioritized appropriately.
+If you have feedback on our documentation, a suggestion, or new content you'd like to add but don't know where to put it - you can create a GitHub issue.
 
-There are a number of variables at play, such as review process, current workload, and type of work required which makes it difficult to provide a hard and fast time-frame for completion. Large projects might be moved to Jira if required.
+The issue will be reviewed by the Technical Writing team and a **Help Wanted** label may be added so that community members are able to identify work that they’re able to assist with. If your documentation request/issue applies to a repository other than _mattermost/docs_, you can ping @justinegeffen or @cwarnermm. Alternatively, you can open an issue in that repo.
 
-**Assignees**
+## Our prioritization process
 
-Documentation does not have to be written by the Technical Writer/s. You can raise an issue, complete the requirement, and submit a Pull Request.
+We understand that all work is important and urgent in some way. However, as a small team, we need to ensure that our coverage is managed tightly.
 
-**Community involvement**
+### P1: Urgent and important
 
-We really want the community to own the docs as much as possible. In light of this, please mark your issue as **Help Wanted** so that community members are able to identify work that they’re able to assist with. If your documentation request/issue applies to a repository other than _mattermost/docs_, you can use the **Docs Needed** and **Editor Review** labels and/or ping @justinegeffen or @cwarnermm.
+- A page is broken
+- Steps are missing from a critical process
+- An important link is broken
+- An image is broken/not displaying
 
-### i18n contributions
+### P2: Important
 
-**Note: This process is in flight.\***
+- Content is inaccurate; will affect customer goals and productivity
+- Information about new features or changes isn't documented and needs to be
 
-Our product documentation is available for translation contributions. Join the [i18n channel](https://community.mattermost.com/core/channels/localization) on our Community server and connect with our translation community members. The documentation translation process is still being defined.
+### P3: Not urgent/not important
+
+- Enhancement to the user experience of the docs
+
+## Our Board
+
+If urgent and important work is identified, we'll add it to our DWG Board and you can follow its progress there.
+
+## i18n contributions
+
+**Note: This process is in flight.***
+
+Our product documentation is available for translation contributions. Join the [i18n channel](https://community.mattermost.com/core/channels/localization) on our Community server and connect with our translation community members. The documentation translation process is still being defined, and @cwarnermm is the DRI along with members of the Localization team.
 
 Currently, submitting a translation PR follows the same writing and editing process as other PRs. However, there are additional considerations to bear in mind when submitting your PR as these assist with the approval and merge process:
 
@@ -212,17 +236,15 @@ Currently, submitting a translation PR follows the same writing and editing proc
 6. Decide if we want to indicate translations level - e.g. “Alpha” or “Beta” for translations that are in progress.
 7. Test you can successfully rate a translated docs page by selecting a rating emoji. Ping @justine.geffen for validation of this.
 
-## General contribution workflow
+## Work with the Technical Writing team
 
-### DWG board
+### What we're doing
 
-If you have a feature, UI copy, or general documentation requirement, please create a card on the [DWG incoming requests board](https://community.mattermost.com/plugins/focalboard/workspace/g4k9s1f953n4bytz5f9sz9orer/shared/bm47zpk19p3b4ufb3krjt4usgfo/vwgh41ounkbr4d8n3xsbjggoy9y?r=k4z1qsm4y5tntiyqt78fcbksmhh).
-
-For best results, include as much content, context, and detail as possible. Once you're done, tag @carrie.warner or @justine.geffen. The board is checked daily and cards are prioritized based on current workload.
+The [Documentation Working Group (DWG) channel](https://community.mattermost.com/core/channels/dwg-documentation-working-group) is where you'll find us, and you can view our current projects in the channel's board.
 
 If the card is for documentation related to a release, the documentation needs to be complete at least 10 days prior to release. Please ensure you allow sufficient time for your request to be completed or it will be moved to the next available slot.
 
-### Editing requests
+### Submit an editing request
 
 When submitting a PR for documentation, whether it's a minor update, a new piece of content, or a content proposal, please add the **Editor Review** label \(if possible\). Once the Technical Writer/Editor has reviewed the PR they'll remove the label. When all the requested reviews are complete, the **Reviews Complete** label is applied and the changes are merged.
 
