@@ -49,10 +49,10 @@ We have entities in Germany, UK, US, and we have a large Canadian contingent, so
 
 **Entity Holidays for 2021**
 
-* New Year’s Day \(All\) \(1/03/2022)
+* New Year’s Day \(All\) \(1/03/2022\)
 * MLK Jr. Day \(US\) \(1/17/2022\)
 * Presidents’ Day \(US: Select states\) \(2/21/2022\)
-* Family Day/Islander Day \(Canada\) \(2/121/2022\)
+* Family Day/Islander Day \(Canada\) \(2/21/2022\)
 * Good Friday \(Canada, Germany, UK\) \(4/15/2022\)
 * Easter Monday \(Germany, UK\) \(4/18/2022\)
 * Labour Day \(Germany\) \(5/02/2022\)
