@@ -42,17 +42,19 @@ In general, this content is either:
 * An actionable button which leads to a process
 * Triggered because something happened
 
-### Guidelines for system messages
+## Messaging guidelines
 
 Don’t blame the user. Inform them about what happened, explain why it happened, and suggest a way forward. Try to use complete sentences in your messages. A sentence phrase \(an incomplete sentence\) might make sense in English but could present internationalization challenges.
+
+### System messages
+
+System messages can be one of the following types: **notification**, **confirmation**, **warning**, and **error**. The following sections contain guidelines that are specific to each of these types.
 
 If a system message contains variables \(tokens\):
 
 * Don't use verbs or adjectives as variables.
 * Don't create plurals of variables by adding an "s".
 * If the variable is a noun, use a qualifier after the variable. For example, say **The {channel\_name} channel was created** rather than **The {channel\_name} was created**.
-
-System messages can be one of the following types: **notification**, **confirmation**, **warning**, and **error**. The following sections contain guidelines that are specific to each of these types.
 
 ### Notification messages
 
@@ -99,7 +101,21 @@ An error message informs the user that something went wrong. Errors prevent the 
 
 The Technical Writers often work with the UI/UX team on in-product copy. The majority of guidelines are available in the [Mattermost Compass Design System](https://zeroheight.com/29be2c109/p/995619-compass-design-system).
 
-### Guidelines for punctuation
+### How we write things (WIP)
+
+We write with empathy in the context of achievement using natural language. This can be quite hard to do; as technical writers we generally lean toward very clear and concise writing that can feel clinical. Writing more naturally means we try to avoid convoluted phrasing and we try to make things more simple.
+
+So, instead of saying: "When testing the Java app ensure your third-party connection is secure before initiating the test sequence." rather say: "Make sure your third-party connection is secure before testing the app."
+
+Because we strive to use natural language, the way we phrase microcopy isn't templated - that would defeat the point. Instead, here are some examples of microcopy we use for various features and products. The common theme is clarity and empathy.
+
+#### Which words to use
+
+There's a big difference between "jargon" and "terminology".
+
+Jargon is usually industry-specific and can be isolating or confusing for users who aren't deeply familiar with them. Terminology is usually universally-accepted and generally understood.
+
+### Guidelines for UI punctuation
 
 **Headings**
 
@@ -108,6 +124,10 @@ These are H1 headings such as the title of a modal. Titles shouldn't have period
 **Paragraphs**
 
 Paragraphs should always be properly punctuated.
+
+**Sentences**
+
+When you're writing descriptive UI copy, try to write full sentences which can be punctuated. If the copy you're writing can be expressed in a single word, consider moving that word to the input field instead.
 
 **Bullets**
 
@@ -133,14 +153,6 @@ We follow the same capitalization rules across all our documentation assets, inc
 
 **Instead of:** This Article is About Mattermost
 **Use:** This article is about Mattermost
-
-### How we write things (WIP)
-
-As previously mentioned, we write with empathy in the context of achievement using natural language. This can be quite hard to do; as technical writers we generally lean toward very clear and concise writing that can feel clinical. Writing more naturally means we try to avoid convoluted phrasing and we try to make things more simple. 
-
-So, instead of saying: "When testing the Java app ensure your third-party connection is secure before initiating the test sequence." rather say: "Make sure your third-party connection is secure before testing the app."
-
-Because we strive to use natural language, the way we phrase microcopy isn't templated - that would defeat the point. Instead, here are some examples of microcopy we use for various features and products. The common theme is clarity and empathy.
 
 ### Words we use in CTAs (WIP)
 
