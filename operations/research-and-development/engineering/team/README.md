@@ -43,7 +43,7 @@ Below is how SET prioritizes what is worked on.
 
 Work for SET comes from various sources:
 
-1. OpsGenie: Support has an e-mail address they will send urgent escalations to. These result in pages in OpsDuty, first sent to the SET Primary, then to SET Back-up and ultimately to the SET Lead when not timely acknowledged. **Note:** using this channel of escalation is exceedingly rare, and only happens in extremely time senstive cases.
+1. OpsGenie: Support has an e-mail address they will send urgent escalations to. These result in pages in OpsGenie, first sent to the SET Primary, then to SET Back-up and ultimately to the SET Lead when not timely acknowledged. **Note:** using this channel of escalation is exceedingly rare, and only happens in extremely time sensitive cases.
 2. The [~Sustained Engineering](https://community-daily.mattermost.com/core/channels/sustained-engineering) channel. Support may use this channel to ask questions or raise urgent issues.
 3. The SET [Kanban JIRA board](https://mattermost.atlassian.net/secure/RapidBoard.jspa?rapidView=33). Tickets in the TO DO column should be organized from highest priority to lowest priority, based on the [Priority of Work](./#priority-of-work) section. The SET lead should make sure that the tickets are priority ordered but team members can move tickets around to meet the correct priorities as necessary. If tickets get stuck in a certain state, it's also the SET responsibility to push them to completion, either by nudging people or taking them over.
 4. The [~Ask R&D](https://community-daily.mattermost.com/core/channels/ask-r-and-d) channel. This is the place where support and community can ask any type of R&D related questions.
