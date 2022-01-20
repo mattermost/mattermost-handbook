@@ -15,3 +15,11 @@ Mattermost recipes are technical posts that show how to use Mattermost alongside
 > * **Categorization of recipe:** Provide some keywords for easy search and retrieval.
 
 For an example Mattermost recipe, [please read this blog post](https://about.mattermost.com/learn/connect-irc-to-mattermost/).
+
+## Publish your recipe
+
+You can write and publish your recipe using any channel you're comfortable with. For example, you can publish a recipe in your own GitHub repo. This option allows users to interact with your recipe and collaborate with you if they have a contribution to make.
+
+Another option is to publish your recipe in the Mattermost Forum. While it's not possible for other users to edit your post, they can comment and provide feedback.
+
+Both options offer a platform for collaboration.
