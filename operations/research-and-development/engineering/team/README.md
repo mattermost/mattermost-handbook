@@ -51,11 +51,11 @@ Work for SET comes from various sources:
 ## SET Weekly Cycle
 We use a Mattermost Playbook to run the SET cycle. For this, the SET Lead creates a new run of the [SET Cycle](https://community-daily.mattermost.com/playbooks/playbooks/w36ro78cgj8qtjq5mf6say7bxe/preview) playbook and follows the steps as codified by the playbook. Overall a SET cycles consists of three phases:
 
-1. Start: review all ongoing issues and make sure they have appropriate owners in the current SET team.
-2. Monitor: Monitor the sources of SET escalations (previous section) and act accordingly (see next section)
-3. Hand-over: by Friday end of day, the SET leads ensures that the next week's SET team (especially the SET Lead) is aware of ongoing issues and have sufficient context to continue the work. Specifically:
-   * Ensure that the incoming SET team is in the right incident channels (if anybody)
-   * SET JIRA tickets find new assignees in the incoming SET team
+1. Start: Review all ongoing issues and make sure they have appropriate owners in the current SET team.
+2. Monitor: Monitor the sources of SET escalations (previous section) and act accordingly (see next section).
+3. Hand-over: By Friday end of day, the SET leads ensures that the next week's SET team (especially the SET Lead) is aware of ongoing issues and have sufficient context to continue the work. Specifically:
+   * Ensure that the incoming SET team is in the right incident channels (if anybody).
+   * SET JIRA tickets find new assignees in the incoming SET team.
    * Any additional knowledge (beside what's in the JIRA tickets and channels) that the incoming SET team will need to continue the work is transferred.
 
 
