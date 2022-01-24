@@ -69,7 +69,7 @@
       * [Cloud Release Process](operations/research-and-development/product/release-process/cloud-release.md)
       * [Dot Release Process](operations/research-and-development/product/release-process/dot-release.md)
       * [Incident Collaboration Release Process](operations/research-and-development/product/release-process/incident-collaboration-release.md)
-      * [Focalboard Release Process](operations/research-and-development/product/release-process/focalboard-release.md)
+      * [Boards Release Process](operations/research-and-development/product/release-process/boards-release.md)
       * [Security Release Process](operations/research-and-development/product/release-process/security-release.md)
       * [Mobile App Release Process](operations/research-and-development/product/release-process/mobile-release.md)
       * [Desktop App Release Process](operations/research-and-development/product/release-process/desktop-release.md)
