@@ -6,7 +6,7 @@ This document outlines the Boards release process for the Mattermost core team. 
 
 Boards release schedule is outlined here: 
 
-The release that will be included in the next self-managed release pre-packaged version will generally be the latest Boards Personal Edition release from the prior month. The deadline to get the pre-packaged version to the self-managed release is by self-managed Code Freeze day. The pre-packaged version is tested a few days prior to self-managed Code Freeze day.
+The release that will be included in the next self-managed release pre-packaged version will generally be the latest Focalboard Personal Edition release from the prior month. The deadline to get the pre-packaged version to the self-managed release is by self-managed Code Freeze day. The pre-packaged version is tested a few days prior to self-managed Code Freeze day.
 
 ## Notes
 
