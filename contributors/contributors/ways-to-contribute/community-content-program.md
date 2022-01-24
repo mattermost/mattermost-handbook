@@ -6,15 +6,29 @@ Mattermost wants to be a central resource for helping developers improve their p
 
 We’re looking for a diverse group of skilled writers with deep technical knowledge to write content for us. You should have experience writing content, be comfortable receiving feedback about your work, and be open to making revisions recommended by our editorial team.
 
-## Recommended topics
+## Accepted Topics
 
-We seek a broad range of technical content for software developers that provide rich detail about popular tools. We typically want content that targets beginner to intermediate software developers, but we are open to a range of technical depth.
+We seek a broad range of technical content for software developers that provide rich detail about popular tools. We typically prefer content that targets beginner to intermediate software developers, but we are open to a range of technical depth.
 
-* How to use popular app frameworks like Node, React, Vue, Flask, Kotlin, machine learning, etc.
+* How to use popular app frameworks like Node, React, Vue, Flask, Kotlin, machine learning frameworks, etc.
 * Software development productivity hacks.
 * Tips and tricks for popular software development tools.
 * Unique DevOps infrastructure at scale.
-* Introductions to useful libraries, programming environments, languages, and tech stacks.
+
+### Special Topics
+
+We occasionally run special promotions to publish content on specific topics. Here are the unique opportunities we currently have available.
+
+**Mattermost Playbooks Integrations**
+
+We want to show off all of the ways our community is integrating [Playbooks](https://docs.mattermost.com/guides/playbooks.html) into their tech stack, including, but not limited to, the following tools:
+* CI/CD tools like Travis CI, Circle CI, and Jenkins to automate building, testing, and deploying code changes
+* Monitoring, alerting, and data collection services like Moogsoft, Datadog, and PagerDuty.
+* Cloud hosting services like AWS, Google Cloud, Azure, and Digital Ocean.
+* Project management software like Jira, Clubhouse, Asana, and Trello.
+* Code hosting, version control, and deployment orchestration tools like GitHub and GitLab.
+
+The more technical the topic is, the better. We prefer content with real-world examples that show how to integrate Mattermost with these tools via webhooks, APIs, and other integrations frameworks. Recommended topics include incident response, code review, and release management, but anything that is related to the software development lifecycle will be considered. We’re paying $350 for all eligible articles.
 
 ## Compensation
 
@@ -77,3 +91,30 @@ Some examples of plagiarism include:
 * Failing to attribute content published under permissive licenses like the Creative Commons License.
 
 If you're unsure about a question or concern related to plagiarism, please consult with the Mattermost content team before submission.
+
+## Image Use Guidance
+
+You may want to include images or other graphics to support your content in many situations.
+
+Our design team will produce original artwork to serve as the hero image for your blog post, so you don’t need to provide images for this purpose. You’re free to include images in the body of your content; however, all images you submit must meet one of two criteria:
+
+
+
+* The image must be 100% unique, original content, for which you are the copyright owner.
+* The image must be permissively licensed under the International Creative Commons License or other similar licenses.
+
+When using permissively-licensed images, you must provide a reference to the source to give proper attribution in the article. You’re welcome to provide references to use as inspiration, but please indicate that these references aren’t your original work when appropriate. In all situations, we reserve the right to recreate the images to fit the style of our blog or to improve the image as necessary.
+
+
+### Diagrams and Flowcharts
+
+Diagrams and flowcharts are a great way to illustrate complicated technical details that include many components. If you’re capable of creating clean, easy-to-understand charts, you’re welcome to create original artwork to add to your content. If you have an idea for a diagram that would support your content but lack the skills or tools to create one, you can also include a rough sketch of your idea, and our design team can turn that into an attractive graphic. However, we have a limited capacity for this service, so we may need to adjust your idea to accommodate.
+
+If you need help designing a diagram or flowchart, [this article has a ton of great information](https://www.smartdraw.com/flowchart/flowchart-tips.htm). Don’t forget, all materials you include in the illustration must meet our licensing requirements.
+
+
+### Screenshots
+
+Screenshots can be a great way to show visual representations of the instructions in your article. You might want to include screenshots of terminal output, tool configurations, or other items related to your content. If you have screenshots in your content, ensure that all content that appears in the image is your unique work and doesn’t include copyrighted images or other content from other sources.
+
+To get the best screenshot, increase the font size of the text displayed in the image to something easily readable from a distance, crop screenshots to focus on elements relevant to the text, and remove unnecessary details when possible.
