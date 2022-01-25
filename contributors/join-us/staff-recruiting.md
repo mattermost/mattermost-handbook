@@ -167,11 +167,14 @@ Each AA interviewer should have at least three reserved slots per week available
 
 **Checklist for As Appropriate Interview**
 
-24 hours before an AA interview, the candidate's Lever profile should include:
+At least 24 hours before an AA interview, the candidate's Lever profile should include:
 
-* A complete [Mid-Interview summary](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#bookmark=id.vjo02zxnnbyi).
-* Attachments of any work artifacts produced during the interview loop.
-* Compensation expectations in a SECRET note in Lever. 
+1. Completed feedback from all interviewers 
+2. Attachments of any work artifacts produced during the interview loop (e.g. presentations, coding projects, etc.)
+3. Compensation expectations and role Level in a SECRET note in Lever with a mention to either `@corey` (Corey Hulen) or `@it33` (Ian Tien)
+4. For interviews with Ian Tien, a [CEO pre-interview questionaire](https://docs.google.com/forms/d/e/1FAIpQLSfGFUN7baIFot6me_oDWTSICA_QhRFM9dBRiqBTw38uRY6XDQ/viewform) from the candidate also be included. 
+
+If the Lever information is not complete, the AA interview request will not be scheduled. 
 
 **Logistics**
 
