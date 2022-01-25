@@ -102,6 +102,7 @@
     * [Cloud Engineering](operations/research-and-development/engineering/cloud-engineering/README.md)
       * [Cloud Infrastructure Cost KPIs](operations/research-and-development/engineering/cloud-infrastructure-cost-kpis.md)
       * [Cloud Data Export Process](operations/research-and-development/engineering/cloud-data-export-process.md)
+      * [Cloud Churn Process](operations/research-and-development/engineering/cloud-engineering/cloud-churn-process.md)
     * [Integrations Team Processes](operations/research-and-development/engineering/integrations.md)
     * [Plugin Release Process](operations/research-and-development/engineering/plugin-release-process.md)
     * [Data Engineering](operations/research-and-development/engineering/data-engineering.md)
