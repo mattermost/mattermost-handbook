@@ -3,7 +3,7 @@
 When a Mattermost Cloud customer requests their workspace to be deleted, the following steps are taken:
 
 1. Customer sends a request to delete workspace.
-2. Support team asks forL
+2. Support team asks for:
 
   - Cloud URL & workspace admin email
   - Churn-related information:
