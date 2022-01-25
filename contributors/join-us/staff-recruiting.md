@@ -172,7 +172,7 @@ At least 24 hours before an AA interview, the candidate's Lever profile should i
 1. Completed feedback from all interviewers 
 2. Attachments of any work artifacts produced during the interview loop (e.g. presentations, coding projects, etc.)
 3. Compensation expectations and role Level in a SECRET note in Lever with a mention to either `@corey` (Corey Hulen) or `@it33` (Ian Tien)
-4. For interviews with Ian Tien, a [CEO pre-interview questionaire](https://docs.google.com/forms/d/e/1FAIpQLSfGFUN7baIFot6me_oDWTSICA_QhRFM9dBRiqBTw38uRY6XDQ/viewform) from the candidate also be included. 
+4. For interviews with Ian Tien, a [CEO pre-interview questionaire](https://docs.google.com/forms/d/e/1FAIpQLSfGFUN7baIFot6me_oDWTSICA_QhRFM9dBRiqBTw38uRY6XDQ/viewform) from the candidate should also be included. The AA scheduler will send the questionaire to be completed. 
 
 If the Lever information is not complete, the AA interview request will not be scheduled. 
 
@@ -208,9 +208,7 @@ The order of approval will follow:
 
 1. HR Director
 2. Team MLT member
-3. CTO \(for R&D offers\)
-4. VP of Finance and Operations
-5. CEO
+3. Either CTO \(for R&D and Customer Engineer offers\) or CEO \(for all other offers\) 
 
 After offer approval, the Recruiter, Team MLT member, or AA Interviewer will extend a verbal offer to the candidate. Upon verbal acceptance, the Director of HR will send the offer letter.
 
