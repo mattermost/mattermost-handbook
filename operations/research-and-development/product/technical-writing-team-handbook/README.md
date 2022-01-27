@@ -128,7 +128,7 @@ Here are some guidelines:
 * At times, the editors may make and commit stylistic changes \(such as punctuation\) but any content changes will be added as a suggestion for the submitter's consideration.
 * Once the PR is approved, it will be merged, and the documentation will be updated.
 
-You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review).
+You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review). There's also a great [blog post](https://developers.mattermost.com/blog/submitting-great-prs/) that covers additional aspects of submitting code PRs, such as git strategies.
 
 **Note:** This process does not apply to the [API Documentation requirements](https://github.com/mattermost/mattermost-api-reference) as it is updated automatically and isn't part of the documentation process.
 
