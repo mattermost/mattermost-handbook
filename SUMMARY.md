@@ -85,6 +85,7 @@
       * [Product Manager Onboarding](operations/research-and-development/product/product-management-team-handbook/pm-onboarding.md)
       * [Product Manager Levels](operations/research-and-development/product/product-management-team-handbook/pm-levels.md)
     * [Technical Writing Team Handbook](operations/research-and-development/product/technical-writing-team-handbook/README.md)
+      * [Work with Us](operations/research-and-development/product/technical-writing-team-handbook/work-with-us.md)
       * [Technical Writer Levels](operations/research-and-development/product/technical-writing-team-handbook/writer-levels.md)
       * [Docathon 2021](operations/research-and-development/product/technical-writing-team-handbook/docathon-2021/README.md)
         * [Getting Started with Contributing](operations/research-and-development/product/technical-writing-team-handbook/docathon-2021/docathon-processes.md)
