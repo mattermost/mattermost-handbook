@@ -165,13 +165,16 @@ The following list of people are approved as As Appropriate interviewers:
 
 Each AA interviewer should have at least three reserved slots per week available for AA interviews, ideally in different timezone ranges, providing capacity for 12 new hires per month per AA.
 
-**Checklist for As Appropriate Interview**
+### Checklist for As Appropriate Interview
 
-24 hours before an AA interview, the candidate's Lever profile should include:
+At least 24 hours before an AA interview, the candidate's Lever profile should include:
 
-* A complete [Mid-Interview summary](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#bookmark=id.vjo02zxnnbyi).
-* Attachments of any work artifacts produced during the interview loop.
-* Compensation expectations in a SECRET note in Lever. 
+1. Completed feedback from all interviewers.
+2. Attachments of any work artifacts produced during the interview loop (e.g. presentations, coding projects, etc.).
+3. Compensation expectations and role Level in a SECRET note in Lever with a mention to either `@corey` (Corey Hulen) or `@it33` (Ian Tien).
+4. For interviews with Ian Tien, a [CEO pre-interview questionaire](https://docs.google.com/forms/d/e/1FAIpQLSfGFUN7baIFot6me_oDWTSICA_QhRFM9dBRiqBTw38uRY6XDQ/viewform) from the candidate should also be included. The AA scheduler will send the questionaire to be completed.
+
+If the Lever information is not complete, the AA interview request will not be scheduled.
 
 **Logistics**
 
@@ -205,9 +208,7 @@ The order of approval will follow:
 
 1. HR Director
 2. Team MLT member
-3. CTO \(for R&D offers\)
-4. VP of Finance and Operations
-5. CEO
+3. Either CTO \(for R&D and Customer Engineer offers\) or CEO \(for all other offers\) 
 
 After offer approval, the Recruiter, Team MLT member, or AA Interviewer will extend a verbal offer to the candidate. Upon verbal acceptance, the Director of HR will send the offer letter.
 
@@ -223,6 +224,6 @@ This process will be managed by HR.
 2. Upon full execution of a new staff contract, the Recruiter will mark the candidate as **Hired** in Lever and export the profile to BambooHR.
 3. Once exported to BambooHR, an automatic New Starter Notification will be sent to the Hiring Team to kick-off the onboarding process.
 
-#### Pre-onboarding Preparation
+#### Pre-onboarding preparation
 
 New colleagues will receive pre-onboarding instructions from the People team. Hiring Managers will also need to complete [pre-onboarding activities](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/onboarding/manager-onboarding-1#onboarding).
