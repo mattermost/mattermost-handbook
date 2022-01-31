@@ -12,7 +12,7 @@ The release that will be included in the next self-managed release pre-packaged 
 
 * Critical bugs are flagged and fixed before releasing, with quick dot releases completed as needed.
 * Documentation on filing a bug: https://handbook.mattermost.com/contributors/contributors/ways-to-contribute#report-a-boards-bug.
-* A Playbook is used to run releases: https://community.mattermost.com/playbooks/playbooks/xycc3rjwd3n95n1e1yqxp9iira/preview.
+* A playbook is used to run releases: https://community.mattermost.com/playbooks/playbooks/xycc3rjwd3n95n1e1yqxp9iira/preview.
 * Documentation on publishing a release: [https://docs.google.com/document/d/11uLGhYYNnsulL1oUAlfFyNcT3wgAiDJmCSvnNkuAbpA/edit\#heading=h.6kw7puo0cpnm](https://docs.google.com/document/d/11uLGhYYNnsulL1oUAlfFyNcT3wgAiDJmCSvnNkuAbpA/edit#heading=h.6kw7puo0cpnm) 
 * Documentation on publicity process: [https://docs.google.com/document/d/1C1ke76Y-KV9k0buJsv57kqq5HFdR2BwnpkmVHmBCxuA/edit\#](https://docs.google.com/document/d/1C1ke76Y-KV9k0buJsv57kqq5HFdR2BwnpkmVHmBCxuA/edit#) 
 * Feature flags are used to test features.
