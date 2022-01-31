@@ -1,4 +1,4 @@
-# Cloud Churn Process
+# Cloud churn process
 
 When a Mattermost Cloud customer requests their workspace to be deleted, the following steps are taken:
 
