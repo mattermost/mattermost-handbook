@@ -174,13 +174,40 @@ If your change requires dev review add the developer/s you've been working with 
 
 The full list of R&D teams is available [here](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit#gid=0).
 
-## Submit a documentation request
+### Providing editorial feedback
 
-If you have documentation requests or questions, you can submit a request via the Doc Up plugin or submit a GitHub issue directly via the Docs repo. All issues are reviewed and feedback provided. 
+If you're asked to provide editorial feedback on a PR, and it's your first editorial feedback request, first read up on the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review) to get an idea of what's expected in terms of turnaround time, type of feedback, and so on.
 
-While we do accept ad-hoc requests for work, we appreciate this process being followed as it helps us prioritize and ensure coverage for all work.
+Editorial feedback is based on the guidelines laid out in the [Documentation Style Guide](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/documentation-style-guide) as well as the [Voice, Tone, and Writing Style Guide](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines).
 
-### Via Doc Up
+## Work with the Technical Writing team
+
+### What we're doing
+
+The [Documentation Working Group (DWG) channel](https://community.mattermost.com/core/channels/dwg-documentation-working-group) is where you'll find us, and you can view our current projects in the channel's board.
+
+## How to engage with us
+
+If you have content you'd like to discuss, a UI review, a PR, or found a gap in the docs, here's how to get hold of us:
+
+* The [Documentation Working Group](https://community.mattermost.com/core/channels/dwg-documentation-working-group) channel: Use the hashtag #docsteam to get our attention.
+* [GitHub PR](#submit-a-pr): Use this option when you've created content and need it reviewed, expect feedback asap and possible editorial changes. Tip: Start a draft in Google docs if you're not sure about the content you'd like to edit and we're happy to help.
+* [DocUp](#use-doc-up-to-create-a-github-issue): Use this to create an issue from a message that is delivered to the docs repo. You can expect acknowledgement of your issue and next steps asap. Note: You can also [create an issue manually](#create-a-github-issue) in the Docs repo. Make sure to tag one of us for visibility!
+* Group Message: Use this option to formalize a discussion from a call or meeting.
+
+**Note:** If your request is for documentation related to a release, the documentation needs to be complete at least 10 days prior to release. Please ensure you allow sufficient time for your request to be completed or it will be moved to the next available slot.
+
+We appreciate these processes being followed as it helps us prioritize and ensure coverage for all work.
+
+### What happens next?
+
+That depends on the work requested. We'll let you know the next steps and keep you updated along the way!
+
+### Submit a PR
+
+When submitting a PR for documentation, whether it's a minor update, a new piece of content, or a content proposal, please add the **Editor Review** label \(if possible\). Once the Technical Writer/Editor has reviewed the PR they'll remove the label. When all the requested reviews are complete, the **Reviews Complete** label is applied and the changes are merged.
+
+### Use Doc Up to create a GitHub issue
 
 Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the Doc Up plugin embedded in the post menu. Access the Doc Up plugin by hovering over a message and selecting the ***...*** menu.
 
@@ -235,24 +262,6 @@ Currently, submitting a translation PR follows the same writing and editing proc
 5. To maintain high standards for translated documentation, set up a process to notify translators when something is changed in the English-version of the docs, and expectation on correcting translations for new releases.
 6. Decide if we want to indicate translations level - e.g. “Alpha” or “Beta” for translations that are in progress.
 7. Test you can successfully rate a translated docs page by selecting a rating emoji. Ping @justine.geffen for validation of this.
-
-## Work with the Technical Writing team
-
-### What we're doing
-
-The [Documentation Working Group (DWG) channel](https://community.mattermost.com/core/channels/dwg-documentation-working-group) is where you'll find us, and you can view our current projects in the channel's board.
-
-If the card is for documentation related to a release, the documentation needs to be complete at least 10 days prior to release. Please ensure you allow sufficient time for your request to be completed or it will be moved to the next available slot.
-
-### Submit an editing request
-
-When submitting a PR for documentation, whether it's a minor update, a new piece of content, or a content proposal, please add the **Editor Review** label \(if possible\). Once the Technical Writer/Editor has reviewed the PR they'll remove the label. When all the requested reviews are complete, the **Reviews Complete** label is applied and the changes are merged.
-
-### Providing editorial feedback
-
-If you're asked to provide editorial feedback on a PR, and it's your first editorial feedback request, first read up on the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review) to get an idea of what's expected in terms of turnaround time, type of feedback, and so on.
-
-Editorial feedback is based on the guidelines laid out in the [Documentation Style Guide](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/documentation-style-guide) as well as the [Voice, Tone, and Writing Style Guide](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines).
 
 ## Community documentation involvement
 
