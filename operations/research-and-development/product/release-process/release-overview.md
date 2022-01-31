@@ -68,6 +68,10 @@ The goal is not to have the same release cadence for all products, but there may
 6. **Release new products tightly integrated with the Mattermost suite.**
    * E.g. Boards will ship as a plugin in June; Playbooks is a plugin. Plugins are the strategy for now, maybe there will be another strategy for the long-term.
 
+## Multi-product Release Processes
+ - The sample [Plugin Release Playbook](https://community.mattermost.com/playbooks/playbooks/f4oh16ardfbyfgkas1cb6intmw/preview) helps give an overview of needed steps for plugin releases.
+ - Please also refer to the [Playbooks release documentation](https://handbook.mattermost.com/operations/research-and-development/product/release-process/playbooks-release) and [Boards release documentation](https://handbook.mattermost.com/operations/research-and-development/product/release-process/boards-release).
+
 ## Overview of Release Cycles
 
 Currently Mattermost Cloud releases occur on a weekly cycle, but the goal is to release more frequently. Cloud and self-managed PRs may need to be cherry-picked to the release branches, such as regression bug fixes and hotfixes that get merged after the release branch has already been cut.
