@@ -19,6 +19,13 @@ To find out when you’re on call follow the below checklist:
    2. Type in the below based on your rotation for SET: “\ Engineering\_schedule”
    3. The results should show you the dates you’re on call
 
+### What if I'm unavailable?
+If you have been scheduled for SET duty but are not available, e.g. because of PTO:
+
+1. Try to find a replacement yourself, e.g. by asking team mates or by asking in [~Sustained Engineering](https://community-daily.mattermost.com/core/channels/sustained-engineering) for volunteers.
+2. If you fail to find anybody, reach out to @zef.hemel he will try to help you.
+3. Once you find a replacement, your can override the specific shift in OpsGenie. If you are having trouble, reach out to @zef.hemel to help you.
+
 ### Before Your First Day On-Call
 
 There’s a few things you should set up before your first day on call. Work through the following checklist a couple days before you start on-call:
