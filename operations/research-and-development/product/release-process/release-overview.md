@@ -84,7 +84,8 @@ Schedule for Mattermost Cloud releases:
 
 Schedule for self-managed releases:
 
-* \(T-12\): Feature Review/Judgment Day/Release branch cut
+* \(T-30\): Feature Complete (this is a rough date)
+* \(T-12\): Judgment Day/Release branch cut
 * \(T-11\): RC1 Cut
 * \(T-10\): RC testing and final QA testing
 * \(T-5\): Code Freeze
@@ -144,6 +145,7 @@ The Release Manager is able to look at the version we have deployed to Mattermos
 Releases are now focused on "shipping features and improvements when they're ready for Mattermost Cloud, and then they'll get to a self-managed release once they've been available on Mattermost Cloud for 2+ weeks".
 
 * If the PR is scheduled for a specific Mattermost Cloud or self-managed release, please add the `Cherry-pick Approved` label and self-managed milestone on the PR. Cloud doesn't have a specific milestone in GitHub and the PRs can be tracked via the `Cherry-pick Approved` label. The Release Manager keeps track of PRs with the `Cherry-pick Approved` label and self-managed milestone on a daily basis.
+* The Release Manager also tracks regression bugs and aims to ensure that they get fixed for the next release.
 * A ``cloud`` branch \(based off of `master`\) is used, and any regression bug fixes for the next Cloud release will be cherry-picked there. This applies to webapp/server/Enterprise repos.
 * A fix version such as “Cloud \(November 24\)” is added in Jira to track regression bug fixes for Mattermost Cloud releases.
 * The self-managed releases are based off of Mattermost Cloud releases.
@@ -184,6 +186,14 @@ When triaging a bug report, consider the following:
 **Q: What is the release cycle for the Mattermost Desktop app?**
 
 * A: Desktop releases are currently released as required.
+
+**Q When do I need to have a feature PR to be included into the next release?**
+
+* A: Aim to have the PR merged before the feature complete deadline. The earlier in the monthly cycle the PR is merged, the higher the chances are for it to be included in that months release. Quality of our releases is important and feature PRs are normally never cherry-picked to a release branch.
+
+**How can I determine if my merge request will make it into the next release?**
+
+* A: The Release Manager adds PR milestones and Jira fix versions for tracking. You can also check the release branches (e.g. in the server repo) to see what's included.
 
 **Q: Do we use Playbooks for releases?**
 
