@@ -1,6 +1,6 @@
 # Release Overview
 
-Mattermost ships with a new version on the 16th of each month in [binary form](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html#upgrading-to-the-latest-version) for self-managed customers. Mattermost also ships releases with new features and bug fixes [to Mattermost Cloud](https://docs.mattermost.com/about/product.html#mattermost-cloud) every week.
+Mattermost ships with a new version on the 16th of each month in [binary form](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html#upgrading-to-the-latest-version) for self-managed customers. Mattermost also ships releases with new features and bug fixes [to Mattermost Cloud](https://docs.mattermost.com/about/product.html#mattermost-cloud) biweekly.
 
 When security issues are found that warrant a patch release, we follow the [security release process outlined here](https://handbook.mattermost.com/operations/research-and-development/product/release-process/security-release).
 
@@ -74,7 +74,7 @@ The goal is not to have the same release cadence for all products, but there may
 
 ## Overview of Release Cycles
 
-Currently Mattermost Cloud releases occur on a weekly cycle, but the goal is to release more frequently. Cloud and self-managed PRs may need to be cherry-picked to the release branches, such as regression bug fixes and hotfixes that get merged after the release branch has already been cut.
+Currently Mattermost Cloud releases occur on a biweekly cycle, but the goal is to release more frequently. Cloud and self-managed PRs may need to be cherry-picked to the release branches, such as regression bug fixes and hotfixes that get merged after the release branch has already been cut.
 
 Schedule for Mattermost Cloud releases:
 
@@ -118,7 +118,7 @@ Release dates are currently communicated in the following ways. Further iteratio
 
 **Understanding the cadence**
 
-* The Mattermost Cloud releases follows a weekly cycle and the release day is normally on Wednesdays. Feature Complete deadline for each Mattermost Cloud release is on Mondays 7 working days prior to the release day.
+* The Mattermost Cloud releases follows a biweekly cycle and the release day is normally on Wednesdays. Feature Complete deadline for each Mattermost Cloud release is on Mondays 7 working days prior to the Cloud release day.
 * The Mobile App release cadence is monthly on the 16th of every month.
 * Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next self-managed release. The release branch for a self-managed release \(e.g. `release-5.32`\) will be cut once the Mattermost Cloud release that will be used for the next self-managed release has been shipped.
 * This cadence is subject to change in the future and any changes will be documented and announced.
@@ -133,7 +133,7 @@ The Release Manager is able to look at the version we have deployed to Mattermos
 
 **Process for merging the `master` branch into the `cloud` branch**
 
-* For server, webapp, api-reference and enterprise cloud branches, the current `cloud` branch is deleted and a new one is created from the `master` branch for each. A backup of the `cloud` branches are saved. This is done every week on a Wednesday or Thursday by the Server Platform Team. See _`this document <https://docs.google.com/document/d/1p54GySjFirwrTBbOc1jqXwfKE_XPJV0r6aNbVyZ1zV4/edit>`_ for more details on the process.
+* For server, webapp, api-reference and enterprise cloud branches, the current `cloud` branch is deleted and a new one is created from the `master` branch for each. A backup of the `cloud` branches are saved. This is done biweekly on a Wednesday or Thursday by the Server Platform Team. See _`this document <https://docs.google.com/document/d/1p54GySjFirwrTBbOc1jqXwfKE_XPJV0r6aNbVyZ1zV4/edit>`_ for more details on the process.
 * Devs and Release Manager should be aware of the dates when a `master` branch is merged into a `cloud` branch in order to be mindful of avoiding having incomplete features in a Cloud release, and to include bug fixes that we may want to include in a release.
 
 **Process for cutting the release branch for Self-Managed releases based off of Cloud releases**
@@ -265,8 +265,4 @@ When triaging a bug report, consider the following:
 
 **Q: What information does the Customer Support team need for Cloud releases?**
 
-* The Cloud Releases channel in the Staff team is used for release updates and for posting the changelog. This may be automated in the future. We're also planning to have a dashboard that shows the current version deployed to Mattermost Cloud, and which commits are included.
-
-**Q: How will versioning work?**
-
-* Currently the GitHub are tagged as a date, e.g. `cloud-2021-06-02-1`. With Mattermost Cloud, it's not whether or not a feature is enabled, but whether or not the server is capable of supporting the feature.
+* The Announcements channel in the Staff team is used for release updates and for posting the changelog. This may be automated in the future. We're also planning to have a dashboard that shows the current version deployed to Mattermost Cloud, and which commits are included.
