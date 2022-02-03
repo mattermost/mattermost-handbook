@@ -257,7 +257,7 @@ When triaging a bug report, consider the following:
 
 **Q: Do Mobile and Desktop App releases follow the "cloud first" strategy?**
 
-* Mobile and Desktop App releases are not based off of Mattermost Cloud releases at this point.
+* Mobile and Desktop App releases are not based off of Mattermost Cloud releases at this point. These releases are based off of ``master``.
 
 **Q: How do we track feature differences for Mattermost Cloud and self-managed releases?**
 
