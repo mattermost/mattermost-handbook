@@ -33,5 +33,5 @@ Bugs are any “obvious errors” on how the product or a feature is functioning
 
 ## 6. Assigning new tickets to a team
 
-* If you know what team would own fixing the bug, you can assign the ticket directly to that team.
-* Otherwise, you can leave the team ``Unassiged`` and the Release Manager assigns the ticket. The Release Manager follows the ~Bugs channel on a daily basis.
+* If you know which team would own fixing the bug, you can assign the ticket directly to that team.
+* Otherwise, you can leave the team ``Unassigned`` and the Release Manager assigns the ticket. The Release Manager follows the ~Bugs channel on a daily basis.

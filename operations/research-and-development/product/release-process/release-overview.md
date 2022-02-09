@@ -118,7 +118,7 @@ Release dates are currently communicated in the following ways. Further iteratio
 
 **Understanding the cadence**
 
-* The Mattermost Cloud releases follows a biweekly cycle and the release day is normally on Wednesdays. Feature Complete deadline for each Mattermost Cloud release is on Mondays 7 working days prior to the Cloud release day.
+* The Mattermost Cloud releases follow a biweekly cycle and the release day is normally on Wednesdays. Feature Complete deadline for each Mattermost Cloud release is on Mondays 7 working days prior to the Cloud release day.
 * The Mobile App release cadence is monthly on the 16th of every month.
 * Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next self-managed release. The release branch for a self-managed release \(e.g. `release-5.32`\) will be cut once the Mattermost Cloud release that will be used for the next self-managed release has been shipped.
 * This cadence is subject to change in the future and any changes will be documented and announced.
@@ -189,7 +189,7 @@ When triaging a bug report, consider the following:
 
 **Q When do I need to have a feature PR to be included into the next release?**
 
-* A: Aim to have the PR merged before the feature complete deadline. The earlier in the monthly cycle the PR is merged, the higher the chances are for it to be included in that months release. Quality of our releases is important and feature PRs are normally never cherry-picked to a release branch.
+* A: Aim to have the PR merged before the Feature Complete deadline. The earlier in the monthly cycle the PR is merged, the higher the chances are for it to be included in that month's release. The quality of our releases is important and feature PRs are not normally cherry-picked to a release branch.
 
 **How can I determine if my merge request will make it into the next release?**
 
@@ -257,7 +257,7 @@ When triaging a bug report, consider the following:
 
 **Q: Do Mobile and Desktop App releases follow the "cloud first" strategy?**
 
-* Mobile and Desktop App releases are not based off of Mattermost Cloud releases at this point. These releases are based off of ``master``.
+* Mobile and Desktop App releases are not based off of Mattermost Cloud releases at this point. These releases are based off of `master`.
 
 **Q: How do we track feature differences for Mattermost Cloud and self-managed releases?**
 
