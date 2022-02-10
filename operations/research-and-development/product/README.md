@@ -11,7 +11,7 @@ This section contains:
 * [Product Management Areas of Ownership](product-management-team-handbook/product-ownership-areas/) 
 * [Technical Writing Team Handbook](technical-writing-team-handbook/)
 * [Growth](growth/)
-* [Analytics](analytics/) 
-* [Developer Relations](developer-relations/)
-* [Product Team Hangouts](product-team-hangouts/)
+* [Analytics](analytics) 
+* [Developer Relations](developer-relations)
+* [Product Team Hangouts](product-team-hangouts)
 
