@@ -2,7 +2,7 @@
 
 This section contains:
 
-* [Product Planning Process](https://handbook.mattermost.com/operations/research-and-development/product/product-planning)
+* [Product Planning Process](product-planning/)
 * [Development Process](https://handbook.mattermost.com/operations/research-and-development/product/development-process)
 * [Release Process](https://handbook.mattermost.com/operations/research-and-development/product/release-process)
 * [How to Guides for Product](https://handbook.mattermost.com/operations/research-and-development/product/how-to-guides-for-product)
