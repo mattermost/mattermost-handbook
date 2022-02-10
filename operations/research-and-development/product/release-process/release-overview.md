@@ -133,7 +133,7 @@ The Release Manager is able to look at the version we have deployed to Mattermos
 
 **Process for merging the `master` branch into the `cloud` branch**
 
-* For server, webapp, api-reference and enterprise cloud branches, the current `cloud` branch is deleted and a new one is created from the `master` branch for each. A backup of the `cloud` branches are saved. This is done biweekly on a Wednesday or Thursday by the Server Platform Team. See _`this document <https://docs.google.com/document/d/1p54GySjFirwrTBbOc1jqXwfKE_XPJV0r6aNbVyZ1zV4/edit>`_ for more details on the process.
+* For server, webapp, api-reference and enterprise cloud branches, the current `cloud` branch is deleted and a new one is created from the `master` branch for each. A backup of the `cloud` branches are saved. This is done biweekly on a Wednesday or Thursday by the Server Platform Team. See [this document](https://docs.google.com/document/d/1p54GySjFirwrTBbOc1jqXwfKE_XPJV0r6aNbVyZ1zV4/edit) for more details on the process.
 * Devs and Release Manager should be aware of the dates when a `master` branch is merged into a `cloud` branch in order to be mindful of avoiding having incomplete features in a Cloud release, and to include bug fixes that we may want to include in a release.
 
 **Process for cutting the release branch for Self-Managed releases based off of Cloud releases**
