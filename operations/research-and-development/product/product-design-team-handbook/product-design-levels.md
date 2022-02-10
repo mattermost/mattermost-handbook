@@ -1,8 +1,8 @@
 # Product Design Levels
 
-These levels serve to help Product Designs assess their opportunities for career growth in the Product Management function. The levels below follow a growth track in the art and craft of Product Management and not in a person management track.
+These levels serve to help Product Designers assess their opportunities for career growth in the Product Management function. The levels below follow a growth track in the art and craft of Product Management and not in a person management track.
 
-### Level 1: Product Design I
+### Level 1: Product Designer I
 
 | Leadership Principle | Competencies | Level Expectations |
 |---|---|---|
@@ -12,7 +12,7 @@ These levels serve to help Product Designs assess their opportunities for career
 | Customer Obsession | Customer Impact: "How do I bring value?"<br> <br>*Community spans both open-source and enterprise, but ultimately manifests in the same obsession for enabling customers to be successful.* | Considers the customer's perspective when making decisions. Knows when to ask clarifying questions. |
 | Self-Awareness | Interaction: "Who relies on me?"<br><br>Iteration:  "How do I improve myself and others?"<br><br>*Self-awareness yields an ability to seamlessly fit into any conversation or effort, interacting with a group to work towards the best possible outcome and always iterating towards the best possible outcome.* | Regularly participates in team discussions for ongoing feature work.  May lead discussions on smaller topics. |
 
-### Level 2: Product Design I
+### Level 2: Product Designer I
 
 | Leadership Principle | Competencies | Level Expectations |
 |---|---|---|
@@ -22,7 +22,8 @@ These levels serve to help Product Designs assess their opportunities for career
 | Customer Obsession | Customer Impact: "How do I bring value?"<br><br>*Community spans both open-source and enterprise, but ultimately manifests in the same obsession for enabling customers to be successful.* | nderstands and applies basic level best practices for customer impact within their daily work. Will ask for input on more complicated topics. |
 | Self-Awareness | Interaction: "Who relies on me?"<br><br>Iteration:  "How do I improve myself and others?"<br><br>*Self-awareness yields an ability to seamlessly fit into any conversation or effort, interacting with a group to work towards the best possible outcome and always iterating towards the best possible outcome.* | Regularly participates in team discussions for ongoing feature work.  May lead discussions on smaller topics. |
 
-### Level 3: Product Design II
+### Level 3: Product Designer II
+
 | Leadership Principle | Competencies | Level Expectations |
 |---|---|---|
 | Ownership | Scope: "What do I work on?" <br><br>*Scope is the domain over which you are expected to show ownership.* | Influences and executes defined projects or tasks and features across the product.	 |
@@ -31,7 +32,7 @@ These levels serve to help Product Designs assess their opportunities for career
 | Customer Obsession | Customer Impact: "How do I bring value?"<br><br>*Community spans both open-source and enterprise, but ultimately manifests in the same obsession for enabling customers to be successful.* | Can navigate moderately complex decisions and thought process about how features and implemetations bring customer value, and can make decisions in these areas independently.  Starts to understand and contribute to cross-feature and/or cross-team implications of customer impact.	|
 | Self-Awareness | Interaction: "Who relies on me?"<br><br>Iteration:  "How do I improve myself and others?"<br><br>*Self-awareness yields an ability to seamlessly fit into any conversation or effort, interacting with a group to work towards the best possible outcome and always iterating towards the best possible outcome.* | Drops fluidly into feature team projects, ramps quickly and drives features to successful outcomes. Drives discussions on small and mid-size topics. Participates actively in discussions and efforts that cross teams. Actively seeks feedback and growth opportunities. |
 
-### Level 4: Product Design II
+### Level 4: Product Designer II
 
 | Leadership Principle | Competencies | Level Expectations |
 |---|---|---|
@@ -41,7 +42,8 @@ These levels serve to help Product Designs assess their opportunities for career
 | Customer Obsession | Customer Impact: "How do I bring value?"<br><br>*Community spans both open-source and enterprise, but ultimately manifests in the same obsession for enabling customers to be successful.*  | Can navigate moderately complex decisions and thought process about how features and implemetations bring customer value, and can make decisions in these areas independently.  Starts to understand and contribute to cross-feature and/or cross-team implications of customer impact. |
 | Self-Awareness | Interaction: "Who relies on me?"<br><br>Iteration:  "How do I improve myself and others?"<br><br>*Self-awareness yields an ability to seamlessly fit into any conversation or effort, interacting with a group to work towards the best possible outcome and always iterating towards the best possible outcome.* | Drops fluidly into feature team projects, ramps quickly and drives features to successful outcomes. Drives discussions on small and mid-size topics. Participates actively in discussions and efforts that cross teams. Actively seeks feedback and growth opportunities. |
 
-### Level 5: Senior Product Design 
+### Level 5: Senior Product Designer
+
 | Leadership Principle | Competencies | Level Expectations |
 |---|---|---|
 | Ownership | Scope: "What do I work on?" <br><br>*Scope is the domain over which you are expected to show ownership.*  | Influences product vision for high impact features and design changes across the product.	 |
@@ -50,7 +52,7 @@ These levels serve to help Product Designs assess their opportunities for career
 | Customer Obsession | Customer Impact: "How do I bring value?"<br><br>*Community spans both open-source and enterprise, but ultimately manifests in the same obsession for enabling customers to be successful.*  | Can indepently make decisions affecting customer value/impact for complex topics within a product/feature-set. Leads cross-product, cross-feature, and cross-team discussions related to customer value/impact, and can bring the stakeholders to a decision point. |
 | Self-Awareness | Interaction: "Who relies on me?"<br><br>Iteration:  "How do I improve myself and others?"<br><br>*Self-awareness yields an ability to seamlessly fit into any conversation or effort, interacting with a group to work towards the best possible outcome and always iterating towards the best possible outcome.*  | Frequently called upon to comment on product, customer and community discussions. Is very comfortable in customer and community discussions, aligns efforts, and develops superior solutions through discussion and analysis. Participates deeply in cross-team efforts. Begins to lead discussions on topics that reach outside of design. |
 
-### Level 6: Senior Product Design
+### Level 6: Senior Product Designer
 
 | Leadership Principle | Competencies | Level Expectations |
 |---|---|---|
@@ -60,7 +62,7 @@ These levels serve to help Product Designs assess their opportunities for career
 | Customer Obsession | Customer Impact: "How do I bring value?"<br><br>*Community spans both open-source and enterprise, but ultimately manifests in the same obsession for enabling customers to be successful.*  | Can indepently make decisions affecting customer value/impact for complex topics within a product/feature-set. Leads cross-product, cross-feature, and cross-team discussions related to customer value/impact, and can bring the stakeholders to a decision point. |
 | Self-Awareness | Interaction: "Who relies on me?"<br><br>Iteration:  "How do I improve myself and others?"<br><br>*Self-awareness yields an ability to seamlessly fit into any conversation or effort, interacting with a group to work towards the best possible outcome and always iterating towards the best possible outcome.* | Frequently called upon to comment on product, customer and community discussions. Is very comfortable in customer and community discussions, aligns efforts, and develops superior solutions through discussion and analysis. Participates deeply in cross-team efforts. Begins to lead discussions on topics that reach outside of design. |
 
-### Level 7: Staff Product Design
+### Level 7: Staff Product Designer
 
 | Leadership Principle | Competencies | Level Expectations |
 |---|---|---|
@@ -70,7 +72,7 @@ These levels serve to help Product Designs assess their opportunities for career
 | Customer Obsession | Customer Impact: "How do I bring value?"<br><br>*Community spans both open-source and enterprise, but ultimately manifests in the same obsession for enabling customers to be successful.*  | Has ownership for cross-product customer impact topics. Can anticipate complex issues early in the product development process (generally focused within Product). Starts to anticipate and resolve cross functional topics and issues. |
 | Self-Awareness | Interaction: "Who relies on me?"<br><br>Iteration:  "How do I improve myself and others?"<br><br>*Self-awareness yields an ability to seamlessly fit into any conversation or effort, interacting with a group to work towards the best possible outcome and always iterating towards the best possible outcome.* | Primary product design lead for projects, providing thought leadership in selecting and guiding these efforts. Works regularly with stakeholders outside of product. Is often the intial resource to drive design efforts for a new product or major feature. |
 
-### Level 8: Principal Product Design	
+### Level 8: Principal Product Designer
 
 | Leadership Principle | Competencies | Level Expectations |
 |---|---|---|
@@ -80,7 +82,7 @@ These levels serve to help Product Designs assess their opportunities for career
 | Customer Obsession | Customer Impact: "How do I bring value?"<br><br>*Community spans both open-source and enterprise, but ultimately manifests in the same obsession for enabling customers to be successful.*  | Works consistently with PM, ENG, and sales leadership to set goals and deliverables for customer value. Represents product  design in discussions with non-design functions. Engages heavily with customers and community to share our design philosopy and principles. Applies our philosophy and principles to bring value to customer from work done all across the company. |
 | Self-Awareness | Interaction: "Who relies on me?"<br><br>Iteration:  "How do I improve myself and others?"<br><br>*Self-awareness yields an ability to seamlessly fit into any conversation or effort, interacting with a group to work towards the best possible outcome and always iterating towards the best possible outcome.* | Works consistently with PM, ENG, and Mattermost leadership to set organizational objectives and direction.  Translates these objectives to clear and actionable projects for prduct design. |
 
-### Level 9: Distinguished Product Design
+### Level 9: Distinguished Product Designer
 
 | Leadership Principle | Competencies | Level Expectations |
 |---|---|---|
@@ -89,5 +91,3 @@ These levels serve to help Product Designs assess their opportunities for career
 | Earn Trust | Influence: "Who do I work with?"<br><br>*As more people and parts of the organization earn your trust, your influence grows.* | Highly respected by colleagues and community as a design authority, actively influencing discussions and behavior with input and suggestions, and working in sync with PM, ENG, and customer teams. Engages with people in the broader design community (outside of Mattermost) to identify and and implement best practices within Mattermost. |
 | Customer Obsession | Customer Impact: "How do I bring value?"<br><br>*Community spans both open-source and enterprise, but ultimately manifests in the same obsession for enabling customers to be successful.*  | Works consistently with PM, ENG, and sales leadership to set goals and deliverables for customer value. Represents product  design in discussions with non-design functions. Engages heavily with customers and community to share our design philosopy and principles. Applies our philosophy and principles to bring value to customer from work done all across the company. |
 | Self-Awareness | Interaction: "Who relies on me?"<br><br>Iteration:  "How do I improve myself and others?"<br><br>*Self-awareness yields an ability to seamlessly fit into any conversation or effort, interacting with a group to work towards the best possible outcome and always iterating towards the best possible outcome.* | Works consistently with PM, ENG, and Mattermost leadership to set organizational objectives and direction.  Translates these objectives to clear and actionable projects for prduct design. |
-
-
