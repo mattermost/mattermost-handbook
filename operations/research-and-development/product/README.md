@@ -12,6 +12,6 @@ This section contains:
 * [Technical Writing Team Handbook](technical-writing-team-handbook/)
 * [Growth](growth/)
 * [Analytics](analytics/) 
-* [Developer Relations](developer-relations)
-* [Product Team Hangouts](product-team-hangouts)
+* [Developer Relations](../developer-relations)
+* [Product Team Hangouts](../product-team-hangouts)
 
