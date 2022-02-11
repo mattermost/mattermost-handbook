@@ -4,7 +4,7 @@ The role of the Web / Desktop team is to own the infrastructure behind the Web A
 
 ## Leads
 
-Engineering: Joram Wilander
+Engineering: Zef Hemel / Joram Wilander
 
 Product: Eric Sethna
 
