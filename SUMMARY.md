@@ -47,6 +47,7 @@
 * [Research and Development](operations/research-and-development/README.md)
   * [Organization](operations/research-and-development/organization/README.md)
     * [Channels](operations/research-and-development/organization/channels.md)
+    * [Playbooks](operations/research-and-development/organization/playbooks.md)
   * [Product](operations/research-and-development/product/README.md)
     * [Product Planning](operations/research-and-development/product/product-planning/README.md)
       * [Product Philosophy and Principles](operations/research-and-development/product/product-planning/product-philosophy-and-principles.md)
