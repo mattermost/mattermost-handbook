@@ -43,4 +43,4 @@ User Experience:  Matt Birtch
   - Channel Moderation
 - Channel Telemetry
 - Channel Accessibility
-- Channel Feature Peformance
+- Channel Feature Performance
