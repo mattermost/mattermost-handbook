@@ -6,7 +6,7 @@ The Self-Serve Subscriptions team is responsible for the billing and purchasing 
 
 Engineering: Maria Nuñez
 
-Product: Jason Blais
+Product: TBH
 
 User Experience:  Anneliese Klein
 
