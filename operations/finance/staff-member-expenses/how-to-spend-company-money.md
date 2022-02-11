@@ -38,7 +38,7 @@ While we're sharing average costs for various items below, you should use your b
   * Example: [https://www.fully.com/standing-desks/jarvis.html](https://www.fully.com/standing-desks/jarvis.html)
 * Desk chair: Average price **300 USD**
   * Example: [https://www.fully.com/chairs/fully-desk-chair.html](https://www.fully.com/chairs/fully-desk-chair.html)
-* Laptop stand: Average price **50 USD**
+* Laptop stand: Average price **180 USD**
 * Laptop carrying bag: Average price **60 USD**
 * Work-related books: **30 USD** per month or **360 USD** annually
   * Recommended [readings](https://docs.mattermost.com/process/training.html#books)
