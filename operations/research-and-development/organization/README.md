@@ -29,6 +29,7 @@ The Platform division is responsible for the platforms that support and span the
 * **[Server](/operations/research-and-development/organization/server.md)**
 * **[Mobile](/operations/research-and-development/organization/mobile.md)**
 * **[QA](/operations/research-and-development/organization/qa.md)**
+* **Tech Writing**
 
 ## Cloud 
 
