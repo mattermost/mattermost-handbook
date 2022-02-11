@@ -1,6 +1,6 @@
 # Data Engineering
 
-The Data Engineering team is responsible for accelerating usage and revenue by optimizing in-product journeys.
+The Data Engineering team is responsible for data warehouse and management.
 
 ## Leads
 
