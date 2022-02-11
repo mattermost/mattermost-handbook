@@ -1,6 +1,6 @@
 # Channels
 
-The Channels team is responsible for the Channels product within Mattermost including the Web, Mobile and Desktop experiences of the product. 
+The Channels team is responsible for the Channels product within Mattermost including the Web, Mobile, and Desktop experiences of the product.
 
 ## Leads
 
@@ -11,22 +11,23 @@ Product: Eric Sethna
 User Experience:  Matt Birtch
 
 ## Areas of Ownership
+
  - Channel Posts
    - Post Formatting
-   - Hastags / Topics
+   - Hashtags/Topics
    - File Attachments
    - Infinite Scroll 
  - Channel and Post Notifications
-   - Desktop, web and email
+   - Desktop, web, and email
    - Keywords, @here, @all, Notices
    - User mute
    - Category mute
-- Channel Post Organization and Retrival 
+- Channel Post Organization and Retrieval 
   - Threads
-  - Pinned Posts / Saved Posts
-  - Channel Search (including search backend) 
+  - Pinned Posts/Saved Posts
+  - Channel Search (including search backend)
   - Channel switching
-- Channel Reactions & Emojis
+- Channel Reactions and Emojis
   - Emojis, Gifs
 - Channel Types 
   - Public, Private, Archive, DM, GM
