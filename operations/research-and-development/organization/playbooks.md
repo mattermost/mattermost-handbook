@@ -24,4 +24,4 @@ User Experience:  Abhijit Singh
   - Data Retention
 - Playbook Telemetry
 - Playbook Accessibility
-- Playbook Feature Peformance
+- Playbook Feature Performance
