@@ -1,6 +1,6 @@
 # Web / Desktop
 
-The Web / Desktop team is responsible for the web and desktop clients for Mattermost
+The role of the Web / Desktop team is to own the infrastructure behind the Web App and Desktop App while supporting other teams that are using that infrastructure.
 
 ## Leads
 
