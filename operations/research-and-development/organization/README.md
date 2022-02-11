@@ -46,4 +46,4 @@ The Cloud division is responsible for delivery of the Mattermost products as a S
 
 The Security division is responsible for both product and securithy operations. 
 * **[Product Security](/operations/research-and-development/organization/product_security.md)** 
-* **[Security Operations](/operations/research-and-development/organization/security_operations.md)**.
+* **[Security Operations](/operations/research-and-development/organization/security_operations.md)**
