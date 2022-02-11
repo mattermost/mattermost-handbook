@@ -36,7 +36,7 @@ The Platform division is responsible for the platforms that support and span the
 The Cloud division is responsible for delivery of the Mattermost products as a SaaS product. 
 
 * **[Growth](/operations/research-and-development/organization/growth.md)**
-* **[Self-Service Subscriptions](/operations/research-and-development/organization/self-service_subscriptions.md)**
+* **[Self-Serve Subscriptions](/operations/research-and-development/organization/self-serve_subscriptions.md)**
 * **[Data Engineering](/operations/research-and-development/organization/data_engineering.md)**
 * **[Release DevOps](/operations/research-and-development/organization/release_devops.md)**
 * **[Cloud Platform](/operations/research-and-development/organization/cloud_platform.md)**
