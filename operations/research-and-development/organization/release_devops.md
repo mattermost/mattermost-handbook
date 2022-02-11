@@ -1,6 +1,6 @@
 # Release DevOps
 
-The Release DevOps team is responsible for 
+The Release DevOps team is responsible for the release artifacts, pipelines, and processes for the release of Mattermost products. 
 
 ## Leads
 
