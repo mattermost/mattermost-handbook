@@ -1,6 +1,6 @@
 # Calls
 
-The calls team is responsible for the Boards product within Mattermost. This includes the [Calls plugin](https://github.com/mattermost/mattermost-plugin-calls). 
+The calls team is responsible for the Calls product within Mattermost. This includes the [Calls plugin](https://github.com/mattermost/mattermost-plugin-calls). 
 
 ## Leads
 
