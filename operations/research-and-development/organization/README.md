@@ -6,38 +6,38 @@ R&D is split into 3 different divisions: Product, Cloud, and Security. Under eac
 
 ## Product
 
-### Verticals
+### Vertical Teams
 
-Each vertical is responsible for a single product. The current product verticals are:
+Each vertical team is responsible for a single product. The current product verticals are:
 
-* [Channels](/operations/research-and-development/organization/channels.md)
-* Boards
-* Playbooks
-* Calls
+* **[Channels](/operations/research-and-development/organization/channels.md)**
+* **[Boards](/operations/research-and-development/organization/boards.md)**
+* **[Playbooks](/operations/research-and-development/organization/playbooks.md)**
+* **[Calls](/operations/research-and-development/organization/calls.md)**
 
-### Suite
+### Suite Teams
 
-Suite teams are responsible for features that are utilized across the product verticals. Currently **Suite Users** and **Integration Frameworks** makes up the suite division.
+Suite teams are responsible for features that are utilized across the product verticals. **Suite Users** and **Integration Frameworks** makes up the suite division.
 
-### Platform
+### Platform Teams
 
 The Platform division is responsible for the platforms that support and span the product verticals. Platform is compromised of:
 
-* Web/Desktop
-* Server
-* Mobile
-* QA
+* **Web/Desktop**
+* **Server**
+* **Mobile**
+* **QA**
 
-## Cloud
+## Cloud 
 
 The Cloud division is responsible for delivery of the Mattermost products as a SaaS product. This includes:
 
-* Growth
-* Self-Service Subscriptions
-* Data Engineering
-* Release DevOps
-* Cloud Platform
-* SRE
+* **Growth**
+* **Self-Service Subscriptions**
+* **Data Engineering**
+* **Release DevOps**
+* **Cloud Platform**
+* **SRE**
 
 ## Security
 
