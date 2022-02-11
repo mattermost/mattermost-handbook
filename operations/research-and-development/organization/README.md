@@ -25,7 +25,7 @@ Suite teams are responsible for features that are utilized across the product ve
 
 The Platform division is responsible for the platforms that support and span the product verticals. 
 
-* **Web/Desktop**
+* **[Web/Desktop](/operations/research-and-development/organization/web_desktop.md)**
 * **Server**
 * **Mobile**
 * **QA**
