@@ -2,7 +2,7 @@
 
 The source of truth for the R&D org structure and team membership is [this spreadsheet](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit#gid=1820415931).
 
-R&D is split into 3 different divisions: Product, Cloud, and Security. Under each division, there are teams who have specific areas of ownership.
+R&D is split into three different divisions: Product, Cloud, and Security. Under each division, there are teams with specific areas of ownership.
 
 ## Product
 
@@ -29,7 +29,7 @@ The Platform division is responsible for the platforms that support and span the
 * **[Server](/operations/research-and-development/organization/server.md)**
 * **[Mobile](/operations/research-and-development/organization/mobile.md)**
 * **[QA](/operations/research-and-development/organization/qa.md)**
-* **Tech Writing (/operations/research-and-development/organization/tech_writing.md)**
+* **[Tech Writing](/operations/research-and-development/organization/tech_writing.md)**
 
 ## Cloud 
 
@@ -44,6 +44,6 @@ The Cloud division is responsible for delivery of the Mattermost products as a S
 
 ## Security
 
-The Security division is responsible for both product and securithy operations. 
+The Security division is responsible for both product and security operations. 
 * **[Product Security](/operations/research-and-development/organization/product_security.md)** 
 * **[Security Operations](/operations/research-and-development/organization/security_operations.md)**
