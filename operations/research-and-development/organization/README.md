@@ -12,7 +12,7 @@ Each Vertical is responsible for a single product. The current product verticals
 
 * [Channels](/operations/research-and-development/organization/channels.md)
 * Boards
-* Playbooks
+* [Playbooks](/operations/research-and-development/organization/playbooks.md)
 * Calls
 
 ### Suite
