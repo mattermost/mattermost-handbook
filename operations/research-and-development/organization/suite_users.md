@@ -22,8 +22,8 @@ User Experience:  Marina Karpenko
   - Server vs. Teams 
   - System Console UI
 - User Groups
- - Custom Groups
- - LDAP Groups
+  - Custom Groups
+  - LDAP Groups
 - User Management
   - User Activation / deactivation
   - System User Roles (Sys Admin, Team Admin, Member, Guest)
@@ -31,17 +31,18 @@ User Experience:  Marina Karpenko
   - Workplace Insights & Advanced site analytics
 - User, Account & Site Customization Settings
   - Users & Team Settings
-  -  Custom Branding
+  - Custom Branding
   - Localization 
   - Themes
   - Accessibility
   - Localization: Language & Timezone (with Tech Writers)
 - User Statuses & User Notifications
+  - Custom Statuses
   - User Notifications (desktop, web, mobile) 
- - Notification Schedule
- - Global Notifications
- - Email Notifications
+  - Notification Schedule
+  - Global Notifications
+  - Email Notifications
 - Team Management
- - Team Settings
- - Users & Teams Telemetry
+  - Team Settings
+  - Users & Teams Telemetry
 
