@@ -18,7 +18,7 @@ Each vertical team is responsible for a single product.
 ### Suite Teams
 
 Suite teams are responsible for features that are utilized across the product verticals. 
-* **Suite Users**
+* **[Suite Users](/operations/research-and-development/organization/suite_users.md)**
 * **Integration Frameworks** 
 
 ### Platform Teams
