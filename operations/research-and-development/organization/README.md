@@ -26,23 +26,23 @@ Suite teams are responsible for features that are utilized across the product ve
 The Platform division is responsible for the platforms that support and span the product verticals. 
 
 * **[Web/Desktop](/operations/research-and-development/organization/web_desktop.md)**
-* **Server**
-* **Mobile**
-* **QA**
+* **[Server](/operations/research-and-development/organization/server.md)**
+* **[Mobile](/operations/research-and-development/organization/mobile.md)**
+* **[QA](/operations/research-and-development/organization/qa.md)**
 
 ## Cloud 
 
 The Cloud division is responsible for delivery of the Mattermost products as a SaaS product. 
 
-* **Growth**
-* **Self-Service Subscriptions**
-* **Data Engineering**
-* **Release DevOps**
-* **Cloud Platform**
-* **SRE**
+* **[Growth](/operations/research-and-development/organization/growtg=h.md)**
+* **[Self-Service Subscriptions](/operations/research-and-development/organization/self-service_subscriptions.md)**
+* **[Data Engineering](/operations/research-and-development/organization/data_engineering.md)**
+* **[Release DevOps](/operations/research-and-development/organization/release_devops.md)**
+* **[Cloud Platform](/operations/research-and-development/organization/cloud_platform.md)**
+* **[SRE](/operations/research-and-development/organization/sre.md)**
 
 ## Security
 
 The Security division is responsible for both product and securithy operations. 
-* **Product** 
-* **Security Operations**.
+* **[Product Security](/operations/research-and-development/organization/product_security.md)** 
+* **[Security Operations](/operations/research-and-development/organization/security_operations.md)**.
