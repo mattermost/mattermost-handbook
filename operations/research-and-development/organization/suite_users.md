@@ -41,3 +41,7 @@ User Experience:  Marina Karpenko
  - Notification Schedule
  - Global Notifications
  - Email Notifications
+- Team Management
+ - Team Settings
+ - Users & Teams Telemetry
+
