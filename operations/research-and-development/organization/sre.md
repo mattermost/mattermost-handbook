@@ -2,14 +2,6 @@
 
 The SRE team is responsible for maintaining the reliability, scalability, observability and maintanance of community.mattermost.com and Mattermost Cloud.
 
-## Leads
-
-Engineering: Spiros Oikonomakis
-
-Product: Neil Barnett
-
-User Experience:  NA
-
 ## Areas of Ownership
 - Community
   - Reliability/Scalability/Observability/Maintenance
