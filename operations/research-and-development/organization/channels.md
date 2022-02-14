@@ -2,14 +2,6 @@
 
 The Channels team is responsible for the Channels product within Mattermost including the Web, Mobile, and Desktop experiences of the product.
 
-## Leads
-
-Engineering: Guillermo Vayá
-
-Product: Eric Sethna
-
-User Experience:  Matt Birtch
-
 ## Areas of Ownership
 
  - Channel Posts
