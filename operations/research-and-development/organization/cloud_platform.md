@@ -11,4 +11,8 @@ Product: Neil Barnett
 User Experience:  NA
 
 ## Areas of Ownership
-- To be added
+- Kubernetes operator
+- Cloud provisioning server
+- Automated cloud workspace hibernation/wake-up
+- Bifrost S3 proxy
+- Cloud import/export services
