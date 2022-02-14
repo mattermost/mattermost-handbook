@@ -2,14 +2,6 @@
 
 The Growth team is responsible for accelerating usage and revenue by optimizing in-product journeys for Product-Led Growth.
 
-## Leads
-
-Engineering: Maria Nuñez
-
-Product: Don Hogan
-
-User Experience:  Anneliese Klein
-
 ## Areas of Ownership
 - Activation 
   - Signup-to-login, install-to-login
