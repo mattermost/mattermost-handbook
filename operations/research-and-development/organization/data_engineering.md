@@ -2,14 +2,6 @@
 
 The Data Engineering team is responsible for data warehouse and management.
 
-## Leads
-
-Engineering: Catalin Tomai
-
-Product Analyst: Srikar Gudipudi
-
-User Experience:  NA
-
 ## Areas of Ownership
 - Data warehouse & management
 - Data Pipelines
