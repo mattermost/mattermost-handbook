@@ -2,14 +2,6 @@
 
 The Integration Frameworks team is responsible for the integration of external applications into Mattermost. 
 
-## Leads
-
-Engineering: Catalin Tomai
-
-Product: Aaron Rothschild
-
-User Experience:  Marina Karpenko
-
 ## Areas of Ownership
 - Apps framework
   - App functionality
