@@ -2,14 +2,6 @@
 
 The role of the Web / Desktop team is to own the infrastructure behind the Web App and Desktop App while supporting other teams that are using that infrastructure.
 
-## Leads
-
-Engineering: Zef Hemel / Joram Wilander
-
-Product: Eric Sethna
-
-User Experience:  Michael Gamble
-
 ## Areas of Ownership
 - Web and desktop app performance
 - Redux store structure
