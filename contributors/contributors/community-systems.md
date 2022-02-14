@@ -2,7 +2,7 @@
 
 Here are few ways we engage with the [Mattermost community](https://mattermost.com/community/):
 
-* **Bugs:** [Search for existing bugs and file a GitHub issue if your bug is new](http://www.mattermost.org/filing-issues/). 
+* **Bugs:** [Search for existing bugs and file a GitHub issue if your bug is new](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/). 
 * **Feature Ideas:** [Add a feature idea to be discussed or upvoted](https://www.mattermost.org/feature-ideas/).
 * **Troubleshoot:** [Search articles and add topic if issue is new](https://forum.mattermost.org/t/how-to-use-the-troubleshooting-forum/).
 * **General discussion:** [Join the Mattermost Forum](https://forum.mattermost.org/t/welcome-to-the-mattermost-general-forum/). 
