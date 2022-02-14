@@ -2,16 +2,6 @@
 
 The Release DevOps team is responsible for the release artifacts, pipelines, and processes for the release of Mattermost products. 
 
-## Leads
-
-Engineering: Spiros Oikonomakis
-
-Product: Neil Barnett
-
-Release Manager: Amy Blais
-
-User Experience:  NA
-
 ## Areas of Ownership
 - Release pipelines, artifacts and processes  (release branches/tags) for: 
   - Self-Managed
