@@ -2,14 +2,6 @@
 
 The Self-Serve Subscriptions team is responsible for the billing and purchasing systems that enable customers to self-service a purchase of Mattermost products. 
 
-## Leads
-
-Engineering: Maria Nuñez
-
-Product: TBH
-
-User Experience:  TBH
-
 ## Areas of Ownership
 - Customer Portal
   - Self-service licensing new purchase, renewals 
