@@ -2,14 +2,6 @@
 
 The Security Operations team is responsible for the security monitoring and operational security policies of the Mattemost organization.
 
-## Leads
-
-Engineering: Paul Harrison
-
-Product: NA
-
-User Experience:  NA
-
 ## Areas of Ownership
 - Security Incident Response Program
   - Active monitoring and analysis of security events taking place across company, product, and service, platforms
