@@ -1,6 +1,6 @@
 # Channels
 
-The Channels team is responsible for the Channels product within Mattermost including the Web, Mobile, and Desktop experiences of the product.
+The Channels team is responsible for the Channels product within Mattermost including the Web, Mobile, and Desktop experiences of the Channels product.
 
 ## Areas of Ownership
 
