@@ -27,7 +27,7 @@ Before submitting software requirement updates to the documentation, the followi
 | :--- | :--- |
 | Chrome | Chromium version of latest Mattermost Desktop App |
 | Firefox | Supported versions by Mozilla - [reference](https://www.mozilla.org/en-US/firefox/organizations/) |
-| Safari | Safari version available in the minimum supported iOS version - [reference](https://en.wikipedia.org/wiki/Safari_version_history) |
+| Safari | Safari version available in the minimum supported macOS version - [reference](https://en.wikipedia.org/wiki/Safari_version_history) |
 | Edge | Latest release |
 
 ## Mobile Apps
