@@ -2,14 +2,6 @@
 
 The Suite Users team is responsible for the User object across the Mattermost Product and all verticals. 
 
-## Leads
-
-Engineering: Martin Kraft
-
-Product: Laney Coletti-Saracino 
-
-User Experience:  Marina Karpenko
-
 ## Areas of Ownership
 - User Invites
   - Guest invites
