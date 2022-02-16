@@ -1,8 +1,9 @@
 # Mobile
 
-The Mobile team is responsible for the mobile architecture and performance while supporting other teams that in their mobile development.
+The Mobile team is responsible for the mobile architecture and performance while supporting other teams in their mobile development.
 
 ## Areas of Ownership
+
 - Mobile app performance
 - Mobile architecture
 - Low-level shared libraries for mobile
