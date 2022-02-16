@@ -3,6 +3,7 @@
 The Security Operations team is responsible for the security monitoring and operational security policies of the Mattemost organization.
 
 ## Areas of Ownership
+
 - Security Incident Response Program
   - Active monitoring and analysis of security events taking place across company, product, and service, platforms
   - Implementation, upkeep, and growth of security monitoring and analysis platforms
@@ -17,5 +18,5 @@ The Security Operations team is responsible for the security monitoring and oper
   - Engage in verification and impact of product vulnerabilities as it relates to Community and Cloud-hosted instances
 - Analysis, verification, and reaction to phishing and other malicious email
   - Management and upkeep of Vault infrastructure and policies
-  - Management and upkeep of Teleport (cloud / company) platform
+  - Management and upkeep of Teleport (cloud/company) platform
   - Management and upkeep of Pritunl VPN platform
