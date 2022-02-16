@@ -8,7 +8,7 @@ The Playbooks team is responsible for the Playbooks product within Mattermost. T
 - Runs
 - Statuses
 - Retrospectives
-- Playbook Types and Templates 
+- Playbook Types and Templates
 - Playbook Management and Compliance
   - Permissions
   - Statistics
