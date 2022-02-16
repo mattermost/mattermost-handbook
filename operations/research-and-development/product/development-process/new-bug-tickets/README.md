@@ -31,3 +31,7 @@ Bugs are any “obvious errors” on how the product or a feature is functioning
 * **Attachments:** Please include screenshots and/or videos of any helpful error messages and snippets of what you are seeing.
 * **Possible fixes:** If you can, link to the line of code that might be responsible for the problem.
 
+## 6. Assigning new tickets to a team
+
+* If you know which team would own fixing the bug, you can assign the ticket directly to that team.
+* Otherwise, you can leave the team ``Unassigned`` and the Release Manager assigns the ticket. The Release Manager follows the ~Bugs channel on a daily basis.
