@@ -4,7 +4,7 @@ The Release DevOps team is responsible for the release artifacts, pipelines, and
 
 ## Areas of Ownership
 
-- Release pipelines, artifacts and processes (release branches/tags) for: 
+- Release pipelines, artifacts and processes (release branches/tags) for:
   - Self-Managed
   - Mobile
   - Plugins & Apps
