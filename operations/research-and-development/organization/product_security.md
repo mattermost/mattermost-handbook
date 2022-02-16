@@ -3,6 +3,7 @@
 The Product Security team is responsible for identifying and managing solutions to protect Mattermost product security.
 
 ## Areas of Ownership
+
 - Responsible Disclosure Program
 - Security Reviews
   - Plugins
