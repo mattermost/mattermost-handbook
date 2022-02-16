@@ -1,9 +1,10 @@
-# Web / Desktop
+# Web/Desktop
 
-The role of the Web / Desktop team is to own the infrastructure behind the Web App and Desktop App while supporting other teams that are using that infrastructure.
+The role of the Web/Desktop team is to own the infrastructure behind the Web App and Desktop App while supporting other teams that are using that infrastructure.
 
 ## Areas of Ownership
-- Web and desktop app performance
+
+- Web and Desktop App performance
 - Redux store structure
 - Web frontend multi-product architecture
 - Routing
