@@ -97,8 +97,7 @@ Below is the list of members mapped to each role mentioned as an approved respon
 * VP Marketing: Matt Harper
 * Director of HR: Natalie Jew
 * Lead PM: Katie Wiersgalla
-* Head of Legal: Jamie Hurewitz
+* Head of Legal: TBC
 * Head of Security: Daniel Schalla
 * Head of Community: Jason Blais
 * Security PM: Katie Wiersgalla
-
