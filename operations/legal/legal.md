@@ -2,17 +2,9 @@
 
 This page summarizes where to find legal resources for Mattermost staff.
 
-For legal resources by "Area of Responsibility" please see [Mattermost Legal AORs (Internal)](https://docs.google.com/document/d/14KzrhszTlaibtM4APezTS8CFb1vaHxRsnkV9ZFef-Uc/edit). which includes the name and contact information of legal specialists by area.
+For legal resources by "Area of Responsibility" please see [Mattermost Legal AORs](https://docs.google.com/document/d/14KzrhszTlaibtM4APezTS8CFb1vaHxRsnkV9ZFef-Uc/edit). which includes the name and contact information of legal specialists by area.
 
 When you have legal questions that aren't coverd in the AORs, please mail legal@mattermost.com.
-
-### Answering Questions Once (AQO)
-
-When you ask questions to legal@mattermost.com for areas that aren't covered by [owners named in the AOR list](https://docs.google.com/document/d/14KzrhszTlaibtM4APezTS8CFb1vaHxRsnkV9ZFef-Uc/edit), nor documented in our handbook, and could be use to others, we use a process of "Document-First Question and Answer" to write the answer first and then responding with a link to the answer.
-
-While this takes slightly longer, it pays-off long term by answering questions once.
-
-Also, if you see parts of our documentation or handbook out-of-date, please also mail legal@mattermost.com to let us know.
 
 ### Legal Resources
 
@@ -30,3 +22,23 @@ Here's a list of additional resources related to the legal function:
 * [Mattermost Legal Terms](https://mattermost.com/terms-of-service/) - Our standard legal terms for using Mattermost software and services.
 * [Legal Discussion Channel](https://community.mattermost.com/private-core/channels/legal) - A channel with historical Q&A for legal.
 * [Archive of Legal Handbook (Prior to Feb 18, 2022)](https://community.mattermost.com/boards/workspace/ezhqoc78aigo7poyrb9hy7u5jw/25b8db83-635b-4469-8c66-37774edbd0c5/ad1e7566-7232-4d88-84b0-7d328b10f1bc/cgprte3iuutdrfeujxgk6p6yw1y)
+
+### Answering Questions Once (AQO)
+
+When you ask questions to legal@mattermost.com for areas that aren't covered by [owners named in the AOR list](https://docs.google.com/document/d/14KzrhszTlaibtM4APezTS8CFb1vaHxRsnkV9ZFef-Uc/edit), nor documented in our handbook, and could be use to others, we use a process of "Document-First Question and Answer" to write the answer first and then responding with a link to the answer.
+
+While this takes slightly longer, it pays-off long term by answering questions once.
+
+Also, if you see parts of our documentation or handbook out-of-date, please also mail legal@mattermost.com to let us know.
+
+### Outside council one-pager
+
+If you're an outside council onboarding to work with Mattermost here's what you need to know:
+
+1. Please CC legal@mattermost.com on all communications with Mattermost staff. This helps keep track of projects and documents, and confirm billings.
+2. If you have general questions, please ask your "Mattermost Contact" as [listed on this page](https://docs.google.com/document/d/14KzrhszTlaibtM4APezTS8CFb1vaHxRsnkV9ZFef-Uc/edit).
+3. If you have questions on billing logistics, please mail ap@mattermost.com.
+4. We use a Green/Yellow/Red system to discuss legal issues. Depending on your specialty we may design the critiera with your input.
+ - "Green" is anything minor. Example: Minor changes to our standard agreements, or conforming agreement from an outside party.
+ - "Yellow" is an issue that can be signed off by a department head, but should be surfaced as an exception in either our contracts management software or at the company-level. Example: Change of jurisdiction from Mattermost, Inc. to the jurisdiction of one of our subsidiaries.
+ - "Red" is an issue that requires written sign-off from either VP Finance or CEO and escalation to Head of Legal. Example: Change of jurisdiction to a region where we don't reside directly or via a subsidiary (which will most likely be declined).
