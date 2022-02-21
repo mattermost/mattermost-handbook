@@ -25,10 +25,10 @@ The following staff are approved to send contracts to be e-signed:
 
 * Lynn Conway - Primary for staff agreements
 * Amy Nicol - Primary for vendor contracts, consulting agreements, and corporate agreements
+* Nikki Johnson - Primary for sales agreements and customer supplier forms
 * Jeff Dynda - Approved vendor contracts from legal and customer supplier forms
 * Natalie Jew
 * Tim Quock
-
 
 ## What are e-sign completion expectations?
 
