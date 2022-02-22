@@ -76,6 +76,8 @@ Currently Mattermost Cloud releases occur on a 2-week cycle, but the goal is to 
 
 We follow [the Agile Release Train method](https://www.scaledagileframework.com/agile-release-train/) at least for Cloud releases. If releases are not approved by a certain date, then we miss the release train.
 
+For P0 bugs (eg. bugs that affect more than 25% of our customers with system degradation), we will do an exception and rollout a hotfix as soon as possible.
+
 **Schedule for Cloud releases**:
  - Thursdays: Merge master into the cloud branch and update cloud test servers.
  - Friday-Tuesday: Release testing and bug fixing.
@@ -88,7 +90,7 @@ We follow [the Agile Release Train method](https://www.scaledagileframework.com/
  - Feature Complete deadline is approximately 1 month prior to the release day.
     - When we merge master into the cloud branch for the last Cloud release of the month, this is the cut-off for new features included in the next self-managed release.
     - If a feature misses the cut-off, it doesn’t get added to the next self-managed release.
- - Cut release branch based off the last Cloud release of the month.
+ - Cut release branch based off the last Cloud release of the month (around T-14).
  - Code Freeze at T-5.
  - Cut Final build at T-2.
     - QA approval should be ready by T-2.
