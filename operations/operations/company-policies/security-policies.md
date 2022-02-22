@@ -6,7 +6,7 @@ This document summarizes the internal security policies at Mattermost, Inc.
 
 The open source Mattermost Team Edition is used by thousands of teams around the world. Development is aided by hundreds of open source contributors, with full access to the product source code, who have a vested interest in keeping the software secure and vetted.
 
-As new threats emerge, a [responsible disclosure policy](https://www.mattermost.org/responsible-disclosure-policy) is in place for the community to confidentially report security issues so they can be addressed by Mattermost, Inc. prior to documenting [security updates](https://about.mattermost.com/security-updates/) publicly.
+As new threats emerge, a [responsible disclosure policy](https://mattermost.com/security-vulnerability-report/) is in place for the community to confidentially report security issues so they can be addressed by Mattermost, Inc. prior to documenting [security updates](https://mattermost.com/security-updates/) publicly.
 
 The commercial Mattermost Enterprise Edition extends the security and productivity benefits of the open source solution with support for advanced security, management, scale, and policy compliance features for complex organizations.
 
@@ -20,15 +20,15 @@ The commercial Mattermost Enterprise Edition extends the security and productivi
 
 ### Review
 
-* To uphold security, quality and reliability standards, all potential changes submitted by open source contributors must pass an [accepting pull requests](https://docs.mattermost.com/process/help-wanted.html) vetting process prior to submission.
+* To uphold security, quality and reliability standards, all potential changes submitted by open source contributors must pass an [accepting pull requests](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/help-wanted) vetting process prior to submission.
 * Clarity and readability of code is enforced through the [Mattermost contribution checklist](https://developers.mattermost.com/contribute/getting-started/contribution-checklist/).
 * After submission, all proposed changes require at least two code reviews for reliability, quality, and system security.
 * All open source contributions are available for public inspection and commentary before and after acceptance.
 
 ### Reporting
 
-* Mattermost uses a [responsible disclosure policy](https://www.mattermost.org/responsible-disclosure-policy) to accept confidential reports of new threats, so they can be addressed either immediately through a dot release, or by the next monthly release depending on potential impact.
-* When Mattermost software undergoes security and penetration testing at customer sites security updates are added to the core software and [publicly documented by release](https://about.mattermost.com/security-updates).
+* Mattermost uses a [responsible disclosure policy](https://mattermost.com/security-vulnerability-report/) to accept confidential reports of new threats, so they can be addressed either immediately through a dot release, or by the next monthly release depending on potential impact.
+* When Mattermost software undergoes security and penetration testing at customer sites security updates are added to the core software and [publicly documented by release](https://mattermost.com/security-updates/).
 
 ### Patch management
 
@@ -247,7 +247,7 @@ For more information on Business Resiliency, see the Business Continuity Plan.
 4. Is there proactive notification provided to customers and software partners \(PTC\)? How?
    * Yes. Security updates are announced via email to customers as well as mailing list subscribers.
 5. Is there a specified response policy that includes the timeframe issues are to be addressed?
-   * Yes, please see: [https://about.mattermost.com/support/](https://about.mattermost.com/support/).
+   * Yes, please see: [https://about.mattermost.com/support/](https://mattermost.com/support/).
 
 ## Infrastructure security policies
 
@@ -266,7 +266,7 @@ At a high level, precautions include:
 * DRBCP is tested, evaluated and refined annually to ensure our processes are working and up-to-date.
 * As support is the most critical service offered, multiple channels for support engagement are available and monitored, including email, a Mattermost community server available on web, desktop and mobile, online forums, online forms, social media channels \(Twitter and Facebook\), and for Premier Support customers, we offer a telephone-based call center.
 * Subject Matter Experts for escalations are available in at least three centers in different timezones to provide redundant coverage should communication with one or multiple centers be disrupted. Mattermost staff use a diverse set of operating systems, including Mac, Windows, and different distributions of Linux, and a diverse set of global internet service providers, to reduce the potential damage of a single strain of malware, single desktop computing exploit, or single telecommunications outage.
-* As further redundancy, we have a network of [partners](https://about.mattermost.com/partners) around the world skilled in Mattermost technologies to be contacted for assistance for critical customer issues.
+* As further redundancy, we have a network of [partners](https://mattermost.com/partners/) around the world skilled in Mattermost technologies to be contacted for assistance for critical customer issues.
 * As further redundancy, we have a community of several hundred engineers around the world and over a thousand contributors to our online forums, who have sufficient access and expertise in Mattermost's open source technologies that could be contact in the highly unlikely event both Mattermost, Inc. and our partner networks are unable to service our customers.
 * As further redundancy, Mattermost provides open source code for its core server technology, mobile applications, desktop applications, and a wide array of extensions which allows customers to have transparency into the functionality of the software and solve the issue with their internal technical teams should a massive worldwide failure of Mattermost, Inc., its partners and its community arise.
 
