@@ -26,7 +26,7 @@ Most roles at Mattermost include a take-home project as part of the interview pr
 
 All projects indicate the expected amount of time required to complete the project. This is intended to help provide each candidate with clarity on timing expectations. When you decide on the project you'd like to complete, your Recruiter and Hiring Manager will give you any additional information related to the project. Your Recruiter may ask you to sign an agreement ahead of the interview project, which will be one of the following:
 
-* The [Contributor Licence Agreement](https://mattermost.org/mattermost-contributor-agreement/) ("CLA") will be required to sign if your take-home project forms part of our [Mattermost Community](https://handbook.mattermost.com/contributors/join-us#open-source-contributors).
+* The [Contributor Licence Agreement](https://mattermost.com/mattermost-contributor-agreement/) ("CLA") will be required to sign if your take-home project forms part of our [Mattermost Community](https://handbook.mattermost.com/contributors/join-us#open-source-contributors).
 * The [NDA agreement](https://na3.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=75563bac-a0ac-4aef-a434-06d9c33c1f90&env=na3&acct=e5bb8810-00ab-47c2-af80-9d331c19377f&v=2) may be required if your take-home project doesn't require the CLA to be signed. Your Recruiter will confirm this step.
 
 **Gift Card Options**
