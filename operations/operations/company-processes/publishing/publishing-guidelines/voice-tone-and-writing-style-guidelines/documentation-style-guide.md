@@ -410,7 +410,7 @@ For example:
   `Mattermost Manifesto <https://www.mattermost.org/manifesto/>`__
 ```
 
-The link renders as: [Mattermost Manifesto](https://www.mattermost.org/manifesto/).
+The link renders as: [Mattermost Manifesto](https://docs.mattermost.com/developer/manifesto.html).
 
 ### Internal links to Mattermost documentation
 
