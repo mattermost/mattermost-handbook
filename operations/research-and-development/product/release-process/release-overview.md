@@ -92,6 +92,7 @@ For P0 bugs (eg. bugs that affect more than 25% of our customers with system deg
     - If a feature misses the cut-off, it doesn’t get added to the next self-managed release.
  - Cut release branch based off the last Cloud release of the month (around T-14).
  - Code Freeze at T-5.
+    - Prepackaged Boards and Playbooks should be ready on or before this date. Note: currently the Boards team follows a slightly different release schedule and the Boards release may not be ready until T-3.
  - Cut Final build at T-2.
     - QA approval should be ready by T-2.
  - Release Day at T-0.
