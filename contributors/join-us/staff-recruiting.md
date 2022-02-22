@@ -189,7 +189,7 @@ Candidates may be asked to complete a take-home project as part of the interview
 All take-home projects should list the expected amount of time to complete. This provides candidates with expectation clarity. The Hiring Manager will indicate which stage of the recruiting process a take-home will be given. The process for this stage will be standard for all roles:
 
 1. Hiring Manager or Recruiter will inform the candidate of the take-home project details and ask the candidate to complete either:
-   * [CLA](https://mattermost.org/mattermost-contributor-agreement/) if the take-home project is a Community ticket.
+   * [CLA](https://mattermost.com/mattermost-contributor-agreement/) if the take-home project is a Community ticket.
    * NDA if the above doesn’t apply.
 2. Hiring Manager or Recruiter will send the candidate the take-home project instructions through Lever.
 3. Upon completion, the Hiring Manager or Recruiter will complete the [Interview Project Gift Card Form](https://docs.google.com/forms/d/e/1FAIpQLSfMppjsYmEyrMmY3tXnKdAs_cvA21o0vHRcyuVN6uFOoU3_Eg/viewform) which will notify the People Team to send a Thank You gift to the candidate for completing the project.
