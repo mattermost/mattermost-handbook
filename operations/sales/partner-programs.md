@@ -3,7 +3,7 @@
 Mattermost offers multiple partner programs:
 
 * Mattermost Authorized Reseller Program for one-time resale transactions fulfilling customer request to reseller.
-* Mattermost Value-Added Reseller Programf or on-going resellers providing first and second tier support in local language and local timezone.
+* Mattermost Value-Added Reseller Program for on-going resellers providing first and second tier support in local language and local timezone.
 * Mattermost Deployment Solutions Partner Program for co-marketing relationships with both commercial and open source partners automating the deployment of Mattermost.
 
 ## Mattermost Authorized Reseller Program
@@ -27,7 +27,7 @@ When ready to place an order, submit a purchase order to orders@mattermost.com a
 Mattermost, Inc. will then:
 
 * Review the terms and conditions of the order.
-* Send the customer contact a request to complete a [customer registration form](https://about.mattermost.com/customer-registration) \(password provided after PO is sent\), which includes an agreement to accept [Enterprise Edition Subscription Terms for Purchase by Resale](https://about.mattermost.com/customer-terms-and-conditions).
+* Send the customer contact a request to complete a [customer registration form](https://mattermost.com/support/) \(password provided after PO is sent\), which includes an agreement to accept [Enterprise Edition Subscription Terms for Purchase by Resale](https://mattermost.com/enterprise-edition-terms/).
 * Review the completed customer registration form within one business day, and issue a license by email.
 * Issue you an invoice \(payment due within 30 days\).
 
@@ -55,7 +55,7 @@ Value-Added Resellers who complete online training, and have set up local suppor
 
 ### Order Processing
 
-* For each customer opportunity, you must [complete a deal registration form](https://about.mattermost.com/reseller-deal-registration) to be eligible for a reseller discount.
+* For each customer opportunity, you must [complete a deal registration form](https://mattermost.com/reseller-deal-registration/) to be eligible for a reseller discount.
 * Once the deal is registered, Mattermost will review the registration and contact you regarding approval, rejection, or to obtain more information.
 * Request a quotation from your Mattermost Strategic Alliance Manager for customer purchase, including the email address of the customer contact who will receive the license key.
 * The customer must sign the quotation before you issue a purchase order.
@@ -63,7 +63,7 @@ Value-Added Resellers who complete online training, and have set up local suppor
 Mattermost, Inc. will then:
 
 * Review the terms and conditions of the order.
-* Send the customer contact a request to complete a [customer registration form](https://about.mattermost.com/customer-registration) \(password provided after PO is sent\), which includes an agreement to accept [Enterprise Edition Subscription Terms for Purchase by Resale](https://about.mattermost.com/customer-terms-and-conditions).
+* Send the customer contact a request to complete a [customer registration form](https://about.mattermost.com/customer-registration/) \(password provided after PO is sent\), which includes an agreement to accept [Enterprise Edition Subscription Terms for Purchase by Resale](https://mattermost.com/customer-terms-and-conditions).
 * Review the completed customer registration form within one business day, and issue a license by email.
 * Issue you an invoice \(payment due within 30 days\).
 
@@ -71,7 +71,7 @@ If a partner has registered a deal, received approval, and the customer purchase
 
 ## Mattermost Deployment Solutions Partner Program
 
-Commercial and open source organizations who demonstrate the ability to automate the deployment and maintenance of Mattermost systems per our [Deployment Solution Program guidelines](https://docs.mattermost.com/guides/orchestration.html) are offered a co-marketing partnership, which may include:
+Commercial and open source organizations who demonstrate the ability to automate the deployment and maintenance of Mattermost systems per our [Deployment Solution Program guidelines](https://docs.mattermost.com/about/orchestration.html) are offered a co-marketing partnership, which may include:
 
 * Listings in the Mattermost partner directory.
 * Guest writer opportunities on the Mattermost blog.
@@ -122,4 +122,3 @@ Frequently asked questions from Mattermost partners.
 ### Can a partner sell Mattermost products without revealing the name of an end customer?
 
 No. Mattermost, Inc. must know all end customers with whom it does business. This is important for Mattermost to be able to service and renew the end customer if the reseller relationship is discontinued. Moreover, Mattermost cannot do business with customers in countries embargoed by the United States, and this must be confirmed in any commercial transaction.
-
