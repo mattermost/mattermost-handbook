@@ -194,11 +194,11 @@ When triaging a bug report, consider the following:
 
 * A: Desktop releases are currently released as required.
 
-**Q When do I need to have a feature PR to be included into the next release?**
+**Q: When do I need to have a feature PR to be included into the next release?**
 
 * A: Aim to have the PR merged before the Feature Complete deadline. The earlier in the monthly cycle the PR is merged, the higher the chances are for it to be included in that month's release. The quality of our releases is important and feature PRs are not normally cherry-picked to a release branch.
 
-**How can I determine if my merge request will make it into the next release?**
+**Q: How can I determine if my merge request will make it into the next release?**
 
 * A: The Release Manager adds PR milestones and Jira fix versions for tracking. You can also check the release branches (e.g. in the server repo) to see what's included.
 
