@@ -83,7 +83,7 @@ Below are guidelines or processes for specific forums we engage with the Matterm
 **Sample responses**
 
 1. Asks for more information such as a preview of our product.
-   * _Thank you for your interest in Mattermost. You can learn more about us at www.mattermost.com where you can also download a trial of our product._
+   * _Thank you for your interest in Mattermost. You can learn more about us at https://mattermost.com where you can also download a trial of our product._
 2. Asks for a specific feature or group of features.
    * **Multiple feature requests:** _Thank you for the suggestions @username. Would you be open to contributing them in the feature idea forum so they can be discussed and upvoted by the community? You get 10 votes in the feature idea forum, and each one influences the future of the project._ [https://mattermost.uservoice.com/](https://mattermost.uservoice.com/)
    * **Single feature request:** _Thank you for the suggestion @username. Would you be open to contributing it in the feature idea forum so it can be discussed and upvoted by the community? You get 10 votes in the feature idea forum, and each one influences the future of the project._ [https://mattermost.uservoice.com/](https://mattermost.uservoice.com/)
@@ -96,7 +96,7 @@ Below are guidelines or processes for specific forums we engage with the Matterm
    * _Thank you for reaching out. Our team responded to you in the forums and we're happy to help with further questions there._ or 
    * _Thank you for reaching out. Our team monitors and responds to forum inquiries. We're happy to help with further questions there._
 5. Customer asking for help to address an issue they are having with a deployment or specific feature in the system.
-   * _Thank you for reaching out. We recommend opening a support ticket where our team can best help you troubleshoot the issue. For more information about Enterprise Edition support levels, see_ [https://about.mattermost.com/support/](https://about.mattermost.com/support/)_._
+   * _Thank you for reaching out. We recommend opening a support ticket where our team can best help you troubleshoot the issue. For more information about Enterprise Edition support levels, see_ [https://about.mattermost.com/support/](https://mattermost.com/support/)_._
 
 **What do we retweet?**
 
