@@ -175,14 +175,14 @@ Below is the list of core developers working on individual Mattermost repositori
 
 ## Community Moderators
 
-Below is the list of community moderators who share feedback and answer questions on Mattermost through [forums](https://forum.mattermost.org), GitHub issues and the [Mattermost community server](https://community.mattermost.com):
+Below is the list of community moderators who share feedback and answer questions on Mattermost through [forums](https://forum.mattermost.com), GitHub issues and the [Mattermost community server](https://community.mattermost.com):
 
 * [**Ahmad Danial**](core-committers.md)
   * @ahmaddanial on [community.mattermost.com](https://community.mattermost.com/core/messages/@ahmaddanial) and [@dannymohammad](https://github.com/dannymohammad) on GitHub
 * [**Arlindo Neto**](core-committers.md)
   * @prixone on [community.mattermost.com](https://community.mattermost.com/core/messages/@prixone) and [@prixone](https://github.com/prixone) on GitHub
 * [**Christopher Parker**](core-committers.md)
-  * @sousapro on [community.mattermost.com](https://community.mattermost.com/core/messages/@sousapro) and [@Sousapro](https://forum.mattermost.org/u/sousapro/summary) on Forum
+  * @sousapro on [community.mattermost.com](https://community.mattermost.com/core/messages/@sousapro) and [@Sousapro](https://forum.mattermost.com/u/sousapro/summary) on Forum
 
 ## Product Managers
 
