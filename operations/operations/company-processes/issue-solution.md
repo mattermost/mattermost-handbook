@@ -1,6 +1,6 @@
 # Issue/Solution Process
 
-Issue/Solution Proposal is a tool for increasing clarity, speed, and output in teams. Over time, we will be integrating ISP functionality in [Focalboard](https://focalboard.com), and unti then we will use other systems.
+Issue/Solution Proposal is a tool for increasing clarity, speed, and output in teams. Over time, we will be integrating ISP functionality in [Mattermost Boards](https://mattermost.com/boards/), and unti then we will use other systems.
 
 Note: Special thanks to [Matt Mochary](https://www.linkedin.com/in/matt-mochary-34bb4/) for the framework on which this system is based.
 
