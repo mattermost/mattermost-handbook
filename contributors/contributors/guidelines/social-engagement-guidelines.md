@@ -91,12 +91,12 @@ Below are guidelines or processes for specific forums we engage with the Matterm
    * **Shipped feature request:** Thank you for your feedback. Mattermost already supports \[feature\]. You can learn more about it in our documentation: \[link to docs\].
 3. Feedback about their experience, not specific to a feature or a product.
    * _Appreciate the feedback. If your team has suggestions on how to improve Mattermost, we'd love to hear more in our feature proposal forum. You get 10 votes there, and each one influences the future of the project:_ [https://mattermost.uservoice.com/](https://mattermost.uservoice.com/) or
-   * _Thanks @{username}, highly appreciate your feedback. If you have additional feedback about your experience, we'd love to hear. You can share at_ [http://forum.mattermost.org](http://forum.mattermost.org) _to start a discussion._
+   * _Thanks @{username}, highly appreciate your feedback. If you have additional feedback about your experience, we'd love to hear. You can share at_ [https://forum.mattermost.com)](https://forum.mattermost.com) _to start a discussion._
 4. Tweet of forum post, asking someone from Mattermost team to respond.
    * _Thank you for reaching out. Our team responded to you in the forums and we're happy to help with further questions there._ or 
    * _Thank you for reaching out. Our team monitors and responds to forum inquiries. We're happy to help with further questions there._
 5. Customer asking for help to address an issue they are having with a deployment or specific feature in the system.
-   * _Thank you for reaching out. We recommend opening a support ticket where our team can best help you troubleshoot the issue. For more information about Enterprise Edition support levels, see_ [https://about.mattermost.com/support/](https://mattermost.com/support/)_._
+   * _Thank you for reaching out. We recommend opening a support ticket where our team can best help you troubleshoot the issue. For more information about Enterprise Edition support levels, see_ [https://mattermost.com/support/](https://mattermost.com/support/)_._
 
 **What do we retweet?**
 
