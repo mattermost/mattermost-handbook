@@ -54,4 +54,4 @@ Once bug fix release is ready to cut:
      * For Chef Cookbook, open a new issue to announce the new release. See [example](https://github.com/ist-dsi/mattermost-cookbook/issues/48).
      * For Yunohost, open a new pull request to update the version. See [example](https://github.com/YunoHost-Apps/mattermost_ynh/pull/143).
 3. Marketing:
-   * Prepare [blog post](https://about.mattermost.com/releases/mattermost-4-10/) for mattermost.com and [Twitter announcement](https://twitter.com/mattermosthq/status/827193482578112512), and send for product marketing leads to review
+   * Prepare [blog post](https://mattermost.com/blog/mattermost-4-10-faster-load-times/) for mattermost.com and [Twitter announcement](https://twitter.com/mattermosthq/status/827193482578112512), and send for product marketing leads to review
