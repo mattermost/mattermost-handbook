@@ -57,17 +57,17 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 There are several ways you can report a Code of Conduct violation:
 
-* On the Mattermost Community server: Send a Direct Message to @mattermostconduct.
-  * If the violation is in a Public or Private channel, include a link to the conversation being reported.
-  * If the violation is in a Direct Message conversation, provide screenshots.
-* On the Mattermost forum: Send a message to [@mattermostconduct](https://forum.mattermost.org/u/mattermostconduct/).
+* On the Mattermost Community server: Send a direct message to @mattermostconduct.
+  * If the violation is in a public or private channel, include a link to the conversation being reported.
+  * If the violation is in a direct message conversation, provide screenshots.
+* On the Mattermost forum: Send a message to [@mattermostconduct](https://forum.mattermost.com/u/mattermostconduct/).
 * Email [conduct@mattermost.com](mailto:community@mattermost.com).
 
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
-**All reports will remain anonymous**. The exception is Direct Message violations: while we cannot provide reporter anonymity in those situations, they will be handled with extra care so as to not escalate the situation. A draft of the violation message will be sent to the reporter for final review before it is sent.
+**All reports will remain anonymous**. The exception is direct message violations: while we cannot provide reporter anonymity in those situations, they will be handled with extra care so as to not escalate the situation. A draft of the violation message will be sent to the reporter for final review before it is sent.
 
 ### Enforcement Responsibilities
 
@@ -112,4 +112,3 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 Community Impact Guidelines were inspired by [Mozilla's Code of Conduct Enforcement Ladder](https://github.com/mozilla/diversity).
 
 For answers to common questions about this Code of Conduct, see the FAQ at [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Translations are available at [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
-
