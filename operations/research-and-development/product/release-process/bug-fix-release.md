@@ -4,7 +4,7 @@
 
 Notes:
 - All cut-off dates are based on 10am ([San Francisco Time](https://everytimezone.com/)) on the day stated.
-- T-minus counts are measured in "working days" (weekdays, Monday through Friday, excluding [the listed statutory holidays](https://docs.mattermost.com/process/working-at-mattermost.html#holidays)) prior to release day.
+- T-minus counts are measured in "working days" (weekdays, Monday through Friday, excluding [the listed statutory holidays](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#holidays)) prior to release day.
 
 ### A. (Code complete date of previous release) Beginning of Release
 
@@ -51,7 +51,7 @@ Pre-work for the current release begins at the code complete date of the previou
       - If release day falls on a Friday, the blog post goes out on the Friday and the emailed newsletter goes out the following Tuesday
     - Post a reminder to devs in the Release Discussion channel of the the code complete date with a list of open bugs and PRs [see example](https://community.mattermost.com/core/pl/coggyys9atg7fqyam81q3gkmoo)
     - Ask PMs and dev leads if there are any notable breaking changes or deprecated features in the release
-      - Update [Upgrade Guide](https://docs.mattermost.com/administration/important-upgrade-notes.html) with any special notes for upgrading to the new version
+      - Update [Upgrade Guide](https://docs.mattermost.com/upgrade/important-upgrade-notes.html) with any special notes for upgrading to the new version
     - Ask PMs and Tech Writer to complete release documentation by T-9 deadline. [Example request](https://community.mattermost.com/core/pl/w4oobh4zpigsfbqskx5ix5jgxo)
     - Prepare bullet points for release announcement and share for PMs to work on. [Refer to the process here](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements)
 3. PM:
@@ -153,7 +153,7 @@ Review the [Release Features & Bug Guidelines](https://docs.google.com/document/
     - Go through all tabs of testing spreadsheet and verify all comments and questions have been filed in Jira as needed
     
 ### I. (T-minus 5 working days) Code Freeze
-Day after which only **S1 regressions** should be fixed (crashes, security vulnerabilities) and no other code changes should be committed. Exceptions can be made by the Release Manager during triage on a case-by-case basis. Review the [Bug Severity Guidelines](https://docs.mattermost.com/process/bug-severity-guidelines.html).
+Day after which only **S1 regressions** should be fixed (crashes, security vulnerabilities) and no other code changes should be committed. Exceptions can be made by the Release Manager during triage on a case-by-case basis. Review the [Bug Severity Guidelines](https://handbook.mattermost.com/operations/research-and-development/product/development-process/new-bug-tickets/bug-severity-guidelines).
 
 1. **(Team) Daily Release Update Meeting**
     - Continue to triage Jira tickets
@@ -172,7 +172,7 @@ Day after which only **S1 regressions** should be fixed (crashes, security vulne
     - Submit any remaining documentation PRs for product updates in the release
     - Check that a redirect page has been set up in mattermost.com for any links added to the System Console
     - Submit documentation for [API changes](https://github.com/mattermost/mattermost-server/commits/master/model/client.go) and [WebSocket event changes](https://github.com/mattermost/mattermost-server/blob/master/model/websocket_message.go#L13) to  API documentation
-    - Confirm changes to `config.json` in compatibility section of Changelog are written back to [settings documentation](https://docs.mattermost.com/administration/config-settings.html#configuration-settings)
+    - Confirm changes to `config.json` in compatibility section of Changelog are written back to [settings documentation](https://docs.mattermost.com/configure/configuration-settings.html)
     - Confirm all new diagnostics are documented in the telemetry docs (https://docs.mattermost.com/administration/telemetry.html)
 
 ### J. (T-minus 2 working days) Release Build Cut
@@ -207,9 +207,9 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
     - Post in Release Discussion with links to the Enterprise Edition and Team Edition sections
 4. Dev:
     - Verify the hashes (SHA-1, SHA-256, and md5) and GPG signatures are correct for both Enterprise Edition and Team Edition.
-    - Test upgrade from previous version to current version, following the [Upgrade Guide](https://docs.mattermost.com/administration/upgrade.html#upgrade-guide) with database upgrades on both MySQL and Postgres
-    - Test upgrade from Team Edition to Enterprise edition based on the [Upgrade Guide](https://docs.mattermost.com/administration/upgrade.html#upgrade-team-edition-to-enterprise-edition)
-    - Test fresh install of current version, following the [Install Guide](https://docs.mattermost.com/guides/administrator.html#installing-mattermost)
+    - Test upgrade from previous version to current version, following the [Upgrade Guide](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html) with database upgrades on both MySQL and Postgres
+    - Test upgrade from Team Edition to Enterprise edition based on the [Upgrade Guide](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html)
+    - Test fresh install of current version, following the [Install Guide](https://docs.mattermost.com/guides/deployment.html)
     - Review any changes made to install guides, and test if necessary
     - Ensure [Security Policies](https://handbook.mattermost.com/operations/operations/company-policies/security-policies) page has been updated
     - Update dependancies after release branch is cut in `mattermost-server`, `mattermost-webapp`, `desktop`, `mattermost-mobile`, and `mattermost-redux`
