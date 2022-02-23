@@ -29,7 +29,7 @@ Day when Leads and PMs decide which major features are included in the release, 
    * Begin daily triage of tickets with the team
      * Also triage tickets in the backlog
    * Prior to the cut to Self-Managed, the Release manager reviews new feature flags and provides a report to the PM/QA team for their review. Essentially a feature will be included in a Self-Managed release once the feature flag has been removed.
-   * Confirm with PMs that each Enterprise feature is in the correct [pricing SKU](https://about.mattermost.com/pricing/)
+   * Confirm with PMs that each Enterprise feature is in the correct [pricing SKU](https://mattermost.com/pricing/)
    * Review any features that are currently in beta and confirm with PMs if there are any to be promoted
    * Review the Jira tickets remaining in the current release fix version and push those that won't make it to the next fix version
    * After mobile release branch is cut, ask dev to cut an RN build
@@ -148,7 +148,7 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
    * Update the [security mugs spreadsheet](https://docs.google.com/spreadsheets/d/18MVoUJ1pfvqhqEX7tfQ9pia8yVuac8UsnfKmnU_dTqk/edit#gid=0)
    * Check the security researcher was added to the [Responsible Disclosure Policy](https://mattermost.com/security-vulnerability-report/) page
    * Update [deprecated feature list](https://docs.mattermost.com/install/deprecated-features.html) in mattermost.com with new and scheduled deprecations
-   * Draft [Mattermost Security Updates](http://about.mattermost.com/security-updates/), but do not post until 30 days after official release 
+   * Draft [Mattermost Security Updates](https://mattermost.com/security-updates/), but do not post until 30 days after official release 
      * Add a placeholder text saying "Details on the security update will be posted here on X date, as per our Responsible Disclosure Policy"
 2. QA:
    * Verify all PRs and tickets for the release have been tested/closed
@@ -185,12 +185,12 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
    * Schedule a release retrospective meeting, to be held within five days of the release
    * Prepare and post [release metrics](https://docs.google.com/spreadsheets/d/1Aoj4OTaWoyrKIcQNiHH1MVoRG51T20Y_0w2tg5oVw-M/edit#gid=825551144)
    * Finalize [release summary slide deck](https://docs.google.com/presentation/d/1DnfgP-yyZ8-sfhQC7rS9McbQQcmSPCQYLs62LNoIJuQ/edit#slide=id.g2f0aecc189_0_245) to prepare for posting for CSMs
-   * Review and update [company roadmap](https://about.mattermost.com/direction/) with which major features made it into the release
+   * Review and update [company roadmap](https://mattermost.com/roadmap/) with which major features made it into the release
      * Review with Head of Product prior to updating
      * Also update feature lists on [https://mattermost.com/pricing/](https://mattermost.com/pricing/) and [https://mattermost.com/product/](https://mattermost.com/product/) with relevant new features where needed
    * Update the Mattermost Wikipedia page with the latest version
    * Post the MVP winner announcement in the [Contributors channel](https://community.mattermost.com/core/channels/tickets)
-     * Update [MVP page](https://www.mattermost.org/mvp/) with the most valued professional of the release
+     * Update [MVP page](https://developers.mattermost.com/contribute/mvp/) with the most valued professional of the release
    * Add new release fix versions in Jira for the next few releases
    * Post key dates for the next release in the `Release: Self-Managed` channel and remove links to RC candidates and testing spreadsheet from the header
      * Make sure that statutory holidays for Canada and US are accounted for in the release dates
@@ -233,5 +233,5 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
 ### G. \(T-plus 30 days\) Update Mattermost Security Page
 
 1. Release Manager:
-   * Post [Mattermost Security Updates](https://about.mattermost.com/security-updates/) after reviewing with security lead
+   * Post [Mattermost Security Updates](https://mattermost.com/security-updates/) after reviewing with security lead
      * If a dot release is shipping with security fixes, do not post new details until T-plus 10 working days from the dot release ship date
