@@ -33,4 +33,4 @@ Mattermost UI translations and localization are handled on [Weblate](https://tra
 
 ## Contribute code
 
-Our community has made thousands of contributions to the Mattermost open source project. Contribute to our [core repositories and integrations](https://developers.mattermost.com/contribute/getting-started/), or build [your own integrations](https://developers.mattermost.com/integrate/getting-started/) and [submit them](https://mattermost.com/marketplace/submit-an-integration/) to our Marketplace.
+Our community has made thousands of contributions to the Mattermost open source project. Contribute to our [core repositories and integrations](https://developers.mattermost.com/contribute/getting-started/), or build [your own integrations](https://developers.mattermost.com/integrate/getting-started/) and [submit them](https://spinpunch.wufoo.com/forms/mattermost-integrations-and-installers/) to our Marketplace.

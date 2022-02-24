@@ -4,11 +4,11 @@ description: 50% - this page is a Work-In-Progress
 
 # Naming Files and Agreements
 
-## Data Filing Process
+## Data filing process
 
 We want any document completed or signed at Mattermost to be easily accessible and pulled for future audits, fund raising, legal requirements, and more. We have a simple, but purposeful way of collecting this information. Once a binding document has been completed or signed, please send this document to contracts@mattermost.com and we will appropriately file this document away. 
 
-## Naming Agreements
+## Naming agreements
 
 When naming files, please use the following convention
 
@@ -24,7 +24,7 @@ For clarity, below are a few examples to guide you:
 * 20190808\_State\_of\_CA\_Tax\_Department\_Business\_Registration
 * 20190714\_ Cooley\_LLC.\_ Master\_Service\_Agreement
 
-## Data Retention Practice
+## Data retention practice
 
 Once a file or agreement has been named, a Finance Team Member will file this document into 3 separate BOX folders
 
@@ -32,7 +32,7 @@ Once a file or agreement has been named, a Finance Team Member will file this do
 2. BY\_ENTITY
 3. BY\_TYPE
 
-## Sharing Information with 3rd Parties
+## Sharing information with third-parties
 
 We at Mattermost are a highly transparent company. However, there are times where sensitive information like personal employee data, revenue, and 409A value cannot be shared. Use your best judgment when sharing information to external parties not within Mattermost. If the document or information is something you feel uncomfortable sharing, then chances are that Mattermost would be uncomfortable sharing as well. 
 

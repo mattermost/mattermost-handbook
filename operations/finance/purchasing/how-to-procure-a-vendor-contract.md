@@ -96,11 +96,11 @@ Please note that contracts that don’t go through our internal signing process 
 
 ### Step 5: Send signed contract for counter-signature
 
-Once a contract is signed by Mattermost, a PDF version will be sent to the vendor for counter-signature by the [Procurement Team](mailto:%20procurement@mattermost.com) and the Requester will be CC’d on the email for visibility.
+Once a contract is signed by Mattermost, a PDF version will be sent to the vendor for counter-signature by the [Procurement Team](mailto:procurement@mattermost.com) and the Requester will be CC’d on the email for visibility.
 
 ### Step 6: Upload completed contract
 
-Send the final counter-signed contract to the [Procurement Team](mailto:%20procurement@mattermost.com) to file away.
+Send the final counter-signed contract to the [Procurement Team](mailto:procurement@mattermost.com) to file away.
 
 ### Step 7: Vendor on-boarding and invoice processing
 

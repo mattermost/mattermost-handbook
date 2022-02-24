@@ -152,7 +152,7 @@ Recruiting may follow up with the Interview Panel if the [Interview Rating](http
 
 If there are multiple candidates in the pipe, the Recruiter may ask the Interview Panel to rank the candidate pool. This exercise helps clear any potential blindspots or confusion around role expectations. It also allows the Recruiting team to prioritize the highest ranking candidates to complete the interview process, as appropriate.
 
-#### As Appropriate Interviews \(AAs\)
+#### As Appropriate interviews \(AAs\)
 
 To ensure the quality bar and culture of Mattermost is strong and rising, an "As Appropriate" interview is required with a senior, tenured Mattermost staff member for any candidate before an offer can be extended.
 
@@ -165,7 +165,7 @@ The following list of people are approved as As Appropriate interviewers:
 
 Each AA interviewer should have at least three reserved slots per week available for AA interviews, ideally in different timezone ranges, providing capacity for 12 new hires per month per AA.
 
-### Checklist for As Appropriate Interview
+### Checklist for As Appropriate interview
 
 At least 24 hours before an AA interview, the candidate's Lever profile should include:
 

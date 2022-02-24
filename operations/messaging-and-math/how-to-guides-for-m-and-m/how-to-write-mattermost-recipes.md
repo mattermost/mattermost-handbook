@@ -4,7 +4,7 @@ description: 50% draft
 
 # How to write Mattermost Recipes
 
-## Mattermost Recipes
+## Mattermost recipes
 
 Mattermost recipes are technical posts that show how to use Mattermost alongside other services or demonstrate Mattermost features. They consist of three main parts and one optional part:
 

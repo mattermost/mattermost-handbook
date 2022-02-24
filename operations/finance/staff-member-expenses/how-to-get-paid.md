@@ -22,7 +22,7 @@ If you're a staff member located in Canada, or if your contract is with Open Wor
 
 If you're a vendor or a contractor located outside the United States and Canada, Mattermost requires a primary banking institution as a method of payment, as we use TransferWise on the Accrualify platform for invoice processing and payment. If you're a staff member located outside of the United States, Canada, United Kingdom, and Germany, you will get paid via TransferWise for invoice processing, expense reimbursement, and payment. The currency in which payment is made is based on the currency stated within the agreement signed with Mattermost.
 
-**Primary Banking Institution**
+**Primary banking institution**
 
 The person or legal entity the bank account is registered to must be in the name of the contracting individual/entity.
 
@@ -46,7 +46,7 @@ Mattermost primarily makes payments in USD, unless otherwise stated on your agre
 
 Refer to the [Vendor Onboarding](https://handbook.mattermost.com/operations/finance/onboarding/how-to-on-board-as-a-vendor) section for guidance on registering so you get paid.
 
-## Payment Registration with Mattermost
+## Payment registration with Mattermost
 
 ### Banking registration
 
@@ -70,4 +70,3 @@ Due to data privacy concerns, lack of an unqualified opinion on the internal con
 * Currencies Direct
 * Worldfirst
 * All other facilities that are not primary at this time
-

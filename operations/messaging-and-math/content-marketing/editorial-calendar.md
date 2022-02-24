@@ -10,7 +10,7 @@ The editorial calendar includes a **Templates** section, with workflow templates
 
 Every piece of content moves through the same general workflow for creation, review, scheduling, and distribution. This is reflected in the **Board View** of the Asana project.
 
-### Inbound Topics
+### Inbound topics
 
 When new content ideas and topics are shared with other members of the team, they should be added to **Inbound Topics** with the status **\[REVIEW\] Inbound Idea**. This helps us capture and triage new post ideas and ensure that our backlog stays healthy.
 
@@ -42,7 +42,7 @@ Note that **Scheduled** posts still need to be distributed manually \(syndicated
 
 When all publication activities are completed, the post is moved to **Done** and no further action is needed. Completed posts should be reviewed in the next Content Strategy review cycle, [during the first meeting of the month](https://handbook.mattermost.com/operations/messaging-and-math/content-marketing#editorial-channels-and-meetings).
 
-## Editorial Calendar Fields
+## Editorial calendar fields
 
 Every content task has a number of fields that help us track campaigns more easily. They allow anyone who is editing or preparing a post for publication to have all the information they need to get the job done.
 
@@ -59,4 +59,3 @@ Every content task has a number of fields that help us track campaigns more easi
 * **Byline:** The name of the person \(or people\) who will be credited as the author of the content, where applicable.
 * **Draft/Link:** A link to the Google Doc, WordPress entry, or other source of content.
 * **Description:** Any notes on the content that are not captured in other fields.
-

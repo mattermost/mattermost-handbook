@@ -73,7 +73,7 @@ Other contributor types beyond solution contributors are also welcome to use and
 
 Platform contributors provide improvements to the core Mattermost open source projects under [https://github.com/mattermost/](https://github.com/mattermost/). Contributions may be made at different levels of skill and impact:
 
-* **Level 1:** Stated intention to contribute by completing [Mattermost Contributor Agreement](https://www.mattermost.org/mattermost-contributor-agreement/) which adds contributor’s name to [Mattermost Approved Contributor’s list](https://docs.google.com/spreadsheets/u/2/d/1NTCeG-iL_VS9bFqtmHSfwETo5f-8MQ7oMDE5IUYJi_Y/pubhtml?gid=0&single=true).
+* **Level 1:** Stated intention to contribute by completing [Mattermost Contributor Agreement](https://mattermost.com/mattermost-contributor-agreement/) which adds contributor’s name to [Mattermost Approved Contributor’s list](https://docs.google.com/spreadsheets/u/2/d/1NTCeG-iL_VS9bFqtmHSfwETo5f-8MQ7oMDE5IUYJi_Y/pubhtml?gid=0&single=true).
 * **Level 2:** Corrections or improvements to on-screen text, documentation, or help text. Cosmetic improvements to code base.
 * **Level 3:** Corrections of minor bugs in code base other than on-screen text, documentation, or help text either through spontaneous contribution or by volunteering for and being assigned a ticket by a core committer.
 * **Level 4:** Corrections to major bugs, or the implementation of minor feature either through spontaneous contribution or by volunteering for and being assigned a ticket by a core committer. Alternatively, requesting and being assigned a ticket of 2 mana or higher by core committer and completing the project.
@@ -98,15 +98,15 @@ Community Coordinator: Carrie Warner and Justine Geffen
 
 ### Quality Assurance contributors
 
-Quality Assurance contributors help find, confirm and report product defects via our process at [https://www.mattermost.org/filing-issues/](https://www.mattermost.org/filing-issues/). Anyone who encounters a verifiable defect is welcome to file a bug on the system.
+Quality Assurance contributors help find, confirm and report product defects via our process at [https://www.mattermost.org/filing-issues/](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute). Anyone who encounters a verifiable defect is welcome to file a bug on the system.
 
-Bonus: When a QA contributor finds and reports a bug on a release candidate build of Mattermost prior to the final release of the system, they can be awarded a [Mattermost Bug Hunter Award](https://forum.mattermost.org/t/mattermost-bug-hunter-awards/4979) for their contribution.
+Bonus: When a QA contributor finds and reports a bug on a release candidate build of Mattermost prior to the final release of the system, they can be awarded a [Mattermost Bug Hunter Award](https://forum.mattermost.com/t/mattermost-bug-hunter-awards/4979) for their contribution.
 
 Community Coordinator: TBD
 
 ### Knowledge Base contributors
 
-Knowledge Base contributors share feedback, questions, and answers on Mattermost through forums for [troubleshooting](https://www.mattermost.org/troubleshoot/), [feature proposals](https://www.mattermost.org/feature-ideas/), GitHub issues, and on the [Mattermost community server](https://community.mattermost.com/).
+Knowledge Base contributors share feedback, questions, and answers on Mattermost through forums for [troubleshooting](https://docs.mattermost.com/install/troubleshooting.html), [feature proposals](https://mattermost.com/feature-ideas/), GitHub issues, and on the [Mattermost community server](https://community.mattermost.com/).
 
 Community Coordinator: Amy Blais
 
@@ -118,7 +118,7 @@ Community Coordinator: Jason Blais and Amy Blais
 
 ### UX Design contributors
 
-UX Design contributors influence the design of the Mattermost user experience through discussion in the `ux-design` channel on the Mattermost continous integration server at [https://community.mattermost.com/core/channels/ux-design](https://community.mattermost.com/core/channels/ux-design) and through contributions to the [Mattermost User Experience Guidelines](https://docs.mattermost.com/developer/fx-guidelines.html) on [GitHub](https://github.com/mattermost/docs/blob/master/source/developer/fx-guidelines.rst).
+UX Design contributors influence the design of the Mattermost user experience through discussion in the `ux-design` channel on the Mattermost continous integration server at [https://community.mattermost.com/core/channels/ux-design](https://community.mattermost.com/core/channels/ux-design) and through contributions to the [Mattermost User Experience Guidelines](https://zeroheight.com/29be2c109/p/36db8f-why-compass) on [GitHub](https://github.com/mattermost/docs/blob/master/source/developer/fx-guidelines.rst).
 
 Community Coordinator: Andrew Brown
 

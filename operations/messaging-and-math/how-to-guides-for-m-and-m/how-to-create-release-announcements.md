@@ -79,25 +79,24 @@ The Release Manager \(Amy Blais\) owns the release announcement, including the f
          3. **Low** - Bare minimum to call an image
    3. A screenshot should always be included for the feature that is highlighted
 
-## Style Guidelines
+## Style guidelines
 
-1. Highlight past successes: Cross link to promote traffic
-2. Links tell a story: Links should indicate the content they lead to without clicking, avoid "read this blog post" and instead "learn more about the incident response alpha program"
-3. Actionable \(e.g. downloading the latest mobile app release, including links\)
-4. Clear, concise, and consistent throughout
+1. Highlight past successes: Cross link to promote traffic.
+2. Links tell a story: Links should indicate the content they lead to without clicking, avoid "read this blog post" and instead "learn more about the incident response alpha program".
+3. Actionable \(e.g. downloading the latest mobile app release, including links\).
+4. Clear, concise, and consistent throughout.
 
-## Screenshot Guidelines
+## Screenshot guidelines
 
 [Learn how to create screenshots and GIFs](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-screenshots-and-gifs)
 
-## Language Guidelines
+## Language guidelines
 
-1. Use simple language with no buzzwords
-2. Specify Desktop app or Mobile app if a feature is not dependent on the server release
-3. Use common wording, e.g. say "Servers" instead of "Sites"; say `plugins` not `plug-ins`; say "Browser" instead of "Webapp"
-4. Avoid phrases that are too vague, such as "Better messaging experience"
-5. Do not use internal names of features, such as "Unread toasts", "Deep linking"
-6. Say "You" instead of "Users" to talk directly to the reader
-7. Say "AD/LDAP" instead of just "AD" or just "LDAP"
-8. "System Console" and "System Admin" should be capitalized
-
+1. Use simple language with no buzzwords.
+2. Specify Desktop App or Mobile App if a feature is not dependent on the server release.
+3. Use common wording, e.g. say "Servers" instead of "Sites"; say `plugins` not `plug-ins`; say "Browser" instead of "Web App".
+4. Avoid phrases that are too vague, such as "Better messaging experience".
+5. Do not use internal names of features, such as "Unread toasts", "Deep linking".
+6. Say "You" instead of "Users" to talk directly to the reader.
+7. Say "AD/LDAP" instead of just "AD" or just "LDAP".
+8. "System Console" and "System Admin" should be capitalized.

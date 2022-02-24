@@ -6,7 +6,7 @@ If you need a template contract from legal, you can log on to the [SpotDraft](ht
 2. Then choose, **“New Contract”.**
 3. From here you can choose the type of template you would ike to request. Follow the template specific instructions below for each template type.
 
-## Non-disclosure Agreements 
+## Non-disclosure agreements 
 
 1. Select **“Mattermost - Non-Disclosure Agreement”** template.
 2. Select a Mattermost Signatory. Please consult the Handbook for [proper signing authority](https://handbook.mattermost.com/operations/operations/company-processes/company-agreements).
@@ -15,7 +15,7 @@ If you need a template contract from legal, you can log on to the [SpotDraft](ht
 5. In the **“Party Information”** box, please select **“Signatories Signing Order”** and toggle so that **“Signing Order”** is **‘ON’** and the other party is set to sign first. Select **“Save”.**
 6. You may now **“Send”** the draft NDA. This will send the document to the other party for review and signature.
 
-## Consulting Agreements
+## Consulting agreements
 
 1. Select **“Mattermost - Consulting Agreement”** template.
 2. Choose the Mattermost Signatory. Please consult the Handbook for [proper signing authority](https://handbook.mattermost.com/operations/operations/company-processes/company-agreements).

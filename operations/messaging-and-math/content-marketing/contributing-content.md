@@ -2,7 +2,7 @@
 
 Been to a conference recently? Worked on something cool? Got something else Mattermost-related you want to post about? Writing a blog post is a great way to share your experience with the community.
 
-## Submitting a Blog Post Quickstart Guide
+## Submitting a blog post quickstart guide
 
 * Write your blog post
 * Submit your draft and any image/video files to the Content team in the [Mattermost: Content channel](https://community-release.mattermost.com/core/channels/mattermost-blog)
@@ -52,16 +52,16 @@ Some types of post that may require approval:
 
 If you aren’t sure if your post requires approval, let us know!
 
-## Submitting Content
+## Submitting content
 
 When you have a post ready for review, please submit a draft and any image/video files to the Content team on the [~Mattermost: Content channel](https://community-release.mattermost.com/core/channels/mattermost-blog) on the Contributor server. You can upload files to this [Content Submission folder](https://drive.google.com/drive/folders/1GKxp0wnYUxFs_9fVRSJVI7kcdVejqIt3?usp=sharing), or link them directly in the channel.
 
-### Accepted Formats
+### Accepted formats
 
 * Google Docs \(preferred\)
 * Markdown file 
 
-## Review Process
+## Review process
 
 After you’ve submitted your post to the Content team, we’ll review it and get back to you within 3 business days with any feedback or suggestions. Articles may require up to 2 rounds of revisions.
 
@@ -82,4 +82,3 @@ You \(and any other required approvers\) will have a chance to review the final 
 After your post is approved, the Content Team will take care of getting it ready for publication in WordPress and let you know when it is scheduled to be published.
 
 If this is your first time submitting an article to the Mattermost blog, don’t forget to **submit a short bio and a headshot** so we can include it in the post!
-
