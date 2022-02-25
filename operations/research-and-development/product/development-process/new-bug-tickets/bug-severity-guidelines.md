@@ -9,7 +9,7 @@
 
 ## Assigning severity levels
 
-Severity levels on bug tickets are normally assigned by Release Manager and Triage team using the "Severity" Jira field, but can also be applied by devs and QA at any time.
+Severity levels on bug tickets are normally assigned by Release Manager, devs, or QA by using the **Severity** field.
 
 Bug tickets are sometimes assessed on a case-by-case basis and further considerations may be applied, such as whether the bug is a recent regression or not, how risky the bug fix is, or whether it’s more effective to revert code that initially caused the bug.
 

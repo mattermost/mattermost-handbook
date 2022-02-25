@@ -8,6 +8,8 @@ In cases where there are requested features completed prior to the next upcoming
 
 A dot release will be prepared sooner if Electron releases a security update, or if other urgent bugs are found.
 
+Please refer to [the Desktop App Release Playbook](https://community.mattermost.com/playbooks/playbooks/h3a39biacpnuim7ufmwiuuoxfo/preview) for a most up-to-date checklist.
+
 ## Release timeline
 
 Notes:
