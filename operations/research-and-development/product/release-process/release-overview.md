@@ -222,13 +222,9 @@ When triaging a bug report, consider the following:
 
 * A: See the [cherry pick process documentation](https://developers.mattermost.com/contribute/getting-started/branching/#cherry-pick-process-developer/) for details.
 
-**Q: What is community.mattermost kept on?**
+**Q: What version are community.mattermost.com and community-daily.mattermost kept on?**
 
-* A: community.mattermost is kept on the most recent Mattermost Cloud release. E.g. if the **About Mattermost** modal mentions ``Thu Feb 3 08:03:53 UTC 2022``, this corresponds to the latest Cloud release tag for Feb 3 Cloud release [``cloud-2022-02-03-1``](https://github.com/mattermost/mattermost-server/tree/cloud-2022-02-03-1).
-
-**Q: What is community-daily.mattermost kept on?**
-
-* A: Normally on `master` branch and it updates daily.
+* A: Normally on `master` branch and they update daily.
 
 **Q: How to remove a feature/bug from a release?**
 
