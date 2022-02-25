@@ -1,9 +1,5 @@
 # Voice, Tone, and Writing Style Guidelines
 
-Below is a start of voice, tone, and writing style guidelines for public web properties. This is a work in progress, to be iterated on. Some of the content in this document is borrowed from the [Mattermost Editorial Style Guide](https://docs.google.com/document/d/1XWjtWdF77qKdxDso_-aC_S1c3E0ohOoxCRL_PIf3pco/edit#), which is managed by the Marketing team.
-
-Some of the recommendations across the documents, such as punctuating lists and heading capitalization are not currently aligned but will be iterated on for alignment across all web properties.
-
 ## Voice and tone
 
 Our voice is informed by our foundation as a messaging platform for Enterprise Developers and DevOps, but respects that our client base spans many types of organizations. Writing is one way we can bring Mattermost’s values to life. And above all, our voice demonstrates our deep respect for our clients and users. Ultimately, Mattermost exists because of them, so it’s important we keep their needs at the forefront of our writing style.
@@ -41,16 +37,6 @@ We generally avoid the following statements and phrases as they're overused and 
 The appropriate tone differs across different mediums. We don’t write technical and help documentation with the same tone as website copy or educational content. You can vary your tone to fit the situation, just as you’d talk to an angry person with a different tone than with an excited child. Voice is to tone as climate is to weather.
 
 The Mattermost voice remains the same, even when the tone varies.
-
-## Writing style
-
-* Work on the premise that "Every page is page 1", as a large portion of users access our documentation directly from a Google search
-* Add a summary to the top of each page for readers to be able to quickly assess the content for suitability
-* Break long sections into smaller, easily digestable subpages
-* Have at most one key point or action per paragraph
-* Refer to one thing or idea with the same word throughout the page
-* Use ordered lists or bullets where appropriate, as they are generally easier to read than long blocks of text
-* Minimize content so it can be found and remembered. Keep pages short, modular, and focused on a single topic
 
 Visit our [Documentation Style Guide](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/documentation-style-guide) for additional information and examples.
 

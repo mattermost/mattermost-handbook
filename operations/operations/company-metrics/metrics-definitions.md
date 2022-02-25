@@ -1,18 +1,18 @@
 # Metrics Definitions
 
-## Contact Us Requests
+## Contact us requests
 
-#### All Contact Us
+#### All contact us
 
 * Number of contact us requests via [https://mattermost.com/contact-us](https://mattermost.com/contact-us).
 
-#### Enterprise Contact Us Requests
+#### Enterprise contact usrequests
 
 * Number of contact us requests via [https://mattermost.com/contact-us](https://mattermost.com/contact-us) from Named Accounts or Enterprises with 5,000+ employees, in America, EMEA, Australia, or Japan.
 
 ## Contributors
 
-### GitHub Contributors
+### GitHub contributors
 
 * Members of the open source community with contributions to Mattermost GitHub repositories.
   * This does not include internal Mattermost staff

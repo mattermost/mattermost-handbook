@@ -36,6 +36,16 @@ When presenting content in tabs, tab names must be exactly the same across all i
 
 While we don't strictly follow a specific Style Guide, we've based our Style Guide on the Chicago Manual of Style for the most part. We also borrow conventions from the AP Style Guide. In cases where we have a blend of the two, we've provided references and explanations.
 
+We try to keep the following top of mind when creating content:
+
+* Work on the premise that "Every page is page 1", as a large portion of users access our documentation directly from a Google search
+* Add a summary to the top of each page for readers to be able to quickly assess the content for suitability
+* Break long sections into smaller, easily digestable subpages
+* Have at most one key point or action per paragraph
+* Refer to one thing or idea with the same word throughout the page
+* Use ordered lists or bullets where appropriate, as they are generally easier to read than long blocks of text
+* Minimize content so it can be found and remembered. Keep pages short, modular, and focused on a single topic
+
 Mattermost documentation is read and used in many countries/regions and cultures. For this reason, you must consider cultural differences on a global scale. Names, places, events, and actions should be chosen as carefully as possible to avoid misunderstanding.
 
 Also remember that English isn't the primary language of many readers of the documentation. Keep the following advice in mind when writing:
