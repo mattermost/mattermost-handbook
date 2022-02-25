@@ -18,7 +18,7 @@ This agreement is typically used for vendors who do not require Mattermost to si
 ## Process
 
 1. Confirm you have [budget approval](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-1-send-for-budget-approval) to engage with a vendor.
-2. Create a draft of the [Mattermost U.S. Consulting Agreement Template](https://app.hellosign.com/s/GnvOJVYW). Reference the [field description guide](https://docs.google.com/document/d/1FKef8xf9N_NTEc0owbAGH4mb0UzU8CJQ5qckGvIl1UM/edit) for help.
+2. Log into to Spotdraft and complete the [Mattermost Consulting Agreement Templated](https://app.spotdraft.com/editor-v2/templates/449/new?activeTab=0). For step-by-step instructions, refer to the [Loom Video: Mattermost Consulting Agreement SpotDraft WorkFlow](https://www.loom.com/share/9fd59ff6238a41d09af70d7e89e26bbc). Be sure to reference the [field description guide](https://docs.google.com/document/d/1FKef8xf9N_NTEc0owbAGH4mb0UzU8CJQ5qckGvIl1UM/edit) for help on completing the Exhbit B - compensation.
 3. [Submit a purchase order on Accrualify](https://handbook.mattermost.com/operations/finance/purchasing/how-to-use-accrualify/how-to-submit-a-po) and attach the draft to the purchase order request.
 4. The purchase order will go through the proper review and approvals within Accrualify.
 5. The [Procurement Team](Procurement@mattermost.com) will reach out to you for additional information, if needed, and will copy you in all review and DocuSign communications.
