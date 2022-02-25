@@ -2,6 +2,8 @@
 
 If a bug fix release is required, run through the below steps.
 
+Please refer to [the Dot Release Playbook](https://community.mattermost.com/playbooks/playbooks/hjn1xnc3gfnmzeqwssyu6dsa3w/preview) for a most up-to-date checklist.
+
 ## Release Timeline
 
 Notes:

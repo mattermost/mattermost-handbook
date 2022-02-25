@@ -1,6 +1,6 @@
 # Product Design Levels
 
-These levels serve to help Product Designers assess their opportunities for career growth in the Product Management function. The levels below follow a growth track in the art and craft of Product Management and not in a person management track.
+These levels serve to help Product Designers assess their opportunities for career growth in the Product Design function. The levels below follow a growth track in the art and craft of Product Design and not in a person management track.
 
 ### Level 1: Product Designer I
 
