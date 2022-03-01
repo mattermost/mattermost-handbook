@@ -268,7 +268,7 @@
     * [Hacktoberfest Event Organizer Guide for Mattermost](contributors/contributors/guidelines/hacktoberfest-mattermost-organizer-guide.md)
 * [MatterCon](contributors/mattercon/README.md)
   * [Staff Information Privacy Management](contributors/mattercon/people-policies.md)
-  * [Mattermost Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
+  * [Mattermost Events Code of Conduct](contributors/mattercon/mattermost-code-of-conduct.md)
   * [MatterCon2021](contributors/mattercon/mattercon2021.md)
 * [Join Us](contributors/join-us/README.md)
   * [Ice-breakers](contributors/join-us/ice-breakers.md)
