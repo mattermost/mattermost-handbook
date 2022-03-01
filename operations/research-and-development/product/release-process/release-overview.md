@@ -76,21 +76,28 @@ The goal is not to have the same release cadence for all products, but there may
 
 Currently Mattermost Cloud releases occur on a biweekly cycle, but the goal is to release more frequently. Cloud and self-managed PRs may need to be cherry-picked to the release branches, such as regression bug fixes and hotfixes that get merged after the release branch has already been cut.
 
-Schedule for Mattermost Cloud releases:
+We follow [the Agile Release Train method](https://www.scaledagileframework.com/agile-release-train/) at least for Cloud releases. If releases are not approved by a certain date, then we miss the release train.
 
-* \(T-6\): 7 working days prior to the release day, the `master` branch is merged to the Cloud branch and Cloud test servers are updated.
-* \(T-5-2\): Release testing and bug fixing.
-* \(T-0\): Release Day.
+For P0 bugs (eg. bugs that affect more than 25% of our customers with system degradation), we will do an exception and rollout a hotfix as soon as possible.
 
-Schedule for self-managed releases:
+**Schedule for Cloud releases**:
+ - Thursdays: Merge master into the cloud branch and update cloud test servers.
+ - Friday-Tuesday: Release testing and bug fixing.
+    - QA approval should be given by the EOD Tuesday, so that the release rollout can be started early Wednesday morning. 
+    - If QA approval is not ready by EOD Tuesday due to a testing delay or due to a last minute high priority bug fix, then we miss the release train.
+    - If the release train was missed, we need to do a retrospective on why it happened - e.g. are adjustments needed to the QA release testing process, or was there a reason why the last minute bug fix happened.
+ - Wednesdays: Release day.
 
-* \(T-30\): Feature Complete (this is a rough date)
-* \(T-12\): Judgment Day/Release branch cut
-* \(T-11\): RC1 Cut
-* \(T-10\): RC testing and final QA testing
-* \(T-5\): Code Freeze
-* \(T-2\): Cut Final
-* \(T-0\): Release Day
+**Schedule for Self-managed releases**:
+ - Feature Complete deadline is approximately 1 month prior to the release day.
+    - When we merge master into the cloud branch for the last Cloud release of the month, this is the cut-off for new features included in the next self-managed release.
+    - If a feature misses the cut-off, it doesn’t get added to the next self-managed release.
+ - Cut release branch based off the last Cloud release of the month (around T-14).
+ - Code Freeze at T-5.
+    - Prepackaged Boards and Playbooks should be ready on or before this date. Note: currently the Boards team follows a slightly different release schedule and the Boards release may not be ready until T-3.
+ - Cut Final build at T-2.
+    - QA approval should be ready by T-2.
+ - Release Day at T-0.
 
 1. The feature is tested on a PR and E2E test automation is added.
 2. Large features are added behind a feature flag.
@@ -187,11 +194,11 @@ When triaging a bug report, consider the following:
 
 * A: Desktop releases are currently released as required.
 
-**Q When do I need to have a feature PR to be included into the next release?**
+**Q: When do I need to have a feature PR to be included into the next release?**
 
 * A: Aim to have the PR merged before the Feature Complete deadline. The earlier in the monthly cycle the PR is merged, the higher the chances are for it to be included in that month's release. The quality of our releases is important and feature PRs are not normally cherry-picked to a release branch.
 
-**How can I determine if my merge request will make it into the next release?**
+**Q: How can I determine if my merge request will make it into the next release?**
 
 * A: The Release Manager adds PR milestones and Jira fix versions for tracking. You can also check the release branches (e.g. in the server repo) to see what's included.
 
@@ -215,13 +222,9 @@ When triaging a bug report, consider the following:
 
 * A: See the [cherry pick process documentation](https://developers.mattermost.com/contribute/getting-started/branching/#cherry-pick-process-developer/) for details.
 
-**Q: What is community.mattermost kept on?**
+**Q: What version are community.mattermost.com and community-daily.mattermost kept on?**
 
-* A: community.mattermost is kept on the most recent Mattermost Cloud release. E.g. if the **About Mattermost** modal mentions ``Thu Feb 3 08:03:53 UTC 2022``, this corresponds to the latest Cloud release tag for Feb 3 Cloud release [``cloud-2022-02-03-1``](https://github.com/mattermost/mattermost-server/tree/cloud-2022-02-03-1).
-
-**Q: What is community-daily.mattermost kept on?**
-
-* A: Normally on `master` branch and it updates daily.
+* A: Normally on `master` branch and they update daily.
 
 **Q: How to remove a feature/bug from a release?**
 
