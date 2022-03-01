@@ -104,7 +104,7 @@
       * [Product Management Areas of Ownership](operations/research-and-development/product/product-management-team-handbook/product-ownership-areas.md)
       * [Product Manager Onboarding](operations/research-and-development/product/product-management-team-handbook/pm-onboarding.md)
       * [Product Manager Levels](operations/research-and-development/product/product-management-team-handbook/pm-levels.md)
-    * [Product Design Team Handbook](operations/research-and-development/product/product-design-team-handbook.md)
+    * [Product Design Team Handbook](operations/research-and-development/product/product-design-team-handbook/README.md)
       * [Product Design Levels](operations/research-and-development/product/product-design-team-handbook/product-design-levels.md)
     * [Technical Writing Team Handbook](operations/research-and-development/product/technical-writing-team-handbook/README.md)
       * [Work with Us](operations/research-and-development/product/technical-writing-team-handbook/work-with-us.md)
