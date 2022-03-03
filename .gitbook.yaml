@@ -18,10 +18,13 @@ redirects:
    company/how-to-guides-for-staff/how-to-purchase: /operations/finance/how-to-spend-company-money/README.md
    company/about-mattermost/mindsets#likes-and-wishes: /company/about-mattermost/mindsets.md
    contributors/onboarding/staff-on-boarding-guide#leadership-principles: ./company/about-mattermost/README.md#leadership-principles
-   contributors/onboarding/staff-on-boarding-guide: /operations/workplace/people/working-at-mattermost/onboarding.md
-   contributors/mattercon: /contributors/join-us/recruiting#working-and-meeting-across-the-globe.md
+   contributors/onboarding/staff-on-boarding-guide: /operations/workplace/people/working-at-mattermost/README.md
+   contributors/mattercon: /contributors/join-us/recruiting.md#working-and-meeting-across-the-globe
    operations/messaging-and-math/developer-relations: /operations/research-and-development/product/developer-relations.md
-   contributors/join-us/mattercon/mattermost-code-of-conduct: ./contributors/mattercon/mattermost-code-of-conduct.md
+   contributors/join-us/mattercon/mattermost-code-of-conduct: /contributors/mattercon/mattermost-code-of-conduct.md
    operations/it: /operations/workplace/it/README.md
-   operations/it/helpdesk: operations/workplace/it/helpdesk.md
-   operations/it/hardware-buy-back-policy: operations/workplace/it/hardware-buy-back-policy.md
+   operations/it/helpdesk: /operations/workplace/it/helpdesk.md
+   operations/it/hardware-buy-back-policy: /operations/workplace/it/hardware-buy-back-policy.md
+   operations/research-and-development/product/release-process/incident-collaboration-release.md: /operations/research-and-development/product/release-process/playbooks-release.md
+
+

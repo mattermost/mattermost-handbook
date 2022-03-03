@@ -6,8 +6,6 @@ description: Description of norms on Mattermost Community server
 
 ## What is the Mattermost community server?
 
-What is the Mattermost Community Server?
-
 The Mattermost community server runs the latest stable build of Mattermost's software, including all open source code for Mattermost Team Edition as well as commercial code for Mattermost Enterprise Edition.
 
 It has two objectives:
@@ -150,3 +148,10 @@ The following conventions are in place for channels with common purposes:
   </tbody>
 </table>
 
+## Email distribution lists 
+
+Workplace messaging solutions like Mattermost are excellent for real-time and topic-based communications.
+
+When it comes to long-form cascaded communications (announced information to be forwarded to groups with context from different leaders), then email and email distribution lists are best, and we do use them at Mattermost.
+
+We have a [Mattermost Board summarizing email distributions lists at Mattermost](https://community.mattermost.com/boards/workspace/4xg6hw6a37bk883ijc3n4n7ofr/b8zc7hz4o37n6jyhgcayx5wcjcc/vpyxigmqm4pbmub4jxm7pdkumgr) (you need to be a staff member subscribed to our Announcements channel for access).

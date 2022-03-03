@@ -25,10 +25,10 @@ The following staff are approved to send contracts to be e-signed:
 
 * Lynn Conway - Primary for staff agreements
 * Amy Nicol - Primary for vendor contracts, consulting agreements, and corporate agreements
-* Jeff Pravlik - Primary for sales agreements and customer supplier forms
+* Nikki Johnson - Primary for sales agreements and customer supplier forms
+* Jeff Dynda - Approved vendor contracts from legal and customer supplier forms
 * Natalie Jew
 * Tim Quock
-* Jamie Hurewitz
 
 ## What are e-sign completion expectations?
 
@@ -49,4 +49,3 @@ The following staff are approved to send contracts to be e-signed:
       * Each should have sticker labels indicating what is needed to sign, so nothing is missed.
     * A pen.
     * Appropriate envelopes and/or UPS mailing labels to send the signed package on after it is received.
-

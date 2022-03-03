@@ -24,11 +24,6 @@ On the first Monday of each month, or the next business day, the Playbooks team'
 
 ## Basic release tasks
 
-* Assign milestones to Jira tickets and PRs to help prioritize bug fixes
-* Auto-generated release notes with changes, upgrade notes, minimum server version requirement, contributors, and known issues
-* Update `NOTICE.txt`
-* Update dependencies
-* Testing and automated tests on PRs and on RCs
 * Marketing - Release announcements, tweets
 * Feature documentation
 * Release
