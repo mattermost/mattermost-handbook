@@ -83,6 +83,7 @@
         * [Severity Levels for Bug Tickets](operations/research-and-development/product/development-process/new-bug-tickets/bug-severity-guidelines.md)
         * [Jira Fix Versions](operations/research-and-development/product/development-process/new-bug-tickets/jira-fix-versions.md)
       * [User Interface Text Guidelines](operations/research-and-development/product/development-process/user-interface-text-guidelines.md)
+      * [Secure Software Development guide](operations/research-and-development/product/development-process/secure-software-development.md)
     * [Release Process](operations/research-and-development/product/release-process/README.md)
       * [Release Overview](operations/research-and-development/product/release-process/release-overview.md)
       * [Feature Release Process](operations/research-and-development/product/release-process/feature-release.md)
