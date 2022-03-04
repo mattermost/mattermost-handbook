@@ -25,7 +25,7 @@ The Handbook is a public-facing body of work and although it's a constantly-evol
 
 ## Getting started
 
-If this is your first time contributing to Mattermost, first read the [Mattermost Contributor Agreement](https://www.mattermost.com/mattermost-contributor-agreement/) and sign it \(at the bottom of the page\), so you can be added to the Mattermost [Approved Contributor List](https://docs.google.com/spreadsheets/d/1NTCeG-iL_VS9bFqtmHSfwETo5f-8MQ7oMDE5IUYJi_Y/pubhtml?gid=0&single=true). Please ensure the **GitHub username** field matches your GitHub username exactly, including capitalization.
+If this is your first time contributing to Mattermost, first read the [Mattermost Contributor Agreement](https://mattermost.com/mattermost-contributor-agreement/) and sign it \(at the bottom of the page\), so you can be added to the Mattermost [Approved Contributor List](https://docs.google.com/spreadsheets/d/1NTCeG-iL_VS9bFqtmHSfwETo5f-8MQ7oMDE5IUYJi_Y/pubhtml?gid=0&single=true). Please ensure the **GitHub username** field matches your GitHub username exactly, including capitalization.
 
 Then, please request access to the Mattermost organization [DevOps Team Channel](https://community.mattermost.com/private-core/channels/devops-team). This means that you can edit the files in the Handbook repo and not have to create a fork for your changes.
 
@@ -48,7 +48,7 @@ This is probably the quickest way to make changes, as it doesn't require you to 
 1. Open the Handbook and navigate to the page you want to edit.
 2. Select **Edit on GitHub** in the top right navigation. This opens the page in GitHub.
 4. In GitHub select the pencil icon in the navigation bar \(above the page header\) called **Edit this file** to open the editable Markdown-format page. If you see **Edit this file in your fork of this project** the process is the same, it just means you're not part of the Mattermost organization and are working in a forked repo.
-   * To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
+   * To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
 5. Make your edits. When you're ready to submit your changes, scroll to the bottom of the page to commit your changes and start a pull request.
 6. Add a descriptive title if the default title isn't sufficient. Add an extended description to summarize the changes you've made.
 7. The default setting is **Create a new branch for this commit and start a pull request**. In the field below that, you can customize the branch name - you can also leave it as default.
@@ -69,7 +69,7 @@ This option works best if you know where the file is located in the repo.
 1. Open the [Handbook repo](https://github.com/mattermost/mattermost-handbook).
 2. Navigate through the directories to the file you want to edit.
 3. Once you've found the file, select **Edit this file** in the top corner. If you see **Edit this file in your fork of this project** the process is the same, it just means you're not part of the Mattermost organization and are working in a forked repo.
-   * To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
+   * To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
 5. Make your edits. When you're ready to submit your changes, scroll to the bottom of the page to commit your changes and start a pull request.
 6. Add a descriptive title if the default title isn't sufficient. Add an extended description to summarize the changes you've made.
 7. The default setting is **Create a new branch for this commit and start a pull request**. In the field below that, you can customize the branch name - you can also leave it as default.
@@ -125,7 +125,7 @@ If you want to create nested content, you can create folders. You cannot create 
 
 ### How do I format a page?
 
-All Handbook pages are written in Markdown, which is also the language used to post messages in Mattermost. To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/help/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
+All Handbook pages are written in Markdown, which is also the language used to post messages in Mattermost. To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
 
 ### How do I update the left-hand navigation?
 
@@ -141,7 +141,7 @@ There is a redirect file that we use to prevent this in the `gitbook.yaml` file.
 
 Follow these two steps:
 
-* Go to the [/assets](https://github.com/mattermost/mattermost-handbook/tree/0.2.1/.gitbook/assets) folder, click **Upload files**, then upload the image files you want to add to your documentation. Make sure to have a clear name for each file you upload.
+* Go to the [/assets](https://github.com/mattermost/mattermost-handbook/tree/0.2.1/.gitbook/assets) folder, select **Upload files**, then upload the image files you want to add to your documentation. Make sure to have a clear name for each file you upload.
 * Next, go to the section you want to add an image to and include the following Markdown formatting:
 
   ```text

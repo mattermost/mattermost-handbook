@@ -4,7 +4,7 @@
 
 Notes:
 - All cut-off dates are based on 10am ([San Francisco Time](https://everytimezone.com/)) on the day stated.
-- T-minus counts are measured in "working days" (weekdays, Monday through Friday, excluding [the listed statutory holidays](https://docs.mattermost.com/process/working-at-mattermost.html#holidays)) prior to release day.
+- T-minus counts are measured in "working days" (weekdays, Monday through Friday, excluding [the listed statutory holidays](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#holidays)) prior to release day.
 
 ### A. (Code complete date of previous release) Beginning of Release
 
@@ -51,7 +51,7 @@ Pre-work for the current release begins at the code complete date of the previou
       - If release day falls on a Friday, the blog post goes out on the Friday and the emailed newsletter goes out the following Tuesday
     - Post a reminder to devs in the Release Discussion channel of the the code complete date with a list of open bugs and PRs [see example](https://community.mattermost.com/core/pl/coggyys9atg7fqyam81q3gkmoo)
     - Ask PMs and dev leads if there are any notable breaking changes or deprecated features in the release
-      - Update [Upgrade Guide](https://docs.mattermost.com/administration/important-upgrade-notes.html) with any special notes for upgrading to the new version
+      - Update [Upgrade Guide](https://docs.mattermost.com/upgrade/important-upgrade-notes.html) with any special notes for upgrading to the new version
     - Ask PMs and Tech Writer to complete release documentation by T-9 deadline. [Example request](https://community.mattermost.com/core/pl/w4oobh4zpigsfbqskx5ix5jgxo)
     - Prepare bullet points for release announcement and share for PMs to work on. [Refer to the process here](https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-create-release-announcements)
 3. PM:
@@ -86,7 +86,7 @@ Review the [Release Features & Bug Guidelines](https://docs.google.com/document/
 2. Logistics @hanna.park:
     - Mail out contributor and security researcher mugs
       - Space out the ordering of mugs over the next three weeks to prevent mistakes being made by the supplier (e.g., If there are 12 contributors to order mugs for, place an order every 2nd or 3rd day over the next three weeks)
-    - Update [Team](https://www.mattermost.org/team/) page with new contributors
+    - Update [Team](https://developers.mattermost.com/contribute/team_contributions/) page with new contributors
 3. QA:
     - Confirm up to date with testing PRs and resolved tickets
     - Confirm up to date with test updates and known issues in release test management and automated tests
@@ -149,11 +149,11 @@ Review the [Release Features & Bug Guidelines](https://docs.google.com/document/
 4. QA:
     - Midday: Post reminders about testing, at-mentioning team members whose tests are not yet complete
     - Find QA or other teammates to help finish unfinished tests if needed
-    - End of day or next morning: Verify all release tests are finished, bring any concerns to Triage / Release meeting
+    - End of day or next morning: Verify all release tests are finished, bring any concerns to Triage/Release meeting
     - Go through all tabs of testing spreadsheet and verify all comments and questions have been filed in Jira as needed
     
 ### I. (T-minus 5 working days) Code Freeze
-Day after which only **S1 regressions** should be fixed (crashes, security vulnerabilities) and no other code changes should be committed. Exceptions can be made by the Release Manager during triage on a case-by-case basis. Review the [Bug Severity Guidelines](https://docs.mattermost.com/process/bug-severity-guidelines.html).
+Day after which only **S1 regressions** should be fixed (crashes, security vulnerabilities) and no other code changes should be committed. Exceptions can be made by the Release Manager during triage on a case-by-case basis. Review the [Bug Severity Guidelines](https://handbook.mattermost.com/operations/research-and-development/product/development-process/new-bug-tickets/bug-severity-guidelines).
 
 1. **(Team) Daily Release Update Meeting**
     - Continue to triage Jira tickets
@@ -172,7 +172,7 @@ Day after which only **S1 regressions** should be fixed (crashes, security vulne
     - Submit any remaining documentation PRs for product updates in the release
     - Check that a redirect page has been set up in mattermost.com for any links added to the System Console
     - Submit documentation for [API changes](https://github.com/mattermost/mattermost-server/commits/master/model/client.go) and [WebSocket event changes](https://github.com/mattermost/mattermost-server/blob/master/model/websocket_message.go#L13) to  API documentation
-    - Confirm changes to `config.json` in compatibility section of Changelog are written back to [settings documentation](https://docs.mattermost.com/administration/config-settings.html#configuration-settings)
+    - Confirm changes to `config.json` in compatibility section of Changelog are written back to [settings documentation](https://docs.mattermost.com/configure/configuration-settings.html)
     - Confirm all new diagnostics are documented in the telemetry docs (https://docs.mattermost.com/administration/telemetry.html)
 
 ### J. (T-minus 2 working days) Release Build Cut
@@ -187,17 +187,17 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
     - Add the download links and SHA-256 hash [upgrade guide](http://docs.mattermost.com/administration/upgrade.html#version-archive)
     - Merge Changelog PR after review is complete
       - If there is a security fix, confirm the Changelog recommends upgrade, with a note mentioning the security level and thanking the security researcher (security process doc for example)
-    - Update the [Mattermost server download page](https://www.mattermost.org/download/) with the links to the EE and TE bits
+    - Update the [Mattermost server download page](https://mattermost.com/download/) with the links to the EE and TE bits
       - Test the download links before and after updating the page
     - Check security tickets and confirm disclosure text
     - Update the [security mugs spreadsheet](https://docs.google.com/spreadsheets/d/18MVoUJ1pfvqhqEX7tfQ9pia8yVuac8UsnfKmnU_dTqk/edit#gid=0)
-    - Check the security researcher was added to the [Responsible Disclosure Policy](https://www.mattermost.org/responsible-disclosure-policy/) page
+    - Check the security researcher was added to the [Responsible Disclosure Policy](https://mattermost.com/security-vulnerability-report/) page
     - Confirm link to security updates appears in blog post if there are security updates in this release, with a note thanking the security researcher
-    - Update [deprecated feature list](https://about.mattermost.com/deprecated-features/) in mattermost.com with new and scheduled deprecations
-    - Draft [Mattermost Security Updates](http://about.mattermost.com/security-updates/), but do not post until 30 days after official release. 
+    - Update [deprecated feature list](https://docs.mattermost.com/install/deprecated-features/) with new and scheduled deprecations
+    - Draft [Mattermost Security Updates](https://mattermost.com/security-updates/), but do not post until 30 days after official release.
       - Add a placeholder text saying "Details on the security update will be posted here on X date, as per our Responsible Disclosure Policy"
 2. QA:
-    - Verify all PRs and tickets for the release have been tested / closed
+    - Verify all PRs and tickets for the release have been tested/closed
     - Verify smoke tests on webapp/server, desktop app, and RN apps all passed
     - Post QA approval in Release Discussion channel
 3. Build:
@@ -207,11 +207,11 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
     - Post in Release Discussion with links to the Enterprise Edition and Team Edition sections
 4. Dev:
     - Verify the hashes (SHA-1, SHA-256, and md5) and GPG signatures are correct for both Enterprise Edition and Team Edition.
-    - Test upgrade from previous version to current version, following the [Upgrade Guide](https://docs.mattermost.com/administration/upgrade.html#upgrade-guide) with database upgrades on both MySQL and Postgres
-    - Test upgrade from Team Edition to Enterprise edition based on the [Upgrade Guide](https://docs.mattermost.com/administration/upgrade.html#upgrade-team-edition-to-enterprise-edition)
-    - Test fresh install of current version, following the [Install Guide](https://docs.mattermost.com/guides/administrator.html#installing-mattermost)
+    - Test upgrade from previous version to current version, following the [Upgrade Guide](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html) with database upgrades on both MySQL and Postgres
+    - Test upgrade from Team Edition to Enterprise edition based on the [Upgrade Guide](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html)
+    - Test fresh install of current version, following the [Install Guide](https://docs.mattermost.com/guides/deployment.html)
     - Review any changes made to install guides, and test if necessary
-    - Ensure [Security Policies](https://docs.mattermost.com/process/security.html) page has been updated
+    - Ensure [Security Policies](https://handbook.mattermost.com/operations/operations/company-policies/security-policies) page has been updated
     - Update dependancies after release branch is cut in `mattermost-server`, `mattermost-webapp`, `desktop`, `mattermost-mobile`, and `mattermost-redux`
 5. Logistics @hanna.park:
     - Order the release MVP winner's coaster
@@ -224,7 +224,7 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
     - Receive sign off on final version of MailChimp email blast and Twitter announcement and schedule for 08:00 PST on the date of marketing announcement
       - **Note:** If the release contains a security update, also draft a Mailchimp email blast for the [Security Bulletin mailing list](https://eepurl.com/cAl5Rv)
     - Finalize blog post for mattermost.com, test on mobile view, and set timer for 08:00 PST on the day of release
-    - Add links to [Admin guide](https://docs.mattermost.com/guides/administrator.html) in the release blog post where needed
+    - Add links to [Deployment guide](https://docs.mattermost.com/guides/deployment.html) in the release blog post where needed
 
 ### K. (T-minus 0 working days) Release Day
 
@@ -235,9 +235,9 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
     - Schedule a release retrospective meeting, to be held within five days of the release
     - Update Integrations Directory on the [Mattermost Apps and Integrations](https://integrations.mattermost.com/) page
     - Prepare and post [release metrics](https://docs.google.com/spreadsheets/d/1Aoj4OTaWoyrKIcQNiHH1MVoRG51T20Y_0w2tg5oVw-M/edit#gid=825551144)
-    - Update [company roadmap](https://about.mattermost.com/direction/)
+    - Update [company roadmap](https://mattermost.com/roadmap/)
     - Post an MVP winner announcement in the [Contributors channel](https://community.mattermost.com/core/channels/tickets)
-      - Update [MVP page](https://www.mattermost.org/mvp/) with the most valued professional of the release
+      - Update [MVP page](https://developers.mattermost.com/contribute/mvp/) with the most valued professional of the release
     - Add new release fix versions in Jira for the next few releases
     - Post key dates for the next release in the Release Discussion channel and remove links to RC candidates and testing spreadsheet from the header
         - Make sure that statutory holidays for Canada and US are accounted for in the release dates
@@ -285,5 +285,5 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
 ### L. (T-plus 30 days) Update Mattermost Security Page
 
 1. Release Manager:
-    - Post [Mattermost Security Updates](https://about.mattermost.com/security-updates/) after reviewing with security lead
+    - Post [Mattermost Security Updates](https://mattermost.com/security-updates/) after reviewing with security lead
       - If a dot release is shipping with security fixes, do not post new details until T-plus 10 working days from the dot release ship date

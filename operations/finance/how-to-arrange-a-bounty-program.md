@@ -27,12 +27,12 @@ Please note that this list is evolving. Make sure to check the current list prio
 Once the bounty lead and bounty contributor have agreed to the terms, please have the contributor complete the following:
 
 * Sign the [Bounty Agreement](https://docs.google.com/forms/d/e/1FAIpQLSf6LkK3uWV6-4rE5bM0lqGKynrfBpbRAg6aOOzpyKP_Ec2dJg/viewform?usp=sf_link)
-* [Contributor Agreement \(CLA\)](https://mattermost.org/mattermost-contributor-agreement/)
+* [Contributor Agreement \(CLA\)](https://mattermost.com/mattermost-contributor-agreement/)
 * [Vendor Requested Documents](https://handbook.mattermost.com/operations/finance/spending-company-money/procurement/how-to-on-board-as-a-vendor#new-vendor-or-contractor) prior to starting the bounty project
 
 Submit all forms to [ap@mattermost.com](mailto:ap@mattermost.com).
 
 ## Completed bounty project
 
-A bounty project is deemed completed when the bounty lead has submitted the approval in the [Bounty MM Channel](https://community-release.mattermost.com/private-core/channels/developer-bounty-program) with their approval of the submission. At which point the community member may submit the invoice to [ap@mattermost.com](mailto:ap@mattermost.com).
+A bounty project is deemed completed when the bounty lead has submitted the approval in the [Bounty MM Channel](https://community.mattermost.com/private-core/channels/developer-bounty-program) with their approval of the submission. At which point the community member may submit the invoice to [ap@mattermost.com](mailto:ap@mattermost.com).
 

@@ -45,9 +45,9 @@ Once bug fix release is ready to cut:
    * Verify hashes and GPG signatures are correct, once build is cut
    * Delete RCs after final version is shipped
 2. Release Manager:
-   * Merge the Changelog PR with notes on patch releases \(see [example entry](https://docs.mattermost.com/administration/changelog.html#release-v3-5.1)\)
-   * Update the [version archive](https://docs.mattermost.com/administration/version-archive.html)
-   * Update the [Extended Support Release documentation](https://docs.mattermost.com/administration/extended-support-release.html) if needed
+   * Merge the Changelog PR with notes on patch releases \(see [example entry](https://docs.mattermost.com/install/self-managed-changelog.html#release-v5-39-quality-release)\)
+   * Update the [version archive](https://docs.mattermost.com/upgrade/version-archive.html)
+   * Update the [Extended Support Release documentation](https://docs.mattermost.com/upgrade/extended-support-release.html) if needed
    * If there are any breaking compatibility changes in a supported GitLab Omnibus release \(current + two previous versions\) open an issue in the [GitLab Omnibus](https://gitlab.com/gitlab-org/omnibus-gitlab) repo to make sure GitLab is aware
    * Update [Mattermost server download page](https://mattermost.com/download) with the links to the EE and TE bits
      * Test the download links before and after updating the page
@@ -56,5 +56,4 @@ Once bug fix release is ready to cut:
      * For Chef Cookbook, open a new issue to announce the new release. See [example](https://github.com/ist-dsi/mattermost-cookbook/issues/48).
      * For Yunohost, open a new pull request to update the version. See [example](https://github.com/YunoHost-Apps/mattermost_ynh/pull/143).
 3. Marketing:
-   * Prepare [blog post](https://about.mattermost.com/releases/mattermost-4-10/) for mattermost.com and [Twitter announcement](https://twitter.com/mattermosthq/status/827193482578112512), and send for product marketing leads to review
-
+   * Prepare [blog post](https://mattermost.com/blog/mattermost-4-10-faster-load-times/) for mattermost.com and [Twitter announcement](https://twitter.com/mattermosthq/status/827193482578112512), and send for product marketing leads to review

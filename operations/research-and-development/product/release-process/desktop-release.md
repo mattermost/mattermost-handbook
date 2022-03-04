@@ -1,6 +1,6 @@
 # Release Process
 
-This document outlines the release process for the Mattermost Desktop App. It is drawn from the development process used by the [Mattermost core team](https://docs.mattermost.com/process/feature-release.html).
+This document outlines the release process for the Mattermost Desktop App. It is drawn from the development process used by the [Mattermost core team](https://handbook.mattermost.com/operations/research-and-development/product/release-process/feature-release).
 
 Desktop App releases ship at the same time as the next server Feature release after the latest [Electron update](https://github.com/electron/electron/releases), which means approximately every 2-4 months. The Desktop App releases ship on the 16th of the month and follow the server release schedule.
 
@@ -111,10 +111,10 @@ The final release is cut. If an urgent and important issue needs to be addressed
 1. Release Manager:
     - Post this checklist in Desktop App channel
     - Verify all items in the last posted release checklist are complete
-    - Update the links in [Mattermost download page](https://www.mattermost.org/download/), [installation guides](https://docs.mattermost.com/install/desktop.html) and [MSI installer guides](https://docs.mattermost.com/install/desktop-msi-gpo.html)
+    - Update the links in [Mattermost download page](https://mattermost.com/download/), [installation guides](https://docs.mattermost.com/install/desktop-app-install.html) and [MSI installer guides](https://docs.mattermost.com/install/desktop-msi-installer-and-group-policy-install.html)
     - Merge changelog PR after review is complete
        - If there is a security fix, confirm the Changelog recommends upgrade, with a note mentioning the security level and thanking the security researcher
-    - Draft [Mattermost Security Updates](http://about.mattermost.com/security-updates/) if applicable, but do not post until seven days after official release
+    - Draft [Mattermost Security Updates](https://mattermost.com/security-updates/) if applicable, but do not post until seven days after official release
        - Check Security Issues spreadsheet and confirm disclosure text
     - Close GitHub meta ticket for the release
 2. Build:
@@ -146,10 +146,10 @@ If a bug fix release is required, run through the following steps:
     - Delete RCs after final version is shipped
     - Merge changes made to release branch into master
 4. Release Manager:  
-    - Update [Mattermost download page](https://mattermost.org/download)
-    - Update the download links in [installation guides](https://docs.mattermost.com/install/desktop.html)
+    - Update [Mattermost download page](https://mattermost.com/download/)
+    - Update the download links in [installation guides](https://docs.mattermost.com/install/desktop-app-install.html)
     - Update the changelog with notes on patch releases
-    - Draft [Mattermost Security Updates](http://about.mattermost.com/security-updates/) if applicable, but do not post until seven days after official release
+    - Draft [Mattermost Security Updates](https://mattermost.com/security-updates/) if applicable, but do not post until seven days after official release
         - Check Security Issues spreadsheet and confirm disclosure text
 5. Marketing:
     - Schedule Twitter announcement for 08:00 PST on the date of marketing announcement
@@ -174,6 +174,6 @@ If a bug fix release is required, run through the following steps:
 
 1. Release Manager:
     - Post this checklist in Desktop App channel
-    - Post and review [Mattermost Security Updates](https://about.mattermost.com/security-updates/) for the Desktop App
+    - Post and review [Mattermost Security Updates](https://mattermost.com/security-updates/) for the Desktop App
     - Update Security Issues spreadsheet with issue number from posted update (e.g. v3.2.0.1)
-    - Confirm the Security Researchers list on the [Responsible Disclosure Policy](https://www.mattermost.org/responsible-disclosure-policy/) is up to date
+    - Confirm the Security Researchers list on the [Responsible Disclosure Policy](https://mattermost.com/security-vulnerability-report/) is up to date

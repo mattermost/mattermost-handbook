@@ -171,4 +171,3 @@ Each stakeholder can take on one or more roles:
 | D | Decide | Make the decision and commit the organization to action |
 
 **More:** RAPID framework from [Bain Consulting](https://www.bain.com/insights/rapid-tool-to-clarify-decision-accountability/).
-

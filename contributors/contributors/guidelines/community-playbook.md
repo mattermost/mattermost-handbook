@@ -29,7 +29,7 @@ This playbook outlines various processes and practices used in the Mattermost co
 
 ### Announce
 
-1. Prepare a forum post, see [example here](https://forum.mattermost.org/t/community-design-meeting-folded-reply-threads/6729).
+1. Prepare a forum post, see [example here](https://forum.mattermost.com/t/community-design-meeting-folded-reply-threads/6729).
 2. Tweet about it, see [example here](https://twitter.com/mattermost/status/1100235276436365312).
 3. Post in appropriate channels on [https://community.mattermost.com](https://community.mattermost.com).
 4. Post in UserVoice if related to an existing feature proposal, see [example here](https://mattermost.uservoice.com/forums/306457-general/suggestions/19572469-make-threads-collapsible#{toggle_previous_statuses}).
@@ -139,7 +139,7 @@ Below is a list of permanent redirects to Help Wanted issue queries:
 
 ## Mattermost Community Forums
 
-Guidelines for Mattermost [community forums](https://forum.mattermost.org) and public Mattermost [GitHub repositories](https://github.com/mattermost).
+Guidelines for Mattermost [community forums](https://forum.mattermost.com) and public Mattermost [GitHub repositories](https://github.com/mattermost).
 
 ### Principles
 
@@ -197,7 +197,7 @@ Respond to the issue with the following note:
 
 To ask someone to add a license to a GitHub repo, open an issue with the following note, titled `Add an open source license?`:
 
-> Thanks for sharing this project! We'd love to use it as part of the Mattermost open source project \([https://about.mattermost.com/](https://about.mattermost.com/)\) in our [React Native mobile app](https://github.com/mattermost/mattermost-mobile) \(which uses an [Apache 2.0 license](https://github.com/mattermost/mattermost-mobile/blob/master/LICENSE.txt)\). Would you consider adding a license, such as an MIT or an Apache 2.0 license? To do so, in GitHub you can hit "Create new file" and name a file `LICENSE.txt`.
+> Thanks for sharing this project! We'd love to use it as part of the Mattermost open source project \([https://mattermost.com/](https://mattermost.com/)\) in our [React Native mobile app](https://github.com/mattermost/mattermost-mobile) \(which uses an [Apache 2.0 license](https://github.com/mattermost/mattermost-mobile/blob/master/LICENSE.txt)\). Would you consider adding a license, such as an MIT or an Apache 2.0 license? To do so, in GitHub you can hit "Create new file" and name a file `LICENSE.txt`.
 >
 > ![image](https://cloud.githubusercontent.com/assets/177788/19657017/36238482-99d7-11e6-9fd0-f507970891c7.png)
 >
@@ -245,7 +245,7 @@ Guidelines for Mattermost [Twitter responses](https://twitter.com/mattermost).
 
 #### Requests for more information such as a preview of our product.
 
-> Thank you for your interest in Mattermost. You can learn more about us at www.mattermost.com where you can also download a trial of our product.
+> Thank you for your interest in Mattermost. You can learn more about us at https://mattermost.com/ where you can also download a trial of our product.
 
 #### Requests for a specific feature or group of features.
 
@@ -279,11 +279,10 @@ Guidelines for Mattermost [Twitter responses](https://twitter.com/mattermost).
 
 #### Customer requesting help to address an issue they are having with a deployment or specific feature in the system.
 
-> Thank you for reaching out. We recommend opening a support ticket where our team can best help you troubleshoot the issue. For more information about Enterprise Edition support levels, see [https://about.mattermost.com/support/](https://about.mattermost.com/support/).
+> Thank you for reaching out. We recommend opening a support ticket where our team can best help you troubleshoot the issue. For more information about Enterprise Edition support levels, see [https://about.mattermost.com/support/](https://mattermost.com/support/).
 
 ## How do I report inappropriate content in Mattermost community sites?
 
 Content in any [community site managed by Mattermost](https://handbook.mattermost.com/contributors/contributors/community-systems) should follow the guidelines above. Content that is deemed to be controversial, offensive, potentially defamatory or infringing content from material distributed, broadcast, or posted on websites will be edited or removed.
 
 We ask the community's help in reporting any such content to community@mattermost.com.
-

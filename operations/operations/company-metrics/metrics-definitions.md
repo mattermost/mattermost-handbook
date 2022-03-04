@@ -1,18 +1,18 @@
 # Metrics Definitions
 
-## Contact Us Requests
+## Contact us requests
 
-#### All Contact Us
+#### All contact us
 
 * Number of contact us requests via [https://mattermost.com/contact-us](https://mattermost.com/contact-us).
 
-#### Enterprise Contact Us Requests
+#### Enterprise contact usrequests
 
 * Number of contact us requests via [https://mattermost.com/contact-us](https://mattermost.com/contact-us) from Named Accounts or Enterprises with 5,000+ employees, in America, EMEA, Australia, or Japan.
 
 ## Contributors
 
-### GitHub Contributors
+### GitHub contributors
 
 * Members of the open source community with contributions to Mattermost GitHub repositories.
   * This does not include internal Mattermost staff
@@ -197,7 +197,7 @@ As soon as one session ends, there is then an opportunity to start a new session
 ### Google Analytics Accounts
 
 1. mattermost.com
-2. about.mattermost.com \(old mattermost.com\)
+2. https://mattermost.com/ \(old mattermost.com\)
 3. mattermost.org
 4. developers.mattermost.com
 5. integrations.mattermost.com
@@ -222,7 +222,7 @@ As soon as one session ends, there is then an opportunity to start a new session
 
 ### NPS Survey
 
-Mattermost NPS data is collected using an in-product survey on servers where the [User Satisfaction Survey plugin](https://docs.mattermost.com/integrations/net-promoter-score.html) is enabled. Users answer the question "How likely are you to recommend Mattermost?" by selecting a 0-10 score and can provide additional written feedback about their experience. Selecting a score and providing feedback are optional.
+Mattermost NPS data is collected using an in-product survey on servers where the [User Satisfaction Survey plugin](https://docs.mattermost.com/manage/user-satisfaction-surveys.html) is enabled. Users answer the question "How likely are you to recommend Mattermost?" by selecting a 0-10 score and can provide additional written feedback about their experience. Selecting a score and providing feedback are optional.
 
 Net Promoter Score is computed as **\(% Promoters - % Detractors\)** and ranges from -100 \(every user is a Detractor\) to +100 \(every user is a Promoter\).
 
@@ -511,4 +511,3 @@ Monthly active users are categorized into **Engagement Lifecycle Segments**. The
 **Enterprise Trial Requests**
 
 * Number of trial license requests via [https://mattermost.com/trial](https://mattermost.com/trial) from Named Accounts or Enterprises with 5,000+ employees, in America, EMEA, Australia, or Japan.
-

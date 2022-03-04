@@ -4,11 +4,11 @@ description: 50% draft
 
 # How to write guest blog posts for Mattermost Apps and Services
 
-## Guest Blog Posts for Mattermost Apps and Services
+## Guest blog posts for Mattermost apps and services
 
 This document outlines the procedures in developing guest blog posts for Mattermost apps and services. Mattermost, Inc. is excited to bring attention to guest companies and their experiences with using Mattermost.
 
-### Guest Company
+### Guest company
 
 Please provide the following for Mattermost by email:
 
@@ -19,7 +19,7 @@ If you provide screenshots, please help ensure they meet our [screenshot develop
 
 A link to the final draft of the blog post will be sent to you by email prior to publication, so that you can offer feedback and recommendations on it.
 
-### Mattermost Guest Blog Post Coordinator
+### Mattermost guest blog post coordinator
 
 Follow these guidelines to develop a clear and concise guest blog post:
 
