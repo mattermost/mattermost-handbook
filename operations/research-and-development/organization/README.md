@@ -1,6 +1,6 @@
 # R&D Organization
 
-The source of truth for the R&D org structure and team membership is [this spreadsheet](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit#gid=1820415931).
+The source of truth for the R&D org structure and team membership is [this spreadsheet](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit#gid=1820415931). For a overview of all teams and areas of responsibilty please see [this document](https://docs.google.com/document/d/1FKNUNAhMS1Yf7yfsh-mrvMHV-r1heCNdeMUTmVq4RFY/edit) (*note that some data may be out-of-date between this doc and the handbook, the handbook is considered our official listing). 
 
 R&D is split into three different divisions: Product, Cloud, and Security. Under each division, there are teams with specific areas of ownership.
 
