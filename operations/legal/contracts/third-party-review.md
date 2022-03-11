@@ -8,7 +8,7 @@ If you have a contract from a third party that needs review, you can go to the [
 4. Select a **“Contract Type”**
 5. Choose the **“Counterparty”**. If the Counterparty is not in the list, select **“Invite a New Counterparty”** and fill out all of the required fields. Select **“Save”**.
 6. Select **“Request Review”**.
-7. Assign the Review to **“Jamie Hurewitz”**. 
+7. Assign the Review to **“Amy Nicol”**. 
 8. Include any additional information that may be helpful for the review. Select **“Request Review”**.
 
 **Note: Legal will not review any Sales-related contracts that do not meet the [required minimum thresholds](https://handbook.mattermost.com/operations/legal/contracts/requesting-sales-contracts#sales-related-contracts). Legal will also not review any Procurement related contracts until they have first been submitted through the Procurement process and approved by Finance and and Security.** 
