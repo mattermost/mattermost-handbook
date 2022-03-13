@@ -49,3 +49,4 @@ The following staff are approved to send contracts to be e-signed:
       * Each should have sticker labels indicating what is needed to sign, so nothing is missed.
     * A pen.
     * Appropriate envelopes and/or UPS mailing labels to send the signed package on after it is received.
+
