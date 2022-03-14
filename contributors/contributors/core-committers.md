@@ -268,7 +268,6 @@ The core team's QA testers verify the correct functionality of the product from 
 * [**Cass Caplinger**](core-committers.md)
   * @cass.caplinger on [community.mattermost.com](https://community.mattermost.com/core/messages/@cass.caplinger) and [@Phrynobatrachus](https://github.com/Phrynobatrachus) on GitHub
 
-
 ## Build Engineers
 
 * [**Elisabeth Kulzer**](core-committers.md)
