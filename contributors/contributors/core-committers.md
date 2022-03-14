@@ -11,7 +11,7 @@ Below is the list of core committers working on Mattermost:
   * Dev areas: Performance, Load Tests, Go internals
 * [**Alejandro García Montoro**](core-committers.md)
   * @alejandro.garcia on [community.mattermost.com](https://community.mattermost.com/core/messages/@alejandro.garcia) and [@agarciamontoro](https://github.com/agarciamontoro) on GitHub
-  * Dev areas: Toolkit, Plugins, Server
+  * Dev areas: Playbooks, Toolkit, Plugins, Server
 * [**Allan Guwatudde**](core-committers.md)
   * @allan.guwatudde on [community.mattermost.com](https://community.mattermost.com/core/messages/@allan.guwatudde) and [@agmeteor](https://github.com/agmeteor) on GitHub
   * Dev areas: Customer Portal, Growth Engineering
@@ -35,10 +35,10 @@ Below is the list of core committers working on Mattermost:
   * Dev areas: TBD
 * [**Christopher Speller**](core-committers.md)
   * @christopher on [community.mattermost.com](https://community.mattermost.com/core/messages/@christopher) and [@crspeller](https://github.com/crspeller) on GitHub
-  * Dev areas: Performance, Security, Build, LDAP, Load Tests, Webpack, Permissions, Kubernetes
+  * Dev areas: Playbooks, Performance, Security, Build, LDAP, Load Tests, Webpack, Permissions, Kubernetes
 * [**Christopher Poile**](core-committers.md)
   * @christopher.poile on [community.mattermost.com](https://community.mattermost.com/core/messages/@christopher.poile) and [@cpoile](https://github.com/cpoile) on GitHub
-  * Dev areas: Extensions
+  * Dev areas: Calls, Playbooks, Extensions
 * [**Chris Duarte**](core-committers.md)
   * @uberchris on [community.mattermost.com](https://community.mattermost.com/core/messages/@uberchris) and [@csduarte](https://github.com/csduarte) on GitHub
 * [**Carlos Panato**](core-committers.md)
@@ -49,10 +49,10 @@ Below is the list of core committers working on Mattermost:
   * Dev areas: High Availability, Orchestration/Kubernetes, Push Proxy, Classic Mobile Apps
 * [**Caleb Roseland**](core-committers.md)
   * @caleb.roseland on [community.mattermost.com](https://community.mattermost.com/core/messages/@caleb.roseland) and [@calebroseland](https://github.com/calebroseland) on GitHub
-  * Dev areas: Desktop/Web apps
+  * Dev areas: Playbooks, Desktop/Web apps
 * [**Claudio Costa**](core-committers.md)
   * @claudio.costa on [community.mattermost.com](https://community.mattermost.com/core/messages/@claudio.costa) and [@streamer45](https://github.com/streamer45) on GitHub
-  * Dev areas: Server, Load Tests, Performance, Race Conditions, Multimedia
+  * Dev areas: Calls, Server, Load Tests, Performance, Race Conditions, Multimedia
 * [**Catalin Tomai**](core-committers.md)
   * @catalin.tomai on [community.mattermost.com](https://community.mattermost.com/core/messages/@catalin.tomai) and [@catalintomai](https://github.com/catalintomai) on GitHub
   * Dev areas: Permissions, Compliance, LDAP
@@ -80,6 +80,9 @@ Below is the list of core committers working on Mattermost:
 * [**George Goldberg**](core-committers.md)
   * @george on [community.mattermost.com](https://community.mattermost.com/core/messages/@george) and [@grundleborg](https://github.com/grundleborg) on GitHub
   * Dev areas: Import/Export \(Slack, Bulk Loading, etc.\), Diagnostics/Telemetry, Search, Permissions
+* [**Giorgi Bochorishvili**](core-committers.md)
+  * @giorgi.bochorishvili on [community.mattermost.com](https://community.mattermost.com/core/messages/@giorgi.bochorishvili) and [@gbochora](https://github.com/gbochora) on GitHub
+  * Dev areas: Playbooks
 * [**Guillermo Vayá**](core-committers.md)
   * @guillermo.vaya on [community.mattermost.com](https://community.mattermost.com/core/messages/@guillermo.vaya) and [@Willyfrog](https://github.com/Willyfrog) on GitHub
   * Dev areas: Web/Desktop apps
@@ -148,7 +151,7 @@ Below is the list of core committers working on Mattermost:
   * Dev areas: Kubernetes, Helm, Infrastructure
 * [**Shota Gvinepadze**](core-committers.md)
   * @shota.gvinepadze on [community.mattermost.com](https://community.mattermost.com/core/messages/@shota.gvinepadze) and [@iomodo](https://github.com/iomodo) on GitHub
-  * Dev areas: Toolkit, Plugins, AI, Machine Learning
+  * Dev areas: Playbooks, Toolkit, Plugins, AI, Machine Learning
 * [**Scott Bishel**](core-committers.md)
   * @scott.bishel on [community.mattermost.com](https://community.mattermost.com/core/messages/@scott.bishel) and [@sbishel](https://github.com/sbishel) on GitHub
   * Dev areas: Permissions, Compliance, LDAP
@@ -262,6 +265,8 @@ The core team's QA testers verify the correct functionality of the product from 
   * @ogi.marusic on [community.mattermost.com](https://community.mattermost.com/core/messages/@ogi.marusic) and [@ogi-m](https://github.com/ogi-m) on GitHub
 * [**Steve Mudie**](core-committers.md)
   * @steve.mudie on [community.mattermost.com](https://community.mattermost.com/core/messages/@steve.mudie) and [@stevemudie](https://github.com/stevemudie) on GitHub
+* [**Cass Caplinger**](core-committers.md)
+  * @cass.caplinger on [community.mattermost.com](https://community.mattermost.com/core/messages/@cass.caplinger) and [@Phrynobatrachus](https://github.com/Phrynobatrachus) on GitHub
 
 ## Build Engineers
 
