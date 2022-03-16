@@ -14,7 +14,7 @@ We use the acronym "TACTICAL" to summarize the approach to maintaining different
 
 * **Test infrastructure:** We use [SaaS QA](https://www.rainforestqa.com/) which isn't included in the open source version.
 * **Alignment:** Developer features are free. Paid features are for managers and IT pros, who are less likely to spend time and effort forking and maintaining an open source project vs. deploying budgets to purchase paid features.
-* **Core committers:** We work with an active community of [core committers](https://developers.mattermost.com/contribute/getting-started/core-committers/) to keep the project and business in sync.
+* **Core committers:** We work with an active community of [core committers](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#core-committers) to keep the project and business in sync.
 * **Threat intelligence:** Mattermost's [responsible disclosure policy](https://mattermost.com/security-vulnerability-report) means forks will lag in threat intelligence.
 * **Innovation:** Regular ship cycles and high velocity innovation rapidly lower the value of forks.
 * **Compatibility:** Only genuine versions upgrade smoothly to new releases and security patches.
