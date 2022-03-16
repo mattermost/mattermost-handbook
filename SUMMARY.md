@@ -258,7 +258,6 @@
     * [Hacktoberfest 2021](contributors/events/hacktoberfest2021.md)
   * [Mattermost Community](contributors/contributors/community.md)
   * [Contributor Kindness](contributors/contributors/contributor-kindness.md)
-  * [Core Committers](contributors/contributors/core-committers.md)
   * [Community Systems](contributors/contributors/community-systems.md)
   * [Guidelines & Playbooks](contributors/contributors/guidelines/README.md)
     * [Social Engagement Guidelines](contributors/contributors/guidelines/social-engagement-guidelines.md)

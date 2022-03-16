@@ -44,6 +44,10 @@ Because the term "country" may be either controversial or incorrect when describ
 
 Collapsed Reply Threads \(CRT\) is a Mattermost Messaging feature available in beta offering an enhanced experience for users communicating in threads and replying to messages. When enabled, Collapsed Reply Threads improve users’ ability to process channel content, find, follow, and resume conversations more easily, and keep threaded conversations focused. See our [Organizing Conversations using Collapsed Reply Threads \(Beta\)](https://docs.mattermost.com/help/messaging/organizing-conversations.html) product documentation for details.
 
+### Core Committers
+
+Core committers are staff or community developers with the responsibility to contribute and review Mattermost source code.
+
 ### Customer
 
 The primary external audience we are focused on for an initiative, which could be an end user without budget \(if our goal is adoption and engagement\) or a buyer \(if our objective for the initiative is revenue\). A customer does not include internal staff, since staff are not external.
