@@ -56,8 +56,8 @@ Think of email like a physical piece of mail you'd want to send to individuals a
 
 Documentation is like the policy manual for a company. As much as possible, document things publicly. 
 
-- Product Documentation - docs.mattermost.com - Make product documentation as public as possible. 
+- **Product Documentation** - docs.mattermost.com - Make product documentation as public as possible. 
 
-- Operating Documentation - handbook.mattermost.com - Document our internal processes and operations. 
+- **Operating Documentation** - handbook.mattermost.com - Document our internal processes and operations. 
 
-- Mattermost.com -mattermost.com - Document our customer-facing information
+- **Mattermost.com** - mattermost.com - Document our customer-facing information.
