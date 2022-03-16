@@ -150,7 +150,7 @@ We have a weekly all-company [Customer Obsession Meeting](https://handbook.matte
 
 ### Referral program
 
-Mattermost staff and Community members are eligible to receive a $500 USD referral bonus if the candidate they refer is hired and completes 90 days of service with Mattermost.
+Mattermost staff and Community members are eligible to receive a $3,000 USD referral bonus if the candidate they refer is hired and completes 90 days of service with Mattermost.
 
 #### How to refer a candidate
 
