@@ -13,7 +13,7 @@ This page summarizes our processes and instructions.
 - `UNREACHABLE` If you feel it's impossible to reach your goal, set your status to `UNREACHABLE`. Your MLT member will work with you to bring this to the monthly review meeting to discuss how we can adapt as a company.
 - `DATA NEEDED` If you don't feel you're able to provide a forecast, or are unsure about anything in the process, set status to `DATA NEEDED`.
 4. **Share "Going well" and "Not going well"** - Add a comment to share more context about your goal. Include at least the following:
-- `Going Well:` Share wins, successes and good news in general. Share "Thank yous" to people who have helped, and `@`-mention them if you feel appropriate.
+- `Going Well:` Share wins, successes, and good news in general. Share "Thank yous" to people who have helped, and @mention them if you feel appropriate.
 - `Not going well:` Share the key issues you're facing. If the status for the goal is not `Green`, share the key reasons why in this section.
 - `Next actions:` Share key actions to be taken in the following month, with owners and checkins. Be specific.
 5. **Update the "Last Forecasted"** - Update the field "Last Forecasted" with the date of your forecast so MLX knows it's been completed.
