@@ -5,7 +5,7 @@ We use Focalboard to track our [company-wide goals](https://community.mattermost
 This page summarizes our processes and instructions. 
 
 ### Instructions for Monthly DRI updates
-1. **Go to Goal** - By the 2nd Tuesday of the month, in the left tab, click on [**Goals by DRI**](https://community.mattermost.com/boards/workspace/8qt6sh1dzbybb8365caots67iy/b7qzfu3p11f8u9q6mkkfjer4pjr/vbpoc5xwtm3ddfrz8kz11m38s7o). In the board, scroll to the goals under your initials
+1. **Go to Goal** - By the 2nd Tuesday of the month, in the left tab, click on [**Goals by DRI**](https://community.mattermost.com/boards/workspace/8qt6sh1dzbybb8365caots67iy/b7qzfu3p11f8u9q6mkkfjer4pjr/vbpoc5xwtm3ddfrz8kz11m38s7o). In the board, scroll to the goals under your initials.
 2. **Share Forecast** - Open each goal and update the "forecast" field with your forecast for the end of the period. E.g. For "Q1 Forecast", put in your forecast for Q1 ending number.
 3. **Set "Status"** - Status is a summary of how you feel progress is going.
 - `GREEN` - If you believe you'll hit your target by the end of the period, set status to `Green`.
