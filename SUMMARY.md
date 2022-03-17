@@ -23,7 +23,7 @@
     * [MLT Cadence V2MOM](operations/operations/mlt-cadence/mlt-cadence-v2mom.md)
   * [Company Measures](operations/operations/company-metrics/README.md)
     * [Metrics Definitions](operations/operations/company-metrics/metrics-definitions.md)
-    * [V2MOM Metrics](operations/operations/company-metrics/company-v2mom-metrics.md)
+    * [FY23 Goals Board](operations/operations/company-metrics/company-v2mom-metrics.md)
     * [MLT Metrics](operations/operations/company-metrics/metrics.md)
   * [Company Cadence](operations/operations/company-cadence.md)
   * [Company Policies](operations/operations/company-policies/README.md)
