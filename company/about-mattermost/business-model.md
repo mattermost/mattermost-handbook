@@ -1,6 +1,6 @@
 # Vision 
 
-Our vision is becoming the leading solution for developer collaboration through an integrated suite of open core tools that accelerate developer productivity, increase software service levels, and raise workplace satisfaction among technical teams. 
+Our vision is becoming the leading solution for developer collaboration through an integrated suite of open core tools that accelerate developer productivity, increase software service levels, and raise workplace satisfaction among technical teams.
 
 As the world moves more digital and remote, technical organizations face mounting challenges: stagnating productivity, increasing exposure to outages and service-level degradations, and declining workplace satisfaction leading to staffing churn and expanding talent gaps. 
 
@@ -10,7 +10,7 @@ We deliver our solutions through an open core, product-led growth motion with fr
 
 # Market 
 
-Analysts project that in 2022, over $4.5 Trillion USD will be spent on IT. What portion of that investment turns into productivity and results depends entirely on how well teams of software builders and operators can effectively collaborate. 
+Analysts project that in 2022, over $4.5 trillion USD will be spent on IT. What portion of that investment turns into productivity and results depends entirely on how well teams of software builders and operators can effectively collaborate. 
 
 Mattermost competes in a $15B market for "developer collaboration", a segment of the boarder general collaboration market focused on accelerating developer productivity through agile workflows across application development, digital operations and security operations. Our focus is serving a market of 30 million developers with an integrated, open core collaboration suite across workplace messaging, project management, incident management, real time communication, and documentation available both in cloud and as a self-hosted component of an organization's digital infrastructure. 
 
@@ -32,8 +32,6 @@ Mattermost uses a buyer-based open core business model to deliver a high trust, 
 
 3. **Enterprise** - As usage of Mattermost grows we have a high scale edition, Mattermost Enterprise, providing enterprise compliance features and high scale support, including self-managed, multi-node, high availability configurations.  
 
-
-
 ## Frequently asked questions
 
 ### What keeps other companies from using your open source software to create offerings that compete with your paid products?
@@ -48,4 +46,3 @@ We use the acronym "TACTICAL" to summarize the approach to maintaining different
 * **Compatibility:** Only genuine versions upgrade smoothly to new releases and security patches.
 * **Architecture:** Modular architecture makes the need to fork rare.
 * **Licensing:** Mattermost's trademark is registered internationally, forking requires renaming.
-
