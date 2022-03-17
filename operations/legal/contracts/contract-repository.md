@@ -10,7 +10,7 @@ Each business owner will be responsible for owning the business relationship bet
 
 Business owners can access existing contracts by searching for the existing contracts in the SpotDraft repository, by following the steps below:
 
-- From the home page of SpotDraft you can search the full list of contracts by **“Contract Title”** or **“Counterparty Name”**.
+- From the [home page of SpotDraft](https://app.spotdraft.com/contracts/v2) you can search the full list of contracts by **“Contract Title”** or **“Counterparty Name”**.
 - There are different filters to help narrow your search by clicking on the filter button within the search bar.
 - Each user may be limited in the contracts they have access to based on the department they belong and/or the type of contracts being sought.
 
