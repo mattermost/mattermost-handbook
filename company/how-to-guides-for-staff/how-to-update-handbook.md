@@ -27,7 +27,7 @@ The Handbook is a public-facing body of work and although it's a constantly-evol
 
 If this is your first time contributing to Mattermost, first read the [Mattermost Contributor Agreement](https://mattermost.com/mattermost-contributor-agreement/) and sign it \(at the bottom of the page\), so you can be added to the Mattermost [Approved Contributor List](https://docs.google.com/spreadsheets/d/1NTCeG-iL_VS9bFqtmHSfwETo5f-8MQ7oMDE5IUYJi_Y/pubhtml?gid=0&single=true). Please ensure the **GitHub username** field matches your GitHub username exactly, including capitalization.
 
-Then, please request access to the Mattermost organization [Team: Release Channel](https://community.mattermost.com/private-core/channels/team-release). This means that you can edit the files in the Handbook repo and not have to create a fork for your changes.
+Then, please request access to the Mattermost organization [Team:Release Channel](https://community.mattermost.com/private-core/channels/team-release). This means that you can edit the files in the Handbook repo and not have to create a fork for your changes.sssss
 
 Now you're ready to get started.
 
