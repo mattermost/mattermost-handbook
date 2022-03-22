@@ -118,7 +118,7 @@ Internal processes and framework for equity transactions and US GAAP expense rep
 |[Equity Narrative](https://docs.google.com/document/d/1rx-EJbWnRH9KLGtGKRSK-YFxhoTXNNoUh0iPq6EPfj0/edit#heading=h.ex0tpzh4lbzf)|`Netsuite` `Banking`|Process Narrative| |Monthly|Tim Quock|Finance|
 |[Stock-based compensation expense]|`Netsuite`|Playbook| |Quarterly|Ben Graham|Equity|
 |[Equity Exercise Playbook](https://docs.google.com/document/d/1eLEo0tLwuagSrf4ZAxIQo4gfiQ4KurlrpbN-itZOMdg/edit#heading=h.de5nkskkw5cj)|`G-word`|Process Narrative| |As needed|Ben Graham|Mattermost|
-|[FAQ: exercising options](https://docs.google.com/document/d/1qpapX87dv1Sz62KOdqWXvOb5a6mqVyKxwaj65Sw6Pb0/edit?usp=sharing)|`G-word`|FAQ| |As needed|Tim Quock|Mattermost|
+|[FAQ: Exercising options](https://docs.google.com/document/d/1qpapX87dv1Sz62KOdqWXvOb5a6mqVyKxwaj65Sw6Pb0/edit?usp=sharing)|`G-word`|FAQ| |As needed|Tim Quock|Mattermost|
 |[FAQ: Mattermost Stock Plan](https://docs.google.com/document/d/1jcYEMZvg2xGz5XdlxE661Aw0vgVL0u1FiOs8tBdUVwY/edit?usp=sharing)|`G-word`|FAQ| |As needed|Tim Quock|Corporate Finance|
 
 ### Expenses
