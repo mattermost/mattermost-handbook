@@ -32,6 +32,50 @@ Mattermost uses a buyer-based open core business model to deliver a high trust, 
 
 3. **Enterprise** - As usage of Mattermost grows we have a high scale edition, Mattermost Enterprise, providing enterprise compliance features and high scale support, including self-managed, multi-node, high availability configurations.  
 
+
+
+# Sales Motions 
+
+We're focused on a number of sales motions to turn leads and prospects into customers: 
+
+### Champion-Led Inbound Direct
+
+Prospect comes to us to buy. In this motion, developers or a System Admin deploys the open source or cloud free version of Mattermost, adopts its usage, and realizes value for a small group (~20 for cloud and 5-25 for self-hosted). When they want to scale usage beyond 25 and need administrative features like user management, SAML SSO, and the champion contacts IT and procurement to purchase. IT or procurement contacts Mattermost and is directed to the sales team to discuss a purchase, ask for volume discounting, answer security, compliance or technical questions, and/or negotiate MSA terms on their way to a purchase. 
+
+In the meeting, Mattermost AE probes to get a detailed understanding of the customer’s situation and needs using a MEDPPICC framework, and works with the prospect’s IT, procurement, champion, economic buyer and other stakeholders to help the customer envision their success with Mattermost, complete an initial purchase, and set up the account for success in the post-purchase journey.
+
+Key Input: This process often begins with a **Marketing Qualified Lead** ("MQL") of a certain type (pricing quotation or "Contact Us" request) indicating a "hand held high" level of interest in a purchase, and a work email which can be used to determine the organization from which the MQL originates and can be used to identify the correct member of the sales team to lead and execute on our process based on territory and industry assignments. 
+
+This process can also begin with a **Product Qualified Lead** ("PQL") which is a type of MQL (has work email and can be mapped to a sales person) that has an indication of product adoption and ideally trial activation. In-product trial requests are an example of PQLs that can be used as a starting point for sales to accelerate this motion. 
+
+### Champion-Led Inbound Channel
+
+Similar to Champion-Led Inbound Direct journey except prospect buys through a channel partner rather than working with our sales team directly. In some cases we don’t have MEDPPICC information nor relationships with the key stakeholders at the accounts, and need to build up that context in order to properly connect with the account.
+
+Key input: The inputs for this motion are the same as for "Champion-Led Inbound Direct" (above) with the exception that PQLs and MQLs may be shared by our sales team with a channel partner, who may have relationships (e.g. vendor agreement with a prospect) or capabilities (e.g. speaking languages that the Mattermost field doesn't) that we don't have. 
+
+### Sales-Led Warm Outbound
+
+Identifying organizations where the free version of Mattermost is used, contacting people who didn’t reach out to us, and selling our way to close a new customer. In this journey, the Mattermost sales team, either BDR or AE depending on region and segment, identifies an account where someone seems to be running the open source version of Mattermost (through webchat, contact requests, E0 download data, cloud trials, enterprise trials, noticing “Mattermost” skillsets in LinkedIn profiles, etc.), identifies potential contacts (using ZoomInfo, LeadIQ/LinkedIn Sales Navigator, Demandbase and other resources), and outbounds (via email, LinkedIn, and social media) to different personas in the target organization to eventually connect with Mattermost champions, and for the AE to share the vision, benefits, use cases, ROI and case studies of our commercial offerings, along with technical pre-sales support, and guide the prospect into becoming a customer.
+
+Key input: The minimum input is a Marketing Qualified Lead ("MQL") with a work email (so organization can be identified and the right sales person assigned), indications of early interest in Mattermost (e.g. newsletter sign-up, unactivated trial request, etc.), and product usage in some form (after MQL identifies the organization, sales can review public information like LinkedIn bios, blog posts, social shares from company employees, open source contributions, etc.). 
+
+In an outbound motion the intent is to reach multiple people in an organization, not just the person taking an MQL-creating action, so that marketing and sales resources can be applied to accelerating early interest into envision and unlocking value into purchase and expansion decisions. 
+
+### Sales-Led Cold Outbound
+
+Selling into organizations that aren’t known to be using Mattermost but who are similar to existing Mattermost customers and could potentially benefit from our offerings, and potentially showed early interest. This starts with BDRs and AEs focusing on a list of organizations--”Named accounts”--that aren’t known to use Mattermost, but are similar to existing customers who benefit from Mattermost, finding and contacting the right people at the organization to share about the ROI and benefits of Mattermost solutions, getting meetings, and getting agreement to run a trial to prove that Mattermost would solve the issues the prospect is facing, running the trial with technical pre-sales support, and closing customers who can understand the vision for how Mattermost solves their urgent needs, with a proof of value in the trial to validate the purchase they are making.
+
+Key input: Cold outbound can be started with just a list of "Named Accounts" that we believe would have similar needs and buying patterns as existing Mattermost customers. Ideally there are also MQLs similar to "Sales-Led Warm Outbound" though without the requirement of free usage to start this process. 
+
+### Channel-Led Outbound
+
+In some countries/regions channel partners may execute Sales-Led outbound motions in partnership with our sales teams. This motion can be particularly additive in countries/regions and organizations with languages and culture that can’t yet be supported with our internal sales organization, or to reach the existing customer base of a channel partner who are likely to have similar needs to existing Mattermost customers and likely to buy (e.g. Carahsoft/FedResults).
+
+Key input: The key input for a channel partner is training, enablement and on-going support on how to idenitify and call on high potential existing customers to consider, evaluate and purchase Mattermost offerings. 
+
+This motion is not yet broadly used, as the majority of channel activity is currently from "Champion-Led Inbound Channel" (described above).
+
 ## Frequently asked questions
 
 ### What keeps other companies from using your open source software to create offerings that compete with your paid products?
@@ -46,20 +90,4 @@ We use the acronym "TACTICAL" to summarize the approach to maintaining different
 * **Compatibility:** Only genuine versions upgrade smoothly to new releases and security patches.
 * **Architecture:** Modular architecture makes the need to fork rare.
 * **Licensing:** Mattermost's trademark is registered internationally, forking requires renaming.
-
-### What are the sales motions we use to reach prospects and turn them into customers? 
-
-We're focused on a number of sales motions to turn prospects into customers: 
-
-**Champion-Led Inbound Direct:** Prospect comes to us to buy. In this motion, developers or a System Admin deploys the open source or cloud free version of Mattermost, adopts its usage, and realizes value for a small group (~20 for cloud and 5-25 for self-hosted). When they want to scale usage beyond 25 and need administrative features like user management, SAML SSO, and the champion contacts IT and procurement to purchase. IT or procurement contacts Mattermost and is directed to the sales team to discuss a purchase, ask for volume discounting, answer security, compliance or technical questions, and/or negotiate MSA terms on their way to a purchase. 
-
-In the meeting, Mattermost AE probes to get a detailed understanding of the customer’s situation and needs using a MEDPPICC framework, and works with the prospect’s IT, procurement, champion, economic buyer and other stakeholders to help the customer envision their success with Mattermost, complete an initial purchase, and set up the account for success in the post-purchase journey.
-
-**Champion-Led Inbound Channel:** Similar to Champion-Led Inbound Direct journey except prospect buys through a channel partner rather than working with our sales team directly. In some cases we don’t have MEDPPICC information nor relationships with the key stakeholders at the accounts, and need to build up that context in order to properly connect with the account.
-
-**Sales-Led Warm Outbound:** Identifying organizations where the free version of Mattermost is used, contacting people who didn’t reach out to us, and selling our way to close a new customer. In this journey, the Mattermost sales team, either BDR or AE depending on region and segment, identifies an account where someone seems to be running the open source version of Mattermost (through webchat, contact requests, E0 download data, cloud trials, enterprise trials, noticing “Mattermost” skillsets in LinkedIn profiles, etc.), identifies potential contacts (using ZoomInfo, LeadIQ/LinkedIn Sales Navigator, Demandbase and other resources), and outbounds (via email, LinkedIn, and social media) to different personas in the target organization to eventually connect with Mattermost champions, and for the AE to share the vision, benefits, use cases, ROI and case studies of our commercial offerings, along with technical pre-sales support, and guide the prospect into becoming a customer.
-
-**Sales-Led Cold Outbound:** Selling into organizations that aren’t known to be using Mattermost but who are similar to existing Mattermost customers and could potentially benefit from our offerings. This starts with BDRs and AEs focusing on a list of organizations--”Named accounts”--that aren’t known to use Mattermost, but are similar to existing customers who benefit from Mattermost, finding and contacting the right people at the organization to share about the ROI and benefits of Mattermost solutions, getting meetings, and getting agreement to run a trial to prove that Mattermost would solve the issues the prospect is facing, running the trial with technical pre-sales support, and closing customers who can understand the vision for how Mattermost solves their urgent needs, with a proof of value in the trial to validate the purchase they are making.
-
-**Channel-Led Outbound:** In some countries/regions channel partners may execute Sales-Led outbound motions in partnership with our sales teams. This motion can be particularly additive in countries/regions and organizations with languages and culture that can’t yet be supported with our internal sales organization, or to reach the existing customer base of a channel partner who are likely to have similar needs to existing Mattermost customers and likely to buy (e.g. Carahsoft/FedResults).
 
