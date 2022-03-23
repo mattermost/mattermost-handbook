@@ -12,31 +12,28 @@ Hiring plans are created twice a year, and reviewed every quarter. Hiring Manage
 
 ### Role description
 
-Once you have confirmation that your new headcount has been approved, you’re ready to begin the recruitment process. Complete the [Job Description portion](https://docs.google.com/document/d/1rpTI2NKu4H_781vpx_eD9Fku7go4gGDs1P7bJAMQvAU/edit#) and share with your Recruiter, who will schedule a [Recruiter Intake Session](https://handbook.mattermost.com/contributors/join-us/staff-recruiting/recruiting-cadences.html) to review the remainder of the intake template.
+Once you have confirmation that your new headcount has been approved, you’re ready to begin the recruitment process. Complete the [Job Description portion](https://docs.google.com/document/d/1DmInqCLfGpFOP6Foynu9MB3Xl71CfcgFWxuuSEAP50U/edit) and share with your Recruiter, who will schedule a [Recruiter Intake Session](https://handbook.mattermost.com/contributors/join-us/staff-recruiting/recruiting-cadences.html) to review the remainder of the intake template.
 
-Your Recruiter is assigned based on the role and team. This may differ depending on Recruiting Team bandwidth, and will be communicated on a case-by-case basis.
+You can find your assigned recruiter on the [FY23 Hiring Plan - Internal Only](https://docs.google.com/spreadsheets/d/1YoplwsVPrKM4CApLTpPGsO5EoN8MAb57F19KO1Q7QQs/edit#gid=0) - see Column J. 
 
-* Technical individual contributor roles - Teresa Novoa
-* All others - Natalie Jew
-
-#### Role leveling
-
-You can view the current [v1 Job Levels here](https://docs.google.com/spreadsheets/d/1kNsl7JUWDQ8MhWonys9dR3osrxEWYkKVIoECfFKSQzw/edit#gid=0).
-
-**Note:** HR is also working with MLT to build v2 which will help provide additional clarity. If you are unsure about how to use or assign a level to a new job requisition, your Recruiter can help you walk through this as part of the Recruiter Intake Session.
 
 ### Recruiter Intake Session
 
-Your Recruiter will schedule an Intake Session after you’ve completed your Job Description. During this call, your Recruiter will work with you to ensure alignment on the level, ideal candidate profile, the interview process, and next steps.
+Your Recruiter will schedule an Intake Session with you, Total Rewards and a People Partner after you’ve completed your Job Description.  The goal of the in-take is to have a complete Ideal Candidate Profile, Target Level for the role and assigned interviewers + interview backups (if neeeded).
+
+#### Role leveling
+
+You can view the current [v1 Job Levels here](https://docs.google.com/spreadsheets/d/1kNsl7JUWDQ8MhWonys9dR3osrxEWYkKVIoECfFKSQzw/edit#gid=0). Levels will be finalized during the Recruiter Intake Session
+
+**Note:** HR is also working with MLT to build v2 which will help provide additional clarity. If you are unsure about how to use or assign a level to a new job requisition, your Recruiter can help you walk through this as part of the Recruiter Intake Session.
+
 
 #### Ideal Candidate Profile \(ICP\)
 
 The ICP should be a clear list of key skills, experiences, and/or mindsets that the Hiring Manager believes represent the Ideal Candidate. The Hiring Manager will be asked to stack-rank the ICP list and use "P0" to indicate "must-haves" and "P1" to indicate "nice-to-have" the ideal skills, experiences, and mindsets.
 
-The ICP will be used to align the sourcing, interview panel focus areas, and onboarding goals for this new role. For example, here’s an ICP for a [Lead Customer Journey Engineer](https://jobs.lever.co/mattermost/3c1dd4ff-b135-4bb7-8b14-73c4a8cd674f). The list below reflects the top skills and experience to source for candidates, the area of focus for the interview panel, and what the eventual new hire's onboarding goals will be based on.
+The ICP will be used to align the sourcing, interview panel focus areas, and onboarding goals for this new role. For example, here’s an ICP for a [Digital Marketing Manager](https://docs.google.com/presentation/d/1nJju3ILPZBV4hm77Z7LELK_c0bClOMEdvbxXnZDhNX4/edit#slide=id.g1120f15fe91_0_184). The ICP should reflect the top skills, experience and mindsets that are most important for successful candidates based on what a new hire's eventual onboarding goals, AORs and projects will be.
 
-* **P0:** 2+ years of experience leading a team of engineers.
-* **P1:** Experience as an Engineer or a Lead for a team doing front-end/UI/UX work in JavaScript, React, etc.
 
 #### Changing the ICP
 
