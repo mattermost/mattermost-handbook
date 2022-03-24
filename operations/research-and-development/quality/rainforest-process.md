@@ -136,19 +136,19 @@ To set the webhook, go to the [Sites page](https://app.rainforestqa.com/settings
 
     a. Once you’ve clicked on **Open Test**, the test will open in a new browser window. Click on the **Preview** button at the top of the screen.
 
-     ![alt_text](../../../.gitbook/assets/rainforest_image16.png "image_tooltip")
+    ![alt_text](../../../.gitbook/assets/rainforest_image16.png "image_tooltip")
 
     b. In preview mode, the platform is not selected, and you need to do this before previewing the test. In this example, we need to click on **Android 12**. Once you’ve selected the platform, click on the blue **Preview** button bottom right of the screen.
 
-     ![alt_text](../../../.gitbook/assets/rainforest_image17.png "image_tooltip")
+    ![alt_text](../../../.gitbook/assets/rainforest_image17.png "image_tooltip")
 
     c. A new browser window will open showing the test preview window. Click on **I understand** and go ahead with previewing the test.
 
-     ![alt_text](../../../.gitbook/assets/rainforest_image18.png "image_tooltip")
+    ![alt_text](../../../.gitbook/assets/rainforest_image18.png "image_tooltip")
 
     d. The test preview is exactly as the testers would see it as they are testing. Usually, it's helpful to have the test open in another window to edit any steps that are unclear as I go through the preview.
 
-     ![alt_text](../../../.gitbook/assets/rainforest_image19.png "image_tooltip")
+    ![alt_text](../../../.gitbook/assets/rainforest_image19.png "image_tooltip")
 
 6. Once you have previewed the test (and made any updates to the test itself), go back to the failed test in the run group. For this example, it’s this page: [https://app.rainforestqa.com/runs/880602/tests/237283/browsers/android_phone_12/steps/103213942](https://app.rainforestqa.com/runs/880602/tests/237283/browsers/android_phone_12/steps/103213942). As these examples have already been reviewed and categorized, you can see that I refactored this test for clarity but, if you were reviewing the test on failure, you’d:
 
@@ -172,9 +172,9 @@ To set the webhook, go to the [Sites page](https://app.rainforestqa.com/settings
 
 ![alt_text](../../../.gitbook/assets/rainforest_image24.png "image_tooltip")
 
-    e. To review the next failure in a run group, you can click on the **Next Failure** or **Previous Failure** buttons at the bottom of the screen. Once all failures have been reviewed, these buttons are both grayed out.
+To review the next failure in a run group, you can click on the **Next Failure** or **Previous Failure** buttons at the bottom of the screen. Once all failures have been reviewed, these buttons are both grayed out.
 
-    ![alt_text](../../../.gitbook/assets/rainforest_image25.png "image_tooltip")
+![alt_text](../../../.gitbook/assets/rainforest_image25.png "image_tooltip")
 
 ### Automated Run Groups
 
