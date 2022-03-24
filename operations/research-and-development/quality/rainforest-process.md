@@ -3,18 +3,20 @@
 
 ### Contents
 
-* [Run groups](#Run-groups)
-  * [Which run groups to run for which release?](#Which-run-groups-to-run-for-which-release?)
-* Webhook for reporting to Zephyr
-* Preparing a run group to run
-* Reviewing Failures
-  * Crowd-tested Run Groups
-  * Automated Run Groups (RFA)
-* Commenting on test failures in Zephyr
+* [Run groups](#run-groups)
+  * [Which run groups to run for which release?](#which-run-groups-to-run-for-which-release?)
+* [Webhook for reporting to Zephyr](#webhook-for-reporting-to-zephyr)
+* [Preparing a run group to run](#preparing-a-run-group-to-run)
+* [Reviewing Failures](#reviewing-failures)
+  * [Crowd-tested Run Groups](#crowd-tested-run-groups)
+  * [Automated Run Groups](#automated-run-groups)
+* [Commenting on test failures in Zephyr](#commenting-on-test-failures-in-zephyr)
 
 ## [Run groups](https://app.rainforestqa.com/run_groups)
 
 ### Which run groups to run for which release?
+
+**Note**: The **browser** tests for Cloud releases have been split into groups as the original groups were getting too big. For releases going out in the first half of the month, run the **(1st Half of Month)** groups. Similarly, for releases going out in the second half of the month, run the **(2nd Half of Month)** groups.
 
 1. Self-managed releases
    
@@ -28,9 +30,7 @@
    
     a. All run groups starting with **Cloud Workspace_**.
 
-    **Note**: The **browser** tests for Cloud releases have been split into groups as the original groups were getting too big. For releases going out in the first half of the month, run the **(1st Half of Month)** groups. Similarly, for releases going out in the second half of the month, run the **(2nd Half of Month)** groups.
-
-**Notes**:
+**Additional Notes**:
    
 * Run groups starting with **Browser_** are the old crowd-tested groups. Once conversion of all groups to Rainforest automation (RFA) is complete, these groups will be deprecated.
   
@@ -120,13 +120,13 @@ To set the webhook, go to the [Sites page](https://app.rainforestqa.com/settings
 
     a. Let’s look at the failure in the first red X.
 
-        ![alt_text](../../../.gitbook/assets/rainforest_image13.png "image_tooltip")
+       ![alt_text](../../../.gitbook/assets/rainforest_image13.png "image_tooltip")
 
     You can see that 2 testers passed the step but one tester failed the step due to the language in Mattermost not being in English. (This sometimes happens when previous testers have not reset the app to English before ending the test). In cases like this, add a comment that this was the case.
 
     b. Let’s look at the failure in the 2nd red X.
 
-        ![alt_text](../../../.gitbook/assets/rainforest_image14.png "image_tooltip")
+       ![alt_text](../../../.gitbook/assets/rainforest_image14.png "image_tooltip")
 
     You can see that one tester failed the step as he didn’t know how to change the language back to English in the incognito browser window. In this case, he did not read the instructions or follow them as they read: “Do you see language change to Chinese in the Mobile app? IMPORTANT: IF THIS STEP FAILS, do not LEAVE THE TEST BEFORE CHANGING THE LANGUAGE BACK TO ENGLISH IN THE INCOGNITO WINDOW BY FOLLOWING STEPS 9 AND 10”.
 
@@ -136,47 +136,45 @@ To set the webhook, go to the [Sites page](https://app.rainforestqa.com/settings
 
     a. Once you’ve clicked on **Open Test**, the test will open in a new browser window. Click on the **Preview** button at the top of the screen.
 
-        ![alt_text](../../../.gitbook/assets/rainforest_image16.png "image_tooltip")
+       ![alt_text](../../../.gitbook/assets/rainforest_image16.png "image_tooltip")
 
     b. In preview mode, the platform is not selected, and you need to do this before previewing the test. In this example, we need to click on **Android 12**. Once you’ve selected the platform, click on the blue **Preview** button bottom right of the screen.
 
-        ![alt_text](../../../.gitbook/assets/rainforest_image17.png "image_tooltip")
+       ![alt_text](../../../.gitbook/assets/rainforest_image17.png "image_tooltip")
 
     c. A new browser window will open showing the test preview window. Click on **I understand** and go ahead with previewing the test.
 
-        ![alt_text](../../../.gitbook/assets/rainforest_image18.png "image_tooltip")
+       ![alt_text](../../../.gitbook/assets/rainforest_image18.png "image_tooltip")
 
     d. The test preview is exactly as the testers would see it as they are testing. Usually, it's helpful to have the test open in another window to edit any steps that are unclear as I go through the preview.
 
-        ![alt_text](../../../.gitbook/assets/rainforest_image19.png "image_tooltip")
+       ![alt_text](../../../.gitbook/assets/rainforest_image19.png "image_tooltip")
 
 6. Once you have previewed the test (and made any updates to the test itself), go back to the failed test in the run group. For this example, it’s this page: [https://app.rainforestqa.com/runs/880602/tests/237283/browsers/android_phone_12/steps/103213942](https://app.rainforestqa.com/runs/880602/tests/237283/browsers/android_phone_12/steps/103213942). As these examples have already been reviewed and categorized, you can see that I refactored this test for clarity but, if you were reviewing the test on failure, you’d:
 
     a. Click on the **Categorize Failure** button, top right of the screen.
   
-        ![alt_text](../../../.gitbook/assets/rainforest_image20.png "image_tooltip")
+       ![alt_text](../../../.gitbook/assets/rainforest_image20.png "image_tooltip")
 
     b. Select **Needs Refactor**, then click on the blue **Next** button (the option to refactor the test yourself is already checked).
 
-        ![alt_text](../../../.gitbook/assets/rainforest_image21.png "image_tooltip")
+       ![alt_text](../../../.gitbook/assets/rainforest_image21.png "image_tooltip")
 
     c. Type in your comments/reason for refactor, then click the blue **Save** button.
 
-        ![alt_text](../../../.gitbook/assets/rainforest_image22.png "image_tooltip")
+       ![alt_text](../../../.gitbook/assets/rainforest_image22.png "image_tooltip")
 
     d. Once you’ve clicked **Save**, you will see that the **Categorize Failure** button has changed to **Categorized: Needs Refactor**.
    
-        **Note**: Although the button shows NEEDS REFACTOR, you have already refactored the test. To see tests that have been categorized to Needs Refactor, go to the [Dashboard](https://app.rainforestqa.com/dashboard). Here you can click the radio buttons to the left of the tests that you’ve categorized as Needs Refactor and they will disappear from the screen. 
+**Note**: Although the button shows NEEDS REFACTOR, you have already refactored the test. To see tests that have been categorized to Needs Refactor, go to the [Dashboard](https://app.rainforestqa.com/dashboard). Here you can click the radio buttons to the left of the tests that you’ve categorized as Needs Refactor and they will disappear from the screen. This is the process I’ve followed as it’s easier for me to refactor the test as I’m reviewing failures. If you’d prefer to review all tests first then go to the Dashboard and work through the tests you need to refactor, that’s also totally possible :)
         
-        ![alt_text](../../../.gitbook/assets/rainforest_image23.png "image_tooltip")
+       ![alt_text](../../../.gitbook/assets/rainforest_image23.png "image_tooltip")
 
-        ![alt_text](../../../.gitbook/assets/rainforest_image24.png "image_tooltip")
-
-        This is the process I’ve followed as it’s easier for me to refactor the test as I’m reviewing failures. If you’d prefer to review all tests first then go to the Dashboard and work through the tests you need to refactor, that’s also totally possible :)
+       ![alt_text](../../../.gitbook/assets/rainforest_image24.png "image_tooltip")
 
     e. To review the next failure in a run group, you can click on the **Next Failure** or **Previous Failure** buttons at the bottom of the screen. Once all failures have been reviewed, these buttons are both grayed out.
 
-        ![alt_text](../../../.gitbook/assets/rainforest_image25.png "image_tooltip")
+       ![alt_text](../../../.gitbook/assets/rainforest_image25.png "image_tooltip")
 
 ### Automated Run Groups (RFA)
 
