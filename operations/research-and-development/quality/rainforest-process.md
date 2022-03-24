@@ -119,11 +119,13 @@ To set the webhook, go to the [Sites page](https://app.rainforestqa.com/settings
     ![alt_text](../../../.gitbook/assets/rainforest_image12.png "image_tooltip")
 
     **Let’s look at the failure in the first red X.**
+
     ![alt_text](../../../.gitbook/assets/rainforest_image13.png "image_tooltip")
 
     You can see that 2 testers passed the step but one tester failed the step due to the language in Mattermost not being in English. (This sometimes happens when previous testers have not reset the app to English before ending the test). In cases like this, add a comment that this was the case.
 
     **Let’s look at the failure in the 2nd red X.**
+
     ![alt_text](../../../.gitbook/assets/rainforest_image14.png "image_tooltip")
 
     You can see that one tester failed the step as he didn’t know how to change the language back to English in the incognito browser window. In this case, he did not read the instructions or follow them as they read: “Do you see language change to Chinese in the Mobile app? IMPORTANT: IF THIS STEP FAILS, do not LEAVE THE TEST BEFORE CHANGING THE LANGUAGE BACK TO ENGLISH IN THE INCOGNITO WINDOW BY FOLLOWING STEPS 9 AND 10”.
@@ -134,19 +136,19 @@ To set the webhook, go to the [Sites page](https://app.rainforestqa.com/settings
 
     a. Once you’ve clicked on **Open Test**, the test will open in a new browser window. Click on the **Preview** button at the top of the screen.
 
-    ![alt_text](../../../.gitbook/assets/rainforest_image16.png "image_tooltip")
+     ![alt_text](../../../.gitbook/assets/rainforest_image16.png "image_tooltip")
 
     b. In preview mode, the platform is not selected, and you need to do this before previewing the test. In this example, we need to click on **Android 12**. Once you’ve selected the platform, click on the blue **Preview** button bottom right of the screen.
 
-    ![alt_text](../../../.gitbook/assets/rainforest_image17.png "image_tooltip")
+     ![alt_text](../../../.gitbook/assets/rainforest_image17.png "image_tooltip")
 
     c. A new browser window will open showing the test preview window. Click on **I understand** and go ahead with previewing the test.
 
-    ![alt_text](../../../.gitbook/assets/rainforest_image18.png "image_tooltip")
+     ![alt_text](../../../.gitbook/assets/rainforest_image18.png "image_tooltip")
 
     d. The test preview is exactly as the testers would see it as they are testing. Usually, it's helpful to have the test open in another window to edit any steps that are unclear as I go through the preview.
 
-    ![alt_text](../../../.gitbook/assets/rainforest_image19.png "image_tooltip")
+     ![alt_text](../../../.gitbook/assets/rainforest_image19.png "image_tooltip")
 
 6. Once you have previewed the test (and made any updates to the test itself), go back to the failed test in the run group. For this example, it’s this page: [https://app.rainforestqa.com/runs/880602/tests/237283/browsers/android_phone_12/steps/103213942](https://app.rainforestqa.com/runs/880602/tests/237283/browsers/android_phone_12/steps/103213942). As these examples have already been reviewed and categorized, you can see that I refactored this test for clarity but, if you were reviewing the test on failure, you’d:
 
