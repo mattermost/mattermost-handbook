@@ -42,11 +42,7 @@
 
 ## Webhook for reporting to Zephyr
 
-Before setting off any group of tests to run, the following permanent webhook must be enabled in Rainforest so that it reports to Zephyr:
-
-[https://6s1cicmxa1.execute-api.us-east-1.amazonaws.com/prod/rfqav2?token=gsujS2frhW&folder=2324244](https://6s1cicmxa1.execute-api.us-east-1.amazonaws.com/prod/rfqav2?token=gsujS2frhW&folder=2324244)
-
-To set the webhook, go to the [Sites page](https://app.rainforestqa.com/settings/sites) in Rainforest.
+Before setting off any group of tests to run, the webhook must be enabled in Rainforest so that it reports to Zephyr. See the [wiki](https://wiki-internal.mattermost.cloud/quality) for details. To set the webhook, go to the [Sites page](https://app.rainforestqa.com/settings/sites) in Rainforest.
 
 1. Click on **Staging**:
 
