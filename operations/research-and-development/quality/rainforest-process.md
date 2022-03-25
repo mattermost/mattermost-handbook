@@ -1,15 +1,15 @@
 # Rainforest Process Notes
-## (Running Tests, Reviewing Failures and commenting in Zephyr)
 
-### Contents
+## Running tests, reviewing failures, and commenting in Zephyr
+
 
 * [Run groups](#run-groups)
   * [Which run groups to run for which release?](#which-run-groups-to-run-for-which-release)
 * [Webhook for reporting to Zephyr](#webhook-for-reporting-to-zephyr)
 * [Preparing a run group to run](#preparing-a-run-group-to-run)
-* [Reviewing Failures](#reviewing-failures)
-  * [Crowd-tested Run Groups](#crowd-tested-run-groups)
-  * [Automated Run Groups](#automated-run-groups)
+* [Reviewing failures](#reviewing-failures)
+  * [Crowd-tested run groups](#crowd-tested-run-groups)
+  * [Automated run groups](#automated-run-groups)
 * [Commenting on test failures in Zephyr](#commenting-on-test-failures-in-zephyr)
 
 ## [Run groups](https://app.rainforestqa.com/run_groups)
@@ -30,7 +30,7 @@
    
     a. All run groups starting with **Cloud Workspace_**.
 
-**Additional Notes**:
+**Additional notes**
    
 * Run groups starting with **Browser_** are the old crowd-tested groups. Once conversion of all groups to Rainforest automation (RFA) is complete, these groups will be deprecated.
   
@@ -90,11 +90,11 @@ Before setting off any group of tests to run, the webhook must be enabled in Rai
     
 10. The run will begin and you can view results here: [https://app.rainforestqa.com/runs?page=1&mode=standard](https://app.rainforestqa.com/runs?page=1&mode=standard).
    
-**Note**: On the run results page, you can set a filter to show only “Standard” runs to filter out any draft runs.
+**Note:** On the run results page, you can set a filter to show only “Standard” runs to filter out any draft runs.
 
-## Reviewing Failures
+## Reviewing failures
 
-### Crowd-tested Run Groups
+### Crowd-tested run groups
 
 1. From this page: [https://app.rainforestqa.com/runs?page=1&mode=standard](https://app.rainforestqa.com/runs?page=1&mode=standard), click on the run group you want to review. For this example, we’ll use the **Android - Account Settings**.
 
@@ -162,7 +162,7 @@ Before setting off any group of tests to run, the webhook must be enabled in Rai
 
     d. Once you’ve clicked **Save**, you will see that the **Categorize Failure** button has changed to **Categorized: Needs Refactor**.
    
-**Note**: Although the button shows NEEDS REFACTOR, you have already refactored the test. To see tests that have been categorized to Needs Refactor, go to the [Dashboard](https://app.rainforestqa.com/dashboard). Here you can click the radio buttons to the left of the tests that you’ve categorized as Needs Refactor and they will disappear from the screen. This is the process I’ve followed as it’s easier for me to refactor the test as I’m reviewing failures. If you’d prefer to review all tests first then go to the Dashboard and work through the tests you need to refactor, that’s also totally possible :)
+**Note:** Although the button shows NEEDS REFACTOR, you have already refactored the test. To see tests that have been categorized to Needs Refactor, go to the [Dashboard](https://app.rainforestqa.com/dashboard). Here you can click the radio buttons to the left of the tests that you’ve categorized as Needs Refactor and they will disappear from the screen. This is the process I’ve followed as it’s easier for me to refactor the test as I’m reviewing failures. If you’d prefer to review all tests first then go to the Dashboard and work through the tests you need to refactor, that’s also totally possible :)
         
 ![alt_text](../../../.gitbook/assets/rainforest_image23.png "image_tooltip")
 
@@ -172,7 +172,7 @@ To review the next failure in a run group, you can click on the **Next Failure**
 
 ![alt_text](../../../.gitbook/assets/rainforest_image25.png "image_tooltip")
 
-### Automated Run Groups
+### Automated run groups
 
 1. From this page, click on the run group you want to review failures in: [https://app.rainforestqa.com/runs?page=1&mode=standard](https://app.rainforestqa.com/runs?page=1&mode=standard). For this example, we’ll look at **(RFA) Browser - Multi-Team & DM (Mac/Catalina)**.
 
