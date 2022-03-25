@@ -46,7 +46,7 @@ Before setting off any group of tests to run, the webhook must be enabled in Rai
 
 1. Click on **Staging**:
 
-    ![alt_text](../../../.gitbook/assets/rainforest_image1.png "image_tooltip")
+    ![](../../../.gitbook/assets/rainforest_image1.png)
 
 2. Check the box to the left of **Webhook Enabled**, then click on the **Save** button:
 
