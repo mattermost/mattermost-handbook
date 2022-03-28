@@ -35,10 +35,6 @@
 * Run groups starting with **Browser_** are the old crowd-tested groups. Once conversion of all groups to Rainforest automation (RFA) is complete, these groups will be deprecated.
   
 * Currently, we are not running any Desktop App tests in Rainforest.
-  
-    i.  *Next steps: Jelena/Devin to advise whether they’d still like us to run desktop app tests against the nightly master build.*
-
-    ii. If they do want us to start testing again, these tests will need to be refactored as they haven’t been used since v5.0 of the desktop app was released.
 
 ## Webhook for reporting to Zephyr
 
