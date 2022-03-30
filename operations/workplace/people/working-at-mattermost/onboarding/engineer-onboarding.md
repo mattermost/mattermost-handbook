@@ -49,6 +49,7 @@ This is the general timeline and expectations for new engineers starting at Matt
   * Go over core values and Leadership Principles with dev lead
 * Work on 1 - 3 small tickets
 * Introduction at the [Customer Obsession Meeting](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com)
+* Review the [Engineering Titles/Levels](https://docs.google.com/spreadsheets/d/11pG9OqsLTltVylGRDBUOcTa65kkHd_EtRiPBz8Mnnpk/edit#gid=2064417787) sheet to understand expectations and responsibilities for your level
 
 ## Weeks 3 - 4: Focus on solidifying role in the team
 
