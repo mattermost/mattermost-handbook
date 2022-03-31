@@ -26,9 +26,9 @@ Many of these organizations are facing three critical challenges:
 
 Mattermost uses a buyer-based open core business model to deliver a high trust, self-managed messaging platform for developers and high security end users. We develop a portfolio of offerings at different price points \(including free/open source\) that align to the needs and budgets of different buyers.
 
-## Mattermost Free / Open Source 
+## Mattermost Free / Open Source
 
-The free/open source version of Mattermost is built for **developers** as an innovative, flexible, high trust messaging platform that accelerates collaboration in the agile workflows of a tight-knit team.
+The free/open source version of Mattermost is built for **developers** as an innovative, flexible, high trust collaboration platform that accelerates the productivity and agile workflows of a tight-knit team, including the following features: 
 
 ### Channels 
 
@@ -41,6 +41,10 @@ The free/open source version of Mattermost is built for **developers** as an inn
 ### Playbooks
 
 (Incident Management) - An open source alternative to Rundeck, Firehydrant, Transposit and other incident management solutions for [standardizing](https://docs.mattermost.com/playbooks/setting-up-playbooks.html) and [running incident management escalations](https://docs.mattermost.com/playbooks/running-playbooks.html), remediations and [timeline-based retrospectives](https://docs.mattermost.com/playbooks/refining-and-improving.html) deeply integrated with [access controls](https://docs.mattermost.com/playbooks/playbook-permissions.html) and real-time workplace messaging and [notification experiences](https://docs.mattermost.com/playbooks/notifications-and-updates.html) on the Mattermost platform.
+
+For our self-hosting community, we have an open source **Mattermost Team Edition** available as a Linux Binary under MIT license that [deploys](https://docs.mattermost.com/guides/deployment.html#upgrade-mattermost) with MySQL or PostgreSQL and optionally a web-proxy such as NGNIX. There's a single-node local machine "Preview" mode you can use to try out the features using Docker, along with a streamlined omnibus version you can use to get a production system up and running quickly on an Ubuntu-compatible Linux distribution. 
+
+For our cloud community, our "Free" offering is currently a hosted version of the open source Mattermost Team Edition available on demand from Mattermost.com with unlimited users and a flat rate hosting cost of $149/year. While the software is free, we currently do need to pay for hosting costs in this cloud offering, however we also have plans to provide a fully free offering in future subsidized by revenues from paid versions of Mattermost through our open core model. 
 
 ## Mattermost Professional 
 
