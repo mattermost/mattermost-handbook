@@ -56,7 +56,7 @@ As usage of Mattermost grows, we have a high scale edition, Mattermost Enterpris
 
 # Customer Journey 
 
-Our customer journey starts developers and IT admins seeking better collaboration tools for themselves and their teams. The might have used Mattermost personally or in a previous role, or heard about the product through word of mouth, review sites, or discovered Mattermost through web search.
+Our customer journey starts developers and IT admins seeking better collaboration tools for themselves and their teams. They may have used Mattermost personally, or in a previous role, or heard about the product through word of mouth, review sites, or discovered Mattermost through web search.
 
 They discover, download, and install Mattermost using a [deployment guide](https://docs.mattermost.com/guides/deployment.html). Over time, as the number of users grows beyond a single team, typically an IT administrator will be interested in the user management and access control features in Mattermost Professional, and be interested in getting a 30-day trial version license key to [upgrade to Mattermost E0 and activate the trial key](https://docs.mattermost.com/install/enterprise-install-upgrade.html?highlight=trial%20key). 
 
