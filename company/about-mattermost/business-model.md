@@ -58,7 +58,7 @@ As usage of Mattermost grows, we have a high scale edition, Mattermost Enterpris
 
 Our customer journey starts developers and IT admins seeking better collaboration tools for themselves and their teams. The might have used Mattermost personally or in a previous role, or heard about the product through word of mouth, review sites, or discovered Mattermost through web search.
 
-They discover, download and install Mattermost using a [deployment guide](https://docs.mattermost.com/guides/deployment.html). Over time, as the number of users grows beyond a single team, typically an IT administrator will be interested in the user management and access control features in Mattermost Professional and be interested in getting a 30-day trial version license key, and [upgrading to Mattermost E0 and  activating the trial key](https://docs.mattermost.com/install/enterprise-install-upgrade.html?highlight=trial%20key). 
+They discover, download, and install Mattermost using a [deployment guide](https://docs.mattermost.com/guides/deployment.html). Over time, as the number of users grows beyond a single team, typically an IT administrator will be interested in the user management and access control features in Mattermost Professional, and be interested in getting a 30-day trial version license key to [upgrade to Mattermost E0 and activate the trial key](https://docs.mattermost.com/install/enterprise-install-upgrade.html?highlight=trial%20key). 
 
 A subscription license to [Mattermost Professional](https://mattermost.com/pricing/) can be purchased online through our self-serve process, through a channel partner, or by [contacting a member of the Mattermost sales team](https://mattermost.com/contact-sales/) assigned to the territory. 
 
