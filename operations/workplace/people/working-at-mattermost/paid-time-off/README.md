@@ -47,7 +47,7 @@ Family and Friends days are automatically added to BambooHR and you don't need t
 
 We have entities in Germany, UK, US, and we have a large Canadian contingent, so below are holidays we’re expecting people from those countries to take off. These are not mandatory company holidays, just guidelines for people in specific [country/regions](../../../../../company/about-mattermost/list-of-terms.md#country-region).
 
-**Entity Holidays for 2021**
+**Entity Holidays for 2022**
 
 * New Year’s Day \(All\) \(1/03/2022\)
 * MLK Jr. Day \(US\) \(1/17/2022\)
