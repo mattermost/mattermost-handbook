@@ -28,7 +28,7 @@ Mattermost uses a buyer-based open core business model to deliver a high trust, 
 
 ## Mattermost Free / Open Source
 
-The free/open source version of Mattermost is built for **developers** as an innovative, flexible, high trust collaboration platform that accelerates the productivity and agile workflows of a tight-knit team, including the following features: 
+The free/open source version of Mattermost is built for **developers** as an innovative, flexible, high trust collaboration platform that accelerates the productivity and agile workflows of a tight-knit team, and includes the following features: 
 
 ### Channels 
 
