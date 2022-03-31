@@ -52,7 +52,7 @@ Our entry-level paid version, Mattermost Professional, is built for **team manag
 
 ## Mattermost Enterprise 
 
-As usage of Mattermost grows we have a high scale edition, Mattermost Enterprise, providing enterprise compliance features and high scale support, including self-managed, multi-node, high availability configurations.
+As usage of Mattermost grows, we have a high scale edition, Mattermost Enterprise, providing enterprise compliance features and high scale support, including self-managed, multi-node, high availability configurations.
 
 # Customer Journey 
 
