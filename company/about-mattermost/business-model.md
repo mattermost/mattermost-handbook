@@ -36,7 +36,7 @@ The free/open source version of Mattermost is built for **developers** as an inn
 
 ### Boards 
 
-(Work Management) - An open source alternative to Trello, Notion, Asana, Jira and Todoist, deeply integrated with Channels, with the ability to [import from other systems](https://docs.mattermost.com/guides/boards.html), to [use and create custom templates and workflows](https://docs.mattermost.com/boards/templates.html), and to  integrate deeply with the rest of the Mattermost collaboration platform. 
+(Work Management) - An open source alternative to Trello, Notion, Asana, Jira and Todoist, deeply integrated with Channels, with the ability to [import from other systems](https://docs.mattermost.com/guides/boards.html), to [use and create custom templates and workflows](https://docs.mattermost.com/boards/templates.html), and to integrate deeply with the rest of the Mattermost collaboration platform. 
 
 ### Playbooks
 
