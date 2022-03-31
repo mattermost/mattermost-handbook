@@ -28,9 +28,19 @@ Mattermost uses a buyer-based open core business model to deliver a high trust, 
 
 1. **Free**: The free/open source version of Mattermost is built for **developers** as an innovative, flexible, high trust messaging platform that accelerates collaboration in the agile workflows of a tight-knit team.
 
-2. **Team**: Our entry-level paid version, Mattermost Professional, is built for **team managers** - commonly managers of managers - who need additional controls and workflows specific to multi-team coordination. This version can be purchased via self-service, through resellers, or - for accounts over a certain size in certain territories - transacted through our sales team.
+2. **Professional**: Our entry-level paid version, Mattermost Professional, is built for **team managers** - commonly managers of managers - who need additional controls and workflows specific to multi-team coordination. This version can be purchased via self-service, through resellers, or - for accounts over a certain size in certain territories - transacted through our sales team.
 
 3. **Enterprise**: As usage of Mattermost grows we have a high scale edition, Mattermost Enterprise, providing enterprise compliance features and high scale support, including self-managed, multi-node, high availability configurations.
+
+# Customer Journey 
+
+Our customer journey starts developers and IT admins seeking better collaboration tools for themselves and their teams. The might have used Mattermost personally or in a previous role, or heard about the product through word of mouth, review sites, or discovered Mattermost through web search.
+
+They discover, download and install Mattermost using a [deployment guide](https://docs.mattermost.com/guides/deployment.html). Over time, as the number of users grows beyond a single team, typically an IT administrator will be interested in the user management and access control features in Mattermost Professional and be interested in getting a 30-day trial version license key, and [upgrading to Mattermost E0 and  activating the trial key](https://docs.mattermost.com/install/enterprise-install-upgrade.html?highlight=trial%20key). 
+
+A subscription license to [Mattermost Professional](https://mattermost.com/pricing/) can be purchased online through our self-serve process, through a channel partner, or by [contacting a member of the Mattermost sales team](https://mattermost.com/contact-sales/) assigned to the territory. 
+
+As the deployment of Mattermost grows within an organization, typically past 250 or 500 users, the customer's procurement organization may be interested in advanced features and customization available in our [Mattermost Enterprise](https://mattermost.com/pricing/) offering.
 
 # Sales motions
 
