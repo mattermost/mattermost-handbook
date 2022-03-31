@@ -26,11 +26,43 @@ Many of these organizations are facing three critical challenges:
 
 Mattermost uses a buyer-based open core business model to deliver a high trust, self-managed messaging platform for developers and high security end users. We develop a portfolio of offerings at different price points \(including free/open source\) that align to the needs and budgets of different buyers.
 
-1. **Free**: The free/open source version of Mattermost is built for **developers** as an innovative, flexible, high trust messaging platform that accelerates collaboration in the agile workflows of a tight-knit team.
+## Mattermost Free / Open Source
 
-2. **Team**: Our entry-level paid version, Mattermost Professional, is built for **team managers** - commonly managers of managers - who need additional controls and workflows specific to multi-team coordination. This version can be purchased via self-service, through resellers, or - for accounts over a certain size in certain territories - transacted through our sales team.
+The free/open source version of Mattermost is built for **developers** as an innovative, flexible, high trust collaboration platform that accelerates the productivity and agile workflows of a tight-knit team, and includes the following features: 
 
-3. **Enterprise**: As usage of Mattermost grows we have a high scale edition, Mattermost Enterprise, providing enterprise compliance features and high scale support, including self-managed, multi-node, high availability configurations.
+### Channels 
+
+(Workplace Messaging) - An open source alternative to Slack, with [Slack-compatible keyboard shortcuts](https://docs.mattermost.com/channels/keyboard-shortcuts-for-channels.html) and [Slack-compatible webhooks](https://docs.mattermost.com/developer/webhooks-incoming.html#slack-compatibility), along with a layered extensibility model ranging from [plug-ins to custom applications](https://mattermost.com/integrations-overview/). 
+
+### Boards 
+
+(Work Management) - An open source alternative to Trello, Notion, Asana, Jira and Todoist, deeply integrated with Channels, with the ability to [import from other systems](https://docs.mattermost.com/guides/boards.html), to [use and create custom templates and workflows](https://docs.mattermost.com/boards/templates.html), and to integrate deeply with the rest of the Mattermost collaboration platform. 
+
+### Playbooks
+
+(Incident Management) - An open source alternative to Rundeck, Firehydrant, Transposit, and other incident management solutions for [standardizing](https://docs.mattermost.com/playbooks/setting-up-playbooks.html) and [running incident management escalations](https://docs.mattermost.com/playbooks/running-playbooks.html), remediations, and [timeline-based retrospectives](https://docs.mattermost.com/playbooks/refining-and-improving.html) deeply integrated with [access controls](https://docs.mattermost.com/playbooks/playbook-permissions.html) and real-time workplace messaging and [notification experiences](https://docs.mattermost.com/playbooks/notifications-and-updates.html) on the Mattermost platform.
+
+For our self-hosting community, we have an open source **Mattermost Team Edition** available as a Linux Binary under MIT license that [deploys](https://docs.mattermost.com/guides/deployment.html#upgrade-mattermost) with MySQL or PostgreSQL and optionally a web-proxy such as NGNIX. There's a single-node local machine "Preview" mode you can use to try out the features using Docker, along with a streamlined omnibus version you can use to get a production system up and running quickly on an Ubuntu-compatible Linux distribution. 
+
+For our cloud community, our "Free" offering is currently a hosted version of the open source Mattermost Team Edition available on demand from Mattermost.com with unlimited users and a flat rate hosting cost of $149/year. While the software is free, we currently do need to pay for hosting costs in this cloud offering, however we also have plans to provide a fully free offering in future subsidized by revenues from paid versions of Mattermost through our open core model. 
+
+## Mattermost Professional 
+
+Our entry-level paid version, Mattermost Professional, is built for **team managers** - commonly managers of managers - who need additional controls and workflows specific to multi-team coordination. This version can be purchased via self-service, through resellers, or - for accounts over a certain size in certain territories - transacted through our sales team.
+
+## Mattermost Enterprise 
+
+As usage of Mattermost grows, we have a high scale edition, Mattermost Enterprise, providing enterprise compliance features and high scale support, including self-managed, multi-node, high availability configurations.
+
+# Customer Journey 
+
+Our customer journey starts developers and IT admins seeking better collaboration tools for themselves and their teams. They may have used Mattermost personally, or in a previous role, or heard about the product through word of mouth, review sites, or discovered Mattermost through web search.
+
+They discover, download, and install Mattermost using a [deployment guide](https://docs.mattermost.com/guides/deployment.html). Over time, as the number of users grows beyond a single team, typically an IT administrator will be interested in the user management and access control features in Mattermost Professional, and be interested in getting a 30-day trial version license key to [upgrade to Mattermost E0 and activate the trial key](https://docs.mattermost.com/install/enterprise-install-upgrade.html?highlight=trial%20key). 
+
+A subscription license to [Mattermost Professional](https://mattermost.com/pricing/) can be purchased online through our self-serve process, through a channel partner, or by [contacting a member of the Mattermost sales team](https://mattermost.com/contact-sales/) assigned to the territory. 
+
+As the deployment of Mattermost grows within an organization, typically past 250 or 500 users, the customer's procurement organization may be interested in advanced features and customization available in our [Mattermost Enterprise](https://mattermost.com/pricing/) offering.
 
 # Sales motions
 
