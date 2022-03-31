@@ -26,11 +26,29 @@ Many of these organizations are facing three critical challenges:
 
 Mattermost uses a buyer-based open core business model to deliver a high trust, self-managed messaging platform for developers and high security end users. We develop a portfolio of offerings at different price points \(including free/open source\) that align to the needs and budgets of different buyers.
 
-1. **Free**: The free/open source version of Mattermost is built for **developers** as an innovative, flexible, high trust messaging platform that accelerates collaboration in the agile workflows of a tight-knit team.
+## Mattermost Free / Open Source 
 
-2. **Professional**: Our entry-level paid version, Mattermost Professional, is built for **team managers** - commonly managers of managers - who need additional controls and workflows specific to multi-team coordination. This version can be purchased via self-service, through resellers, or - for accounts over a certain size in certain territories - transacted through our sales team.
+The free/open source version of Mattermost is built for **developers** as an innovative, flexible, high trust messaging platform that accelerates collaboration in the agile workflows of a tight-knit team.
 
-3. **Enterprise**: As usage of Mattermost grows we have a high scale edition, Mattermost Enterprise, providing enterprise compliance features and high scale support, including self-managed, multi-node, high availability configurations.
+### Channels 
+
+(Workplace Messaging) - An open source alternative to Slack, with [Slack-compatible keyboard shortcuts](https://docs.mattermost.com/channels/keyboard-shortcuts-for-channels.html) and [Slack-compatible webhooks](https://docs.mattermost.com/developer/webhooks-incoming.html#slack-compatibility), along with a layer extensibility model ranging from [plug-ins to custom applications](https://mattermost.com/integrations-overview/). 
+
+### Boards 
+
+(Work Management) - An open source alternative to Trello, Notion, Asana, Jira and Todoist, deeply integrated with Channels, with the ability to [import from other systems](https://docs.mattermost.com/guides/boards.html), to [use and create custom templates and workflows](https://docs.mattermost.com/boards/templates.html), and to  integrate deeply with the rest of the Mattermost collaboration platform. 
+
+### Playbooks
+
+(Incident Management) - An open source alternative to Rundeck, Firehydrant, Transposit and other incident management solutions for [standardizing](https://docs.mattermost.com/playbooks/setting-up-playbooks.html) and [running incident management escalations](https://docs.mattermost.com/playbooks/running-playbooks.html), remediations and [timeline-based retrospectives](https://docs.mattermost.com/playbooks/refining-and-improving.html) deeply integrated with [access controls](https://docs.mattermost.com/playbooks/playbook-permissions.html) and real-time workplace messaging and [notification experiences](https://docs.mattermost.com/playbooks/notifications-and-updates.html) on the Mattermost platform.
+
+## Mattermost Professional 
+
+Our entry-level paid version, Mattermost Professional, is built for **team managers** - commonly managers of managers - who need additional controls and workflows specific to multi-team coordination. This version can be purchased via self-service, through resellers, or - for accounts over a certain size in certain territories - transacted through our sales team.
+
+## Mattermost Enterprise 
+
+As usage of Mattermost grows we have a high scale edition, Mattermost Enterprise, providing enterprise compliance features and high scale support, including self-managed, multi-node, high availability configurations.
 
 # Customer Journey 
 
