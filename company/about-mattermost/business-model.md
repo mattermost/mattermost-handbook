@@ -32,7 +32,7 @@ The free/open source version of Mattermost is built for **developers** as an inn
 
 ### Channels 
 
-(Workplace Messaging) - An open source alternative to Slack, with [Slack-compatible keyboard shortcuts](https://docs.mattermost.com/channels/keyboard-shortcuts-for-channels.html) and [Slack-compatible webhooks](https://docs.mattermost.com/developer/webhooks-incoming.html#slack-compatibility), along with a layer extensibility model ranging from [plug-ins to custom applications](https://mattermost.com/integrations-overview/). 
+(Workplace Messaging) - An open source alternative to Slack, with [Slack-compatible keyboard shortcuts](https://docs.mattermost.com/channels/keyboard-shortcuts-for-channels.html) and [Slack-compatible webhooks](https://docs.mattermost.com/developer/webhooks-incoming.html#slack-compatibility), along with a layered extensibility model ranging from [plug-ins to custom applications](https://mattermost.com/integrations-overview/). 
 
 ### Boards 
 
