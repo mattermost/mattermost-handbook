@@ -40,6 +40,6 @@ Our community has made thousands of contributions to the Mattermost open source 
 
 ### Can I contribute code to the Mattermost Enterprise Edition code base with commercial features? 
 
-Generally we don't accept code contributions to the Mattermost Enterprise Edition commercial code base. There are exceptions when a strategic commercial customer is interested in co-developing commercials features with us, with sponsorship from executives on both the Mattermost and customer side, in which a special co-development agreement can be signed and contributions accepted. 2
+Generally we don't accept code contributions to the Mattermost Enterprise Edition commercial code base. There are exceptions when a strategic commercial customer is interested in co-developing commercials features with us, with sponsorship from executives on both the Mattermost and customer side, in which a special co-development agreement can be signed and contributions accepted. 
 
 
