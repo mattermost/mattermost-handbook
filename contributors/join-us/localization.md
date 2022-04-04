@@ -146,3 +146,19 @@ To add a new language:
 3. Select the languages you want to add, then **Start new translation**.
 4. Repeat step 2 for every component in [https://translate.mattermost.com/projects/i18n-wip](https://translate.mattermost.com/projects/i18n-wip).
 
+## Translation PRs review process
+
+The translation PRs get automatically opened once a week on Mondays. They also get posted to the [i18n PRs channel](https://community.mattermost.com/core/channels/i18n-prs).
+
+PR reviews need to focus on ensuring that unexpected characters aren't injected into strings. If security concerns are found, notify the Security team.
+
+The translation PRs should be reviewed and merged as soon as possible to avoid alerts from Weblate. Note that it is critical that teams merge these PRs using "merge commit" (or technically also "rebase and merge"), but /never/ "squash and commit". The latter breaks the weblate flow, locking the translations, and forcing a manual fix.
+
+Amy Blais will notify the team if the PR should be cherry-picked to a release branch (e.g. ``cloud``).
+
+PR review owners:
+  - Server translations PRs - Channels / Suite Users teams (Owners: Guillermo, Zef)
+  - Webapp translations PRs - Channels / Suite Users teams (Owners: Guillermo, Zef)
+  - Mobile translations PRs - Channels / Suite Users teams (Owners:  Guillermo, Zef)
+  - Boards translations PRs - Boards team (Owners: Scott + Jesus)
+  - Playbooks translations PRs - Playbooks team (Owners: Jesse + Caleb)
