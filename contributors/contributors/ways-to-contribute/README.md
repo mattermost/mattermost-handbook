@@ -34,3 +34,9 @@ Mattermost UI translations and localization are handled on [Weblate](https://tra
 ## Contribute code
 
 Our community has made thousands of contributions to the Mattermost open source project. Contribute to our [core repositories and integrations](https://developers.mattermost.com/contribute/getting-started/), or build [your own integrations](https://developers.mattermost.com/integrate/getting-started/) and [submit them](https://spinpunch.wufoo.com/forms/mattermost-integrations-and-installers/) to our Marketplace.
+
+## FAQ
+
+### Can I contribute code to the Mattermost Enterprise Edition code base with commercial features? 
+
+Generally we don't accept code contributions to the Mattermost Enterprise Edition commercial code base. There are exceptions when a strategic commercial customer is interested in co-developing commercial features with us, with sponsorship from executives on both the Mattermost and customer side, in which a special co-development agreement can be signed and contributions accepted. 
