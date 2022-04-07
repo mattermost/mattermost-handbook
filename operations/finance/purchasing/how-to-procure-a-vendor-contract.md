@@ -50,6 +50,8 @@ All contracts are to address either Ian Tien \(CEO\) or Tim Quock \(VP Finance\)
 | Contract Signer | Tim Quock (up to $100,000, or Ian Tien if above $100,000) |
 | Address | 530 Lytton Avenue, Second floor Palo Alto, CA, 94301, USA |
 | Office Phone Number\* | \(650\) 667-8512 |
+| Invoice Sumbission Email | AP@mattermost.com |
+| All Inquiries | Procurement@mattermost.com |
 
 * Please do not use a phone number other than the company number. 
 
