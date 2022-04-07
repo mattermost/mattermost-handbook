@@ -71,7 +71,3 @@ Documentation is like the policy manual for a company. As much as possible, docu
 - **Operating Documentation** - handbook.mattermost.com - Document our internal processes and operations. 
 
 - **Mattermost.com** - mattermost.com - Document our customer-facing information.
-
-
-
-
