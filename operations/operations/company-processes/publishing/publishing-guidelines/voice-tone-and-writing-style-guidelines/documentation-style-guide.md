@@ -23,7 +23,7 @@ When you revise a document, apply the style guide rules to the part that you cha
 
 One of our ongoing initiatives is to ensure our documentation is written in natural, clear language. We also focus on empathy and ensuring that we set our readers up for success. This section of the style guide is about content we reuse across our documentation. 
 
-For details about how we write UI text, naming conventions for CTAs, and writing with empathy, take a look at the [User Interface Text Guidelines](operations/research-and-development/product/development-process/user-interface-text-guidelines.md).
+For details about how we write UI text, naming conventions for CTAs, and writing with empathy, take a look at the [User Interface Text Guidelines](operations/research-and-development/product/technical-writing-team-handbook/user-interface-text-guidelines.md).
 
 ### Tabbed content
 
