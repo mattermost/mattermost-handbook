@@ -107,7 +107,7 @@
       * [Product Design levels](operations/research-and-development/product/product-design-team-handbook/product-design-levels.md)
     * [Technical Writing team handbook](operations/research-and-development/product/technical-writing-team-handbook/README.md)
       * [Work with us](operations/research-and-development/product/technical-writing-team-handbook/work-with-us.md)
-      * [User interface text guidelines](operations/research-and-development/product/development-process/user-interface-text-guidelines.md)
+      * [User interface text guidelines](operations/research-and-development/product/technical-writing-team-handbook/user-interface-text-guidelines.md)
       * [Guidelines for PMs and developers](operations/research-and-development/product/technical-writing-team-handbook/writing-feature-documentation.md)
       * [Guidelines for community contributions](operations/research-and-development/product/technical-writing-team-handbook/writing-community-documentation.md)
       * [Technical Writer levels](operations/research-and-development/product/technical-writing-team-handbook/writer-levels.md)
