@@ -51,7 +51,35 @@ Mattermost is a remote-first company, and staff work from locations ranging from
 
 We currently support hiring in the following countries/regions:
 
-* Canada, Chile, Finland, Georgia, Germany, India, Mauritius, Philippines, Poland, South Africa, Turkey, Ukraine, United Kingdom, United States
+* Australia
+* Bangladesh
+* Belarus
+* Brazil
+* Bulgaria
+* Canada
+* Chile
+* Colombia
+* Finland
+* Georgia 
+* Germany
+* Greece
+* India
+* Ireland
+* Mauritius
+* Mexico
+* Norway
+* Pakistan
+* Philippines
+* Poland
+* Portugal
+* South Korea
+* Spain
+* Suriname
+* Turkey
+* Uganda 
+* Ukraine
+* United Kingdom
+* United States
 
 We are constantly working towards adding more countries/regions to this list, but it takes a lot of time and resources. This list will be updated as we are able to hire in additional countries/regions.
 
