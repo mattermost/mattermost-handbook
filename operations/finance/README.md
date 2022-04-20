@@ -20,7 +20,7 @@ Email:
 * [Ben Graham](https://community.mattermost.com/core/messages/@ben.graham) - Senior Manager, Accounting
 * [Isabel Alorro](https://community.mattermost.com/core/messages/@isabel.alloro) - Accounting Lead
 * [Jeff Ho](https://community.mattermost.com/core/messages/@jeff.ho) - Accountant
-* [Jeff Dynda](https://community.mattermost.com/core/messages/@jeff.dynda) - Jr. Staff Accountant
+* [Jeff Dynda](https://community.mattermost.com/core/messages/@jeff.dynda) - Senior Accountant
 * [Daniel Sischy](https://community.mattermost.com/core/messages/@daniel.sischy) - IT Manager
 
 ## AORs
