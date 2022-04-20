@@ -156,6 +156,7 @@ The following list of people are approved as As Appropriate interviewers:
 
 * Ian Tien, CEO and co-founder for all roles outside of R&D.
 * Corey Hulen, CTO and co-founder for all roles in the R&D department including Engineers, Product Managers, and UX.
+* Dave Reardon, VP of Worldwide Sales for all BDR roles.
 
 Each AA interviewer should have at least three reserved slots per week available for AA interviews, ideally in different timezone ranges, providing capacity for 12 new hires per month per AA.
 
