@@ -196,6 +196,7 @@
     * [How to spend company money: Internships](operations/finance/staff-member-expenses/internship-expense-policy.md)
     * [Corporate credit card policy](operations/finance/staff-member-expenses/corporate-credit-card-policy.md)
     * [How to use Expensify](operations/finance/staff-member-expenses/how-to-use-expensify.md)
+    * [Gifting policy](operations/finance/staff-member-expenses/gifting-policy.md)
     * [How to book airfare and travel](operations/finance/staff-member-expenses/airfare-and-traveling.md)
     * [How to reimburse the company](operations/finance/staff-member-expenses/how-to-reimburse-the-company.md)
     * [How to convert currencies](operations/finance/staff-member-expenses/currency-exchange-table.md)
