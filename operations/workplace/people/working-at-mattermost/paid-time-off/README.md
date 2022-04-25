@@ -43,11 +43,11 @@ Please take off holidays relevant to your culture, resident [country/region](../
 
 Family and Friends days are automatically added to BambooHR and you don't need to book that time off.
 
-### Typical Public Holidays in Canada, Germany, UK, US
+### Typical public holidays in Canada, Germany, Australia, UK, and US
 
-We have entities in Germany, UK, US, and Australia, and we have a large Canadian contingent, so below are holidays we’re expecting people from those countries to take off. These are not mandatory company holidays, just guidelines for people in specific [country/regions](../../../../../company/about-mattermost/list-of-terms.md#country-region).
+We have entities in Germany, Australia, UK, US, and we have a large Canadian contingent, so below are holidays we’re expecting people from those countries to take off. These are not mandatory company holidays, just guidelines for people in specific [country/regions](../../../../../company/about-mattermost/list-of-terms.md#country-region).
 
-**Entity Holidays for 2022**
+**Entity holidays for 2022**
 
 * New Year’s Day \(All\) \(1/03/2022\)
 * MLK Jr. Day \(US\) \(1/17/2022\)
