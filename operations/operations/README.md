@@ -24,21 +24,21 @@ Think of Channels like rooms in a building. Public channels are open rooms that 
 
 All channels can be used to communicated, some are better at specific use cases than others: 
 
-#### Public Channels
+#### Public channels
 
-Find public channels from `+` > `Browse Channels` and join and leave based on your topics of interest. Use public channels for "open door" discussions of information relevant to everyone in the channel, for example `News and Buzz` is a channel to share updates on Mattermost being mentioned on social media and in press.
+Find public channels from **+ > Browse Channels** and join and leave based on your topics of interest. Use public channels for "open door" discussions of information relevant to everyone in the channel, for example **News and Buzz** is a channel to share updates on Mattermost being mentioned on social media and in press.
 
-#### Private Channels
+#### Private channels
 
 Use private channels to collaborate on work that would benefit from privacy, and not appropriate for an "open door" discussion. For example, planning manager training, organizing our next MatterCon conference, procurement processes where financial data could be shared, launch planning activities (which can be fast changing and confusing if shared ahead of launch). 
 
-#### Direct Messages
+#### Direct messages
 
-Use Direct Messages (or "DMs") to send quick notes to someone to get their attention, like "Running late" or "Can you comment on this ticket? [Link]". Avoid using DMs for collaborative work, as it's difficult to share context from a DM discussion with others--use Boards or group channels instead. 
+Use direct messages (or "DMs") to send quick notes to someone to get their attention, like "Running late" or "Can you comment on this ticket? [Link]". Avoid using DMs for collaborative work, as it's difficult to share context from a DM discussion with others--use Boards or group channels instead.
 
-#### Group Direct Messages
+#### Group direct messages
 
-Use Group Direct Messages (or "GDMs") very sparingly, and ideally to send only ephemeral notes to a group like "Running late" or "Please get your forecasts in by end-of-day. [Link]". Once a GDM is sent, it can be difficult for some users to find the channel again, so it's best if it's not a store of data. 
+Use group direct messages (or "GDMs") very sparingly, and ideally to send only ephemeral notes to a group like "Running late" or "Please get your forecasts in by end-of-day. [Link]". Once a GDM is sent, it can be difficult for some users to find the channel again, so it's best if it's not a store of data.
 
 ### Boards
 
@@ -60,7 +60,7 @@ Think of email like a physical piece of mail you'd want to send to individuals a
 
 - **Approvals** - Written approvals that need to be circulated and archived are an excellent fit for email. Offer letter approvals are a good example, which need to flow through different HR and manager approval chains and ultimately archived in our HR systems. 
 
-- **One new topic** - If you have a new topic to discuss in a small group and there's not a good public or private channel, is email an ideal way to start. Choose email over DMs ang GDMs if it's an on-going conversation--but choose DMs and GDMs for urgent and ephermeral topics, e.g. "Can you approve this thing?" / "The meeting invite link is broken!", etc. 
+- **One new topic** - If you have a new topic to discuss in a small group and there's not a good public or private channel, email is an ideal way to start. Choose email over DMs and GDMs if it's an on-going conversation - but choose DMs and GDMs for urgent and ephemeral topics, e.g., "Can you approve this thing?" / "The meeting invite link is broken!", etc.
 
 ### Documentation 
 
