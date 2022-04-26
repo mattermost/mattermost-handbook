@@ -8,7 +8,7 @@ We want to be especially thoughtful on the topic in the time of Covid, economic 
 
 ## Upcoming Family and Friends Day
 
-TBA
+* To be announced 
 
 **Past Family and Friends Days**
 
