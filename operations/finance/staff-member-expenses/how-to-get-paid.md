@@ -4,23 +4,27 @@ description: 99%
 
 # How to get paid
 
-**Effective Date**: January 1, 2021
+**Effective Date**: May 1, 2022
 
 ### Payments made by Mattermost
 
 #### United States
 
-If you're a staff member located in the United States, payroll is made through TriNet via direct deposit bi-monthly on the 15th and at end of each month. Your expense reimbursements will be made through Expensify under the Mattermost, Inc. policy in the form of an ACH payment. You'll be required to register your banking information to be able to receive an ACH payment in Expensify. We do not support any other type of expense reimbursement for United States staff members at this time. You'll receive your expense reimbursement no later than 15th and at end of each month if you follow the [How to use Expensify](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#expense-reimbursement-policy) policy.
+If you're a staff member located in the United States, payroll is made through TriNet via direct deposit bi-monthly on the 15th and on the last day of each month. Your expense reimbursements will be made through Expensify under the Mattermost, Inc. policy in the form of an ACH payment. You'll be required to register your banking information to be able to receive an ACH payment in Expensify. We do not support any other type of expense reimbursement for United States staff members at this time. You'll receive your expense reimbursement no later than 15th and at end of each month if you follow the [How to use Expensify](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#expense-reimbursement-policy) policy.
 
 If you're a vendor, refer to the [Vendor Onboarding](https://handbook.mattermost.com/operations/finance/onboarding/how-to-on-board-as-a-vendor) section for guidance on registering so you can get paid.
 
 #### Canada
 
-If you're a staff member located in Canada, or if your contract is with Open World Services \(OWS\), payroll will be made to you in accordance with OWS policy. For expense reimbursement, please follow the [OWS Reimbursement Process](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#open-world-services-ows).
+If you're a staff member located in Canada, payroll and expense reimbursements are made through Ozden & Cheung, our Canadian accounting team, via direct deposit bi-monthly on the 15th and on the last day of each month. For additional information on expense reimbursement policy, please refer to the [Expense Reimbursement Policy](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-use-expensify#expense-reimbursement-policy) section of the Handbook.
+
+#### United Kingdom and Germany
+
+If you're a staff member located in the United Kingdom or Germany, payroll is made through Vistra, our European accounting teams, via direct deposit on a monthly basis (at the end of the month). Expense reimbursements are also made through Vistra via direct deposit on the 15th and 25th of each month. For additional information on expense reimbursement policy, please refer to the [Expense Reimbursement Policy](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-use-expensify#expense-reimbursement-policy) section of the Handbook.
 
 #### Rest of World \(ROW\)
 
-If you're a vendor or a contractor located outside the United States and Canada, Mattermost requires a primary banking institution as a method of payment, as we use TransferWise on the Accrualify platform for invoice processing and payment. If you're a staff member located outside of the United States, Canada, United Kingdom, and Germany, you will get paid via TransferWise for invoice processing, expense reimbursement, and payment. The currency in which payment is made is based on the currency stated within the agreement signed with Mattermost.
+If you're a vendor or a contractor located outside the United States, Canada, United Kingdom and Germany, Mattermost requires a primary banking institution as a method of payment, as we use TransferWise on the Accrualify platform for invoice processing and payment. You will get paid via TransferWise for invoice processing, expense reimbursement, and payment. The currency in which payment is made is based on the currency stated within the agreement signed with Mattermost. For additional information on expense reimbursement policy, please refer to the [Expense Reimbursement Policy](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-use-expensify#expense-reimbursement-policy) section of the Handbook.
 
 **Primary banking institution**
 
