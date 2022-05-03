@@ -16,7 +16,7 @@ If you're a vendor, refer to the [Vendor Onboarding](https://handbook.mattermost
 
 #### Canada
 
-If you're a staff member located in Canada, payroll and expense reimbursements are made through Ozden & Cheung, our Canadian accounting team, via direct deposit bi-monthly on the 15th and on the last day of each month. For additional information on expense reimbursement policy, please refer to the [Expense Reimbursement Policy](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-use-expensify#expense-reimbursement-policy) section of the Handbook.
+If you're a staff member located in Canada, payroll and expense reimbursements are made through Ozden & Cheung, our Canadian accounting team, via direct deposit bi-monthly on the 15th and on the last business day of each month. For additional information on expense reimbursement policy, please refer to the [Expense Reimbursement Policy](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-use-expensify#expense-reimbursement-policy) section of the Handbook.
 
 #### United Kingdom and Germany
 
