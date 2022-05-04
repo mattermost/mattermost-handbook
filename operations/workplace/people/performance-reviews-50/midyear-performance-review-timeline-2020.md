@@ -1,11 +1,11 @@
-# Mid-Year Performance Review 2022
+# Mid-Year Performance Review 
 
 **Mid-year format**
 
 1. Cycle 1: Same questions as EOY review (with peer feedback). Set goals for EOY. Mid-year rating.
 2. Cycle 2: Three questions for self-reflection and manager review (no peer feedback). Set goals for EOY. Mid-year rating.
 
-Updates to the mid-year format are based on feedback from the annual performance review retrospective. The summary of the results as well as the full overview of the mid-year review format are available [here](https://docs.google.com/document/d/1UNUEvapxNVzOY5VbsSS0Dv_w0tN-zn8xFF1DRe9QGfM/edit?usp=sharing). Reach out to hr@mattermost.com with questions.
+Updates to the mid-year format are based on feedback from the annual performance review retrospective. The summary of the results as well as the full overview of the mid-year review format is available [here](https://docs.google.com/document/d/1UNUEvapxNVzOY5VbsSS0Dv_w0tN-zn8xFF1DRe9QGfM/edit?usp=sharing). Reach out to hr@mattermost.com with questions.
 
 **Cycle 1**
 
