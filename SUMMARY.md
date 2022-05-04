@@ -236,7 +236,7 @@
         * [Baby bonding parental leave](operations/workplace/people/working-at-mattermost/leaves-of-absence/baby-bonding-parental-leave.md)
       * [Workplace program](operations/workplace/people/working-at-mattermost/workplace-program.md)
     * [Performance reviews](operations/workplace/people/performance-reviews-50/README.md)
-      * [Mid-year performance review timeline 2021](operations/workplace/people/performance-reviews-50/midyear-performance-review-timeline-2020.md)
+      * [Mid-year performance review timeline 2022](operations/workplace/people/performance-reviews-50/midyear-performance-review-timeline-2020.md)
       * [Formal review process](operations/workplace/people/performance-reviews-50/formal-review-process.md)
       * [New staff performance review](operations/workplace/people/performance-reviews-50/new-staff-performance-review.md)
       * [Informal review process](operations/workplace/people/performance-reviews-50/informal-review-process.md)
