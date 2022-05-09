@@ -42,6 +42,24 @@ In general, this content is either:
 * An actionable button which leads to a process
 * Triggered because something happened
 
+## Writing for inclusion and diversity
+
+This section is being built out. In the meantime, please consult [this page](https://writer.com/inclusion-glossary/) for the type of guidelines we follow when writing with inclusion and diversity in mind.
+
+If you have any questions about writing for inclusion and diversity, or notice something we can improve, please tell us! You can find us on Mattermost in the [DWG: Documentation Working Group](https://community.mattermost.com/core/channels/dwg-documentation-working-group) channel.
+
+## Accessibility
+
+This section is being built out. In the meantime, here are some of the things we take into account when writing content:
+
+- ALT tags
+- Colors used on-screen
+- Plain and clear language
+
+Take a look at [this article](https://www.invisionapp.com/inside-design/writing-accessible-microcopy/) for some more information on accessibility. 
+
+Have any ideas or feedback? You can find us on Mattermost in the [DWG: Documentation Working Group](https://community.mattermost.com/core/channels/dwg-documentation-working-group) channel.
+
 ## Messaging guidelines
 
 Don’t blame the user. Inform them about what happened, explain why it happened, and suggest a way forward. Try to use complete sentences in your messages. A sentence phrase \(an incomplete sentence\) might make sense in English but could present internationalization challenges.
