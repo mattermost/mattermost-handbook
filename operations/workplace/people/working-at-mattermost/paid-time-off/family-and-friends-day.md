@@ -8,7 +8,11 @@ We want to be especially thoughtful on the topic in the time of Covid, economic 
 
 ## Upcoming Family and Friends Day
 
-* To be announced 
+* Monday, May 30 2022
+* Friday, 1 July 2022
+* Monday, July 4 2022
+* Monday, September 5 2022
+* Monday, October 10 2022
 
 **Past Family and Friends Days**
 
