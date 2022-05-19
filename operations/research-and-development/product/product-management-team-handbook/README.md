@@ -8,7 +8,28 @@ description: 1% DRAFT
 
 The purpose of this handbook is to provide more details on the Product Manager role, processes, and relations to other functions within the organization to foster success for employees in this role. This handbook may be shared with other functional areas so they may gain a better understanding of the Product Manager role, and develop a greater understanding for responsibilities and interaction areas.
 
-[Product Management Areas of Ownership](https://github.com/mattermost/mattermost-handbook/tree/b5025ef767aefd213958c7bd90c94c08460bc173/operations/research-and-development/product/operations/research-and-development/product/product-ownership-areas.md) [Product Manager Onboarding](https://github.com/mattermost/mattermost-handbook/tree/b5025ef767aefd213958c7bd90c94c08460bc173/operations/research-and-development/product/operations/research-and-development/product/pm-onboarding.md)
+- [Product Management Areas of Ownership](https://github.com/mattermost/mattermost-handbook/tree/b5025ef767aefd213958c7bd90c94c08460bc173/operations/research-and-development/product/operations/research-and-development/product/product-ownership-areas.md)
+- [Product Manager Onboarding](https://github.com/mattermost/mattermost-handbook/tree/b5025ef767aefd213958c7bd90c94c08460bc173/operations/research-and-development/product/operations/research-and-development/product/pm-onboarding.md)
+
+## The Product Management Team
+
+Message the entire team via @pmteam in the Product Management channel on https://community.mattermost.com.
+
+The PM team includes (in alphabetical order, by their username on https://community.mattermost.com):
+
+- @aaron.rothschild
+- @chen-i.lim
+- @don.hogan
+- @eric.sethna
+- @jason.blais
+- @john.lugtu
+- @katie.wiersgalla
+- @laney.coletti-saracino
+- @neil.barnett
+- @rohan.monga
+- @stephen.vanhemmen
+- @tao 
+- @winson.wu
 
 ## The Product Manager Role
 
