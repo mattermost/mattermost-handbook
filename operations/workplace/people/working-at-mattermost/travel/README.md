@@ -32,7 +32,8 @@ Mattermost is not requiring any team members to travel during COVID. Although th
 7. **Covid-19 Travel Working Group.** This group will consist of: Hanna Park, Natalie Jew, Jamie Hurewitz, Zef Hemmel, who will meet on a monthly basis to assess any changes that may need to be made to the guidelines. Changes will be shared with MLT and MLX prior to finalization and internal messaging. 
 
 **Upcoming Meetings**
-* October 1, 2021
-* November 5, 2021
-* December 3, 2021
-* January 7, 2022
+* June 3, 2022
+* July 8, 2022
+* August 5, 2022
+* September 2, 2022
+* October 7, 2022
