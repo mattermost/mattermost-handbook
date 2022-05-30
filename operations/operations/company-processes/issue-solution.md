@@ -106,7 +106,7 @@ Here is an Example of a RAPID. In an Issue/Proposed Solution using RAPID:
         - If Type 2, this should be someone other than the CEO.
   4. A section on the document for each person above to write their comments.
 
-2. The R then reaches out to all the As, Ps and Is to solicit their input. Once this input is received, the document is ready to be reviewed by the D.
+2. The R then reaches out to all the As, Ps and Is to solicit their input. Once this input is received, the document is ready to be reviewed by the D. If the ISP involves an off-cycle budget change over $100K, R should work with finance team for their estimate of impact to financial plan. 
 
 3. The R schedules a Decision Meeting and invites the D, As, Is and Ps.
 
