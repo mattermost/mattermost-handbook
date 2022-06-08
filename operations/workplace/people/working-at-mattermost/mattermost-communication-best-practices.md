@@ -3,6 +3,7 @@
 ## Develop a practice of self-care
 
 ### Disconnecting from work
+
 Working remotely in a globally distributed workplace can make it challenging to create boundaries between work and personal time. We strive to foster a culture that promotes a healthy work-life balance for our teams and encourage all staff to disconnect from work every day. Disconnecting from work means not engaging in work activities and turning off work-related communication, including changing status on Mattermost to “offline” or setting notifications to silent/"do not disturb", as appropriate.
 
 Staff members have flexibility over their working hours according to their time zones and working arrangements with their teams and manager. We encourage teams to be mindful of their colleagues’ designated working hours and to create communication norms and guidelines to align with each team’s unique needs. 
