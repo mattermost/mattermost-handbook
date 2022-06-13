@@ -7,6 +7,8 @@ Terminology standardization started in 2022. The project has a large scope and i
 - Standardizing headings to make them sentence case. This was completed in Q1 of 2022.
 - Standardizing all text in the System Console to make them sentence case.
 - Standardizing how we refer to our products and plans, as well as the mechanisms available to use them.
+- Making our Edition and License page consistent and clear.
+- Creating a UI text library of terms and strings for the UX team to use when creating mocks.
 
 The [outline of the project is documented here](https://docs.google.com/document/d/1ImzS3UhCkFzMF2-6FNByw9W2r8Gvx1sudBA0FjazVH0/edit#heading=h.crjl4fz9pz1n).
 
