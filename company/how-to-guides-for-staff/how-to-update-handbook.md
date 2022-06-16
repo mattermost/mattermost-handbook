@@ -148,6 +148,26 @@ Follow these two steps:
   ![](../../../.gitbook/assets/release-timeline-jan2020.png)
   ```
 
+### Can I convert a Google Doc to Markdown?
+
+Yes! Sometimes it's easier to draft content for the Handbook in a Google Doc. An open-source Google Drive add-on called [Docs to Markdown](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607) can convert the content to Markdown. See the add-on [documentation](https://github.com/evbacher/gd2md-html/wiki) for details on installing and using this tool.
+
+Once the add-on is installed, there are a number of conversion settings you can configure. Selecting all but the **Use HTML headings/IDs** option is recommended.
+
+- To see the embedded errors & warnings, disable the **Use reckless mode** option.
+- To see all conversion details, disable the **Suppress info comment** option.
+
+The resulting Markdown code isn't perfect, but it's an excellent initial step towards preparing a PR for the Mattermost Handbook. Review the following areas of converted code:
+
+- Embedded images must be saved out as files, added to appropriate image folders, and links need to be added to point to correct locations.
+  - If the doc contains screenshots or other image assets, right-click on the embedded image in the Google Doc, then select **Save to Keep**. 
+  - In the right pane, right-click on the image in the **Keep list**, then select **Save Image As**. Rename the image file as needed to match the Markdown code.
+
+- Images need to live in the `.gitbook/assets` folder and must use a relative link in the source file. 
+- Numbered lists and nested lists likely need corrections.
+- Many lines end in a `/` which need to be removed.
+- ALT tags are added as `alt_text` for all images. Update the ALT tag to be more descriptive, or remove it altogether.
+
 ## Training video
 
 [Watch a training video on how to update the handbook in GitHub](https://drive.google.com/file/d/1AOI8H-oe2u1JW6oOA4nPPTSbGnK3Xuq1/view?usp=sharing).

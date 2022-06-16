@@ -78,6 +78,104 @@ Currently, submitting a translation PR follows the same writing and editing proc
 6. Decide if we want to indicate translations level - e.g. “Alpha” or “Beta” for translations that are in progress.
 7. Test you can successfully rate a translated docs page by selecting a rating emoji. Ping @justine.geffen for validation of this.
 
+## Set up a local development environment
+
+Members of the writing team have two ways to contribute to Mattermost product documentation:
+
+- Using GitHub web tools. See the GitHub training section below for details.
+- Working within a local development environment. See the mattermost/docs repository [README](https://github.com/mattermost/docs#building-and-validating) documentation for details on setting up a local environment.
+
+### Clone a documentation fork locally
+
+Mattermost product documentation contributions can be created in one of two ways:
+
+- as a branch (applies only Mattermost staff with appropriate GitHub repository permissions)
+- as a fork (applies to all other documentation contributions)
+
+In a GitHub documentation PR, branched contributions display using the branch name, and forked contributions display as `username/reponame:branchname` instead. While branched contributions are automatically pulled down to a local environment when you run the command `git pull` or `git fetch origin` from the command line, forked contributions must be pulled down manually.
+
+To work with a forked contribution locally:
+
+1. In the GitHub PR, identify the contributor's username.
+2. In your local file system, create a new directory for the fork.
+3. Navigate to the new directory, then clone the fork by running the command `git clone https://github.com/username/reponame`. Note that you don't need to specify the branch name.
+4. Switch to the branch you want to explore by running the command `git checkout branchname`.
+5. (macOS users only) Sync your virtual environment for the new directory by running the command `pipenv sync`.
+
+## Extend Sphinx functionality
+
+Extending product documentation functionality typically involves extending the Sphinx static generation tool with extensions that introduce new display, page, build, navigation, or output capabilities. For example, all code blocks on all pages of the product documentation feature a copy/paste option to make trying out code samples easy for documentation visitors. The copy/paste option was added by installing a Sphinx extension created by an open source contributor.
+
+To get started with Sphinx extensions, you'll want to set up a local development environment, then identify an open source Sphinx extension you want to test based on an outcome or goal you're looking to achieve that improves the learning experience for Mattermost documentation visitors.
+
+1. In a local documentation development environment, from the command line terminal, install the Sphinx extension using the installation instructions provided by the extension author.
+2. Regenerate the `pipenv.lock` file by running the following command: `pipenv install sphinx-extension==version` where `version` is replaced with the extension's release version you want to use.
+3. Update the `conf.py` file to add the extension in the `extension` section. 
+4. Incorporate the new Sphinx extension on a documentation page using appropriate syntax.
+5. Build the documentation locally to test how the extension works. Be sure to test as many edge cases and real world situations as you can to ensure that the new extended functionality won't break existing pages or content.
+
+## Upgrade Sphinx
+
+Mattermost product documentation is generated using Sphinx v4.4. As new Sphinx functionality becomes available, it can be desirable or necessary to upgrade Sphinx to a later release.
+
+To get started with a Sphinx upgrade, you'll want to set up a local development environment, then review the [Sphinx release history](https://pypi.org/project/Sphinx/#history) to identify the upgrade version you want. It's important to understand and test upgrades locally to identify any risks an upgrade may introduce to the Mattermost documentation.
+
+Once you have a Sphinx upgrade version in mind:
+
+1. In a local documentation development environment, from the command line terminal, install the Sphinx upgrade by running the following command: `pipenv install sphinx==version`. This command updates both the `pipfile` with the latest Sphinx version and regenerates the `pipfile.lock`.
+2. Sync your virtual environment for the new Sphinx version by running the command: `pipenv sync`.
+3. Create a documentation PR containing the two file changes to `pipfile` and `pipfile.lock`.
+4. Once the PR merged into production, writers can update their local development environments to use the Sphinx upgrade by running the following command: `pipenv sync`.
+
+Following a successful Sphinx upgrade, complete the following checklist tasks to ensure that the new version of Sphinx doesn't impact existing functionality, content, or output.
+
+### Sitemap generation
+
+1. Open the latest sitemap via `docs.mattermost.com/sitemap.xml` in a browser tab.
+2. Generate the product documentation, then use a text compare tool such as [text-compare](https://text-compare.com/) to review the differences between the newly generated sitemap against what's available in production.
+
+You shouldn't see any glaring differences and the sitemap should NOT have any Mattermost version information in any of the URLs. You may see content move around on the page. Confirm that page URLs in production continue to exist in the latest generated sitemap XML file.
+
+### Page redirects
+
+Spot check a handful of redirects specified via the `conf.py` file to ensure they continue to redirect visitors correctly.
+
+### Parallel processing and pickling
+
+When you build the documentation locally, is the build fast? Do you see a message in the terminal indicating that pickling was successful?
+
+If the build takes more than a few minutes to complete, or you don't see the pickling success message, this could indicate an issue with the Sphinx version, and you may want to reconsider an upgrade to this version.
+
+### HTML output
+
+After successfully building the product documentation:
+
+- Navigate around the site to ensure that nothing looks or feels broken.
+- Review pages with tables and tabbed content to ensure the content displays as intended.
+- Review the landing page as well as subsequent page headers/footers to ensure links take users to expected destinations.
+- Review the Changelog pages (which are managed in Markdown source files) to ensure that the changelogs are converted to HTML correctly.
+- Perform a few docs searches to confirm that searches continue to work as expected.
+
+### Build warnings and errors
+
+Review and fix issues reported via the `/build/warnings.log` file including broken links, pages missing from the LHS, and syntax and formatting problems. 
+
+### Review documentation repository setup instructions
+
+- In GitHub, review the [mattermost/docs](https://github.com/mattermost/docs) repository [README file](https://github.com/mattermost/docs#mattermost-documentation) and this Handbook process documentation to ensure content accuracy.
+
 ## GitHub training
 
 GitHub training videos coming soon!
+
+### Add PRs to monthly documentation release branches
+
+If you encounter a documentation PR that should be included in a monthly documentation release cycle, instead of tracking the PR individually, the PR can be merged into a documentation release branch. 
+
+1. In the PR, identify the branch name you want to include in a documentation release branch. 
+2. Ensure your local development environment is up-to-date and contains the same code as the `master` branch.
+3. Navigate into the branch where you want to merge in the PR to ensure all code is available locally.
+4. From a terminal, run the command `git merge branchname` where `branchname` is the name of the branch you want to commit to a monthly documentation release.
+5. If there are no conflicts, you'll see the vi editor. Review the commit message, then type `:x` to save and exit. If there are conflicts, you need to resolve them on the CLI and commit them first before you can move to the next step to push remotely.
+6. Push your changes remotely by running the command `git push`.
+

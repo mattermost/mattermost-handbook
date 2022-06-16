@@ -27,10 +27,33 @@ For details about how we write UI text, naming conventions for CTAs, and writing
 
 ### Tabbed content
 
+Users visit product documentation looking for a clear, golden path to success. As software complexity grows, the paths to success can become less straightforward and dependent on customer-determined variables like operating systems, databases, and product release versions. 
+
+Organizing product documentation content in selectable tabs is an effective way to reduce clutter and reduce the amount of time readers spend looking for answers. Tabs can display more product information on a page without requiring the user to scroll through an entire page of content, and readers can reach relevant details with just a glance.
+
+Content can be formatted to display in tabs using the following RST syntax:
+
+```text
+.. tabs::
+
+	.. tab:: TabNameA
+
+		Tab text goes here. This content displays by default when users visit this page.
+
+	.. tab:: TabNameB
+
+		Tab text goes here. The user must select this tab to see this content.
+
+	.. tab:: TabNameC
+
+		Tab text goes here. The user must select this tab to see this content
+```
+
+Note that tabbed content syntax applies only to RST source files and is not yet available within Markdown source files, and that spacing and indentation are important elements of the syntax. When previewing draft work, if tabbed content isn't displaying as expected, carefully review spacing and indentation.
+
 When presenting content in tabs, tab names must be exactly the same across all instances, for consistency.
 
-"From Mattermost version 6.0..."
-"In Mattermost versions up to v5.39"
+"From Mattermost version 6.0..." vs "In Mattermost versions up to v5.39"
 
 ## Writing style
 
@@ -409,43 +432,59 @@ To create a name-value group such as a definition list, type the term on a line 
     The total number of teams created on your system.
 ```
 
-### External links
+### Documentation links 
 
-URLs are automatically rendered as links in Sphinx; however, where possible, it is preferred that hyperlinks are created within the text of a sentence. Hyperlinks within a sentence can be created using the following formatting:
+#### External links
+
+External links take readers to a page outside of the Mattermost product documentation. External link URLs are automatically rendered as links in Sphinx (when formatted correctly). Where possible, incorporate hyperlinks within the text of a sentence by lowercasing the link text. 
+
+External hyperlinks within a sentence can be created using the following formatting:
 
 ```text
 `Link display text <URL-of-website>`__
 
 For example:
-  `Mattermost Manifesto <https://www.mattermost.org/manifesto/>`__
+  `Mattermost Product Pricing <https://www.mattermost.com/pricing/>`__
 ```
 
-The link renders as: [Mattermost Manifesto](https://docs.mattermost.com/developer/manifesto.html).
+Note the full URL, the opening and closing single quotes, and the two underline characters at the end of the link syntax.
 
-### Internal links to Mattermost documentation
+The link above renders as: [Mattermost Product Pricing](https://www.mattermost.com/pricing).
 
-When creating a link to another document in the Mattermost documentation, create a link with a relative URL.
+#### Internal links
 
-A link with an absolute URL is not as flexible as a relative URL. Relative URLs don't break when the documentation is moved to another host, or if the documentation is hosted on a server that's behind a firewall without access to the Internet.
+Internal links take readers to a page within the Mattermost product documentation. When creating links to pages in the product documentation, always use a relative URL instead of an external (or absolute) link. A link with an absolute URL is not as flexible as a relative URL. Relative URLs don't break when the documentation is moved to another host, or if the documentation is hosted on a server that's behind a firewall without access to the Internet.
 
-The Sphinx processor extends reStructuredText to implement references, called roles, to locations within a documentation set. The two roles that are relevant in Mattermost documentation are the `:doc:` role and the `:ref:` role.
+##### Link to another page in the same section
 
-The `:doc:` role is used for creating relative links to other documents. The `:ref:` role is used for creating relative links to arbitrary locations within the documentation set, including within the same document. In both cases, the HTML output is a relative URL for the target location.
+To create a link to another documentation page within the same section of the product documentation, use the following formatting:
 
-The following example uses the `:doc:` role to link to the **Integrations Overview** page. The source file is called `integrations.rst` and is in the `overview` directory.
+```text 
+`:doc:`Link display text </folder/filename>`
 
-```text
-  For more information about integrating with Mattermost, see :doc:`../overview/integrations`.
+For example, when you want to add a link on a Channels page to another Channels page:
+  See the :doc:`channel preferences </channels/set-channel-preferences>` documentation for details.
 ```
 
-Note that the filename extension is not part of the construct. On output, the link looks like this: "For more information about integrating with Mattermost, see :doc:`../overview/integrations`." The Sphinx processor pulls in the title of the document to use as the link text.
+Note that the file extension is not part of the syntax, and that two underline characters are missing. Sphinx uses the title of the document as the link text.
 
-The `:ref:` role is a two-part construct. One part is the link itself, and the other part is the target. The target has the following form, and should precede a section title:
+In Sphinx, references are constructed using roles, and roles point to locations in the documentation set. The two roles that are relevant in Mattermost documentation are the `:doc:` role and the `:ref:` role. In both cases, the HTML output is a relative URL for the target location.
+
+- The `:doc:` role is used for creating relative links to other documents. 
+- The `:ref:` role is used for creating relative links to arbitrary locations within the documentation set, including within the same document, based on a unique identifier specified at the top of a source file. The `:ref:` role is a two-part construct. One part is the link itself, and the other part is the target on the source page.
+
+  - The link itself is specified as: :ref:`arbitrary-text-label`
+  - The target is added as the first line of the source page (preceding the title): `.. _arbitrary-text-label:`
+
+##### Link to a section heading on the current page
+
+To create a link to a section heading on the current page, identify the unique anchor ID assigned to the section title in a local build, a remote build, or within production, then use the following formatting:
 
 ```text
-  .. _arbitrary-text-label:
+`Link display text <#uniqueanchorID>`__
+```
 
-### Bullet Lists
+### Bullet lists
 ```
 
 To generate a link to the section, use the `:ref:` role as follows:
@@ -525,6 +564,87 @@ The following example is a block of Go code.
       }
 ```
 
+### Archive documentation pages
+
+When a documentation page is no longer needed, that page should be archived. Archiving a page prevents that page from being included in the build altogether.
+
+To archive a documentation page:
+
+1. Identify where you want the reader to go instead of the page that's being archived.
+2. Move the source file to the `/source/archive` folder.
+3. (RST files only) In the file you just moved to the `archive` folder, add `:nosearch:` at the top of the file (above any anchor identifier, title, or code comment present in the file). This prevents the documentation page from being returned in search results.
+4. Add a redirect to the `conf.py` file from the archived page to a new destination page.
+5. Search for and replace any links across the documentation set to the archived file, including LHS, landing pages, and paragraph-level links.
+
+### Silence `not in toctree` build warnings
+
+When working and building the documentation locally in a development environment, writers can review build warnings and errors in the `/build/warnings.log` file. Build warnings and errors can include (but aren't limited to):
+
+- broken links
+- documentation pages missing from the LHS unintentionally
+- syntax and formatting issues
+
+As part of monthly documentation release cycles, technical writers review and take action on build warnings and errors reported. 
+
+To silence warnings for RST documentation pages that are missing from the LHS unintentionally, add `:orphan:` at the top of the file (above any anchor identifier, title, or code comment present in the file). The next time the product documentation is built, that warning is silenced. (A documentation page can contain both `:nosearch:` and `:orphan:`, and these two directives can be listed in either order).
+
+### Stop a documentation page from being returned in search results
+
+Some documentation pages should never be returned in search results, including:
+
+- Archived pages.
+- Unofficial documentation pages. All unofficial product documentation should live within the [Mattermost Discussion Forums](https://forum.mattermost.com/c/docs/37). 
+- Pages that exist only to be included on other documentation pages. These pages often don't provide enough context to be useful if accessed directly.
+
+To prevent RST documentation pages from being returned in search results, add `:nosearch:` at the top of the file (above any anchor identifier, title, or code comment present in the file. (A documentation page can contain both `:nosearch:` and `:orphan:`, and these two directives can be listed in either order).
+
+### Add code comments
+
+Adding code comments to documentation source files helps contributors understand why specific decisions were made or what additional knowledge is required when working within a specific source file. For example, if a documentation page isn't accessible in the LHS by design, adding a code comment in the source file helps future contributors understand that it was an intentional decision.
+
+In RST files, format code comments as `.. Code comment text here`. Code comment text isn't visible to users in the published product documentation.
+
+### Embed videos on documentation pages
+
+To accommodate the many ways that people learn, its helpful to include visual elements, such as videos, in the Mattermost product documentation. The process and code needed to embed a video on a documentation page differs depending on how the video is hosted. Mattermost typically hosts product videos through either YouTube or Wistia (and Wistia is preferrable over YouTube, when available, because viewers aren't subject to ads).
+
+#### Embed a YouTube video on a documentation page
+
+1. Obtain the YouTube video link.
+2. The code to embed the video consists of two parts: a paragraph-level link and iframe code. Copy the code below into the documentation source file, then update the introduction text and replace the `YouTubeVideoLink`.
+
+```text
+See our `tutorial video on YouTube <https://www.youtube.com/watch?v=YouTubeVideoLink>`_. 
+
+.. raw:: html
+
+   <div style="position: relative; padding-bottom: 50%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+      <iframe src="https://www.youtube.com/embed/YouTubeVideoLink" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 95%;"></iframe>
+   </div>
+```
+
+#### Embed a Wistia video on a documentation page
+
+1. Request the [Wistia inline embedded code snippet](https://wistia.com/support/embed-and-share/media-on-your-website#inline-embeds) from the video producer. 
+2. Copy and paste the code you receive into the documentation source file. The code you receive will look similar to the following example:
+
+```text
+.. raw:: html
+
+  <script src="https://fast.wistia.com/embed/medias/5gjgi10rr0.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_5gjgi10rr0 videoFoam=true" style="height:100%;position:relative;width:100%"><div class="wistia_swatch" style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;"><img src="https://fast.wistia.com/embed/medias/5gjgi10rr0/swatch" style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true" onload="this.parentNode.style.opacity=1;" /></div></div></div></div>
+```
+
+### Plan and deployment badges
+
+Most Mattermost product documentation pages feature plan and deployment badges located directly under the page title or section title. These badges indicate:
+
+- The Mattermost subscription plans that support the feature or function. Options include **All Plans**, **Enterprise**, and **Professional**.
+- The Mattermost deployment approach that supports the feature or function. Options include **Cloud** or **Self-Hosted**
+
+These badges are defined on a per-page basis as inline images located close to the top of the source file. Please be careful to avoid making changes to the badge code when modifing other aspects of the documentation page.
+
+Note that, longer term, it would be ideal to replace the current badge implementation with a more programmatic solution where the badges are defined once and simply referenced across all applicable documentation pages.
+
 ## Using Markdown
 
-The majority of Mattermost technical documentation is written in `.rst`. However, there are some instances where Markdown is used, for example the Mattermost Handbook. You can read more about using Markdown in the [Formatting Text](https://docs.mattermost.com/messaging/formatting-text.html) section of the Mattermost product documentation.
+The majority of Mattermost technical documentation is written in `.rst` format. However, there are some instances where Markdown is used, for example the Mattermost Handbook. You can read more about using Markdown in the [Formatting Text](https://docs.mattermost.com/messaging/formatting-text.html) section of the Mattermost product documentation.
