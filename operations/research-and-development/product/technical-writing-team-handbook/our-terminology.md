@@ -27,9 +27,15 @@ This is a work in progress with the documentation having been completed in Q1 of
 
 ## Names of things
 
+What we call our icons, features, apps, and services is inconsistent purely in terms of casing. We have kicked off a process to standardize the casing of most of the icons, features, apps, and services to write them in lowercase so proprietary ones stand out. This is currently in progress.
+
 ## Product and plan terminology
 
-"Mattermost sells subscription plans for both cloud and self-hosted deployment. Self-hosted deployments will need to upload a license file to activate the subscription."
+The way we refer to our product and services is: "Mattermost sells subscription plans for both cloud and self-hosted deployment. Self-hosted deployments will need to upload a license file to activate the subscription."
 
-All of our products are subscription plans. However, our self-hosted deployments also require a license file which is downloaded during the purchase process.
+All of our products are subscription plans. However, our self-hosted deployments also require a license file which is downloaded during the purchase process. This is the only difference between the two.
+
+Currently our UI refers to "Subscriptions" for Cloud and "Licenses" for self-hosted. This will be adjusted to bring the messaging into alignment.
+
+
 
