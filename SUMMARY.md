@@ -67,7 +67,7 @@
     * [Security Operations](/operations/research-and-development/organization/security_operations.md)
   * [Product](operations/research-and-development/product/README.md)
     * [Product planning](operations/research-and-development/product/product-planning/README.md)
-      * [Product philosophy and orinciples](operations/research-and-development/product/product-planning/product-philosophy-and-principles.md)
+      * [Product philosophy and principles](operations/research-and-development/product/product-planning/product-philosophy-and-principles.md)
       * [Prioritization process](operations/research-and-development/product/product-planning/prioritization-process.md)
       * [Release planning process](operations/research-and-development/product/product-planning/release-planning-process.md)
       * [Roadmap views](operations/research-and-development/product/product-planning/roadmap-views.md)
