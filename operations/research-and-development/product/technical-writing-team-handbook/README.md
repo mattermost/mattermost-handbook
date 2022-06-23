@@ -14,7 +14,9 @@ Documentation and technical writing at Mattermost covers \(but isn't limited to\
   * Messaging features and functionality
 * Playbooks
 * Boards
+* Calls
 * Growth
+* Self-service
   * Customer Portal
   * Telemetry
 * Apps Framework and Marketplace
@@ -89,8 +91,8 @@ Members of the writing team have two ways to contribute to Mattermost product do
 
 Mattermost product documentation contributions can be created in one of two ways:
 
-- as a branch (applies only Mattermost staff with appropriate GitHub repository permissions)
-- as a fork (applies to all other documentation contributions)
+- As a branch (applies only Mattermost staff with appropriate GitHub repository permissions).
+- As a fork (applies to all other documentation contributions).
 
 In a GitHub documentation PR, branched contributions display using the branch name, and forked contributions display as `username/reponame:branchname` instead. While branched contributions are automatically pulled down to a local environment when you run the command `git pull` or `git fetch origin` from the command line, forked contributions must be pulled down manually.
 
@@ -178,4 +180,3 @@ If you encounter a documentation PR that should be included in a monthly documen
 4. From a terminal, run the command `git merge branchname` where `branchname` is the name of the branch you want to commit to a monthly documentation release.
 5. If there are no conflicts, you'll see the vi editor. Review the commit message, then type `:x` to save and exit. If there are conflicts, you need to resolve them on the CLI and commit them first before you can move to the next step to push remotely.
 6. Push your changes remotely by running the command `git push`.
-
