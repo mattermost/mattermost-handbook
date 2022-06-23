@@ -580,11 +580,11 @@ To archive a documentation page:
 
 When working and building the documentation locally in a development environment, writers can review build warnings and errors in the `/build/warnings.log` file. Build warnings and errors can include (but aren't limited to):
 
-- broken links
-- documentation pages missing from the LHS unintentionally
-- syntax and formatting issues
+- Broken links
+- Documentation pages missing from the LHS unintentionally
+- Syntax and formatting issues
 
-As part of monthly documentation release cycles, technical writers review and take action on build warnings and errors reported. 
+As part of monthly documentation release cycles, technical writers review and take action on build warnings and errors reported.
 
 To silence warnings for RST documentation pages that are missing from the LHS unintentionally, add `:orphan:` at the top of the file (above any anchor identifier, title, or code comment present in the file). The next time the product documentation is built, that warning is silenced. (A documentation page can contain both `:nosearch:` and `:orphan:`, and these two directives can be listed in either order).
 
@@ -593,7 +593,7 @@ To silence warnings for RST documentation pages that are missing from the LHS un
 Some documentation pages should never be returned in search results, including:
 
 - Archived pages.
-- Unofficial documentation pages. All unofficial product documentation should live within the [Mattermost Discussion Forums](https://forum.mattermost.com/c/docs/37). 
+- Unofficial documentation pages. All unofficial product documentation should live within the [Mattermost Discussion Forums](https://forum.mattermost.com/c/docs/37).
 - Pages that exist only to be included on other documentation pages. These pages often don't provide enough context to be useful if accessed directly.
 
 To prevent RST documentation pages from being returned in search results, add `:nosearch:` at the top of the file (above any anchor identifier, title, or code comment present in the file. (A documentation page can contain both `:nosearch:` and `:orphan:`, and these two directives can be listed in either order).
@@ -604,11 +604,11 @@ Adding code comments to documentation source files helps contributors understand
 
 In RST files, format code comments as `.. Code comment text here`. Code comment text isn't visible to users in the published product documentation.
 
-### Embed videos on documentation pages
+### Embed videos in product documentation
 
 To accommodate the many ways that people learn, its helpful to include visual elements, such as videos, in the Mattermost product documentation. The process and code needed to embed a video on a documentation page differs depending on how the video is hosted. Mattermost typically hosts product videos through either YouTube or Wistia (and Wistia is preferrable over YouTube, when available, because viewers aren't subject to ads).
 
-#### Embed a YouTube video on a documentation page
+#### Embed a YouTube video on a page
 
 1. Obtain the YouTube video link.
 2. The code to embed the video consists of two parts: a paragraph-level link and iframe code. Copy the code below into the documentation source file, then update the introduction text and replace the `YouTubeVideoLink`.
@@ -623,7 +623,7 @@ See our `tutorial video on YouTube <https://www.youtube.com/watch?v=YouTubeVideo
    </div>
 ```
 
-#### Embed a Wistia video on a documentation page
+#### Embed a Wistia video on a page
 
 1. Request the [Wistia inline embedded code snippet](https://wistia.com/support/embed-and-share/media-on-your-website#inline-embeds) from the video producer. 
 2. Copy and paste the code you receive into the documentation source file. The code you receive will look similar to the following example:
