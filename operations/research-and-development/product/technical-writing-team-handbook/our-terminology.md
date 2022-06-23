@@ -17,11 +17,11 @@ The [outline of the project is documented here](https://docs.google.com/document
 
 We decided to change our headings to sentence case to:
 
-* Decrease friction for contributors so they wouldn't have to "take a stab" at getting heading capitalization right.
+* Decrease friction for contributors so they wouldn't have to guess at getting heading capitalization right.
 * Bring our documentation format in line with current industry standards around readability.
 * Make our documentation easier to read.
 
-This is a work in progress with the documentation having been completed in Q1 of 2022. The scope of the project extends to the Mattermost website, developer documentation, Handbook, and integrations content. There is no date set for completion.
+This is a work in progress with documentation updates delivered in Q1 of 2022. The scope of the project extends to the Mattermost website, developer documentation, Handbook, and integrations content. There is no date set for completion.
 
 ## In-product text
 
