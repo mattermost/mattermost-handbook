@@ -23,7 +23,7 @@ The Handbook is a public-facing body of work and although it's a constantly-evol
 * **Get feedback:** Have someone from your target audience read your draft to share feedback so you can [savor surprises](../about-mattermost/mindsets.md#savor-surprises).
 * **Don't aim for perfection:** Our goal is regular iteration and so your content doesn't have to be perfect before it's published. It will be reviewed by an editor prior to publication so any major errors will be addressed then.
 
-## Getting started
+## Get started
 
 If this is your first time contributing to Mattermost, first read the [Mattermost Contributor Agreement](https://mattermost.com/mattermost-contributor-agreement/) and sign it \(at the bottom of the page\), so you can be added to the Mattermost [Approved Contributor List](https://docs.google.com/spreadsheets/d/1NTCeG-iL_VS9bFqtmHSfwETo5f-8MQ7oMDE5IUYJi_Y/pubhtml?gid=0&single=true). Please ensure the **GitHub username** field matches your GitHub username exactly, including capitalization.
 
@@ -31,7 +31,7 @@ Then, please request access to the Mattermost organization [Team:Release Channel
 
 Now you're ready to get started.
 
-### Editing an existing page
+### Edit an existing page
 
 When you edit an existing page, it's usually to add content, remove content, or edit existing content. In general it's easiest if pages are edited directly, although you're also welcome to edit files directly from the repo if that's easier for you.
 
@@ -41,7 +41,7 @@ Once a page is edited and you're happy with the changes, it's submitted as a pul
 
 When the PR is approved, it'll be merged and published. If you have more changes to make, you can simply repeat the process.
 
-#### Editing a page directly
+#### Edit a page directly
 
 This is probably the quickest way to make changes, as it doesn't require you to find the file in the repo first.
 
@@ -62,7 +62,7 @@ Multiple committers may comment on your pull request and provide edits or sugges
 
 Once the review process is complete, the change is merged and pushed live. We recommend that you review your changes at [https://handbook.mattermost.com](https://handbook.mattermost.com) for potential formatting errors.
 
-#### Editing a file in the repo
+#### Edit a file in the repo
 
 This option works best if you know where the file is located in the repo.
 
@@ -77,12 +77,11 @@ This option works best if you know where the file is located in the repo.
 9. On the next page, you can scroll down to compare changes with the original document to double-check your changes. 
 10. If you're happy with them confirm that the title and description are correct, then select **Create pull request**.
 
-## Creating new content
+## Creat new content
 
 Creating new content can take the form of a new page, or an entirely new section. Some things to keep in mind are naming conventions and that the Table of Contents entry is made manually in the SUMMARY.md file.
 
-
-### Creating a new page
+### Create a new page
 
 1. Open the [Handbook repo](https://github.com/mattermost/mattermost-handbook).
 2. Navigate through the directories until you reach the section where you'd like to add your new content.
@@ -105,7 +104,7 @@ Creating new content can take the form of a new page, or an entirely new section
 
 [Watch a two-minute training video on how to create a new page in GitHub](https://drive.google.com/file/d/12JUpEdP3uU_bPxDVWdlEZv65v1tttlQn/view?usp=sharing).
 
-### Creating a new folder
+### Create a new folder
 
 If you want to create nested content, you can create folders. You cannot create an empty folder and then add files to that folder, but rather creation of a folder must happen together with adding of at least a single file. On GitHub you can do it this way:
 
@@ -121,7 +120,7 @@ If you want to create nested content, you can create folders. You cannot create 
 10. If you're happy with them confirm that the title and description are correct, then select **Create pull request**.
 11. Add your new section to the [Handbook table of contents](https://github.com/mattermost/mattermost-handbook/blob/0.2.1/SUMMARY.md). If you plan to reorder the table of contents as part of your change, please tag @jason.blais or @justine.geffen in Mattermost \(@jasonblais or @justinegeffen in GitHub\) as a redirect may need to be set up to accommodate the change.
 
-## Frequently Asked Questions
+## Frequently asked questions
 
 ### How do I format a page?
 
@@ -147,6 +146,26 @@ Follow these two steps:
   ```text
   ![](../../../.gitbook/assets/release-timeline-jan2020.png)
   ```
+
+### Can I convert a Google Doc to Markdown?
+
+Yes! Sometimes it's easier to draft content for the Handbook in a Google Doc. An open-source Google Drive add-on called [Docs to Markdown](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607) can convert the content to Markdown. See the add-on [documentation](https://github.com/evbacher/gd2md-html/wiki) for details on installing and using this tool.
+
+Once the add-on is installed, there are a number of conversion settings you can configure. Selecting all but the **Use HTML headings/IDs** option is recommended.
+
+- To see the embedded errors and warnings, disable the **Use reckless mode** option.
+- To see all conversion details, disable the **Suppress info comment** option.
+
+The resulting Markdown code isn't perfect, but it's an excellent initial step towards preparing a PR for the Mattermost Handbook. Review the following areas of converted code:
+
+- Embedded images must be saved out as files, added to appropriate image folders, and links need to be added to point to correct locations.
+  - If the doc contains screenshots or other image assets, right-click on the embedded image in the Google Doc, then select **Save to Keep**.
+  - In the right pane, right-click on the image in the **Keep list**, then select **Save Image As**. Rename the image file as needed to match the Markdown code.
+
+- Images need to live in the `.gitbook/assets` folder and must use a relative link in the source file.
+- Numbered lists and nested lists likely need corrections.
+- Many lines end in a `/` which need to be removed.
+- ALT tags are added as `alt_text` for all images. Update the ALT tag to be more descriptive, or remove it altogether.
 
 ## Training video
 
