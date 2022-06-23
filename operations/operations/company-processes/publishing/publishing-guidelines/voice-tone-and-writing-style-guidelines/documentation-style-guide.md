@@ -1,4 +1,4 @@
-# Documentation Style Guide
+# Documentation style guide
 
 Mattermost documentation is presented in various forms. We have product documentation, a Handbook, API guides, developer documentation, in-product copy, and microcopy. While there are different audiences for all these bodies of work, there are some guiding principles that should be applied to all our content.
 
@@ -639,7 +639,7 @@ See our `tutorial video on YouTube <https://www.youtube.com/watch?v=YouTubeVideo
 Most Mattermost product documentation pages feature plan and deployment badges located directly under the page title or section title. These badges indicate:
 
 - The Mattermost subscription plans that support the feature or function. Options include **All Plans**, **Enterprise**, and **Professional**.
-- The Mattermost deployment approach that supports the feature or function. Options include **Cloud** or **Self-Hosted**
+- The Mattermost deployment approach that supports the feature or function. Options include **Cloud** or **Self-hosted**.
 
 These badges are defined on a per-page basis as inline images located close to the top of the source file. Please be careful to avoid making changes to the badge code when modifing other aspects of the documentation page.
 
