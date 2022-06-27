@@ -1,6 +1,6 @@
 # How to update the handbook
 
-## Who can update update the Handbook?
+## Who can update the Handbook?
 
 Contributions from everyone, from staff members to community members, are welcome. You don't have to work at Mattermost to submit an update or fix something that's caught your eye.
 
