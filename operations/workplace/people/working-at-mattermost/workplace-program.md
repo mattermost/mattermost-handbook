@@ -38,7 +38,7 @@ Coming soon! Trivia Hours are being formalized at: [https://github.com/mattermos
 
 At Mattermost, we like to share celebrations of life milestones and sympathy with our team members!
 
-If you know someone who is either:
+If you know a Mattermost team member who is either:
 
 * Celebrating a special milestone such as wedding engagements, weddings, and childbirth; or
 * Undergoing a major life event such as the passing of a family member/significant other, or is injured, ill, or hospitalized
@@ -51,4 +51,6 @@ Remember them with a gift to show you have them in your mind. You can request to
 * All gifts will be sent to the address on file on their BambooHR profile.
 * Before submitting a request, please confirm with the team member that their shipping address and phone number is currently up to date on their BambooHR profile, and ask them to update it if it is not current.
 * Note that if someone is hospitalized, we send the sympathy gift to the hospital if we know the location.
+* Any Mattermost team member can request on the Celebration and Sympathy Gifts Request form.
+* Popular vendors we use are Harry and Davids, Amazon and international gift basket websites.
 
