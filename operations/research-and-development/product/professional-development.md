@@ -1,6 +1,8 @@
 # Professional Development Tracks
 
-This page outlines professional development tracks available to all product team members (Product Managers, Product Designers, Technical Writers, and Product Analytics Engineers)
+This page outlines professional development tracks available to all product team members (Product Managers, Product Designers, Technical Writers, and Product Analytics Engineers). 
+
+The courses listed below are suggestions and not all have been validated.  Some topics do not currently have a suggested course yet. If you take a class that is useful, please consider adding it to this list. 
 
 ## Objective: 
 
