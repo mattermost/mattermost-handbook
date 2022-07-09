@@ -23,7 +23,7 @@ Have you encountered an issue while deploying or using Mattermost that you’d l
 ### Report a Boards bug
 Have you encountered an issue while deploying or using Mattermost Boards that you’d like to report?
 
-1. Search our [Github issues](https://github.com/mattermost/focalboard/issues) to see if anyone else has already reported the issue. If so, show your support by commenting on the issue, and share any additional information you might have.
+1. Search our [GitHub issues](https://github.com/mattermost/focalboard/issues) to see if anyone else has already reported the issue. If so, show your support by commenting on the issue, and share any additional information you might have.
 2. If the issue is a security vulnerability, please review our [Responsible Disclosure Policy](https://mattermost.com/security-vulnerability-report/) to ensure our users stay safe.
 3. If the first two steps don’t apply, you can [create a new issue](https://github.com/mattermost/focalboard/issues/new/choose) on the Boards Server GitHub repository. Please fill out all sections in the Issue template.
 
