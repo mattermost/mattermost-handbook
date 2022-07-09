@@ -29,7 +29,7 @@ Have you encountered an issue while deploying or using Mattermost Boards that yo
 
 ## Translation and localization
 
-Mattermost UI translations and localization are handled on [Weblate](https://translate.mattermost.com/projects/mattermost/). Anyone is welcome to sign up for an account and start contributing! If you have questions, join the Localization channel on the [Mattermost community server](https://docs.mattermost.com/guides/community-chat.html).
+Mattermost UI translations and localization are handled on [Weblate](https://translate.mattermost.com/projects/mattermost/). Anyone is welcome to sign up for an account and start contributing! If you have questions, join the Localization channel on the [Mattermost community server](https://community.mattermost.com/core/channels/localization).
 
 ## Contribute code
 
