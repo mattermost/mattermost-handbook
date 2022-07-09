@@ -19,7 +19,9 @@ We don't expect a huge body of documentation or that it's perfectly-written - bu
 
 The supplied content can be provided informally, in bullet points, or rough notes in a Google Doc/on the PR itself. Refinements are made collaboratively.
 
-**Feature documentation MVP \(PMs\)**
+### Feature documentation MVP \(Product Managers\)
+
+A [Mattermost PM feature template](https://docs.google.com/document/d/16SRPKFWEtwPILQ0zNGbApbp9atICTfzgdTFuvYqSZAg/edit) is available to help Product Managers and Techical Writers capture details about new features and functionality that need product documentation.
 
 This is a guideline of what MVP feature documentation can include. Requirements vary based on the scope of the change, so not everything will always be needed:
 
