@@ -118,7 +118,7 @@ Community Coordinator: Jason Blais and Amy Blais
 
 ### UX Design contributors
 
-UX Design contributors influence the design of the Mattermost user experience through discussion in the `ux-design` channel on the Mattermost continous integration server at [https://community.mattermost.com/core/channels/ux-design](https://community.mattermost.com/core/channels/ux-design) and through contributions to the [Mattermost User Experience Guidelines](https://docs.mattermost.com/developer/fx-guidelines.html) on [GitHub](https://github.com/mattermost/docs/blob/master/source/developer/fx-guidelines.rst).
+UX Design contributors influence the design of the Mattermost user experience through discussion in the `ux-design` channel on the Mattermost continous integration server at [https://community.mattermost.com/core/channels/ux-design](https://community.mattermost.com/core/channels/ux-design) and through contributions to the [Mattermost User Experience Guidelines](https://zeroheight.com/29be2c109/p/36db8f-why-compass) on [GitHub](https://github.com/mattermost/docs/blob/master/source/developer/fx-guidelines.rst).
 
 Community Coordinator: Andrew Brown
 
