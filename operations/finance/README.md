@@ -17,12 +17,13 @@ Email:
 ## The team
 
 * [Tim Quock](https://community.mattermost.com/core/messages/@tim.quock) - VP of Finance
+* [Elad Rosenberg](https://community.mattermost.com/core/messages/@elad.rosenberg) - Director of Finance
 * [Ben Graham](https://community.mattermost.com/core/messages/@ben.graham) - Senior Manager, Accounting
 * [Isabel Alorro](https://community.mattermost.com/core/messages/@isabel.alloro) - Accounting Lead
 * [Jeff Ho](https://community.mattermost.com/core/messages/@jeff.ho) - Accountant
-* [Jeff Dynda](https://community.mattermost.com/core/messages/@jeff.dynda) - Jr. Staff Accountant
+* [Jeff Dynda](https://community.mattermost.com/core/messages/@jeff.dynda) - Senior Accountant
 * [Daniel Sischy](https://community.mattermost.com/core/messages/@daniel.sischy) - IT Manager
-* 
+
 ## AORs
 
 * For inquiries regarding customer invoices, sales commissions and payroll \(all entities\), please reach out to [Tim Quock](https://community.mattermost.com/core/messages/@tim.quock).
@@ -62,4 +63,3 @@ Prior to February 1, 2019, our fiscal year ended on September 30. Following year
 | 2022 | Feb 1, 2021 | Jan 31, 2022 | 12 |
 
 We originally had a fiscal year end of September 30 when we were a video game company so we could do our taxes in the fall, when tax accounting firms had more capacity versus in the spring.
-

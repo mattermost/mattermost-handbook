@@ -1,4 +1,4 @@
-# Technial Writer Levels
+# Technical Writer Levels
 
 These levels serve to help Technical Writers assess their opportunities for career growth in the Techncial Writing function. The levels below follow a growth track in the art and craft of Technical Writing and not in a person management track.
 
@@ -23,11 +23,12 @@ These levels serve to help Technical Writers assess their opportunities for care
 | Self-Awareness | Interaction: "Who relies on me?"<br><br>Iteration: "How do I improve myself and others?"<br><br>*Self-awareness yields an ability to seamlessly fit into any conversation or effort, interacting with a group to work towards the best possible outcome and always iterating towards the best possible outcome.* | Regularly participates in team discussions for ongoing feature work. May lead discussions on smaller topics.<br><br>Actively seeks out tasks and projects that work towards opportunities for growth. |
 
 ### Level 3: Technical Writer II
+
 | Leadership Principle | Competencies | Level Expectations |
 |---|---|---|
 | Ownership | Scope: "What do I work on?" <br><br>*Scope is the domain over which you are expected to show ownership.* | Designs, leads and delivers high impact information architectures, in-product text, and documentation improvements across their area of ownership.	 |
 | High-Impact | Supervision: "How much do I rely on my manager?"<br><br>Community: "How do others work with me?"<br><br>*The need to receive supervision is inversely related to the instinct to choose what is high-impact.* | Receives general instruction on new assignments or unfamiliar tasks.<br><br>Participates in cross-functional groups towards building significant new functionality. |
-| Earn Trust | Influence: "Who do I work with?"<br><br>*As more people and parts of the organization earn your trust, your influence grows.* | Work directly with Product, UX, Engineering, GTM, Operations, and Community to proactivly seek input and deliver on commitments.	 |
+| Earn Trust | Influence: "Who do I work with?"<br><br>*As more people and parts of the organization earn your trust, your influence grows.* | Work directly with Product, UX, Engineering, GTM, Operations, and Community to proactively seek input and deliver on commitments.	 |
 | Customer Obsession | Customer Impact: "How do I bring value?"<br><br>*Community spans both open-source and enterprise, but ultimately manifests in the same obsession for enabling customers to be successful.* | Can navigate moderately complex decisions and thought process about how features and implementations bring customer value, and can make decisions in these areas independently. Starts to understand and contribute to cross-feature and/or cross-team implications of customer impact.	|
 | Self-Awareness | Interaction: "Who relies on me?"<br><br>Iteration: "How do I improve myself and others?"<br><br>*Self-awareness yields an ability to seamlessly fit into any conversation or effort, interacting with a group to work towards the best possible outcome and always iterating towards the best possible outcome.* | Drops fluidly into team projects, ramps quickly and leads initiatives to successful outcomes. Leads discussions on small and mid-size topics. Participates actively in discussion and efforts that cross teams (PM, GMT, Operations, Engineering, UX). <br><br> Actively seeks out tasks and projects that work towards opportunities for growth. |
 
@@ -42,6 +43,7 @@ These levels serve to help Technical Writers assess their opportunities for care
 | Self-Awareness | Interaction: "Who relies on me?"<br><br>Iteration: "How do I improve myself and others?"<br><br>*Self-awareness yields an ability to seamlessly fit into any conversation or effort, interacting with a group to work towards the best possible outcome and always iterating towards the best possible outcome.* | Drops fluidly into team projects, ramps quickly and leads features to successful outcomes. Leads discussions on small and mid-size topics. Participates actively in discussion and efforts that cross teams (PM, GMT, Operations, Engineering, UX). <br><br>Proactively identifies opportunities for growth, intentionally taking on unfamiliar tasks. |
 
 ### Level 5: Senior Technical Writer
+
 | Leadership Principle | Competencies | Level Expectations |
 |---|---|---|
 | Ownership | Scope: "What do I work on?" <br><br>*Scope is the domain over which you are expected to show ownership.*  | Sets and delivers vision for documentation architecture and high impact features to improve technical writing experiences across all product lines.	 |

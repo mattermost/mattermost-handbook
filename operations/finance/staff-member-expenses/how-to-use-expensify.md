@@ -203,9 +203,9 @@ It’s important to note that an expense report approved by your manager does no
 
 If you are located in the United States, you are required to set up your banking account information so that you can receive a direct deposit of reimbursable funds to your account.
 
-### Open World Services \(OWS\)
+### Canada
 
-If you are located in Canada or employed through OWS, you will receive reimbursement via OWS. All reports once Final Approved should be downloaded and submitted to Cindy Hindley `cindy@openworldservices.net`
+If you are located in Canada please submit your expense reports on the 5th and 20th of every month, so that you can be reimbursed on the 15th and the last day of each month. Submissions made on the 5th will be reimbursed on the 15th and submissions made on the 20th will be reimbursed on the last day of each month. The primary reason for this is to give your manager time to review and for Finance to be able to review expenses for proper classification and timely submission to our accounting team in the Canada.
 
 ### United Kingdom and Germany
 
@@ -213,5 +213,7 @@ If you are located in either the United Kingdom or Germany, please submit your e
 
 ### Rest of World \(ROW\)
 
-For everyone else, follow [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/how-to-get-paid) to set up your banking credentials. If you have questions, the [Accounts Payable Team](mailto:ap@mattermost.com) is here to support.
+If you are located outside the US, Canada, UK and Germany, follow [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-on-board-as-a-vendor/how-to-get-paid) to set up your banking credentials. If you send invoices to the company for your payroll or if your payroll is processed through Deel, expenses reimbursements will be made on Accrualify on the 15th and last day of the month. The currency that you will be paid is dependent on the currency that was agreed upon between you and Mattermost in your employment contract.
+
+If you have questions, the [Accounts Payable Team](mailto:ap@mattermost.com) is here to support.
 

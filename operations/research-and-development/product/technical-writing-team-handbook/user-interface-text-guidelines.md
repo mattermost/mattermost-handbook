@@ -42,6 +42,24 @@ In general, this content is either:
 * An actionable button which leads to a process
 * Triggered because something happened
 
+## Writing for inclusion and diversity
+
+This section is being built out. In the meantime, please consult [this page](https://writer.com/inclusion-glossary/) for the type of guidelines we follow when writing with inclusion and diversity in mind.
+
+If you have any questions about writing for inclusion and diversity, or notice something we can improve, please tell us! You can find us on Mattermost in the [DWG: Documentation Working Group](https://community.mattermost.com/core/channels/dwg-documentation-working-group) channel.
+
+## Accessibility
+
+This section is being built out. In the meantime, here are some of the things we take into account when writing content:
+
+- [ALT tags](https://docs.google.com/document/d/1AKY1iEkN6iDwJbsHQ-vcEkJvjtLKmq0pKYDwKLmSffs/edit)
+- Colors used on-screen
+- Plain and clear language
+
+Take a look at [this article](https://www.invisionapp.com/inside-design/writing-accessible-microcopy/) for some more information on accessibility. 
+
+Have any ideas or feedback? You can find us on Mattermost in the [DWG: Documentation Working Group](https://community.mattermost.com/core/channels/dwg-documentation-working-group) channel.
+
 ## Messaging guidelines
 
 Don’t blame the user. Inform them about what happened, explain why it happened, and suggest a way forward. Try to use complete sentences in your messages. A sentence phrase \(an incomplete sentence\) might make sense in English but could present internationalization challenges.
@@ -100,6 +118,16 @@ An error message informs the user that something went wrong. Errors prevent the 
 ## In-product copy
 
 The Technical Writers often work with the UI/UX team on in-product copy. The majority of guidelines are available in the [Mattermost Compass Design System](https://zeroheight.com/29be2c109/p/995619-compass-design-system).
+
+### How we make in-product text changes
+
+While its possible to manage in-product text changes using GitHub web tools, writers may find it more straightforward to clone each of the main Mattermost repositories, including [webapp](https://github.com/mattermost/mattermost-webapp), [server](https://github.com/mattermost/mattermost-server), [mobile](https://github.com/mattermost/mattermost-mobile), and [desktop](https://github.com/mattermost/desktop), and work through text changes in a local development environment instead. 
+
+Making an in-product text change starts with identifying which repository, and where in the product code, a change is needed. Many in-product strings live in the `mattermost/webapp/i18n/en.json` or `mattermost/server/i18n/en.json` English translation files. However, some strings may additionally live within product code too. You may need to update both `.json` and `.tsx` files. QA can help apply updates to impacted SNAP or E2E files.
+
+If TSX files are impacted by an in-product change, run the command `npm run updatesnapshot ./directory-or-file` to capture any TXS changes within the `en.json` file. Run this command against multiple files by separating files with spaces: `npm run updatesnapshot -i ./path_to_test.txt_file ./path_to_test.txt_file ./path_to_test.txt_file`
+
+If E2E tests are failing during PR reviews, reach out for assistance from either the team who initiated the feature or the SDET, QA team. Then, add the **QA Needed** label for all in-product text change PRs. If you know the QA team member based on the affected product area, add them as a QA reviewer, otherwise mention the QA Lead in the PR notes.
 
 ### How we write things (WIP)
 

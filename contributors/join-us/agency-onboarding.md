@@ -24,7 +24,7 @@ Each of the openings have their own application questions. You can find them on 
 
 Please provide detailed information on how this candidate matches each of the requirements of the job description (bullet by bullet).
  
-## Hiring Across the Globe
+## Hiring across the globe
 
 We currently support hiring in the following countries/regions:
 
@@ -38,8 +38,9 @@ AZ CA CO FL GA IN KS MA MD MI MO NC NJ NV NY OK SC TN TX UT VA WA WI
 
 Preparing to hire an employee in a new state takes time, and we may be subject to new regulations, taxes, and reporting obligations. If a candidate is progressing in the interview process and would be living and working from a U.S. state not listed above, the Recruiter will DM finance with the state and the title of the position the candidate may fill at least three weeks prior to an anticipated offer.
 
-# How to Communicate with Mattermost 
-Once a contract has been signed, agencies will be invited to join our Mattermost Community and Lever, our Applicant Tracking System. These two systems are the easiest and most ideal method to communicate because it helps maintain a high-level of collaboration and feedback with our Mattermost hiring team, including specific Hiring Managers.   
+# How to communicate with Mattermost
+
+Once a contract has been signed, agencies will be invited to join our Mattermost Community and Lever, our Applicant Tracking System. These two systems are the easiest and most ideal method to communicate because it helps maintain a high-level of collaboration and feedback with our Mattermost hiring team, including specific Hiring Managers.
 
 ## Sign up to Mattermost
 
@@ -53,11 +54,11 @@ You should have an invite on your inbox. We hope you find it very intuitive and 
  
 **Important note:** Make sure to add the candidate´s location and email address. We will handle the communication with them, and you will be automatically cc´d in all the email exchanges.
  
-## Salary Information
+## Salary information
 
 Please send your recruiter a separate email with the candidate's salary expectations (gross p/year). We only use email and Lever to share candidate salary information. Please help us keep this type of data **confidential**. Your Recruiter will let you know if expected salary is within range ahead of proceeding with any internal interviews. 
  
-### How we pay:
+### How we pay
 
 - US: Full time employees (USD and equity)
 - Canada: Full time employees (CAD and equity), pay-checks are run by an agency. All other benefits are directly with Mattermost.

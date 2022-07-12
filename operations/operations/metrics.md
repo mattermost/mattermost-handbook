@@ -1,22 +1,22 @@
 # MLT Metrics
 
-This section outlines metric definitions maintained by finance for reporting to investors. 
+This section outlines metric definitions maintained by finance for reporting to investors.
 
-1. These are metrics for MLT discussions
-   1. Any metrics shared by a department with the MLT will be asked to work with business operations to define the metric to be listed on this page under standardized naming and MLT definition checklist 
-2. Definitions center around ARR, GMA Magic Number and NPS
+1. These are metrics for MLT discussions.
+   1. Any metrics shared by a department with the MLT will be asked to work with business operations to define the metric to be listed on this page under standardized naming and MLT definition checklist.
+2. Definitions center around ARR, GMA Magic Number, and NPS.
 
-MLT definitions checklist 
+MLT definitions checklist
 
 1. Qualifiers precede metrics names
-   1. i.e. use ""Gross Margin Adjusted Magic Number" instead of "Magic Number, Gross Margin Adjusted" to avoid ambiguity when label names are truncated 
-2. Metric names should only have one possible interpretation 
-3. All MLT Metrics should have a unique acronym shorter than 8 characters 
-   1. Metrics will inevitably be shortened, pre-emptive definition avoids collision 
+   1. i.e. use ""Gross Margin Adjusted Magic Number" instead of "Magic Number, Gross Margin Adjusted" to avoid ambiguity when label names are truncated.
+2. Metric names should only have one possible interpretation.
+3. All MLT Metrics should have a unique acronym shorter than 8 characters.
+   1. Metrics will inevitably be shortened, pre-emptive definition avoids collision.
 
 ## ARR
 
-### **Revenue Metrics**
+### Revenue Metrics
 
 _50% complete_
 
@@ -43,17 +43,17 @@ _50% complete_
 
 _10% complete_
 
-* **Total Active Users**: The total number of user accounts created on a single Mattermost server. Excludes deactivated accounts, deleted accounts and bot accounts. This is also the “Total Active Users” measure shown in **System Console &gt; Site Statistics**.
+* **Total Active Users**: The total number of user accounts created on a single Mattermost server. Excludes deactivated accounts, deleted accounts and bot accounts. This is also the “Total Active Users” measure shown in **System Console > Site Statistics**.
 * **Registered Authorized Users**: Same as **Total Active Users**.
 * **Total Registered Users**: The total number of user accounts created on a single Mattermost server, including deactivated and deleted accounts.
-* **DAU**: _Daily Active Users:_ The total number of users who viewed the Mattermost site in the last 24 hours. Excludes bot accounts. This is also the “Daily Active Users” measure shown in **System Console &gt; Site Statistics**.
+* **DAU**: _Daily Active Users:_ The total number of users who viewed the Mattermost site in the last 24 hours. Excludes bot accounts. This is also the “Daily Active Users” measure shown in **System Console > Site Statistics**.
 * **TEDAU:** _Telemetry Enabled Daily Active Users:_ The total number of users averaged over the last 7 days, who viewed the Mattermost site in the last 24 hours from servers that have “Error Reporting and Diagnostics” or “Security Alert” enabled in System Console, and send telemetry “activity data” \(such as number of users\). Excludes bot accounts.
-* **MAU**: _Monthly Active Users:_ The total number of users who viewed the Mattermost site in the last 30 days. Excludes bot accounts. This is also the “Monthly Active Users” measure shown in **System Console &gt; Site Statistics**.
+* **MAU**: _Monthly Active Users:_ The total number of users who viewed the Mattermost site in the last 30 days. Excludes bot accounts. This is also the “Monthly Active Users” measure shown in **System Console > Site Statistics**.
 * **Active User Count**: A measure of the number of active users last 24 hours. **Legacy measure, do not use this for analysis or decision-making.**
 
 ## GMA Magic Number
 
-### **Gross Margin Metrics**
+### Gross Margin Metrics
 
 _1% complete_
 
@@ -63,7 +63,7 @@ _1% complete_
   * **Net Sales Revenue:** 
   * **Cost of Goods Sold:** 
 
-### **Website Traffic**
+### Website traffic
 
 _50% complete_
 
@@ -71,12 +71,12 @@ _50% complete_
   * **Organic Web Traffic:** Monthly unique visitors to \*.mattermost.org, \*.mattermost.com who originate from non-paid sources.
   * **Organic Search Traffic:** Monthly unique visitors to \*.mattermost.org, \*.mattermost.com who originate from an organic Google search.
 
-### **Qualified Leads**
+### Qualified Leads
 
 _1% complete_
 
-* **Enterprise Trial Requests:** Number of trial license requests via [https://mattermost.com/trial](https://mattermost.com/trial) from Named Accounts or Enterprises with 5,000+ employees, in America, EMEA, Australia or Japan.
-* **Enterprise Contact Us Requests:** Number of contact us requests via [https://mattermost.com/contact-us](https://mattermost.com/contact-us) from Named Accounts or Enterprises with 5,000+ employees, in America, EMEA, Australia or Japan.
+* **Enterprise Trial Requests:** Number of trial license requests via [https://mattermost.com/trial](https://mattermost.com/trial) from Named Accounts or Enterprises with 5,000+ employees, in America, EMEA, Australia, or Japan.
+* **Enterprise Contact Us Requests:** Number of contact us requests via [https://mattermost.com/contact-us](https://mattermost.com/contact-us) from Named Accounts or Enterprises with 5,000+ employees, in America, EMEA, Australia, or Japan.
 * **MQL:** _Marketing Qualified Lead:_ 
 * **PQL:** _Product Qualified Lead:_ Installed free TE/E0 version from a Target Account interested in EE features.
 
@@ -103,7 +103,7 @@ _50% complete_
   * **System Admin Product NPS**: The Product NPS calculated among System Admins only.
   * **EE Product NPS:** The Product NPS calculated among all users in licensed E10 or E20 servers only.
 
-### Customer Success
+### Customer success
 
 _1% complete_
 
@@ -120,11 +120,8 @@ _1% complete_
 
 For technical analytics definitions not covered here, see the [Analytics Playbook](https://docs.google.com/document/d/1__65LymlUfXLzOiSKD-G56j16Jlx1fRaIu714s3yxDU/edit#heading=h.sowg5wp7n9lk).
 
-### Best Practices
+### Best practices
 
 To be added.
 
-
-
 DRI for this page is Jason Blais
-

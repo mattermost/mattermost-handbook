@@ -23,3 +23,4 @@ You can write and publish your recipe using any channel you're comfortable with.
 Another option is to publish your recipe in the Mattermost Forum. While it's not possible for other users to edit your post, they can comment and provide feedback.
 
 Both options offer a platform for collaboration.
+

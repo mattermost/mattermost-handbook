@@ -4,18 +4,17 @@
 
 ### Objective: Get a good idea of what your first few weeks and months at Mattermost will be. 
 
-
-### Activities:
+### Activities
 
 * Meet with direct manager
   * Review your area of ownership and team members
     * [Product Areas of Ownership](/operations/research-and-development/product/product-management-team-handbook/product-ownership-areas)
-    * [R&D Org](https://handbook.mattermost.com/operations/research-and-development/organization)
+    * [R&D Org](/operations/research-and-development/organization)
   * Get added to key organization and team meetings
   * Get 1:1 set up for the next few weeks for frequent check-ins
   * Review the onboarding plan for first 90 days
 
-* HR Paperwork & Logistics 
+* HR Paperwork & Logistics
 
 * Look at the product with “fresh eyes”
   * Install Mattermost on your laptop, go through the steps of setting it up
@@ -26,8 +25,7 @@
 
 ### Objective: Get an introduction to product, customers, team members, resources, and  processes
 
-
-### Training focus:
+### Training focus
 
 * Introduction to our Customer Obsession Principle
 * Introductions to team members through 1-1s
@@ -36,13 +34,13 @@
 * Introduction to key resources
 * Introduction to key processes
 
-### Training outcomes:
+### Training outcomes
 
 * Post introduction to PM team to GTM teams. Request to join customer calls
 * Get access to key tools \(Jira, Github\)
 * Open your first pull request in Github for an improvement to docs.mattermost.com or in-product text. 
 
-### Activities:
+### Activities
 
 Customer Obsession:
 
@@ -58,11 +56,12 @@ Customer Obsession:
 
 Team:
 
+* Join a location-specific channel (e.g. `Loc: Canada` or `Loc: US`) for region-specific updates
 * Meet your R&D team \(Developers, Designer, QA, Technical Writer\) and join team meetings
   * Ask questions to understand development, design, QA processes, and documentation processes
 * Meet with Amy \(Release Manager\) and read the release process doc
 * Meet with Ian \(CEO\) \[[https://github.com/it33/readme/blob/master/README.md](https://github.com/it33/readme/blob/master/README.md/)\). This will be scheduled for you
-* Meet other Product Managers \(Jason Blais, Eric Sethna, Katie Wiersgalla, Aaron Rothschild, Ian Tao, Chen-I Lim\)
+* Meet other Product Managers \(Jason Blais, Eric Sethna, Katie Wiersgalla, Aaron Rothschild, Ian Tao, Chen-I Lim, Neil Barnett, Winson Wun, Laney Coletti-Saracino, Don Hogan, John Lugtu\)
   * Learn about their areas of ownership
 * Participate in PM, R&D, and Customer Obsession Meetings
 * Jira
@@ -88,12 +87,11 @@ A good place to start is exploring the websites, and then start a cloud trial ac
 * [https://developers.mattermost.com](https://developers.mattermost.com/)
 * [http://github.com/mattermost](https://github.com/mattermost/)
 
-
 ## First 30 days
 
 ### Objective: Build your foundational knowledge of our company, product, and market.
 
-### Training focus:
+### Training focus
 
 * Users and customers
 * Product
@@ -103,14 +101,14 @@ A good place to start is exploring the websites, and then start a cloud trial ac
 * Team
   * People and Processes
 
-### Training outputs:
+### Training outputs
 
 * Post detailed notes from customer calls in [Salesforce](https://handbook.mattermost.com/operations/customer-success#logging-a-customer-feedback-in-salesforce)
-* Answer at least one question during the week of community support in the Mattermost [forum](https://forum.mattermost.org/)
+* Answer at least one question during the week of community support in the Mattermost [forum](https://forum.mattermost.com/)
 * Document areas of improvement you see in your area of ownership or in team's processes.  Share these with your manager. 
 * Update this onboarding document. 
 
-### Activities:
+### Activities
 
 Learn about our customers and users
 
@@ -214,17 +212,17 @@ Update this onboarding document!
 
 ### Objective: Build confidence through contribution in your area ownership
 
-### Training focus:
+### Training focus
 
 * Participate in job duties and acquire ownership of a full feature (or more). 
 
-### Training outputs:
+### Training outputs
 
 * Document detailed notes from customer calls for requirements and use cases.
 * Kick off a project with the UX, Engineering and QA. 
 * Write spec document and release announcements for your feature. 
 
-### Activities:
+### Activities
 
 * Participate in transitional projects with exiting PM owner
 * Interview customers or users for research for an upcoming project
@@ -240,21 +238,20 @@ Update this onboarding document!
 
 ### Objective: Take full ownership of responsibilities
 
-### Training focus:
+### Training focus
 
 * Own all features within the release
 * Update and maintain roadmap
 * Work directly with developers, designers, and other stakeholders to progress projects
 
-### Training outputs:
+### Training outputs
 
 * Update and share roadmap with your direct manager.
 * Respond to customers and internal stakeholders on questions relating to areas of your ownership. 
 * Prepare research and requirements for next upcoming projects. 
 
-### Activities:
+### Activities
 
 * Prepare research and queue next projects
 * Work independently with Feature team \(Dev, UX, QA\)
 * Answer questions related to the projects you have been involved in and areas of ownership within the product \(with support as needed from PM mentor\).
-

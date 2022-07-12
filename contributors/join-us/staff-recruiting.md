@@ -12,31 +12,25 @@ Hiring plans are created twice a year, and reviewed every quarter. Hiring Manage
 
 ### Role description
 
-Once you have confirmation that your new headcount has been approved, you’re ready to begin the recruitment process. Complete the [Job Description portion](https://docs.google.com/document/d/1rpTI2NKu4H_781vpx_eD9Fku7go4gGDs1P7bJAMQvAU/edit#) and share with your Recruiter, who will schedule a [Recruiter Intake Session](https://handbook.mattermost.com/contributors/join-us/staff-recruiting/recruiting-cadences.html) to review the remainder of the intake template.
+Once you have confirmation that your new headcount has been approved, you’re ready to begin the recruitment process. Complete the [Job Description portion](https://docs.google.com/document/d/1DmInqCLfGpFOP6Foynu9MB3Xl71CfcgFWxuuSEAP50U/edit) and share with your Recruiter, who will schedule a [Recruiter Intake Session](https://handbook.mattermost.com/contributors/join-us/staff-recruiting/recruiting-cadences.html) to review the remainder of the intake template.
 
-Your Recruiter is assigned based on the role and team. This may differ depending on Recruiting Team bandwidth, and will be communicated on a case-by-case basis.
-
-* Technical individual contributor roles - Teresa Novoa
-* All others - Natalie Jew
-
-#### Role leveling
-
-You can view the current [v1 Job Levels here](https://docs.google.com/spreadsheets/d/1kNsl7JUWDQ8MhWonys9dR3osrxEWYkKVIoECfFKSQzw/edit#gid=0).
-
-**Note:** HR is also working with MLT to build v2 which will help provide additional clarity. If you are unsure about how to use or assign a level to a new job requisition, your Recruiter can help you walk through this as part of the Recruiter Intake Session.
+You can find your assigned recruiter on the [FY23 Hiring Plan - Internal Only](https://docs.google.com/spreadsheets/d/1YoplwsVPrKM4CApLTpPGsO5EoN8MAb57F19KO1Q7QQs/edit#gid=0) - see Column J.
 
 ### Recruiter Intake Session
 
-Your Recruiter will schedule an Intake Session after you’ve completed your Job Description. During this call, your Recruiter will work with you to ensure alignment on the level, ideal candidate profile, the interview process, and next steps.
+Your Recruiter will schedule an Intake Session with you, Total Rewards, and a People Partner after you’ve completed your Job Description. The goal of the in-take is to have a complete Ideal Candidate Profile, Target Level for the role and assigned interviewers, and interview backups (if neeeded).
+
+#### Role leveling
+
+You can view the current [v1 Job Levels here](https://docs.google.com/spreadsheets/d/1kNsl7JUWDQ8MhWonys9dR3osrxEWYkKVIoECfFKSQzw/edit#gid=0). Levels will be finalized during the Recruiter Intake Session.
+
+**Note:** HR is also working with MLT to build v2 which will help provide additional clarity. If you're unsure about how to use or assign a level to a new job requisition, your Recruiter can help you walk through this as part of the Recruiter Intake Session.
 
 #### Ideal Candidate Profile \(ICP\)
 
 The ICP should be a clear list of key skills, experiences, and/or mindsets that the Hiring Manager believes represent the Ideal Candidate. The Hiring Manager will be asked to stack-rank the ICP list and use "P0" to indicate "must-haves" and "P1" to indicate "nice-to-have" the ideal skills, experiences, and mindsets.
 
-The ICP will be used to align the sourcing, interview panel focus areas, and onboarding goals for this new role. For example, here’s an ICP for a [Lead Customer Journey Engineer](https://jobs.lever.co/mattermost/3c1dd4ff-b135-4bb7-8b14-73c4a8cd674f). The list below reflects the top skills and experience to source for candidates, the area of focus for the interview panel, and what the eventual new hire's onboarding goals will be based on.
-
-* **P0:** 2+ years of experience leading a team of engineers.
-* **P1:** Experience as an Engineer or a Lead for a team doing front-end/UI/UX work in JavaScript, React, etc.
+The ICP will be used to align the sourcing, interview panel focus areas, and onboarding goals for this new role. For example, here’s an ICP for a [Digital Marketing Manager](https://docs.google.com/presentation/d/1nJju3ILPZBV4hm77Z7LELK_c0bClOMEdvbxXnZDhNX4/edit#slide=id.g1120f15fe91_0_184). The ICP should reflect the top skills, experience, and mindsets that are most important for successful candidates based on what a new hire's eventual onboarding goals, AORs, and projects will be.
 
 #### Changing the ICP
 
@@ -152,7 +146,7 @@ Recruiting may follow up with the Interview Panel if the [Interview Rating](http
 
 If there are multiple candidates in the pipe, the Recruiter may ask the Interview Panel to rank the candidate pool. This exercise helps clear any potential blindspots or confusion around role expectations. It also allows the Recruiting team to prioritize the highest ranking candidates to complete the interview process, as appropriate.
 
-#### As Appropriate Interviews \(AAs\)
+#### As Appropriate interviews \(AAs\)
 
 To ensure the quality bar and culture of Mattermost is strong and rising, an "As Appropriate" interview is required with a senior, tenured Mattermost staff member for any candidate before an offer can be extended.
 
@@ -162,16 +156,20 @@ The following list of people are approved as As Appropriate interviewers:
 
 * Ian Tien, CEO and co-founder for all roles outside of R&D.
 * Corey Hulen, CTO and co-founder for all roles in the R&D department including Engineers, Product Managers, and UX.
+* Dave Reardon, VP of Worldwide Sales for all BDR roles.
 
 Each AA interviewer should have at least three reserved slots per week available for AA interviews, ideally in different timezone ranges, providing capacity for 12 new hires per month per AA.
 
-**Checklist for As Appropriate Interview**
+### Checklist for As Appropriate interview
 
-24 hours before an AA interview, the candidate's Lever profile should include:
+At least 24 hours before an AA interview, the candidate's Lever profile should include:
 
-* A complete [Mid-Interview summary](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#bookmark=id.vjo02zxnnbyi).
-* Attachments of any work artifacts produced during the interview loop.
-* Compensation expectations in a SECRET note in Lever. 
+1. Completed feedback from all interviewers.
+2. Attachments of any work artifacts produced during the interview loop (e.g. presentations, coding projects, etc.).
+3. Compensation expectations and role Level in a SECRET note in Lever with a mention to either `@corey` (Corey Hulen) or `@it33` (Ian Tien).
+4. For interviews with Ian Tien, a [CEO pre-interview questionaire](https://docs.google.com/forms/d/e/1FAIpQLSfGFUN7baIFot6me_oDWTSICA_QhRFM9dBRiqBTw38uRY6XDQ/viewform) from the candidate should also be included. The AA scheduler will send the questionaire to be completed.
+
+If the Lever information is not complete, the AA interview request will not be scheduled.
 
 **Logistics**
 
@@ -186,7 +184,7 @@ Candidates may be asked to complete a take-home project as part of the interview
 All take-home projects should list the expected amount of time to complete. This provides candidates with expectation clarity. The Hiring Manager will indicate which stage of the recruiting process a take-home will be given. The process for this stage will be standard for all roles:
 
 1. Hiring Manager or Recruiter will inform the candidate of the take-home project details and ask the candidate to complete either:
-   * [CLA](https://mattermost.org/mattermost-contributor-agreement/) if the take-home project is a Community ticket.
+   * [CLA](https://mattermost.com/mattermost-contributor-agreement/) if the take-home project is a Community ticket.
    * NDA if the above doesn’t apply.
 2. Hiring Manager or Recruiter will send the candidate the take-home project instructions through Lever.
 3. Upon completion, the Hiring Manager or Recruiter will complete the [Interview Project Gift Card Form](https://docs.google.com/forms/d/e/1FAIpQLSfMppjsYmEyrMmY3tXnKdAs_cvA21o0vHRcyuVN6uFOoU3_Eg/viewform) which will notify the People Team to send a Thank You gift to the candidate for completing the project.
@@ -205,9 +203,7 @@ The order of approval will follow:
 
 1. HR Director
 2. Team MLT member
-3. CTO \(for R&D offers\)
-4. VP of Finance and Operations
-5. CEO
+3. Either CTO \(for R&D and Customer Engineer offers\) or CEO \(for all other offers\) 
 
 After offer approval, the Recruiter, Team MLT member, or AA Interviewer will extend a verbal offer to the candidate. Upon verbal acceptance, the Director of HR will send the offer letter.
 
@@ -223,6 +219,6 @@ This process will be managed by HR.
 2. Upon full execution of a new staff contract, the Recruiter will mark the candidate as **Hired** in Lever and export the profile to BambooHR.
 3. Once exported to BambooHR, an automatic New Starter Notification will be sent to the Hiring Team to kick-off the onboarding process.
 
-#### Pre-onboarding Preparation
+#### Pre-onboarding preparation
 
 New colleagues will receive pre-onboarding instructions from the People team. Hiring Managers will also need to complete [pre-onboarding activities](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/onboarding/manager-onboarding-1#onboarding).

@@ -14,7 +14,9 @@ Documentation and technical writing at Mattermost covers \(but isn't limited to\
   * Messaging features and functionality
 * Playbooks
 * Boards
+* Calls
 * Growth
+* Self-service
   * Customer Portal
   * Telemetry
 * Apps Framework and Marketplace
@@ -62,164 +64,6 @@ Once complete, submit your Pull Request \(PR\). Ensure that you assign appropria
 
 Our [Documentation Style Guide] is a guide to writing Mattermost product documentation and includes guidelines around punctuation, casing, and how to format files. We also have [a guide for writing UI copy](https://handbook.mattermost.com/operations/research-and-development/product/development-process/user-interface-text-guidelines) which includes tip, best practices, and examples.
 
-## Feature documentation process: Product Manager and Developers
-
-### Submitting feature documentation
-
-Feature documentation is a joint effort between Product Managers, Developers, and Technical Writers. In the same way that we want to empower everyone to contribute to our documentation, Product Managers are encouraged to write MVP documentation for their product/feature.
-
-Feature changes and new features first exist as code PRs. These PRs form the basis of whatever changes are being documented. If a code PR is for a new feature, major update to an existing feature, or a fix that impacts the current documentation, it's recommended that a documentation update is made. The Technical Writers work closely with their development teams to ensure that these types of changes are documented accordingly. 
-
-One way we do this is by using the `Docs/Needed` label. When a code PR is submitted, that may have documentation impact, the `Docs/Needed` label is added. The assigned writer then reviews the PR and, if there are documentation changes needed, opens a PR in the docs repo with reference to the code PR.
-
-As a developer you are also welcome to update the documentation yourself in one of the following ways:
-
-* Update the relevant page on [docs.mattermost.com](https://docs.mattermost.com), and submit a PR for that. This PR is submitted to the docs repo, reviewed by the relevant team members, and merged from there.
-* Submit your documentation as a new file, including the context and changes, any code samples, and processes. You can submit this as part of your code PR, or you can open a new PR in the docs repo and include a link to your open code PR.
-
-We don't expect a huge body of documentation or that it's perfectly-written - but rather a clear, concise outline of the change which can be added to our documentation. The content can be provided as a list, rough notes, or you can use the example below for content and structural guidance if your documentation is quite detailed.
-
-**Note:** Due to the cadence of the release cycle, feature documentation needs to be complete and submitted as [per the release process](https://handbook.mattermost.com/operations/research-and-development/product/release-process/feature-release#e-t-minus-15-working-days-judgment-day) to allow sufficient time for review and to ensure it's included in the release documentation update.
-
-The supplied content can be provided informally, in bullet points, or rough notes in a Google Doc/on the PR itself. Refinements are made collaboratively.
-
-**Feature documentation MVP \(PMs\)**
-
-This is a guideline of what MVP feature documentation can include. Requirements vary based on the scope of the change, so not everything will always be needed:
-
-* A link to the feature/product's tech spec.
-* Links to any relevant Jira/GitHub issues.
-* A description of the product/feature/update which forms the basis of the documentation.
-* Steps for any processes or procedures \(configuration of a feature, troubleshooting, etc\).
-* Any FAQs or troubleshooting questions if relevant.
-* Any limitations, issues, or known problems.
-* Configuration settings and examples for the `config.json` file if relevant.
-* \(If possible\) Suggestions of where in the docs the content should go.
-
-When the content has been refined and approved in draft format:
-
-* The Product Manager/Technical Writer creates a branch off the relevant documentation release branch.
-* The documentation is updated with the approved content in that branch.
-  * If there are multiple pages to update for a specific feature/change please keep them all in the same branch for ease of management.
-* The PR is submitted and relevant reviewers added, including an editor \(not the Technical Writer who wrote the docs\), for final review.
-  * Include the link to the server/webapp repo issue in your PR for reference purposes.
-* Once all reviews are complete, the PR is marked as **Reviews Complete** and merged into the documentation release branch by @amyblais.
-
-You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review).
-
-You can find additional guidance around formatting [here](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/documentation-style-guide#using-restructuredtext-markup-rst).
-
-Once your PR is submitted, there's a review process that includes an editorial review, a PM review, and sometimes a dev review. During the editorial review, editors may make punctuation and/or terminology changes and commit them to save time on the review process. This only applies to punctuation/terminology - content suggestions and questions will follow the usual review and discussion process.
-
-Once the review is complete, we'll move your contribution to the appropriate part of [docs.mattermost.com](https://docs.mattermost.com) \(if it's not there already\) and then merge it. We'll share the URL and you can edit it at any time if you need to.
-
-### Submit documentation with your PR: Community
-
-We want to empower everyone to contribute to our documentation, and be comfortable submitting documentation for contributions. As such, we don't expect every contribution to adhere to our style guide when first submitted.
-
-During the review process the editorial team also provides feedback on style elements to bring the submission in line with the [Documentation Style Guide](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/documentation-style-guide).
-
-Here are some guidelines:
-
-* When submitting a code PR, please include updated documentation if applicable.
-* The documentation update can be in the form of a bullet list or an outline.
-* Label the PR as **Docs Needed**/**Editor Review** and tag @justinegeffen or @carriewarnermm.
-* The documentation you've submitted will be reviewed.
-* At times, the editors may make and commit stylistic changes \(such as punctuation\) but any content changes will be added as a suggestion for the submitter's consideration.
-* Once the PR is approved, it will be merged, and the documentation will be updated.
-
-You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review).
-
-**Note:** This process does not apply to the [API Documentation requirements](https://github.com/mattermost/mattermost-api-reference) as it is updated automatically and isn't part of the documentation process.
-
-### Add reviewers to PRs
-
-Mattermost documentation covers a number of different topics. For documentation, the following reviewers are recommended:
-
-**Editor Review**
-
-* Carrie Warner \(@cwarnermm\)
-* Justine Geffen \(@justinegeffen\)
-
-**Product Manager Review**
-
-* Channels: Katie Wiersgalla \(@wiersgallak\)
-* Security: Katie Wiersgalla \(@wiersgallak\)
-* Cloud: Katie Wiersgalla \(@wiersgallak\)
-* Playbooks: Ian Tao \(@tao\)
-* Boards: Winson Wu \@winsonwu\)
-* Licensing: Jason Blais\(\@jasonblais\)
-* Mobile and desktop app: Eric Sethna \(@esethna\)
-* Apps and Marketplace: Aaron Rothschild \(@aaronrothschild\)
-* Handbook and Process; Community: Jason Blais \(@jasonblais\)
-
-**Dev Review**
-
-If your change requires dev review add the developer/s you've been working with as the reviewer/s. If you're unsure who to add as a dev reviewer you can select one of the team leads below:
-
-* Boards: Scott Bishel \(@sbishel\)
-* Integrations: Catalin Tomei \(@catalintomai\)
-* Playbooks: Jesse Hallam \(@lieut-data\)
-* Channels: Martin Kraft \(@mkraft\)
-* Growth: Maria Nuñez \(@marianunez\)
-* SRE: Joram Wilander \(@jwilander\) \(\interm\)
-* Cloud Platform: Joram Wilander \(@jwilander\)
-* Mobile: Elias Nahum \(@enahum\)
-* Web App and Desktop App: Dean Whillier \(@deanwhillier\)
-* Server/infra: Joram Wilander \(@jwilander\)
-* Cloud: Joram Wilander \(@jwilander\)
-* Security: Daniel Schalla \(@dschalla\)
-* QA: Saturnino Abril \(@saturninoabril\)
-* Handbook and Process: Jason Blais \(@jasonblais\)
-
-The full list of R&D teams is available [here](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit#gid=0).
-
-## Submit a documentation request
-
-If you have documentation requests or questions, you can submit a request via the Doc Up plugin or submit a GitHub issue directly via the Docs repo. All issues are reviewed and feedback provided. 
-
-While we do accept ad-hoc requests for work, we appreciate this process being followed as it helps us prioritize and ensure coverage for all work.
-
-### Via Doc Up
-
-Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the Doc Up plugin embedded in the post menu. Access the Doc Up plugin by hovering over a message and selecting the ***...*** menu.
-
-When you select Doc Up and choose **Admin** as the issue type, an issue is generated in the GitHub docs repo, and added to the issues list. An update is listed in the Documentation channel, with the issue link. You can also select **Developer** or **Company Handbook** to direct the Doc Up request to the appropriate repo.
-
-As the issues are open to the community, the more information provided in the issue the better.
-
-Review the issue in the [docs repo](https://github.com/mattermost/docs/issues?q=is%3Aopen+is%3Aissue), [developer documentation repo](https://github.com/mattermost/mattermost-developer-documentation/issues?q=is%3Aopen+is%3Aissue), or [handbook repo](https://github.com/mattermost/mattermost-handbook/issues?q=is%3Aopen+is%3Aissue) and add any links to appropriate documentation and/or Jira tickets. This ensures that the assignee is able to take on and complete the work within the turnaround times.
-
-### Create a GitHub issue
-
-If you have feedback on our documentation, a suggestion, or new content you'd like to add but don't know where to put it - you can create a GitHub issue.
-
-The issue will be reviewed by the Technical Writing team and a **Help Wanted** label may be added so that community members are able to identify work that they’re able to assist with. If your documentation request/issue applies to a repository other than _mattermost/docs_, you can ping @justinegeffen or @cwarnermm. Alternatively, you can open an issue in that repo.
-
-## Our prioritization process
-
-We understand that all work is important and urgent in some way. However, as a small team, we need to ensure that our coverage is managed tightly.
-
-### P1: Urgent and important
-
-- A page is broken
-- Steps are missing from a critical process
-- An important link is broken
-- An image is broken/not displaying
-
-### P2: Important
-
-- Content is inaccurate; will affect customer goals and productivity
-- Information about new features or changes isn't documented and needs to be
-
-### P3: Not urgent/not important
-
-- Enhancement to the user experience of the docs
-
-## Our Board
-
-If urgent and important work is identified, we'll add it to our DWG Board and you can follow its progress there.
-
 ## i18n contributions
 
 **Note: This process is in flight.***
@@ -236,48 +80,103 @@ Currently, submitting a translation PR follows the same writing and editing proc
 6. Decide if we want to indicate translations level - e.g. “Alpha” or “Beta” for translations that are in progress.
 7. Test you can successfully rate a translated docs page by selecting a rating emoji. Ping @justine.geffen for validation of this.
 
-## Work with the Technical Writing team
+## Set up a local development environment
 
-### What we're doing
+Members of the writing team have two ways to contribute to Mattermost product documentation:
 
-The [Documentation Working Group (DWG) channel](https://community.mattermost.com/core/channels/dwg-documentation-working-group) is where you'll find us, and you can view our current projects in the channel's board.
+- Using GitHub web tools. See the GitHub training section below for details.
+- Working within a local development environment. See the mattermost/docs repository [README](https://github.com/mattermost/docs#building-and-validating) documentation for details on setting up a local environment.
 
-If the card is for documentation related to a release, the documentation needs to be complete at least 10 days prior to release. Please ensure you allow sufficient time for your request to be completed or it will be moved to the next available slot.
+### Clone a documentation fork locally
 
-### Submit an editing request
+Mattermost product documentation contributions can be created in one of two ways:
 
-When submitting a PR for documentation, whether it's a minor update, a new piece of content, or a content proposal, please add the **Editor Review** label \(if possible\). Once the Technical Writer/Editor has reviewed the PR they'll remove the label. When all the requested reviews are complete, the **Reviews Complete** label is applied and the changes are merged.
+- As a branch (applies only Mattermost staff with appropriate GitHub repository permissions).
+- As a fork (applies to all other documentation contributions).
 
-### Providing editorial feedback
+In a GitHub documentation PR, branched contributions display using the branch name, and forked contributions display as `username/reponame:branchname` instead. While branched contributions are automatically pulled down to a local environment when you run the command `git pull` or `git fetch origin` from the command line, forked contributions must be pulled down manually.
 
-If you're asked to provide editorial feedback on a PR, and it's your first editorial feedback request, first read up on the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review) to get an idea of what's expected in terms of turnaround time, type of feedback, and so on.
+To work with a forked contribution locally:
 
-Editorial feedback is based on the guidelines laid out in the [Documentation Style Guide](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/documentation-style-guide) as well as the [Voice, Tone, and Writing Style Guide](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines).
+1. In the GitHub PR, identify the contributor's username.
+2. In your local file system, create a new directory for the fork.
+3. Navigate to the new directory, then clone the fork by running the command `git clone https://github.com/username/reponame`. Note that you don't need to specify the branch name.
+4. Switch to the branch you want to explore by running the command `git checkout branchname`.
+5. (macOS users only) Sync your virtual environment for the new directory by running the command `pipenv sync`.
 
-## Community documentation involvement
+## Extend Sphinx functionality
 
-Every month the Mattermost community plans, builds, tests, documents, releases, and supports new product improvements for Team Edition to benefit the user community. The Mattermost Enterprise Team does the same for Enterprise Edition to benefit the subscriber community.
+Extending product documentation functionality typically involves extending the Sphinx static generation tool with extensions that introduce new display, page, build, navigation, or output capabilities. For example, all code blocks on all pages of the product documentation feature a copy/paste option to make trying out code samples easy for documentation visitors. The copy/paste option was added by installing a Sphinx extension created by an open source contributor.
 
-A critical part of this development is documentation which ranges from feature documentation to FAQs, guides, and tutorials.
+To get started with Sphinx extensions, you'll want to set up a local development environment, then identify an open source Sphinx extension you want to test based on an outcome or goal you're looking to achieve that improves the learning experience for Mattermost documentation visitors.
 
-### Feature documentation
+1. In a local documentation development environment, from the command line terminal, install the Sphinx extension using the installation instructions provided by the extension author.
+2. Regenerate the `pipenv.lock` file by running the following command: `pipenv install sphinx-extension==version` where `version` is replaced with the extension's release version you want to use.
+3. Update the `conf.py` file to add the extension in the `extension` section. 
+4. Incorporate the new Sphinx extension on a documentation page using appropriate syntax.
+5. Build the documentation locally to test how the extension works. Be sure to test as many edge cases and real world situations as you can to ensure that the new extended functionality won't break existing pages or content.
 
-Feature documentation is a collaborative effort between the Product Manager and Technical Writer within a specific timeframe aligned with releases. Community members are welcome to assist, if the time expectations are manageable.
+## Upgrade Sphinx
 
-Feature request documentation is usually located in the [mattermost-server](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+is%3Aissue+label%3ADocs%2FNeeded) repo and the [mattermost-webapp](https://github.com/mattermost/mattermost-webapp/pulls?q=is%3Aopen+is%3Apr+label%3ADocs%2FNeeded) repo and are labelled as `Docs/Needed`. As these are tied to a release \(and a deadline\) it’s best to only take on the work if you’re sure you can complete it on time. It’s understood that community members contribute in their available time, which is why this type of documentation isn’t usually the best option to take on.
+Mattermost product documentation is generated using Sphinx v4.4. As new Sphinx functionality becomes available, it can be desirable or necessary to upgrade Sphinx to a later release.
 
-### Help Wanted tickets/doc issues
+To get started with a Sphinx upgrade, you'll want to set up a local development environment, then review the [Sphinx release history](https://pypi.org/project/Sphinx/#history) to identify the upgrade version you want. It's important to understand and test upgrades locally to identify any risks an upgrade may introduce to the Mattermost documentation.
 
-Help Wanted tickets are generally not linked to a release and are more flexible in terms of timeline and delivery date. You can find the documentation Help Wanted tickets [here](https://github.com/mattermost/docs/labels/Help%20Wanted). To start working on one, assign it to yourself, add a comment indicating you’ll be working on it, find the relevant document in the [source](https://github.com/mattermost/docs/tree/master/source) directory, read through the [README](https://github.com/mattermost/docs/blob/master/README.md) file if you're not familiar with the process, and get started.
+Once you have a Sphinx upgrade version in mind:
 
-If you have any questions, you can post them in the [Documentation](https://community.mattermost.com/core/channels/documentation) channel and we'll be happy to help.
+1. In a local documentation development environment, from the command line terminal, install the Sphinx upgrade by running the following command: `pipenv install sphinx==version`. This command updates both the `pipfile` with the latest Sphinx version and regenerates the `pipfile.lock`.
+2. Sync your virtual environment for the new Sphinx version by running the command: `pipenv sync`.
+3. Create a documentation PR containing the two file changes to `pipfile` and `pipfile.lock`.
+4. Once the PR merged into production, writers can update their local development environments to use the Sphinx upgrade by running the following command: `pipenv sync`.
 
-### Engineering/developer documentation
+Following a successful Sphinx upgrade, complete the following checklist tasks to ensure that the new version of Sphinx doesn't impact existing functionality, content, or output.
 
-Most, if not all, contributions to the Mattermost project have a documentation impact. As part of the development and submission process, it’s recommended that the relevant documentation be updated \(or created\) and included in the PR. This provides consistency and accuracy in communicating the changes/new feature and cuts down on having multiple issues and PRs for related documentation.
+### Sitemap generation
 
-Visit the [Contribute to Documentation](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/submitting-documentation-with-your-pr) page to get started with submitting documentation with your PR. You can read more about the review process [here](https://developers.mattermost.com/contribute/getting-started/code-review).
+1. Open the latest sitemap via `docs.mattermost.com/sitemap.xml` in a browser tab.
+2. Generate the product documentation, then use a text compare tool such as [text-compare](https://text-compare.com/) to review the differences between the newly generated sitemap against what's available in production.
+
+You shouldn't see any glaring differences and the sitemap should NOT have any Mattermost version information in any of the URLs. You may see content move around on the page. Confirm that page URLs in production continue to exist in the latest generated sitemap XML file.
+
+### Page redirects
+
+Spot check a handful of redirects specified via the `conf.py` file to ensure they continue to redirect visitors correctly.
+
+### Parallel processing and pickling
+
+When you build the documentation locally, is the build fast? Do you see a message in the terminal indicating that pickling was successful?
+
+If the build takes more than a few minutes to complete, or you don't see the pickling success message, this could indicate an issue with the Sphinx version, and you may want to reconsider an upgrade to this version.
+
+### HTML output
+
+After successfully building the product documentation:
+
+- Navigate around the site to ensure that nothing looks or feels broken.
+- Review pages with tables and tabbed content to ensure the content displays as intended.
+- Review the landing page as well as subsequent page headers/footers to ensure links take users to expected destinations.
+- Review the Changelog pages (which are managed in Markdown source files) to ensure that the changelogs are converted to HTML correctly.
+- Perform a few docs searches to confirm that searches continue to work as expected.
+
+### Build warnings and errors
+
+Review and fix issues reported via the `/build/warnings.log` file including broken links, pages missing from the LHS, and syntax and formatting problems. 
+
+### Review documentation repository setup instructions
+
+- In GitHub, review the [mattermost/docs](https://github.com/mattermost/docs) repository [README file](https://github.com/mattermost/docs#mattermost-documentation) and this Handbook process documentation to ensure content accuracy.
 
 ## GitHub training
 
 GitHub training videos coming soon!
+
+### Add PRs to monthly documentation release branches
+
+If you encounter a documentation PR that should be included in a monthly documentation release cycle, instead of tracking the PR individually, the PR can be merged into a documentation release branch. 
+
+1. In the PR, identify the branch name you want to include in a documentation release branch. 
+2. Ensure your local development environment is up-to-date and contains the same code as the `master` branch.
+3. Navigate into the branch where you want to merge in the PR to ensure all code is available locally.
+4. From a terminal, run the command `git merge branchname` where `branchname` is the name of the branch you want to commit to a monthly documentation release.
+5. If there are no conflicts, you'll see the vi editor. Review the commit message, then type `:x` to save and exit. If there are conflicts, you need to resolve them on the CLI and commit them first before you can move to the next step to push remotely.
+6. Push your changes remotely by running the command `git push`.

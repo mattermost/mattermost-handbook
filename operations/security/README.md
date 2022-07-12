@@ -18,10 +18,13 @@ Email:
 ### Product Security
 
 * Juho Nurminen, Staff Product Security Engineer
+* Ossi Vaananen, Senior Product Security Engineer
 * Rohitesh Gupta, Product Security Engineer II
+
 
 ### Security Operations
 
-* Paul Harrison, Staff Security Engineer
+* Paul Harrison, Security Engineering Lead
+* Jorge Blanco, Senior Security Engineer
 * Corey Robinson, Security Engineer II
 

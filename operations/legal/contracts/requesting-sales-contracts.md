@@ -19,7 +19,7 @@ Once you have chosen your template you will be directed to the [SpotDraft](https
 
 Within SpotDraft, please follow the workflow below to complete your request for the applicable template:
 
-### Software License Agreements
+### Software license agreements
 
 If your "Opportunity meets the above thresholds then you will be able to select either the **"Mattermost Cloud Subscription License Agreement"** or **"Mattermost Software License Agreement"** template.
 
@@ -29,7 +29,7 @@ If your "Opportunity meets the above thresholds then you will be able to select 
 4. In the **“Party Information”** box, please select **“Signatories Signing Order”** and toggle so that **“Signing Order”** is **‘ON’** and the other party is set to sign first. Select **“Save”**.
 5. You may now **“Send”** the Agreement. This will send the document to the other party for review and signature.
 
-### Non-Disclosure Agreements
+### Non-Disclosure agreements
 
 If you selected the **“Mattermost - Non-Disclosure Agreement”** template:
 
@@ -39,9 +39,9 @@ If you selected the **“Mattermost - Non-Disclosure Agreement”** template:
 4. In the **“Party Information”** box, please select **“Signatories Signing Order”** and toggle so that **“Signing Order”** is **‘ON’** and the other party is set to sign first. Select **“Save”**.
 5. You may now **“Send”** the Draft Non-Disclosure Agreement. This will send the document to the other party for review and signature.
 
-### Reseller Agreements
+### Reseller agreements
 
-If you selected the  **“Non-Exclusive Reseller Agreement”** template:
+If you selected the **“Non-Exclusive Reseller Agreement”** template:
 
 1. Select the appropriate Mattermost Signatory. Please consult the Handbook for [proper signing authority](https://handbook.mattermost.com/operations/operations/company-processes/company-agreements) if you need additional guidance.
 2. Choose the Reseller that will be entering into the Reseller Agreement with Mattermost. If the Reseller is not in the list, select **“Invite a New Reseller”** and fill out all of the required fields. Select **“Save”**.

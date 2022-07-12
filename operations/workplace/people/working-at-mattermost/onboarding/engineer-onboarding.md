@@ -60,6 +60,7 @@ This is the general timeline and expectations for new engineers starting at Matt
 * Meet with dev lead
   * Meet once a week and start regular weekly 1-1s
 * Work on some medium size tickets
+* Review the [Engineering Titles/Levels](https://docs.google.com/spreadsheets/d/11pG9OqsLTltVylGRDBUOcTa65kkHd_EtRiPBz8Mnnpk/edit#gid=2064417787) sheet to understand expectations and responsibilities for your level
 
 ## Weeks 5 - 8 \(Month 2\): Work on your first project as dev owner
 

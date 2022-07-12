@@ -8,7 +8,7 @@
 | Calls | Audio & Video Calls | Ian Tao |
 | Apps & Integrations | Plugins, Apps, Apps Marketplace, Apps & Plugin Framework | Aaron Rothschild |
 | Growth | Product-led growth, Trials, In-product & Email Nurtures, Packaging & Pricing, A/B Testing Framework | Don Hogan |
-| Cloud & Self-Service | Cloud, Billing, Purchases/Customer Portal, Licenses | Jason Blais |
+| Self-Service | Upgrade/Downgrade Path, Billing, Purchases/Customer Portal, Licenses | John Lugtu |
 | Users & Teams | User Invite, User Sign-in/Authentication, User Roles, User & Team Management, User Groups, User Settings| Laney Coletti-Saracino|
 | Distribution | High Availabilty, Database, File Storage, Security, Logging, VPC Peering, Kubernetes, Omnibus | Neil Barnett |
 

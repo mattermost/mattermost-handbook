@@ -18,3 +18,10 @@ If you were part of a paid simulation project, you may have already completed th
 
 For timely payment, invoices should be sent to AP@mattermost.com. For further information on receiving payment by Mattermost, please refer to the [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid).
 
+## Full time staff member (Rest of World - Deel)
+
+If you're a full time staff member who gets paid via Deel, please reach out to the [People Team](https://community.mattermost.com/private-core/channels/ask-people-team) for any questions related to the Deel platform. 
+
+## Payment and Expense Reimbursements
+
+For staff members on Deel, you will receive payment from two sources, Deel for payroll and Accrualify for expense reimbursements (expense reimbursements should be submitted on [Expensify](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-use-expensify)). The currency in which you are paid is dependent upon the currency that is agreed upon between you and Mattermost in your employment contract. The Finance team will reach out to you for payment information for your expense reimbursements.

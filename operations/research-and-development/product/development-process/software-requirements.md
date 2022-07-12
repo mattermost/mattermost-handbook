@@ -4,7 +4,7 @@
 
 This document provides guidelines for determining which software versions Mattermost requires. For past discussion on why these guidelines were chosen, see [this conversation](https://community.mattermost.com/core/pl/sb4fq6qhyfbb5xjdp7x3ud146e).
 
-Current software requirements are [documented here](https://docs.mattermost.com/install/requirements.html#software-requirements).
+Current software requirements are [documented here](https://docs.mattermost.com/install/software-hardware-requirements.html).
 
 Before submitting software requirement updates to the documentation, the following steps have to be taken into consideration:
 
@@ -27,7 +27,7 @@ Before submitting software requirement updates to the documentation, the followi
 | :--- | :--- |
 | Chrome | Chromium version of latest Mattermost Desktop App |
 | Firefox | Supported versions by Mozilla - [reference](https://www.mozilla.org/en-US/firefox/organizations/) |
-| Safari | Safari version available in the minimum supported iOS version - [reference](https://en.wikipedia.org/wiki/Safari_version_history) |
+| Safari | Safari version available in the minimum supported macOS version - [reference](https://en.wikipedia.org/wiki/Safari_version_history) |
 | Edge | Latest release |
 
 ## Mobile Apps
