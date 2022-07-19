@@ -426,11 +426,13 @@ Product Managers are mentioned to assist in answering product question escalatio
 
 ### How do I create redirects for in-product documentation?
 
-Documentation that is linked in-product should always use a redirect from https://mattermost.com/ instead of the docs.mattermost.com site, to ensure links are not broken in the event that they are moved on the docs site.
+Documentation that is linked in-product should always use a redirect in the form https://mattermost.com/pl/<default-page-name>/ instead of a hard-coded link to mattermost.com or docs.mattermost.com. This ensures in-product links are not broken in the event that they are moved.
 
-To set up a redirect, you must have admin access to https://mattermost.com/. Marketing can assist with this access or @jason.blais or @katie.wiersgalla can add a redirect for you.
+To set up a redirect, follow these steps:
+1. Decide the in-product link in the form https://mattermost.com/pl/<default-page-name>/
+2. Request in Marketing channel for them to add a 301 redirect from https://mattermost.com/pl/<default-page-name>/ to the appropriate mattermost.com or docs.mattermost.com page.
 
-If you have access, follow these steps:
+For a Marketing team member who adds the redirect, follow these steps:
 
 1. Log in to the administration panel for https://mattermost.com/.
 2. From the left-hand sidebar, go to **SEO > Redirects**.
