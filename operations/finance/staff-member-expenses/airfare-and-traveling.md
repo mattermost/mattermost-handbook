@@ -63,11 +63,11 @@ John would book Delta for the following reasons:
 When booking reservations via United PassPlus, you have two options:
 
 1. Manage your own reservation\(s\)
-2. Work directly with the [Travel Team](mailto:travel@mattermost.com) to help reserve your flights
+2. Work directly with the Travel Team to help reserve your flights
 
-If you are working with the Travel Team, please complete the following information gathering [Form](https://docs.google.com/forms/d/10gGN9sj85HGp7PYoB-QHREEs7X0aF6rKYl7KxLFACO8/viewform?edit_requested=true). Please direct all travel related questions to the [Travel Team](mailto:travel@mattermost.com).
+If you are working with the Travel Team, please complete the following information gathering [Form](https://docs.google.com/forms/d/10gGN9sj85HGp7PYoB-QHREEs7X0aF6rKYl7KxLFACO8/viewform?edit_requested=true). Please direct all travel related questions on the form.
 
-If handling your reservations, please follow the step by step instructions under [**United PassPlus Instructions**](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money/airfare-and-traveling#united-passplus-instructions) Should you need help with reservations, please call the following numbers: 800-727-7752 or 313-234-6903
+If handling your reservations, please follow the step by step instructions under [**United PassPlus Instructions**](https://docs.google.com/document/d/13rzgOBPWDo8nRq5AfEUF2GTPiA1wsY6jZYFNQKvxQSk/edit?usp=sharing) Should you need help with reservations, please call the following numbers: 800-727-7752 or 313-234-6903
 
 ### United PassPlus instructions
 

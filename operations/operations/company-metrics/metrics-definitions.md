@@ -500,6 +500,18 @@ Monthly active users are categorized into **Engagement Lifecycle Segments**. The
 
 #### MAU Considerations
 
+### Server Retention
+
+Server retention is calculated as Day N retention, which shows the percent of users who return to the app on a specified day after their first launch.
+
+We do not use rolling retention, which shows the percentage of users who return to the app on a specified day or any day after that. The reason is that rolling retention continues to increase as days go by (someone who comes back to the app on day 31 will count towards day 1, day 2, up to day 31 retention).
+
+For concrete examples, a server is included in:
+ - day 1 retention, if there is activity 24-48 hours after server creation
+ - day 7 retention, if there is activity 168-192 hours after server creation
+ - day 14 retention, if there is activity 336-360 hours after server creation
+ - day 28 retention, if there is activity 672-696 hours after server creation
+
 ## Trials
 
 ### Trial Requests
