@@ -77,6 +77,10 @@ This is scheduled time for teams to have team-only time to discuss their work, s
 
 ### Past MatterCons
 
+MatterCon 2021 was held at Virtual(Mattermost's first VR conference)
+
+[MatterCon 2021](https://youtu.be/obLMOBfImX0)
+
 MatterCon 2020 was held at the Melia Nassau Beach resort in Nassau, Bahamas:
 
 [MatterCon 2020](https://www.youtube.com/watch?v=5YA3DK0u2L4)
