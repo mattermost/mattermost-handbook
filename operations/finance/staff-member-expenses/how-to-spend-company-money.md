@@ -58,7 +58,7 @@ While we're sharing average costs for various items below, you should use your b
 
 #### Laptop \(business computer\)
 
-For all new staff members, to request a new laptop, please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSe7DV-dt1K4G2UtVszjK78iRZD5i_ubhRk3xkUKnEemcyyELw/viewform). We realize laptops are most vital company equipment to be successful at Mattermost, please choose what you need to do your best work. If you require a laptop outside of the normal specifications of what we provide by default, please reach out to IT@mattermost.com with the details of the request.
+For all new staff members, to request a new laptop, please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSe7DV-dt1K4G2UtVszjK78iRZD5i_ubhRk3xkUKnEemcyyELw/viewform). We realize laptops are the most vital company equipment to be successful at Mattermost, please choose what you need to do your best work. If you require a laptop outside of the normal specifications of what we provide by default, please reach out to IT@mattermost.com with the details of the request.
 
 **Non-engineers**
 
