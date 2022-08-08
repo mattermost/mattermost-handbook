@@ -81,7 +81,7 @@ We follow [the Agile Release Train method](https://www.scaledagileframework.com/
 For P0 bugs (eg. bugs that affect more than 25% of our customers with system degradation), we will do an exception and rollout a hotfix as soon as possible.
 
 **Schedule for Cloud releases**:
- - Thursdays: Release day. Also merge master into the cloud branch and update cloud test servers, including Rainforest RFQA-Cloud servers.
+ - Thursdays: Release day. Also merge master into the cloud branch and update cloud test servers for the next release, including Rainforest RFQA-Cloud servers.
  - Fridays: Run Rainforest release test run groups, Cypress automated tests and product high level release smoke tests (i.e. Boards, Calls, Channels, Integration Frameworks, Playbooks and Suite Users)
  - Mondays and Tuesdays: Test failure reviews and bug fixing.
  - Wednesdays: Final QA tasks and sign-off.
