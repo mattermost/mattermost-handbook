@@ -1,6 +1,6 @@
 # Release (DevOps)
 
-## Mision
+## Mission
 
 The Release (DevOps) team enables Mattermost Engineering to deliver features in a safe, scalable and efficient fashion to Cloud and self-managed customers. 
 The team ensures that Mattermost weekly, monthly, security, and patch releases are publicly released in a timely fashion.
