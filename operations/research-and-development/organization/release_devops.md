@@ -7,7 +7,7 @@ The team ensures that Mattermost weekly, monthly, security, and patch releases a
 
 ## Vision
 
-By its own nature, the Release (DevOps) team is a backstage, non-user feature facing team whose product and output has a high impact on day to day development operations and Mattermost releases. The team creates the workflows, frameworks, tools (ChatOps, Bots), architecture and automation for Engineering teams to see their work reach production effectively and efficiently. The team is focused on our CI/CD blueprint by driving the necessary changes in our software development processes and workflows, as well as infrastructure changes, to embrace the benefits of CI/CD.
+By its own nature, the Release (DevOps) team is a backstage, non-user feature facing team whose product and output has a high impact on day to day development operations and Mattermost releases. The team creates the workflows, frameworks, tools (ChatOps, Bots), architecture, and automation for Engineering teams to see their work reach production effectively and efficiently. The team is focused on our CI/CD blueprint by driving the necessary changes in our software development processes and workflows, as well as infrastructure changes, to embrace the benefits of CI/CD.
 
 ### Short-term
 
