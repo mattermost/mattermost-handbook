@@ -40,12 +40,12 @@ By its own nature, the Release (DevOps) team is a backstage, non-user feature fa
 ## Top-level Areas of Ownership
 
 The team regularly works on the following tasks, in the order of priority: 
-- Ensuring continuous delivery of Mattermost products to SaaS and self-managed (eg. self-managed, mobile, plugin & apps, desktop, CLI)
+- Ensuring continuous delivery of Mattermost products to SaaS and self-managed (eg. self-managed, mobile, plugin & apps, desktop, CLI).
 
 - Coordination, education and preparation of Mattermost releases for self-managed users for the monthly minor, patch and security releases. 
 
-- Participating in incident resolution and acting on corrective actions for SaaS and self-managed software delivery
+- Participating in incident resolution and acting on corrective actions for SaaS and self-managed software delivery.
 
-- Increasing velocity of both SaaS and self-managed software delivery through foundational project work (e.g. Running Gitlab CI pipelines in k8s, Github Bots, ChatOps etc.) 
+- Increasing velocity of both SaaS and self-managed software delivery through foundational project work (e.g. Running GitLab CI pipelines in k8s, GitHub Bots, ChatOps etc.).
 
-- Minimizing the use of custom tooling by building or enhancing features within Mattermost (Playbooks, Plugins, Apps, ChatOps)
+- Minimizing the use of custom tooling by building or enhancing features within Mattermost (Playbooks, Plugins, Apps, ChatOps).
