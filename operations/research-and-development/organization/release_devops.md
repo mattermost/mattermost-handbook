@@ -19,7 +19,7 @@ By its own nature, the Release (DevOps) team is a backstage, non-user feature fa
 
 ### Mid-term
 
-- Streamline, educate and automate release and dev processes
+- Streamline, educate, and automate release and dev processes
 
 - Improve security principles in Mattermost software supply chain
 
