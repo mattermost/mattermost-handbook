@@ -82,7 +82,7 @@ For P0 bugs (eg. bugs that affect more than 25% of our customers with system deg
 
 **Schedule for Cloud releases**:
  - Thursdays: Release day. Also merge master into the cloud branch and update cloud test servers for the next release, including Rainforest RFQA-Cloud servers.
- - Fridays: Run Rainforest release test run groups, Cypress automated tests and product high level release smoke tests (i.e. Boards, Calls, Channels, Integration Frameworks, Playbooks and Suite Users)
+ - Fridays: Run Rainforest release test run groups, Cypress automated tests and product high level release smoke tests (i.e. Boards, Calls, Channels, Integration Frameworks, Playbooks and Suite Users). Close or label tickets for the release.
  - Mondays and Tuesdays: Test failure reviews and bug fixing.
  - Wednesdays: Final QA tasks and sign-off.
     - QA approval should be given by 5pm Eastern on Wednesday so that the release rollout can be started early Thursday morning. 
