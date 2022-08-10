@@ -85,7 +85,7 @@ For P0 bugs (eg. bugs that affect more than 25% of our customers with system deg
  - Fridays: Run Rainforest release test run groups, Cypress automated tests and product high level release smoke tests (i.e. Boards, Calls, Channels, Integration Frameworks, Playbooks and Suite Users)
  - Mondays and Tuesdays: Test failure reviews and bug fixing.
  - Wednesdays: Final QA tasks and sign-off.
-    - QA approval should be given by the EOD Wednesday so that the release rollout can be started early Thursday morning. 
+    - QA approval should be given by 5pm Eastern on Wednesday so that the release rollout can be started early Thursday morning. 
     - If QA approval is not ready by EOD Wednesday due to a testing delay or due to a last minute high priority bug fix, then we miss the release train.
     - If the release train was missed, we need to do a retrospective on why it happened - e.g. are adjustments needed to the QA release testing process, or was there a reason why the last minute bug fix happened.
 
