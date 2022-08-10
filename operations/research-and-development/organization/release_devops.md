@@ -29,7 +29,7 @@ By its own nature, the Release (DevOps) team is a backstage, non-user feature fa
 
 - Drive necessary changes for self-served product engineering teams to enable end-to-end development and releases
 
-- Drive necessary changes that will lead to better reliability/scalability/management/- simplicity of the services, systems and the infrastructure the team owns
+- Drive necessary changes that will lead to better reliability/scalability/management, including simplicity of the services, systems, and the infrastructure the team owns
 
 - Improve continuous delivery of Cloud SaaS releases 
 
