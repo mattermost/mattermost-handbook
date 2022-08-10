@@ -64,7 +64,11 @@ A subscription license to [Mattermost Professional](https://mattermost.com/prici
 
 As the deployment of Mattermost grows within an organization, typically past 250 or 500 users, the customer's procurement organization may be interested in advanced features and customization available in our [Mattermost Enterprise](https://mattermost.com/pricing/) offering.
 
-# Sales motions
+# Self-served motions
+
+For Mattermost Professional, we have self-served options to purchasing subscription licenses by credit card. For self-serve purchases, cloud-hosted Mattermost Professional is purchased with a monthly charge per paid user, and the self-hosted version is purchased with an annual contract. 
+
+# Sales-served motions
 
 We're focused on a number of sales motions to turn leads and prospects into customers.
 
