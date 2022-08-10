@@ -81,12 +81,13 @@ We follow [the Agile Release Train method](https://www.scaledagileframework.com/
 For P0 bugs (eg. bugs that affect more than 25% of our customers with system degradation), we will do an exception and rollout a hotfix as soon as possible.
 
 **Schedule for Cloud releases**:
- - Thursdays: Merge master into the cloud branch and update cloud test servers.
- - Friday-Tuesday: Release testing and bug fixing.
-    - QA approval should be given by the EOD Tuesday, so that the release rollout can be started early Wednesday morning. 
-    - If QA approval is not ready by EOD Tuesday due to a testing delay or due to a last minute high priority bug fix, then we miss the release train.
+ - Thursdays: Release day. Also merge master into the cloud branch and update cloud test servers for the next release, including Rainforest RFQA-Cloud servers.
+ - Fridays: Run Rainforest release test run groups, Cypress automated tests and product high level release smoke tests (i.e. Boards, Calls, Channels, Integration Frameworks, Playbooks and Suite Users). Close or label tickets for the release.
+ - Mondays and Tuesdays: Test failure reviews and bug fixing. Close or label any remaining tickets. Each team signs off as appropriate.
+ - Wednesdays: Final QA tasks and sign-off.
+    - QA approval should be given by 5pm Eastern on Wednesday so that the release rollout can be started early Thursday morning. 
+    - If QA approval is not ready by EOD Wednesday due to a testing delay or due to a last minute high priority bug fix, then we miss the release train.
     - If the release train was missed, we need to do a retrospective on why it happened - e.g. are adjustments needed to the QA release testing process, or was there a reason why the last minute bug fix happened.
- - Wednesdays: Release day.
 
 **Schedule for Self-managed releases**:
  - Feature Complete deadline is approximately 1 month prior to the release day.
