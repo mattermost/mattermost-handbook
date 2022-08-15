@@ -237,6 +237,7 @@
         * [Pregnancy leave](operations/workplace/people/working-at-mattermost/leaves-of-absence/pregnancy-leave.md)
         * [Baby bonding parental leave](operations/workplace/people/working-at-mattermost/leaves-of-absence/baby-bonding-parental-leave.md)
       * [Workplace program](operations/workplace/people/working-at-mattermost/workplace-program.md)
+      * [Total rewards](operations/workplace/people/total-rewards.md)
     * [Performance reviews](operations/workplace/people/performance-reviews-50/README.md)
       * [Mid-year performance review timeline 2022](operations/workplace/people/performance-reviews-50/midyear-performance-review-timeline-2020.md)
       * [Formal review process](operations/workplace/people/performance-reviews-50/formal-review-process.md)
