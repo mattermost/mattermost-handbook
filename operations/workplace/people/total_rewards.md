@@ -1,5 +1,39 @@
 # Total Rewards
 
+## Principles
+
+The principles to guide decisions on compensation:
+
+1. Data driven
+
+    a. Pay decisions based on external and internal benchmarks
+ 
+2. Consistency
+
+    a. Pay decisions guided by defined compensation frameworks to drive pay equity
+
+3. Clarity
+
+    a. Decisions that clearly align with our total rewards strategy 
+
+## Total Rewards Strategy
+
+1. Attract our ideal candidate 
+    a. Best cultural fit and the best fit for the role
+2. Align with local market compensation
+    a. Similar compensation to comparably sized organizations in each local market
+3. Support growth and retention
+    a. Longer term view of reward and recognition 
+
+Video: Our approach to compensation: [Video Link](https://mattermost.zoom.us/rec/share/5pATCWceLN1Z_LQuOwtWkscRFybXD8EF-SUFp9rqTgwd3OmljOpqsfEULxiBX0zW.tNwvtB2SP15OlkEU?startTime=1655086943000); Passcode: c^N@0i#&
+
+Slides: Our approach to compensation: [Link](https://docs.google.com/presentation/d/1sktnALj-FUffGE2HgywADwpSvWJRiEYqMrMHLAZihiE/edit?usp=sharing)
+
+Key takeaways from the video:
+
+1. Guiding principles for equitable and consistent compensation decisions
+2. The Mattermost approach to compensation
+
 ## Frequently Asked Questions
 
 **What if my candidate's current compensation and/or expected compensation is materially higher than the recommendation from our Total Rewards System?**
