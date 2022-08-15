@@ -82,3 +82,5 @@ Yes. In the process of reviewing performance against target levels, changes in l
 * Learn how to use Culture Amp, nominate peer reviewers, give effective peer and upward feedback, and write your self-reflection in Culture Amp's [self-guided course](https://www.cultureamptraining.com/performance-reviews-for-employees).
 * People Managers should take Culture Amp's [self-guided course](https://www.cultureamptraining.com/performance-for-managers) to learn how to use the platform as a people manager. The course includes tips for writing evaluations, giving clear and actionable feedback, and helping your direct reports write strong goals.
 * See[EOY Review Toolkit](https://docs.google.com/document/d/1Jj62uswZ-3yPb0gd-ixfzVKCMwv7vO2AVDLdG8N1eyw/edit?usp=sharing) for additional resources.
+
+### Compensation Philosophy
