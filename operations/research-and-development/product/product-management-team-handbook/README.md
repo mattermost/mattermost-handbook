@@ -2,7 +2,7 @@
 description: 1% DRAFT
 ---
 
-# Product Management Team Handbook
+# Product Management team handbook
 
 ## Overview
 
@@ -11,13 +11,12 @@ The purpose of this handbook is to provide more details on the Product Manager r
 - [Product Management Areas of Ownership](https://github.com/mattermost/mattermost-handbook/tree/b5025ef767aefd213958c7bd90c94c08460bc173/operations/research-and-development/product/operations/research-and-development/product/product-ownership-areas.md)
 - [Product Manager Onboarding](https://github.com/mattermost/mattermost-handbook/tree/b5025ef767aefd213958c7bd90c94c08460bc173/operations/research-and-development/product/operations/research-and-development/product/pm-onboarding.md)
 
-## The Product Management Team
+## The Product Management team
 
 Message the entire team via @pmteam in the Product Management channel on https://community.mattermost.com.
 
 The PM team includes (in alphabetical order, by their username on https://community.mattermost.com):
 
-- @aaron.rothschild
 - @chen-i.lim
 - @don.hogan
 - @eric.sethna
@@ -28,10 +27,10 @@ The PM team includes (in alphabetical order, by their username on https://commun
 - @neil.barnett
 - @rohan.monga
 - @stephen.vanhemmen
-- @tao 
+- @tao
 - @winson.wu
 
-## The Product Manager Role
+## The Product Manager role
 
 Product Managers are organized within the R&D area of Mattermost; however, they have interactions with all departments and areas to ensure success of the product.
 
@@ -426,11 +425,12 @@ Product Managers are mentioned to assist in answering product question escalatio
 
 ### How do I create redirects for in-product documentation?
 
-Documentation that is linked in-product should always use a redirect in the form https://mattermost.com/pl/<default-page-name>/ instead of a hard-coded link to mattermost.com or docs.mattermost.com. This ensures in-product links are not broken in the event that they are moved.
+Documentation that is linked in-product should always use a redirect in the form `https://mattermost.com/pl/<default-page-name>/` instead of a hard-coded link to mattermost.com or docs.mattermost.com. This ensures in-product links are not broken in the event that they are moved.
 
 To set up a redirect, follow these steps:
-1. Decide the in-product link in the form https://mattermost.com/pl/<default-page-name>/
-2. Request in Marketing channel for them to add a 301 redirect from https://mattermost.com/pl/<default-page-name>/ to the appropriate mattermost.com or docs.mattermost.com page.
+
+1. Decide the in-product link in the form `https://mattermost.com/pl/<default-page-name>/`
+2. Request in the Marketing channel for them to add a 301 redirect from `https://mattermost.com/pl/<default-page-name>/` to the appropriate mattermost.com or docs.mattermost.com page.
 
 For a Marketing team member who adds the redirect, follow these steps:
 
