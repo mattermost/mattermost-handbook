@@ -160,5 +160,6 @@ PR review owners:
   - Server translations PRs - Channels/Suite Users teams (Owners: Guillermo and Zef)
   - Webapp translations PRs - Channels/Suite Users teams (Owners: Guillermo and Zef)
   - Mobile translations PRs - Channels/Suite Users teams (Owners:  Guillermo and Zef)
+  - Desktop app translations PRs - Platform team (Owner: Devin)
   - Boards translations PRs - Boards team (Owners: Scott and Jesus)
   - Playbooks translations PRs - Playbooks team (Owners: Jesse and Caleb)
