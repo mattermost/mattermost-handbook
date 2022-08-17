@@ -58,17 +58,17 @@ While we're sharing average costs for various items below, you should use your b
 
 #### Laptop \(business computer\)
 
-For all new staff members, to request a new MacBook, Lenovo, or other laptop, please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSe7DV-dt1K4G2UtVszjK78iRZD5i_ubhRk3xkUKnEemcyyELw/viewform). We realize laptops are most vital company equipment to be successful at Mattermost. As such the below are just recommendations and not a hard ceiling. Please get what you need to do your best work.
+For all new staff members, to request a new laptop, please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSe7DV-dt1K4G2UtVszjK78iRZD5i_ubhRk3xkUKnEemcyyELw/viewform). We realize laptops are the most vital company equipment to be successful at Mattermost, please choose what you need to do your best work. If you require a laptop outside of the normal specifications of what we provide by default, please reach out to IT@mattermost.com with the details of the request.
 
 **Non-engineers**
 
-* **Lenovo:** Most of our customers are Windows-based and so we recommend Windows-based machines, such as the [Lenovo X1 Carbon](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-6th-Gen/p/22TP2TXX16G) or similar for work machines.
-* **MacBook 13”:** For non-developers choosing Macs we recommend getting a [MacBook Air 13-inch retina display with 256 GB of storage and 16 GB of memory](https://www.apple.com/shop/buy-mac/macbook-air/space-gray-1.6ghz-dual-core-processor-with-turbo-boost-up-to-3.6ghz-256gb#) or similar.
+* **Windows:** We will provide a [XPS 15](https://www.dell.com/en-us/shop/laptops/new-xps-15/spd/xps-15-9520-laptop/xn9520cto040s) or similar. General specs are i9, 32GB memory, 1TB SSD. 
+* **Mac:** We will provide a [14" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-gray-8-core-cpu-14-core-gpu-512gb) or similar. General specs are M1 Pro 8-core CPU, 14-core GPU, 16-core Neural Engine, 32GB memory, 512GB SSD. 
 
 **Engineers**
 
-* **MacBook 16”:** For developers choosing to use Macs, we recommend getting a [MacBook Pro 16-inch retina with 512 GB of storage and 32 GB of memory](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch) or similar. As an example, other teams may not require 32 GB memory or 512 GB of storage.
-* **PC:** Any suitable laptop with comparable specifications and lower or similar cost to the recommended MacBook. Many of our engineers use Lenovo laptops from the Thinkpad X, T, or P series. If in doubt, we recommend a Lenovo Thinkpad T series.
+* **Windows:** We will provide a [XPS 15](https://www.dell.com/en-us/shop/laptops/new-xps-15/spd/xps-15-9520-laptop/xn9520cto040s) or similar. General specs are i9, 32GB memory, 1TB SSD. 
+* **Mac:** We will provide a [16" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-10-core-cpu-32-core-gpu-1tb) or similar. General specs are M1 Max 10-core CPU, 32-core GPU, 16-core Neural Engine, 32GB memory, 1TB SSD.
 
 Once you've received your laptop, you're required to register it by completing an [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). This step should be completed within 5 business days after your laptop was received.
 
