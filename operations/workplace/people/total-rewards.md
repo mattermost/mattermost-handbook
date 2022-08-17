@@ -18,16 +18,24 @@ The principles to guide decisions on compensation:
 
 ## Total Rewards Strategy
 
-1. Attract our ideal candidate 
-    a. Best cultural fit and the best fit for the role.
-2. Align with local market compensation
-    a. Similar compensation to comparably sized organizations in each local market.
-3. Support growth and retention
-    a. Longer term view of reward and recognition.
+Our goal is to have a total rewards strategy that enables us to achieve the following:
 
-Video: Our approach to compensation: [Video Link](https://mattermost.zoom.us/rec/share/5pATCWceLN1Z_LQuOwtWkscRFybXD8EF-SUFp9rqTgwd3OmljOpqsfEULxiBX0zW.tNwvtB2SP15OlkEU?startTime=1655086943000); Passcode: c^N@0i#&
+1. Attract our ideal candidates (best cultural fit and the best fit for the role).
+2. Align with local market compensation by paying similar compensation to comparably sized organizations in each local market.
+3. Support growth and retention by adopting a longer term view of reward and recognition.
 
-Slides: Our approach to compensation: [Link](https://docs.google.com/presentation/d/1sktnALj-FUffGE2HgywADwpSvWJRiEYqMrMHLAZihiE/edit?usp=sharing)
+## Total Rewards Principles 
+
+At Mattermost, decisions on compensation are guided by these three principles:
+
+1. Data driven (pay decisions based on external and internal benchmarks).
+2. Consistency (pay decisions guided by defined compensation frameworks to drive pay equity).
+3. Clarity (decisions that clearly align with our total rewards strategy).
+
+To learn more about how the total rewards guiding principles drive equitable and consistent compensation decisions, as well as how we approach compensation, please refer to the resources listed below:
+
+- Video: Our approach to compensation: [Video Link](https://mattermost.zoom.us/rec/share/5pATCWceLN1Z_LQuOwtWkscRFybXD8EF-SUFp9rqTgwd3OmljOpqsfEULxiBX0zW.tNwvtB2SP15OlkEU?startTime=1655086943000); Passcode: c^N@0i#&
+- Slides: Our approach to compensation: [Link](https://docs.google.com/presentation/d/1sktnALj-FUffGE2HgywADwpSvWJRiEYqMrMHLAZihiE/edit?usp=sharing)
 
 Key takeaways from the video:
 
