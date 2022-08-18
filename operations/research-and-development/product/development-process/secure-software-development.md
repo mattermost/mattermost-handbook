@@ -68,7 +68,7 @@ When adding a Go dependency using `go get`, the dependency can be installed spec
 
 GitHub Actions are specified in the `.yml` files in the `.github/workflows` directory inside the Github repository. Check [this nice tool](https://app.stepsecurity.io/) by [Stepsecurity](https://www.stepsecurity.io/) that can harden the workflow spec. Check at least the "Restrict permissions..." and "Pin actions..." boxes, then paste the workflow `.yml` file and click Secure workflow. Then, review the changes and paste the result back into the workflow `.yml` file.
 
-## A few other things (TODO)
+## A few other things
 
 (most from the [Scorecard checks](https://github.com/ossf/scorecard#scorecard-checks) -- consult with product security team)
 
