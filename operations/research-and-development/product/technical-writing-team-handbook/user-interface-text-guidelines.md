@@ -179,57 +179,13 @@ We follow the same capitalization rules across all our documentation assets, inc
 * Field hint text 
 * Hover text
 
-**Instead of:** This Article is About Mattermost
-**Use:** This article is about Mattermost
+Here's an example of an incorrect heading: *This Article is About Mattermost*. The correct version is: *This article is about Mattermost*.
 
-### Words we use in CTAs (WIP)
+Take a look at the [Google guide to capitalization](https://developers.google.com/style/capitalization) for more information about how we approach casing. 
 
-One way of making life easier for our customers is to ensure we are consistent with our terminology. The content below lists the CTA microcopy for various license renewal flows.
+## Terminology
 
-#### Self-managed renew license Customer Portal details page
-
-* "Complete purchase"
-
-#### Self-managed renewal license Customer Portal confirmation
-
-* "Renew now"
-* "Download license"
-* "Complete purchase"
-
-#### Self-managed renewal license email
-
-* "Renew now"
-
-#### Self-managed start trial license page
-
-* "Start trial"
-* "Purchase a license" "Contact sales"
-* "Choose file"
-
-#### Self-managed feature page
-
-* "Start trial"
-* "Not right now"  "Yes, start now"
-* "Purchase a license"
- 
-#### Self-managed feature page after trial ended
-
-* "Purchase a license" "Learn more"
-
-#### Cloud trial
-
-* Customer Portal: "Subscribe now"
-* System Console: "Subscribe now"
-* Questions: "Contact sales"
-* Purchase completed: "Subscribe"
-* System Console: "Upgrade now"
-* IC DM: "Start 30-day trial" "Learn more"
-
-#### Cloud purchase subscription
-
-* "Subscribe"
- 
-#### Cloud upgrade
+One way of making life easier for our customers is to ensure we are consistent with our terminology. The technical writing team is continually working on improving our users' experience with our documentation and copy. You can read more about this work [here](https://handbook.mattermost.com/operations/research-and-development/product/technical-writing-team-handbook/our-terminology).
 
 ## Button labels and links
 
