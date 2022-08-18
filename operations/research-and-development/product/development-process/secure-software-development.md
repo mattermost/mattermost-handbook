@@ -12,6 +12,9 @@ The product security team is overall in charge of secure software development pr
 
 * [OSSF Scorecard Action Check Documentation](https://github.com/ossf/scorecard/blob/main/docs/checks.md)
 * [Overview of Software Supply Chain Attacks](https://www.crowdstrike.com/cybersecurity-101/cyberattacks/supply-chain-attacks/) by [Crowdstrike](https://www.crowdstrike.com/)
+* [OWASP Top Ten](https://owasp.org/www-project-top-ten/), a curated and updated list on most common security risks in web applications.
+* [OWASP Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/)
+* [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 
 ## Code reviews
 
@@ -23,19 +26,17 @@ The product security team performs reviews on new features and plugins when nece
 
 ### Automated code reviews
 
-The key Mattermost repositories have (or should have) automated code security analysis tools set up. In practice, we use [CodeQL](https://codeql.github.com/) as a Github Action to automatically analyze all pull requests. Additionally, the use of the [OSSF Security Scorecards GitHub Action](https://github.com/ossf/scorecard) is strongly encouraged. This document addresses many of the best practices checked by the Scorecards action.
+The key Mattermost repositories have automated code security analysis tools set up. If this is not the case, please reach out to the Product Security Team for assistance in setting this up. Particular automated tools in each repository depend on the technologies used. In practice, we use [CodeQL](https://codeql.github.com/) as a Github Action to automatically analyze all pull requests. Additionally, the use of the [OSSF Security Scorecards GitHub Action](https://github.com/ossf/scorecard) is strongly encouraged. This document addresses many of the best practices checked by the Scorecards action.
 
 ## Dependency pinning
 
 Dependency pinning hardens the software development workflow against [software supply chain attacks](https://www.crowdstrike.com/cybersecurity-101/cyberattacks/supply-chain-attacks/). In this context, the specific threat being mitigated is upstream dependencies being taken over by attackers and replaced with malicious content. The risk commonly involves referring to dependencies without explicitly specifying a computed hash value for the dependency. In case of a dependency takeover, pulling the _latest_ version of it realizes the risk. The risk probability is considered low for supply chain attacks, but the effect can be pretty bad.
 
-Practically, defining build-time dependencies with an explicit hash is the preferred solution. When specifying hashes to existing dependencies that did not use hashed references before, picking the hash of the currently used dependency is a good starting point as it is often not practical to do a full audit of all dependencies. Picking a hash and sticking to it doesn't ensure that said hash represents a safe version, it only ensures that a possibly malicious later version is not introduced in the build process afterwards.
-
-Please note also that pinning dependencies to a specific version (for example, `@2.1.1`) does not guard against malicious updates to the dependency. It is necessary to pin a dependency to a specific checksum (which is a cryptograhic guarantee to the uniqueness of the actual content).
+Practically, defining build-time dependencies with an explicit hash is the preferred solution. When specifying hashes to existing dependencies that did not use hashed references before, picking the hash of the currently used dependency is a good starting point as it is often not practical to do a full audit of all dependencies. Picking a hash and sticking to it doesn't ensure that said hash represents a safe version, it only ensures that a possibly malicious later version is not introduced in the build process afterwards. Some technologies support automatic dependency pinning so that the developer doesn't need to explicitly find and set dependency hashes, for example Go and npm, as described below.
 
 ### Npm dependencies
 
-With npm, replace `npm install` with `npm ci` everywhere in the build/CI pipeline. This ensures that only packages matching `package-lock.json` are installed, see [this Stackoverflow answer](https://stackoverflow.com/questions/52499617/what-is-the-difference-between-npm-install-and-npm-ci) for more details and a reference to the npm documentation.
+With npm, replace `npm install` with `npm ci` everywhere in the build/CI pipeline. This ensures that only packages matching `package-lock.json` are installed, see [the documentation on `npm ci`](https://docs.npmjs.com/cli/v8/commands/npm-ci) for more details and a reference to the npm documentation.
 
 ### Docker
 
