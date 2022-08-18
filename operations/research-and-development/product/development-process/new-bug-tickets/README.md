@@ -19,7 +19,7 @@ Bugs are any “obvious errors” on how the product or a feature is functioning
 ## 4. Information needed on Mattermost bug tickets
 
 * **Labels:** Add a `customer-bug` label if the ticket is based on a customer bug report. Add a `community-bug` label if the ticket is based on a community bug report.
-* **Environment:** Mattermost server and version, OS and version, Mattermost mobile app version, Mattermost desktop app version, any notable Mattermost configurations \(such as HA, Elasticsearch, image proxy, SSO\).
+* **Environment:** There is an ``Environment`` field with drop-down options for whether the bug was found in Cloud test servers, Cloud production servers, Self-Hosted test servers, Self-Hosted production servers, or in Master/PR testing. Additionally, in the ticket description you can add details on Mattermost server and version, OS and version, Mattermost mobile app version, Mattermost desktop app version, any notable Mattermost configurations \(such as HA, Elasticsearch, image proxy, SSO\).
 * **Steps to reproduce:** How can we reproduce the issue.
 * **Expected behavior:** Describe what you’re expecting to see.
 * **Observed behavior:** Describe your issue in detail. What did you see happen? Please include relevant error messages and/or screenshots.

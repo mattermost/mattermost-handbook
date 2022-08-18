@@ -20,7 +20,7 @@ Mattermost’s policy for spending company money is influenced by GitLab, who [o
 4. You may privately use Mattermost property, a laptop for example, to check your private emails or watch a movie as long as it does not violate the law, harm Mattermost, or interfere with Intellectual Property.
 5. It's generally easiest and fastest for you to make any purchases for office supplies yourself and expense them. If you are unable to pay for any supplies yourself, please reach out to [People Ops](https://community.mattermost.com/private-core/channels/ask-people-team).
 6. If you make a purchase that will cost Mattermost 1000 USD \(or over\), this is classified as company property. You'll be required to return the item\(s\) if you leave the company.
-7. [Use Expensify to file your expense report](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify) in the same month that you made the purchase in. Please combine multiple expenses on one report if possible.
+7. [Use Expensify to file your expense report](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify) in the same month that you made the purchase in. Please combine multiple expenses on one report if possible. Do not submit expenses older than three months. Please do your best to submit your expenses in a timely manner.
 8. Any [non-company expenses](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-reimburse-the-company) paid with a company credit card or other means will have to be reported to your manager as soon as possible and **refunded** in full within 14 days.
 9. Home Office Equipment and Supplies. The company will reimburse for the following items if you **need it for work or use it mainly for business**, and local law allows us to pay for it without incurring payroll taxes. The amounts set forth below are guidelines and not strict limits:
 
@@ -58,17 +58,17 @@ While we're sharing average costs for various items below, you should use your b
 
 #### Laptop \(business computer\)
 
-For all new staff members, to request a new MacBook, Lenovo, or other laptop, please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSe7DV-dt1K4G2UtVszjK78iRZD5i_ubhRk3xkUKnEemcyyELw/viewform). We realize laptops are most vital company equipment to be successful at Mattermost. As such the below are just recommendations and not a hard ceiling. Please get what you need to do your best work.
+For all new staff members, to request a new laptop, please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSe7DV-dt1K4G2UtVszjK78iRZD5i_ubhRk3xkUKnEemcyyELw/viewform). We realize laptops are the most vital company equipment to be successful at Mattermost, please choose what you need to do your best work. If you require a laptop outside of the normal specifications of what we provide by default, please reach out to IT@mattermost.com with the details of the request.
 
 **Non-engineers**
 
-* **Lenovo:** Most of our customers are Windows-based and so we recommend Windows-based machines, such as the [Lenovo X1 Carbon](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-6th-Gen/p/22TP2TXX16G) or similar for work machines.
-* **MacBook 13”:** For non-developers choosing Macs we recommend getting a [MacBook Air 13-inch retina display with 256 GB of storage and 16 GB of memory](https://www.apple.com/shop/buy-mac/macbook-air/space-gray-1.6ghz-dual-core-processor-with-turbo-boost-up-to-3.6ghz-256gb#) or similar.
+* **Windows:** We will provide a [XPS 15](https://www.dell.com/en-us/shop/laptops/new-xps-15/spd/xps-15-9520-laptop/xn9520cto040s) or similar. General specs are i9, 32GB memory, 1TB SSD. 
+* **Mac:** We will provide a [14" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-gray-8-core-cpu-14-core-gpu-512gb) or similar. General specs are M1 Pro 8-core CPU, 14-core GPU, 16-core Neural Engine, 32GB memory, 512GB SSD. 
 
 **Engineers**
 
-* **MacBook 16”:** For developers choosing to use Macs, we recommend getting a [MacBook Pro 16-inch retina with 512 GB of storage and 32 GB of memory](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch) or similar. As an example, other teams may not require 32 GB memory or 512 GB of storage.
-* **PC:** Any suitable laptop with comparable specifications and lower or similar cost to the recommended MacBook. Many of our engineers use Lenovo laptops from the Thinkpad X, T, or P series. If in doubt, we recommend a Lenovo Thinkpad T series.
+* **Windows:** We will provide a [XPS 15](https://www.dell.com/en-us/shop/laptops/new-xps-15/spd/xps-15-9520-laptop/xn9520cto040s) or similar. General specs are i9, 32GB memory, 1TB SSD. 
+* **Mac:** We will provide a [16" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-10-core-cpu-32-core-gpu-1tb) or similar. General specs are M1 Max 10-core CPU, 32-core GPU, 16-core Neural Engine, 32GB memory, 1TB SSD.
 
 Once you've received your laptop, you're required to register it by completing an [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). This step should be completed within 5 business days after your laptop was received.
 

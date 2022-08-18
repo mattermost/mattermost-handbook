@@ -31,12 +31,6 @@ If you answer **YES** to one or more of the questions above, you should [submit 
 1. You own the vendor relationship.
 2. You have the approvals from your Manager to move forward on the spend request.
 
-There are several T&Cs used in the form that may require clarification. We have defined these below:
-
-* **Budget Spending:** The purchase is going against an approved budget number signed off by The Board of Directors.
-* **Non-Budget Spending:** The purchase is additional spend or moving approved spend from one bucket to another.
-* **Functional Approver:** The person who has the authority to approve Budget and Non-Budget spending and outlined in the [Authorization Matrix](https://docs.google.com/spreadsheets/d/1fDIMiO0uydB_1zCUxZ4sGfSnBJ0P_49zbeQGgTqbYPI/edit?usp=sharing).
-
 Once a PO is submitted, the request is routed to the [Procurement Team](mailto:procurement@mattermost.com) to process, review and obtain the spending approval. If you receive approval, you will be provided a **MM-\#** to be used at a future date.
 
 ### Step 2: Request contract from vendor
@@ -50,6 +44,8 @@ All contracts are to address either Ian Tien \(CEO\) or Tim Quock \(VP Finance\)
 | Contract Signer | Tim Quock (up to $100,000, or Ian Tien if above $100,000) |
 | Address | 530 Lytton Avenue, Second floor Palo Alto, CA, 94301, USA |
 | Office Phone Number\* | \(650\) 667-8512 |
+| Invoice Sumbission Email | AP@mattermost.com |
+| All Inquiries | Procurement@mattermost.com |
 
 * Please do not use a phone number other than the company number. 
 
@@ -87,11 +83,11 @@ Please note that contracts that don’t go through our internal signing process 
 
 ### Step 5: Send signed contract for counter-signature
 
-Once a contract is signed by Mattermost, a PDF version will be sent to the vendor for counter-signature by the [Procurement Team](mailto:%20procurement@mattermost.com) and the Requester will be CC’d on the email for visibility.
+Once a contract is signed by Mattermost, a PDF version will be sent to the vendor for counter-signature by either the [Procurement Team](mailto:procurement@mattermost.com) or Requester (depending on the nature of the vendor relationship) and the Requester will be CC’d on the email for visibility.
 
 ### Step 6: Upload completed contract
 
-Send the final counter-signed contract to the Procurement Team (procurement@mattermost.com) to file away.
+Send the final counter-signed contract to the [Procurement Team](mailto:procurement@mattermost.com) to file away.
 
 ### Step 7: Vendor on-boarding and invoice processing
 

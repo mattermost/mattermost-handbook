@@ -47,4 +47,3 @@ description: 10% draft
   * Include group photo
 * Tweet if appropriate.
 * Mattermost staff who have gotten to know guests can consider connecting with them on LinkedIn, Twitter, or via email.
-

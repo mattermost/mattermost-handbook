@@ -34,6 +34,9 @@ Other
 * [Legal Discussion Channel](https://community.mattermost.com/private-core/channels/legal) - A channel with historical Q&A for legal.
 * [Archive of Legal Handbook (Prior to Feb 18, 2022)](https://community.mattermost.com/boards/workspace/ezhqoc78aigo7poyrb9hy7u5jw/25b8db83-635b-4469-8c66-37774edbd0c5/ad1e7566-7232-4d88-84b0-7d328b10f1bc/cgprte3iuutdrfeujxgk6p6yw1y)
 
+Frequently Asked Questions 
+* [FAQ](https://docs.google.com/document/d/14KzrhszTlaibtM4APezTS8CFb1vaHxRsnkV9ZFef-Uc/edit#bookmark=id.c9hyldtkrybf) - Summary of frequently asked questions. 
+
 ### Answering Questions Once (AQO)
 
 When you ask questions to legal@mattermost.com for areas that aren't covered by [owners named in the AOR list](https://docs.google.com/document/d/14KzrhszTlaibtM4APezTS8CFb1vaHxRsnkV9ZFef-Uc/edit), nor documented in our handbook, and could be use to others, we use a process of "Document-First Question and Answer" to write the answer first and then responding with a link to the answer.

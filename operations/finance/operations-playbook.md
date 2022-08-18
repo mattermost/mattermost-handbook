@@ -1,9 +1,11 @@
 # Operations Playbook
+
 [50% draft](https://handbook.mattermost.com/company/about-mattermost/mindsets#drafts-at-1-50-99)
 
 Purpose: To provide an overview of the current process, playbooks, and flows that govern the day-to-day actions of the Finance and Accounting function. When using the operations playbook, not all documents are made available as they contain sensitive or personal information. To comply with governing laws (e.g. GDPR, CCPA) and the safety of all Mattermost staff, we are only providing access-based merited need. For access rights transparency, you may refer to this [referenceable table](https://handbook.mattermost.com/operations/finance/operations-playbook#roles-and-access-rights) which you may use to see team members authorized to access each document.  
 
-## Accounting Overview
+## Accounting overview
+
 ![](../../.gitbook/assets/accounting-systems-flows-v2.png)
 
 [Flowchart Link](https://lucid.app/lucidchart/a9134447-128d-4731-a687-763be22ff980/edit?invitationId=inv_ae8373db-7c88-4728-9db3-7209e1f6c7ec&page=0_0#)
@@ -23,7 +25,6 @@ The below table is the current list of each system and provider used within the 
 |**SFDC**|Order logging and forecasting|**G-Powerpoint**|Collaboration and supporting docs purpose|
 |**Stripe**|Self-serve and cloud billing system|**Excel**|Collaboration and supporting docs purpose|
 
-
 ### Treasury
 
 Internal processes and framework for day-to-day banking and treasury functions.
@@ -41,8 +42,8 @@ Internal processes and framework for day-to-day banking and treasury functions.
 |[Manage and reconcile Paypal](https://docs.google.com/document/d/1FibtBTryBYWSxKEoLULnXbGNK8NjiUjBHhzdXZPQAeM/edit#heading=h.qz5k1zqf0i4s)|`Netsuite` `Paypal`|Playbook| |Weekly|Jeff Dynda|Accounting|
 |[Cash disbursement waterfall](https://docs.google.com/document/d/1hpD-c16kx_lliXhuxkF9oNZED9idlzk2O-0nJQlptbY/edit#)|`Netsuite`|Playbook| |Monthly|Jeff Dynda|Accounting|
 
-
 ### Revenue and accounts receivable
+
 Internal processes and framework for order processinng, sales order review and invoicing, recognizing US GAAP revenue, cash collections, and uncollectible receivables.
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
@@ -65,18 +66,16 @@ Internal processes and framework for order processinng, sales order review and i
 |[Build revenue metrics for month-end close](https://docs.google.com/document/d/1pwIsEE4zSyIlENK9ALtTdIgK-LJem-gt_Ep-0rN0rsU/edit?usp=sharing)|`Netsuite`|Playbook| |Monthly|Ben Graham|Accounting|
 |[Create items and SKUs](https://docs.google.com/document/d/15rQQlI1hUE8fyKX6fiQ08ZNkiUKs8awSeP6ROYh2PDo/edit?usp=sharing)|`Netsuite`|Playbook| |As needed|Ben Graham|Accounting|
 
-
-
 ### Prepaid assets
+
 Internal processes and framework for booking and recognizing upfront payments for future vendor services. 
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
 |[Prepaids assets month-end close](https://docs.google.com/document/d/1e1OTP2Ru1-vAEv_8PeqffY8JIuJlTzjcz0o1GpwIS1Q/edit)|`Netsuite`|Playbook| |Monthly|Ben Graham|Accounting|
 
-
-
 ### Fixed assets
+
 Internal processes and framework for booking and recognizing phyiscal property and depreciation/amortization. 
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
@@ -84,9 +83,8 @@ Internal processes and framework for booking and recognizing phyiscal property a
 |[Fixed asset walkthrough](https://docs.google.com/document/d/1Weh3sAyNBvkO0mO_4IUGAltISTE96uEn4sYov9MbtD0/edit)|`Netsuite`|Process Narrative| |Monthly|Jeff Dynda|Accounting|
 |[Mattermost hardware buyback]|`Netsuite`|Playbook| |Quarterly|Jeff Dynda|Accounting|
 
-
-
 ### Procurement and accounts payable 
+
 Internal processes and framework for requesting spend, obtaining functional and financial approvals, review of vendor and consultant contracts, contract signing, invoice processing and classification, and making payments. 
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
@@ -99,8 +97,8 @@ Internal processes and framework for requesting spend, obtaining functional and 
 |[How to account for a Hackathon event](https://docs.google.com/document/d/1R3LHbrXmrhIlzBbC0t9TGxahq1xUS505eM8vo9dEN8M/edit#heading=h.50wmruhabvdn)|`Netsuite` `Accrualify`|Playbook| |As needed|Jeff Dynda|Mattermost|
 |[Example: Hackathon event](https://docs.google.com/spreadsheets/d/1S62A6O63O3c92uIRYpZ5zqUAfcsgV4RBipe5LdIS_rY/edit#gid=681665569)|`Netsuite` `Accrualify`|Playbook| |As needed|Jeff Dynda|Accounting|
 
-
 ### Payroll
+
 Internal processes and framework for day-to-day payroll processes.
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
@@ -111,19 +109,20 @@ Internal processes and framework for day-to-day payroll processes.
 |[401K Playbook](https://docs.google.com/document/d/1Ny0zOr98InPnybaQoMP82laXPmtNDTkXuECIBfyVCx8/edit#heading=h.s1shpwm3yp4j)|`Netsuite` `Ubiquity`|Playbook| |Weekly|Jeff Ho|Payroll|
 |[Deel payroll](https://docs.google.com/document/d/1I3OzopX0tuXB0vvKts3fFB4jke6SLFWrBi9uJL69tOw/edit#)|`Deel`|Playbook| |Weekly|Jeff Ho|Accounting|
 
-
-
 ### Equity
+
 Internal processes and framework for equity transactions and US GAAP expense reporting
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
 |[Equity Narrative](https://docs.google.com/document/d/1rx-EJbWnRH9KLGtGKRSK-YFxhoTXNNoUh0iPq6EPfj0/edit#heading=h.ex0tpzh4lbzf)|`Netsuite` `Banking`|Process Narrative| |Monthly|Tim Quock|Finance|
 |[Stock-based compensation expense]|`Netsuite`|Playbook| |Quarterly|Ben Graham|Equity|
-|[FAQ: exercising options](https://docs.google.com/document/d/1qpapX87dv1Sz62KOdqWXvOb5a6mqVyKxwaj65Sw6Pb0/edit?usp=sharing)|`G-word`|FAQ| |As needed|Tim Quock|Mattermost|
+|[Equity Exercise Playbook](https://docs.google.com/document/d/1eLEo0tLwuagSrf4ZAxIQo4gfiQ4KurlrpbN-itZOMdg/edit#heading=h.de5nkskkw5cj)|`G-word`|Process Narrative| |As needed|Ben Graham|Mattermost|
+|[FAQ: Exercising options](https://docs.google.com/document/d/1qpapX87dv1Sz62KOdqWXvOb5a6mqVyKxwaj65Sw6Pb0/edit?usp=sharing)|`G-word`|FAQ| |As needed|Tim Quock|Mattermost|
 |[FAQ: Mattermost Stock Plan](https://docs.google.com/document/d/1jcYEMZvg2xGz5XdlxE661Aw0vgVL0u1FiOs8tBdUVwY/edit?usp=sharing)|`G-word`|FAQ| |As needed|Tim Quock|Corporate Finance|
 
 ### Expenses
+
 Internal processes and framework for [how to spend company money](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money).
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
@@ -135,9 +134,8 @@ Internal processes and framework for [how to spend company money](https://handbo
 |[Expensify policy matrix](https://docs.google.com/spreadsheets/d/1CcfCjzHOjrnvkvSlwjTosVuKyvhflqhiaiVX_HlmVuY/edit#gid=0)|`Expensify`|Playbook| |Weekly|Ben Graham|Accounting|
 |[Presentation: How to spend company money](https://docs.google.com/presentation/d/1FC9Pd28_KI18vPjTd2Qh_Oe6K9O1E61P131Pj5IODjc/edit?usp=sharing)|`G-powerpoint`|FAQ| |As needed|Ben Graham|Accounting|
 
-
-
 ### Intercompany
+
 Internal processes and framework for intercompany transactions and reporting.
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
@@ -145,8 +143,8 @@ Internal processes and framework for intercompany transactions and reporting.
 |[Intercompany walkthrough](https://docs.google.com/document/d/13_WNXzYL05lzQD3r6d_dSzMAYU2svh-Y29rlxqWIcqE/edit)|`Netsuite`|Process Narrative| |Monthly|Ben Graham|Accounting|
 |[Intercompany loan and interest](https://docs.google.com/document/d/15FZ5YtepP8uR2WipPRrpnUDZ2Lxb3xgTuUyXCAnejUg/edit?usp=sharing)|`Netsuite`|Playbook| |Monthly|Ben Graham|Accounting|
 
-
 ### Corporate accounting and consolidations
+
 Internal processes and framework for financial consolidations and other corporate matters. 
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
@@ -156,11 +154,9 @@ Internal processes and framework for financial consolidations and other corporat
 |[Approvals Matrix](https://docs.google.com/spreadsheets/d/1fDIMiO0uydB_1zCUxZ4sGfSnBJ0P_49zbeQGgTqbYPI/edit#gid=1632055194)|`G-sheet`|Other| |Weekly|Tim Quock|Mattermost|
 |[Legal structure and company information](https://docs.google.com/spreadsheets/d/1JMP6s594j-cJQ5fiqURvR4a3ViSD-_QinpnJN7DFxjY/edit?usp=sharing)|`G-sheet`|Other| |As needed|Tim Quock|G&A|
 
-
-
 ### Taxes
-Internal processes and framework for corporate taxes, sales and use tax, and other tax matters.
 
+Internal processes and framework for corporate taxes, sales and use tax, and other tax matters.
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
@@ -168,8 +164,8 @@ Internal processes and framework for corporate taxes, sales and use tax, and oth
 |[Recording sales tax](https://docs.google.com/document/d/11x58FKOHCmIQedvrGEsuNZnT_SEUzUuUc8Vyg02bqXc/edit?usp=sharing)|`Netsuite`|Playbook| |Quarterly|Ben Graham|Accounting|
 |[Record and pay WA sales tax](https://docs.google.com/document/d/1gAK_9lqhkEod4BSD6NB0mpE-4XnDU-P20qozVln5TE4/edit?usp=sharing)|`Netsuite`|Playbook| |Monthly|Jeff Dynda|Accounting|
 
-
 ### Systems
+
 Internal processes and framework for system integrations and automated workflows/scripts.
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
@@ -182,11 +178,12 @@ Internal processes and framework for system integrations and automated workflows
 |[Non-posting discount items](https://docs.google.com/document/d/1wJ5ZUhdPuJsBmd5KzLIWgtYOE_kAJKE4jp8RX4z_NhA/edit?usp=sharing)|`Netsuite`|Playbook| |As needed|Ben Graham|Finance|
 |[Automated dunning process](https://docs.google.com/document/d/14Ihyy4YorrCjCv02aovvO9BSNpbJnkBWrEA13yeXW3Q/edit?usp=sharing)|`Netsuite`|Playbook| |As needed|Jeff Dynda|Finance|
 
+## Corporate finance overview
 
-## Corporate Finance Overview
 The corporate finance function consists of FP&A operations, Corprorate Finance and Budget, Long-term Planning, and Strategic Finance.
 
 ### Budget
+
 Internal processes and framework to run the annual budget, review actuals to budget, and out of cycle budgetary requests. 
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
@@ -194,8 +191,8 @@ Internal processes and framework to run the annual budget, review actuals to bud
 |[Approving new headcount](https://docs.google.com/document/d/1blReXzdOu5J1CaUuMYC2slbYrT5NZnhSC7Eeh2I3dLg/edit?usp=sharing)|`G-sheet` `Excel`|Playbook| |Annual|Elad Rosenberg|Corporate Finance|
 |[Budget Process]()|`G-sheet` `Excel`|Playbook| |Annual|Elad Rosenberg|Corporate Finance|
 
+### Financial, planning and analysis (FP&A)
 
-### Financial, Planning and Analysis (FP&A)
 Internal processes and framework for day-to-day FP&A responsabilites. 
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
@@ -206,19 +203,18 @@ Internal processes and framework for day-to-day FP&A responsabilites.
 |[Systems spend forecast](https://docs.google.com/spreadsheets/d/1F3tk1eWfeT_Kk8CbjS-Av_Z4LN7Po9Pig2KAm6h5Jlw/edit?usp=sharing)| |Playbook| |Monthly|Elad Rosenberg|Corporate Finance|
 |[Marketing forecast](https://docs.google.com/spreadsheets/d/1zU4Qn0UhDvqXbw3VBuZ0nCKnWBCEe3mSr94GHm8adI4/edit?usp=sharing)| |Playbook| |Monthly|Elad Rosenberg|Corporate Finance|
 
-
 ### Financing
-Internal processes and framework for loans, line of ccredits, and financing rounds.
+
+Internal processes and framework for loans, line of credits, and financing rounds.
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
 |[Financing](https://docs.google.com/document/d/1Fxe51I60yo3RGNyvoBCAsetu1JEGSIgRk9WKLdoeq5U/edit?usp=sharing)| |Playbook| |As needed|Tim Quock|Corporate Finance|
 |[409A valuation process]| |Playbook| |Annual|Elad Rosenberg|Corporate Finance|
 
+## Roles and access rights
 
-## Roles and Access Rights
 Below is a list of access roles. If you are trying to access a document in, you can only do so if you have the permission to do so. All roles are administered via Google Suite shared drive. If you are unable to access a document and believe you should, reach out to Tim Quock, VP Finance. 
-
 
 |Access Role|Members|
 |:----|:----|
@@ -230,13 +226,3 @@ Below is a list of access roles. If you are trying to access a document in, you 
 |MLT|Executive Team Only|
 |[G&A](https://drive.google.com/drive/folders/1sc6sVfXDE-nADfpHhvGlh1CoyMz0J-45?usp=sharing)|All of G&A|
 |[Equity](https://drive.google.com/drive/folders/1rEgoUcuNRJmfRgFr3ocvD10bqi8fzHtf?usp=sharing)|Finance team members that are allowed to view equity|
-
-
-
-
-
-
-
-
-
-

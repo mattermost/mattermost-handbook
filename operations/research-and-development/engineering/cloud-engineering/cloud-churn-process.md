@@ -15,7 +15,7 @@ When a Mattermost Cloud customer requests their workspace to be deleted, the fol
 
 3 - Support team opens a private Jira ticket with information from step 2 and tags SRE and Product Manager.
 
-4 - SRE checks if workspace had 5 or more active users in the last 7 days:
+4 - SRE checks if workspace is a) paid or b) has 5 or more monthly active users:
 
   - If yes, ask Support to introduce Product Manager to the customer via email. Produt Manager then owns trying to keep the customer working with Customer Success as appropriate, or get more detailed information on why they are discontinuing Mattermost.
   - Else, delete workspace.

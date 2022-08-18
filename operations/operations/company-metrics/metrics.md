@@ -25,7 +25,7 @@ MLT definitions checklist
 
 ### ARR
 
-#### **Revenue Metrics**
+#### Revenue Metrics
 
 _50% complete_
 
@@ -62,7 +62,7 @@ _10% complete_
 
 ### GMA Magic Number
 
-#### **Gross Margin Metrics**
+#### Gross Margin Metrics
 
 _1% complete_
 
@@ -80,7 +80,7 @@ _50% complete_
   * **Organic Web Traffic:** Monthly unique visitors to \*.mattermost.org, \*.mattermost.com who originate from non-paid sources.
   * **Organic Search Traffic:** Monthly unique visitors to \*.mattermost.org, \*.mattermost.com who originate from an organic Google search.
 
-#### **Qualified Leads**
+#### Qualified Leads
 
 _1% complete_
 
@@ -134,4 +134,3 @@ For technical analytics definitions not covered here, see the [Analytics Playboo
 To be added.
 
 DRI for this page is Jason Blais
-

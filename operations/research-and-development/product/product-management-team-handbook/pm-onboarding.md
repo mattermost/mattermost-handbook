@@ -9,7 +9,7 @@
 * Meet with direct manager
   * Review your area of ownership and team members
     * [Product Areas of Ownership](/operations/research-and-development/product/product-management-team-handbook/product-ownership-areas)
-    * [R&D Org](https://handbook.mattermost.com/operations/research-and-development/organization)
+    * [R&D Org](/operations/research-and-development/organization)
   * Get added to key organization and team meetings
   * Get 1:1 set up for the next few weeks for frequent check-ins
   * Review the onboarding plan for first 90 days
@@ -56,11 +56,12 @@ Customer Obsession:
 
 Team:
 
+* Join a location-specific channel (e.g. `Loc: Canada` or `Loc: US`) for region-specific updates
 * Meet your R&D team \(Developers, Designer, QA, Technical Writer\) and join team meetings
   * Ask questions to understand development, design, QA processes, and documentation processes
 * Meet with Amy \(Release Manager\) and read the release process doc
 * Meet with Ian \(CEO\) \[[https://github.com/it33/readme/blob/master/README.md](https://github.com/it33/readme/blob/master/README.md/)\). This will be scheduled for you
-* Meet other Product Managers \(Jason Blais, Eric Sethna, Katie Wiersgalla, Aaron Rothschild, Ian Tao, Chen-I Lim\)
+* Meet other Product Managers \(Jason Blais, Eric Sethna, Katie Wiersgalla, Aaron Rothschild, Ian Tao, Chen-I Lim, Neil Barnett, Winson Wun, Laney Coletti-Saracino, Don Hogan, John Lugtu\)
   * Learn about their areas of ownership
 * Participate in PM, R&D, and Customer Obsession Meetings
 * Jira
@@ -103,7 +104,7 @@ A good place to start is exploring the websites, and then start a cloud trial ac
 ### Training outputs
 
 * Post detailed notes from customer calls in [Salesforce](https://handbook.mattermost.com/operations/customer-success#logging-a-customer-feedback-in-salesforce)
-* Answer at least one question during the week of community support in the Mattermost [forum](https://forum.mattermost.org/)
+* Answer at least one question during the week of community support in the Mattermost [forum](https://forum.mattermost.com/)
 * Document areas of improvement you see in your area of ownership or in team's processes.  Share these with your manager. 
 * Update this onboarding document. 
 

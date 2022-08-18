@@ -16,14 +16,15 @@ Rather than always call a department "Marketing" - which is a broad term that in
 
 * [Matt Harper](https://community.mattermost.com/core/messages/@matt.harper) - VP of Marketing
 * [Jack O'Brien](https://community.mattermost.com/core/messages/@jack.obrien) - Director of Product Marketing
-* Jeff Benanto - Director of Communications
+* [Jeff Benanto](https://community.mattermost.com/core/messages/@jeff.benanto) - Director of Communications
 * [Kevin Fayle](https://community.mattermost.com/core/messages/@kevin.fayle) - Director of Marketing Operations & Analytics
 * [JuliAnn Tulberg](https://community.mattermost.com/core/messages/@juliann.tulberg) - Creative Director
 * [Ben Lloyd Pearson](https://community.mattermost.com/core/messages/@ben.pearson) - Director of Developer Marketing
 * [Ashley Dotterweich](https://community.mattermost.com/core/messages/@ashley.dotterweich) - Head of Content
 * [Emily Dela Cruz](https://community.mattermost.com/core/messages/@emily.delacruz) - Lead Web Developer
-* [Cecilia Tao](https://community.mattermost.com/core/messages/@cecilia.tao) - Sr. Growth Marketing Manager
-* [Harrison Eaton](https://community.mattermost.com/core/messages/@harrison.eaton) - Growth Marketing Manager
+* [Cecilia Tao](https://community.mattermost.com/core/messages/@cecilia.tao) - Director of Growth Marketing
+* [Harrison Eaton](https://community.mattermost.com/core/messages/@harrison.eaton) - Marketing Project Manager
+* [Jordana Fung](https://community.mattermost.com/core/messages/@jordana.fung) - Senior Technical Community Manager
 
 DRI for this page: Matt Harper
 
@@ -73,7 +74,7 @@ Weekly check-in to clear tactical issues:
 * Brand
   * [💬](https://emojipedia.org/speech-balloon/) [Brand Experience](https://community.mattermost.com/private-core/channels/brand-guidelines)
   * [🌐](https://emojipedia.org/globe-with-meridians/) [Website Style Guide](https://mattermost.wayfx.com/0ddc9bpne/p/44c8eb)
-  * [🌐](https://emojipedia.org/globe-with-meridians/) [Mattermost Logo Usage Guidelines](https://mattermost.org/brand-guidelines/)
+  * [🌐](https://emojipedia.org/globe-with-meridians/) [Mattermost Logo Usage Guidelines](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/brand-and-visual-design-guideline)
   * [📁](https://emojipedia.org/file-folder/) [Customer References](https://community.mattermost.com/private-core/channels/customer-references): Tracking sheet, discussion, ask templates
 * Customer References
   * [📁](https://emojipedia.org/file-folder/) [Brand Designs](https://drive.google.com/drive/folders/0B62zW3fU_TcARUpPcUc4WlFEODQ): App icons, logos, fonts, and more
@@ -89,4 +90,3 @@ Weekly check-in to clear tactical issues:
 ### Tools
 
 * M&M runs largely in Mattermost, Asana, and Zoom in North American timezone.
-

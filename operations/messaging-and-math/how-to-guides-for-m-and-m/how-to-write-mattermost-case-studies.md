@@ -4,11 +4,11 @@ description: 50% draft
 
 # How to write Mattermost Case Studies
 
-## Case Studies
+## Case studies
 
 This document outlines some of the procedures and materials in developing an effective case study for Mattermost software. This template can be used both to describe deployments of the open source Mattermost Team Edition or commercial deployments with Mattermost Enterprise Edition. We’re delighted to hear everyone’s story and to share it with the community.
 
-### What to Know about Technical Case Studies
+### What to know about technical case sStudies
 
 Case studies are valuable for any audience, but for technical audiences they provide a great opportunity to show off the potential value of your product to an audience that often bristles at conventional marketing. With that in mind, here are a few things to focus on when creating case studies for developers, security architects, quality engineers, and other technical buyers:
 
@@ -20,7 +20,7 @@ Case studies are valuable for any audience, but for technical audiences they pro
 
 Taken from Ashley’s guide to [Writing Case Studies for a Technical Audience](https://docs.google.com/document/d/18UL7LNOIcYkZ4NEF-aeDfhXDq7pyoSvwvEq9hmLrKks/edit#) for Heavybit.
 
-### Case Study Requirements
+### Case study requirements
 
 Our goal with case studies is to highlight our most successful customers and share how they're benefiting from using Mattermost. Our general requirements:
 
@@ -29,7 +29,7 @@ Our goal with case studies is to highlight our most successful customers and sha
 * Customer has been actively using Mattermost for at least three months.
 * Customer has general approval to participate in case studies and other promotion materials, i.e., there are no bans on participation.
 
-### Case Study Process
+### Case study process
 
 Mattermost, Inc. is excited to highlight interesting use cases from across our customer base to bring attention to your company and how it’s benefiting from using Mattermost.
 
@@ -51,7 +51,7 @@ The process is approximately as follows:
 9. Case study owner writes a description of the case study with key details, to be shared with Sales, Customer Success, and other teams.
    * Ex. “We’re excited to introduce our latest case study with Worldline. Worldline first started using Mattermost because they needed a more secure alternative to Slack. Mattermost gives Worldline a central collaboration space that its distributed team uses to find information, organize projects, and speed up development workflows using the Mattermost GitLab plugin.”
 
-### Customer Questionnaire
+### Customer questionnaire
 
 The below customer questionnaire template helps us gather information to share with the Mattermost community on your business, your needs, and how Mattermost can help serve your organization.
 
@@ -59,7 +59,7 @@ The below customer questionnaire template helps us gather information to share w
 >
 > Please contact your Mattermost Marketing contact to get started.
 >
-> #### Business Information
+> #### Business information
 >
 > Help us understand your current company’s challenges and goals, and how they fit into the landscape of your industry.
 >
@@ -76,7 +76,7 @@ The below customer questionnaire template helps us gather information to share w
 > * What might have happened if you didn't identify a solution?
 > * Did you explore other solutions prior to this that didn't work out? If so, what happened?
 >
-> #### Decision Process
+> #### Decision process
 >
 > Help us understand how you arrived at a decision to use Mattermost \(this will help other potential customers through their own process\).
 >
@@ -92,7 +92,7 @@ The below customer questionnaire template helps us gather information to share w
 > * Did that meet your expectations?
 > * Who was involved in the process?
 >
-> #### Solution in Action
+> #### Solution in action
 >
 > Please share how the solution is used today.
 >
@@ -113,21 +113,21 @@ The below customer questionnaire template helps us gather information to share w
 >
 > Thank you so much for being part of our community!
 
-### Case Study Interview Process
+### Case study interview process
 
 * The call will take place after the customer case study contact has completed the above questionnaire.
 * The case study writer should also be on the call.
 * At the beginning of the call, the customer is asked if they’re in agreement that the interview be recorded to ensure accurate note-taking. Once agreed, the interview is then recorded via Zoom and the recording is transcribed after the call.
 * A draft of the case study, in appropriate format, is sent to the customer for review 1-2 weeks after the call.
 
-### Writing Guidelines
+### Writing guidelines
 
 1. Don't use slang or jargon. Write so that people with English as a second language can understand every sentence.
 2. Don't criticize the competition or disparage other products. It’s okay to factually address differences on why Mattermost was selected.
 3. Don't mention staff size if less than 250 people.
 4. Don't use hyperbole \(e.g. “game changing”\).
 
-### Written Case Study Layout
+### Written case study layout
 
 Follow these steps to write a case study that is clear and concise:
 
@@ -149,7 +149,7 @@ Follow these steps to write a case study that is clear and concise:
 
 These case study procedures draw heavily from Hubspot’s [How to Write a Case Study](https://blog.hubspot.com/blog/tabid/6307/bid/33282/the-ultimate-guide-to-creating-compelling-case-studies.aspx) article.
 
-## For Customers: Case Study FAQs
+## For customers: Case study FAQs
 
 **How much of a time commitment is participating in a Mattermost case study?**
 
@@ -182,4 +182,3 @@ Please let your CSM know if you'd like us to remove your case study. Note that i
 **I really love using Mattermost! Are there other customer programs I can participate in?**
 
 We love featuring our users as guest contributors on our blog and as collaborators on webinars. If you’re interested in sharing more of your experience with our community, please let us know!
-

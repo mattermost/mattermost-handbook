@@ -60,7 +60,7 @@ There’s a few things you should set up before your first day on call. Work thr
       6. Confirm that your notification rules are followed.
       7. Acknowledge the alert.
       8. Close the alert.
-4. Join [~Incidents Status](https://community-daily.mattermost.com/private-core/channels/incidents) channels on community.mattermost.com.
+4. Join [~Incidents Status](https://community.mattermost.com/private-core/channels/incidents) channels on community.mattermost.com.
 5. Read [Incident Response](https://docs.google.com/document/d/1-AWQJQelgKvGVSP6sOIi9EOSVjxXVlJlwNuJlkcXKGA/edit#heading=h.uk4q4qkm81h0) to familiarize yourself with the response process.
 6. Create a test incident to familiarize yourself with playbooks
    1. On community.mattermost.com, select the clipboard icon in the channel header.

@@ -33,4 +33,3 @@ The requester has one of three options to include the Finance team in the billin
 * Set a reminder to send AP@mattermost.com the receipt, if it is a monthly charge.
 
 If you have additional questions for this process, please reach out to the Finance team on the [Purchases channel](https://community.mattermost.com/private-core/channels/purchases).
-

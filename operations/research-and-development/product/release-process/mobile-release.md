@@ -11,7 +11,7 @@ Please refer to [the Mobile Release Playbook](https://community.mattermost.com/p
 Notes:
 
 * All cut-off dates are based on 10am \([San Francisco Time](https://everytimezone.com/)\) on the day stated.
-* T-minus counts are measured in "working days" \(weekdays, Monday through Friday, excluding [the listed statutory holidays](https://docs.mattermost.com/process/working-at-mattermost.html#holidays)\) prior to release day.
+* T-minus counts are measured in "working days" \(weekdays, Monday through Friday, excluding [the listed statutory holidays](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#holidays)\) prior to release day.
 
 ### A. \(T-minus 20 working days\) Cut-off for merging major features
 
@@ -136,7 +136,7 @@ The final release is cut. If an urgent and important issue needs to be addressed
 
 1. Marketing:
    * After the apps are approved and on the App Store \(number of days may vary\), send out release marketing
-     * Update the app version on the [download page](https://about.mattermost.com/download/#mattermostApps)
+     * Update the app version on the [download page](https://mattermost.com/download/)
      * Send out a Twitter announcement
    * Double check that minimum server version required is clear in update notes in the App stores and in GitHub README and Releases pages
 

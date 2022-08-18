@@ -1,6 +1,6 @@
 # Feature Release Process
 
-Mattermost core team works on a monthly release process, with a new version shipping on the 16th of each month in [binary form](http://docs.mattermost.com/administration/upgrade.html#mattermost-team-edition).
+Mattermost core team works on a monthly release process, with a new version shipping on the 16th of each month in [binary form](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html).
 
 This document outlines the development process for the Mattermost core team, which draws from what we find works best for us from Agile, Scrum, and Software Development Lifecycle approaches. Please refer to [the Self-Managed Release Playbook](https://community.mattermost.com/playbooks/playbooks/t7s6wkmsfpf99xe6sxgricgd9e/preview) for a most up-to-date checklist.
 
@@ -14,7 +14,7 @@ Recommended pre-reading:
 Notes:
 
 * All cut-off dates are based on 10am \([San Francisco Time](http://everytimezone.com/)\) on the day stated.
-* T-minus counts are measured in "working days" \(weekdays, Monday through Friday, excluding [the listed statutory holidays](https://docs.mattermost.com/process/working-at-mattermost.html#holidays)\) prior to release day.
+* T-minus counts are measured in "working days" \(weekdays, Monday through Friday, excluding [the listed statutory holidays](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#holidays)\) prior to release day.
 
 ### A. \(Code complete date of previous release\) Beginning of Release
 
@@ -29,13 +29,13 @@ Day when Leads and PMs decide which major features are included in the release, 
    * Begin daily triage of tickets with the team
      * Also triage tickets in the backlog
    * Prior to the cut to Self-Managed, the Release manager reviews new feature flags and provides a report to the PM/QA team for their review. Essentially a feature will be included in a Self-Managed release once the feature flag has been removed.
-   * Confirm with PMs that each Enterprise feature is in the correct [pricing SKU](https://about.mattermost.com/pricing/)
+   * Confirm with PMs that each Enterprise feature is in the correct [pricing SKU](https://mattermost.com/pricing/)
    * Review any features that are currently in beta and confirm with PMs if there are any to be promoted
    * Review the Jira tickets remaining in the current release fix version and push those that won't make it to the next fix version
    * After mobile release branch is cut, ask dev to cut an RN build
    * Queue a list of MVP candidates in alphabetical order to the MVP Discussion channel [See example](https://community.mattermost.com/core/pl/3its7ifbw7dh58obpasdszf1mr)
-   * Draft changelog in a WIP PR with updates for highlights, feature additions, known issues, compatibility updates for deprecated features, `config.json`, [database changes](https://github.com/mattermost/mattermost-server/blob/master/store/sqlstore/upgrade.go), [API changes](https://github.com/mattermost/mattermost-server/commits/master/model/client.go), [WebSocket event changes](https://github.com/mattermost/mattermost-server/blob/master/model/websocket_message.go#L13), and Go runtime version; [see example](http://docs.mattermost.com/administration/changelog.html#compatibility)
-     * Specify the release type with a link to the [Release Definitions doc](https://docs.mattermost.com/administration/release-definitions.html)
+   * Draft changelog in a WIP PR with updates for highlights, feature additions, known issues, compatibility updates for deprecated features, `config.json`, [database changes](https://github.com/mattermost/mattermost-server/blob/master/store/sqlstore/upgrade.go), [API changes](https://github.com/mattermost/mattermost-server/commits/master/model/client.go), [WebSocket event changes](https://github.com/mattermost/mattermost-server/blob/master/model/websocket_message.go#L13), and Go runtime version; [see example](https://docs.mattermost.com/install/self-managed-changelog.html)
+     * Specify the release type with a link to the [Release Definitions doc](https://docs.mattermost.com/upgrade/release-definitions.html)
    * Review that [software requirements](https://docs.mattermost.com/install/requirements.html#software-requirements) and [server software versions](https://docs.mattermost.com/install/requirements.html#server-software) are up-to-date based on [these step-by-step guidelines](https://handbook.mattermost.com/operations/research-and-development/product/development-process/software-requirements)
    * Ask PMs and Dev Leads if there are any notable breaking changes or deprecated features in the release
      * Update [Upgrade Guide](https://docs.mattermost.com/administration/important-upgrade-notes.html) with any special notes for upgrading to the new version
@@ -85,7 +85,7 @@ Day when Leads and PMs decide which major features are included in the release, 
 2. Logistics @hanna.park:
    * Mail out contributor and security researcher mugs
      * Space out the ordering of mugs over the next three weeks to prevent mistakes being made by the supplier \(e.g., If there are 12 contributors to order mugs for, place an order every 2nd or 3rd day over the next three weeks\)
-   * Update [Team](http://www.mattermost.org/team/) page with new contributors
+   * Update [Team](https://developers.mattermost.com/contribute/team_contributions/) page with new contributors
    * Generate an E20 5000 seat test licence and email to Lindy for release testing
 3. QA:
    * Confirm up to date with testing PRs and resolved tickets
@@ -111,7 +111,7 @@ Day when Leads and PMs decide which major features are included in the release, 
 
 ### D. \(T-minus 5 working days\) Code Freeze
 
-Day after which only **S1 regressions** should be fixed \(crashes, security vulnerabilities\) and no other code changes should be committed. Exceptions can be made by the Release Manager during triage on a case-by-case basis. Review the [Bug Severity Guidelines](https://docs.mattermost.com/process/bug-severity-guidelines.html).
+Day after which only **S1 regressions** should be fixed \(crashes, security vulnerabilities\) and no other code changes should be committed. Exceptions can be made by the Release Manager during triage on a case-by-case basis. Review the [Bug Severity Guidelines](https://handbook.mattermost.com/operations/research-and-development/product/development-process/new-bug-tickets/bug-severity-guidelines).
 
 1. Release Manager:
    * Post this checklist in Release Checklist channel
@@ -142,13 +142,13 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
    * Add the download links, SHA-256 hash, and GPG signature to the [version archive](https://docs.mattermost.com/administration/version-archive.html)
    * Merge changelog PR after review is complete
      * If there is a security fix, confirm the changelog recommends upgrade, with a note mentioning the security level and thanking the security researcher \(security process doc for example\)
-   * Update the [Mattermost server download page](https://www.mattermost.org/download/) with the links to the Enterprise Edition and Team Edition sections
+   * Update the [Mattermost server download page](https://mattermost.com/download/) with the links to the Enterprise Edition and Team Edition sections
      * Test the download links before and after updating the page
    * Check security issues and confirm disclosure text
    * Update the [security mugs spreadsheet](https://docs.google.com/spreadsheets/d/18MVoUJ1pfvqhqEX7tfQ9pia8yVuac8UsnfKmnU_dTqk/edit#gid=0)
-   * Check the security researcher was added to the [Responsible Disclosure Policy](https://www.mattermost.org/responsible-disclosure-policy/) page
-   * Update [deprecated feature list](https://about.mattermost.com/deprecated-features/) in mattermost.com with new and scheduled deprecations
-   * Draft [Mattermost Security Updates](http://about.mattermost.com/security-updates/), but do not post until 30 days after official release 
+   * Check the security researcher was added to the [Responsible Disclosure Policy](https://mattermost.com/security-vulnerability-report/) page
+   * Update [deprecated feature list](https://docs.mattermost.com/install/deprecated-features.html) in mattermost.com with new and scheduled deprecations
+   * Draft [Mattermost Security Updates](https://mattermost.com/security-updates/), but do not post until 30 days after official release 
      * Add a placeholder text saying "Details on the security update will be posted here on X date, as per our Responsible Disclosure Policy"
 2. QA:
    * Verify all PRs and tickets for the release have been tested/closed
@@ -159,11 +159,11 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
    * Post in `Release: Self-Managed` with links to the Enterprise Edition and Team Edition sections
 4. Dev:
    * Verify the hashes \(SHA-1, SHA-256, and md5\) and GPG signatures are correct for both Enterprise Edition and Team Edition
-   * Test upgrade from previous version to current version, following the [Upgrade Guide](http://docs.mattermost.com/administration/upgrade.html#upgrade-guide) with database upgrades on both MySQL and Postgres
-   * Test upgrade from Team Edition to Enterprise Edition based on the [Upgrade Guide](https://docs.mattermost.com/administration/upgrade.html#upgrade-team-edition-to-enterprise-edition)
+   * Test upgrade from previous version to current version, following the [Upgrade Guide](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html) with database upgrades on both MySQL and Postgres
+   * Test upgrade from Team Edition to Enterprise Edition based on the [Upgrade Guide](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html)
    * Test fresh install of current version, following the [Install Guide](https://docs.mattermost.com/guides/administrator.html#installing-mattermost)
    * Review any changes made to install guides, and test if necessary
-   * Ensure [Security Policies](https://docs.mattermost.com/process/security.html) page has been updated
+   * Ensure [Security Policies](https://handbook.mattermost.com/operations/operations/company-policies/security-policies) page has been updated
    * Update dependancies after release branch is cut in `mattermost-server`, `mattermost-webapp`, `desktop`, `mattermost-mobile`, and `mattermost-redux`
 5. Logistics @hanna.park:
    * Order the release MVP winner's coaster
@@ -185,12 +185,12 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
    * Schedule a release retrospective meeting, to be held within five days of the release
    * Prepare and post [release metrics](https://docs.google.com/spreadsheets/d/1Aoj4OTaWoyrKIcQNiHH1MVoRG51T20Y_0w2tg5oVw-M/edit#gid=825551144)
    * Finalize [release summary slide deck](https://docs.google.com/presentation/d/1DnfgP-yyZ8-sfhQC7rS9McbQQcmSPCQYLs62LNoIJuQ/edit#slide=id.g2f0aecc189_0_245) to prepare for posting for CSMs
-   * Review and update [company roadmap](https://about.mattermost.com/direction/) with which major features made it into the release
+   * Review and update [company roadmap](https://mattermost.com/roadmap/) with which major features made it into the release
      * Review with Head of Product prior to updating
      * Also update feature lists on [https://mattermost.com/pricing/](https://mattermost.com/pricing/) and [https://mattermost.com/product/](https://mattermost.com/product/) with relevant new features where needed
    * Update the Mattermost Wikipedia page with the latest version
    * Post the MVP winner announcement in the [Contributors channel](https://community.mattermost.com/core/channels/tickets)
-     * Update [MVP page](https://www.mattermost.org/mvp/) with the most valued professional of the release
+     * Update [MVP page](https://developers.mattermost.com/contribute/mvp/) with the most valued professional of the release
    * Add new release fix versions in Jira for the next few releases
    * Post key dates for the next release in the `Release: Self-Managed` channel and remove links to RC candidates and testing spreadsheet from the header
      * Make sure that statutory holidays for Canada and US are accounted for in the release dates
@@ -233,6 +233,5 @@ The final release is cut - RC cuts and bug fixes should be completed by this dat
 ### G. \(T-plus 30 days\) Update Mattermost Security Page
 
 1. Release Manager:
-   * Post [Mattermost Security Updates](https://about.mattermost.com/security-updates/) after reviewing with security lead
+   * Post [Mattermost Security Updates](https://mattermost.com/security-updates/) after reviewing with security lead
      * If a dot release is shipping with security fixes, do not post new details until T-plus 10 working days from the dot release ship date
-

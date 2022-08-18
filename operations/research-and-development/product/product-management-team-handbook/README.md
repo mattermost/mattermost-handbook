@@ -2,15 +2,35 @@
 description: 1% DRAFT
 ---
 
-# Product Management Team Handbook
+# Product Management team handbook
 
 ## Overview
 
 The purpose of this handbook is to provide more details on the Product Manager role, processes, and relations to other functions within the organization to foster success for employees in this role. This handbook may be shared with other functional areas so they may gain a better understanding of the Product Manager role, and develop a greater understanding for responsibilities and interaction areas.
 
-[Product Management Areas of Ownership](https://github.com/mattermost/mattermost-handbook/tree/b5025ef767aefd213958c7bd90c94c08460bc173/operations/research-and-development/product/operations/research-and-development/product/product-ownership-areas.md) [Product Manager Onboarding](https://github.com/mattermost/mattermost-handbook/tree/b5025ef767aefd213958c7bd90c94c08460bc173/operations/research-and-development/product/operations/research-and-development/product/pm-onboarding.md)
+- [Product Management Areas of Ownership](https://github.com/mattermost/mattermost-handbook/tree/b5025ef767aefd213958c7bd90c94c08460bc173/operations/research-and-development/product/operations/research-and-development/product/product-ownership-areas.md)
+- [Product Manager Onboarding](https://github.com/mattermost/mattermost-handbook/tree/b5025ef767aefd213958c7bd90c94c08460bc173/operations/research-and-development/product/operations/research-and-development/product/pm-onboarding.md)
 
-## The Product Manager Role
+## The Product Management team
+
+Message the entire team via @pmteam in the Product Management channel on https://community.mattermost.com.
+
+The PM team includes (in alphabetical order, by their username on https://community.mattermost.com):
+
+- @chen-i.lim
+- @don.hogan
+- @eric.sethna
+- @jason.blais
+- @john.lugtu
+- @katie.wiersgalla
+- @laney.coletti-saracino
+- @neil.barnett
+- @rohan.monga
+- @stephen.vanhemmen
+- @tao
+- @winson.wu
+
+## The Product Manager role
 
 Product Managers are organized within the R&D area of Mattermost; however, they have interactions with all departments and areas to ensure success of the product.
 
@@ -166,14 +186,14 @@ Product Managers are responsible for carrying out the strategic priorities of th
 * Ensure cross-collaboration between designers, developers, and QA
 * Create Jira tickets for features and bugs
 * More complete information on the Design process can be found [here](https://docs.google.com/document/d/1PMGeoh95CyLZ2lfAjOh6p2HuFrysx5HXit8XoOrm8Pg/edit)
-* Ensure designs follow our [UX guidelines](https://docs.mattermost.com/developer/fx-guidelines.html#fast-obvious-forgiving)
+* Ensure designs follow our [UX guidelines](https://zeroheight.com/29be2c109/p/340e64-design-principles)
   * Fast, Obvious, Forgiving
 * Determine feature availability: Team Edition or Enterprise Edition
   * [Stewardship principles](https://docs.mattermost.com/developer/manifesto.html#stewardship-principles-for-the-mattermost-open-source-project) that we use to guide whether a feature belongs in TE
-  * [TE vs EE from Ian](https://community-release.mattermost.com/private-core/pl/m1o63kk3h7numxw3z116ft4ffw)
+  * [TE vs EE from Ian](https://community.mattermost.com/private-core/pl/m1o63kk3h7numxw3z116ft4ffw)
 * Determine Packaging/SKU \(E10 & E20\)
   * TE OR EE
-    * [https://docs.mattermost.com/overview/product.html\#mattermost-editions](https://docs.mattermost.com/overview/product.html#mattermost-editions) 
+    * [https://docs.mattermost.com/overview/product.html\#mattermost-editions](https://docs.mattermost.com/about/product.html) 
   * In-Code: if \(this.props.buildEnterpriseReady && this.props.isLicensed\)
   * Review with PM team and get approval from other leads as required
 
@@ -239,9 +259,9 @@ Review Release PRs and Community PRs to ensure the feature meets requirements fo
   * Release notes should be written targeting an international IT Admin
   * Guidelines for [documentation](https://handbook.mattermost.com/operations/research-and-development/product/product-technical-writing-team-handbook#submitting-feature-documentation-pms)
     * Any in product instructions or documentation should never contain hard-coded links
-    * A redirect page from about.mattermost.com should be used in product instructions. \(See instructions [here](https://handbook.mattermost.com/operations/research-and-development/product/product-management-team-handbook#how-do-i-create-redirects-for-in-product-documentation)\)
+    * A redirect page from https://mattermost.com/ should be used in product instructions. \(See instructions [here](https://handbook.mattermost.com/operations/research-and-development/product/product-management-team-handbook#how-do-i-create-redirects-for-in-product-documentation)\)
 * Maintain product accuracy on mattermost.com/product and roadmap
-* Author [Forum](https://forum.mattermost.org/t/community-design-meeting-folded-reply-threads/6729/10), [blog](https://mattermost.com/blog/mattermost-launches-mattermost-superstars-program-for-contributors/) and [release announcement](https://mattermost.com/blog/mattermost-release-v5-25/) posts
+* Author [Forum](https://forum.mattermost.com/t/community-design-meeting-folded-reply-threads/6729/10), [blog](https://mattermost.com/blog/mattermost-launches-mattermost-superstars-program-for-contributors/) and [release announcement](https://mattermost.com/blog/mattermost-release-v5-25/) posts
   * Example \(link to Eric’s permissions post\)
 * Other Marketing \(e.g. future webinars, event participation, etc\)
 
@@ -405,18 +425,20 @@ Product Managers are mentioned to assist in answering product question escalatio
 
 ### How do I create redirects for in-product documentation?
 
-Documentation that is linked in-product should always use a redirect from www.mattermost.com instead of the docs.mattermost.com site, to ensure links are not broken in the event that they are moved on the docs site.
+Documentation that is linked in-product should always use a redirect in the form `https://mattermost.com/pl/<default-page-name>/` instead of a hard-coded link to mattermost.com or docs.mattermost.com. This ensures in-product links are not broken in the event that they are moved.
 
-To set up a redirect, you must have admin access to www.mattermost.com. Marketing can assist with this access or @jason.blais or @katie.wiersgalla can add a redirect for you.
+To set up a redirect, follow these steps:
 
-If you have access, follow these steps:
+1. Decide the in-product link in the form `https://mattermost.com/pl/<default-page-name>/`
+2. Request in the Marketing channel for them to add a 301 redirect from `https://mattermost.com/pl/<default-page-name>/` to the appropriate mattermost.com or docs.mattermost.com page.
 
-1. Log in to the administration panel for www.mattermost.com
-2. From the left-hand sidebar, go to **SEO &gt; Redirects**
-3. On the top of the screen, ensure you are on the **Redirects - Yoast SEO** page header on the **Redirects** tab
-4. Under **Type**, choose `301 Moved Permanently` option \(this is the default option\)
-5. In the **Old url** field, enter in the new direct you want to use in-product in the format of `/pl/default-page-description`. Update the page description with your page information
-6. In the **Url** field, enter in the full URL to the page on docs.mattermost.com
-7. Click the **Add Redirect** botton and verify your entry is added to the list. You may need to page through to find your entry
-8. Test your redirect URL. This will be the URL in the format of `https://www.mattermost.com/pl/default-page-description`
+For a Marketing team member who adds the redirect, follow these steps:
 
+1. Log in to the administration panel for https://mattermost.com/.
+2. From the left-hand sidebar, go to **SEO > Redirects**.
+3. On the top of the screen, ensure you are on the **Redirects - Yoast SEO** page header on the **Redirects** tab.
+4. Under **Type**, choose `301 Moved Permanently` option \(this is the default option\).
+5. In the **Old url** field, enter in the new direct you want to use in-product in the format of `/pl/default-page-description`. Update the page description with your page information.
+6. In the **Url** field, enter in the full URL to the page on docs.mattermost.com.
+7. Click the **Add Redirect** botton and verify your entry is added to the list. You may need to page through to find your entry.
+8. Test your redirect URL. This will be the URL in the format of `https://mattermost.com/pl/default-page-description`.

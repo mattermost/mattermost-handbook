@@ -2,11 +2,11 @@
 
 The goal of the localization process is to consistently produce high quality translations release after release through collaboration between the international community, translators, project managers, language leads, and the core team.
 
-## Translation Process
+## Translation process
 
 If you're interested in contributing translations to Mattermost, please join the [Mattermost localization channel to discuss](https://community.mattermost.com/core/channels/localization). Below are descriptions of the overall localization process.
 
-## Initial Translation
+## Initial translation
 
 To translate a language:
 
@@ -23,7 +23,7 @@ To translate a language:
    * [French \(Règles pour la traduction francophone de Mattermost\)](https://github.com/wget/mattermost-localization-french-translation-rules).
    * [Dutch translation rules for Mattermost](https://github.com/ctlaltdieliet/mattermost-localization-dutch-translation-rules).
 
-## Translation Updates
+## Translation updates
 
 1. New and updated source strings are automatically added to the translation server each time a GitHub pull request containing string changes is merged.
 2. A new pull request with latest translations that reach at least Beta quality is submitted to the [mattermost-mobile](https://github.com/mattermost/mattermost-mobile), [mattermost-server](https://github.com/mattermost/mattermost-server), and [mattermost-webapp](https://github.com/mattermost/mattermost-webapp) repos each Monday at 22:00 GMT.
@@ -32,7 +32,7 @@ To translate a language:
 
 **Important:** Please do **not** submit translations directly via a pull request as they may be lost with the next pull request update from the Mattermost Translation Server.
 
-## Translation Quality
+## Translation quality
 
 In order for users to understand the accuracy and coverage of language translations, quality levels are explicitly defined for each language:
 
@@ -59,7 +59,7 @@ Beta languages are listed in **Account Settings &gt; Display &gt; Language** app
 
 An official language may be changed back to Beta or Alpha if the specified requirements are not met for a release. Similarly, Beta languages may be dropped back to Alpha.
 
-## Message Syntax
+## Message syntax
 
 To format localized messages, [mattermost-webapp](https://github.com/mattermost/mattermost-webapp) uses the [react-intl](https://formatjs.io/docs/react-intl), a Javascript library from [FormatJS](https://formatjs.io). This library uses the [ICU Message syntax](http://userguide.icu-project.org/formatparse/messages), which is the standard syntax for many programming languages.
 
@@ -67,7 +67,7 @@ If you don't know about the ICU syntax, please familiarize yourself by reading t
 
 In order to ease the manipulation of strings like these with a special syntax \(ICU as a reminder\), a developer has created an online tool allowing to test an ICU string. This tool, called [Online ICU Message Editor](https://format-message.github.io/icu-message-format-for-translators/editor.html), is displayed as a live editor previewing how a string will appear in context. This tool has been reported by some members of our community as really helpful to translate strings containing an ICU syntax. Don't hesitate to use it.
 
-## Knowledge Base
+## Knowledge base
 
 Some terms used in Mattermost may be technical. If you don't know how to translate a specific term:
 
@@ -76,7 +76,7 @@ Some terms used in Mattermost may be technical. If you don't know how to transla
 * Use the [Microsoft open linguistic portal](https://www.microsoft.com/en-us/language/Search).
 * Ask your question on the [Mattermost localization channel](https://community.mattermost.com/core/channels/localization).
 
-## Test Translations
+## Test translations
 
 If you'd like to review and verify translations prior to achieving Beta quality status, you can follow these steps:
 
@@ -96,7 +96,7 @@ If you find a string that has not been translated, search for the string in the 
 
 If it’s included in the file, then most likely it hasn't been translated yet, but is in [https://translate.mattermost.com](https://translate.mattermost.com). If you want to confirm whether it's translated, you can check for the respective `.json file` in the `/i18n` folder.
 
-## Translation Maintenance
+## Translation maintenance
 
 Translations require updates on a monthly basis as features are added and changed.
 
@@ -128,7 +128,7 @@ If you're interested in contributing to the process, please join the [Mattermost
 | 中文 \(简体\) - Simplified Chinese | [aeomin \(aeomin\)](http://translate.mattermost.com/user/aeomin) |  |
 | 中文 \(繁體\) - Traditional Chinese | [Tze-Kei Lee \(chikei\)](https://github.com/chikei) |  |
 
-## Administrative Tasks
+## Administrative tasks
 
 To grant trusted translators additional permissions as Weblate admin, add the user to the `mattermost@TrustedReviewers` group in Weblate:
 
@@ -146,3 +146,20 @@ To add a new language:
 3. Select the languages you want to add, then **Start new translation**.
 4. Repeat step 2 for every component in [https://translate.mattermost.com/projects/i18n-wip](https://translate.mattermost.com/projects/i18n-wip).
 
+## Translation PRs review process
+
+The translation PRs get automatically opened once a week on Mondays. They also get posted to the [i18n PRs channel](https://community.mattermost.com/core/channels/i18n-prs).
+
+PR reviews need to focus on ensuring that unexpected characters aren't injected into strings. If security concerns are found, notify the Security team.
+
+The translation PRs should be reviewed and merged as soon as possible to avoid alerts from Weblate. Note that it is critical that teams merge these PRs using "merge commit" (or technically also "rebase and merge"), but /never/ "squash and commit". The latter breaks the weblate flow, locking the translations, and forcing a manual fix.
+
+Amy Blais will notify the team if the PR should be cherry-picked to a release branch (e.g. ``cloud``).
+
+PR review owners:
+  - Server translations PRs - Channels/Suite Users teams (Owners: Guillermo and Zef)
+  - Webapp translations PRs - Channels/Suite Users teams (Owners: Guillermo and Zef)
+  - Mobile translations PRs - Channels/Suite Users teams (Owners:  Guillermo and Zef)
+  - Desktop app translations PRs - Platform team (Owner: Devin)
+  - Boards translations PRs - Boards team (Owners: Scott and Jesus)
+  - Playbooks translations PRs - Playbooks team (Owners: Jesse and Caleb)

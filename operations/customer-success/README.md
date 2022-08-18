@@ -4,7 +4,7 @@
 
 Deliver the ideal customer journey experience to all customers at scale.
 
-### Customer Success Journey Principles
+### Customer Success journey principles
 
 * See first from the customer’s perspective \(golden rule\).
 * Strive to be a partner, looking to meet both the current and future needs of the customer.
@@ -12,7 +12,7 @@ Deliver the ideal customer journey experience to all customers at scale.
 * Focus on customer outcomes and creating value.
 * Make Mattermost better by sharing learnings and feedback.
 
-### Customer Segmentation
+### Customer segmentation
 
 * **Goal:** Deliver a great customer journey for all customers.
 * **Reality:** Not all customers are created equally.
@@ -20,7 +20,7 @@ Deliver the ideal customer journey experience to all customers at scale.
 
 See [Post Sales Customer Journey Playbook](https://docs.google.com/document/d/1WB9Qr4ZRjZixprLKiX6tlbb4784qw5luV3eqzk_9hyw/edit#heading=h.hy6fak6l0x08) for customer segmentation details.
 
-### Customer Feedback
+### Customer feedback
 
 #### Overview
 
@@ -35,7 +35,7 @@ Customer Feedback calls are conducted by all customer facing employees at Matter
 
 These calls are logged in Salesforce for tracking and reporting purposes.
 
-#### Logging a Customer Feedback in Salesforce
+#### Logging customer feedback in Salesforce
 
 Below are the links to the training videos for Enterprise and non-Enterprise customers.
 
@@ -44,7 +44,7 @@ Below are the links to the training videos for Enterprise and non-Enterprise cus
 
 Use the following steps to log calls for licensed and non-licensed customers in Salesforce.
 
-**Enterprise Customers**
+**Enterprise customers**
 
 1. Log into Salesforce.
 2. Type in account name in the search bar located in the middle of the screen.
@@ -62,7 +62,7 @@ Use the following steps to log calls for licensed and non-licensed customers in 
    * **Comments:** Details of the call or meeting.
    * Select **Save**.
 
-   **Non-Enterprise Customers - Account Exists in Salesforce**
+   **Non-Enterprise Customers - account exists in Salesforce**
 
 7. Search for an account in Salesforce and select the account from the drop-down menu.
 8. If the Account exists, click on the account.
@@ -77,7 +77,7 @@ Use the following steps to log calls for licensed and non-licensed customers in 
 12. Fill in the highlighted sections. Select **Customer Feedback** as sub-type.
 13. Select **Save**.
 
-**Non-Enterprise Customers - Account Does Not Exist in Salesforce**
+**Non-Enterprise Customers - Account doesn't exist in Salesforce**
 
 1. Search for Account “Hold Public” in the search bar and select the account from the drop-down menu.
 2. Hover over contacts and select **New** to create a contact.
@@ -93,7 +93,7 @@ Use the following steps to log calls for licensed and non-licensed customers in 
 
    _Note: Salesforce Customer Feedback calls are pushed through Zapier into productboard and the Internal Customer Feedback Channel in Mattermost._
 
-### Customer Reference
+### Customer reference
 
 #### Overview
 
@@ -187,7 +187,7 @@ The Customer Risk object in Salesforce was created to track At-Risk and Early Wa
 
 To log Customer Risk in Salesforce you can watch the [Creating Customer Risk video](https://drive.google.com/drive/u/0/folders/1_nbZhAirM2-4q4oFdygSgmS1H_pAn5qm) or follow the step-by-step instructions below.
 
-#### Instructions for Logging in Salesforce
+#### Instructions for logging in Salesforce
 
 **Salesforce Account Layout Customer Risk Button** 1. Log into your Salesforce account. 2. Type the Account Name in the search bar. 3. Select "Log Customer Risk" button 4. The quick form appears in a small pop-out window. You don't need to fill out all fields. Below are the fields you need to fill out:
 
@@ -227,4 +227,3 @@ To log Customer Risk in Salesforce you can watch the [Creating Customer Risk vid
 
 * **Contraction:** Formula to see if number of seats at risk is less than number of seats licensed.  If so, the risk is flagged "yes" for contraction risk. If seats and risk and seats licensed are equal the risk is flagged "no" for contraction risk.
 * **Customer Risk Name:** Customer name and Primary risk reason.
-

@@ -44,7 +44,7 @@ MatterCon 2020 registration is now closed.
 
 We have observed from the past that contributors who have chosen to bring children spend significantly less time collaborating with Mattermost team members. If you need to travel with family members, you are expected to fully engage in as many group activities as you are physically able, invite team members to join you during meals, attend all company meetings, and recognize that MatterCon is an investment in the continued growth of the organization. All Mattermost-sponsored activities are 18+. This includes workshops, keynotes, excursions, team dinners.
 
-**Leisure time around Contribute**
+**Leisure time around contribute**
 
 * MatterCon is a work trip, not an incentive trip and should be treated as an opportunity to get to know the Mattermost team better.
 * If you want to enjoy the facilities or the area around it, feel free to book an extra day or more _before or after_ MatterCon.
@@ -76,6 +76,10 @@ This is scheduled time for teams to have team-only time to discuss their work, s
 * Check the packing list \(coming soon\) for what to bring.
 
 ### Past MatterCons
+
+MatterCon 2021 was Mattermost's first VR conference and was held virtually.
+
+[Here are the lightning talks from MatterCon 2021.](https://www.youtube.com/watch?v=obLMOBfImX0&list=PL-jqvaPsjQpOlydfk-W9fC9JZnOLDshIv)
 
 MatterCon 2020 was held at the Melia Nassau Beach resort in Nassau, Bahamas:
 

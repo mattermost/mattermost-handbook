@@ -15,7 +15,7 @@ While not every web app feature needs parity with mobile, this is a discussion t
 
 ## Backward compatibility
 
-* Mobile releases must be backward compatible with at least all server versions back to the [oldest supported ESR](https://docs.mattermost.com/administration/extended-support-release.html?highlight=esr). An important question to ask during design is: _What is the expected behavior on a new server with an old app, or a new app with an old server?_
+* Mobile releases must be backward compatible with at least all server versions back to the [oldest supported ESR](https://docs.mattermost.com/upgrade/extended-support-release.html). An important question to ask during design is: _What is the expected behavior on a new server with an old app, or a new app with an old server?_
 
 Here's an example:
 

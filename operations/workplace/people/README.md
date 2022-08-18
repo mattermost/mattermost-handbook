@@ -60,6 +60,11 @@ Recruiting
 
 * @teresa.novoa - [Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa) - Technical Recruiting Manager
 
+Workplace
+
+* @hanna.park - [Hanna Park](https://community.mattermost.com/core/messages/hanna.park) - Workplace Community Manager
+* @vidhi.saini - [Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini) - Workplace Coordinator
+
 ## General Information
 
 ### Office Address
@@ -83,15 +88,18 @@ If you are a U.S. staff member and on payroll through TriNet, see [TriNet Contac
 ### Regular Compensation
 
 1. Employees of our US entity, Mattermost, Inc., receive salary by semi-monthly direct deposit via TriNet. Pay slips are available via [TriNet’s portal](https://www.hrpassport.com/).
-2. Employees of our Canadian co-employer receive salary by direct deposit semi-monthly via ADP.
-3. Contractors to Mattermost, Inc. should email invoices monthly with:
+2. Employees of our Canadian entity receive salary by direct deposit semi-monthly via Vistra.
+3. Employees of our German entity receive salary by direct deposit monthly via Vistra. 
+4. Employees of our UK entity receive salary by direct deposit monthly via Vistra. 
+5. Contractors to Mattermost, Inc. via Deel receive payment monthly via Deel. Invoices are automatically generated. 
+6. Contractors to Mattermost, Inc. (direct) should email invoices monthly with:
 
    ```text
    TO:       [Email specified in "Mattermost Invoice Instructions" emailed with your on-boarding instructions]
    CC:       [Email of your manager]
    SUBJECT:  [Please include MONTH YEAR and YOUR NAME or YOUR COMPANY NAME]
    ```
-
+   
 > * For ‘fixed fee’ contracts, it is fine to send invoice before the time period covered. Example: An invoice for services April 1-30 can be sent on April 25.
 > * Your manager should reply on the email with any feedback on the invoice.
 
@@ -108,8 +116,8 @@ If you are a U.S. staff member and on payroll through TriNet, see [TriNet Contac
 BambooHR is our Human Resources Information System \(HRIS\). BambooHR is a single source of truth for staff information, and data updates are supported by the following [directly responsible individuals](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#dri):
 
 > * The People Ops team uses BambooHR to store and update staff job information, records and important documents, for HR reporting and analytics, and to create new hire onboarding and offboarding workflows.
-> * Staff use BambooHR to update their personal and emergency contact information, and to reference the organizational chart and staff directory.
-> * Managers use BambooHR to recieve onboarding/offboarding notifications, approve appropriate changes for their team and/or direct reports. Note: managers will receive requests via a BambooHR notification sent to a Manager's Mattermost email address. Managers can click through the email notification to approve or approve directly in BambooHR. 
+> * Staff use BambooHR to update their personal and emergency contact information, to submit their PTO, and to reference the organizational chart and staff directory.
+> * Managers use BambooHR to approve their team's PTO, recieve onboarding/offboarding notifications, approve appropriate changes for their team and/or direct reports. Note: managers will receive requests via a BambooHR notification sent to a Manager's Mattermost email address. Managers can click through the email notification to approve or approve directly in BambooHR. 
 > * Executive Assistants \(EAs\) are able to update personal information for the MlT team members they support, and to be vacation-ready any appropriate back-up EAs will be able to update personal information as-needed. 
 > * To access the system go to [https://mattermost.bamboohr.com/](https://mattermost.bamboohr.com/) and use your Mattermost credentials to log in.
 

@@ -76,21 +76,29 @@ The goal is not to have the same release cadence for all products, but there may
 
 Currently Mattermost Cloud releases occur on a biweekly cycle, but the goal is to release more frequently. Cloud and self-managed PRs may need to be cherry-picked to the release branches, such as regression bug fixes and hotfixes that get merged after the release branch has already been cut.
 
-Schedule for Mattermost Cloud releases:
+We follow [the Agile Release Train method](https://www.scaledagileframework.com/agile-release-train/) at least for Cloud releases. If releases are not approved by a certain date, then we miss the release train.
 
-* \(T-6\): 7 working days prior to the release day, the `master` branch is merged to the Cloud branch and Cloud test servers are updated.
-* \(T-5-2\): Release testing and bug fixing.
-* \(T-0\): Release Day.
+For P0 bugs (eg. bugs that affect more than 25% of our customers with system degradation), we will do an exception and rollout a hotfix as soon as possible.
 
-Schedule for self-managed releases:
+**Schedule for Cloud releases**:
+ - Thursdays: Release day. Also merge master into the cloud branch and update cloud test servers for the next release, including Rainforest RFQA-Cloud servers.
+ - Fridays: Run Rainforest release test run groups, Cypress automated tests and product high level release smoke tests (i.e. Boards, Calls, Channels, Integration Frameworks, Playbooks and Suite Users). Close or label tickets for the release.
+ - Mondays and Tuesdays: Test failure reviews and bug fixing. Close or label any remaining tickets. Each team signs off as appropriate.
+ - Wednesdays: Final QA tasks and sign-off.
+    - QA approval should be given by 5pm Eastern on Wednesday so that the release rollout can be started early Thursday morning. 
+    - If QA approval is not ready by EOD Wednesday due to a testing delay or due to a last minute high priority bug fix, then we miss the release train.
+    - If the release train was missed, we need to do a retrospective on why it happened - e.g. are adjustments needed to the QA release testing process, or was there a reason why the last minute bug fix happened.
 
-* \(T-30\): Feature Complete (this is a rough date)
-* \(T-12\): Judgment Day/Release branch cut
-* \(T-11\): RC1 Cut
-* \(T-10\): RC testing and final QA testing
-* \(T-5\): Code Freeze
-* \(T-2\): Cut Final
-* \(T-0\): Release Day
+**Schedule for Self-managed releases**:
+ - Feature Complete deadline is approximately 1 month prior to the release day.
+    - When we merge master into the cloud branch for the last Cloud release of the month, this is the cut-off for new features included in the next self-managed release.
+    - If a feature misses the cut-off, it doesn’t get added to the next self-managed release.
+ - Cut release branch based off the last Cloud release of the month (around T-14).
+ - Code Freeze at T-5.
+    - Prepackaged Boards and Playbooks should be ready on or before this date. Note: currently the Boards team follows a slightly different release schedule and the Boards release may not be ready until T-3.
+ - Cut Final build at T-2.
+    - QA approval should be ready by T-2.
+ - Release Day at T-0.
 
 1. The feature is tested on a PR and E2E test automation is added.
 2. Large features are added behind a feature flag.
@@ -133,7 +141,7 @@ The Release Manager is able to look at the version we have deployed to Mattermos
 
 **Process for merging the `master` branch into the `cloud` branch**
 
-* For server, webapp, api-reference and enterprise cloud branches, the current `cloud` branch is deleted and a new one is created from the `master` branch for each. A backup of the `cloud` branches are saved. This is done biweekly on a Wednesday or Thursday by the Server Platform Team. See [this document](https://docs.google.com/document/d/1p54GySjFirwrTBbOc1jqXwfKE_XPJV0r6aNbVyZ1zV4/edit) for more details on the process.
+* For server, webapp, api-reference and enterprise cloud branches, the current `cloud` branch is deleted and a new one is created from the `master` branch for each. A backup of the `cloud` branches are saved. This is done biweekly on a Monday by the Release Manager via an automated process. See [this document](https://docs.google.com/document/d/1i3k322KATm76AX2k-tL8lDsjIqI-E2tl4hCx1KcXV8A/edit#heading=h.3gq28x60gnor) for more details on the process.
 * Devs and Release Manager should be aware of the dates when a `master` branch is merged into a `cloud` branch in order to be mindful of avoiding having incomplete features in a Cloud release, and to include bug fixes that we may want to include in a release.
 
 **Process for cutting the release branch for Self-Managed releases based off of Cloud releases**
@@ -187,11 +195,11 @@ When triaging a bug report, consider the following:
 
 * A: Desktop releases are currently released as required.
 
-**Q When do I need to have a feature PR to be included into the next release?**
+**Q: When do I need to have a feature PR to be included into the next release?**
 
 * A: Aim to have the PR merged before the Feature Complete deadline. The earlier in the monthly cycle the PR is merged, the higher the chances are for it to be included in that month's release. The quality of our releases is important and feature PRs are not normally cherry-picked to a release branch.
 
-**How can I determine if my merge request will make it into the next release?**
+**Q: How can I determine if my merge request will make it into the next release?**
 
 * A: The Release Manager adds PR milestones and Jira fix versions for tracking. You can also check the release branches (e.g. in the server repo) to see what's included.
 
@@ -215,13 +223,9 @@ When triaging a bug report, consider the following:
 
 * A: See the [cherry pick process documentation](https://developers.mattermost.com/contribute/getting-started/branching/#cherry-pick-process-developer/) for details.
 
-**Q: What is community.mattermost kept on?**
+**Q: What version are community.mattermost.com and community-daily.mattermost kept on?**
 
-* A: community.mattermost is kept on the most recent Mattermost Cloud release. E.g. if the **About Mattermost** modal mentions ``Thu Feb 3 08:03:53 UTC 2022``, this corresponds to the latest Cloud release tag for Feb 3 Cloud release [``cloud-2022-02-03-1``](https://github.com/mattermost/mattermost-server/tree/cloud-2022-02-03-1).
-
-**Q: What is community-daily.mattermost kept on?**
-
-* A: Normally on `master` branch and it updates daily.
+* A: Normally on `master` branch and they update daily.
 
 **Q: How to remove a feature/bug from a release?**
 

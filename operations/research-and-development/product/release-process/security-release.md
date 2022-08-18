@@ -9,7 +9,7 @@ Please refer to [the Dot Release Playbook](https://community.mattermost.com/play
 Notes:
 
 * All cut-off dates are based on 10am \([San Francisco Time](http://everytimezone.com/)\) on the day stated.
-* T-minus counts are measured in "working days" \(weekdays, Monday through Friday, excluding [the listed statutory holidays](https://docs.mattermost.com/process/working-at-mattermost.html#holidays)\) prior to release day.
+* T-minus counts are measured in "working days" \(weekdays, Monday through Friday, excluding [the listed statutory holidays](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#holidays)\) prior to release day.
 
 ### A. \(T-minus 4 working days\) Code Complete
 
@@ -50,17 +50,16 @@ Once security fix release is ready to cut:
    * Update the Changelog
    * Update the [version archive](https://docs.mattermost.com/administration/version-archive.html)
    * Update the [ESR documentation](https://docs.mattermost.com/administration/extended-support-release.html#what-are-the-current-supported-esr-versions)
-   * Update [Mattermost server download page](https://mattermost.org/download) with the links to the EE and TE bits
+   * Update [Mattermost server download page](https://mattermost.com/download/) with the links to the EE and TE bits
      * Test the download links before and after updating the page
      * Confirm that [mattermost-docker](https://github.com/mattermost/mattermost-docker/releases) has been updated to the latest version \(contact the maintainer via direct message on community server if necessary\)
-     * Contact owners of [community installers](http://www.mattermost.org/installation/) or submit PRs to update install version number
+     * Contact owners of [community installers](https://mattermost.com/download/) or submit PRs to update install version number
      * For Puppet, Heroku and Ansible Playbook, post to Installers and Images channel announcing the new release. See [example](https://community.mattermost.com/core/pl/5eh8fw3jaiyzzqoc6nfwfaioya).
      * For Chef Cookbook, open a new issue to announce the new release. See [example](https://github.com/verifi-inc/mattermost/issues/2).
      * For Yunohost, open a new pull request to update the version. See [example](https://github.com/kemenaran/mattermost_ynh/pull/11).
      * For OpenShift, open a new pull request to update the version. See [example](https://github.com/goern/mattermost-openshift/pull/13).
-     * Update Security Research Hall of Fame on the [Responsible Disclosure Policy](https://about.mattermost.com/report-security-issue/) page
-     * Post [Mattermost Security Updates](https://about.mattermost.com/security-updates/) 30 days after the dot release has shipped
+     * Update Security Research Hall of Fame on the [Responsible Disclosure Policy](https://mattermost.com/security-vulnerability-report/) page
+     * Post [Mattermost Security Updates](https://mattermost.com/security-updates/) 30 days after the dot release has shipped
      * Update Security Issues spreadsheet with issue number from posted update \(e.g. v3.2.0.1\)
 3. Marketing:
-   * Prepare [blog post](https://about.mattermost.com/releases/mattermost-4-10/) for mattermost.com, MailChimp email blast, and [Twitter announcement](https://twitter.com/mattermosthq/status/827193482578112512), and send to security team and product marketing leads for review. Once reviewed, schedule for 08:00 PST on the day after dot release
-
+   * Prepare [blog post](https://mattermost.com/blog/mattermost-4-10-faster-load-times//) for mattermost.com, MailChimp email blast, and [Twitter announcement](https://twitter.com/mattermosthq/status/827193482578112512), and send to security team and product marketing leads for review. Once reviewed, schedule for 08:00 PST on the day after dot release

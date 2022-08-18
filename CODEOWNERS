@@ -4,6 +4,5 @@
 # More details are here: https://help.github.com/articles/about-codeowners/
 
 /operations/legal/ @it33
-/operations/finance/ @it33
-apps/ @octocat
-
+/operations/finance/ @TQuock
+/operations/operations/company-processes/ @it33

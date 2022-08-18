@@ -4,7 +4,7 @@ description: >-
   what cadence
 ---
 
-# Company Cadence
+# Company cadence
 
 We have a number of different ways we communicate. Use the right side bar to jump to a specific area:
 
@@ -106,7 +106,7 @@ After the prep meeting, Vice Chair posts a screenshot of the final agenda into t
 3. \(Chair\) Collect feedback from survey and add to next meeting's draft agenda for Chair and Co-Chairs to review.
 4. \(Presenter\) Any presenter that introduces a new acronym needs to include this in the [Mattermost Acronyms Focalboard](https://community.mattermost.com/boards/workspace/orw8z8yajpd9fgxtuijq31eqkh/bemqt6wf847fsdjoeobkor8ucye/vu8rm3mniwp8jbmtr6xkxpwor8r).
 
-## Staff Enablement Survey
+## Staff enablement survey
 
 Every 6 months we'll be asking staff to spend around 3 minutes completing a [staff enablement survey of 12 engagement questions](https://handbook.mattermost.com/operations/workplace/people/hr-cadences#staff-enablement-survey), plus identifying their organizational leader.
 
@@ -149,3 +149,25 @@ How to participate in Listening Tours:
 4. **Confirm you've been heard:** As feedback is read back, share if what you had to say has been accurately captured to be shared with our leadership team, execs, and managers.
 
 Listening tours are just another way we gather feedback so we can iterate and improve everything we do. Thank you for helping speed us on our journey of continual improvement.
+
+## GNN Updates 
+
+A GNN Update is a concise way to share out what's "Going Well", "Not Going Well", and "Next Actions" on a specific initiative or goal.
+
+- **Going Well**: What's going well, and what would we want to amplify or repeat?
+- **Not Going Well**: What's moving slower than expected? What's in our way?
+- **Next Actions**: Based on what's going well (things we want to amplify or repeat) and Not Going Well (problems we need to solve), what are the next actions we want to take in the next 1-2 weeks?
+ 
+All goals should have GNNs written perodically. If a goal is "Yellow" or "Red" in status, then we ask for the GNN to be shared out.
+
+If a goal has been "Yellow" or "Red" the previous period, we ask that two additional items are included in the next GNN Update: 
+
+- **Outcomes of previous Next Actions**: Share what happened after the last set of Next Actions were shared out, good and bad. If the Next Action wasn't completed, explain why, and then what we'll do next time to complete the action.
+- **Link to previous GNN Update**: Add a link back to the previous GNN update as a reference.
+
+## Monthly Business Review ("MBR") 
+
+- Each month we review our progress against our company-level goals.
+- Goals tracking either "Yellow" or "Red" require a one-slide update in "GNN Update" format, as mentioned above.
+- The GNN Updates are prepared by the DRIs for each goal.
+- In the MBR we align on the most important opportunities to accelerate the company, and supporting the DRI with Next Actions across the company to bring a goal back to success.
