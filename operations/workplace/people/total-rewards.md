@@ -18,7 +18,7 @@ At Mattermost, decisions on compensation are guided by these three principles:
 
 To learn more about how the total rewards guiding principles drive equitable and consistent compensation decisions, as well as how we approach compensation, please refer to the resources listed below:
 
-- Video: Our approach to compensation: [Video Link](https://mattermost.zoom.us/rec/share/5pATCWceLN1Z_LQuOwtWkscRFybXD8EF-SUFp9rqTgwd3OmljOpqsfEULxiBX0zW.tNwvtB2SP15OlkEU?startTime=1655086943000); Passcode: c^N@0i#&
+- Video: Our approach to compensation: [Video Link](https://mattermost.zoom.us/rec/share/5pATCWceLN1Z_LQuOwtWkscRFybXD8EF-SUFp9rqTgwd3OmljOpqsfEULxiBX0zW.tNwvtB2SP15OlkEU?startTime=1655086943000); [Passcode](https://docs.google.com/document/d/1lGj5XIuyVIMlyRjzXzM2juD5rhVe85nuOWZ6cqFyYpE/edit?usp=sharing) 
 - Slides: Our approach to compensation: [Link](https://docs.google.com/presentation/d/1sktnALj-FUffGE2HgywADwpSvWJRiEYqMrMHLAZihiE/edit?usp=sharing)
 
 ## Frequently Asked Questions
