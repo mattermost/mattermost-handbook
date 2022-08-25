@@ -6,22 +6,22 @@ Occasionally we’ll call a “Family and Friends Day”. In alignment with our 
 
 We want to be especially thoughtful on the topic in the time of Covid, economic change, and changes to travel and academic environments.
 
-## Guiding Principles
+## Guiding principles
 
-* **Staff Wellness.** When staff aren't taking enough PTO, create space for company-wide PTO
-* **Right Balance.** Find the right balance between the benefit of company-wide breaks but not overly dictating people's personal vacation schedules
-* **Customer Context.** Time Friends & Family Days around least disruption for customers, and ensure essential coverage is in place (rotate PTO for staff members who need to stay) 
+* **Staff wellness.** When staff aren't taking enough PTO, create space for company-wide PTO.
+* **Right balance.** Find the right balance between the benefit of company-wide breaks but not overly dictating people's personal vacation schedules.
+* **Customer context.** Time Friends & Family Days around least disruption for customers, and ensure essential coverage is in place (rotate PTO for staff members who need to stay).
 
 ## Upcoming Family and Friends Day
 
-* Monday, May 30 2022
-* Friday, July 1 2022
-* Monday, July 4 2022
 * Monday, September 5 2022
 * Monday, October 10 2022
 
 **Past Family and Friends Days**
 
+* Monday, July 4 2022
+* Friday, July 1 2022
+* Monday, May 30 2022
 * Friday, November 5 2021
 * Monday, July 5 2021
 * Friday, July 2 2021 
