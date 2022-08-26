@@ -61,7 +61,7 @@ Team:
   * Ask questions to understand development, design, QA processes, and documentation processes
 * Meet with Amy \(Release Manager\) and read the release process doc
 * Meet with Ian \(CEO\) \[[https://github.com/it33/readme/blob/master/README.md](https://github.com/it33/readme/blob/master/README.md/)\). This will be scheduled for you
-* Meet other Product Managers \(Jason Blais, Eric Sethna, Katie Wiersgalla, Aaron Rothschild, Ian Tao, Chen-I Lim, Neil Barnett, Winson Wun, Laney Coletti-Saracino, Don Hogan, John Lugtu\)
+* Meet other Product Managers \(Jason Blais, Eric Sethna, Katie Wiersgalla, Ian Tao, Chen-I Lim, Neil Barnett, Winson Wun, Laney Coletti-Saracino, Don Hogan, John Lugtu, Sandy Atkinson\)
   * Learn about their areas of ownership
 * Participate in PM, R&D, and Customer Obsession Meetings
 * Jira
@@ -105,7 +105,7 @@ A good place to start is exploring the websites, and then start a cloud trial ac
 
 * Post detailed notes from customer calls in [Salesforce](https://handbook.mattermost.com/operations/customer-success#logging-a-customer-feedback-in-salesforce)
 * Answer at least one question during the week of community support in the Mattermost [forum](https://forum.mattermost.com/)
-* Document areas of improvement you see in your area of ownership or in team's processes.  Share these with your manager. 
+* Document areas of improvement you see in your area of ownership or in team's processes. Share these with your manager. 
 * Update this onboarding document. 
 
 ### Activities
@@ -115,7 +115,7 @@ Learn about our customers and users
 * Learn about Mattermost Support by getting an overview on support processes and systems
   * Customers: Zendesk \(Sven Huester, Support Lead\)\)
   * Community: GitHub, Forums \(Amy Blais\)
-* Learn about Customer Success \(Tiffany Stinson\)
+* Learn about Customer Success \(Brent Fox\)
   * Overview of Customer Success team, who owns what
   * Current Customer Success processes
   * Typical challenges during customer onboarding
@@ -151,7 +151,7 @@ Learn about the market
 Learn about the product
 
 * Product Direction \(Product Lead\)
-  * [Current Year Company Strategy](https://docs.google.com/document/d/1HDUdNRMmz9Cuo9n8X1hn2q_y2mq1u5lwRwvEYO-tOmM/edit#)
+  * Current Year Company goals and strategy
   * Review videos on [Mattermost Academy](https://academy.mattermost.com/)
 * Technical Architecture \(Feature Team dev lead\)
   * Reference:
@@ -162,8 +162,8 @@ Learn about the product
   * Reference:
     * [PM Areas of Ownership](https://handbook.mattermost.com/operations/research-and-development/product/product-management-team-handbook/product-ownership-areas)
     * [Roadmap - All teams](https://mattermost.productboard.com/portal/19-combined-highlighted-features)
-    * [Engineering OKRs](https://mattermost.productboard.com/feature-board/1749949-release-summary-internal)
-* Product Analytics \(Eric Nelson\)
+    * [Engineering OKRs](https://community.mattermost.com/boards/workspace/p33mj7xh4frntrtbxbp5xp1joy/886d2280-e88e-4065-8c85-1b62578f192e/2a95356b-d97a-461a-8bb3-f61ca8ff5da7)
+* Product Analytics 
   * Tips on things to watch out for if running your own analytics
   * Dive into product analytics \(via Looker\)
 
