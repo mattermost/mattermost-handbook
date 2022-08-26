@@ -25,8 +25,7 @@ The PM team includes (in alphabetical order, by their username on https://commun
 - @katie.wiersgalla
 - @laney.coletti-saracino
 - @neil.barnett
-- @rohan.monga
-- @stephen.vanhemmen
+- @sandy.atkinson
 - @tao
 - @winson.wu
 
