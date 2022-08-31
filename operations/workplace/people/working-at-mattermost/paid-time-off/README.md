@@ -36,6 +36,19 @@ Note: If you are taking [Pregnancy](../leaves-of-absence/pregnancy-leave.md) or 
 1. **Is there really no limit?** There is no limit to how much time off you can take when your work is meeting or exceeding expectations. We strongly recommend a minimum of 2 weeks per year.
 2. **Is PTO monitored?** PTO is not monitored, but we encourage managers to ensure their direct reports are taking at least the recommended minimum of 2 weeks off per year (and/or the statutory minimum in their region of residence). Time off is reported in regions where there is a statutory requirement to do so.
 
+## How to be Vacation-Ready
+
+Here at Mattermost, we want you to practice self-care and take the time off that you need in order to re-charge and continue to bring your best self to work.  In order to do this, it's important to follow the steps below in order to ensure that there are the appropriate PTO Backups in place for AORs of a staff member while they are out.  
+ 
+* Define the Areas of Responsibility (AORs) for your role with your Manager
+* Assign PTO Backups to act as Directly Responsible Individuals (DRIs) for your AORs while you are on PTO
+* Provide instructions or notes/context to PTO Backups to best assist them with handling tasks while you are away
+* Send documentation outlining your AORs and Assigned PTO Backups to your Team and relevant Stakeholders in advance of your PTO
+* Sync with PTO Backups to clarify on any tasks prior to PTO
+* List your PTO Backups in G Suite Vacation Responder
+* Set your G Cal to OOO and auto-decline new and existing meetings
+* Set your Mattermost Profile to OOO by clicking on your profile and then setting your status
+
 ## Holidays
 
 Please take off holidays relevant to your culture, resident [country/region](../../../../../company/about-mattermost/list-of-terms.md#country-region), and preferences. When doing so, please follow the time off process in [Communicating Time Off](./#communicating-time-off).
