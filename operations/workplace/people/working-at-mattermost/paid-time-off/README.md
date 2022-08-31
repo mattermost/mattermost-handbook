@@ -23,7 +23,15 @@ Note: If you are taking [Pregnancy](../leaves-of-absence/pregnancy-leave.md) or 
 3. If time off is being taken for sickness, including physical and mental needs, please enter these days in **BambooHR > Sick**, to distinguish from other types of PTO. Follow the appropriate process according to the statutory requirements in your region of residence. If taking extended time off for medical leave or for other types of [leaves](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/leaves-of-absence), reach out to HR: hr@mattermost.com.
 4. PTO requests must be "approved" in BambooHR to show up in the "Who's Out" calendar. Managers are responsible for approving their direct reports' time off requests in BambooHR.  
 5. As long as you have entered your time off in BambooHR, and you have arranged for coverage while you are gone, you are able to take your vacation before it has been approved in BambooHR. More than 14 consecutive days off require manager approval in BambooHR prior to the vacation starting.
-6. Be Vacation-Ready: Assign PTO Backups; List your PTO Backups in GSuite Vacation Responder; Set your GCal to OOO and auto-decline new and existing meetings; [change your Mattermost status](https://docs.mattermost.com/welcome/set-your-status-availability.html) and [set automatic direct message replies](https://docs.mattermost.com/channels/channels-settings.html#automatic-direct-message-replies).
+6. Be vacation-ready: 
+
+    * Assign PTO backups and [list your PTO Backups in GSuite Vacation Responder](https://github.com/mattermost/mattermost-handbook/blob/cecilysullivan-vacation-ready/operations/workplace/people/working-at-mattermost/paid-time-off/ooo-example.md)
+    * Set your GCal to OOO and auto-decline new and existing meetings
+    * [Change your Mattermost status](https://docs.mattermost.com/welcome/set-your-status-availability.html)
+    * [Set automatic direct message replies in Mattermost](https://docs.mattermost.com/channels/channels-settings.html#automatic-direct-message-replies).
+    
+    Watch [this vacation-ready video from Ian Tien](https://community.mattermost.com/files/bd1x8f47abgdx83ejpesd1z7ce/public?h=EWRJ-lMoUotKhiPyPAJzS_6Zt2uyAmaJh08xHr8LIBU), CEO of Mattermost.
+    
 7. Enjoy your time off!
 
 ### Where to go to see who's out
@@ -35,19 +43,6 @@ Note: If you are taking [Pregnancy](../leaves-of-absence/pregnancy-leave.md) or 
 
 1. **Is there really no limit?** There is no limit to how much time off you can take when your work is meeting or exceeding expectations. We strongly recommend a minimum of 2 weeks per year.
 2. **Is PTO monitored?** PTO is not monitored, but we encourage managers to ensure their direct reports are taking at least the recommended minimum of 2 weeks off per year (and/or the statutory minimum in their region of residence). Time off is reported in regions where there is a statutory requirement to do so.
-
-## How to be Vacation-Ready
-
-Here at Mattermost, we want you to practice self-care and take the time off that you need in order to re-charge and continue to bring your best self to work.  In order to do this, it's important to follow the steps below in order to ensure that there are the appropriate PTO Backups in place for AORs of a staff member while they are out.  
- 
-* Define the Areas of Responsibility (AORs) for your role with your Manager
-* Assign PTO Backups to act as Directly Responsible Individuals (DRIs) for your AORs while you are on PTO
-* Provide instructions or notes/context to PTO Backups to best assist them with handling tasks while you are away
-* Send documentation outlining your AORs and Assigned PTO Backups to your Team and relevant Stakeholders in advance of your PTO
-* Sync with PTO Backups to clarify on any tasks prior to PTO
-* List your PTO Backups in G Suite Vacation Responder
-* Set your G Cal to OOO and auto-decline new and existing meetings
-* Set your Mattermost Profile to OOO by clicking on your profile and then setting your status
 
 ## Holidays
 
