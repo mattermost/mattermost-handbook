@@ -77,7 +77,7 @@ This option works best if you know where the file is located in the repo.
 9. On the next page, you can scroll down to compare changes with the original document to double-check your changes. 
 10. If you're happy with them confirm that the title and description are correct, then select **Create pull request**.
 
-## Creating new content
+## Create new content
 
 Creating new content can take the form of a new page, or an entirely new section. Some things to keep in mind are naming conventions and that the Table of Contents entry is made manually in the SUMMARY.md file.
 
