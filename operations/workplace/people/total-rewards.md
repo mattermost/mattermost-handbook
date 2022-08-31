@@ -25,7 +25,7 @@ To learn more about how the total rewards guiding principles drive equitable and
 
 **What if my candidate's current compensation and/or expected compensation is materially higher than the recommendation from our Total Rewards System?**
 
-The candidate is unlikely to be a fit for our company. Other candidates in the recruiting pool should be prioritized.
+Our compensation benchmarks are based on a deep analysis of multiple market data sources and reflect a competitive offering for our size, stage (development stage, funding round/amount), and industry. If a candidate's current compensation expectations materially exceed the range, the candidate may not be a fit for the company.
 
 **What if I disagree with the compensation recommendation from our Total Rewards System?**
 
