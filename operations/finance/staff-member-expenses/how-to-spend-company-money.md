@@ -70,6 +70,10 @@ For all new staff members, to request a new laptop, please use this [form](https
 * **Windows:** We will provide a [XPS 15](https://www.dell.com/en-us/shop/laptops/new-xps-15/spd/xps-15-9520-laptop/xn9520cto040s) or similar. General specs are i9, 32GB memory, 1TB SSD. 
 * **Mac:** We will provide a [16" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-10-core-cpu-32-core-gpu-1tb) or similar. General specs are M1 Max 10-core CPU, 32-core GPU, 16-core Neural Engine, 32GB memory, 1TB SSD.
 
+**Designers**
+
+* **Mac:** We will provide a [16" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-10-core-cpu-32-core-gpu-1tb) or similar. General specs are M1 Max 10-core CPU, 32-core GPU, 16-core Neural Engine, 64GB memory, 1TB SSD.
+
 Once you've received your laptop, you're required to register it by completing an [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). This step should be completed within 5 business days after your laptop was received.
 
 #### Desktop \(business computer\)
