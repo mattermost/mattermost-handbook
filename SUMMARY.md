@@ -247,6 +247,7 @@
     * [Offboarding instructions for managers](operations/workplace/people/offboarding.md)
     * [People compliance](operations/workplace/people/people-compliance.md)
   * [Groups](operations/workplace/groups.md)
+    * [Staff Resource Groups](operations/workplace/people/staff-resource-groups.md)
   * [Approvals and iteration](operations/workplace/approvals-and-iteration.md)
   * [IT](operations/workplace/it/README.md)
     * [IT helpdesk](operations/workplace/it/helpdesk.md)
