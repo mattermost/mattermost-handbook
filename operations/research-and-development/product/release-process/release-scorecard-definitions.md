@@ -94,16 +94,6 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Valid bugs found after RC1 fixed in release</td>
-      <td style="text-align:left">
-        <p>After closing current release, adjust dates as per above, and use this
-          Jira query:</p>
-        <p>project = Mattermost AND issuetype = Bug AND resolution not in (Duplicate,
-          &quot;Cannot Reproduce&quot;, &quot;Won&apos;t Fix&quot;) AND created &gt;
-          &quot;START&quot; AND created &lt; &quot;END&quot; AND fixVersion = latestReleasedVersion()</p>
-      </td>
-    </tr>
-    <tr>
       <td style="text-align:left">Valid bugs found after RC1 pushed to next release</td>
       <td style="text-align:left">
         <p>After closing current release, adjust dates as per above, and use this
