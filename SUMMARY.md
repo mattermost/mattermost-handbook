@@ -246,6 +246,7 @@
     * [Transfers and promotions](operations/workplace/people/internal-transfers.md)
     * [Offboarding instructions for managers](operations/workplace/people/offboarding.md)
     * [People compliance](operations/workplace/people/people-compliance.md)
+  * [People policies](operations/workplace/people/people-policies.md)
   * [Groups](operations/workplace/groups.md)
   * [Approvals and iteration](operations/workplace/approvals-and-iteration.md)
   * [IT](operations/workplace/it/README.md)
