@@ -78,6 +78,17 @@
           = latestReleasedVersion()</p>
       </td>
     </tr>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Total valid regressions in fix version</td>
+      <td style="text-align:left">
+        <p>After closing current release:</p>
+        <p>project = Mattermost AND issuetype = Bug AND resolution not in (Duplicate,
+          &quot;Cannot Reproduce&quot;, &quot;Won&apos;t Fix&quot;) AND fixVersion
+          = latestReleasedVersion() AND label = rc2, rc3</p>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left">Total valid bugs found after RC1 is cut</td>
       <td style="text-align:left">
