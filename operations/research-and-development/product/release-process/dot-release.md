@@ -5,8 +5,9 @@ Dot releases are done for high priority and high severity security issues and cu
 1. The issue is escalated by the customer / customer support team and an incident channel is opened.
 2. Our developer team investigates the issue as soon as possible.
 3. A pull request for the issue is submitted and dev/QA reviewed, and then merged.
-4. A release candidate (e.g. 7.2.1-RC1) is cut for quick final smoke tests.
-5. After QA approval, a final release build is cut (e.g. 7.2.1) which is ready to be shared with the customer.
+4. The bug fix is cherry-picked to the relevant release branch.
+5. A release candidate (e.g. 7.2.1-RC1) is cut for quick final smoke tests.
+6. After QA approval, a final release build is cut (e.g. 7.2.1) which is ready to be shared with the customer.
 
 The time-to-fix varies, but urgent dot releases are always prioritized.
 
