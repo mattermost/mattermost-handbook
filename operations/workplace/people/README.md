@@ -54,11 +54,15 @@ HR
 * @natalie.jew - [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew) - Director of HR
 * @lynn.conway - [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) - People Partner
 * @cecily.sullivan - [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) - HR Generalist
-* @idayat.ogungbade - [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) - Total Rewards Manager
 
 Recruiting
 
 * @teresa.novoa - [Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa) - Technical Recruiting Manager
+
+Total Rewards
+
+* @idayat.ogungbade - [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) - Total Rewards Manager
+* @praveen.viswam - [Praveen Viswam](https://community.mattermost.com/core/messages/praveen.viswam) - Total Rewards Analyst
 
 Workplace
 
