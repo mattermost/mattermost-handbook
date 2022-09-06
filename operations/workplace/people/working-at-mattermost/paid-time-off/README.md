@@ -25,7 +25,7 @@ Note: If you are taking [Pregnancy](../leaves-of-absence/pregnancy-leave.md) or 
 5. As long as you have entered your time off in BambooHR, and you have arranged for coverage while you are gone, you are able to take your vacation before it has been approved in BambooHR. More than 14 consecutive days off require manager approval in BambooHR prior to the vacation starting.
 6. Be vacation-ready: 
 
-    * Assign PTO backups and [list your PTO Backups in GSuite Vacation Responder](https://github.com/mattermost/mattermost-handbook/blob/cecilysullivan-vacation-ready/operations/workplace/people/working-at-mattermost/paid-time-off/ooo-example.md)
+    * Assign PTO backups and [list your PTO Backups in GSuite Vacation Responder](https://docs.google.com/document/d/1Yu4pNey7BSjSG7eqEb6K4NDpmudOvGD7vbcdFyZegDg/edit?usp=sharing)
     * Set your GCal to OOO and auto-decline new and existing meetings
     * [Change your Mattermost status](https://docs.mattermost.com/welcome/set-your-status-availability.html)
     * [Set automatic direct message replies in Mattermost](https://docs.mattermost.com/channels/channels-settings.html#automatic-direct-message-replies).
