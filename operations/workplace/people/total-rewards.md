@@ -21,6 +21,33 @@ To learn more about how the total rewards guiding principles drive equitable and
 - Video: Our approach to compensation: [Video Link](https://mattermost.zoom.us/rec/share/5pATCWceLN1Z_LQuOwtWkscRFybXD8EF-SUFp9rqTgwd3OmljOpqsfEULxiBX0zW.tNwvtB2SP15OlkEU?startTime=1655086943000); [Passcode](https://docs.google.com/document/d/1lGj5XIuyVIMlyRjzXzM2juD5rhVe85nuOWZ6cqFyYpE/edit?usp=sharing)
 - Slides: Our approach to compensation: [Link](https://docs.google.com/presentation/d/1sktnALj-FUffGE2HgywADwpSvWJRiEYqMrMHLAZihiE/edit?usp=sharing)
 
+## How We Determine Compensation
+
+The salary range for each position is determined using this formula: 
+
+**Salary = (Role + [Level](https://docs.google.com/spreadsheets/d/1D8cGVMvLv4qKSpev7R3_DqEeiry-uKCjVdwbCTTgA0I/edit?usp=sharing)) x Cost of Labour** 
+
+
+**Experience Within Level**
+
+The salary range is broken into four quarters, representing different competency levels i.e. new to role, learning, mastering or teaching. A staff member’s pay level within the salary range i.e. quarter-placement, will vary depending on the career stage, and will generally follow the following guidelines:
+
+- _**New to Role (Partially Meets Expectations)**_
+
+This is the lowest quarter of the salary range (up to 25% range penetration). This portion of the range applies to staff members that are new to the job and/or field, have little or no direct, related prior experience, and are still building the skills, knowledge, and ability to handle job responsibilities. The staff member at this point is not yet performing the full scope of the job requirements.
+
+- _**Learning (Generally Meets Expectations)**_
+
+This is the second quarter of the salary range (25% to 50% range penetration). This portion of the range applies to staff members that are deep into the learning curve for the role and performing job responsibilities effectively. The staff member at this point possesses all of the base knowledge and skill requirements, but may still be learning some aspects of the job or developing expertise.
+
+- _**Mastering (Fully Functioning & Often Exceeds Expectations)**_
+
+This is the third quarter of the salary range (50% to 75% range penetration). This portion of the range applies to staff members that are exhibiting the core competencies of the position, performing all tasks effectively and independently, and often exceeding expectations.
+
+- _**Teaching (Consistently Exceeds Expectations)**_
+
+This is the highest quarter of the salary range (75% to 100% range penetration). This portion of the range applies to staff members with unique talent and extensive experience. The staff is a subject matter expert with a depth of knowledge that extends beyond primary responsibilities. Ready for promotion to the next level when the opportunity arises.
+
 ## Frequently Asked Questions
 
 **What if my candidate's current compensation and/or expected compensation is materially higher than the recommendation from our Total Rewards System?**
