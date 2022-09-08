@@ -82,7 +82,6 @@ We have entities in Germany, Australia, UK, US, and we have a large Canadian con
 * National Day for Truth and Reconciliation \(Canada: BC, MB, NS, PEI) \(09/30/2022\)
 * Day of German Unity \(Germany\) \(10/03/2022\)
 * Thanksgiving \(Canada\) \(10/10/2022\)
-* Veterans Day \(US\) \(11/11/2022\)
 * Rememberance Day \(Canada: BC, PEI\) \(11/11/2022\)
 * Thanksgiving \(US\) \(11/24/2022\)
 * Christmas Day \(All\) \(12/26/2022\)
