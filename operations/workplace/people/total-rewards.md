@@ -23,14 +23,29 @@ To learn more about how the total rewards guiding principles drive equitable and
 
 ## How We Determine Compensation
 
-The salary range for each position is determined using this formula: 
+We adopt a total rewards approach to compensation, so our package includes a mix of extrinsic and intrinsic rewards to enable each and every staff member to have the best work of their careers at Mattermost. The components of our total rewards package include base salary, performance pay, benefits, work-life programs, and a work environment that supports growth and development.
 
-**Salary = (Role + [Level](https://docs.google.com/spreadsheets/d/1D8cGVMvLv4qKSpev7R3_DqEeiry-uKCjVdwbCTTgA0I/edit?usp=sharing)) x Cost of Labour** 
+To ensure that salaries are consistent, equitable and competitive, our compensation system defines salary ranges (minimum and maximum salaries) for the purpose of administering compensation. The salary ranges are based on the following factors:
 
+1. Role & [level](https://docs.google.com/spreadsheets/d/1D8cGVMvLv4qKSpev7R3_DqEeiry-uKCjVdwbCTTgA0I/edit?usp=sharing)
+2. Cost of labour (local market compensation)
+3. Experience within level
+
+**Role and Level**
+
+Our compensation system aims to position salary for each role and level, at or around the median of Mattermost’s labour market, which comprises companies in the technology industry that are similar in terms of size and growth stage.
+
+**Local Market Compensation** 
+
+We pay competitive local market rates. This means that our compensation system targets pay at or around the median salaries of comparable organizations in each local market. The local market compensation approach is based on an extensive internal analysis of the cost of labour (local market compensation) in over 12,000 cities across the globe, and it enables Mattermost to support equitable standard of living for staff members.
+
+- _**Why we align compenstion to the local market**_ 
+
+If the compensation system was designed to offer the same salary in all locations, the disposable income available to staff members may differ significantly based on location, thereby creating inequity. For example, if a staff member in California was paid the same salary as a staff member in Spain, the staff in California may fall under a lower standard of living bracket, while the staff member in Spain may fall under a higher standard of living bracket, relative to their respective local markets and the corresponding prices of goods and services.
 
 **Experience Within Level**
 
-The salary range is broken into four quarters, representing different competency levels i.e. new to role, learning, mastering or teaching. A staff member’s pay level within the salary range i.e. quarter-placement, will vary depending on the career stage, and will generally follow the following guidelines:
+Each salary range is broken into four quarters, representing different competency levels i.e. new to role, learning, mastering or teaching. A staff member’s pay level within the salary range i.e. quarter-placement, will vary depending on the career stage, and will generally follow the following guidelines:
 
 - _**New to Role (Partially Meets Expectations)**_
 
