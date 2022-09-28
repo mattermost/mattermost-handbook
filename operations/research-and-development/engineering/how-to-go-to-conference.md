@@ -24,7 +24,7 @@ Subject: Request to Attend <conference-name>
 
 Hi <manager-name>,
 
-I would like to attend <conference-name> because <reason>.
+I would like to attend <conference-name> at <location> from <date> until <date> because <reason>.
 
 The cost estimates are:
 
