@@ -25,11 +25,5 @@ Papers and Course Materials
 
 ## Additional training resources
 
-Recommended training materials are recommended by role at three different levels of priority:
-
-- P1 - Required - Complete within 30 days of starting in role.
-- P2 - Priority - Complete within 30-90 days of starting.
-- P3 - Supplementry - Complete within 180 days.
-
-- [This chart](ttps://airtable.com/embed/shrbjzgakQoNaXhYt?backgroundColor=gray&viewControls=on) outlines training materials by category, with notes on which materials are relevant to which disciplines by P1, P2, P3 priority:
+- [This chart](https://airtable.com/embed/shrbjzgakQoNaXhYt?backgroundColor=gray&viewControls=on) outlines training materials by category, with notes on which materials are relevant to which disciplines by P1, P2, P3 priority:
 - [This table](https://airtable.com/embed/shrlwbsr0Y9telZn8?backgroundColor=gray&viewControls=on) summarizes abbreviations used in the above link.
