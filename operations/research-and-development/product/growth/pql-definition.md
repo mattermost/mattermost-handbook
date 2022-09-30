@@ -1,6 +1,6 @@
 ### v1 PQL definition as of May 10, 2022
 
-A workspace / instance is considered a Product Qualified Lead (PQL) if it meets the criteria of any of the following categories:
+A workspace / instance is considered a Product Qualified Lead (PQL) if it is actively using Mattermost and meets one or more of the following criteria:
 
 | PQL Categories      | Criteria |
 | ----------- | ----------- |
