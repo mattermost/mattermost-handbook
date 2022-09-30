@@ -40,3 +40,5 @@ Thanks,
 If your manager responds with "Approved." then you are good to go. Start booking the tickets, travel and accomodations and expense it via Expensify.
 
 If you would like to ask for an exception to the above policy, please include what the exception is and why it's justified in the email and also cc your manager's manager to get their approval.
+
+Once approved, __managers need to add the conference to the [tracking spreadsheet](https://docs.google.com/spreadsheets/d/1Ff3OdeMMDJlokoMwu3IX0v0D3B-_w8QZR5-4enhhIXs/edit#gid=0)__.
