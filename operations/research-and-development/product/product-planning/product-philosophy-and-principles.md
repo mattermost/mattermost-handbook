@@ -12,7 +12,7 @@ We **Earn Trust**. We welcome input from all members of the core staff and commu
 
 ## MVP and Iteration
 
-We are **Self-Aware** and work on **High Impact** changes. We use data in our decision making processes. By developing an MVP \(minimum viable product\) of a solution, we can gather more data to inform our future work; thereby allowing us to create solutions for real pains. A MVP may include providing a prototype or a partial solution so we can collect feedback in the most realistic scenarios. We try to ship the smallest thing as quickly as possible and learn from it, so we make sure what we are building is going to create the value expected by our customers.
+We are **Self-Aware** and work on **High Impact** changes. We use data in our decision-making processes. By developing an MVP \(minimum viable product\) of a solution, we can gather more data to inform our future work; thereby allowing us to create solutions for real pains. A MVP may include providing a prototype or a partial solution so we can collect feedback in the most realistic scenarios. We try to ship the smallest thing as quickly as possible and learn from it, so we make sure what we are building is going to create the value expected by our customers.
 
 ## Quality is a first class citizen
 

@@ -154,7 +154,7 @@ A good analysis will result in surprises uncovering blindspots. An analysis that
 
 ## RAPID for Complex Projects
 
-When practical, projects and decision making should be run at the lowest possible level of the organization, by people who are closest to the facts and data.
+When practical, projects and decision-making should be run at the lowest possible level of the organization, by people who are closest to the facts and data.
 
 When a project is complex and involves many stakeholders, a different approach may be needed. We use a RAPID framework for complex, multi-stakeholder projects where clarity in the roles of stakeholders is vital.
 

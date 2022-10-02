@@ -4,7 +4,7 @@ Issue/Solution Proposal is a tool for increasing clarity, speed, and output in t
 
 Note: Special thanks to [Matt Mochary](https://www.linkedin.com/in/matt-mochary-34bb4/) for the framework on which this system is based.
 
-# Decision making
+# Decision-making
 
 ## Getting buy-in
 
@@ -68,7 +68,7 @@ Allow up to 5 minutes of discussion for each tactical (short-term) Proposed Solu
 
 We use an Issue/Proposed Solution template to structure these issues, and typically include a recording of the issue so it can be explained quickly and concisely.
 
-If the decision maker feels they don’t have enough context to make a decision, DO NOT spend more time talking about the Issue. Instead turn to the RAPID decision making framework described below.
+If the decision maker feels they don’t have enough context to make a decision, DO NOT spend more time talking about the Issue. Instead turn to the RAPID decision-making framework described below.
 
 # Type 1 vs Type 2 decisions
 
@@ -83,7 +83,7 @@ Each time there is a decision to be made, rate it as Type 1 or Type 2.
 
 Most decisions are Type 2.
 
-# RAPID decision making
+# RAPID decision-making
 
 When a decision is complex and can’t be reached efficiently even after a well-prepared ISP, we should use a RAPID framework. This is in specific cases when:
 
