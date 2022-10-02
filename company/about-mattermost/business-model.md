@@ -12,7 +12,7 @@ We deliver our solutions through an open core, product-led growth motion with fr
 
 Analysts project that in 2022, over $4.5 trillion USD will be spent on IT. What portion of that investment turns into productivity and results depends entirely on how well teams of software builders and operators can effectively collaborate.
 
-Mattermost competes in a $15B market for "developer collaboration", a segment of the boarder general collaboration market focused on accelerating developer productivity through agile workflows across application development, digital operations and security operations. Our focus is serving a market of 30 million developers with an integrated, open core collaboration suite across workplace messaging, project management, incident management, real time communication, and documentation available both in cloud and as a self-hosted component of an organization's digital infrastructure.
+Mattermost competes in a $15B market for "developer collaboration", a segment of the broader general collaboration market focused on accelerating developer productivity through agile workflows across application development, digital operations and security operations. Our focus is serving a market of 30 million developers with an integrated, open core collaboration suite across workplace messaging, project management, incident management, real time communication, and documentation available both in cloud and as a self-hosted component of an organization's digital infrastructure.
 
 Many of these organizations are facing three critical challenges:
 
