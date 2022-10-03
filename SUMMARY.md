@@ -135,6 +135,7 @@
     * [Data Engineering](operations/research-and-development/engineering/data-engineering.md)
     * [Sustained Engineering](operations/research-and-development/engineering/team/README.md)
       * [On call](operations/research-and-development/engineering/team/on-call.md)
+    * [How to go to a conference](operations/research-and-development/engineering/how-to-go-to-conference.md)
   * [Quality Assurance](operations/research-and-development/quality/README.md)
     * [QA workflow](operations/research-and-development/quality/qa-workflow.md)
     * [QA testing tips and tools](operations/research-and-development/quality/testing-tips-and-tools.md)
