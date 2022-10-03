@@ -117,6 +117,7 @@
         * [Getting started with contributing](operations/research-and-development/product/technical-writing-team-handbook/docathon-2021/docathon-processes.md)     
     * [Growth](operations/research-and-development/product/growth/README.md)
       * [A/B testing methodology](operations/research-and-development/product/growth/ab-testing.md)
+      * [PQL definition](operations/research-and-development/product/growth/pql.md)
     * [Analytics](operations/research-and-development/product/analytics/README.md)
       * [Product Analyst Engineer levels](operations/research-and-development/product/analytics/analyst-levels.md)
       * [Looker](operations/research-and-development/product/analytics/looker/README.md)
