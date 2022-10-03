@@ -143,5 +143,5 @@ Papers and Course Materials
 
 ## Additional training resources
 
-- [This chart](https://airtable.com/embed/shrbjzgakQoNaXhYt?backgroundColor=gray&viewControls=on) outlines training materials by category, with notes on which materials are relevant to which disciplines by P1, P2, P3 priority:
+- [This chart](https://airtable.com/embed/shrbjzgakQoNaXhYt?backgroundColor=gray&viewControls=on) outlines training materials by category. You can ignore the P1, P2, P3 priority ratings as these have been deprecated.
 - [This table](https://airtable.com/embed/shrlwbsr0Y9telZn8?backgroundColor=gray&viewControls=on) summarizes abbreviations used in the above link.
