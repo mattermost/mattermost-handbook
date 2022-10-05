@@ -21,7 +21,7 @@ The Handbook is a public-facing body of work and although it's a constantly-evol
 
 * **Be concise:** Say what's essential, not more.
 * **Get feedback:** Have someone from your target audience read your draft to share feedback so you can [savor surprises](../about-mattermost/mindsets.md#savor-surprises).
-* **Don't aim for perfection:** Our goal is regular iteration and so your content doesn't have to be perfect before it's published. It will be reviewed by an editor prior to publication so any major errors will be addressed then.
+* **Don't aim for perfection:** Our goal is regular iteration, so your content doesn't have to be perfect before it's published. It will be reviewed by an editor prior to publication so any major errors will be addressed then.
 
 ## Get started
 
