@@ -38,7 +38,7 @@ The appropriate tone differs across different mediums. We don’t write technica
 
 The Mattermost voice remains the same, even when the tone varies.
 
-Visit our [Documentation Style Guide](https://handbook.mattermost.com/operations/operations/publishing/publishing-guidelines/voice-tone-and-writing-style-guidelines/documentation-style-guide) for additional information and examples.
+Visit our [Documentation Style Guide](/operations/operations/operations/research-and-development/product/technical-writing-team-handbook/documentation-style-guide) for additional information and examples.
 
 ## More information
 
