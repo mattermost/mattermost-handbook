@@ -80,6 +80,7 @@ We currently support hiring in the following countries/regions:
 * Ukraine
 * United Kingdom
 * United States
+* Uruguay
 
 We are constantly working towards adding more countries/regions to this list, but it takes a lot of time and resources. This list will be updated as we are able to hire in additional countries/regions.
 
