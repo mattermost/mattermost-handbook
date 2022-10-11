@@ -41,7 +41,7 @@ While we're sharing average costs for various items below, you should use your b
 * Laptop stand: Average price **180 USD**
 * Laptop carrying bag: Average price **60 USD**
 * Work-related books: **30 USD** per month or **360 USD** annually
-  * Recommended [readings](https://docs.mattermost.com/process/training.html#books)
+  * [Recommended resources](https://handbook.mattermost.com/operations/research-and-development/training)
 
 #### Business computer accessories
 
