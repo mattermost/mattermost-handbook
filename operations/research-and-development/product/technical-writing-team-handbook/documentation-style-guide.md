@@ -191,7 +191,7 @@ Throughout Mattermost documentation, you’ll see the below terms mentioned and 
     </tr>
     <tr>
       <td style="text-align:left">installation</td>
-      <td style="text-align:left">Refers to an on-premises Mattermost environment comprised of hardware
+      <td style="text-align:left">Refers to an on-premises Mattermost environment comprising hardware
         (server/s), database, filestore, etc., which hosts the required files to
         run Mattermost.</td>
       <td style="text-align:left">Your Mattermost installation includes physical servers</td>
@@ -244,31 +244,30 @@ Throughout Mattermost documentation, you’ll see the below terms mentioned and 
       <td style="text-align:left">Mattermost Desktop App</td>
     </tr>
     <tr>
-      <td style="text-align:left">Public channel</td>
+      <td style="text-align:left">public channel</td>
       <td style="text-align:left">Used to refer to channels available to all members to discover and join.
-        Don&#x2019;t hyphenate and use lowercase for &quot;channel&quot;.</td>
+        Written in lowercase and not hyphenated.</td>
       <td
-      style="text-align:left">Outgoing webhooks are supported in Public channels only</td>
+      style="text-align:left">Outgoing webhooks are supported in public channels only</td>
     </tr>
     <tr>
-      <td style="text-align:left">Private channel</td>
-      <td style="text-align:left">Used to refer to channels managed by synchronized groups. Don&#x2019;t
-        hyphenate and use lowercase for &quot;channel&quot;.</td>
-      <td style="text-align:left">Users can remove themselves from teams and Private channels managed by
+      <td style="text-align:left">private channel</td>
+      <td style="text-align:left">Used to refer to channels managed by synchronized groups. Written in lowercase and not hyphenated.</td>
+      <td style="text-align:left">Users can remove themselves from teams and private channels managed by
         synchronized groups</td>
     </tr>
     <tr>
-      <td style="text-align:left">Direct Message</td>
-      <td style="text-align:left">Direct Messages are for conversations between two people. Visible only
-        to the people involved.</td>
-      <td style="text-align:left">Full names appear in the Direct Messages member list and team management
+      <td style="text-align:left">direct message</td>
+      <td style="text-align:left">Direct messages are for conversations between two people. Visible only
+        to the people involved. Written in lowercase and not hyphenated.</td>
+      <td style="text-align:left">Full names appear in the direct messages member list and team management
         modal</td>
     </tr>
     <tr>
-      <td style="text-align:left">Group Message</td>
-      <td style="text-align:left">Group Messages are Direct Messages that have conversations among three
-        or more people. Visible only to the people involved.</td>
-      <td style="text-align:left">Group Messages are listed in the sidebar</td>
+      <td style="text-align:left">group message</td>
+      <td style="text-align:left">Group messages are direct messages that have conversations among three
+        or more people. Visible only to the people involved. Written in lowercase and not hyphenated.</td>
+      <td style="text-align:left">Group messages are listed in the sidebar</td>
     </tr>
     <tr>
       <td style="text-align:left">device</td>
