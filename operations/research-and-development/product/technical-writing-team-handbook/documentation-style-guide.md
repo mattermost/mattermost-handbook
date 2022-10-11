@@ -281,26 +281,26 @@ Throughout Mattermost documentation, you’ll see the below terms mentioned and 
 
 To promote consistency and clarity, follow the word usage and spelling guidelines below.
 
-can, might, may
-  The word *may* can have several meanings. To avoid ambiguity, use *can* or *might* instead of *may*. Use *can* to mean *capable of* and *might* to mean that something is possible. Use *may* only to give permission to do something.
+- can, might, may
+	- The word *may* can have several meanings. To avoid ambiguity, use *can* or *might* instead of *may*. Use *can* to mean *capable of* and *might* to mean that something is possible. Use *may* only to give permission to do something.
 
-downtime
-  Use as one word *downtime*, not *down time*.
+- downtime
+	- Use as one word *downtime*, not *down time*.
 
-emoji, emojis
-  Use *emojis* as the plural form of *emoji*.
+- emoji, emojis
+	- Use *emojis* as the plural form of *emoji*.
 
-login, log in, log into
-  Use *login* as a noun or adjective, and *log in* and *log into* as verbs. For example: *Log into the Mattermost server using your System Admin login credentials.*
+- login, log in, log into
+	- Use *login* as a noun or adjective, and *log in* and *log into* as verbs. For example: *Log into the Mattermost server using your System Admin login credentials.*
 
-setup, set up
-  Use *setup* as a noun or adjective, and *set up* as a verb. For example: *Set up your operating system as described in the Ubuntu documentation.*
+- setup, set up
+	- Use *setup* as a noun or adjective, and *set up* as a verb. For example: *Set up your operating system as described in the Ubuntu documentation.*
 
-sign-in, sign in, and sign into
-  Use *sign-in* as a noun or adjective, and *sign in* and *sign into* as verbs. For example: *Sign into your Mattermost account using the sign-in credentials that were sent to you.*
+- sign-in, sign in, and sign into
+	- Use *sign-in* as a noun or adjective, and *sign in* and *sign into* as verbs. For example: *Sign into your Mattermost account using the sign-in credentials that were sent to you.*
 
-Single sign-on
-  Single sign-on is abbreviated as SSO. When using the long form in a heading with title case, it's *Single Sign-on*.
+- Single Sign-on
+	- Single Sign-on is abbreviated as SSO. When using the long form in a heading with title case, it's *Single Sign-on*.
 
 ## Gender-neutral Text
 
