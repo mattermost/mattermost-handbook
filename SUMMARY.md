@@ -108,7 +108,7 @@
     * [Technical Writing team handbook](operations/research-and-development/product/technical-writing-team-handbook/README.md)
       * [Work with us](operations/research-and-development/product/technical-writing-team-handbook/work-with-us.md)
       * [User interface text guidelines](operations/research-and-development/product/technical-writing-team-handbook/user-interface-text-guidelines.md)
-      * [Documentation style guide](/operations/operations/operations/research-and-development/product/technical-writing-team-handbook/documentation-style-guide)
+      * [Documentation style guide](operations/research-and-development/product/technical-writing-team-handbook/documentation-style-guide.md)
       * [Our terminology](operations/research-and-development/product/technical-writing-team-handbook/our-terminology.md)
       * [Guidelines for PMs and developers](operations/research-and-development/product/technical-writing-team-handbook/writing-feature-documentation.md)
       * [Guidelines for community contributions](operations/research-and-development/product/technical-writing-team-handbook/writing-community-documentation.md)
