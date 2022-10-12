@@ -22,7 +22,12 @@ The product security team is overall in charge of secure software development pr
 
 The product security team performs reviews on new features and plugins when necessary. Here's some of the things included in the checks:
 
-* TODO.
+* Manual diff review
+* Static application security testing (SAST) using multiple tools
+* Software composition analysis (SCA)
+* Dynamic application security testing (DAST)
+
+Detailed review checklists are documented in the [security team shared drive](https://drive.google.com/drive/folders/1s3paBN6sfGRP-NHNuoekDHY_nrtRVagt), accessible to team members only.
 
 ### Automated code reviews
 
@@ -30,13 +35,15 @@ The key Mattermost repositories have automated code security analysis tools set 
 
 ## Dependency pinning
 
-Dependency pinning hardens the software development workflow against [software supply chain attacks](https://www.crowdstrike.com/cybersecurity-101/cyberattacks/supply-chain-attacks/). In this context, the specific threat being mitigated is upstream dependencies being taken over by attackers and replaced with malicious content. The risk commonly involves referring to dependencies without explicitly specifying a computed hash value for the dependency. In case of a dependency takeover, pulling the _latest_ version of it realizes the risk. The risk probability is considered low for supply chain attacks, but the effect can be pretty bad.
+Dependency pinning hardens the software development workflow against [software supply chain attacks](https://arstechnica.com/information-technology/2019/08/the-year-long-rash-of-supply-chain-attacks-against-open-source-is-getting-worse/). In this context, the specific threat being mitigated is upstream dependencies being taken over by attackers and replaced with malicious content. The risk commonly involves referring to dependencies without explicitly specifying a computed hash value for the dependency. In case of a dependency takeover, pulling the _latest_ version of it realizes the risk. The risk probability is considered low for supply chain attacks, but the effect can be pretty bad.
 
 Practically, defining build-time dependencies with an explicit hash is the preferred solution. When specifying hashes to existing dependencies that did not use hashed references before, picking the hash of the currently used dependency is a good starting point as it is often not practical to do a full audit of all dependencies. Picking a hash and sticking to it doesn't ensure that said hash represents a safe version, it only ensures that a possibly malicious later version is not introduced in the build process afterwards. Some technologies support automatic dependency pinning so that the developer doesn't need to explicitly find and set dependency hashes, for example Go and npm, as described below.
 
 ### Npm dependencies
 
 With npm, replace `npm install` with `npm ci` everywhere in the build/CI pipeline. This ensures that only packages matching `package-lock.json` are installed, see [the documentation on `npm ci`](https://docs.npmjs.com/cli/v8/commands/npm-ci) for more details and a reference to the npm documentation.
+
+When adding new dependencies, prefer [exact versions](https://docs.npmjs.com/cli/v8/commands/npm-install#save-exact) over the default semver range.
 
 ### Docker
 
