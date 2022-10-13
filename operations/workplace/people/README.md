@@ -10,7 +10,7 @@ Description: >-
 | Sub-Team | Name | Title |
 | :--- | :--- | :--- |
 | **HR** | [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew) |Director of HR|
-|  | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) | Manager, HR |
+|  | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) | Manager, People |
 |  |[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) | HR Generalist |
 |  |  |  |
 |  |  |  |
@@ -32,13 +32,13 @@ Description: >-
 | :--- | :--- | :--- |
 | Offer Letters and Employment Agreements | HR@mattermost.com |[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) |
 | Onboarding | [Onboarding Channel](https://community.mattermost.com/private-core/channels/onboarding) | [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) | [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) |
-| Employment Verification Letters | HR@mattermost.com |[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) |
+| Employment Verification Letters | see request instructions [here](https://handbook.mattermost.com/operations/workplace/people#letter-of-employment), Email: HR@mattermost.com |[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) |
 | US Benefits | [Loc: USA](https://community.mattermost.com/private-core/channels/loc-usa) | [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan)|
 | Canada Benefits | [Loc: Canada](https://community.mattermost.com/private-core/channels/loc-canada) | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
 | General HR Questions | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) (Non-Confidential) and HR@mattermost.com (Confidential)| [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) and [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
 |Recruiting | [Ask the Recruiting Team](https://community.mattermost.com/private-core/channels/ask-the-recruiting-team) (Non-Confidential) | [Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa) | Technical Recruiting Manager |
-| Workplace Program Questions | [Social:Workplace Programs](https://community.mattermost.com/private-core/channels/social)|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park) and [Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini) |
-| Compensation Analytics | Total Rewards Team | [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) and [Praveen Viswam](https://community.mattermost.com/core/messages/praveen.viswam) |
+| Workplace Program Questions & Updates |  [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) (Questions) [Social: Workplace Programs](https://community.mattermost.com/private-core/channels/social) (Updates) or Email: People@mattermost.com|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park) and [Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini) |
+| Compensation Analytics | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) | [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) and [Praveen Viswam](https://community.mattermost.com/core/messages/praveen.viswam) |
 
 
 ## Other Key Channels and Resources
