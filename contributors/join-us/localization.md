@@ -157,9 +157,9 @@ The translation PRs should be reviewed and merged as soon as possible to avoid a
 Amy Blais will notify the team if the PR should be cherry-picked to a release branch (e.g. ``cloud``).
 
 PR review owners:
-  - Server translations PRs - Channels/Suite Users teams (Owners: Guillermo and Zef)
-  - Webapp translations PRs - Channels/Suite Users teams (Owners: Guillermo and Zef)
-  - Mobile translations PRs - Channels/Suite Users teams (Owners:  Guillermo and Zef)
+  - Server translations PRs - Channels/Suite Users teams (Owners: Pantelis and Guillermo)
+  - Webapp translations PRs - Channels/Suite Users teams (Owners: Pantelis and Guillermo)
+  - Mobile translations PRs - Channels/Suite Users teams (Owners: Pantelis and Guillermo)
   - Desktop app translations PRs - Platform team (Owner: Devin)
   - Boards translations PRs - Boards team (Owners: Scott and Jesus)
   - Playbooks translations PRs - Playbooks team (Owners: Jesse and Caleb)
