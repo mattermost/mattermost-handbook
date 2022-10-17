@@ -71,5 +71,13 @@ Below are the primary and secondary KPIs used to measure each.
 * **Description**: Roughly how much free workspaces cost us. The fraction which compares the amount of Production Environment costs with the number of all free workspaces \(active and inactive\).
 * **Formula**: ATPFC = Production Environment Costs/Freemium Workspaces \(Active and Inactive\)
 
+### Non Production Environment Cost
+* **Description**: The fraction which compares the amount we spend on all non production environments. 
+* **Formula**: NPEC = \(Test Environment Costs + Dev Environment Costs + Core Environment Costs + Staging Environment Costs\)/Total AWS Cloud Costs
+
+### Active Hibernated Workspaces Ratio
+* **Description**: The ratio between Active to Hibernated workspaces at any given month
+* **Formula**: AHR = Active Workpaces/Hibernated Workspaces
+
 **Note:** Until February 2021 we measured all workspaces as active. Hibernation functionality was introduced in the last three days of February 2021.
 
