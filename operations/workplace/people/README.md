@@ -5,23 +5,43 @@ Description: >-
   answered here, see People Ops on Mattermost.
 ---
 
-# PeopleOps
+# People Team
 
-## Important Notes
-
-* **DO NOT share confidential HR information in the** [**Mattermost Community server**](http://community.mattermost.com), as it runs pre-production releases of Mattermost software and occasionally requires debugging of data stores. Use [BambooHR](https://mattermost.bamboohr.com/) to handle passport information, ID numbers, and other sensitive data. HR issues \(e.g. health, extenuating circumstances, etc.\) should be discussed in @mattermost.com emails only.
-
-### Change Log
-
-| Date | Edited By | Change Notes |
+| Sub-Team | Name | Title |
 | :--- | :--- | :--- |
-| 7/21/2021 | Lynn Conway | Updated Team |
-| 7/10/2020 | Natalie Jew | Updated Employment Verification |
-| 7/10/2020 | Natalie Jew | Added HR Systems |
-| 7/8/2020 | Natalie Jew | Added [Recruiting Process - stage descriptions](https://handbook.mattermost.com/contributors/join-us/staff-recruiting#recruiter-intake-session) |
-| 7/8/2020 | Natalie Jew | Added [Referral Program](https://handbook.mattermost.com/contributors/join-us/recruiting#referral-program) |
+| **HR** | [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew) |Director of HR|
+|  | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) | Manager, People |
+|  |[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) | HR Generalist |
+|  |  |  |
+|  |  |  |
+| **Recruiting** | [Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa) | Technical Recruiting Manager |
+|  |  |  |
+|  |  |  |
+| **Total Rewards** | [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) |Total Rewards Manager  |
+|  | [Praveen Viswam](https://community.mattermost.com/core/messages/praveen.viswam) |Total Rewards Analyst  |
+|  |  |  |
+|  |  |  |
+| **Workplace** | [Hanna Park](https://community.mattermost.com/core/messages/hanna.park) |Workplace Community Manager  |
+|  | [Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini) |Workplace Coordinator  |
 
-## Key Channels and Resources
+
+
+## Have a Question for the People Team?
+
+| People Topic | Resource | Who to Ask?|
+| :--- | :--- | :--- |
+| Offer Letters and Employment Agreements | HR@mattermost.com |[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) |
+| Onboarding | [Onboarding Channel](https://community.mattermost.com/private-core/channels/onboarding) | [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) | [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) |
+| Employment Verification Letters | see request instructions [here](https://handbook.mattermost.com/operations/workplace/people#letter-of-employment), Email: HR@mattermost.com |[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) |
+| US Benefits | [Loc: USA](https://community.mattermost.com/private-core/channels/loc-usa) | [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan)|
+| Canada Benefits | [Loc: Canada](https://community.mattermost.com/private-core/channels/loc-canada) | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
+| General HR Questions | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) (Non-Confidential) and HR@mattermost.com (Confidential)| [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) and [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
+|Recruiting | [Ask the Recruiting Team](https://community.mattermost.com/private-core/channels/ask-the-recruiting-team) (Non-Confidential) | [Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa) | Technical Recruiting Manager |
+| Workplace Program Questions & Updates |  [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) (Questions) [Social: Workplace Programs](https://community.mattermost.com/private-core/channels/social) (Updates) or Email: People@mattermost.com|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park) and [Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini) |
+| Compensation Analytics | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) | [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) and [Praveen Viswam](https://community.mattermost.com/core/messages/praveen.viswam) |
+
+
+## Other Key Channels and Resources
 
 * Performance Reviews
   * 📁[Performance Review Guidelines](https://handbook.mattermost.com/operations/people/performance-reviews-50)
@@ -47,27 +67,9 @@ Description: >-
   * Recommended Reading
     * [High Output Management](https://www.amazon.ca/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1?gclid=Cj0KCQiAgKzwBRCjARIsABBbFuhEwL6hICB9wZgtYrZB20TBTbJu7StCEKQlNqfmnQV-EhDY2E6RKS0aApHwEALw_wcB&hvadid=229973645505&hvdev=c&hvlocphy=9000907&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=3473960203373967416&hvtargid=aud-749227636460%3Akwd-297473118671&hydadcr=22457_10105506&keywords=high+output+management&qid=1577810900&sr=8-1) \(Chapter 13 required for performance reviews\)
 
-## Team
+## Important Notes
 
-HR
-
-* @natalie.jew - [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew) - Director of HR
-* @lynn.conway - [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) - People Partner
-* @cecily.sullivan - [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) - HR Generalist
-
-Recruiting
-
-* @teresa.novoa - [Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa) - Technical Recruiting Manager
-
-Total Rewards
-
-* @idayat.ogungbade - [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) - Total Rewards Manager
-* @praveen.viswam - [Praveen Viswam](https://community.mattermost.com/core/messages/praveen.viswam) - Total Rewards Analyst
-
-Workplace
-
-* @hanna.park - [Hanna Park](https://community.mattermost.com/core/messages/hanna.park) - Workplace Community Manager
-* @vidhi.saini - [Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini) - Workplace Coordinator
+* **DO NOT share confidential HR information in the** [**Mattermost Community server**](http://community.mattermost.com), as it runs pre-production releases of Mattermost software and occasionally requires debugging of data stores. Use [BambooHR](https://mattermost.bamboohr.com/) to handle passport information, ID numbers, and other sensitive data. HR issues \(e.g. health, extenuating circumstances, etc.\) should be discussed in @mattermost.com emails only.
 
 ## General Information
 
@@ -106,14 +108,6 @@ If you are a U.S. staff member and on payroll through TriNet, see [TriNet Contac
    
 > * For ‘fixed fee’ contracts, it is fine to send invoice before the time period covered. Example: An invoice for services April 1-30 can be sent on April 25.
 > * Your manager should reply on the email with any feedback on the invoice.
-
-### Other
-
-| People Topic | Who to Ask? |
-| :--- | :--- |
-| Compensation, benefits, agreements, and verification letters | HR@mattermost.com |
-| Onboarding | [Onboarding Channel](https://community.mattermost.com/private-core/channels/onboarding) |
-| Anything People Ops  - not confidential | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) |
 
 ### BambooHR
 
