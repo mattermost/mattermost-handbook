@@ -1,18 +1,10 @@
 # Dashboards
 
-## Community
-
-* [GitHub Contributors Dashboard](https://mattermost.looker.com/dashboards/15)
-
 ## Customer Success
-
-* [Customer Success Overview](https://mattermost.looker.com/dashboards/49)
-* [Customer Success Account Health Score](https://mattermost.looker.com/dashboards/36)
-* [Support Overview](https://mattermost.looker.com/dashboards/59)
 
 | Dashboard | Brief description |
 | ----------|-------------------|
-| [[Draft] List of self-hosted customers where telemetry is turned on](https://mattermost.looker.com/explore/data_warehouse/license_server_fact?qid=HcJOghkmxRtMf8Ui3eIE0s&toggle=fil) | Dashboard showing self-hosted customers with telemetry turned on (number of paid seats, number of activated users) 
+| [[Draft] List of self-hosted customers where telemetry is turned on](https://mattermost.looker.com/looks/977) | Dashboard showing self-hosted customers with telemetry turned on (number of paid seats, number of activated users) 
 
 ## Sales
 
@@ -25,7 +17,7 @@
 
 ## Finance
 
-* [ARR Overview Dashboard](https://mattermost.looker.com/dashboards/14)
+[Finance and Accounting (Under Development)](https://mattermost.looker.com/boards/34)
 
 ## Product
 
@@ -51,12 +43,4 @@
 | [Growth scorecard](https://mattermost.looker.com/dashboards/290) | signup funnel, day x retention rates, etc |
 | [Self-serve dashboard](https://mattermost.looker.com/dashboards/300) | self-serve conversion trends |
 | [ARR overview](https://mattermost.looker.com/dashboards/14) | revenue trends, top customers |
-
-
-## Top of Funnel
-
-* [Traffic & Organic Google Search](https://mattermost.looker.com/dashboards/5)
-* [Downloads Dashboard](https://mattermost.looker.com/dashboards/11)
-* [Contact Us Request Dashboard](https://mattermost.looker.com/dashboards/25)
-* [Trials Request Dashboard](https://mattermost.looker.com/dashboards/23)
 
