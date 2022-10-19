@@ -230,6 +230,7 @@
         * [Engineer onboarding timeline and expectations](operations/workplace/people/working-at-mattermost/onboarding/engineer-onboarding.md)
         * [Manager onboarding](operations/workplace/people/working-at-mattermost/onboarding/manager-onboarding-1.md)
         * [Frequently asked questions](operations/workplace/people/working-at-mattermost/onboarding/frequently-asked-questions.md)
+      * [Learning and development](operations/workplace/people/working-at-mattermost/learning-and-development.md)
       * [Mattermost communication best practices](operations/workplace/people/working-at-mattermost/mattermost-communication-best-practices.md)
       * [Paid time off](operations/workplace/people/working-at-mattermost/paid-time-off/README.md)
         * [Out of office email example](operations/workplace/people/working-at-mattermost/paid-time-off/ooo-example.md)
