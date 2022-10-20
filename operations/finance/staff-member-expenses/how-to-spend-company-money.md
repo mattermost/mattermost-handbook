@@ -41,8 +41,8 @@ While we're sharing average costs for various items below, you should use your b
 * Laptop stand: Average price **180 USD**
 * Laptop carrying bag: Average price **60 USD**
 * Work-related books: **30 USD** per month or **360 USD** annually
-  * [Recommended resources](https://handbook.mattermost.com/operations/research-and-development/training)
-
+  * [Recommended resources](https://handbook.mattermost.com/operations/research-and-development/product/product-management-team-handbook/professional-development#additional-training-resources)
+  *
 #### Business computer accessories
 
 * USB-C dock for New MacBooks: Average price **150 USD**
@@ -62,12 +62,12 @@ For all new staff members, to request a new laptop, please use this [form](https
 
 **Non-engineers**
 
-* **Windows:** We will provide a [XPS 15](https://www.dell.com/en-us/shop/laptops/new-xps-15/spd/xps-15-9520-laptop/xn9520cto040s) or similar. General specs are i9, 32GB memory, 1TB SSD. 
-* **Mac:** We will provide a [14" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-gray-8-core-cpu-14-core-gpu-512gb) or similar. General specs are M1 Pro 8-core CPU, 14-core GPU, 16-core Neural Engine, 32GB memory, 512GB SSD. 
+* **Windows:** We will provide a [XPS 15](https://www.dell.com/en-us/shop/laptops/new-xps-15/spd/xps-15-9520-laptop/xn9520cto040s) or similar. General specs are i9, 32GB memory, 1TB SSD.
+* **Mac:** We will provide a [14" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-gray-8-core-cpu-14-core-gpu-512gb) or similar. General specs are M1 Pro 8-core CPU, 14-core GPU, 16-core Neural Engine, 32GB memory, 512GB SSD.
 
 **Engineers**
 
-* **Windows:** We will provide a [XPS 15](https://www.dell.com/en-us/shop/laptops/new-xps-15/spd/xps-15-9520-laptop/xn9520cto040s) or similar. General specs are i9, 32GB memory, 1TB SSD. 
+* **Windows:** We will provide a [XPS 15](https://www.dell.com/en-us/shop/laptops/new-xps-15/spd/xps-15-9520-laptop/xn9520cto040s) or similar. General specs are i9, 32GB memory, 1TB SSD.
 * **Mac:** We will provide a [16" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-10-core-cpu-32-core-gpu-1tb) or similar. General specs are M1 Max 10-core CPU, 32-core GPU, 16-core Neural Engine, 32GB memory, 1TB SSD.
 
 **Designers**
