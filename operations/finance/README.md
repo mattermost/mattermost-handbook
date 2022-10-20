@@ -19,9 +19,10 @@ Email:
 * [Tim Quock](https://community.mattermost.com/core/messages/@tim.quock) - VP of Finance
 * [Elad Rosenberg](https://community.mattermost.com/core/messages/@elad.rosenberg) - Director of Finance
 * [Ben Graham](https://community.mattermost.com/core/messages/@ben.graham) - Senior Manager, Accounting
-* [Isabel Alorro](https://community.mattermost.com/core/messages/@isabel.alloro) - Accounting Lead
-* [Jeff Ho](https://community.mattermost.com/core/messages/@jeff.ho) - Accountant
+* [Isabel Alorro](https://community.mattermost.com/core/messages/@isabel.alloro) - Accounting Manager
+* [Shawna Young-Marcelino](https://community.mattermost.com/core/messages/@shawna.young-marcelino) - Payroll Analyst
 * [Jeff Dynda](https://community.mattermost.com/core/messages/@jeff.dynda) - Senior Accountant
+* [Avaneesh KS](https://community.mattermost.com/core/messages/@avaneesh.ks) - Staff Accountant
 * [Daniel Sischy](https://community.mattermost.com/core/messages/@daniel.sischy) - IT Manager
 
 ## AORs
@@ -31,7 +32,7 @@ Email:
 * For inquiries regarding customer invoices and collections, vendor bills and payments, sales orders, please reach out to [Jeff Dynda](https://community.mattermost.com/core/messages/@jeff.dynda).
 * For inquiries regarding deal desk and sales orders, please reach out to [Tim Quock](https://community.mattermost.com/core/messages/@tim.quock).
 
-For more detailed AORs within the Finance team, please refer to the [Areas of Responsibility](https://docs.google.com/spreadsheets/d/1iSnhnQrshyZf2NSxoWOjJ0_e-sbqA6A-GrJ5G2h2wZo/edit#gid=0) sheet.
+For more detailed AORs within the Finance team, please refer to the [Areas of Responsibility](https://docs.google.com/spreadsheets/d/1qraUnYC-4W1W7nouaWzmLKl5zVzKYKqXwkMdBX2t97M/edit#gid=649964022) sheet.
 
 ## Key resources
 
