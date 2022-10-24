@@ -62,14 +62,14 @@ Mattermost documentation covers a number of different topics. For documentation,
 
 **Product Manager Review**
 
-* Channels: Katie Wiersgalla \(@wiersgallak\)
+* Suite: Laney Coletti-Saracino \(@laneycs\)
 * Security: Katie Wiersgalla \(@wiersgallak\)
 * Cloud: Katie Wiersgalla \(@wiersgallak\)
 * Playbooks: Ian Tao \(@tao\)
-* Boards: Winson Wu \@winsonwu\)
-* Licensing: Jason Blais\(\@jasonblais\)
+* Boards: Winson Wu (\@winsonwu\)
+* Licensing: Jason Blais \(\@jasonblais\)
 * Mobile and desktop app: Eric Sethna \(@esethna\)
-* Apps and Marketplace: Aaron Rothschild \(@aaronrothschild\)
+* Apps and Marketplace: Sandy Atkinson \(@asatkinson\)
 * Handbook and Process; Community: Jason Blais \(@jasonblais\)
 
 **Dev Review**
