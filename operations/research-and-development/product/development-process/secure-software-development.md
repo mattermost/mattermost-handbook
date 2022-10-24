@@ -1,6 +1,6 @@
 # Secure Software Development at Mattermost
 
-This document provides guidelines to secure software development at Mattermost. The document is at the moment a [1% draft](/company/about-mattermost/mindsets#drafts-at-1-50-99) and not conclusive.
+This document provides guidelines to secure software development at Mattermost. The document is at the moment a [50% draft](/company/about-mattermost/mindsets#drafts-at-1-50-99) and not conclusive.
 
 ## Document scope
 
