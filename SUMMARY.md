@@ -217,6 +217,7 @@
     * [Data subject access requests](operations/security/privacy/data-subject-access-requests.md)
   * [Product Security](operations/security/product-security/README.md)
     * [Working on security-sensitive pull requests](operations/security/product-security/working-on-sensitive-prs.md)
+    * [Secure Software Development guide](operations/research-and-development/product/development-process/secure-software-development.md)
   * [Security Operations](operations/security/security-operations/README.md)
     * [User guides](operations/security/security-operations/user-guides.md)
 * [Workplace](operations/workplace/README.md)
