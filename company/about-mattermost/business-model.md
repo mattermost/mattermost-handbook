@@ -66,7 +66,7 @@ As the deployment of Mattermost grows within an organization, typically past 250
 
 # Self-served motions
 
-For Mattermost Professional, we have self-served options to purchasing subscription licenses by credit card. For self-serve purchases, cloud-hosted Mattermost Professional is purchased with a monthly charge per paid user, and the self-hosted version is purchased with an annual contract. 
+For Mattermost Professional, we have self-serve options to purchasing subscription licenses by credit card. For self-serve purchases, cloud-hosted Mattermost Professional is purchased with a monthly charge per paid user, and the self-hosted version is purchased with an annual contract. 
 
 # Sales-served motions
 
