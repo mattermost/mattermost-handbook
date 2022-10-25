@@ -103,11 +103,16 @@ Internal processes and framework for day-to-day payroll processes.
 
 |Process Description/Doc Link|System/Tool|Document Type|Flow Chart|Occurrence|AOR|Access Rights|
 |:----|:----|:----|:----|:----|:----|:----|
-|[Deel walkthrough](https://docs.google.com/document/d/1ZgHUD1B9KIzBQAZiHfL7yvYUBQ4lDQvvTgG-JF6kbw8/edit#)|`Deel`|Process Narrative| |bi-monthly|Ben Graham|Accounting|
-|[US Payroll](https://docs.google.com/document/d/1TlDpPMZqs_sq1k2bjTxIkcBtff1y52Reeo5h3UM0IAY/edit?usp=sharing)|`Netsuite` `TriNet`|Playbook| |Weekly|Jeff Ho|Payroll|
-|[International Payroll](https://docs.google.com/document/d/1OJ_JoiSdA84h-IN6UZ9O6ZkzW2wgGg2Mv5047q1gKxQ/edit?usp=sharing)|`Netsuite` `Vistra`|Playbook| |Monthly|Jeff Ho, Vistra|Payroll|
-|[401K Playbook](https://docs.google.com/document/d/1Ny0zOr98InPnybaQoMP82laXPmtNDTkXuECIBfyVCx8/edit#heading=h.s1shpwm3yp4j)|`Netsuite` `Ubiquity`|Playbook| |Weekly|Jeff Ho|Payroll|
-|[Deel payroll](https://docs.google.com/document/d/1I3OzopX0tuXB0vvKts3fFB4jke6SLFWrBi9uJL69tOw/edit#)|`Deel`|Playbook| |Weekly|Jeff Ho|Accounting|
+|[Deel walkthrough](https://docs.google.com/document/d/1ZgHUD1B9KIzBQAZiHfL7yvYUBQ4lDQvvTgG-JF6kbw8/edit#)|`Deel`|Process Narrative| |Semi-monthly|Ben Graham|Accounting|
+|[Deel Payroll](https://docs.google.com/document/d/1I3OzopX0tuXB0vvKts3fFB4jke6SLFWrBi9uJL69tOw/edit#)|`Deel`|Playbook| |Monthly|Shawna Young-Marcelino|Accounting|
+|[US Payroll](https://docs.google.com/document/d/1TlDpPMZqs_sq1k2bjTxIkcBtff1y52Reeo5h3UM0IAY/edit?usp=sharing)|`Netsuite` `TriNet`|Playbook| |Semi-monthly|Shawna Young-Marcelino|Payroll|
+|[Canada Payroll](https://docs.google.com/document/d/1OJ_JoiSdA84h-IN6UZ9O6ZkzW2wgGg2Mv5047q1gKxQ/edit?usp=sharing)|`Netsuite` `Vistra`|Playbook| |Semi-monthly|Shawna Young-Marcelino, Vistra|Payroll|
+|[UK Payroll](https://docs.google.com/document/d/1OJ_JoiSdA84h-IN6UZ9O6ZkzW2wgGg2Mv5047q1gKxQ/edit?usp=sharing)|`Netsuite` `Vistra`|Playbook| |Semi-monthly|Shawna Young-Marcelino, Vistra|Payroll|
+|[Germany Payroll](https://docs.google.com/document/d/1OJ_JoiSdA84h-IN6UZ9O6ZkzW2wgGg2Mv5047q1gKxQ/edit?usp=sharing)|`Netsuite` `Vistra`|Playbook| |Semi-monthly|Shawna Young-Marcelino, Vistra|Payroll|
+|[Contractor Invoice Approval]()|`Accrualify`|Process| |Monthly|Shawna Young-Marcelino|Payroll|
+|[Commissions Approval & Payment]()|`Salesforce`|Process| |Monthly|Shawna Young-Marcelino, Ben Graham|Payroll, Accounting|
+|[401K Administration](https://docs.google.com/document/d/1Ny0zOr98InPnybaQoMP82laXPmtNDTkXuECIBfyVCx8/edit#heading=h.s1shpwm3yp4j)|`Netsuite` `Ubiquity`|Playbook| |Weekly|Shawna Young-Marcelino|Payroll|
+|[Sunlife Benefits]()|`Sunlife`|Process| |Ongoing|Shawna Young-Marcelino|Payroll|
 
 ### Equity
 
