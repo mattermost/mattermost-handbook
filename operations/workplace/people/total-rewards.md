@@ -8,7 +8,7 @@ Our goal is to have a total rewards strategy that enables us to achieve the foll
 2. Align with local market compensation by paying similar compensation to comparably sized organizations in each local market.
 3. Support growth and retention by adopting a longer term view of reward and recognition.
 
-## Total Rewards Principles 
+## Total Rewards principles 
 
 At Mattermost, decisions on compensation are guided by these three principles:
 
@@ -21,7 +21,49 @@ To learn more about how the total rewards guiding principles drive equitable and
 - Video: Our approach to compensation: [Video Link](https://mattermost.zoom.us/rec/share/5pATCWceLN1Z_LQuOwtWkscRFybXD8EF-SUFp9rqTgwd3OmljOpqsfEULxiBX0zW.tNwvtB2SP15OlkEU?startTime=1655086943000); [Passcode](https://docs.google.com/document/d/1lGj5XIuyVIMlyRjzXzM2juD5rhVe85nuOWZ6cqFyYpE/edit?usp=sharing)
 - Slides: Our approach to compensation: [Link](https://docs.google.com/presentation/d/1sktnALj-FUffGE2HgywADwpSvWJRiEYqMrMHLAZihiE/edit?usp=sharing)
 
-## Frequently Asked Questions
+## How we determine compensation
+
+We adopt a total rewards approach to compensation, so our package includes a mix of extrinsic and intrinsic rewards to enable each and every staff member to have the best work of their careers at Mattermost. The components of our total rewards package include base salary, performance pay, benefits, work-life programs, and a work environment that supports growth and development.
+
+To ensure that salaries are consistent, equitable and competitive, our compensation system defines salary ranges (minimum and maximum salaries) for the purpose of administering compensation. The salary ranges are based on the following factors:
+
+1. Role and [level](https://docs.google.com/spreadsheets/d/1D8cGVMvLv4qKSpev7R3_DqEeiry-uKCjVdwbCTTgA0I/edit?usp=sharing)
+2. Cost of labor (local market compensation)
+3. Experience within level
+
+**Role and level**
+
+Our compensation system aims to position salary for each role and level, at or around the median of Mattermost’s labor market, which comprises companies in the technology industry that are similar in terms of size and growth stage.
+
+**Local market compensation** 
+
+We pay competitive local market rates. This means that our compensation system targets pay at or around the median salaries of comparable organizations in each local market. The local market compensation approach is based on an extensive internal analysis of the cost of labour (local market compensation) in over 12,000 cities across the globe, and it enables Mattermost to support equitable standard of living for staff members.
+
+- _**Why we align compensation to the local market**_ 
+
+If the compensation system was designed to offer the same salary in all locations, the disposable income available to staff members may differ significantly based on location, thereby creating inequity. For example, if a staff member in California was paid the same salary as a staff member in Spain, the staff in California may fall under a lower standard of living bracket, while the staff member in Spain may fall under a higher standard of living bracket, relative to their respective local markets and the corresponding prices of goods and services.
+
+**Experience within level**
+
+Each salary range is broken into four quarters, representing different competency levels i.e. new to role, learning, mastering or teaching. A staff member’s pay level within the salary range i.e. quarter-placement, will vary depending on the career stage, and will generally follow the following guidelines:
+
+- _**New to role (partially meets expectations)**_
+
+This is the lowest quarter of the salary range (up to 25% range penetration). This portion of the range applies to staff members that are new to the job and/or field, have little or no direct, related prior experience, and are still building the skills, knowledge, and ability to handle job responsibilities. The staff member at this point is not yet performing the full scope of the job requirements.
+
+- _**Learning (generally meets expectations)**_
+
+This is the second quarter of the salary range (25% to 50% range penetration). This portion of the range applies to staff members that are deep into the learning curve for the role and performing job responsibilities effectively. The staff member at this point possesses all of the base knowledge and skill requirements, but may still be learning some aspects of the job or developing expertise.
+
+- _**Mastering (fully functioning and often exceeds expectations)**_
+
+This is the third quarter of the salary range (50% to 75% range penetration). This portion of the range applies to staff members that are exhibiting the core competencies of the position, performing all tasks effectively and independently, and often exceeding expectations.
+
+- _**Teaching (consistently exceeds expectations)**_
+
+This is the highest quarter of the salary range (75% to 100% range penetration). This portion of the range applies to staff members with unique talent and extensive experience. The staff is a subject matter expert with a depth of knowledge that extends beyond primary responsibilities. Ready for promotion to the next level when the opportunity arises.
+
+## Frequently asked questions
 
 **What if my candidate's current compensation and/or expected compensation is materially higher than the recommendation from our Total Rewards System?**
 
