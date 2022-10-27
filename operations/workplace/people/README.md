@@ -9,17 +9,15 @@ Description: >-
 
 | Sub-Team | Name | Title |
 | :--- | :--- | :--- |
-| **HR** | [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew) |Director of HR|
+| **HR** | [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew) |VP of HR|
 |  | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) | Manager, People |
 |  |[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) | HR Generalist |
 |  |  |  |
-|  |  |  |
 | **Recruiting** | [Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa) | Technical Recruiting Manager |
-|  |  |  |
+| |[Ramon Fernandez](https://community.mattermost.com/core/messages/ramon.fernandez) | Recruiter |
 |  |  |  |
 | **Total Rewards** | [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) |Total Rewards Manager  |
 |  | [Praveen Viswam](https://community.mattermost.com/core/messages/praveen.viswam) |Total Rewards Analyst  |
-|  |  |  |
 |  |  |  |
 | **Workplace** | [Hanna Park](https://community.mattermost.com/core/messages/hanna.park) |Workplace Community Manager  |
 |  | [Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini) |Workplace Coordinator  |
@@ -31,41 +29,14 @@ Description: >-
 | People Topic | Resource | Who to Ask?|
 | :--- | :--- | :--- |
 | Offer Letters and Employment Agreements | HR@mattermost.com |[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) |
-| Onboarding | [Onboarding Channel](https://community.mattermost.com/private-core/channels/onboarding) | [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) | [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) |
+| Onboarding |[Mattermost Company Onboarding Google Slides](https://docs.google.com/presentation/d/1Xzukzo_zAb9cUEmaUb2zRylQLGoMZV7Tz6NMYHHn9AA/edit?usp=sharing), [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team)  | [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) | [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) |
 | Employment Verification Letters | see request instructions [here](https://handbook.mattermost.com/operations/workplace/people#letter-of-employment), Email: HR@mattermost.com |[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) |
 | US Benefits | [Loc: USA](https://community.mattermost.com/private-core/channels/loc-usa) | [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan)|
 | Canada Benefits | [Loc: Canada](https://community.mattermost.com/private-core/channels/loc-canada) | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
 | General HR Questions | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) (Non-Confidential) and HR@mattermost.com (Confidential)| [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) and [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
 |Recruiting | [Ask the Recruiting Team](https://community.mattermost.com/private-core/channels/ask-the-recruiting-team) (Non-Confidential) | [Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa) | Technical Recruiting Manager |
-| Workplace Program Questions & Updates |  [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) (Questions) [Social: Workplace Programs](https://community.mattermost.com/private-core/channels/social) (Updates) or Email: People@mattermost.com|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park) and [Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini) |
+| Workplace Program Questions & Updates | Questions: [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team), Email: People@mattermost.com, Updates: [Social: Workplace Programs](https://community.mattermost.com/private-core/channels/social) or [Workplace Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_dsmc65gm71b4imq1gkfk5qkrv4@group.calendar.google.com&ctz=America/New_York) (Found on the BambooHR Homepage under "Company Links" |[Hanna Park](https://community.mattermost.com/core/messages/hanna.park) and [Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini) |
 | Compensation Analytics | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) | [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) and [Praveen Viswam](https://community.mattermost.com/core/messages/praveen.viswam) |
-
-
-## Other Key Channels and Resources
-
-* Performance Reviews
-  * 📁[Performance Review Guidelines](https://handbook.mattermost.com/operations/people/performance-reviews-50)
-  * 📁[Performance Review Template](https://docs.google.com/document/d/1tTPTp8JC3pUp0kPo2AAUg6XETbURB_bU8f3EOpvKRr0/edit#heading=h.hu5vu6dn98iw)
-* Onboarding
-  * [💬](https://emojipedia.org/speech-balloon/)[People Ops Channel](https://community.mattermost.com/private-core/channels/people-ops)
-  * 📁[Legacy PeopleOps Page](https://docs.mattermost.com/process/people-ops.html)\(to be [tomb-stoned](../../../company/about-mattermost/list-of-terms.md#tomb-stoned)\)
-* Compensation
-  * @idayat.ogungbade - [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) - Total Rewards Manager 
-* Employment Verification
-  * @cecily.sullivan - [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) - HR Generalist 
-* Benefits
-  * 📁[Legacy U.S. Benefits Page](https://docs.mattermost.com/process/benefits-us.html) \(to be [tomb-stoned](../../../company/about-mattermost/list-of-terms.md#tomb-stoned)\)
-    * @cecily.sullivan - [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) 
-  * 📁[Legacy Canadian Benefits](https://docs.mattermost.com/process/benefits-canada.html) \(to be [tomb-stoned](../../../company/about-mattermost/list-of-terms.md#tomb-stoned)\) 
-    * @lynn.conway - [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) 
-* For Managers
-  * Hiring
-    * 📁[Hiring workflow ](https://docs.google.com/document/d/1EBIoL0kHqj2S3DtwAz9FvDgYDljZ5KoQpAnYePO84s8/edit)
-      * 📁[Headcount Approval Request Process](https://docs.google.com/document/d/1vohRHTceNWGXV9IaPcb7o2u0fZ7R3fM1I9bnFSCzkLM/edit) \(for off-cycle requests\)
-      * 📁[Job Description Template and New Req Intake Form](https://docs.google.com/document/d/1rpTI2NKu4H_781vpx_eD9Fku7go4gGDs1P7bJAMQvAU/edit)
-      * 📁[Offer Request Approval Process](https://docs.google.com/document/d/13qedU9kGdn9_d1WHK2oSAKxRvO6ajIGKXI2DEQ--b7M/edit)
-  * Recommended Reading
-    * [High Output Management](https://www.amazon.ca/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1?gclid=Cj0KCQiAgKzwBRCjARIsABBbFuhEwL6hICB9wZgtYrZB20TBTbJu7StCEKQlNqfmnQV-EhDY2E6RKS0aApHwEALw_wcB&hvadid=229973645505&hvdev=c&hvlocphy=9000907&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=3473960203373967416&hvtargid=aud-749227636460%3Akwd-297473118671&hydadcr=22457_10105506&keywords=high+output+management&qid=1577810900&sr=8-1) \(Chapter 13 required for performance reviews\)
 
 ## Important Notes
 
@@ -133,3 +104,17 @@ Resources: How-to for Staff Members
 > * To access the system go to [Culture Amp](https://mattermost.cultureamp.com) or [OneLogin](https://mattermost.onelogin.com).
 > * Note that as of March 2021, Culture Amp will not be supporting Internet Explorer 11.
 
+## Other Key Channels and Resources
+
+* Performance Reviews
+  * 📁[Performance Review Guidelines](https://handbook.mattermost.com/operations/people/performance-reviews-50)
+  * 📁[Performance Review Template](https://docs.google.com/document/d/1tTPTp8JC3pUp0kPo2AAUg6XETbURB_bU8f3EOpvKRr0/edit#heading=h.hu5vu6dn98iw)
+
+* For Managers
+  * Hiring
+    * 📁[Hiring workflow ](https://docs.google.com/document/d/1EBIoL0kHqj2S3DtwAz9FvDgYDljZ5KoQpAnYePO84s8/edit)
+      * 📁[Headcount Approval Request Process](https://docs.google.com/document/d/1vohRHTceNWGXV9IaPcb7o2u0fZ7R3fM1I9bnFSCzkLM/edit) \(for off-cycle requests\)
+      * 📁[Job Description Template and New Req Intake Form](https://docs.google.com/document/d/1rpTI2NKu4H_781vpx_eD9Fku7go4gGDs1P7bJAMQvAU/edit)
+      * 📁[Offer Request Approval Process](https://docs.google.com/document/d/13qedU9kGdn9_d1WHK2oSAKxRvO6ajIGKXI2DEQ--b7M/edit)
+  * Recommended Reading
+    * [High Output Management](https://www.amazon.ca/High-Output-Management-Andrew-Grove/dp/0679762884/ref=sr_1_1?gclid=Cj0KCQiAgKzwBRCjARIsABBbFuhEwL6hICB9wZgtYrZB20TBTbJu7StCEKQlNqfmnQV-EhDY2E6RKS0aApHwEALw_wcB&hvadid=229973645505&hvdev=c&hvlocphy=9000907&hvnetw=g&hvpos=1t1&hvqmt=e&hvrand=3473960203373967416&hvtargid=aud-749227636460%3Akwd-297473118671&hydadcr=22457_10105506&keywords=high+output+management&qid=1577810900&sr=8-1) \(Chapter 13 required for performance reviews\)
