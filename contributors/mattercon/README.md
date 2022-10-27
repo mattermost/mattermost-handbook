@@ -24,25 +24,7 @@ All Mattermost staff along with invited contributors.
 
 General guidelines and information are on this page but our official Code of Conduct policy is [outlined on this page](https://handbook.mattermost.com/mattercon/mattermost-code-of-conduct). For the smooth operation of MatterCon, all attendees are asked to sign the code of conduct along with standard a waiver and consent for official conference photography.
 
-### Registering
-
-MatterCon 2020 registration is now closed.
-
 ### Contribute
-
-**Bring your significant other**
-
-* Significant Others \(SO\) are welcome to attend and must register for their own ticket.
-* One guest/SO per team member.
-* You are responsible for any guests you invite.
-* Your guest's presence should not distract you from engaging with other team members and actively participating in Contribute activities.
-* Guests should do their best to get to know many people.
-* Guests are welcome and encouraged to participate in all presentations, events, and meetings that are open to team members.
-* If you're having a meal with your guest, pick a table with more than two seats so you can invite others to join you.
-
-**Having your children join you**
-
-We have observed from the past that contributors who have chosen to bring children spend significantly less time collaborating with Mattermost team members. If you need to travel with family members, you are expected to fully engage in as many group activities as you are physically able, invite team members to join you during meals, attend all company meetings, and recognize that MatterCon is an investment in the continued growth of the organization. All Mattermost-sponsored activities are 18+. This includes workshops, keynotes, excursions, team dinners.
 
 **Leisure time around contribute**
 
@@ -76,6 +58,8 @@ This is scheduled time for teams to have team-only time to discuss their work, s
 * Check the packing list \(coming soon\) for what to bring.
 
 ### Past MatterCons
+
+MatterCon 2022 was held at the Hilton resort in Bridgetown, Barbados.
 
 MatterCon 2021 was Mattermost's first VR conference and was held virtually.
 
