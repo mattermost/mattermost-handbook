@@ -57,7 +57,7 @@ This is scheduled time for teams to have team-only time to discuss their work, s
 * Name badges should include home city, pronoun, company, hugs, how many contributes attended.
 * Check the packing list \(coming soon\) for what to bring.
 
-### Past MatterCons]
+### Past MatterCons
 
 MatterCon 2022 was held at the Hilton resort in Bridgetown, Barbados.
 
