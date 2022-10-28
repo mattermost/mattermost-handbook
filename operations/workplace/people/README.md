@@ -38,7 +38,33 @@ Description: >-
 | Workplace Program Questions & Updates | Questions: [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team), Email: People@mattermost.com, Updates: [Social: Workplace Programs](https://community.mattermost.com/private-core/channels/social) or [Workplace Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_dsmc65gm71b4imq1gkfk5qkrv4@group.calendar.google.com&ctz=America/New_York) (Found on the BambooHR Homepage under "Company Links" |[Hanna Park](https://community.mattermost.com/core/messages/hanna.park) and [Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini) |
 | Compensation Analytics | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) | [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) and [Praveen Viswam](https://community.mattermost.com/core/messages/praveen.viswam) |
 
-## Important Notes
+## People Team SLAs
+What is an SLA?
+An SLA is an agreement that details the expectations and obligations of a service provider to a client.
+
+| Common People Team Request | SLA | [DRI](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#dri) |Sub-Team |
+| :--- | :--- | :--- |:--- |
+|Compensation Review Requests (for candidates/offers)|2 business days|[Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade)|Total Rewards|
+|General Recruiting Questions|1 business day|[Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa)|Recruiting|
+|Opening a Requisition|1 business day|[Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa)|Recruiting|
+|Posting a Job|2 business days|[Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa)|Recruiting|
+|In-take ICP & Job Description|2-4 business days|[Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa)|Recruiting|
+|Recruiting New Agency Support|5-7 business days|[Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa)|Recruiting|
+|Requesting a Recruiter Screen|1 business day|[Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa)|Recruiting|
+|Reference Check Request|1 business day|[Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa)|Recruiting|
+|Offer Letters|All Approvals given by 4 PM ET will go out same day|[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan)|HR|
+|General, Non-Urgent HR Questions|Response: 1 business day, Solution: within 3 business days (for non-complex issues)|[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|HR|
+|US Benefit Overviews from TriNet for Candidates|2-3 business days|[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan)|HR|
+|Employment Change/Comp Adjustment Letters|3 business days (after all approvals received)|[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan)|HR|
+|Employment Change/Comp Adjustment Letters|3 business days (after all approvals received)|[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan)|HR|
+|Letters of Employment and Employment Verifications|2 business days|[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan)|HR|
+|General Workplace Questions |Response: 1 business day, Solution: within 3 business days (for non-complex issues)|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park),[Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini)| Workplace|
+|Workplace Program Proposals|Response in 2-3 business days|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park)| Workplace|
+|New Hire Equipment|2 weeks|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park),[Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini)| Workplace|
+|Refresh Equipment (for current staff)|2 weeks|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park),[Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini)| Workplace|
+
+
+## Important Note
 
 * **DO NOT share confidential HR information in the** [**Mattermost Community server**](http://community.mattermost.com), as it runs pre-production releases of Mattermost software and occasionally requires debugging of data stores. Use [BambooHR](https://mattermost.bamboohr.com/) to handle passport information, ID numbers, and other sensitive data. HR issues \(e.g. health, extenuating circumstances, etc.\) should be discussed in @mattermost.com emails only.
 
