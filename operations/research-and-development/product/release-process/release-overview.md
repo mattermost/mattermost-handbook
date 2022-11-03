@@ -56,7 +56,7 @@ The goal is not to have the same release cadence for all products, but there may
    * Enables us to avoid missing key tasks and to avoid last minute work.
    * E.g. When opening a PR, add a “Docs/Needed” label for any PRs that need docs and communicate to Tech Writers. Don’t wait until merging the PR/feature. This ensures that we have time to complete docs on time when our releases become faster.
    * Make tracking bugs and testing requirements easy. E.g:
-     * Resolve Jira tickets for QA when PRs are merged \(and cherry-picked\).
+     * Resolve Jira tickets for QA when PRs are merged (and cherry-picked).
      * Add QA test steps to Jira tickets and/or PRs.
      * Add Fix Versions and Milestones in Jira/PRs for bugs/tickets for easy tracking.
      * Add clear Release Notes on PRs.
@@ -127,7 +127,7 @@ Release dates are currently communicated in the following ways.
 
 * The Mattermost Cloud releases follow a weekly cycle and the release day is normally on Thursdays. Feature Complete deadline for each Mattermost Cloud release is on Wednesdays 7 working days prior to the Cloud release day.
 * The Mobile App release cadence is monthly on the 16th of every month.
-* Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next self-managed release. The release branch for a self-managed release \(e.g. `release-7.5`\) will be cut once the Mattermost Cloud release that will be used for the next self-managed release has been shipped.
+* Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next self-managed release. The release branch for a self-managed release (e.g. `release-7.5`) will be cut once the Mattermost Cloud release that will be used for the next self-managed release has been shipped.
 * This cadence is subject to change in the future and any changes will be documented and announced.
 
 ## Tracking feature flags
@@ -138,7 +138,7 @@ Details on feature flags: [https://developers.mattermost.com/contribute/server/f
 
 **Process for merging the `master` branch into the `cloud` branch**
 
-* For server, webapp, api-reference and enterprise cloud branches, the `master` branch is merged into the ``cloud`` branch. A backup of the `cloud` branches are saved. This is done weekly on a Thursday by the Release Manager via an automated process. See [this document](https://docs.google.com/document/d/1i3k322KATm76AX2k-tL8lDsjIqI-E2tl4hCx1KcXV8A/edit#heading=h.3gq28x60gnor) for more details on the process.
+* For server, webapp, api-reference and enterprise cloud branches, the `master` branch is merged into the `cloud` branch. A backup of the `cloud` branches are saved. This is done weekly on a Thursday by the Release Manager via an automated process. See [this document](https://docs.google.com/document/d/1i3k322KATm76AX2k-tL8lDsjIqI-E2tl4hCx1KcXV8A/edit#heading=h.3gq28x60gnor) for more details on the process.
 * Devs and Release Manager should be aware of the dates when a `master` branch is merged into a `cloud` branch in order to be mindful of avoiding having incomplete features in a Cloud release, and to include bug fixes that we may want to include in a release.
 
 **Process for cutting the release branch for Self-Managed releases based off of Cloud releases**
@@ -258,7 +258,7 @@ When triaging a bug report, consider the following:
 
 **Q: How do we track feature differences for Mattermost Cloud and self-managed releases?**
 
-* There will be some cases where we need to make a fix or change something for the self-managed release \(e.g., a bug that only occurs if you use a certain self-managed setting or a certain database we don't use in Mattermost Cloud\). In those cases the self-managed release might have some changes that are not a direct copy of the Mattermost Cloud build.
+* There will be some cases where we need to make a fix or change something for the self-managed release (e.g., a bug that only occurs if you use a certain self-managed setting or a certain database we don't use in Mattermost Cloud). In those cases the self-managed release might have some changes that are not a direct copy of the Mattermost Cloud build.
 
 **Q: What information does the Customer Support team need for Cloud releases?**
 
