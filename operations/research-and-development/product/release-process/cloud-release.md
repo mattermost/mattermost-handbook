@@ -2,7 +2,7 @@
 
 This document outlines the Cloud release process for the Mattermost core team. Our release process draws from many best practice Agile, Scrum, and Software Development Lifecycle methodologies.
 
-Please refer to [the Cloud Release Playbook](https://community.mattermost.com/playbooks/playbooks/53b8oj79ofb6dmanmuchj1cdbo/preview) for a most up-to-date checklist.
+Please refer to [the Cloud Release Playbook](https://community.mattermost.com/playbooks/playbooks/53b8oj79ofb6dmanmuchj1cdbo/outline) for a most up-to-date checklist.
 
 ## Release Timeline
 
