@@ -31,6 +31,7 @@ Description: >-
 | Offer Letters and Employment Agreements | HR@mattermost.com |[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) |
 | Onboarding |[Mattermost Company Onboarding Google Slides](https://docs.google.com/presentation/d/1Xzukzo_zAb9cUEmaUb2zRylQLGoMZV7Tz6NMYHHn9AA/edit?usp=sharing), [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team)  | [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) | [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) |
 | Employment Verification Letters | see request instructions [here](https://handbook.mattermost.com/operations/workplace/people#letter-of-employment), Email: HR@mattermost.com |[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) |
+|Mattermost Invitation Letter (for Visa Application) |see request instructions below and complete [this form](https://forms.gle/nWbqRQ55odHpn46w9) |[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan)|
 | US Benefits | [Loc: USA](https://community.mattermost.com/private-core/channels/loc-usa) | [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan)|
 | Canada Benefits | [Loc: Canada](https://community.mattermost.com/private-core/channels/loc-canada) | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
 | General HR Questions | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) (Non-Confidential) and HR@mattermost.com (Confidential)| [Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan) and [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
@@ -56,8 +57,8 @@ An SLA is an agreement that details the expectations and obligations of a servic
 |General, Non-Urgent HR Questions|Response: 1 business day, Solution: within 3 business days (for non-complex issues)|[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|HR|
 |US Benefit Overviews from TriNet for Candidates|2-3 business days|[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan)|HR|
 |Employment Change/Comp Adjustment Letters|3 business days (after all approvals received)|[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan)|HR|
-|Employment Change/Comp Adjustment Letters|3 business days (after all approvals received)|[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan)|HR|
 |Letters of Employment and Employment Verifications|2 business days|[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan)|HR|
+|Mattermost Invitation Letter (for Visa Application) |2 business days|[Cecily Sullivan](https://community.mattermost.com/core/messages/cecily.sullivan)|HR|
 |General Workplace Questions |Response: 1 business day, Solution: within 3 business days (for non-complex issues)|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park),[Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini)| Workplace|
 |Workplace Program Proposals|Response in 2-3 business days|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park)| Workplace|
 |New Hire Equipment|2 weeks|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park),[Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini)| Workplace|
@@ -88,6 +89,10 @@ For example, monthly fee, salary, start date, title, etc. People Ops will send y
 
 If you are a U.S. staff member and on payroll through TriNet, see [TriNet Contact Information](https://drive.google.com/file/d/15AdHLRB9CvMbeUStJ8laqlDJwPZZ2RT-/view?usp=sharing). Please make sure to include the TriNet Employer Code when you share TriNet contact information with your verifying institution.
 
+### Mattermost Invitation Letter (for Visa Application)
+If you are traveling on behalf of the company and need an invitation letter as a part of the visa application process, please complete [this form](https://forms.gle/nWbqRQ55odHpn46w9). Cecily Sullivan will write a letter based off of the information you provide in the form and will send it to you within 2 business days.
+
+If you would like a letter confirming traveling insurance when traveling on behalf of the company, please review the [Business Travel Insurance](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/travel/business-travel-insurance) section of the handbook and complete the [AIG Travel Insurance Generation Form](https://drive.google.com/file/d/1Eqo4Y7jses8p1uUPfOhxnb4Rp3RMXlCW/view?usp=sharing).
 ### Regular Compensation
 
 1. Employees of our US entity, Mattermost, Inc., receive salary by semi-monthly direct deposit via TriNet. Pay slips are available via [TriNet’s portal](https://www.hrpassport.com/).
