@@ -68,7 +68,7 @@ The goal is not to have the same release cadence for all products, but there may
    * E.g. Boards and Playbooks are plugins. Plugins are the strategy for now, maybe there will be another strategy for the long-term.
 
 ## Multi-product Release Processes
- - The sample [Plugin Release Playbook](https://community.mattermost.com/playbooks/playbooks/f4oh16ardfbyfgkas1cb6intmw/preview) helps give an overview of needed steps for plugin releases.
+ - The sample [Plugin Release Playbook](https://community.mattermost.com/playbooks/playbooks/f4oh16ardfbyfgkas1cb6intmw/outline) helps give an overview of needed steps for plugin releases.
  - Please also refer to the [Playbooks release documentation](https://handbook.mattermost.com/operations/research-and-development/product/release-process/playbooks-release) and [Boards release documentation](https://handbook.mattermost.com/operations/research-and-development/product/release-process/boards-release).
 
 ## Overview of Release Cycles
@@ -129,8 +129,6 @@ Release dates are currently communicated in the following ways.
 * The Mobile App release cadence is monthly on the 16th of every month.
 * Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next self-managed release. The release branch for a self-managed release \(e.g. `release-7.5`\) will be cut once the Mattermost Cloud release that will be used for the next self-managed release has been shipped.
 * This cadence is subject to change in the future and any changes will be documented and announced.
-
-![Release Cadence Illustration](../../../../.gitbook/assets/Release-dates2.png)
 
 ## Tracking feature flags
 
@@ -236,7 +234,7 @@ When triaging a bug report, consider the following:
 
 **Q: How does release team monitor what changes went into a release?**
 
-* A: Monitor the commit history of the respective `release` branch, e.g., [https://github.com/mattermost/mattermost-server/commits/release-5.4](https://github.com/mattermost/mattermost-server/commits/release-7.5) contains commits that shipped with `mattermost-server v7.5`. Jira ticket is resolved after cherry picking is done.
+* A: Monitor the commit history of the respective `release` branch, e.g., [https://github.com/mattermost/mattermost-server/commits/release-7.5](https://github.com/mattermost/mattermost-server/commits/release-7.5) contains commits that shipped with `mattermost-server v7.5`. Jira ticket is resolved after cherry picking is done.
 
 **Q: How does translations branching work?**
 
