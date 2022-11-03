@@ -2,12 +2,7 @@
 
 Mattermost core team works on a monthly release process, with a new version shipping on the 16th of each month in [binary form](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html).
 
-This document outlines the development process for the Mattermost core team, which draws from what we find works best for us from Agile, Scrum, and Software Development Lifecycle approaches. Please refer to [the Self-Managed Release Playbook](https://community.mattermost.com/playbooks/playbooks/t7s6wkmsfpf99xe6sxgricgd9e/preview) for a most up-to-date checklist.
-
-Recommended pre-reading:
-
-* [Mattermost Software Development Process training materials](https://docs.mattermost.com/process/training.html#software-development-process)
-* [Mattermost Security Practices training](https://docs.mattermost.com/process/training.html#system-security) \(particularly NIST standards\)
+This document outlines the development process for the Mattermost core team, which draws from what we find works best for us from Agile, Scrum, and Software Development Lifecycle approaches. Please refer to [the Self-Managed Release Playbook](https://community.mattermost.com/playbooks/playbooks/t7s6wkmsfpf99xe6sxgricgd9e/outline) for a most up-to-date checklist.
 
 ## Release Timeline
 

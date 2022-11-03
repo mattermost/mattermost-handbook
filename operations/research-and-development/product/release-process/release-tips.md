@@ -4,7 +4,7 @@
 
 * Run a bug bash at least for major releases.
 * Bug bashes can either be run asynchronously/individually or as a group.
-* Use a playbook to run bug bashes - [example bug bash playbook](https://community.mattermost.com/playbooks/playbooks/raxoo6hua3gpdpthaqmpmdzptw/edit).
+* Use a playbook to run bug bashes - [example bug bash playbook](https://community.mattermost.com/playbooks/playbooks/raxoo6hua3gpdpthaqmpmdzptw/outline).
   * PMs can assign test assignments and testers under the "Testing areas" checklist item.
 * Decide environments to test on - normally community-daily or rc.test.mattermost.com + include Mobile and Desktop app environments.
 * Decide date(s) for the bug bash.
@@ -49,7 +49,6 @@
 
 **Ways to ensure features are tested for HA/Mobile/Scale**
 
-* Mobile: Added a release checklist item for QAs for T-11.
 * HA: Test server available.
 * Scale: Via loadtests.
 
