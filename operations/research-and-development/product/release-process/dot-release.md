@@ -11,7 +11,7 @@ Dot releases are done for high priority and high severity security issues and cu
 
 The time-to-fix varies, but urgent dot releases are always prioritized.
 
-Please refer to [the Dot Release Playbook](https://community.mattermost.com/playbooks/playbooks/hjn1xnc3gfnmzeqwssyu6dsa3w/preview) for a most up-to-date checklist.
+Please refer to [the Dot Release Playbook](https://community.mattermost.com/playbooks/playbooks/hjn1xnc3gfnmzeqwssyu6dsa3w/outline) for a most up-to-date checklist.
 
 ## Release Timeline
 
