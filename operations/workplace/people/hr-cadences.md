@@ -18,6 +18,29 @@ The goal is monthly for managers and quarterly for non-managers. Your HR partner
 
 Manager listening sessions will happen once a month. In addition to the above topics, this is also an opportunity for people managers to unpack questions around people management challenges, concerns, and/or best practices. This feedback will also help drive future Manager training topics.
 
+## Async Weeks
+
+**What Are Async Weeks at Mattermost?**
+
+During an org-wide async week, all recurring meetings are canceled (e.g. COM, MBR, Team-wide meetings, 1:1s) with the goal of: 
+
+- **Creating space for heads-down time.** Meetings can be disruptive when our work requires deeper focus.
+- **Improving time zone agnostic practices, including: default document, default open mindsets.** We have team members across the globe and in multiple time zones, and when we are able to communicate and collaborate with web-discoverable documentation we better enable our global team members with access to information, context.
+- **Providing time for calendar clean-up.** We encourage every team member to use this as an opportunity to clean your calendar, and respectfully question if recurring meetings should be changed, canceled or alternate attendees.
+- **Testing and improving [Vacation-Ready](https://community.mattermost.com/files/bd1x8f47abgdx83ejpesd1z7ce/public?h=EWRJ-lMoUotKhiPyPAJzS_6Zt2uyAmaJh08xHr8LIBU) Team preparedness.** 
+
+**Async Weeks: FAQ**
+- **Does Async Week mean that we aren't supposed to meet live at all?** 
+Live meetings or calls do and should still happen, as appropriate. For example, our customer-facing teams may still have customer meetings or calls which can't be canceled. Others may be working on projects where a synchronous call or meeting helps our 'heads-down' work. We encourage every team member to use your best judgment, and if you aren't sure how to approach this, below are a few prompts to help.
+- **How do I effectively communicate while asynchronous?** 
+Written communication that is open is key. Examples include Mattermost group messages vs. DMs, web-discoverable: handbook, GDocs, Boards).
+Use simple language. We are a global company and encourage every team member to be mindful of words or idioms that don't translate beyond our region. Similarly, please ask questions when something doesn't translate, it may be a blindspot and your question can help expand awareness.
+Assume positive intent. Tone and intent can be very hard to read over text, and even zoom. When we assume there's positive intent, we're able to approach conversations with a more open, collaborative mindset, and ask follow-up questions to gain clarity.
+- **What are some other tips and best practices?** 
+We're asking all team members to take notes on your experience during our async weeks. The People Team will send an experience feedback survey after each async week to understand what's working and where we can add clarity in the future. 
+
+
+
 ## New Hire Feedback
 
 People use [New Hire feedback](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/onboarding#post-onboarding-readiness) to improve the onboarding process as it relates to general company onboarding. People may give suggestions to functional or department lead\(s\) if relevant feedback exists. New hire feedback cadences:
