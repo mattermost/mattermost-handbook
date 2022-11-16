@@ -188,7 +188,7 @@ If you're interested in contributing to the process, please join the [Mattermost
 | Română - Romanian | TBD \(Open Role\) | TBD (Open role) |
 | Svenska - Swedish | [Martin Johnson \(johnsonbrothers\)](https://github.com/johnsonbrothers) | TBD (Open role) |
 | Türkçe - Turkish | [Kaya Zeren \(kaya\_zeren\)](https://twitter.com/kaya_zeren) | TBD (Open role) |
-| Pусский - Russian | [Alexey Napalkov \(flynbit\)](https://github.com/flynbit) | TBD (Open role) |
+| Pусский - Russian | [Konstantin Tavalov \(eleferen\)](https://translate.mattermost.com/user/Eleferen/) | TBD (Open role) |
 | Yкраїнська - Ukrainian | TBD \(Open role\) | TBD (Open role) |
 | 中文 \(简体\) - Simplified Chinese | [aeomin \(aeomin\)](http://translate.mattermost.com/user/aeomin) | TBD (Open role) |
 | 中文 \(繁體\) - Traditional Chinese | [Tze-Kei Lee \(chikei\)](https://github.com/chikei) | TBD (Open role) |
