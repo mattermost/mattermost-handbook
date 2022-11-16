@@ -25,6 +25,21 @@ One of our ongoing initiatives is to ensure our documentation is written in natu
 
 For details about how we write UI text, naming conventions for CTAs, and writing with empathy, take a look at the [User Interface Text Guidelines](operations/research-and-development/product/technical-writing-team-handbook/user-interface-text-guidelines.md).
 
+### Plan and deloyment support details
+
+Visitors to Mattermost product documentation look for confirmation that a given feature is supported as part of their subscription plan and available in their self-hosted or Cloud-based deployment. This information is placed prominently at the top of every documentation page for easy scanning.
+
+Plan and deployment details can be added to new product documentation pages using the following RST syntax that uses a Sphinx ``include`` directive:
+
+```text
+.. include:: ../_static/badges/allplans-cloud-selfhosted.rst
+  :start-after: :nosearch:
+```
+
+The ``include`` directive points to an RST file, and the file you specify is one of 12 templated files that cover all combinations of plan and deployment support available in the ``/_static/badges`` directory.
+
+**Note:** The ``:start-after`` line is important and shouldn't be omitted. The ``nosearch`` attribute is present in the templated RST files to instruct Sphinx not to return the templated files in search results. The include directive tells Sphinx to hide the ``nosearch`` text present in the templated RST files when publishing the page. 
+
 ### Tabbed content
 
 Users visit product documentation looking for a clear, golden path to success. As software complexity grows, the paths to success can become less straightforward and dependent on customer-determined variables like operating systems, databases, and product release versions. 
@@ -38,7 +53,7 @@ Content can be formatted to display in tabs using the following RST syntax:
 
 	.. tab:: TabNameA
 
-		Tab text goes here. This content displays by default when users visit this page.
+		Tab text goes here. Users see this content when users visit this page.
 
 	.. tab:: TabNameB
 
