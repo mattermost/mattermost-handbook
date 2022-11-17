@@ -37,14 +37,13 @@ Our compensation system aims to position salary for each role and level, at or a
 
 **Local market compensation** 
 
-We pay competitive local market rates. This means that our compensation system targets pay at or around the median salaries of comparable organizations in the local market. We also optimize for impact by grouping locations with similar cost of labour (local market compensation) into the same pay zone, i.e. we apply the same salary range for locations with similar cost of labour. The local market compensation approach is based on an extensive internal analysis of the cost of labour in over 12,000 cities, and it enables Mattermost to support equitable standard of living across our staff locations. 
+We pay competitive local market rates. This means that our compensation system targets pay at or around the median salaries of comparable organizations in the local market. We also optimize for impact by grouping locations with similar cost of labour (local market compensation) into the same pay zone, i.e. we apply the same salary range for locations with similar cost of labour. The local market compensation approach is based on an extensive internal analysis of the cost of labour in over 12,000 cities, and it enables Mattermost to support equitable standard of living across our staff locations.
  
 The Mattermost system comprises 6 pay zones (3 tiers):
  
-Pay zones 1 and 2 (Tier 1): locations with high cost of labour 
-Pay zones 3 and 4 (Tier 2): locations with intermediate cost of labour
-Pay zones 5 and 6 (Tier 3): locations with low cost of labour
-
+Pay zones 1 and 2 (Tier 1): locations with high cost of labor.
+Pay zones 3 and 4 (Tier 2): locations with intermediate cost of labor.
+Pay zones 5 and 6 (Tier 3): locations with low cost of labor.
 
 - _**Why we align compensation to the local market**_ 
 
