@@ -22,21 +22,14 @@ In the localization channel, you can:
 
 You can contribute to the following active translation projects:
 
-+--------------------------+----------------------------------------------------------------------------+
-| **Translation project**  | **Translation server URL**                                                 |
-+--------------------------+----------------------------------------------------------------------------+
-| Channels                 | https://translate.mattermost.com/projects/mattermost/                      |
-+--------------------------+----------------------------------------------------------------------------+
-| Focalboard               | https://translate.mattermost.com/projects/focalboard/                      |
-+--------------------------+----------------------------------------------------------------------------+
-| Playbooks                | https://translate.mattermost.com/projects/playbooks/                       |
-+--------------------------+----------------------------------------------------------------------------+
-| Desktop app              | https://translate.mattermost.com/projects/mattermost/mattermost-desktop/   |
-+--------------------------+----------------------------------------------------------------------------+
-| Mobile app v2            | https://translate.mattermost.com/projects/mattermost/mattermost-mobile-v2/ |
-+--------------------------+----------------------------------------------------------------------------+
-| Mattermost WIP Languages | https://translate.mattermost.com/projects/i18n-wip/                        |
-+--------------------------+----------------------------------------------------------------------------+
+| **Translation project** | **Translation server URL** |
+| :--- | :--- |
+| Channels | https://translate.mattermost.com/projects/mattermost/ |
+| Focalboard | https://translate.mattermost.com/projects/focalboard/ |
+| Playbooks | https://translate.mattermost.com/projects/playbooks/ |
+| Desktop app | https://translate.mattermost.com/projects/mattermost/mattermost-desktop/ |
+| Mobile app v2 | https://translate.mattermost.com/projects/mattermost/mattermost-mobile-v2/ |
+| Mattermost WIP languages | https://translate.mattermost.com/projects/i18n-wip/ |
 
 The general localization process is described in the following sections on this page. 
 
