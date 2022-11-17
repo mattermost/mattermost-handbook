@@ -6,9 +6,9 @@ The goal of the localization process is to consistently produce high quality tra
 
 If you're interested in contributing translations to Mattermost, learn more about getting started with Mattermost translations by visiting the [translation contribution](https://developers.mattermost.com/contribute/why-contribute/#you-want-to-help-with-product-translation) documentation. 
 
-### Join us on the Mattermost Community Server
+### Join us on the Mattermost Community server
 
-We strongly encourage all translators to join us in the [Mattermost localization channel](https://community.mattermost.com/core/channels/localization) on the Mattermost Community Server. 
+We strongly encourage all translators to join us in the [Mattermost localization channel](https://community.mattermost.com/core/channels/localization) on the Mattermost Community server. 
 
 In the localization channel, you can:
 - Discuss translation questions, concerns, and best practices with both Mattermost staff and the Mattermost translation community.
@@ -202,6 +202,6 @@ Translation server admins must grant all new translators with specific permissio
 To add a new WIP language:
 
 1. Go to [https://translate.mattermost.com/projects/i18n-wip](https://translate.mattermost.com/projects/i18n-wip).
-2. Select a component on the resulting page, then select **Tools &gt; Start new translation**. 
+2. Select a component on the resulting page, then select **Tools > Start new translation**. 
 3. Select the languages you want to add, then **Start new translation**.
 4. Repeat step 2 for every component within the [https://translate.mattermost.com/projects/i18n-wip](https://translate.mattermost.com/projects/i18n-wip) project.
