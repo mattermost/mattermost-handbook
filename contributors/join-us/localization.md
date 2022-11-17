@@ -37,11 +37,11 @@ The general localization process is described in the following sections on this 
 
 Mattermost is developed in US English, and officially supports 20 additional languages. Getting started is easy.
 
-1. Join the [Mattermost translation server](http://translate.mattermost.com).
+### Join the [Mattermost translation server](http://translate.mattermost.com)
 
 **Important note:** While it's common to contribute to Mattermost in GitHub, product translations is a notable exception. You must contribute to Mattermost translations on the Mattermost translation server. Please don't attempt to submit translations in GitHub via pull requests (PRs) as your translations will be overwritten with the next PR update.
 
-2. Confirm whether the language you want to translate is one we [officially support](https://translate.mattermost.com/projects/mattermost/#languages) or is a [work-in-progress (WIP) language](https://translate.mattermost.com/projects/i18n-wip/#languages).
+### Confirm whether the language you want to translate is one we [officially support](https://translate.mattermost.com/projects/mattermost/#languages) or is a [work-in-progress (WIP) language](https://translate.mattermost.com/projects/i18n-wip/#languages)
 
 Only supported languages are available in-product by selecting **Settings > Display > Language**. Any language that isn't officially supported is considered a work-in-progress language. Work-in-progress languages become officially supported languages when the following two conditions are met:
 * The (WIP) language reaches or exceeds the Beta translation quality threshold across three consecutive releases; and,
@@ -51,7 +51,10 @@ See the section on [translation quality](https://handbook.mattermost.com/contrib
 
 **Tip:** We encourage translators to add additional languages to the WIP language list. Before adding a new language, always check to ensure that the language you're interested in isn't already defined as an officially supported langauge or a WIP language on the translation server.
 
-3. Review translation rules written by localization leads, when applicable:
+### Review translation rules written by localization leads, when applicable
+
+Translation rules and glossaries are available for the following languages:
+
    * [German \(Regeln zur Übersetzung von Mattermost\)](https://gist.github.com/der-test/6e04bff8a173e053811cb93e08838ca2).
    * [French \(Règles pour la traduction francophone de Mattermost\)](https://github.com/wget/mattermost-localization-french-translation-rules).
    * [Dutch translation rules for Mattermost](https://github.com/ctlaltdieliet/mattermost-localization-dutch-translation-rules).
