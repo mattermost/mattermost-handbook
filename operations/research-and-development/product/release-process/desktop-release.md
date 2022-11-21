@@ -1,14 +1,12 @@
 # Release Process
 
-This document outlines the release process for the Mattermost Desktop App.
+This document outlines the release process for the Mattermost desktop app.
 
-Desktop App releases ship at the same time as the next server Feature release after the latest [Electron update](https://github.com/electron/electron/releases), which means approximately every 2-4 months. The Desktop App releases normally ship on the 16th of the month and follow the server release schedule.
+Desktop App releases follow a fixed schedule of 4 releases per year. Releases ship quarterly by the 16th of March, June, September, and December of each year.
 
-In cases where there are requested features completed prior to the next upcoming Electron update, the next Desktop App release will be prepared at the same time as the next server Feature release regardless of whether a new Electron update has shipped.
+A dot release will be prepared sooner if [Electron](https://github.com/electron/electron/releases) releases a security update, or if other urgent bugs are found.
 
-A dot release will be prepared sooner if Electron releases a security update, or if other urgent bugs are found.
-
-Please refer to [the Desktop App Release Playbook](https://community.mattermost.com/playbooks/playbooks/h3a39biacpnuim7ufmwiuuoxfo/outline) for a most up-to-date checklist.
+Please refer to [the desktop app release playbook](https://community.mattermost.com/playbooks/playbooks/h3a39biacpnuim7ufmwiuuoxfo/outline) for a most up-to-date checklist.
 
 ## Release timeline
 
@@ -50,7 +48,7 @@ Day when Release Manager and PMs decide which major features are included in the
     - Verify all items in the last posted release checklist are complete
     - Update Changelog PR based on what’s in/out of the release
     - Post a reminder to devs in the Desktop App channel of the code complete date with the ZBB count
-    - Ask release PM to review the JIRA tickets remaining in the current release fix version and push those that won’t make it to the next fix version
+    - Ask release PM to review the Jira tickets remaining in the current release fix version and push those that won’t make it to the next fix version
 2. PM:
     - Finalize roadmap for next release, and identify planned marketing bullet points
 3. Marketing:
