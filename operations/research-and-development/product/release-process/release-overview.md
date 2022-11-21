@@ -138,7 +138,7 @@ Details on feature flags: [https://developers.mattermost.com/contribute/server/f
 
 **Process for merging the `master` branch into the `cloud` branch**
 
-* For server, webapp, api-reference and enterprise cloud branches, the `master` branch is merged into the `cloud` branch. A backup of the `cloud` branches are saved. This is done weekly on a Thursday by the Release Manager via an automated process. See [this document](https://docs.google.com/document/d/1i3k322KATm76AX2k-tL8lDsjIqI-E2tl4hCx1KcXV8A/edit#heading=h.3gq28x60gnor) for more details on the process.
+* For server, webapp, api-reference, enterprise and focalboard cloud branches, the `master` branch is merged into the `cloud` branch. A backup of the `cloud` branches are saved. This is done weekly on a Thursday by the Release Manager via an automated process. See [this document](https://docs.google.com/document/d/1i3k322KATm76AX2k-tL8lDsjIqI-E2tl4hCx1KcXV8A/edit#heading=h.3gq28x60gnor) for more details on the process.
 * Devs and Release Manager should be aware of the dates when a `master` branch is merged into a `cloud` branch in order to be mindful of avoiding having incomplete features in a Cloud release, and to include bug fixes that we may want to include in a release.
 
 **Process for cutting the release branch for Self-Managed releases based off of Cloud releases**
@@ -190,7 +190,7 @@ When triaging a bug report, consider the following:
 
 **Q: What is the release cycle for the Mattermost Desktop app?**
 
-* A: Desktop releases are currently released as required.
+* A: Desktop releases are shipped every 3 months starting in March, 2023. For more details, see https://handbook.mattermost.com/operations/research-and-development/product/release-process/desktop-release.
 
 **Q: When do I need to have a feature PR to be included into the next release?**
 
