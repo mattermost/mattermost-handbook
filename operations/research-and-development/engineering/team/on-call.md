@@ -7,7 +7,7 @@
 To find out when you’re on call follow the below checklist:
 
 1. Add the SET calendar to your Google Calendar
-   1. Log in to OpsGenie via OneLogin.
+   1. Log in to OpsGenie via Okta.
    2. Open each of the following schedules that are relevant to you:
       * [Sustained Engineering\_schedule](https://mattermost.app.opsgenie.com/settings/schedule/detail/cc2b2e08-b690-434b-a8a0-b4943f8eb3d2)
       * [Backup Sustained Engineering\_Schedule](https://mattermost.app.opsgenie.com/settings/schedule/detail/967e7812-e594-4d0f-8f26-8b2e98f43906)
@@ -32,13 +32,13 @@ If you've been scheduled for SET duty but aren't available, e.g. because of PTO:
 There’s a few things you should set up before your first day on call. Work through the following checklist a couple days before you start on-call:
 
 1. Log in to OpsGenie
-   1. Go to [https://mattermost.onelogin.com/portal](https://mattermost.onelogin.com/portal) and log in.
+   1. Go to [https://mattermost.okta.com/app/UserHome](https://mattermost.okta.com/app/UserHome) and log in.
    2. Search for and select the OpsGenie icon.
 2. Install the OpsGenie app on your phone
    1. Search “OpsGenie” in the Apple App Store or Google Play Store.
    2. Open the app and type in your email, **making sure to select US as the data center region**.
    3. For organization, enter “mattermost”.
-   4. This should redirect you to OneLogin to complete the log in.
+   4. This should redirect you to Okta to complete the log in.
 3. Configure your OpsGenie notification rules in your desktop browser
    1. Go to [https://mattermost.app.opsgenie.com/settings/user/notification](https://mattermost.app.opsgenie.com/settings/user/notification).
    2. Under **Contact methods** add your phone number for SMS and/or voice.
