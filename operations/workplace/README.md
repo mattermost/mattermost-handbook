@@ -36,7 +36,7 @@ Available to anyone who'd like to join the server using either an email and pass
 
 URL: [https://community.mattermost.com/private-core](https://community.mattermost.com/private-core/channels/fy21-devops-awareness)
 
-A confidential space for [Mattermost staff](../../contributors/contributors/community.md#mattermost-staff) requiring a Mattermost Okta›› account and MFA.
+A confidential space for [Mattermost staff](../../contributors/contributors/community.md#mattermost-staff) requiring a Mattermost Okta account and MFA.
 
 #### Staff usernames on the Mattermost server
 
