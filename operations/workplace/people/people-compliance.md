@@ -12,7 +12,6 @@ As a remote workplace, we don't have a physical office or breakroom where we can
 
 US Equal Employment Opportunity Commission
 
-* [EEO is the Law (English)](https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf)
-* [EEO is the Law (Spanish)](https://www.eeoc.gov/sites/default/files/migrated_files/employers/eeoc_self_print_poster_spanish.pdf) 
-* [EEO is the Law (Arabic)](https://www.eeoc.gov/sites/default/files/migrated_files/employers/eeoc_self_print_poster_arabic.pdf)
-* [EEO is the Law (Chinese)](https://www.eeoc.gov/sites/default/files/migrated_files/employers/eeoc_self_print_poster_chinese.pdf)
+* [Know Your Rights: Workplace Discrimination is Illegal (English)](https://www.eeoc.gov/know-your-rights-workplace-discrimination-illegal-poster)
+* [Know Your Rights: Workplace Discrimination is Illegal (Spanish)](https://www.eeoc.gov/es/conozca-sus-derechos-la-discriminacion-en-el-lugar-de-trabajo-es-ilegal)
+* [Family and Medical Leave Act (FMLA) Poster (US)](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf)
