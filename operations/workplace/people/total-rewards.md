@@ -37,17 +37,9 @@ Our compensation system aims to position salary for each role and level, at or a
 
 **Local market compensation** 
 
-We pay competitive local market rates. This means that our compensation system targets pay at or around the median salaries of comparable organizations in the local market. We also optimize for impact by grouping locations with similar cost of labour (local market compensation) into the same pay zone, i.e. we apply the same salary range for locations with similar cost of labour. The local market compensation approach is based on an extensive internal analysis of the cost of labour in over 12,000 cities, and it enables Mattermost to support equitable standard of living across our staff locations.
+We pay competitive local market rates. This means that our compensation system targets pay at or around the median salaries of comparable organizations in the local market.  
  
-The Mattermost system comprises 6 pay zones (3 tiers):
- 
-Pay zones 1 and 2 (Tier 1): locations with high cost of labor.
-Pay zones 3 and 4 (Tier 2): locations with intermediate cost of labor.
-Pay zones 5 and 6 (Tier 3): locations with low cost of labor.
-
-- _**Why we align compensation to the local market**_ 
-
-If the compensation system was designed to offer the same salary in all locations, the disposable income available to staff members may differ significantly based on location, thereby creating inequity. For example, if a staff member in California was paid the same salary as a staff member in Spain, the staff in California may fall under a lower standard of living bracket, while the staff member in Spain may fall under a higher standard of living bracket, relative to their respective local markets and the corresponding prices of goods and services.
+To ensure a thorough understanding of the global labour market, we analyzed multiple data sources to establish differentials in the cost of labour and cost of living across 12,000 cities in 139 countries in order to create a zone approach versus a unique geo approach where compensation is differentiated by city. The zone approach enables us to group locations with similar cost of labour and cost of living into the same pay zone with a shared compensation range, thereby enhancing our ability to offer equitable and competitive compensation across our staff locations. 
 
 **Experience within level**
 
