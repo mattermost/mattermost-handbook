@@ -30,13 +30,13 @@ The server has two teams:
 
 URL: [https://community.mattermost.com/core](https://community.mattermost.com/core/messages/@github)
 
-Available to anyone who'd like to join the server using either an email and password account \([you can sign-up for a free account online](https://community.mattermost.com/signup_user_complete)\) or a Mattermost staff account, which is set up via OneLogin and requires MFA either through OneLogin or Google Authenticator.
+Available to anyone who'd like to join the server using either an email and password account \([you can sign-up for a free account online](https://community.mattermost.com/signup_user_complete)\) or a Mattermost staff account, which is set up via Okta and requires MFA either through Okta or Google Authenticator.
 
 ### Staff team
 
 URL: [https://community.mattermost.com/private-core](https://community.mattermost.com/private-core/channels/fy21-devops-awareness)
 
-A confidential space for [Mattermost staff](../../contributors/contributors/community.md#mattermost-staff) requiring a Mattermost OneLogin account and MFA.
+A confidential space for [Mattermost staff](../../contributors/contributors/community.md#mattermost-staff) requiring a Mattermost Okta account and MFA.
 
 #### Staff usernames on the Mattermost server
 
