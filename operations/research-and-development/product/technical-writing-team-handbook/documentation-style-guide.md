@@ -474,13 +474,16 @@ Internal links take readers to a page within the Mattermost product documentatio
 To create a link to another documentation page within the same section of the product documentation, use the following formatting:
 
 ```text 
-`:doc:`Link display text </folder/filename>`
+:doc:`Link display text </folder/filename>`
 
 For example, when you want to add a link on a Channels page to another Channels page:
   See the :doc:`channel preferences </channels/set-channel-preferences>` documentation for details.
 ```
 
-Note that the file extension is not part of the syntax, and that two underline characters are missing. Sphinx uses the title of the document as the link text.
+Notes: 
+
+- The file extension is not part of the syntax, and that two underline characters are missing. Sphinx uses the title of the document as the link text.
+- If you're looking to create an internal link to a section on another page (as opposed to creating a link to the top of a page in general), the syntax above won't work. Docs is investigating further to identify a solution.
 
 In Sphinx, references are constructed using roles, and roles point to locations in the documentation set. The two roles that are relevant in Mattermost documentation are the `:doc:` role and the `:ref:` role. In both cases, the HTML output is a relative URL for the target location.
 
