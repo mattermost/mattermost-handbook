@@ -10,6 +10,7 @@ Email:
 * security-alerting@mattermost.com \(Incident Reporting / Alerting\)
 * privacy@mattermost.com \(Privacy related requests \(e.g. GDPR, CCPA\)\)
 * responsibledisclosure@mattermost.com \([Responsible Disclosure Policy](https://mattermost.com/security-vulnerability-report/)\)
+* abuse@mattermost.com \(Trust & Safety\)
 
 ## Team
 
@@ -25,6 +26,8 @@ Email:
 ### Security Operations
 
 * Paul Harrison, Security Engineering Lead
-* Jorge Blanco, Senior Security Engineer
+* Ailsa Partridge, Security Engineer II
 * Corey Robinson, Security Engineer II
+* Jorge Blanco, Senior Security Engineer
+* Joseba Astorca, Security Engineer II
 
