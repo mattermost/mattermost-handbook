@@ -31,4 +31,3 @@ Product Designers are organized within the R&D area of Mattermost; however, they
 ### Strategic priorities
 
 Product Designers are responsible for working with Product Managers to carry out the strategic priorities of the product. They are tasked with ensuring the product is designed to meet customers and users existing and future needs. Understanding that each client and user have their own set of specific requirements, use cases, and preferences; a Product Designer must understand the patterns and experiences across a broad range of input and focus on exploiting value in the areas that will provide the greatest return for the largest audience.
-
