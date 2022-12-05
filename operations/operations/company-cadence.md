@@ -58,7 +58,7 @@ This is a bi-weekly all-staff meeting focused on increasing alignment and awaren
       <th style="text-align:left">Time:</th>
       <th style="text-align:left">
         <ul>
-          <li>Biweekly meeting on Wednesdays from 8:00am to 8:25am Palo Alto time and once per quarter at 6:00pm Palo Alto time to allow APAC team members to participate.</li>
+          <li>Bi-weekly meeting on Wednesdays from 8:00am to 8:25am Palo Alto time and once per quarter at 6:00pm Palo Alto time to allow APAC team members to participate.</li>
         </ul>
       </th>
     </tr>
