@@ -75,7 +75,7 @@ Commercial and open source organizations who demonstrate the ability to automate
 
 * Listings in the Mattermost partner directory.
 * Guest writer opportunities on the Mattermost blog.
-* Joint-webinar opportunties.
+* Joint-webinar opportunities.
 * Promotion on Mattermost social media accounts.
 * Partner Evaluation License for Mattermost Enterprise Edition E20.
 
