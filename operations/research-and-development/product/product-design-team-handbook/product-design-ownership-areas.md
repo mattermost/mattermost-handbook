@@ -1,11 +1,11 @@
-# Product Design Areas of Ownership
+# Product Design areas of ownership
 
-| Product Area | Example Features | Design Owner |
+| Product area | Example features | Design owner |
 | :--- | :--- | :--- |
-| Channels | Chat, Search, Notifications, Status, User Settings, Onboarding, Mobile | Matt Birtch |
-| Playbooks | Incident Response Colloboration, Checklists, Retrospectives | Abhijit Singh |
+| Channels | Chat, Search, Notifications, Status, User settings, Onboarding, Mobile | Matt Birtch |
+| Playbooks | Incident response colloboration, Checklists, Retrospectives | Abhijit Singh |
 | Boards | Boards, Tasks, Focalboard | Asaad Mahmood |
-| Calls | Audio & Video Calls | Tanmay Singh |
+| Calls | Audio & video calls | Tanmay Singh |
 | Apps & Integrations | Plugins, Apps, Apps Marketplace, Apps & Plugin Framework | Matt Birtch|
 | Growth | Product-led growth, Trials, In-product & Email Nurtures, Packaging & Pricing, A/B Testing Framework | Anneliese Klein |
 | Self-Service | Upgrade/Downgrade Path, Billing, Purchases/Customer Portal, Licenses | Anneliese Klein |
