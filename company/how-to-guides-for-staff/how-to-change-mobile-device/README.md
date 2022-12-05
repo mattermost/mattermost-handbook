@@ -19,11 +19,11 @@ For GSuite two-factor authentication, please follow these steps:
 For Okta two-factor authentication, please follow these steps: 
 
 1. Open [https://mattermost.okta.com/](https://mattermost.okta.com/)
-2. Log in with your Okta credentials and Authnetication code form your old mobile device. (If you can't sign in, Please reachout to IT Team.)
-3. Click on your name in the top right and select **Settings**
+2. Log in with your Okta credentials and authentication code from your old mobile device. (If you can't sign in, please reachout to the IT Team.)
+3. Click on your name in the top right and select **Settings**.
 4. If the Edit Profile button appears click and enter your password if prompted.
-5. In the **Secuity Methods** section depending on the two-factor method you are using, it will show you **Remove** or **Set up another**.
-6. Please choose Remove or Set up another and follow the instructions on the screen.
+5. In the **Security Methods** section, depending on the two-factor method you are using, it will show you **Remove** or **Set up another**.
+6. Please choose **Remove** to remove your old device and **Set up another** to add your new device and follow the instructions on the screen.
 
 
 For detailed steps-by-step instruction, please go to the links below:
