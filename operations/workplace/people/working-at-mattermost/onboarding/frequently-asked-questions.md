@@ -10,7 +10,7 @@ Please register your laptop as soon as you receive it [here](https://forms.gle/y
 
 ## How do I set up two-factor authentication?
 
-Please see [our guide](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-change-mobile-device) on G Suite and OneLogin two-factor authentication. Check out more "how to" guides [here](https://handbook.mattermost.com/company/how-to-guides-for-staff)!
+Please see [our guide](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-change-mobile-device) on G Suite and Okta two-factor authentication. Check out more "how to" guides [here](https://handbook.mattermost.com/company/how-to-guides-for-staff)!
 
 ## What is the company’s address and phone number?
 
