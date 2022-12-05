@@ -14,7 +14,7 @@ We have a number of different ways we communicate. Use the right side bar to jum
 
 ## Customer Obsession Meeting \(aka "COM"\)
 
-This is a weekly all-staff meeting focused on increasing alignment and awareness of how the company, departments, teams and individuals serve our customers.
+This is a bi-weekly all-staff meeting focused on increasing alignment and awareness of how the company, departments, teams and individuals serve our customers.
 
 [Customer Obsession](../../company/about-mattermost/#leadership-principles) is a key leadership principle and we emphasize its priority when we bring the company together. Colleagues who come from companies that aren't obsessed with customers have suggested we refer to this meeting as "All Hands" and not expect everything we announce -from [spending company money](../finance/staff-member-expenses/how-to-spend-company-money.md) to [recruiting new talent](https://github.com/mattermost/mattermost-handbook/tree/f99d10d01511c3bad3181698cf7eb1e8891b7060/contributors/join-us/staff-recruiting.md) - to be framed in the context of serving customers. Such expectations are typical and common, and therefore we don't have "All Hands" meetings and instead have "Customer Obsession Meetings" to continually remind us that our focus on customers is atypical and uncommon.
 
@@ -27,7 +27,7 @@ This is a weekly all-staff meeting focused on increasing alignment and awareness
           <li>All Mattermost Staff</li>
           <li>Chair: Amy Nicol</li>
           <li>Co-Chairs: Co-founders</li>
-          <li>Vice Chair: Jeff Benanto</li>
+          <li>Vice Chair: Nova Johnstone</li>
         </ul>
       </th>
     </tr>
@@ -58,7 +58,7 @@ This is a weekly all-staff meeting focused on increasing alignment and awareness
       <th style="text-align:left">Time:</th>
       <th style="text-align:left">
         <ul>
-          <li>Weekly meeting on Wednesdays from 8:00am to 8:25am Palo Alto time.</li>
+          <li>Bi-weekly meeting on Wednesdays from 8:00am to 8:25am Palo Alto time and once per quarter at 6:00pm Palo Alto time to allow APAC team members to participate.</li>
         </ul>
       </th>
     </tr>
@@ -122,6 +122,7 @@ Links to previous staff enablement surveys:
 * [March 2019 staff enablement survey](https://docs.google.com/presentation/d/1bkUQOCvJyYX-695gpZI7SJal14AWefFx5fJQxTOJKlI/edit#slide=id.g730cbfe72a_0_393)
 * [September 2019 staff enablement survey](https://docs.google.com/presentation/d/1qArPEreSsI3cuSoW0GWdr02L_nIe_-OyCR0_sI2-0Qc/edit#slide=id.p)
 * [March 2020 staff enablement survey](https://docs.google.com/presentation/d/1bkUQOCvJyYX-695gpZI7SJal14AWefFx5fJQxTOJKlI/edit#slide=id.g730cbfe72a_0_9)
+* [April 2021 staff enablement survey](https://docs.google.com/presentation/d/16rKYpHDUQ8aghsmwEJwhXMMSZWldm1t7Y4nPhv5uj-4/edit)
 
 ## CEO Listening Tours
 
@@ -156,9 +157,9 @@ A GNN Update is a concise way to share out what's "Going Well", "Not Going Well"
 
 - **Going Well**: What's going well, and what would we want to amplify or repeat?
 - **Not Going Well**: What's moving slower than expected? What's in our way?
-- **Next Actions**: Based on what's going well (things we want to amplify or repeat) and Not Going Well (problems we need to solve), what are the next actions we want to take in the next 1-2 weeks?
+- **Next Actions**: Based on what's going well (things we want to amplify or repeat) and Not Going Well (problems we need to solve), what are the next actions we want to take in the next 1-2 weeks? Next actions should include who is responsible for them, a due date and what the expected outcomes and imapct of the next actions.
  
-All goals should have GNNs written perodically. If a goal is "Yellow" or "Red" in status, then we ask for the GNN to be shared out.
+All goals should have GNNs written monthly in alignment with the Monthly Business Review cadence. If a goal is "Yellow" or "Red" in status, then we ask for the GNN to be shared out.
 
 If a goal has been "Yellow" or "Red" the previous period, we ask that two additional items are included in the next GNN Update: 
 
