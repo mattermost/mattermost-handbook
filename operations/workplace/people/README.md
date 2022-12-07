@@ -132,7 +132,7 @@ Resources: How-to for Staff Members
 > * Culture Amp is our Engagement and Performance Platform.
 > * The People team uses Culture Amp to gain insight across the employee experience, using employee engagement surveys, continuous feedback, 360 reviews, and goal tracking.
 > * Staff use Cuture Amp for performance reviews such as 90-day reviews and 360 performance reviews, for engagement and employee experience surveys, and goal tracking.
-> * To access the system go to [Culture Amp](https://mattermost.cultureamp.com) or [OneLogin](https://mattermost.onelogin.com).
+> * To access the system go to [Culture Amp](https://mattermost.cultureamp.com) or [Okta](https://mattermost.okta.com).
 > * Note that as of March 2021, Culture Amp will not be supporting Internet Explorer 11.
 
 ## Other Key Channels and Resources

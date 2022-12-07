@@ -14,7 +14,7 @@ The Security Operations team is responsible for the security monitoring and oper
   - Contribute to customer security questionnaires on operational security and compliance topics
   - Act on results of Red Team / Penetration Testing against Mattermost (the company) and product/service infrastructure
   - Monitoring and upkeep of Endpoint Detection & Response (EDR)
-  - Access control for Engineering tools and services, and integration with OneLogin
+  - Access control for Engineering tools and services, and integration with Okta
   - Engage in verification and impact of product vulnerabilities as it relates to Community and Cloud-hosted instances
 - Analysis, verification, and reaction to phishing and other malicious email
   - Management and upkeep of Vault infrastructure and policies
