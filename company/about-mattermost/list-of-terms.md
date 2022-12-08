@@ -56,7 +56,7 @@ The primary external audience we are focused on for an initiative, which could b
 
 The act of using non-web-discoverable formats \(Mattermost channels requiring login, Google docs that aren't web searchable, Zoom call, email, etc.\) to share non-confidential information or processes.
 
-Example: Giving someone instructions on how to set up OneLogin for MFA on the community server in a DM rather than writing it into a handbook entry for all new staff to use and re-use.
+Example: Giving someone instructions on how to set up Okta for MFA on the community server in a DM rather than writing it into a handbook entry for all new staff to use and re-use.
 
 Dark actions create [false openness](list-of-terms.md#false-openness). [Open actions](list-of-terms.md#open-actions) are highly preferred.
 

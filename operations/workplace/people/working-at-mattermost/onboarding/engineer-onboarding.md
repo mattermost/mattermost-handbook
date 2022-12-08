@@ -7,7 +7,7 @@ This is the general timeline and expectations for new engineers starting at Matt
 * Set up equipment and environment \(e.g. complete the day 1 checklist\)
   * Get laptop, set up developer environment
   * Clone Enterprise repo
-  * Log in to all accounts \(Gmail, GitHub, JIRA, OneLogin, Community, Community Daily\)
+  * Log in to all accounts \(Gmail, GitHub, JIRA, Okta, Community, Community Daily\)
   * Expense equipment
   * HR set up \(benefits, health insurance, etc.\)
 * Meet the team
