@@ -29,5 +29,5 @@ Email:
 * Ailsa Partridge, Security Engineer II
 * Corey Robinson, Security Engineer II
 * Jorge Blanco, Senior Security Engineer
-* Joseba Astorca, Security Engineer II
+* Joseba Astoreca, Security Engineer II
 
