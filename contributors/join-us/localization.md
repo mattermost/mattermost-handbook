@@ -61,6 +61,12 @@ Translation rules and glossaries are available for the following languages:
 
 **Tip:** We welcome rules, glossaries, and guidelines for all supported languages. If these translation assets don't exist for the language you're interested in, perhaps you'd be open to help create them?
 
+## Omit error strings from localization process
+
+When an error string isn’t visible to end users, engineering teams must use ``model.NoTranslation`` as the error id to implement a ``model.AppError`` without a translation. See examples of this approach in the [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) repository on GitHub.
+
+Error strings that use ``model.NoTranslation`` as the error id are omitted from Mattermost translation workflows, and aren't surfaced up in Weblate to translators.
+
 ## Product localization process
 
 The following flow diagram outlines the product localization flow from the translation server to the Mattermost codebase:
