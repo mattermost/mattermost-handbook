@@ -1,35 +1,25 @@
 # The Mattermost Community Writing Program
 
-Mattermost wants to be a central resource for helping developers improve their productivity. To that end, we want to open our blog to our diverse community to share expertise, tips and tricks, guides, and other technical resources that help developers get work done. We’ll compensate authors whenever we publish their content.
+Mattermost wants to be a central resource for helping developers improve their productivity. To that end, we want to open our blog to our diverse community to share expertise, tips and tricks, guides, and other technical resources that help developers get work done. We’ll compensate authors whenever we publish their content. 
 
 ## About you
 
-We’re looking for a diverse group of skilled writers with deep technical knowledge to write content for us. You should have experience writing content, be comfortable receiving feedback about your work, and be open to making revisions recommended by our editorial team.
+We’re looking for a diverse group of skilled writers with deep technical knowledge to write content for us. You should have experience writing content, be comfortable receiving feedback about your work, and be open to making revisions recommended by our editorial team. We typically prefer content that targets beginner to intermediate software developers, but we are open to a range of technical depth.
 
-## Accepted topics
-
-We seek a broad range of technical content for software developers that provide rich detail about popular tools. We typically prefer content that targets beginner to intermediate software developers, but we are open to a range of technical depth.
-
-* How to use popular app frameworks like Node, React, Vue, Flask, Kotlin, machine learning frameworks, etc.
+## Preferred Topics
+The following technologies and topics are our preferred focus areas. Articles that fit into one of these categories will be given higher priority:
+* Kubernetes and related technologies
+* Golang application development
+* CI/CD tooling for release management, test automation, and software deployment
+* Security tooling
+* Observability and performance monitoring
 * Software development productivity hacks.
 * Tips and tricks for popular software development tools.
-* Unique DevOps infrastructure at scale.
+* Devops at scale
 
-### Special topics
+## Other topics
 
-We occasionally run special promotions to publish content on specific topics. Here are the unique opportunities we currently have available.
-
-**Mattermost Playbooks integrations**
-
-We want to show off all of the ways our community is integrating [Playbooks](https://docs.mattermost.com/guides/playbooks.html) into their tech stack, including, but not limited to, the following tools:
-
-* CI/CD tools like Travis CI, Circle CI, and Jenkins to automate building, testing, and deploying code changes.
-* Monitoring, alerting, and data collection services like Moogsoft, Datadog, and PagerDuty.
-* Cloud hosting services like AWS, Google Cloud, Azure, and Digital Ocean.
-* Project management software like Jira, Clubhouse, Asana, and Trello.
-* Code hosting, version control, and deployment orchestration tools like GitHub and GitLab.
-
-The more technical the topic is, the better. We prefer content with real-world examples that show how to integrate Mattermost with these tools via webhooks, APIs, and other integrations frameworks. Recommended topics include incident response, code review, and release management, but anything that's related to the software development lifecycle will be considered. We pay $350 for all eligible articles.
+We seek a broad range of technical content for software developers that provide rich detail about popular tools, and we will consider exceptional proposals for topics not listed above. If you think you have a great idea that doesn't fit into one of these categories, please apply!
 
 ## Compensation
 
