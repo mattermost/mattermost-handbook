@@ -10,7 +10,7 @@ To get started with your BTA coverage, please take the time to review the attach
 
 * [Guide to Reporting Claims](https://drive.google.com/file/d/16EhtGmq16dHe2JVsKjlyXbCNZgUmKW3j/view?usp=sharing)
 * [Assistance Services ID Card](https://drive.google.com/file/d/1Hss_ZdPD4xpHb-lWIOO1-gJqGf0YDIid/view?usp=sharing)
-* [Visa Travel Letter Generation Form](https://drive.google.com/file/d/1Eqo4Y7jses8p1uUPfOhxnb4Rp3RMXlCW/view?usp=sharing)
+* [Visa Travel Letter Generation Form](https://drive.google.com/file/d/1ZVvISDLknhBSxFz99pIntY72O43ywdhg/view?usp=share_link)
 * Videos to help you get started with the AIG Travel Assistance [app](http://s7d2.scene7.com/is/content/aigassets/travelguard/america-canada/us-worldwide/videos/aig-travel-assistance-app-demo-v2-video-autox432-800k.mp4) and [website](https://s7d2.scene7.com/is/content/aigassets/aig/america-canada/us/business/video/assistance-website-short-demonstration-video-autox432-800k.mp4)
 
 ## Assistance Travel Card
