@@ -26,6 +26,7 @@
 | [Product Pulse](https://www.google.com/url?q=https://mattermost.looker.com/dashboards/334&sa=D&source=editors&ust=1666063196914480&usg=AOvVaw26K1TVJnb15e2jCgstZ93u) | Key product statistics |
 | [NPS](https://mattermost.looker.com/dashboards/147) | Quarterly Trailing & Server Version NPS |
 | [Server and Client Usage](https://mattermost.looker.com/dashboards/172?Mobile+Client+Usage=&Cloud+Workspace=&Excludability+Reason=NULL&Account+Name=) | Overview of server versions and client versions in use |
+| [Boards](https://mattermost.looker.com/dashboards/261) | Boards adoption metrics |
 | [Playbooks](https://mattermost.looker.com/dashboards/220) | Playbooks adoption metrics |
 | [Calls](https://mattermost.looker.com/dashboards/291) | Calls adoption metrics |
 | [User Groups](https://mattermost.looker.com/dashboards/295) | Customer User Groups feature adoption metrics |
