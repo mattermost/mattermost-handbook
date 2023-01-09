@@ -50,7 +50,7 @@
     * [Playbooks](/operations/research-and-development/organization/playbooks.md)
     * [Calls](/operations/research-and-development/organization/calls.md)
     * [Suite users](/operations/research-and-development/organization/suite_users.md)
-    * [Integration frameworks](/operations/research-and-development/organization/integrations_frameworks.md) 
+    * [Integrations framework](/operations/research-and-development/organization/integrations_framework.md) 
     * [Web/Desktop](/operations/research-and-development/organization/web_desktop.md)
     * [Server](/operations/research-and-development/organization/server.md)
     * [Mobile](/operations/research-and-development/organization/mobile.md)
