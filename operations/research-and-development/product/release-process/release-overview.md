@@ -64,8 +64,6 @@ The goal is not to have the same release cadence for all products, but there may
    * This allows us to learn from issues so that they don’t happen again and to fix critical bugs asap.
    * Retrospectives for issues and dot releases are important.
    * Monitor community and customer reports in GitHub, Forum, Zendesk, and channels like Ask R&D, in partnership with the Support team.
-6. **Release new products tightly integrated with the Mattermost suite.**
-   * E.g. Boards and Playbooks are plugins. Plugins are the strategy for now, maybe there will be another strategy for the long-term.
 
 ## Multi-product Release Processes
  - The sample [Plugin Release Playbook](https://community.mattermost.com/playbooks/playbooks/f4oh16ardfbyfgkas1cb6intmw/outline) helps give an overview of needed steps for plugin releases.
@@ -94,7 +92,7 @@ For P0 bugs (eg. bugs that affect more than 25% of our customers with system deg
     - If a feature misses the cut-off, it doesn’t get added to the next self-managed release.
  - Cut release branch based off the last Cloud release of the month (around T-14).
  - Code Freeze at T-5.
-    - Prepackaged Boards and Playbooks should be ready on or before this date. Note: currently the Boards team follows a slightly different release schedule and the Boards release may not be ready until T-3.
+    - Prepackaged Boards and Playbooks should be ready on or before this date.
  - Cut Final build at T-2.
     - QA approval should be ready by T-2.
  - Release Day at T-0.
