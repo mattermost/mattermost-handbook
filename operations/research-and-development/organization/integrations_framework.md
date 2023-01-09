@@ -1,6 +1,6 @@
-# Integration Frameworks
+# Integrations Frameworks
 
-The Integration Frameworks team is responsible for the integration of external applications into Mattermost.
+The Integrations Framework team is responsible for the integration of external applications into Mattermost.
 
 ## Areas of Ownership
 
