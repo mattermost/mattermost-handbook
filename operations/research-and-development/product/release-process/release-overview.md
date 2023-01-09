@@ -118,7 +118,7 @@ Release dates are currently communicated in the following ways.
    * Updates are provided on upcoming key dates and/or features.
 4. Productboard
    * [Productboard](https://mattermost.productboard.com/roadmap/2855466-features-by-release) - One calendar overview of what releases + features are coming up.
-5. Spreadhseet
+5. Spreadsheet
    * [Overview of release deadlines and cherry-picking guidelines](https://docs.google.com/spreadsheets/d/1jGEnuaZxosmC-JSUXFeZOR7I34ORFtNjPVw8hvzCIC4/edit#gid=0).
 
 **Understanding the cadence**
