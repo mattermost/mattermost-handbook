@@ -51,15 +51,15 @@ Content can be formatted to display in tabs using the following RST syntax:
 ```text
 .. tabs::
 
-	.. tab:: TabNameA
+	.. tab:: Tab Name A
 
 		Tab text goes here. Users see this content when users visit this page.
 
-	.. tab:: TabNameB
+	.. tab:: Tab Name B
 
 		Tab text goes here. The user must select this tab to see this content.
 
-	.. tab:: TabNameC
+	.. tab:: Tab Name C
 
 		Tab text goes here. The user must select this tab to see this content
 ```
@@ -69,6 +69,37 @@ Note that tabbed content syntax applies only to RST source files and is not yet 
 When presenting content in tabs, tab names must be exactly the same across all instances, for consistency.
 
 "From Mattermost version 6.0..." vs "In Mattermost versions up to v5.39"
+
+### Return Mattermost configuration settings in search results
+
+The product documentation site returns and prioritizes configuration settings in search results. This is achieved by adding metadata to each configuration settting section in the form of a directive and its options. Please see https://github.com/mattermost/docs/pull/5911 for comprehensive details on how this search engine was designed and implemented in the source code via Sphinx.
+
+This metadata is positioned directly **above** each section header on each config setting docs page, and will look something like this:
+
+```rst
+.. config:setting:: web-useletsencrypt
+  :displayname: Use Let's Encrypt (Web Server)
+  :systemconsole: Environment > Web Server
+  :configjson: .ServiceSettings.UseLetsEncrypt
+  :environment: MM_SERVICESETTINGS_USELETSENCRYPT
+  :description: Enable the automatic retrieval of certificates from Let’s Encrypt.
+```
+
+The directive itself needs a unique identifier, such as ``web-useletsencrypt``. The directive's options, including ``displayname``, ``systemconsole``, ``configjson``, ``environment``, and ``description`` essentially duplicates the config setting details. We're doing this so that the config setting details readers want show up on the search results page.
+
+Note that we're currently manually duplicating config details (in this directive metadata as well as the docs content itself), but we'll automate this in the future to ensure only one source of data needs to be maintained. (This manual step is a stepping stone towards that automation approach).
+
+The setting directive supports the following options:
+
+``displayname``: User-friendly text that is displayed as the name of a config setting
+``systemconsole``: The location in the System Console of the config setting
+``configjson``: The config.json name of the config setting
+``environment``: The environment variable for the config setting
+``description``: Description of the config setting; can be any length
+
+Note: the ``description`` option also supports basic reStructuredText markup but doesn't support nested directives within that option.
+
+When documenting a new Mattermost configuration setting, ensure you add and populate the metadata in the source file to ensure the config setting can be returned in search results. Missing metadata will result in missing search results. The configuration settings source files contain many examples to work from.
 
 ## Writing style
 
