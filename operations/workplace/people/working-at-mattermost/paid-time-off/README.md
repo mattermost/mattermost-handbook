@@ -19,7 +19,8 @@ Note: If you are taking [Pregnancy](../leaves-of-absence/pregnancy-leave.md) or 
 ### When you take time off \(full days only\) please do the following
 
 1. Communicate your Paid Time Off (PTO) by booking time off in **BambooHR > Time Off > Paid Time Off**. PTO covers any number of things - including vacations, stay-cations, moving days, bereavement, etc. PTO is in addition to official public holidays in your region of residence. In some countries where there are statutory vacation requirements, public holidays are a supplementary entitlement.
-2. When entering a public holiday, please enter these days in **BambooHR > Time Off > Public Holidays** to distinguish it from vacation time.
+2. In most cases, statutory public holidays for FT Staff in entity locations (Canada, Germany, US, UK) will be reflected in **BambooHR > Time Off** with the exception of specific regional public holidays. If the public holiday is already listed in Bamboo, no action is required. 
+*For all FT Staff, any statutory public holiday in your region of residence that is not listed in BambooHR, please enter the day in **BambooHR > Time Off > Public Holidays** to distinguish it from vacation time.* 
 3. If time off is being taken for sickness, including physical and mental needs, please enter these days in **BambooHR > Sick**, to distinguish from other types of PTO. Follow the appropriate process according to the statutory requirements in your region of residence. If taking extended time off for medical leave or for other types of [leaves](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/leaves-of-absence), reach out to HR: hr@mattermost.com.
 4. PTO requests must be "approved" in BambooHR to show up in the "Who's Out" calendar. Managers are responsible for approving their direct reports' time off requests in BambooHR.  
 5. As long as you have entered your time off in BambooHR, and you have arranged for coverage while you are gone, you are able to take your vacation before it has been approved in BambooHR. More than 14 consecutive days off require manager approval in BambooHR prior to the vacation starting.
@@ -52,39 +53,32 @@ Please take off holidays relevant to your culture, resident [country/region](../
 
 Family and Friends days are automatically added to BambooHR and you don't need to book that time off.
 
-### Typical public holidays in Canada, Germany, Australia, UK, and US
+### Typical public holidays in Canada, Germany, UK, and US
 
-We have entities in Germany, Australia, UK, US, and we have a large Canadian contingent, so below are holidays we’re expecting people from those countries to take off. These are not mandatory company holidays, just guidelines for people in specific [country/regions](../../../../../company/about-mattermost/list-of-terms.md#country-region).
+We have entities in Canada, Germany, UK, and US, so below are holidays we’re expecting people from those countries to take off. Please see [Communicating Time Off](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#communicating-time-off)*
 
-**Entity holidays for 2022**
+**Entity holidays for 2023**
 
-* New Year’s Day \(All\) \(1/03/2022\)
-* MLK Jr. Day \(US\) \(1/17/2022\)
-* Australia Day \(Australia\) \(1/26/2022\)
-* Presidents’ Day \(US: Select states\) \(2/21/2022\)
-* Family Day/Islander Day \(Canada\) \(2/21/2022\)
-* Good Friday \(Canada, Germany, UK, Australia\) \(4/15/2022\)
-* Easter Monday \(Germany, UK, Australia\) \(4/18/2022\)
-* Anzac Day \(Australia\) \(4/25/2022\)
-* Early May Bank Holiday \(UK\) \(5/02/2022\)
-* Victoria Day \(Canada\) \(5/23/2022\)
-* Ascension Day \(Germany\) \(5/26/2022\)
-* Memorial Day \(US\) \(5/30/2022\)
-* Spring Bank Holiday \(UK\) \(6/02/2022\)
-* Platinum Jubilee Bank Holiday \(UK\) \(6/03/2022\)
-* Whit Monday \(Germany\) \(6/06/2022\)
-* Juneteenth \(US\) \(6/20/2022\)
-* Canada Day \(Canada\) \(7/01/2022\)
-* Independence Day \(US\) \(7/04/2022\)
-* Civic Holiday/Provincial Day \(Canada: AB, BC, SK, ON, NB, NU\) \(8/01/2022\)
-* Summer Bank Holiday \(UK\) \(8/29/2022\)
-* Labor Day \(US, Canada\) \(9/05/2022\)
-* National Day for Truth and Reconciliation \(Canada: BC, MB, NS, PEI) \(09/30/2022\)
-* Day of German Unity \(Germany\) \(10/03/2022\)
-* Thanksgiving \(Canada\) \(10/10/2022\)
-* Rememberance Day \(Canada: BC, PEI\) \(11/11/2022\)
-* Thanksgiving \(US\) \(11/24/2022\)
-* Christmas Day \(All\) \(12/26/2022\)
-* Boxing Day \(Canada, Germany, UK, Australia\) \(12/27/2022\)
+* New Year’s Day \(All\) \(1/02/2023\)
+* MLK Jr. Day \(US\) \(1/16/2023\)
+* Family Day/Islander Day \(Canada\) \(2/20/2023\)
+* Good Friday \(Canada, Germany, UK\) \(4/7/2023\)
+* Easter Monday \(Germany, UK\) \(4/10/2023\)
+* Early May Bank Holiday \(UK\) \(5/01/2023\)
+* Ascension Day \(Germany\) \(5/18/2023\)
+* Victoria Day \(Canada\) \(5/22/2023\)
+* Memorial Day \(US\) \(5/29/2023\)
+* Spring Bank Holiday \(UK\) \(5/29/2023\)
+* Whit Monday \(Germany\) \(5/29/2023\)
+* Canada Day \(Canada\) \(7/03/2023\)
+* Independence Day \(US\) \(7/04/2023\)
+* Civic Holiday/Provincial Day \(Canada: AB, BC, SK, ON, NB, NU\) \(8/07/2023\)
+* Summer Bank Holiday \(UK\) \(8/28/2023\)
+* Labor Day \(US, Canada\) \(9/04/2023\)
+* Day of German Unity \(Germany\) \(10/03/2023\)
+* Thanksgiving \(Canada\) \(10/09/2023\)
+* Thanksgiving \(US\) \(11/23/2023\)
+* Christmas Day \(All\) \(12/25/2023\)
+* Boxing Day \(Canada, Germany, UK\)\(12/26/2023\)
 
 It’s up to meeting chairs to decide whether to reschedule if few people can attend \(e.g. if a large number of staff will not be attending the meeting\).
