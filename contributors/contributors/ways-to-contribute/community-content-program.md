@@ -71,7 +71,7 @@ By submitting your application to the Mattermost Community Writing Program you a
 
 ## Plagiarism policy
 
-The Mattermost blog produces original, first-run content that has never been published previously on another website. All code, copy, images, and other content should be the result of the author's original thought, work, research, and self-expression. At our discretion, Mattermost will cease all work, possibly without notice, with any author that reproduces someone else's work to claim as their own or attempts to submit content that has already been published somewhere else. This includes borrowing content, wording, or organizational structure from another person, organization, website, published articles, code, documentation, or any other content resources.
+The Mattermost blog produces original, first-run content that has never been published previously on another website. All code, copy, images, and other content should be the result of the author's original thought, work, research, and self-expression. At our discretion, Mattermost will cease all work, possibly without notice, with any author that reproduces someone else's work to claim as their own or that attempts to submit content that has already been published somewhere else without permission and discussions with our team. This includes borrowing content, wording, or organizational structure from another person, organization, website, published articles, code, documentation, or any other content resources.
 
 Some examples of plagiarism include:
 
