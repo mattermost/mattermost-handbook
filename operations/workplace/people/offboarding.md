@@ -41,8 +41,9 @@ HR will reach out to the departing staff member to communicate last day instruct
 4. Equipment. Staff members have the option to buy back their existing hardware when they are offboarding. Refer to the [Hardware Buy Back Policy](https://handbook.mattermost.com/operations/it/hardware-buy-back-policy) for more details. If staff members opt not to keep or purchase their existing hardware, they will need to return the equipment to Mattermost.
 
    **Note:** You do not need to, and you will not be asked to, return home office equipment, such as: desk, chair, laptop stand, etc.
-
-5. Stay in touch. Thank you for your time at Mattermost. Every person that joins Mattermost is part of the team and welcome to join our [Community](https://mattermost.com/community/) and stay in touch in whatever capacity feels most comfortable.
+   
+5. Sign the Role Completion Form. All departing staff will receive a Role Completion Form via DocuSign. 
+6. Stay in touch. Thank you for your time at Mattermost. Every person that joins Mattermost is part of the team and welcome to join our [Community](https://mattermost.com/community/) and stay in touch in whatever capacity feels most comfortable.
 
 ## Communicating departures
 
