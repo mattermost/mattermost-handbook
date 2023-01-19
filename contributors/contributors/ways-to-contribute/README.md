@@ -6,7 +6,7 @@ To foster a safe and inclusive environment for everyone, all Mattermost communit
 
 ## Propose new features
 
-Anyone from our community can propose and vote for new features on [UserVoice](https://mattermost.uservoice.com/forums/306457-general). Search for a feature you want and vote on it if it already exists. If not, submit your own and get your friends to sign up and vote!
+Anyone from our community can propose and vote for new features on [our feature request portal](https://portal.productboard.com/mattermost/33-what-matters-to-you). Search for a feature you want and vote on it if it already exists. If not, submit your own and get your friends to sign up and vote!
 
 ## Contribute documentation
 
