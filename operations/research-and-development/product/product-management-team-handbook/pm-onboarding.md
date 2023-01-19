@@ -124,7 +124,6 @@ Learn about our customers and users
   * Join calls with CSMs & Sales team
   * Take detailed notes and log in [Salesforce](https://handbook.mattermost.com/operations/customer-success#logging-a-customer-feedback-in-salesforce)
 * Review feature requests
-  * [Uservoice forums](https://mattermost.uservoice.com/)
   * [Process feedback in productboard](https://mattermost.productboard.com/insights/shared-inbox) 
 * Spend a week doing community support in the Mattermost[forum](https://mattermost.uservoice.com/)
   * Review documentation first and work with Support Lead or PM mentor to answer any questions documentation does not address
