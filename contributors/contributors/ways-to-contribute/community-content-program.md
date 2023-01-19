@@ -71,15 +71,15 @@ By submitting your application to the Mattermost Community Writing Program you a
 
 ## Plagiarism policy
 
-The Mattermost blog produces original, first-run content that has never been published previously on another website. All code, copy, images, and other content should be the result of the author's original thought, work, research, and self-expression. At our discretion, Mattermost will cease all work, possibly without notice, with any author that reproduces someone else's work to claim as their own or that attempts to submit content that has already been published somewhere else without permission and discussions with our team. This includes borrowing content, wording, or organizational structure from another person, organization, website, published articles, code, documentation, or any other content resources.
+The Mattermost blog produces original, first-run content that has never been published previously in any form, digital or physical. All code, copy, images, and other content should be the result of the author's original thought, work, research, and self-expression. At our discretion, Mattermost will cease all work — possibly without notice — with any author that reproduces, copies, or claims someone else's work as their own. This policy extends to content that has been published, or is in the process of being published, by the author elsewhere without prior permission from Mattermost. This policy includes borrowing content, wording, code, documentation, or organizational structure from any other person or organization's prior work.
 
 Some examples of plagiarism include:
 
 * Rewording existing blog posts to pass the content as your own.
 * Copy and pasting external documentation without directly referencing the documentation source.
-* Modifying someone else's code to change variable and function names, comments, and other non-essential elements.
+* Modifying someone else's code to change variable and/or function names, comments, or other elements.
 * Using images from another source, even if you make modifications to that image.
-* Failing to attribute content published under permissive licenses like the Creative Commons License.
+* Failing to attribute content or datasets published under permissive licenses like the Creative Commons License.
 
 If you're unsure about a question or concern related to plagiarism, please consult with the Mattermost content team before submission.
 
