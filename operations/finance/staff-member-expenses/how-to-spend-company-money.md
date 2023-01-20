@@ -1,9 +1,3 @@
----
-description: >-
-  70% complete. This guide, along with all our guides, is a work-in-progress and
-  iterates as we consider new data and frameworks.
----
-
 # How to spend company money
 
 At Mattermost, we want you to be successful from Day 1. As staff members, you're empowered to determine and purchase what you need in order to do your job. We value high impact over stringent expense rules and these expense guidelines are intended to help make decisions not hinder movement. Depending on country/region, some items may be way below or way above the averages listed. If you need to spend more to get the right equipment for you to be productive, we trust you’re making purchase decisions to optimize cost and efficiency.
@@ -259,6 +253,33 @@ There will be times to celebrate with staff members, and we want you to. Please 
 ### Rideshares and rentals
 
 Use your best judgment if a rental car is needed. It's recommended to use Uber, Lyft, Taxis, or other cost-effective budget services. In certain instances, it may not be economical to do so and a rental car is necessary. Mattermost does not have a corporate account with any rental car agency at this time. Please continue to follow the spend principle \(spend company money like it is your own money\).
+
+### Frequently asked questions
+
+#### What happens if we need to cancel a reservation related to an internal travel (e.g. conference, customer meeting, team event) that’s non-refundable? 
+
+Try to get a refund, sometimes this is possible even if the vendor has a standard policy against it. Otherwise try to get credit for future use. If you’re able to achieve either, or if the amount paid needs to be forfeited, please let finance know. Please expense any non-refundable charges for work-related reservations due to cancellations.
+
+#### If I didn’t get a chance to submit an expense for work travel and are unable to get a refund for it, can I still have it reimbursed?
+
+Yes, please submit work-related expenses [via Expensify](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-use-expensify).
+
+#### I have a personal stay planned before/after my in-person work travel that was canceled. I was originally planning to have the company cover airfare costs to and from the destination. What are my options?
+
+You can choose to continue your personal stay by covering your airfare cost out-of-pocket. Travel costs or UATP (United Air Travel Plan) for work meetings should be refunded to the company when possible. If a staff member was reimbursed for a company expense that’s repurposed for personal use, the reimbursement should be [returned to the company](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-reimburse-the-company). This is common for how most other companies are treating the separation between work travel and holiday travel. Alternatively, try to get a refund on any deposits for your personal stay, sometimes this is possible even if the vendor has a standard policy against it. Otherwise try to get credit for future use.
+
+#### If I decide to pay airfare and other work-related costs out-of-pocket for personal use, what is the timeline for paying back these expenses?
+
+Please repay back to the company before using the work-related expense.
+
+#### Can credit from a canceled, non-refundable company reservation be gifted by the company to a staff member for personal use, such as a holiday, if the credit would otherwise expire and be unused (e.g. non-refundable air ticket)?
+
+No. For a number of reasons, including complexity, compliance, and risk of self-dealing, our policy is to not gift credit from unused company expenses that would otherwise expire for personal use. Read [How we develop policies](https://docs.google.com/document/d/1Hi-aQMwAxBJYjMjpVC6ZWa2Hb-vtluVjLep06FPNUCw/edit#) for more context.
+
+#### Can I use credit from a canceled, non-refundable company reservation for personal use, if the credit would otherwise expire and be unused? 
+
+To keep work and personal expenses separated, if a staff member receives a reimbursement for a work expense, which is then deployed for personal use, the reimbursement should be [returned to the company](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-reimburse-the-company).
+
 
 ## Other expenses
 
