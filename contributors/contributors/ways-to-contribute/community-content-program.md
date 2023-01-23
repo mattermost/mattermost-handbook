@@ -28,7 +28,7 @@ Most authors receive $250 - $350 for publishing unique content, but exceptionall
 ## The process
 
 1. **Submit your idea**: Submit your idea via our [application form](https://form.asana.com/?k=S5-Dbo0LVh8y4kmGJ1QPvg&d=279683980846511) with an outline of your content and a previous writing example demonstrating your technical knowledge and writing capabilities. We will only publish unique, first-run content where our blog is the first platform for it to be published.
-2. **Refine**:Our editorial team will reach out to you to provide feedback on the idea and make any structural changes requests.
+2. **Refine**:Our editorial team reviews all submissions once every 3 months to identify topics we want to publish. We will reach out to you to provide feedback on the idea and make any structural changes requests.
 3. **Write your content**: Once we’ve approved your topic, it’s time to write the content. We'll provide additional guidelines and expectations to help you get started, but generally speaking, following Digital Ocean's [technical writing guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines) is a good plan.
 4. **Revise**: Submit your initial draft to our editors, and we’ll collaborate with you to copyedit, design a hero image, and prepare the article for publication. You should expect 1-2 rounds of revisions over the next 1-2 weeks.
 5. **Publish**: Once revisions are complete, we’ll send your compensation, publish the article, and promote it across all of our channels.
@@ -50,6 +50,9 @@ Our editorial staff will reach out to let you know if we want to publish your co
 **How do you evaluate content ideas?**
 
 Our team reviews every submission, and we look for technical content that comprehensively covers software development topics with clear explanations. Explain as much detail as possible and leave no concepts out.
+
+**When can I expect to hear about my submission?**
+Our topic review cycles happen once every three months, in the 2nd half of the months of March, June, September, and December. In most cases, you will first hear from us following one of these review periods. However, we sometimes make exceptions on a case-by-case basis as proposals are submitted to us, so we sometimes reach out to authors outside of the official review periods.
 
 ## Terms and Conditions
 
