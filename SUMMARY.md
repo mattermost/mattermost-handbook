@@ -273,6 +273,7 @@
     * [Contribution events](contributors/contributors/contribution-events.md)    
   * [Mattermost community](contributors/contributors/community.md)
   * [Contributor kindness](contributors/contributors/contributor-kindness.md)
+  * [Communication Principles](contributors/contributors/communication-principle.md)
   * [Community systems](contributors/contributors/community-systems.md)
   * [Guidelines and playbooks](contributors/contributors/guidelines/README.md)
     * [Social engagement guidelines](contributors/contributors/guidelines/social-engagement-guidelines.md)
