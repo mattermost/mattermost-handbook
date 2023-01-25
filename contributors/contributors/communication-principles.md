@@ -1,4 +1,4 @@
-# Communication Principle
+# Communication Principles
 
 As we share ideas and communicate within the community, we want to ensure that communication principles are followed. 
 You can have a look at the set within the Mattermost Community, there are instructions that fall under the Communication Principle.
