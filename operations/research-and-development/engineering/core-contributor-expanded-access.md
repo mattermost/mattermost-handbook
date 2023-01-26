@@ -1,6 +1,6 @@
 # Core contributor expanded access policy
 
-At times we have community members who are contributing to projects or areas that require access to private repositories or systems that are not typically available to community members. Access can be granted on a case-by-case basis if:
+At times we have community members who are contributing to projects or areas that require access to private repositories or systems that are not typically available to community members. Access can be granted on a case-by-case basis when:
 
 * The contributor is a trusted, long-standing member of the community.
 * They are not being given access to production systems.
