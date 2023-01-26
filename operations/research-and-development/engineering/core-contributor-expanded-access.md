@@ -4,7 +4,7 @@ At times we have community members who are contributing to projects or areas tha
 
 * The contributor is a trusted, long-standing member of the community.
 * They are not being given access to production systems.
-* The division head for the system being given access to and Security Operations approves.
+* The system's division head and Security Operations approves.
 * The contributor has signed Mattermost's Non-Disclosure Agreement.
 
 ## Getting approval
