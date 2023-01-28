@@ -43,7 +43,7 @@ Help deliver professional services and commercial software for large, enterprise
 
 Note: This section is work-in-progress, being migrated from: [https://docs.mattermost.com/guides/core.html\#joining-the-team](https://docs.mattermost.com/guides/core.html#joining-the-team).
 
-#### Exploring Mattermost as a wrkplace
+#### Exploring Mattermost as a workplace
 
 Mattermost is a remote-first company, and staff work from locations ranging from their home office to shared workspaces. Our headquarters is on the internet - specifically, we work on an open test server called [https://pre-release.mattermost.com](https://pre-release.mattermost.com/) which runs a pre-released version of Mattermost software with all the newest features and improvements \(which is occassionally unstable\). The server is integrated with Zoom and employees and staff members can launch voice, video, and screensharing meetings within Mattermost.
 
