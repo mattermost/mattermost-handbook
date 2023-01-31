@@ -54,6 +54,10 @@ Our team reviews every submission, and we look for technical content that compre
 **When can I expect to hear about my submission?**
 Our topic review cycles happen once every three months, in the 2nd half of the months of March, June, September, and December. In most cases, you will first hear from us following one of these review periods. However, we sometimes make exceptions on a case-by-case basis as proposals are submitted to us, so we sometimes reach out to authors outside of the official review periods.
 
+**Is there a limit on article length?**
+
+Generally speaking, all content should be an appropriate length to comprehensively cover the proposed topic, so we take a relatively relaxed approach to article length requirements. Ideally, most content should contain between 1,800 and 2,200 words, not counting code examples. We will consider content that is outside this range, but if you expect your content to exceed 2,200 words, please check with our editorial staff first so we can provide feedback. If you provide a draft that is more than 2,200 words, we may ask you to reduce the length before we will continue the process.
+
 ## Terms and Conditions
 
 Mattermost Community Writing Program Standard Terms & Conditions (“Writing Program Terms”):
