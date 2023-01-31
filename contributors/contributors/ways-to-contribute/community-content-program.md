@@ -28,7 +28,7 @@ Most authors receive $250 - $350 for publishing unique content, but exceptionall
 ## The process
 
 1. **Submit your idea**: Submit your idea via our [application form](https://form.asana.com/?k=S5-Dbo0LVh8y4kmGJ1QPvg&d=279683980846511) with an outline of your content and a previous writing example demonstrating your technical knowledge and writing capabilities. We will only publish unique, first-run content where our blog is the first platform for it to be published.
-2. **Refine**:Our editorial team will reach out to you to provide feedback on the idea and make any structural changes requests.
+2. **Refine**:Our editorial team reviews all submissions once every 3 months to identify topics we want to publish. We will reach out to you to provide feedback on the idea and make any structural changes requests.
 3. **Write your content**: Once we’ve approved your topic, it’s time to write the content. We'll provide additional guidelines and expectations to help you get started, but generally speaking, following Digital Ocean's [technical writing guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines) is a good plan.
 4. **Revise**: Submit your initial draft to our editors, and we’ll collaborate with you to copyedit, design a hero image, and prepare the article for publication. You should expect 1-2 rounds of revisions over the next 1-2 weeks.
 5. **Publish**: Once revisions are complete, we’ll send your compensation, publish the article, and promote it across all of our channels.
@@ -51,6 +51,13 @@ Our editorial staff will reach out to let you know if we want to publish your co
 
 Our team reviews every submission, and we look for technical content that comprehensively covers software development topics with clear explanations. Explain as much detail as possible and leave no concepts out.
 
+**When can I expect to hear about my submission?**
+Our topic review cycles happen once every three months, in the 2nd half of the months of March, June, September, and December. In most cases, you will first hear from us following one of these review periods. However, we sometimes make exceptions on a case-by-case basis as proposals are submitted to us, so we sometimes reach out to authors outside of the official review periods.
+
+**Is there a limit on article length?**
+
+Generally speaking, all content should be an appropriate length to comprehensively cover the proposed topic, so we take a relatively relaxed approach to article length requirements. Ideally, most content should contain between 1,800 and 2,200 words, not counting code examples. We will consider content that is outside this range, but if you expect your content to exceed 2,200 words, please check with our editorial staff first so we can provide feedback. If you provide a draft that is more than 2,200 words, we may ask you to reduce the length before we will continue the process.
+
 ## Terms and Conditions
 
 Mattermost Community Writing Program Standard Terms & Conditions (“Writing Program Terms”):
@@ -71,15 +78,15 @@ By submitting your application to the Mattermost Community Writing Program you a
 
 ## Plagiarism policy
 
-The Mattermost blog produces original, first-run content that has never been published previously on another website. All code, copy, images, and other content should be the result of the author's original thought, work, research, and self-expression. Mattermost will cease all work with any author that reproduces someone else's work to claim as their own. This includes borrowing content, wording, or organizational structure from another person or organization's published articles, code, documentation, or any other content resources.
+The Mattermost blog produces original, first-run content that has never been published previously in any form, digital or physical. All code, copy, images, and other content should be the result of the author's original thought, work, research, and self-expression. At our discretion, Mattermost will cease all work — possibly without notice — with any author that reproduces, copies, or claims someone else's work as their own. This policy extends to content that has been published, or is in the process of being published, by the author elsewhere without prior permission from Mattermost. This policy includes borrowing content, wording, code, documentation, or organizational structure from any other person or organization's prior work.
 
 Some examples of plagiarism include:
 
 * Rewording existing blog posts to pass the content as your own.
 * Copy and pasting external documentation without directly referencing the documentation source.
-* Modifying someone else's code to change variable and function names, comments, and other non-essential elements.
+* Modifying someone else's code to change variable and/or function names, comments, or other elements.
 * Using images from another source, even if you make modifications to that image.
-* Failing to attribute content published under permissive licenses like the Creative Commons License.
+* Failing to attribute content or datasets published under permissive licenses like the Creative Commons License.
 
 If you're unsure about a question or concern related to plagiarism, please consult with the Mattermost content team before submission.
 
