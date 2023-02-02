@@ -189,7 +189,7 @@ Guidelines for Mattermost [community forums](https://forum.mattermost.com) and p
 
 Respond to the issue with the following note:
 
-> Thanks, appreciate your feedback @{username}. Would you like to [contribute this in the feature idea forum](https://portal.productboard.com/mattermost/33-what-matters-to-you)) so it can be discussed, upvoted, and considered for a [Help Wanted ticket](https://handbook.mattermost.com/contributors/contributors/help-wanted)? Please include a link back to this GitHub issue. If you're interested in implementing, please say so and we'll prioritize the review.
+> Thanks, appreciate your feedback @{username}. Would you like to [contribute this in the feature idea forum](https://mattermost.com/suggestions) so it can be discussed, upvoted, and considered for a [Help Wanted ticket](https://handbook.mattermost.com/contributors/contributors/help-wanted)? Please include a link back to this GitHub issue. If you're interested in implementing, please say so and we'll prioritize the review.
 >
 > You get **10** votes in the feature idea forum, and each one influences the future of the project.
 
@@ -251,11 +251,11 @@ Guidelines for Mattermost [Twitter responses](https://twitter.com/mattermost).
 
 * Multiple Feature Requests:
 
-> Thank you for the suggestions @username. Would you be open to contributing them in the feature idea forum so they can reviewed by our Product Management team? We use the collective feedback of our users to influence the future of the project._ [What Matters to You Portal](https://portal.productboard.com/mattermost/33-what-matters-to-you)
+> Thank you for the suggestions @username. Would you be open to contributing them in the feature idea forum so they can reviewed by our Product Management team? We use the collective feedback of our users to influence the future of the project._ [What Matters to You Portal](https://mattermost.com/suggestions).
 
 * Single Feature Request:
 
-> Thank you for the suggestion @username. Would you be open to contributing it in the feature idea forum so it can reviewed by our Product Management team? We use the collective feedback of our users to influence the future of the project._ [What Matters to You Portal](https://portal.productboard.com/mattermost/33-what-matters-to-you)
+> Thank you for the suggestion @username. Would you be open to contributing it in the feature idea forum so it can reviewed by our Product Management team? We use the collective feedback of our users to influence the future of the project._ [What Matters to You Portal](https://mattermost.com/suggestions).
 
 * Planned Feature Request:
 
