@@ -1,4 +1,4 @@
-# Contribution Guidelines and Code of Conduct
+# Mattermost Code of Conduct and Contribution Guidelines
 
 ## [Code Contribution Guidelines](https://github.com/mattermost/.github/blob/master/CONTRIBUTING.md)
 
@@ -7,7 +7,8 @@ Thank you for your interest in contributing! Please see the [Mattermost Contribu
 When you submit a pull request, it goes through a [code review process outlined here](https://developers.mattermost.com/contribute/getting-started/code-review/).
 
 All contributions must adhere to the following Code of Conduct. 
-Please also see our [guideline](https://developers.mattermost.com/contribute/good-decisions/) on participating within the Mattermost community.
+
+### We also expect you to adhere to our [Community Expectations](https://developers.mattermost.com/contribute/good-decisions/) guidelines while participating within the Mattermost community.
 
 ## [Contributor Covenant Code of Conduct](https://github.com/mattermost/.github/blob/master/CODE_OF_CONDUCT.md)
 
