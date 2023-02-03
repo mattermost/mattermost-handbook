@@ -1,6 +1,7 @@
 ## How to submit a purchase order
 
-Log in to Airbase via Okta. See [How to access Airbase](linkURL) for details.
+Log in to Airbase via Okta. See [How to access Airbase](https://handbook.mattermost.com/operations/finance/purchasing/airbase/how-to-access-airbase) for details.
+
 Go to **Manage > Purchase Orders**.
 
 ![Example of navigating to the Purchase Orders page in Airbase.](/.gitbook/assets/Airbase-purchase-orders.png "Example of navigating to the Purchase Orders page in Airbase")
