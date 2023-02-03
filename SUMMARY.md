@@ -185,6 +185,7 @@
     * [Virtual credit card](operations/finance/purchasing/request-a-divvy-virtual-credit-card.md)
     * [Contracts and signing](operations/finance/purchasing/contracts-and-signing.md)
     * [How to use Airbase](operations/finance/purchasing/airbase/README.md)
+      * [Access Airbase](operations/finance/purchasing/airbase/how-to-access-airbase.md)
       * [Navigate Airbase](operations/finance/purchasing/airbase/navigate-airbase.md)
       * [How to submit a purchase order](operations/finance/purchasing/airbase/how-to-submit-a-purchase-order.md)
       * [How to review a purchase order](operations/finance/purchasing/airbase/how-to-review-a-purchase-order.md)      
