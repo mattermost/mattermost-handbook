@@ -1,6 +1,6 @@
 ## How to submit a reimbursement request
 
-Log in to Airbase via Okta. See [How to access Airbase](linkURL) for details.
+Log in to Airbase via Okta. See [How to access Airbase](https://handbook.mattermost.com/operations/finance/purchasing/airbase/how-to-access-airbase) for details.
 
 ### **Reimbursement submission**
 
