@@ -1,6 +1,6 @@
 ## Navigate Airbase
 
-Log in to Airbase via Okta. See [How to access Airbase](linkURL) for details.
+Log in to Airbase via Okta. See [How to access Airbase](airbase/how-to-access-airbase.md) for details.
 
 When you log in to Airbase, you’re taken directly to your dashboard. On your dashboard, you’ll see all of your pending actions and requests.
 
