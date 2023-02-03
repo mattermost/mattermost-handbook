@@ -8,7 +8,8 @@ There are three ways to review and approve a virtual card request:
 
 ### Approve using Airbase
 
-Log in to Airbase via Okta. See [How to access Airbase](linkURL) for details.
+Log in to Airbase via Okta. See [How to access Airbase](https://handbook.mattermost.com/operations/finance/purchasing/airbase/how-to-access-airbase) for details.
+
 Once logged in, your Dashboard will show pending items. Go to **Pending Your Action > Virtual Card Request**. 
 
 ![Example of how to access pending virtual card requests in Airbase.](/.gitbook/assets/Airbase-pending-virtual-card-requests.png "Example of how to access pending virtual card requests in Airbase")
