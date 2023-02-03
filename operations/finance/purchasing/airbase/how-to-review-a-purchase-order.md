@@ -7,7 +7,7 @@ There are two ways to review and approve a purchase order:
 
 ### Approve using Airbase
 
-Log in to Airbase via Okta. See [How to access Airbase](linkURL) for details.
+Log in to Airbase via Okta. See [How to access Airbase](https://handbook.mattermost.com/operations/finance/purchasing/airbase/how-to-access-airbase) for details.
 Select **Pending Your Action > Purchase Order Request** to go to the **Requests > Purchase Orders** page.
 
 ![Example of how to review a Purchase Order request in Airbase.](/.gitbook/assets/Airbase-pending-purchase-order-requests.png "Example of how to review a Purchase Order request in Airbase")
