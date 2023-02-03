@@ -6,7 +6,8 @@ You can request a one-time or recurring virtual card for cases where you need to
 - purchase equipment (onboarding or equipment refreshes), or 
 - purchasing airline tickets or booking lodging when traveling on behalf of Mattermost.
 
-Log in to Airbase via Okta. See [How to access Airbase](linkURL) for details.
+Log in to Airbase via Okta. [How to access Airbase](https://handbook.mattermost.com/operations/finance/purchasing/airbase/how-to-access-airbase) for details.
+
 Select **Payments > Virtual Cards**.
 Select **Request with Approvers** located in the top right corner of the screen. You’re taken to the **New Request** screen.
 
