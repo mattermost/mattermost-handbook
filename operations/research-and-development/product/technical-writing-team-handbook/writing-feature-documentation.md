@@ -62,36 +62,30 @@ Mattermost documentation covers a number of different topics. For documentation,
 
 **Product Manager Review**
 
-* Suite: Laney Coletti-Saracino \(@laneycs\)
-* Security: Katie Wiersgalla \(@wiersgallak\)
-* Cloud: Katie Wiersgalla \(@wiersgallak\)
-* Playbooks: Ian Tao \(@tao\)
-* Boards: Winson Wu (\@winsonwu\)
-* Licensing: Jason Blais \(\@jasonblais\)
-* Mobile and desktop app: Eric Sethna \(@esethna\)
-* Apps and Marketplace: Sandy Atkinson \(@asatkinson\)
+* Product: Ian Tao \(@tao\); Winson Wu (\@wuwinson\)
+* Integrations: Sandy Atkinson \(@asatkinson\)
+* Security: Daniel Schalla \(@dschalla\)
+* Server/calls: Neil Barnett \(nab-77)\
+* Self-serve: John Lugtu \(@johndavidlugtu)\
+* Growth: Eric Sethna \(@esethna\)
+
 * Handbook and Process; Community: Jason Blais \(@jasonblais\)
 
 **Dev Review**
 
 If your change requires dev review add the developer/s you've been working with as the reviewer/s. If you're unsure who to add as a dev reviewer you can select one of the team leads below:
 
-* Boards: Scott Bishel \(@sbishel\)
+* Product: Scott Bishel \(@sbishel\)
 * Integrations: Catalin Tomei \(@catalintomai\)
-* Playbooks: Jesse Hallam \(@lieut-data\)
-* Channels: Martin Kraft \(@mkraft\)
 * Growth: Maria Nuñez \(@marianunez\)
-* SRE: Joram Wilander \(@jwilander\) \(\interm\)
-* Cloud Platform: Joram Wilander \(@jwilander\)
+* SRE: Stylianos Rigas \(@stylianos\)
+* Cloud Platform: Spiros Economakis \(@spiros\)
 * Mobile: Elias Nahum \(@enahum\)
-* Web App and Desktop App: Dean Whillier \(@deanwhillier\)
-* Server/infra: Joram Wilander \(@jwilander\)
-* Cloud: Joram Wilander \(@jwilander\)
+* Web/desktop app: Pantelis Vratsalis \(@pantelis\)
 * Security: Daniel Schalla \(@dschalla\)
-* QA: Saturnino Abril \(@saturninoabril\)
-* Handbook and Process: Jason Blais \(@jasonblais\)
+* QA: Saturn Abril \(@saturninoabril\)
 
-The full list of R&D teams is available [here](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit#gid=0).
+The full list of R&D teams is available [here](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit#gid=1730823498).
 
 ## Providing editorial feedback
 
