@@ -18,5 +18,5 @@ _Mattermost GitHub sponsorship_ is considered for [MVP](https://developers.matte
 ## Notes
 
 * Continued sponsorship will be evaluated quarterly.
-* The current program lead is Jason Blais.
+* The current program lead is Carrie Warner.
 
