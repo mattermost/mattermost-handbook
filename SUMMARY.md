@@ -42,7 +42,7 @@
       * [Post-publication quality control process](operations/operations/company-processes/publishing/quality-control-process.md)
   * [Handbook processes and policies](operations/operations/handbook/README.md)
     * [Handbook onboarding](operations/operations/handbook/handbook-onboarding.md)
-  * [Previous fiscal year information](operations/operations/previous-fiscal-year-information.md)
+  * [Fiscal year planning](operations/operations/fiscal-year-planning.md)
 * [Research and Development](operations/research-and-development/README.md)
   * [Organization](operations/research-and-development/organization/README.md)
     * [Channels](/operations/research-and-development/organization/channels.md)
