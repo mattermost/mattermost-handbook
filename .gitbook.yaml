@@ -25,6 +25,6 @@ redirects:
    operations/it: /operations/workplace/it/README.md
    operations/it/helpdesk: /operations/workplace/it/helpdesk.md
    operations/it/hardware-buy-back-policy: /operations/workplace/it/hardware-buy-back-policy.md
-   operations/research-and-development/product/release-process/incident-collaboration-release.md: /operations/research-and-development/product/release-process/playbooks-release.md
-
+   operations/research-and-development/product/release-process/incident-collaboration-release: /operations/research-and-development/product/release-process/playbooks-release.md
+   operations/research-and-development/organization/integration-frameworks: /operations/research-and-development/organization/integrations_framework.md
 
