@@ -27,12 +27,12 @@ Most authors receive $250 - $350 for publishing unique content, but exceptionall
 
 ## The process
 
-1. **Submit your idea**: Submit your idea via our [application form](https://form.asana.com/?k=S5-Dbo0LVh8y4kmGJ1QPvg&d=279683980846511) with an outline of your content and a previous writing example demonstrating your technical knowledge and writing capabilities. We will only publish unique, first-run content where our blog is the first platform for it to be published.
-2. **Refine**:Our editorial team reviews all submissions once every 3 months to identify topics we want to publish. We will reach out to you to provide feedback on the idea and make any structural changes requests.
-3. **Write your content**: Once we’ve approved your topic, it’s time to write the content. We'll provide additional guidelines and expectations to help you get started, but generally speaking, following Digital Ocean's [technical writing guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines) is a good plan.
-4. **Revise**: Submit your initial draft to our editors, and we’ll collaborate with you to copyedit, design a hero image, and prepare the article for publication. You should expect 1-2 rounds of revisions over the next 1-2 weeks.
-5. **Publish**: Once revisions are complete, we’ll send your compensation, publish the article, and promote it across all of our channels.
-6. **Do it again**: There’s no limit to the number of articles you can publish through this program. We love to build long-term relationships with our community and would love for you to be a repeat author on our blog. Start at step 1 again and keep going!
+1. **Submit your idea**: ~~Submit your idea via our [application form](https://form.asana.com/?k=S5-Dbo0LVh8y4kmGJ1QPvg&d=279683980846511) with an outline of your content and a previous writing example demonstrating your technical knowledge and writing capabilities. We will only publish unique, first-run content where our blog is the first platform for it to be published.~~ **Submissions are currently closed and the application form is disabled. Submissions will reopen at a future date and this page will update when that happens.**
+3. **Refine**:Our editorial team reviews all submissions once every 3 months to identify topics we want to publish. We will reach out to you to provide feedback on the idea and make any structural changes requests.
+4. **Write your content**: Once we’ve approved your topic, it’s time to write the content. We'll provide additional guidelines and expectations to help you get started, but generally speaking, following Digital Ocean's [technical writing guidelines](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines) is a good plan.
+5. **Revise**: Submit your initial draft to our editors, and we’ll collaborate with you to copyedit, design a hero image, and prepare the article for publication. You should expect 1-2 rounds of revisions over the next 1-2 weeks.
+6. **Publish**: Once revisions are complete, we’ll send your compensation, publish the article, and promote it across all of our channels.
+7. **Do it again**: There’s no limit to the number of articles you can publish through this program. We love to build long-term relationships with our community and would love for you to be a repeat author on our blog. Start at step 1 again and keep going!
 
 ## Frequently Asked Questions
 
