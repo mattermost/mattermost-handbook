@@ -10,7 +10,7 @@ R&D is split into three different divisions: Product, Cloud, and Security. Under
 
 Each vertical team is responsible for a single product.
 
-* **[Channels](/operations/research-and-development/organization/channels.md)**
+* **[Core 1](/operations/research-and-development/organization/core1.md)**
 * **[Boards](/operations/research-and-development/organization/boards.md)**
 * **[Playbooks](/operations/research-and-development/organization/playbooks.md)**
 * **[Calls](/operations/research-and-development/organization/calls.md)**
