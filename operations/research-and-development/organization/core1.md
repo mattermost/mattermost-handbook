@@ -1,6 +1,6 @@
-# Channels
+# Core 1
 
-The Channels team is responsible for the Channels product within Mattermost including the Web, Mobile, and Desktop experiences of the Channels product.
+The Core 1 team is responsible for the some of the features within Mattermost:
 
 ## Areas of Ownership
 
@@ -8,7 +8,9 @@ The Channels team is responsible for the Channels product within Mattermost incl
    - Post Formatting
    - Hashtags/Topics
    - File Attachments
-   - Infinite Scroll 
+   - Infinite Scroll
+   - Global Drafts
+   - Message Priority & Acknowledgements
  - Channel and Post Notifications
    - Desktop, web, and email
    - Keywords, @here, @all, Notices
@@ -17,7 +19,6 @@ The Channels team is responsible for the Channels product within Mattermost incl
 - Channel Post Organization and Retrieval 
   - Threads
   - Pinned Posts/Saved Posts
-  - Channel Search (including search backend)
   - Channel switching
 - Channel Reactions and Emojis
   - Emojis, Gifs
@@ -36,3 +37,9 @@ The Channels team is responsible for the Channels product within Mattermost incl
 - Channel Telemetry
 - Channel Accessibility
 - Channel Feature Performance
+- Search
+- Team Management
+- User Statuses
+- Site Customization
+- System Console UI
+
