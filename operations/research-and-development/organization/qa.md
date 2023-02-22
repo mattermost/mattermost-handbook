@@ -8,5 +8,9 @@ The QA team is responsible for the quality assurance of the Mattermost product.
 - Release QA management
 - Test case management
 - Automation test framework & infrastructure
-- Rainforest/Cypress
+- Test pipelines
+- Rainforest
+- Cypress
+- Playwright
+- Detox
 - QA community engagement

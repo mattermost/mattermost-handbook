@@ -23,3 +23,5 @@ The Growth team is responsible for accelerating usage and revenue by optimizing 
   - In-product upsells
 - Packaging & Pricing
 - Growth Telemetry
+- User Invites
+- Onboarding Templates
