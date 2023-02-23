@@ -48,7 +48,8 @@ The Cloud division is responsible for the delivery and operations of Mattermost 
 
 ## Security
 
-The Security division is responsible for both product and security operations, in addition to security certifications.
+The Security division is responsible for the implementation and monitoring of the company's security program.
 
+* **[Governance, Risk, and Compliance (GRC)](/operations/research-and-development/organization/grc.md)**
 * **[Product Security](/operations/research-and-development/organization/product_security.md)**
 * **[Security Operations](/operations/research-and-development/organization/security_operations.md)**
