@@ -58,6 +58,7 @@
     * [Release DevOps](/operations/research-and-development/organization/release_devops.md)
     * [Cloud Platform](/operations/research-and-development/organization/cloud_platform.md)
     * [Site Reliability Engineering](/operations/research-and-development/organization/sre.md)
+    * [GRC](/operations/research-and-development/organization/grc.md)
     * [Product Security](/operations/research-and-development/organization/product_security.md)
     * [Security Operations](/operations/research-and-development/organization/security_operations.md)
   * [Product](operations/research-and-development/product/README.md)
