@@ -1,4 +1,4 @@
-# ROW Staff Onboarding
+# ROW staff onboarding
 
 ## Full time staff member \(Rest of World\)
 
@@ -10,7 +10,7 @@ After you and Mattermost have accepted and signed your offer, you'll go through 
 2. [Form W-8BEN](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf) \(please click [here](https://www.irs.gov/pub/irs-pdf/iw8ben.pdf) for IRS guidelines\)
 3. [Form W-8BEN-E](https://www.irs.gov/pub/irs-pdf/fw8bene.pdf) \(please click [here](https://www.irs.gov/pub/irs-pdf/iw8bene.pdf) for IRS guidelines\)
 
-The Finance team will get you set up on Accrualify. There is no further action needed from you once you've completed the Banking Form and submitted the appropriate tax form to the Finance team. Please email your tax form to AP@mattermost.com.
+The Finance team will get you set up on Airbase. There is no further action needed from you once you've completed the Banking Form and submitted the appropriate tax form to the Finance team. Please email your tax form to AP@mattermost.com.
 
 If you were part of a paid simulation project, you may have already completed these steps. To conﬁrm you are successfully set up and no further action is required, please email AP@mattermost.com.
 
@@ -22,6 +22,6 @@ For timely payment, invoices should be sent to AP@mattermost.com. For further in
 
 If you're a full time staff member who gets paid via Deel, please reach out to the [People Team](https://community.mattermost.com/private-core/channels/ask-people-team) for any questions related to the Deel platform. 
 
-## Payment and Expense Reimbursements
+## Payment and expense reimbursements
 
-For staff members on Deel, you will receive payment from two sources, Deel for payroll and Accrualify for expense reimbursements (expense reimbursements should be submitted on [Expensify](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-use-expensify)). The currency in which you are paid is dependent upon the currency that is agreed upon between you and Mattermost in your employment contract. The Finance team will reach out to you for payment information for your expense reimbursements.
+For staff members on Deel, you will receive payment from two sources, Deel for payroll and Airbase for expense reimbursements. The currency in which you are paid is dependent upon the currency that is agreed upon between you and Mattermost in your employment contract. The Finance team will reach out to you for payment information for your expense reimbursements.
