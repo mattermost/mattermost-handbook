@@ -1,4 +1,4 @@
-# Frequently Asked Questions
+# Frequently asked questions
 
 **How do I submit an off-cycle budget?**
 
