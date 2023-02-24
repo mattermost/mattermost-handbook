@@ -12,27 +12,7 @@ We want to be especially thoughtful on the topic in the time of Covid, economic 
 * **Right balance.** Find the right balance between the benefit of company-wide breaks but not overly dictating people's personal vacation schedules.
 * **Customer context.** Time Friends & Family Days around least disruption for customers, and ensure essential coverage is in place (rotate PTO for staff members who need to stay).
 
-## Upcoming Family and Friends Day
-
-**Past Family and Friends Days**
-
-* Monday, October 10 2022
-* Monday, September 5 2022
-* Monday, July 4 2022
-* Friday, July 1 2022
-* Monday, May 30 2022
-* Friday, November 5 2021
-* Monday, July 5 2021
-* Friday, July 2 2021 
-* Friday, May 28, 2021
-* Monday, May 31, 2021
-* Friday, September 4, 2020
-* Friday, October 9, 2020
-* Monday, November 20, 2020
-* Friday, April 2nd, 2021
-* Monday, April 5th, 2021
-
-We announced this program at [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com), and will run the majority of the company with the minimal staff needed to meet our service level commitments - and we’ve asked the staff who are on-call, or who choose to work that day, to take an alternate day off.
+On Family and Friends day, we will run the majority of the company with the minimal staff needed to meet our service level commitments - and we ask the staff who are on-call, or who choose to work that day, to take an alternate day off.
 
 Our \#familyandfriendsday will be shared on Twitter, LinkedIn, and other social media, with a link to this notice page and FAQ. This can be referenced in out-of-office responders.
 
