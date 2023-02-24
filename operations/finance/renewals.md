@@ -2,7 +2,7 @@
 
 If your purchase request is a renewal of a service and the renewal meets the criteria below, please refer to this guidance to successfully submit your request to the Finance Team.
 
-Please submit a PO in Accrualify if your renewal meets **all** the following criteria:
+Please submit a PO in Airbase if your renewal meets **all** the following criteria:
 
 1. The services being renewed are the same as last year. This means that the renewal does not include additional services or expanding services.
 2. The amount for the renewal is the same as last year.
