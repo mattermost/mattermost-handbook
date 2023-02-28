@@ -16,7 +16,7 @@
 
 * Yes, of course! Make sure the appropriate legal documents are in English and the billing entity is Mattermost, Inc. We strongly encourage invoices are in USD but can support other currencies if needed. 
 
-**I had an account with Bill.com, do I need to deprovision myself from Bill.com?**
+**I had an account with Accrualify, do I need to deprovision myself from Accrualify?**
 
 * Nope! The Finance team will deprovision your account for you.
 
@@ -38,7 +38,7 @@
 
 **My vendor has reached out to me and is having issues with the portal. How can we help them?**
 
-* If your vendor is experiencing issues with the vendor portal, please have them contact support@airbase.com and copy AP@mattermost.com. Our designated Airbase Customer Success Team is happy to help directly with your vendor to triage issues. We want to make sure that your vendor’s experience with the portal is positive and seamless.
+* If your vendor is experiencing issues with the vendor portal, please have them contact support@airbase.io and copy AP@mattermost.com. Our designated Airbase Customer Success Team is happy to help directly with your vendor to triage issues. We want to make sure that your vendor’s experience with the portal is positive and seamless.
 
 **I'm lost and I don’t know where to start, please help!**
 
