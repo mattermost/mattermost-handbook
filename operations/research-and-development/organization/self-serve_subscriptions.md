@@ -4,19 +4,18 @@ The Self-serve team is responsible for the systems and experience that enable cu
 
 ## Areas of Ownership
 
-- Upgrade/downgrade paths experience
-- Free-to-Trial Experience
-  - Freemium Cloud > Free Trial > Paid
-  - Free Trial > Paid
 - Customer Portal
-  - Self-service licensing new purchase, renewals
+  - Self-service licensing new purchase, renewals, expansions
   - Cloud workspace creation
   - Export and import data
-- In-product subscription management:
+- Enterprise trials
+- In-product subscription management
+  - Purchase, renewals and expansions
   - License management for self-managed
   - Cloud subscription management
-- License generations
-- Packages and SKUs
-- Cloud billing:
+- License generation
+- Pricing and SKUs
+- Cloud billing
   - Data Connections to Netsuite
   - Blapi and Stripe integration
+- Upgrade/downgrade paths experience

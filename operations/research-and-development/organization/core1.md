@@ -1,6 +1,8 @@
 # Core 1
 
-The Core 1 team is responsible for the some of the features within Mattermost:
+The Core 1 team is responsible for a set of the core product features within Mattermost.
+
+A better team name is TBD.
 
 ## Areas of Ownership
 
@@ -16,13 +18,13 @@ The Core 1 team is responsible for the some of the features within Mattermost:
    - Keywords, @here, @all, Notices
    - User mute
    - Category mute
-- Channel Post Organization and Retrieval 
+- Channel Post Organization and Retrieval
   - Threads
   - Pinned Posts/Saved Posts
   - Channel switching
 - Channel Reactions and Emojis
   - Emojis, Gifs
-- Channel Types 
+- Channel Types
   - Public, Private, Archive, DM, GM
   - Shared Channels
 - Channel Categorization

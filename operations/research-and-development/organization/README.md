@@ -1,51 +1,55 @@
 # R&D Organization
 
-The source of truth for the R&D org structure and team membership is [this spreadsheet](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit#gid=1820415931). For an overview of all teams and areas of responsibility please see [this document](https://docs.google.com/document/d/1FKNUNAhMS1Yf7yfsh-mrvMHV-r1heCNdeMUTmVq4RFY/edit) (*note that some data may be out-of-date between this doc and the handbook, the handbook is considered our official listing).
+The source of truth for the R&D org structure and team membership is [this spreadsheet](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit#gid=1820415931).
 
-R&D is split into three different divisions: Product, Cloud, and Security. Under each division, there are teams with specific areas of ownership.
+R&D is split into multiple divisions, detailed below. Areas of responsibility (AORs) for each team are linked.
 
 ## Product
 
-### Vertical teams
+The Product division builds and ships the majority of anything product related.
 
-Each vertical team is responsible for a single product.
+### Core Product
+
+The Core Product sub-division is responsible for building the features and systems of the core product.
 
 * **[Core 1](/operations/research-and-development/organization/core1.md)**
-* **[Boards](/operations/research-and-development/organization/boards.md)**
-* **[Playbooks](/operations/research-and-development/organization/playbooks.md)**
-* **[Calls](/operations/research-and-development/organization/calls.md)**
+* **[Core 2](/operations/research-and-development/organization/core2.md)**
 
-### Suite teams
+### Platform
 
-Suite teams are responsible for features that are utilized across the product verticals.
+The Platform sub-division is responsible for the libraries, architecture and infrastructure, collectively the platforms, that the core product is built upon.
 
-* **[Suite Users](/operations/research-and-development/organization/suite_users.md)**
-* **[Integration Frameworks](/operations/research-and-development/organization/integrations_framework.md)** 
-
-### Platform teams
-
-The Platform division is responsible for the platforms that support and span the product verticals.
-
-* **[Web/Desktop](/operations/research-and-development/organization/web_desktop.md)**
+* **[Integration Frameworks](/operations/research-and-development/organization/integrations_framework.md)**
+* **[Web/Desktop/Mobile](/operations/research-and-development/organization/web_desktop_mobile.md)**
 * **[Server](/operations/research-and-development/organization/server.md)**
-* **[Mobile](/operations/research-and-development/organization/mobile.md)**
 * **[QA](/operations/research-and-development/organization/qa.md)**
 * **[Tech Writing](/operations/research-and-development/organization/tech_writing.md)**
+
+## Growth
+
+The Growth division develops solutions and features across the spectrum that allow us to reach more users and customers.
+
+* **[Growth](/operations/research-and-development/organization/growth.md)**
+* **[Self-Serve](/operations/research-and-development/organization/self-serve_subscriptions.md)**
+
+## Data Engineering
+
+The Data Engineering division builds and supports the data infrastructure and analysis tools.
+
+* **[Data Engineering](/operations/research-and-development/organization/data_engineering.md)**
 
 ## Cloud
 
 The Cloud division is responsible for the delivery and operations of Mattermost products across SaaS and self-hosted deployment options.
 
-* **[Growth](/operations/research-and-development/organization/growth.md)**
-* **[Self-Serve Subscriptions](/operations/research-and-development/organization/self-serve_subscriptions.md)**
-* **[Data Engineering](/operations/research-and-development/organization/data_engineering.md)**
 * **[Release DevOps](/operations/research-and-development/organization/release_devops.md)**
 * **[Cloud Platform](/operations/research-and-development/organization/cloud_platform.md)**
-* **[SRE](/operations/research-and-development/organization/sre.md)**
+* **[Site Reliabilty Engineering](/operations/research-and-development/organization/sre.md)**
 
 ## Security
 
-The Security division is responsible for both product and security operations.
+The Security division is responsible for the implementation and monitoring of the company's security program.
 
-* **[Product Security](/operations/research-and-development/organization/product_security.md)** 
+* **[Governance, Risk, and Compliance (GRC)](/operations/research-and-development/organization/grc.md)**
+* **[Product Security](/operations/research-and-development/organization/product_security.md)**
 * **[Security Operations](/operations/research-and-development/organization/security_operations.md)**
