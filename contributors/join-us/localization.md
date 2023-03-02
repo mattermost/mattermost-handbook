@@ -180,7 +180,7 @@ If you're interested in contributing to the process, please join the [Mattermost
 | English - Australian | [Matthew Williams \(matthew.williams\)](https://translate.mattermost.com/user/matthew-w/) | TBD (Open role) |
 | Español - Spanish | [Elias Nahum \(enahum\)](https://github.com/enahum) | [Jesús Espino \(jespino\)](https://github.com/jespino) |
 | Français - French | [William Gathoye \(wget\)](https://github.com/wget) | TBD (Open role) |
-| Magyar - Hungarian | [Zsolt Godó \(sakaitsu\)](https://translate.mattermost.com/user/sakaitsu) | [Csaba Tóth \(tsabi\)](https://translate.mattermost.com/user/tsabi) |
+| Magyar - Hungarian | TBD (Open role) | TBD (Open role) |
 | Italiano - Italian | [Michael Longo \(mlongo4290\)](https://github.com/mlongo4290) | [Ema Panz \(thepanz\)](https://github.com/thepanz) |
 | 日本語 - Japanese | [Yusuke Nemoto \(kaakaa\)](https://github.com/kaakaa) | TBD (Open role) |
 | 한국어 - Korean | TBD \(Open role\) | TBD (Open role) |
