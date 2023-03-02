@@ -7,8 +7,8 @@ As the Company grows there are legal matters, costs, and overall visibility into
 ### TL;DR
 
 
-* [**Step 1:**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-1-send-for-budget-approval) Log into Accrualify and [submit a PO](https://handbook.mattermost.com/operations/finance/spending-company-money/how-to-use-accrualify/how-to-submit-a-po) in the PO Module. This will kick-off the order requisition process and a Purchase Order Number \(PO-MM) will be assigned. Doing this for the first time? Mail procurement@mattermost.com 
-* [**Step 2:**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-2-request-contract-from-vendor) If not an [MTA](https://handbook.mattermost.com/operations/finance/risk-management#mattermost-templated-agreement), request and attach the related legal document to the PO request in Accrualify.
+* [**Step 1:**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-1-send-for-budget-approval) Log into Airbase and [submit a PO](https://handbook.mattermost.com/operations/finance/purchasing/airbase/how-to-submit-a-purchase-order) in the PO Module. This will kick-off the order requisition process. Doing this for the first time? Mail procurement@mattermost.com 
+* [**Step 2:**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-2-request-contract-from-vendor) If not an [MTA](https://handbook.mattermost.com/operations/finance/risk-management#mattermost-templated-agreement), request and attach the related legal document to the PO request in Airbase.
 * [**Step 3:**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-3-legal-review-and-approval) [LRA](https://handbook.mattermost.com/operations/finance/risk-management#mattermost-templated-agreement).
 * [**Step 4:**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-4-send-for-internal-signature) Send document to be signed internally.
 * [**Step 5:**](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-purchase/how-to-procure-a-vendor-contract#step-5-send-signed-contract-for-counter-signature) Obtain a counter-signed document.
@@ -17,7 +17,7 @@ As the Company grows there are legal matters, costs, and overall visibility into
 
 ### Step 1: Send for budget approval
 
-The first step to get a contract or vendor approved, is to [submit a PO](https://handbook.mattermost.com/operations/finance/spending-company-money/how-to-use-accrualify/how-to-submit-a-po) in Accrualify. When assessing if the form should be completed, please ask yourself the following questions:
+The first step to get a contract or vendor approved, is to [submit a PO](https://handbook.mattermost.com/operations/finance/purchasing/airbase/how-to-submit-a-purchase-order) in Airbase. When assessing if the form should be completed, please ask yourself the following questions:
 
 * Am I trying to purchase a new product or service on behalf of Mattermost?
 * Is this a purchase not covered in [How to spend company money](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money)?
@@ -26,22 +26,22 @@ The first step to get a contract or vendor approved, is to [submit a PO](https:/
 * Is there an agreement that needs to be signed?
 * Are there legal T&Cs in the agreement that will bind Mattermost if signed?
 
-If you answer **YES** to one or more of the questions above, you should [submit a PO](https://handbook.mattermost.com/operations/finance/spending-company-money/how-to-use-accrualify/how-to-submit-a-po) in Accrualify. This way Mattermost is able to track when spending will occur; what legal T&Cs we are binding the company to; manage cash flows; track to fiscal year plan; denote deviations; and ensure correct record keeping for our financial statements and legal contracts. When completing the form, please be sure that:
+If you answer **YES** to one or more of the questions above, you should [submit a PO](https://handbook.mattermost.com/operations/finance/purchasing/airbase/how-to-submit-a-purchase-order) in Airbase. This way Mattermost is able to track when spending will occur; what legal T&Cs we are binding the company to; manage cash flows; track to fiscal year plan; denote deviations; and ensure correct record keeping for our financial statements and legal contracts. When completing the form, please be sure that:
 
 1. You own the vendor relationship.
 2. You have the approvals from your Manager to move forward on the spend request.
 
-Once a PO is submitted, the request is routed to the [Procurement Team](mailto:procurement@mattermost.com) to process, review and obtain the spending approval. If you receive approval, you will be provided a **MM-\#** to be used at a future date.
+Once a PO is submitted, the request is routed to the [Procurement Team](mailto:procurement@mattermost.com) to process, review and obtain the spending approval.
 
 ### Step 2: Request contract from vendor
 
 If you did not provide a contract in the PO submission and have received spend approval, ask your vendor contact to send you a **Word Document** of their contract so that Legal may review and if necessary, REDLINE the agreement. You may reference the legal review process outlined in the [Authorization Matrix](https://drive.google.com/a/mattermost.com/open?id=1fDIMiO0uydB_1zCUxZ4sGfSnBJ0P_49zbeQGgTqbYPI).
 
-All contracts are to address either Ian Tien \(CEO\) or Tim Quock \(VP Finance\), and should include the following relevant information:
+All contracts are to address either Ian Tien \(CEO\) or Kendra Niedziejko \(CFO\), and should include the following relevant information:
 
 | Type | Information |
 | :--- | :--- |
-| Contract Signer | Tim Quock (up to $100,000, or Ian Tien if above $100,000) |
+| Contract Signer | Kendra Niedziejko (up to $100,000, or Ian Tien if above $100,000) |
 | Address | 530 Lytton Avenue, Second floor Palo Alto, CA, 94301, USA |
 | Office Phone Number\* | \(650\) 667-8512 |
 | Invoice Sumbission Email | AP@mattermost.com |
@@ -59,7 +59,7 @@ If the agreement is an addendum to the original contract that has already been a
 
 #### Is your request for spend under an existing contract?
 
-If the original contract has already been approved by Legal and you are submitting a new order form that only impacts pricing, create a new issue by [submitting another PO](https://handbook.mattermost.com/operations/finance/spending-company-money/how-to-use-accrualify/how-to-submit-a-po) in Accrualify. Additional legal review will not be required.
+If the original contract has already been approved by Legal and you are submitting a new order form that only impacts pricing, create a new issue by [submitting another PO](https://handbook.mattermost.com/operations/finance/purchasing/airbase/how-to-submit-a-purchase-order) in Airbase. Additional legal review will not be required.
 
 ### Step 3: [Legal review and approval](https://handbook.mattermost.com/operations/finance/risk-management#legal-review-and-approval-lra)
 
@@ -77,7 +77,7 @@ Once the contract is approved, the Procurement Team will prepare the [contract f
 
 1. Create a PDF of the fully approved contract.
 2. Director or above will initial in DocuSign.
-3. Contract sent to VP Finance or CEO for final signature in DocuSign.
+3. Contract sent to CFO or CEO for final signature in DocuSign.
 
 Please note that contracts that don’t go through our internal signing process will take much longer to procure and sign.
 
@@ -91,5 +91,4 @@ Send the final counter-signed contract to the [Procurement Team](mailto:procurem
 
 ### Step 7: Vendor on-boarding and invoice processing
 
-For all vendor on-boarding questions, refer to the [How to on-board a vendor](https://handbook.mattermost.com/operations/finance/spending-company-money/procurement/how-to-on-board-as-a-vendor) and [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid). Please be sure to communicate to your vendor that all invoices should include the **MM-\#** for reference.
-
+For all vendor on-boarding questions, refer to the [How to on-board a vendor](https://handbook.mattermost.com/operations/finance/spending-company-money/procurement/how-to-on-board-as-a-vendor) and [How to get paid](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-get-paid). Please be sure to communicate to your vendor that all invoices should include the PO number for reference.
