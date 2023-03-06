@@ -18,12 +18,9 @@ Message the entire team via @pmteam in the Product Management channel on https:/
 The PM team includes (in alphabetical order, by their username on https://community.mattermost.com):
 
 - @chen-i.lim
-- @don.hogan
 - @eric.sethna
-- @jason.blais
 - @john.lugtu
 - @katie.wiersgalla
-- @laney.coletti-saracino
 - @neil.barnett
 - @sandy.atkinson
 - @tao
