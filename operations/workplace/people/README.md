@@ -9,16 +9,16 @@ Description: >-
 
 | Sub-Team | Name | Title |
 | :--- | :--- | :--- |
-| **HR** | [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew) |VP of HR|
-|  | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) | Manager, People |
+| **HR** | [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew) |VP, Human Resources|
+|  | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) | Senior Manager, People |
+|  | [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu) | HR Generalist |
 |  |  |  | 
-| **Recruiting** | [Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa) | Technical Recruiting Manager |
-| |[Ramon Fernandez](https://community.mattermost.com/core/messages/ramon.fernandez) | Recruiter |
+| **Recruiting** | [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) |Senior Manager, Total Rewards  |
 |  |  |  |
-| **Total Rewards** | [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) |Total Rewards Manager  |
+| **Total Rewards** | [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) |Senior Manager, Total Rewards  |
 |  | [Praveen Viswam](https://community.mattermost.com/core/messages/praveen.viswam) |Total Rewards Analyst  |
 |  |  |  |
-| **Workplace** | [Hanna Park](https://community.mattermost.com/core/messages/hanna.park) |Workplace Community Manager  |
+| **Workplace** | [Hanna Park](https://community.mattermost.com/core/messages/hanna.park) |Manager, Workplace Community  |
 |  | [Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini) |Workplace Coordinator  |
 
 
@@ -27,16 +27,16 @@ Description: >-
 
 | People Topic | Resource | Who to Ask?|
 | :--- | :--- | :--- |
-| Offer Letters and Employment Agreements | HR@mattermost.com |[Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) |
-| Onboarding |[Mattermost Company Onboarding Google Slides](https://docs.google.com/presentation/d/1Xzukzo_zAb9cUEmaUb2zRylQLGoMZV7Tz6NMYHHn9AA/edit?usp=sharing), [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team)  | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
-| Employment Verification Letters | see request instructions [here](https://handbook.mattermost.com/operations/workplace/people#letter-of-employment), Email: HR@mattermost.com |[Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
-|Mattermost Invitation Letter (for Visa Application) |see request instructions below and complete [this form](https://forms.gle/nWbqRQ55odHpn46w9) |[Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
-| US Benefits | [Loc: USA](https://community.mattermost.com/private-core/channels/loc-usa) | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
-| Canada Benefits | [Loc: Canada](https://community.mattermost.com/private-core/channels/loc-canada) | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
-| General HR Questions | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) (Non-Confidential) and HR@mattermost.com (Confidential)| [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)| and [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
-|Recruiting | [Ask the Recruiting Team](https://community.mattermost.com/private-core/channels/ask-the-recruiting-team) (Non-Confidential) | [Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa) | Technical Recruiting Manager |
-| Workplace Program Questions & Updates | Questions: [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team), Email: People@mattermost.com, Updates: [Social: Workplace Programs](https://community.mattermost.com/private-core/channels/social) or [Workplace Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_dsmc65gm71b4imq1gkfk5qkrv4@group.calendar.google.com&ctz=America/New_York) (Found on the BambooHR Homepage under "Company Links" |[Hanna Park](https://community.mattermost.com/core/messages/hanna.park) and [Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini) |
-| Compensation Analytics | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) | [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) and [Praveen Viswam](https://community.mattermost.com/core/messages/praveen.viswam) |
+| Offer Letters and Employment Agreements | HR@mattermost.com |[Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) |
+| Onboarding |[Mattermost Company Onboarding Google Slides](https://docs.google.com/presentation/d/1Xzukzo_zAb9cUEmaUb2zRylQLGoMZV7Tz6NMYHHn9AA/edit?usp=sharing), [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team)  | [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
+| Employment Verification Letters | see request instructions [here](https://handbook.mattermost.com/operations/workplace/people#letter-of-employment), Email: HR@mattermost.com |[Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
+|Mattermost Invitation Letter (for Visa Application) |see request instructions below and complete [this form](https://forms.gle/nWbqRQ55odHpn46w9) |[Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
+| US Benefits | [Loc: USA](https://community.mattermost.com/private-core/channels/loc-usa) | [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
+| Canada Benefits | [Loc: Canada](https://community.mattermost.com/private-core/channels/loc-canada) | [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
+| General HR Questions | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) (Non-Confidential) and HR@mattermost.com (Confidential)| [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
+|Recruiting | [Ask the Recruiting Team](https://community.mattermost.com/private-core/channels/ask-the-recruiting-team) (Non-Confidential) | [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade) |
+| Workplace Program Questions & Updates | Questions: [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team), Email: People@mattermost.com, Updates: [Social: Workplace Programs](https://community.mattermost.com/private-core/channels/social) or [Workplace Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_dsmc65gm71b4imq1gkfk5qkrv4@group.calendar.google.com&ctz=America/New_York) (Found on the BambooHR Homepage under "Company Links" |[Hanna Park](https://community.mattermost.com/core/messages/hanna.park), [Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini) |
+| Compensation Analytics | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) | [Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade), [Praveen Viswam](https://community.mattermost.com/core/messages/praveen.viswam) |
 
 ## People Team SLAs
 What is an SLA?
@@ -45,23 +45,23 @@ An SLA is an agreement that details the expectations and obligations of a servic
 | Common People Team Request | SLA | [DRI](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#dri) |Sub-Team |
 | :--- | :--- | :--- |:--- |
 |Compensation Review Requests (for candidates/offers)|2 business days|[Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade)|Total Rewards|
-|General Recruiting Questions|1 business day|[Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa)|Recruiting|
-|Opening a Requisition|1 business day|[Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa)|Recruiting|
-|Posting a Job|2 business days|[Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa)|Recruiting|
-|In-take ICP & Job Description|2-4 business days|[Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa)|Recruiting|
-|Recruiting New Agency Support|5-7 business days|[Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa)|Recruiting|
-|Requesting a Recruiter Screen|1 business day|[Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa)|Recruiting|
-|Reference Check Request|1 business day|[Teresa Novoa](https://community.mattermost.com/core/messages/teresa.novoa)|Recruiting|
-|Offer Letters|All Approvals given by 4 PM ET will go out same day|[Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|HR|
-|General, Non-Urgent HR Questions|Response: 1 business day, Solution: within 3 business days (for non-complex issues)|[Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|HR|
-|US Benefit Overviews from TriNet for Candidates|2-3 business days|[Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|HR|
-|Employment Change/Comp Adjustment Letters|3 business days (after all approvals received)| [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|HR|
-|Letters of Employment and Employment Verifications|2 business days|[Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|HR|
-|Mattermost Invitation Letter (for Visa Application) |2 business days|[Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|HR|
-|General Workplace Questions |Response: 1 business day, Solution: within 3 business days (for non-complex issues)|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park),[Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini)| Workplace|
+|General Recruiting Questions|1 business day|[Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade)|Total Rewards|
+|Opening a Requisition|1 business day|[Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade)|Total Rewards|
+|Posting a Job|2 business days|[Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade)|Total Rewards|
+|In-take ICP & Job Description|2-4 business days|[Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade)|Total Rewards|
+|Recruiting New Agency Support|5-7 business days|[Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade)|Total Rewards|
+|Requesting a Recruiter Screen|1 business day|[Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade)|Total Rewards|
+|Reference Check Request|1 business day|[Idayat Ogungbade](https://community.mattermost.com/core/messages/idayat.ogungbade)|Total Rewards|
+|Offer Letters|All Approvals given by 4 PM ET will go out same day| [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|HR|
+|General, Non-Urgent HR Questions|Response: 1 business day, Solution: within 3 business days (for non-complex issues)| [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|HR|
+|US Benefit Overviews from TriNet for Candidates|2-3 business days| [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|HR|
+|Employment Change/Comp Adjustment Letters|3 business days (after all approvals received)| [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|HR|
+|Letters of Employment and Employment Verifications|2 business days| [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|HR|
+|Mattermost Invitation Letter (for Visa Application) |2 business days| [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|HR|
+|General Workplace Questions |Response: 1 business day, Solution: within 3 business days (for non-complex issues)|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park), [Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini)| Workplace|
 |Workplace Program Proposals|Response in 2-3 business days|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park)| Workplace|
-|New Hire Equipment|2 weeks|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park),[Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini)| Workplace|
-|Refresh Equipment (for current staff)|2 weeks|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park),[Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini)| Workplace|
+|New Hire Equipment|2 weeks|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park), [Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini)| Workplace|
+|Refresh Equipment (for current staff)|2 weeks|[Hanna Park](https://community.mattermost.com/core/messages/hanna.park), [Vidhi Saini](https://community.mattermost.com/core/messages/vidhi.saini)| Workplace|
 
 
 ## Important Note
@@ -89,7 +89,7 @@ For example, monthly fee, salary, start date, title, etc. People Ops will send y
 If you are a U.S. staff member and on payroll through TriNet, see [TriNet Contact Information](https://drive.google.com/file/d/15AdHLRB9CvMbeUStJ8laqlDJwPZZ2RT-/view?usp=sharing). Please make sure to include the TriNet Employer Code when you share TriNet contact information with your verifying institution.
 
 ### Mattermost Invitation Letter (for Visa Application)
-If you are traveling on behalf of the company and need an invitation letter as a part of the visa application process, please complete [this form](https://forms.gle/nWbqRQ55odHpn46w9). Cecily Sullivan will write a letter based off of the information you provide in the form and will send it to you within 2 business days.
+If you are traveling on behalf of the company and need an invitation letter as a part of the visa application process, please complete [this form](https://forms.gle/nWbqRQ55odHpn46w9). People Ops will write a letter based off of the information you provide in the form and will send it to you within 2 business days.
 
 If you would like a letter confirming traveling insurance when traveling on behalf of the company, please review the [Business Travel Insurance](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/travel/business-travel-insurance) section of the handbook and complete the [AIG Travel Insurance Generation Form](https://drive.google.com/file/d/1Eqo4Y7jses8p1uUPfOhxnb4Rp3RMXlCW/view?usp=sharing).
 ### Regular Compensation
