@@ -53,6 +53,6 @@ The team regularly works on the following tasks, in the order of priority:
 | Topics                             | Meeting                    | Participants                    | Cadence |
 |------------------------------------|----------------------------|---------------------------------|---------|
 | Incident Review & Knowledge share  | Reliability Engineering    | Cloud leadership, SRE, Release  | Monday  |
-| Triage & Planning                  | SRE Planning               | SRE                             | Tuesday |
+| Triage & Planning                  | SRE Planning               | SRE, Platform                   | Tuesday |
 | Cloud & Growth Sync                | Cloud Engineering          | SRE, Release, Platform, Growth  | Weekly  |
 | Bring chaos to our systems         | Chaos Gameday              | SRE                             | Monthly |
