@@ -10,7 +10,7 @@ Enable developers to build reliable, scalable, cost efficient services having in
 - On-call, Incident Management and Incident Review
 - Change management
 - Influence and encourage best practices
-- Keep documentation, training and Runbooks fresh
+- Maintain and update documentation, training, and Runbooks
 - Empower developers with self-served capabilities
 - Meet & review reliability, quality and cost KPIs regularly
 
