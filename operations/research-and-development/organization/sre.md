@@ -39,7 +39,7 @@ We maintain every quarter our OKRs as epics in this [Board](https://mattermost.a
 - Keep the lights on
 
 #### General Workflow
-1. Mattermost members open new issues in [SRE Board](https://mattermost.atlassian.net/jira/software/c/projects/CLD/boards/109)
+1. Mattermost members open new issues in the [SRE Board](https://mattermost.atlassian.net/jira/software/c/projects/CLD/boards/109)
 2. Every new issues goes through an Issue Triage weekly
 
 ### Areas of Ownership
