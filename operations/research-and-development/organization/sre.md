@@ -12,7 +12,7 @@ Enable developers to build reliable, scalable, cost efficient services that keep
 - Influence and encourage best practices
 - Maintain and update documentation, training, and Runbooks
 - Empower developers with self-serve tools
-- Meet & review reliability, quality and cost KPIs regularly
+- Meet & review reliability, quality, and cost KPIs regularly
 
 ### Principles
 - Be proactive instead of reactive
