@@ -46,7 +46,7 @@ We maintain every quarter our OKRs as epics in this [Board](https://mattermost.a
 The team regularly works on the following tasks, in the order of priority:
 - Ensuring availability of Mattermost Cloud user-facing services
 - Ensuring availability of community.mattermost.com (e.g. daily releases, calls)
-- Ensuring the availability of the internal Cloud Platform (eg. self-served testing envs, Observability Platform, GitOps Platform, IaC platform )
+- Ensuring the availability of the internal Cloud Platform (e.g. self-serve testing environments, Observability Platform, GitOps Platform, IaC platform )
 
 ### Meetings
 
