@@ -34,7 +34,7 @@ More ways to reach us:
 
 #### General Workflow
 1. Mattermost members open new issues in [Platform Board](https://mattermost.atlassian.net/jira/software/c/projects/MM/boards/46)
-2. Every new issues goes through an Issue Triage weekly
+2. Every new issue goes through an Issue Triage weekly.
 
 ### Areas of Ownership
 The team regularly works on the following tasks, in the order of priority:
