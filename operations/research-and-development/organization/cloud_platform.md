@@ -46,6 +46,6 @@ The team regularly works on the following tasks, listed in order of priority:
 
 | Topics                             | Meeting                    | Participants                    | Cadence |
 |------------------------------------|----------------------------|---------------------------------|---------|
-| Triage & Planning                  | Platform Planning          | SRE, Platform                   | Tuesday |
+| Triage & Planning                  | Platform Planning          | SRE, Platform                   | Weekly  |
 | Cloud & Growth Sync                | Cloud Engineering          | SRE, Release, Platform, Growth  | Weekly  |
 
