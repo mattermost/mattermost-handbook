@@ -4,7 +4,7 @@
 Platform (Cloud) team is responsible for the underlying services which support the orchestration of Mattermost Cloud in terms of provisioning, rolling out, and updating the customer Mattermost server fleet. In parallel the team boosts developer productivity using the same services to improve the cloud developer experience.
 
 ### Vision
-Enable everyone to build and deploy with high velocity in a self-served manner.
+Enable everyone to build and deploy with high velocity in a self-serve manner.
 
 ### Actions
 - Influence Cloud readiness
