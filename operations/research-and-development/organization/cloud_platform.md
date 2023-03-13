@@ -40,7 +40,7 @@ More ways to reach us:
 The team regularly works on the following tasks, in the order of priority:
 - Ensuring provisioning, rolling out and controlling the workspaces fleet with an automated manner (eg. provisioner, k8s operator)
 - Improving developer productivity with providing self-served capabilities for testing envs in cloud developer platform (eg. [spinwick](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#spinwick), cloud plugin)
-- Ensuring and supporting other teams for cloud readiness (eg. Mattermost migrations, database connection pooling)
+- Ensuring and supporting other teams for cloud readiness (e.g. Mattermost migrations, database connection pooling)
 
 ### Meetings
 
