@@ -27,7 +27,7 @@ Enable everyone to build and deploy with high velocity in a self-serve manner.
 If you need our assistance, please follow the [General Workflow](#general-workflow)
 
 More ways to reach us:
-1. For support questions related to production you can reach us in   `~cloud-support ` channel.
+1. For support questions related to production you can reach us in the `~cloud-support ` channel.
 2. For all the other questions you can reach us in `~cloud-platform-team` channel
 
 ### How we work
