@@ -30,7 +30,7 @@ You can also reach us on the Mattermost Community Server as follows:
 2. For all the other questions you can reach us in `~cloud-sre-team` channel
 
 ### How we work
-We maintain every quarter our OKRs as epics in this [Board](https://mattermost.atlassian.net/jira/software/c/projects/CLD/boards/109/roadmap?statuses=2%2C4) which are divided in the following areas:
+Each quarter, we maintain our OKRs as epics in this [board](https://mattermost.atlassian.net/jira/software/c/projects/CLD/boards/109/roadmap?statuses=2%2C4) which is divided into the following areas:
 - Reliability & Resiliency
 - Availability & Cost Optimisation
 - Automation
