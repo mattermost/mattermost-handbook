@@ -40,7 +40,7 @@ Each quarter, we maintain our OKRs as epics in this [board](https://mattermost.a
 
 #### General Workflow
 1. Mattermost members open new issues in the [SRE Board](https://mattermost.atlassian.net/jira/software/c/projects/CLD/boards/109)
-2. Every new issues goes through an Issue Triage weekly
+2. New issues are reviewed weekly via Issue Triage.
 
 ### Areas of Ownership
 The team regularly works on the following tasks, in the order of priority:
