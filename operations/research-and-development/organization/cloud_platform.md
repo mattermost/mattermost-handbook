@@ -33,7 +33,7 @@ More ways to reach us:
 ### How We Work
 
 #### General Workflow
-1. Mattermost members open new issues in [Platform Board](https://mattermost.atlassian.net/jira/software/c/projects/MM/boards/46)
+1. Mattermost staff open new issues in the [Platform Board](https://mattermost.atlassian.net/jira/software/c/projects/MM/boards/46).
 2. Every new issue goes through an Issue Triage weekly.
 
 ### Areas of Ownership
