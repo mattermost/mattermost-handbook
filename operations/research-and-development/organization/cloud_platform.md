@@ -30,7 +30,7 @@ More ways to reach us:
 1. For support questions related to production you can reach us in the `~cloud-support ` channel.
 2. For all the other questions you can reach us in the `~cloud-platform-team` channel.
 
-### How we work
+### How We Work
 
 #### General Workflow
 1. Mattermost members open new issues in [Platform Board](https://mattermost.atlassian.net/jira/software/c/projects/MM/boards/46)
