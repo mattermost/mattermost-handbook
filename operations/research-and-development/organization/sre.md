@@ -25,7 +25,7 @@ Enable developers to build reliable, scalable, cost efficient services that keep
 ### Ask for Help
 If you need our assistance please follow the [General Workflow](#general-workflow)
 
-We can also be reached out:
+You can also reach us on the Mattermost Community Server as follows:
 1. For support questions related to production you can reach us in   `~cloud-support ` channel.
 2. For all the other questions you can reach us in `~cloud-sre-team` channel
 
