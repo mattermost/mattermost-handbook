@@ -28,7 +28,7 @@ If you need our assistance, please follow the [General Workflow](#general-workfl
 
 More ways to reach us:
 1. For support questions related to production you can reach us in the `~cloud-support ` channel.
-2. For all the other questions you can reach us in `~cloud-platform-team` channel
+2. For all the other questions you can reach us in the `~cloud-platform-team` channel.
 
 ### How we work
 
