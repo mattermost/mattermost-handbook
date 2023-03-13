@@ -24,7 +24,7 @@ Enable everyone to build and deploy with high velocity in a self-serve manner.
 
 ### Ask for Help
 
-If you need our assistance please use the following follow the [General Workflow](#general-workflow)
+If you need our assistance, please follow the [General Workflow](#general-workflow)
 
 We can also be reached out:
 1. For support questions related to production you can reach us in   `~cloud-support ` channel.
