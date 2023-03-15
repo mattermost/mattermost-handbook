@@ -7,7 +7,7 @@ To do this, please go to https://app.vanta.com/onboarding.
 ## Code of Conduct 
 
 * [Mattermost Code of Conduct](https://docs.google.com/document/d/1y56kqzeuMqYTQ2mmAtf95Sw4aXsaiy0ZaxKcWL-pDDg/edit#)
-* [Mattermost Code of Conduct Supplement for United States Government Contrats and Grants](https://docs.google.com/document/d/1JGd-CYhsw5t3vWfO8SeZJEwsGCVLPj1n/edit)
+* [Mattermost Code of Conduct Supplement for United States Government Contracts and Grants](https://docs.google.com/document/d/1JGd-CYhsw5t3vWfO8SeZJEwsGCVLPj1n/edit)
 
 ## Labor notices 
 
