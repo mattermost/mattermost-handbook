@@ -9,12 +9,12 @@ To do this, please go to https://app.vanta.com/onboarding.
 * [Mattermost Code of Conduct](https://docs.google.com/document/d/1y56kqzeuMqYTQ2mmAtf95Sw4aXsaiy0ZaxKcWL-pDDg/edit#)
 * [Mattermost Code of Conduct Supplement for United States Government Contracts and Grants](https://docs.google.com/document/d/1JGd-CYhsw5t3vWfO8SeZJEwsGCVLPj1n/edit)
 
-All Staff and Contractors have a duty to immediately reach out to their manager, Human Resources,the Legal Department, or Senior Leadership when they learn of potentially unlawful or unethical behavior as noted in the Mattermost Code of Conduct and the Mattermost Code of Conduct Supplement. Your first line of contact should be your manager or Human Resources. If he/she/they is/are unavailable, or if you’re not comfortable, you can contact the
+All Staff and Contractors have a duty to immediately reach out to their manager, Human Resources, the Legal Department, or Senior Leadership when they learn of potentially unlawful or unethical behavior as noted in the Mattermost Code of Conduct and the Mattermost Code of Conduct Supplement linked above. Your first line of contact should be your manager or Human Resources. If they are unavailable, or if you’re not comfortable, you can contact the
 Legal Department, or Senior Leadership. Alternatively, staff may use the [Mattermost Anonymous Tip Form](https://docs.google.com/forms/d/e/1FAIpQLSeK_OCeEaYKZCjAV4WjDvKbHOwbWYDIWgtZxzkQGnXhBVyjSQ/viewform). 
 
 For questions, please reach out via these channels: 
 * [Ask the People Team Channel](https://community.mattermost.com/private-core/channels/ask-people-team) - use this channel for non-confidential questions 
-* Legal@mattermost.com - email this alias for confidential questions 
+* legal@mattermost.com - email this alias for confidential questions 
 
 ## Labor notices 
 
