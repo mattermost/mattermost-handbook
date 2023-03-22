@@ -2,7 +2,7 @@
 
 This document outlines the Playbooks release process for the Mattermost core team. Our release process draws from many best practice Agile, Scrum, and Software Development Lifecycle methodologies.
 
-Every two weeks, the team runs through a playbook to cut a new release of the plugin, smoke test it, and add it to the marketplace. That gets pushed to cloud immediately \(via split.io\), and any self-managed customers who desire the upgrade may do so from the plugin marketplace.
+Every month, the team runs through a playbook to cut a new release of the plugin, smoke test it, and add it to the marketplace. That gets pushed to cloud immediately \(via split.io\), and any self-managed customers who desire the upgrade may do so from the plugin marketplace.
 
 ## Release Timeline
 
@@ -39,4 +39,4 @@ On the first Monday of each month, or the next business day, the Playbooks team'
   * Swag
 * Release dates communicated in Incident Response google calendar
 * Release retrospective
-* **TBD: Security updates communication**
+* TBD: Security updates communication
