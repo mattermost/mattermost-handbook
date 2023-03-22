@@ -12,7 +12,7 @@ Note: T-minus counts are measured in "working days" \(weekdays, Monday through F
  - Feature Complete deadline is approximately 1 month prior to the release day.
     - When we merge master into the cloud branch for the last Cloud release of the month, this is the cut-off for new features included in the next self-managed release.
     - If a feature misses the cut-off, it doesn’t get added to the next self-managed release.
- - Cut release branch based off the last Cloud release of the month (around T-14).
+ - Cut release branch based off the last Cloud release of the month and cut RC-1 (around T-14).
  - Code Freeze at T-5.
     - Prepackaged plugins should be ready on or before this date.
  - Cut Final build at T-2.
