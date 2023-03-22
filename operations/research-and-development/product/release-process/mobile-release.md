@@ -12,7 +12,7 @@ Note: T-minus counts are measured in "working days" \(weekdays, Monday through F
 
 **Schedule for Mobile App releases**:
  - Feature Complete deadline is approximately 1 month prior to the release day.
- - Cut release branch based off `main` (around T-14).
+ - Cut release branch based off `main` and cut beta builds (around T-14).
  - Code Freeze at T-5.
  - Cut Final build at T-2.
     - QA approval should be ready by T-2.
