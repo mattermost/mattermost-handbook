@@ -6,57 +6,28 @@ description: >-
 
 # How to reimburse the company
 
-The purpose of this policy is to provide guidance to staff members who have spent company money for personal expenses and need to reimburse Mattermost. This policy discusses the steps to completing and submitting a report via Expensify and making payment to Mattermost. As noted in principle 8 of [How to spend company money](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money), all refunds are due and payable within 14 days from the date of expense.
+The purpose of this policy is to provide guidance to staff members who have spent company money for personal expenses and need to reimburse Mattermost. As noted in principle 8 of [How to spend company money](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money), all refunds are due and payable within 14 days from the date of expense.
 
 ## Who does this impact?
 
-* Any staff member with a company credit card
+* Any staff member with a company credit card (AMEX or Airbase virtual card)
 * Any staff member using United Airlines Pass Plus for personal and not for a business reason
+* Any staff member who repurposed business travel that was originally reimbursed to them by the company for personal use
+* Any staff member who canceled business travel that was originally reimbursed to them by the company and received a refund
 
-## How to create a report in Expensify to refund Mattermost
+## How to report a reimbursement back to the company?
 
-In order to reimburse Mattermost for company money spent on personal expenses, you will need to submit an expense report in Expensify. The steps below will guide you to successfully documenting and paying Mattermost timely.
+Please email Expenses@mattermost.com the following information:
 
-* **Step 1**: Log into your Expensify account
-* **Step 2**: Choose Reports → New Reports
+Subject Line: Staff Reimbursement to Company
 
-![](../../../.gitbook/assets/0.png)
-
-* **Step 3**: Click on “+” to add new expense
-
-![](../../../.gitbook/assets/1.png)
-
-* **Step 4**: Click on “New Expense” on the top left corner of the window and complete the expense form. Please remember to add a receipt or supporting document to the expense report.
-
-![](../../../.gitbook/assets/2.png)
-
-* **Step 5**: In the Total section, input amount owed to Mattermost as a negative amount and uncheck the Reimbursable radio button.
-
-![](../../../.gitbook/assets/3.png)
-
-* **Step 6**: Click “Save”. Expense report should look similar to the screenshot below:
-
-![](https://lh4.googleusercontent.com/7tk7XR77m_OwpIbFpmUaKeR_7QvPWgwBh9YDnd1Nwa5S9qFw4PjIQ1UfhJQ_AWbV29ABcC_muDkdVbWLafOKe0G5K0PI2I9nhxsDhmswkk_DM7OpCtLD4EXR-sLI7AFuC1mXLbHj)
-
-* **Step 7**: Click “Submit” in the top left corner.
+* Reason for payment to the Company
+* Type of spend (example, airfare, lodging, rideshare, etc.)
+* Amount to be sent to the Company
+* Attach receipt, confirmation of refund or other supporting document
 
 ## How to make a payment to Mattermost
 
-Once you have completed your report, please use the [Bank Payment Information](https://drive.google.com/file/d/1k2iiBMpnrspkUCezfngck7Vxd7n2NUd4/view?usp=sharing) to refund the company. We currently offer two payment options: ACH/Wire or Check
+Once you have sent your email to Expenses, please use the [Bank Payment Information](https://drive.google.com/drive/u/0/folders/1QPBga8kEMhZ6R0ObHQojwhONmn45A4SS) to refund the company. We currently offer two payment options: ACH or Wire 
 
-### Wire/ACH/Funds Transfer
-
-If you elect to reimburse via Wire/ACH, you are responsible for the Payer and Payee fees, if any. In other words, the cash refund received should not be net of fees. In the description field, please indicate the 8 digit Expensify Report Number\(s\) so that Finance may properly apply the payment to the report upon receipt.
-
-### Check
-
-Make checks payable to Mattermost, Inc. and in the memo field indicate the 8 digit Expensify Report Number\(s\) so that Finance may properly apply the payment to the report upon receipt. Checks should be mailed to the address listed below:
-
-```text
-          **Mattermost, Inc.**
-
-          **Dept LA 25181**
-
-          **Pasadena, CA 91185-5181**
-```
-
+For any questions, please reach out to Expenses@mattermost.com
