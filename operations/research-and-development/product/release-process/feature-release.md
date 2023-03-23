@@ -16,5 +16,5 @@ Note: T-minus counts are measured in "working days" \(weekdays, Monday through F
  - Code Freeze at T-5.
     - Prepackaged plugins should be ready on or before this date.
  - Cut Final build at T-2.
-    - QA approval should be ready by T-2.
+    - [QA approval](https://community.mattermost.com/playbooks/playbooks/8dx9zrs16bbg8eg1hdhw35zdua) should be ready by T-2.
  - Release Day at T-0.
