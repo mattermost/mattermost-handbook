@@ -696,3 +696,17 @@ Note that, longer term, it would be ideal to replace the current badge implement
 ## Using Markdown
 
 The majority of Mattermost technical documentation is written in `.rst` format. However, there are some instances where Markdown is used, for example the Mattermost Handbook. You can read more about using Markdown in the [Formatting Text](https://docs.mattermost.com/messaging/formatting-text.html) section of the Mattermost product documentation.
+
+## Manage and resolve merge conflicts
+
+Mattermost hosts the source code and content of its technical documentation in GitHub repositories. Documentation is updated by submitting pull requests on GitHub. After a pull request is reviewed and approved, it is usually merged into the master branch without further changes. Sometimes, however, conflicts between the files being updated and the master branch must be resolved.
+
+GitHub flags conflicting regions of a file with these characters: `<<<<<<<`, `=======`, and `>>>>>>>`. The block of text between `<<<<<<<` and `=======` is the content that the pull request is attempting to merge. The block of text between `=======` and `>>>>>>>` is the block of text from the master branch that conflicts with the content in the pull request. Resolving a conflict may require removing content that has been updated in the pull request, or manually integrating text from the pull request. **The flag characters must also be removed.**
+
+After resolving the conflicts in a given file, mark it as resolved in GitHub. All conflicts must be resolved for the merge to proceed.
+
+The image below shows a section of a file with a merge conflict:
+
+[](https://user-images.githubusercontent.com/74422101/211895979-255e4988-82de-40e9-97dd-5da97b1d98c9.png)
+
+The lines between `<<<<<<< issue-5951-authentication-oauth-ms` and `=======` are from the pull request. The lines between `=======` and `>>>>>>> master` are from the master branch. In this case, metadata had been added to the same region of the file that was edited in the pull request. In order to resolve the conflict, the text from the pull request and the metadata were kept, while part of the text from the master branch was removed.
