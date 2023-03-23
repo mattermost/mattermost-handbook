@@ -17,5 +17,5 @@ Note: T-minus counts are measured in "working days" (weekdays other than major h
  - Cut release branch based off `master` and cut RC-1 (around T-14).
  - Code Freeze at T-5.
  - Cut Final build at T-2.
-    - QA approval should be ready by T-2.
+    - [QA approval](https://community.mattermost.com/playbooks/playbooks/h798dt39mpbymb8z5uoiuf4hdo/outline) should be ready by T-2.
  - Release Day at T-0.
