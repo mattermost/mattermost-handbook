@@ -701,7 +701,7 @@ The majority of Mattermost technical documentation is written in `.rst` format. 
 
 Mattermost hosts the source code and content of its technical documentation in GitHub repositories. Documentation is updated by submitting pull requests on GitHub. After a pull request is reviewed and approved, it is usually merged into the master branch without further changes. Sometimes, however, conflicts between the files being updated and the master branch must be resolved.
 
-Git flags conflicting regions of a file with these characters: `<<<<<<<`, `=======`, and `>>>>>>>`. The block of text between `<<<<<<<` and `=======` is the content that the pull request is attempting to merge. The block of text between `=======` and `>>>>>>>` is the block of text from the master branch that conflicts with the content in the pull request. Resolving a conflict may require removing content that has been updated in the pull request, or manually integrating text from the pull request. *The flag characters must also be removed.*
+GitHub flags conflicting regions of a file with these characters: `<<<<<<<`, `=======`, and `>>>>>>>`. The block of text between `<<<<<<<` and `=======` is the content that the pull request is attempting to merge. The block of text between `=======` and `>>>>>>>` is the block of text from the master branch that conflicts with the content in the pull request. Resolving a conflict may require removing content that has been updated in the pull request, or manually integrating text from the pull request. **The flag characters must also be removed.**
 
 After resolving the conflicts in a given file, it should be marked as resolved in GitHub. All conflicts must be resolved for the merge to proceed.
 
