@@ -14,7 +14,7 @@ Note: T-minus counts are measured in "working days" \(weekdays other than major 
     - Run Rainforest release test run groups, Cypress automated tests and product high level release smoke tests (i.e. Boards, Calls, Channels, Integration Frameworks, Playbooks and Suite Users). Close or label tickets for the release. Test failure reviews and bug fixing.
  - T-3 (Monday)
     - Each QA signs off as appropriate, using the [QA Approval playbook](https://community.mattermost.com/playbooks/playbooks/qeay15ou6frsmnu6tpmup9mxbc) run for that release.
-    - QA approval should be given by 5pm Eastern on Monday so that the release rollout can be started early Tuesday morning. 
+    - QA approval should be given latest by 5pm Eastern on Monday so that the release rollout can be started early Tuesday morning. 
     - If QA approval is not ready by EOD Monday due to a testing delay or due to a last minute high priority bug fix, then we miss the release train.
     - If the release train was missed, we need to do a retrospective on why it happened - e.g. are adjustments needed to the QA release testing process, or was there a reason why the last minute bug fix happened.
  - T-2 (Tuesday)
