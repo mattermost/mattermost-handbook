@@ -83,8 +83,6 @@
       * [Feature release process](operations/research-and-development/product/release-process/feature-release.md)
       * [Cloud release process](operations/research-and-development/product/release-process/cloud-release.md)
       * [Dot release process](operations/research-and-development/product/release-process/dot-release.md)
-      * [Playbooks release process](operations/research-and-development/product/release-process/playbooks-release.md)
-      * [Boards release process](operations/research-and-development/product/release-process/boards-release.md)
       * [Security release process](operations/research-and-development/product/release-process/security-release.md)
       * [Mobile app release process](operations/research-and-development/product/release-process/mobile-release.md)
       * [Desktop app release process](operations/research-and-development/product/release-process/desktop-release.md)
