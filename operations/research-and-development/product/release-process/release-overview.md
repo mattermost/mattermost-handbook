@@ -32,14 +32,7 @@ The goal is to deliver value to users quickly by a\) shipping fast to get featur
 
 ## Multi-product Release Principles
 
-The goal is not to have the same release cadence for all products, but there may be similar schedules. E.g. Playbooks and Boards plugins are pre-packed once a month with the self-managed releases, however, admins will have a config option to turn off products. We can duplicate/reuse a similar build process for new plugins in the suite.
-
-**Release Owners**
-
-* Channels: Amy Blais
-* Boards: Boards dev lead
-* Playbooks: Playbooks QA/dev rotation
-* Calls: Calls dev rotation
+The goal is not to have the same release cadence for all products, but there may be similar schedules. We can duplicate/reuse a similar build process for new plugins in the suite.
 
 1. **Focus on High Impact by shipping every new feature and any riskier code changes behind a feature flag.**
    * Enables us to iterate in Cloud to deliver value to self-managed users more quickly by shipping changes faster. 
@@ -65,9 +58,8 @@ The goal is not to have the same release cadence for all products, but there may
    * Retrospectives for issues and dot releases are important.
    * Monitor community and customer reports in GitHub, Forum, Zendesk, and channels like Ask R&D, in partnership with the Support team.
 
-## Multi-product Release Processes
+## Plugin Release Processes
  - The sample [Plugin Release Playbook](https://community.mattermost.com/playbooks/playbooks/f4oh16ardfbyfgkas1cb6intmw/outline) helps give an overview of needed steps for plugin releases.
- - Please also refer to the [Playbooks release documentation](https://handbook.mattermost.com/operations/research-and-development/product/release-process/playbooks-release) and [Boards release documentation](https://handbook.mattermost.com/operations/research-and-development/product/release-process/boards-release).
 
 ## Overview of Release Cycles
 
