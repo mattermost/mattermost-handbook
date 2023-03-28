@@ -108,7 +108,7 @@ For P0 bugs (eg. bugs that affect more than 25% of our customers with system deg
 Release dates are currently communicated in the following ways.
 
 1. Channels
-   * The [Release Announcements channel](https://community.mattermost.com/core/channels/release-announcements) functions as the main location for important announces about Cloud test server updates, and for release dates and feature complete deadlines. Specific teams or people may be at-mentioned if the announce is targeted to someone.
+   * The [Release Announcements channel](https://community.mattermost.com/core/channels/release-announcements) functions as the main location for important announces about Cloud test server updates, and for release dates and feature complete deadlines. Specific teams or people may be at-mentioned if the announce is targeted at someone.
    * The [Announcements channel](https://community.mattermost.com/private-core/channels/announcements) functions as the central place to find the most important announcements for new releases with links to blog posts that can be easily shared with external stakeholders including MLT and customers.
 2. Mattermost Release Dates Calendar
    * Lists key release dates and deadlines.
