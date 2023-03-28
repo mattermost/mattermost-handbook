@@ -28,7 +28,7 @@ Mattermost numbers stable releases in the following format: **\[Version Number\]
 
 ## Objectives
 
-The goal is to deliver value to users quickly by a\) shipping fast to get features to customers quickly for experimentation/feedback, and b\) iteratively behind feature flags as a protection if any issues arise. This document outlines the principles and guidelines for how we release a new update of each product line biweekly to Cloud and monthly to self-managed.
+The goal is to deliver value to users quickly by a\) shipping fast to get features to customers quickly for experimentation/feedback, and b\) iteratively behind feature flags as a protection if any issues arise. This document outlines the principles and guidelines for how we release a new update of each product line bi-weekly to Cloud and monthly to self-managed.
 
 ## Multi-product Release Principles
 
@@ -63,7 +63,7 @@ The goal is not to have the same release cadence for all products, but there may
 
 ## Overview of Release Cycles
 
-Currently Mattermost Cloud releases occur on a biweekly cycle, but the goal is to release more frequently. Cloud and self-managed PRs may need to be cherry-picked to the release branches, such as regression bug fixes and hotfixes that get merged after the release branch has already been cut.
+Currently Mattermost Cloud releases occur on a bi-weekly cycle, but the goal is to release more frequently. Cloud and self-managed PRs may need to be cherry-picked to the release branches, such as regression bug fixes and hotfixes that get merged after the release branch has already been cut.
 
 We follow [the Agile Release Train method](https://www.scaledagileframework.com/agile-release-train/) at least for Cloud releases. If releases are not approved by a certain date, then we miss the release train.
 
@@ -121,7 +121,7 @@ Release dates are currently communicated in the following ways.
 
 **Understanding the cadence**
 
-* The Mattermost Cloud releases follow a biweekly cycle and the release day is normally on Thursdays. Feature Complete deadline for each Mattermost Cloud release is on Wednesdays 14 days prior to the Cloud release day.
+* The Mattermost Cloud releases follow a bi-weekly cycle and the release day is normally on Thursdays. Feature Complete deadline for each Mattermost Cloud release is on Wednesdays 14 days prior to the Cloud release day.
 * The Mobile App release cadence is monthly on the 16th of every month.
 * Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next self-managed release. The release branch for a self-managed release (e.g. `release-7.5`) will be cut once the Mattermost Cloud release that will be used for the next self-managed release has been shipped.
 * This cadence is subject to change in the future and any changes will be documented and announced.
@@ -134,7 +134,7 @@ Details on feature flags: [https://developers.mattermost.com/contribute/server/f
 
 **Process for merging the `master` branch into the `cloud` branch**
 
-* For server, api-reference, and enterprise cloud branches, the `master` branch is merged into the `cloud` branch. A backup of the `cloud` branches are saved. This is done biweekly on a Thursday by the Release Manager via an automated process. See [this document](https://docs.google.com/document/d/1i3k322KATm76AX2k-tL8lDsjIqI-E2tl4hCx1KcXV8A/edit#heading=h.3gq28x60gnor) for more details on the process.
+* For server, api-reference, and enterprise cloud branches, the `master` branch is merged into the `cloud` branch. A backup of the `cloud` branches are saved. This is done bi-weekly on a Thursday by the Release Manager via an automated process. See [this document](https://docs.google.com/document/d/1i3k322KATm76AX2k-tL8lDsjIqI-E2tl4hCx1KcXV8A/edit#heading=h.3gq28x60gnor) for more details on the process.
 * Devs and Release Manager should be aware of the dates when a `master` branch is merged into a `cloud` branch in order to be mindful of avoiding having incomplete features in a Cloud release, and to include bug fixes that we may want to include in a release.
 
 **Process for cutting the release branch for Self-Managed releases based off of Cloud releases**
