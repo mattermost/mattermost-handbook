@@ -11,9 +11,13 @@ Please refer to [the Mobile Release Playbook](https://community.mattermost.com/p
 Note: T-minus counts are measured in "working days" \(weekdays, Monday through Friday, excluding [the listed statutory holidays](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#holidays)\) prior to release day.
 
 **Schedule for Mobile App releases**:
- - Around T-14, cut release branch based off `main` and cut RC builds based off the release branch. Release testing begins. This is also the Feature Complete deadline.
- - Code Freeze at T-5. 
+ - Around T-14:
+    - This is the Feature Complete deadline for the release.
+    - Cut the release branch based off the `main` branch.
+    - Cut RC builds based off the release branch for QA release testing. Release testing begins.
+ - Code Freeze at T-5
     - Cut another RC build based off the release branch.
- - Cut Final build at T-2.
+    - Note: More frequent RC builds may be requested by the QA team and the Release Manager as we get closer to the release date and as more regression fixes get merged.
+ - Cut Final build at T-2
     - [QA approval](https://community.mattermost.com/playbooks/playbooks/8dx9zrs16bbg8eg1hdhw35zdua) should be ready by T-2.
- - Release Day at T-0.
+ - Release Day at T-0
