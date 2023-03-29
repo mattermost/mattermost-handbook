@@ -130,7 +130,7 @@ Every code change added has an initial and on-going mana cost in technical debt,
 
 ### MLT
 
-The “Mattermost Leadership Team”, senior leadership team and department heads working with the CEO in [MLT meetings and offsites](../../operations/operations/mlt-cadence/).
+Mutton, lettuce and tomato.
 
 ### Nerfs and Buffs
 
