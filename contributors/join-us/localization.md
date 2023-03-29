@@ -207,3 +207,49 @@ To add a new WIP language:
 2. Select a component on the resulting page, then select **Tools > Start new translation**. 
 3. Select the languages you want to add, then **Start new translation**.
 4. Repeat step 2 for every component within the [https://translate.mattermost.com/projects/i18n-wip](https://translate.mattermost.com/projects/i18n-wip) project.
+
+## Setting up new translations on Weblate
+
+### Step 0 - Permissions
+
+Register an account and get admin permissions to the [Weblate server](https://translate.mattermost.com/).
+
+### Step 1 -  Create a new Project (optional)
+
+This step makes since if the project has its own repository (e.g. Calls) or if it's helpful to have a separate translation entry point. Other option is to simply skip this step and to add a new component to an existing project.
+
+**Note**
+
+Make sure to enable reviews for the project. Go to project settings, workflow tab and select enable reviews:
+
+![image](https://user-images.githubusercontent.com/1832946/227036224-cb42bbd5-f101-4d42-b18d-fe5d8f3f44c4.png)
+
+### Step 2 Add component(s)
+
+Add a new component under the project
+
+![image](https://user-images.githubusercontent.com/1832946/227037904-2165a769-0d6d-4b4e-8b6e-2260c2061d60.png)
+
+Base configuration should be like the following:
+
+- *Version control system* should be set to *Github pull request*
+- *Source code repository* should be set to the GitHub repository where the translation files are stored
+- *Repository branch* should be set to the primary branch where translations should get merged into (usually either `master` or `main`).
+
+Upon clicking on continue, Weblate will attempt to scan the repository to find any existing translation files paths. You can now select the one you'd like to cover with this component.
+
+Uncheck *Edit base file* as it will prevent contributors from modifying the default language file and prevent potential conflicts.
+
+![image](https://user-images.githubusercontent.com/1832946/227040250-2dec9c1e-da44-41b4-ae12-2ebe3f85681d.png)
+
+Set *Translation flags* to `ignore-inconsistent, ignore-same, icu-message-format`
+
+![image](https://user-images.githubusercontent.com/1832946/227045392-ca3640bd-d0c1-48d2-86ee-657b40e068b2.png)
+
+### Step 3 - Repository hooks
+
+Repository hooks (usually GitHub hooks) are needed to keep the translation files on Weblate in sync with the ones commited to the project repository. 
+
+![image](https://user-images.githubusercontent.com/1832946/227048773-db198f4b-4f73-4e20-a89c-a1b8492bf0df.png)
+
+You can create a ticket for the Release team if you need Admin permissions on the repository.
