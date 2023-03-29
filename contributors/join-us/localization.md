@@ -218,7 +218,7 @@ Register an account and request admin permissions to the [Weblate server](https:
 
 This step makes sense when the project has its own repository (e.g. Calls) or if it's helpful to have a separate translation entry point. Another option is to simply skip this step, and add a new component to an existing project.
 
-**Note** Make sure to enable reviews for the project. In Weblate, go to **Project Settings**, select the **Workflow** tab, and select **Enable Reviews**:
+**Note:** Make sure to enable reviews for the project. In Weblate, go to **Project Settings**, select the **Workflow** tab, and select **Enable Reviews**:
 
 ![image](https://user-images.githubusercontent.com/1832946/227036224-cb42bbd5-f101-4d42-b18d-fe5d8f3f44c4.png)
 
