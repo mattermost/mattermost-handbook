@@ -140,7 +140,7 @@ We want to enable staff to do the best work of their careers at Mattermost. In a
 
 **Additional employee benefits**
 
-Mattermost uses professional employment organizations and are able to offer additional benefits to employees based in: [US](https://docs.mattermost.com/process/benefits-us.html), [Canada](https://docs.mattermost.com/process/benefits-canada.html), UK, Germany, and India \(to be updated\).
+Mattermost uses professional employment organizations and are able to offer additional benefits to employees based in: [US](https://docs.mattermost.com/process/benefits-us.html), [Canada](https://docs.mattermost.com/process/benefits-canada.html), UK, and Germany \(to be updated\).
 
 #### Frequently Asked Questions
 
@@ -155,7 +155,7 @@ Mattermost staff and Community members are eligible to receive a $3,000 USD refe
 #### How to refer a candidate
 
 * Log in to [Lever](https://hire.lever.co/candidates), our Applicant Tracking System, using your Mattermost email address. Select the **Interviews** tab and then **+ Refer Candidate**.
-* You can also send the referral's resume to our Technical Recruiting Manager, Teresa Novoa \(teresa@mattermost.com\) or careers@mattermost.com.
+* You can also send the referral's resume to hr@mattermost.com.
 
 #### Referral criteria
 
