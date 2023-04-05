@@ -112,8 +112,6 @@
       * [Technical Writer levels](operations/research-and-development/product/technical-writing-team-handbook/writer-levels.md)
       * [Docathon 2021](operations/research-and-development/product/technical-writing-team-handbook/docathon-2021/README.md)
         * [Getting started with contributing](operations/research-and-development/product/technical-writing-team-handbook/docathon-2021/docathon-processes.md)
-      * [Using Markdown](operations/research-and-development/product/technical-writing-team-handbook/using-markdown.md)
-      * [Using reStructuredText markup](/operations/research-and-development/product/technical-writing-team-handbook/using-restructured-text.md)
     * [Growth](operations/research-and-development/product/growth/README.md)
       * [A/B testing methodology](operations/research-and-development/product/growth/ab-testing.md)
       * [PQL definition](operations/research-and-development/product/growth/pql.md)
