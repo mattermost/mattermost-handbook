@@ -1,10 +1,8 @@
 # Documentation style guide
 
-Mattermost documentation is presented in various forms. We have product documentation, a Handbook, API guides, developer documentation, in-product copy, and microcopy.
+Mattermost documentation is presented in various forms. We have product documentation, a Handbook, API guides, developer documentation, in-product copy, and microcopy. 
 
 The contents of this document can be applied to our product documentation, Handbook, developer documentation, and API guides. In-product copy and microcopy are covered in a separate guide.
-
-One of our ongoing initiatives is to ensure our documentation is written in natural, clear language. We also focus on empathy and ensuring that we set our readers up for success. 
 
 For details about how we write UI text, naming conventions for CTAs, and writing with empathy, take a look at the [User Interface Text Guidelines](operations/research-and-development/product/technical-writing-team-handbook/user-interface-text-guidelines.md).
 
@@ -18,7 +16,9 @@ When you revise a document, apply the style guide rules to the part that you cha
 
 ## General principles
 
-* **Always think about the audience that will be reading your writing.** We typically communicate with a technical audience and want to present Mattermost as being a friend of the practitioner in development, IT, and operations. It must be accurate and clear, and easy to navigate. 
+One of our ongoing initiatives is to ensure our documentation is written in natural, clear language. We also focus on empathy and ensuring that we set our readers up for success. 
+
+* **Always think about the audience that will be reading your writing.** We typically communicate with a technical audience and want to present Mattermost as being a friend of the practitioner in development, IT, and operations. Documentation must be accurate and clear, and easy to navigate. 
 * **The document structure should be consistent, as should the left-hand navigation sections.** For example, each of our tools' documentation includes a Getting Started section, an Overview section, and the section names are the same. This is as much for us as it is for our audience - consistency makes it easy for contributors to help us with content, and helps provide context and familiarity to readers.
 * **Write in the context of achievement.** The documentation should help Mattermost users and administrators achieve their goals. Write imperative sentences as much as possible. Imperative sentences begin with verbs and give instructions, information, and advice to help people install, administer, and use Mattermost with success. Use positive constructs as much as possible, but note that a negative construct can act as a warning that causes a reader to pay closer attention to the content, resulting in higher levels of accomplishment.
 * **Write to facilitate scanning.** Readers need to find information quickly. People don't read documentation as much as they scan it for solutions to their immediate problem. Writing and presentation styles that seem redundant in essays or other texts are often helpful to people scanning for information.
@@ -65,10 +65,6 @@ Preferred
 
 [Helpful overview](https://www.grammarbook.com/numbers/numbers.asp):
 
-"In terms of numbering, policies and philosophies vary from medium to medium. America's two most influential style and usage guides have different approaches: The Associated Press Stylebook recommends spelling out the numbers zero through nine and using numerals thereafter—until one million is reached. Here are four examples of how to write numbers above 999,999 in AP style: 1 million; 20 million; 20,040,086; 2.7 trillion.
-
-The Chicago Manual of Style recommends spelling out the numbers zero through one hundred and using figures thereafter — except for whole numbers used in combination with hundred, thousand, hundred thousand, million, billion, and beyond (e.g., two hundred; twenty-eight thousand; three hundred thousand; one million). In Chicago style we would write four hundred, eight thousand, and twenty million with no numerals. Chicago style would require numerals for 401; 8,012; and 20,040,086."
-
 ### Commas
 
 We use the Oxford \(serial\) comma in our documentation.
@@ -93,7 +89,7 @@ Instead of *"Deployment guide for organizations"* we write *"Deployment guide fo
 
 We use sentence case for section titles and headings. Each section should have a heading, and the heading should relate to the content of the section. A section heading is not required if you have only one section.
 
-A section title is usually called H2, H3, H4, etc. Section headings are usually not clickable, but instead have formatting like bold or italics. Section titles are denoted by `#` in Markdown, with the number of #s indicating what level of heading is being used (i.e., `##` for H2, `###`for H3 etc). In reStructuredText the heading rules are slightly more complicated in terms of formatting, as we use Sphinx to process our documentation. You can read more about this in the [using reStructuredText markup](using-restructuredtext-markup-rst) section.
+A section title is usually called H2, H3, H4, etc. Section headings are usually not clickable, but instead have formatting like bold or italics. Section titles are denoted by `#` in Markdown, with the number of #s indicating what level of heading is being used (i.e., `##` for H2, `###`for H3 etc). In reStructuredText the heading rules are slightly more complicated in terms of formatting, as we use Sphinx to process our documentation. You can read more about this in the [using reStructuredText markup](/operations/research-and-development/product/technical-writing-team-handbook/using-restructured-text.md) guide.
 
 **Use sentence case for the section heading \(e.g. "This section is about types of headings"\) except where a word/phrase is a proper noun \(e.g. "Mattermost"\), the name of a country/region \(e.g. "The United States of America"\), and so on.**
 
@@ -146,7 +142,7 @@ Throughout Mattermost documentation, you’ll see the below terms mentioned and 
   <tbody>
     <tr>
       <td style="text-align:left">Mattermost</td>
-      <td style="text-align:left">Used to refer to <a href="https://mattermost.com/about-us/">Mattermost</a> the
+      <td style="text-align:left">Refers to <a href="https://mattermost.com/about-us/">Mattermost</a> the
         company and <a href="https://mattermost.com/product/">Mattermost</a> the
         product.</td>
       <td style="text-align:left">
@@ -164,20 +160,20 @@ Throughout Mattermost documentation, you’ll see the below terms mentioned and 
     </tr>
     <tr>
       <td style="text-align:left">deployment</td>
-      <td style="text-align:left">Used to refer to making a new installation widely accessible. It can also
+      <td style="text-align:left">Refers to making a new installation widely accessible. It can also
         refer to releasing an updated version, patch, etc.</td>
       <td style="text-align:left">Desktop App deployment guide</td>
     </tr>
     <tr>
       <td style="text-align:left">configuration</td>
-      <td style="text-align:left">Used to describe the settings and customizations applied to Mattermost
+      <td style="text-align:left">Describes the settings and customizations applied to Mattermost
         to change the appearance and behavior.</td>
       <td style="text-align:left">Edit the configuration file to include any custom settings related to
         your domain</td>
     </tr>
     <tr>
       <td style="text-align:left">Mattermost Server</td>
-      <td style="text-align:left">Used to refer to the single Linux binary that is installed on the physical
+      <td style="text-align:left">Refers to the single Linux binary that is installed on the physical
         server which hosts your Mattermost installation. It is not used to refer
         to the product going beyond the binary name. Always capitalize the &quot;Server&quot;
         when referring to the name of the binary.</td>
@@ -185,7 +181,7 @@ Throughout Mattermost documentation, you’ll see the below terms mentioned and 
     </tr>
     <tr>
       <td style="text-align:left">Mattermost server</td>
-      <td style="text-align:left">Used to refer to the physical server on which you run Mattermost. It is
+      <td style="text-align:left">Refers to the physical server on which you run Mattermost. It is
         also referred to as the customer&#x2019;s Mattermost server. Always lowercase
         &quot;server&quot; when referring to the customer&#x2019;s physical Mattermost
         server</td>
@@ -193,32 +189,32 @@ Throughout Mattermost documentation, you’ll see the below terms mentioned and 
     </tr>
     <tr>
       <td style="text-align:left">Web App</td>
-      <td style="text-align:left">Used to refer to the Mattermost Web Application. References to general
+      <td style="text-align:left">Refers to the Mattermost Web Application. References to general
         web applications are not capitalized.</td>
       <td style="text-align:left">Mattermost Web App</td>
     </tr>
     <tr>
       <td style="text-align:left">Mobile App</td>
-      <td style="text-align:left">Used to refer to the Mattermost Mobile Application. References to general
+      <td style="text-align:left">Refers to the Mattermost Mobile Application. References to general
         mobile applications are not capitalized.</td>
       <td style="text-align:left">Mattermost Mobile App</td>
     </tr>
     <tr>
       <td style="text-align:left">Desktop App</td>
-      <td style="text-align:left">Used to refer to the Mattermost Desktop Application. References to general
+      <td style="text-align:left">Refers to the Mattermost Desktop Application. References to general
         desktop applications are not capitalized.</td>
       <td style="text-align:left">Mattermost Desktop App</td>
     </tr>
     <tr>
       <td style="text-align:left">public channel</td>
-      <td style="text-align:left">Used to refer to channels available to all members to discover and join.
+      <td style="text-align:left">Refers to channels available to all members to discover and join.
         Written in lowercase and not hyphenated.</td>
       <td
       style="text-align:left">Outgoing webhooks are supported in public channels only</td>
     </tr>
     <tr>
       <td style="text-align:left">private channel</td>
-      <td style="text-align:left">Used to refer to channels managed by synchronized groups. Written in lowercase and not hyphenated.</td>
+      <td style="text-align:left">Refers to channels managed by synchronized groups. Written in lowercase and not hyphenated.</td>
       <td style="text-align:left">Users can remove themselves from teams and private channels managed by
         synchronized groups</td>
     </tr>
@@ -237,7 +233,7 @@ Throughout Mattermost documentation, you’ll see the below terms mentioned and 
     </tr>
     <tr>
       <td style="text-align:left">device</td>
-      <td style="text-align:left">Used to refer to collectively to all types of computers, phones, and other
+      <td style="text-align:left">Refers to all types of computers, phones, and other
         devices.</td>
       <td style="text-align:left">Speak with the owner of any other proxies between your device and the
         Mattermost server</td>
