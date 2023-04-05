@@ -2,7 +2,9 @@
 
 This page summarizes where to find legal resources for Mattermost staff.
 
-For legal resources by "Area of Responsibility" please see [Mattermost Legal AORs](https://docs.google.com/document/d/14KzrhszTlaibtM4APezTS8CFb1vaHxRsnkV9ZFef-Uc/edit). which includes the name and contact information of legal specialists by area.
+For legal resources by "Area of Responsibility" please see [Mattermost Legal AORs](https://docs.google.com/document/d/17ILLErliJoTxYRnh04yfCGlsQ15rhkYEki3KIJO-gdE/edit) which includes the name and contact information of legal specialists by area.
+
+**Important Note**: Please keep legal@mattermost.com copied on all correspondence. To connect with a law firm resource, please first ask VP Legal or amy.nicol@mattermost.com 
 
 When you have legal questions that aren't covered in the AORs, please mail legalquestions@mattermost.com.
 
