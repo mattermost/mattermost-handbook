@@ -250,4 +250,4 @@ Repository hooks (usually GitHub hooks) are needed to keep the translation files
 
 ![image](https://user-images.githubusercontent.com/1832946/227048773-db198f4b-4f73-4e20-a89c-a1b8492bf0df.png)
 
-You can create a ticket for the Release team if you need Admin permissions on the repository.
+You can create a ticket for the Release team to request enabling the hooks.
