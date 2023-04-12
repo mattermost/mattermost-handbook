@@ -29,7 +29,7 @@ MVP-like contributors:
 
 ## What types of contributions aren't eligible?
 
-- Code changes to features that Mattermost charges money to use. This includes features available only to Professional or Enterprise customers that aren't open-sourced, and code within the /enterprise GitHub repository where the majority of paid Enterprise features are maintained.
+- Code changes to features that Mattermost charges money to use. This includes features available only to Professional or Enterprise customers that aren't open-sourced, and code within the ``/enterprise`` GitHub repository where the majority of paid Enterprise features are maintained.
 - Mattermost product and development documentation contributions. Documentation isn’t currently eligible because of the range of effort complexity involved (from typo fixes to new content development) which doesn’t directly map to the [existing reimbursement structure](https://docs.google.com/document/d/1P88K3p-wDbV9nLZNkBnMk_SJvt90gzlRq3Pj0ZPBOZg/edit#).
 
 ## Process outline
