@@ -19,7 +19,7 @@ MVP-like contributors:
 
 ## Eligible contribution areas
 
-- Technical peer help on demand via public forums, including but not limited to: Mattermost Community Server, Mattermost User Forum, and Mattermost sub-Reddit forum.
+- Technical peer help on demand via public forums, including but not limited to: Mattermost Community server, Mattermost User Forum, and the Mattermost subreddit on Reddit.
 - Product localization via string translation (known also as l10n and i18n).
 - Lead monthly product localization delivery (cherry-pick L10N PRs, weekly community communication, data analytics/reporting, develop and deliver nurture campaigns to increase translation quality).
 - Product evangelism for technical communities.
