@@ -12,6 +12,30 @@ At Mattermost, we track feature requests in [Productboard](https://portal.produc
 
 The Product Management team uses the information from our customers and community help prioritize features for the roadmap.
 
+## Where to share feedback?
+
+The Mattermost Product team uses information from our customers and the open-source community to guide feature roadmap.
+
+We use two forums to connect with the user community - [Customer ProductBoard](https://portal.productboard.com/mattermost/33-what-matters-to-you/) and [Community Feature Proposal Forum](https://mattermost.uservoice.com/forums/306457-general). 
+
+### Customer ProductBoard
+
+Customer ProductBoard is a place for paying customers to connect directly with the product team on improvements most important to our ideal customer profile (ICP):
+https://portal.productboard.com/mattermost/33-what-matters-to-you/tabs/120-community-requested-features
+
+In this portal, customers can share how important an improvement is, share their use cases relevant to those improvements, and submit new ideas directly to the product team.
+
+Product Managers review the feedback weekly to guide product direction and feature roadmap development.
+
+### Community Feature Proposal Forum
+
+Community Feature Proposal Forum is a place for users in our free deployments to propose new feature ideas:
+https://mattermost.uservoice.com/forums/306457-general
+
+In this forum, community members can propose new features, share ideas for new improvements, and connect with other members in refining their proposed features.
+
+Community Manager reviews the feedback weekly to hear what matters to the most engaged users in free deployments. Key trends are also shared with the Product team.
+
 ## Filing great feature requests
 
 When filing a feature request, the most important thing to do is capture the "why" behind it. A great way to do this is by writing requests in the form of an "Experience Report". As described in the [golang wiki](https://github.com/golang/go/wiki/ExperienceReports):
