@@ -130,11 +130,13 @@ Alpha languages are listed in **Account Settings &gt; Display &gt; Language** ap
 
 ## Message syntax
 
-To format localized messages, [mattermost-webapp](https://github.com/mattermost/mattermost-webapp) uses the [react-intl](https://formatjs.io/docs/react-intl), a Javascript library from [FormatJS](https://formatjs.io). This library uses the [ICU Message syntax](http://userguide.icu-project.org/formatparse/messages), which is the standard syntax for many programming languages.
+[react-intl](https://formatjs.io/docs/react-intl) is used to format localized messages in React packages of [mattermost](https://github.com/mattermost/mattermost-server). This library uses the ICU MessageFormat syntax, which is a Unicode standard used in many programming languages.
 
-If you don't know about the ICU syntax, please familiarize yourself by reading the [ICU Message Syntax simplified documentation](https://formatjs.io/docs/core-concepts/icu-syntax/) and [Formatting Messages](https://unicode-org.github.io/icu/userguide/format_parse/messages/). What's most important here is to read the sections dedicated to how plural terms are managed.
+[ICU Message syntax guide](https://formatjs.io/docs/core-concepts/icu-syntax/) is a good resource to familiarize yourself with. What's most important here is to read the sections dedicated to Quoting/Escaping, and how placeholders are managed, including placeholder arguments such as `plural`, `select`, `number`, and so on.
 
-In order to ease the manipulation of strings like these with a special syntax \(ICU as a reminder\), a developer has created an online tool for testing ICU strings. This tool, called [Online ICU Message Editor](https://format-message.github.io/icu-message-format-for-translators/editor.html), is displayed as a live editor that previews how a string will appear in context. This tool has been reported by some members of our community as really helpful to translate strings containing an ICU syntax. Don't hesitate to use it.
+The [Mattermost translation server](http://translate.mattermost.com) will automatically check and validate translations in the editor. If there are any failing checks, you will want to review them to spot any potential typos or errors. These checks can be quite helpful in spotting subtle issues in long or more complex translation strings.
+
+Additionally, [Online ICU Message Editor](https://format-message.github.io/icu-message-format-for-translators/editor.html) is a good resource that supports live-editing. It's great for previewing how a string will appear in context, don't hesitate to use it.
 
 ## Resources for translating technical terms
 
