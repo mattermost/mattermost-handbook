@@ -176,7 +176,7 @@ The resulting Markdown code isn't perfect, but it's an excellent initial step to
 Below is a list of approved reviewers.
 
 1. @justinegeffen: Reviews major changes to handbook.mattermost.com, such as updates to the Table of Contents \(SUMMARY.md\).
-2. @justinegeffen, @amyblais, @cwarnermm: Editor reviews of all submitted PRs for correct grammar and consistent style.
+2. @justinegeffen, @cwarnermm: Editor reviews of all submitted PRs for correct grammar and consistent style.
 3. @kevinfayle: Signs off on changes to [marketing ops and analytics](https://handbook.mattermost.com/operations/messaging-and-math/demand-generation-reporting).
 4. @aedott: Signs off on changes to [messaging and math](https://handbook.mattermost.com/operations/messaging-and-math).
 5. @it33: Signs off on changes to [finance](https://handbook.mattermost.com/operations/finance).
