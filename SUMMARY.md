@@ -217,6 +217,7 @@
     * [Data deletion requests](operations/security/privacy/data-deletion-requests.md)
     * [Data subject access requests](operations/security/privacy/data-subject-access-requests.md)
   * [Product Security](operations/security/product-security/README.md)
+    * [Product Vulnerability Process](operations/security/product-security/product-vulnerability-process.md)
     * [Working on security-sensitive pull requests](operations/security/product-security/working-on-sensitive-prs.md)
     * [Secure Software Development guide](operations/research-and-development/product/development-process/secure-software-development.md)
   * [Security Operations](operations/security/security-operations/README.md)
