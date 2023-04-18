@@ -248,7 +248,7 @@ Set *Translation flags* to `ignore-inconsistent, ignore-same, icu-message-format
 
 ### Step 3 - Give translators access to your project
 
-Access for the shipped languages is restricted to approved users. For each language there is a group which yo have to give access to your project.
+Access for the shipped languages is restricted to approved users. You must give access to your project on a per-language basis.
 
 ![image](https://user-images.githubusercontent.com/6507750/232693426-d0ff9143-1e4a-4181-aaeb-eedd7fb62983.png)
 
