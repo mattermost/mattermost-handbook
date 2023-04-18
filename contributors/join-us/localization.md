@@ -246,7 +246,13 @@ Set *Translation flags* to `ignore-inconsistent, ignore-same, icu-message-format
 
 ![image](https://user-images.githubusercontent.com/1832946/227045392-ca3640bd-d0c1-48d2-86ee-657b40e068b2.png)
 
-### Step 3 - Repository hooks
+### Step 3 - Give translators access to your project
+
+Access for the shipped languages is restricted to approved users. For each language there is a group which yo have to give access to your project.
+
+![image](https://user-images.githubusercontent.com/6507750/232693426-d0ff9143-1e4a-4181-aaeb-eedd7fb62983.png)
+
+### Step 4 - Repository hooks
 
 Repository hooks (usually GitHub hooks) are needed to keep the translation files on Weblate in sync with the ones commited to the project repository. 
 
