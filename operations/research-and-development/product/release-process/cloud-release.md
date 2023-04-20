@@ -6,33 +6,18 @@ Please refer to [the Cloud Release Playbook](https://community.mattermost.com/pl
 
 ## Release Timeline
 
-Notes:
+Note: T-minus counts are measured in "working days" \(weekdays other than major holidays concurrent in US and Canada\) prior to release day.
 
-* All cut-off dates are based on 10am in San Francisco [\(Pacific Time](http://everytimezone.com/)\) on the day stated.
-* T-minus counts are measured in "working days" \(weekdays other than major holidays concurrent in US and Canada\) prior to release day.
-
-### A. \(T-minus 9 working days\) Merge master to the Cloud branch
-
-1. Release Manager:
-   * Ask Cloud SRE team to update the community-release server to the same version as the Mattermost Cloud test installations.
-   * Confirm all Jira tickets are resolved for QA testing.
-   * Notify QA that the test servers are ready for QA testing. Normally QA testing starts on the next day \(at T-8\).
-     * Post a list of new feature flags and major features for QA and PMs, and confirm with PMs that all features are behind a feature flag.
-   * Ask Tech Writer to work on docs.
-   * Keep track of any regressions on master for fixing.
-   * Add Cloud release dates to the Release Google Calendar.
-   * Start working on the changelog \(both internal and external\).
-   * Check whether any translation PRs, pre-packaged plugins, and `NOTICE.txt` PRs are needed.
-2. Dev:
-   * Merge latest `master` into the Cloud branch after Server team's review.
-
-### B. \(T-minus 0 working days\) Release day
-
-1. Release Manager:
-   * Post in Announcements channel with a link to the changelog.
-   * Confirm that the Cloud SRE team updated the community-release server to the new version.
-   * Schedule a retrospective.
-   * Confirm PMs are aware of upcoming Cloud release dates and feature complete dates.
-   * Merge docs and the changelog PR.
-   * Close the release in Jira.
-
+ - T-14 (Thursday): 
+    - Merge master into the cloud branch and update cloud test servers for the next release, including Rainforest RFQA-Cloud servers.
+ - T-14 to T-3: 
+    - Run Rainforest release test run groups, Cypress automated tests and product high level release smoke tests (i.e. Boards, Calls, Channels, Integration Frameworks, Playbooks and Suite Users). Close or label tickets for the release. Test failure reviews and bug fixing.
+ - T-3 (Monday)
+    - Each QA signs off as appropriate, using the [QA Approval playbook](https://community.mattermost.com/playbooks/playbooks/qeay15ou6frsmnu6tpmup9mxbc) run for that release.
+    - QA approval should be given latest by 5pm Eastern on Monday so that the release rollout can be started early Tuesday morning. 
+    - If QA approval is not ready by EOD Monday due to a testing delay or due to a last minute high priority bug fix, then we miss the release train.
+    - If the release train was missed, we need to do a retrospective on why it happened - e.g. are adjustments needed to the QA release testing process, or was there a reason why the last minute bug fix happened.
+ - T-2 (Tuesday)
+    - A new release image is created and the QA team completes quick smoke testing on the Cloud Beta production servers.
+ - T-0 (Thursday)
+    - The release is rolled out to the remaining rings.
