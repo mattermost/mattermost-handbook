@@ -10,14 +10,15 @@ Our [Approvals Matrix](https://docs.google.com/spreadsheets/d/1fDIMiO0uydB_1zCUx
 
 ## How do we contract at Mattermost?
 
-All contracts, with the exception of People Ops contracts, are centralized through the [SpotDraft](https://app.spotdraft.com/) contract management system. If you do not have access to SpotDraft, you can contact [**IT**](https://helpdesk.mattermost.com/support/home) and request access.
+All contracts, with the exception of People Ops contracts, are centralized through the [Ironclad](https://ironcladapp.com/) contract management system. If you do not have access to Ironclad, you can contact Daniel Sischy or [**IT**](https://helpdesk.mattermost.com/support/home) and request access, ask your manager to submit on your behalf, or reach out to Legal via email with the name of the agreement you need and the exact information needed to complete the launch form (see the applicable workflow sub-page below for a list of the required information).
 
-Through SpotDraft you can:
+
+Through Ironclad you can:
 
 - Request a new contract template to be sent out to a third party.
 - Request a third party's contract template be reviewed.
 - Initiate the signing process of a contract.
-- Upload fully executed contracts.
+- Upload contracts signed outside of Ironclad to the pending Ironclad workflow.
 - Search for existing contracts.
 
-Guidelines and step-by-step procedures for the above workflows can be found on the following pages in the Legal section of the Handbook. If you have any questions about the contracting process, feel free to reach out to [Legal](https://community.mattermost.com/private-core/channels/legal).
+Guidelines and step-by-step procedures for many workflows can be found on the following pages in the Legal section of the Handbook. If you have any questions about the contracting process, feel free to reach out to [Legal](https://community.mattermost.com/private-core/channels/legal).

@@ -2,11 +2,9 @@
 
 This page summarizes where to find legal resources for Mattermost staff.
 
-For legal resources by "Area of Responsibility" please see [Mattermost Legal AORs](https://docs.google.com/document/d/17ILLErliJoTxYRnh04yfCGlsQ15rhkYEki3KIJO-gdE/edit) which includes the name and contact information of legal specialists by area.
+For contact information of internal and external legal resources, please see the [Mattermost Legal Team](https://docs.google.com/document/d/17ILLErliJoTxYRnh04yfCGlsQ15rhkYEki3KIJO-gdE/edit).
 
 **Important Note**: Please keep legal@mattermost.com copied on all correspondence. To connect with a law firm resource, please first ask VP Legal or amy.nicol@mattermost.com 
-
-When you have legal questions that aren't covered in the AORs, please mail legalquestions@mattermost.com.
 
 ### Legal Resources
 
@@ -52,7 +50,7 @@ Also, if you see parts of our documentation or handbook out-of-date, please also
 If you're an outside council onboarding to work with Mattermost here's what you need to know:
 
 1. Please CC legal@mattermost.com on all communications with Mattermost staff. This helps keep track of projects and documents, and confirm billings.
-2. If you have general questions, please ask your "Mattermost Contact" as [listed on this page](https://docs.google.com/document/d/14KzrhszTlaibtM4APezTS8CFb1vaHxRsnkV9ZFef-Uc/edit).
+2. If you have general questions, please ask your "Mattermost Contact" as [listed on this page](https://docs.google.com/document/d/17ILLErliJoTxYRnh04yfCGlsQ15rhkYEki3KIJO-gdE/edit).
 3. If you have questions on billing logistics, please mail ap@mattermost.com.
 4. We use a Green/Yellow/Red system to discuss legal issues. Depending on your specialty we may design the critiera with your input.
  - "Green" is anything minor. Example: Minor changes to our standard agreements, or conforming agreement from an outside party.
