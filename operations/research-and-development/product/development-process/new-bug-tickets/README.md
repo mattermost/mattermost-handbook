@@ -19,8 +19,8 @@ Bugs are any “obvious errors” on how the product or a feature is functioning
 ## 4. Information needed on Mattermost bug tickets
 
 * **Labels:** Add a label based on the following criteria:
-  - `prerelease-bug` label if the ticket is based on a bug found on master/main or during day-to-day use on community.mattermost.com.
-  - `rc-bug` label if the ticket is based on a bug found during release testing.
+  - `prerelease-bug` label if the ticket is based on a bug found on master/main while testing a PR, during a team bug bash on master/main, during regularly scheduled automated tests on master/main, or during day-to-day use on community.mattermost.com.
+  - `rc-bug` label if the ticket is based on a bug found during a Cypress test run during release testing on agreed-upon latest test server update, during release smoke test cycles, during Rainforest release test runs, or during ticket verification.
   - `customer-bug` or `community-bug` label if the ticket is based on a customer or a community bug report on production.
 * **Steps to reproduce:** How can we reproduce the issue.
 * **Expected behavior:** Describe what you’re expecting to see.
