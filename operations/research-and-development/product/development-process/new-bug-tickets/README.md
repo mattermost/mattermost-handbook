@@ -21,7 +21,7 @@ Bugs are any “obvious errors” on how the product or a feature is functioning
 * **Labels:** Add a label based on the following criteria:
   - `prerelease-bug` label if the ticket is based on a bug found on master/main or during day-to-day use on community.mattermost.com.
   - `rc-bug` label if the ticket is based on a bug found during release testing.
-   - `customer-bug` or `community-bug` label if the ticket is based on a customer or a community bug report on production.
+  - `customer-bug` or `community-bug` label if the ticket is based on a customer or a community bug report on production.
 * **Steps to reproduce:** How can we reproduce the issue.
 * **Expected behavior:** Describe what you’re expecting to see.
 * **Observed behavior:** Describe your issue in detail. What did you see happen? Please include relevant error messages and/or screenshots.
