@@ -71,11 +71,11 @@ All staff are encouraged to occasionally join another team's planning meeting. I
 
 ### Adding events to the R&D Calendar
 
-Engineering leads have permisison to invite the R&D Calendar to recurring meetings. When adding a guest, search for `R&D` and be careful not to invite `rnd@mattermost.com` which would invite everyone in R&D. Instead, simply invite the calendar itself:
+All staff in R&D have permisison to invite the R&D Calendar to recurring meetings. When adding a guest, search for `R&D` and be careful not to invite `rnd@mattermost.com` which would invite everyone in R&D. Instead, simply invite the calendar itself:
 
 ![Invite the R&D Calendar](../../../.gitbook/assets/rnd-calendar-invite.png)
 
-The calendar will not "accept" the invite by default, with the invitation showing up as pending. Engineering leads should go in and accept the invite so the calendar appears uniform:
+The calendar will not "accept" the invite by default, with the invitation showing up as pending. With the calendar visible, select the event and accept the invite so the calendar appears uniform:
 
 **Before Accepting**
 ![Not yet accepted](../../../.gitbook/assets/rnd-calendar-not-yet-accepted.png)
