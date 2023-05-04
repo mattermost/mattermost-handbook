@@ -34,7 +34,7 @@ MVP-like contributors:
 
 ## Process outline
 
-1. A Mattermost staff member recommends a contributor for sponsorship and writes a short motivation to support their recommendation. This should be addressed to their direct manager as well as the program lead.
+1. A Mattermost staff member recommends a contributor for sponsorship and writes a short motivation to support their recommendation. The nomination should include a description of what the contributor does for us and/or takes ownership for that we'd like to compensate them for. The nomination should be addressed to their direct manager as well as the program lead.
 2. An [MLT](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#mlt) senior leader approves the recommendation and notifies the program lead.
 3. Program lead sends a request to ap@mattermost.com to approve the sponsorship.
 4. Program lead informs the contributor of the nomination. Once the contributor has accepted it \(by simply replying to the notice\), the sponsorship is processed and appears in the contributor's GitHub profile.
