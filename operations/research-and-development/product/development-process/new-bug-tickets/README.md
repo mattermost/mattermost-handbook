@@ -19,7 +19,7 @@ Bugs are any “obvious errors” on how the product or a feature is functioning
 ## 4. Information needed on Mattermost bug tickets
 
 * **Labels:** Add a `customer-bug` label if the ticket is based on a customer bug report. Add a `community-bug` label if the ticket is based on a community bug report.
-* **Environment:** There is an ``Environment`` field with drop-down options for whether the bug was found in Cloud test servers, Cloud production servers, Self-Hosted test servers, Self-Hosted production servers, or in Master/PR testing. Additionally, in the ticket description you can add details on Mattermost server and version, OS and version, Mattermost mobile app version, Mattermost desktop app version, any notable Mattermost configurations \(such as HA, Elasticsearch, image proxy, SSO\).
+* **Environment:** There is an ``Environment`` field with drop-down options to choose whether the bug was found in Cloud test servers, Cloud production servers, Self-Hosted test servers, Self-Hosted production servers, or in Master/PR testing.
 * **Steps to reproduce:** How can we reproduce the issue.
 * **Expected behavior:** Describe what you’re expecting to see.
 * **Observed behavior:** Describe your issue in detail. What did you see happen? Please include relevant error messages and/or screenshots.
@@ -27,7 +27,7 @@ Bugs are any “obvious errors” on how the product or a feature is functioning
 
 ## 5. Additional helpful information
 
-* **Summary:** Add a summary and any additional relevant details of the issue if it helps make the bug more clear.
+* **Summary:** Add a summary and any additional relevant details of the issue if it helps make the bug more clear. For example, you can add details on Mattermost server and version, OS and version, Mattermost mobile app version, Mattermost desktop app version, and any notable Mattermost configurations \(such as HA, Elasticsearch, image proxy, SSO\).
 * **Attachments:** Please include screenshots and/or videos of any helpful error messages and snippets of what you are seeing.
 * **Possible fixes:** If you can, link to the line of code that might be responsible for the problem.
 
