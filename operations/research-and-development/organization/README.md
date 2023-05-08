@@ -80,5 +80,5 @@ The calendar will not "accept" the invite by default, with the invitation showin
 **Before Accepting**
 ![Not yet accepted](../../../.gitbook/assets/rnd-calendar-not-yet-accepted.png)
 
-**After Accepting::
+**After Accepting**
 ![Accepted](../../../.gitbook/assets/rnd-calendar-accepted.png)
