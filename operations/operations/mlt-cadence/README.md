@@ -21,7 +21,6 @@ This section outlines:
 * Corey Hulen: Co-Founder and CTO
 * Kendra Niedziejko: CFO
 * David Reardon: VP Worldwide Sales
-* Chris Overton: VP, Engineering
 * Nirosha Ruwan: VP, Legal
 * Natalie Jew: VP Human Resources
 
