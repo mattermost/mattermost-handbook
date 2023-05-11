@@ -22,6 +22,7 @@ This section outlines:
 * Kendra Niedziejko: CFO
 * David Reardon: VP Worldwide Sales
 * Nirosha Ruwan: VP, Legal
+* Chen-i Lim: VP, Product
 * Natalie Jew: VP Human Resources
 
 ### Fiscal Year Planning \(1%\) <a id="fiscal-year-planning"></a>
