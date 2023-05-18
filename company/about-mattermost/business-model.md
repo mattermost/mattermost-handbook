@@ -26,7 +26,7 @@ Many of these organizations are facing three critical challenges:
 
 Mattermost uses a buyer-based open core business model to deliver a high trust, self-managed messaging platform for developers and high security end users. We develop a portfolio of offerings at different price points \(including free/open source\) that align to the needs and budgets of different buyers.
 
-## Mattermost Free / Open Source
+## Mattermost Free / open source
 
 The free/open source version of Mattermost is built for **developers** as an innovative, flexible, high trust collaboration platform that accelerates the productivity and agile workflows of a tight-knit team, and includes the following capabilities: 
 
@@ -54,7 +54,7 @@ Our entry-level paid version, Mattermost Professional, is built for **team manag
 
 As usage of Mattermost grows, we have a high scale edition, Mattermost Enterprise, providing enterprise compliance features and high scale support, including self-managed, multi-node, high availability configurations.
 
-# Customer Journey 
+# Customer journey 
 
 Our customer journey starts developers and IT admins seeking better collaboration tools for themselves and their teams. They may have used Mattermost personally, or in a previous role, or heard about the product through word of mouth, review sites, or discovered Mattermost through web search.
 
@@ -66,13 +66,13 @@ As the deployment of Mattermost grows within an organization, typically past 250
 
 # Self-served motions
 
-For Mattermost Professional, we have self-serve options to purchasing subscription licenses by credit card. For self-serve purchases, cloud-hosted Mattermost Professional is purchased with a monthly charge per paid user, and the self-hosted version is purchased with an annual contract. 
+For Mattermost Professional, we have self-serve options to purchasing subscription licenses by credit card.
 
 # Sales-served motions
 
 We're focused on a number of sales motions to turn leads and prospects into customers.
 
-### Champion-Led Inbound Direct
+### Champion-led inbound direct
 
 Prospect comes to us to buy. In this motion, developers or a System Admin deploys the open source or cloud free version of Mattermost, adopts its usage, and realizes value for a small group (~20 for cloud and 5-25 for self-hosted). When they want to scale usage beyond 25 and need administrative features like user management, SAML SSO, and the champion contacts IT and procurement to purchase. IT or procurement contacts Mattermost and is directed to the sales team to discuss a purchase, ask for volume discounting, answer security, compliance or technical questions, and/or negotiate MSA terms on their way to a purchase.
 
@@ -82,13 +82,13 @@ Key Input: This process often begins with a **Marketing Qualified Lead** ("MQL")
 
 This process can also begin with a **Product Qualified Lead** ("PQL") which is a type of MQL (has work email and can be mapped to a sales person) that has an indication of product adoption and ideally trial activation. In-product trial requests are an example of PQLs that can be used as a starting point for sales to accelerate this motion.
 
-### Champion-Led Inbound Channel
+### Champion-led inbound channel
 
 Similar to Champion-Led Inbound Direct journey except prospect buys through a channel partner rather than working with our sales team directly. In some cases we don’t have MEDPPICC information nor relationships with the key stakeholders at the accounts, and need to build up that context in order to properly connect with the account.
 
 Key input: The inputs for this motion are the same as for "Champion-Led Inbound Direct" (above) with the exception that PQLs and MQLs may be shared by our sales team with a channel partner, who may have relationships (e.g. vendor agreement with a prospect) or capabilities (e.g. speaking languages that the Mattermost field doesn't) that we don't have.
 
-### Sales-Led Warm Outbound
+### Sales-led warm outbound
 
 Identifying organizations where the free version of Mattermost is used, contacting people who didn’t reach out to us, and selling our way to close a new customer. 
 
@@ -98,7 +98,7 @@ Key input: The minimum input is a Marketing Qualified Lead ("MQL") with a work e
 
 In an outbound motion the intent is to reach multiple people in an organization, not just the person taking an MQL-creating action, so that marketing and sales resources can be applied to accelerating early interest into envision and unlocking value into purchase and expansion decisions.
 
-### Sales-Led Cold Outbound
+### Sales-led cold outbound
 
 Selling into organizations that aren’t known to be using Mattermost but who are similar to existing Mattermost customers and could potentially benefit from our offerings, and potentially showed early interest. 
 
@@ -106,7 +106,7 @@ This starts with BDRs and AEs focusing on a list of organizations - ”Named acc
 
 Key input: Cold outbound can be started with just a list of "Named Accounts" that we believe would have similar needs and buying patterns as existing Mattermost customers. Ideally there are also MQLs similar to "Sales-Led Warm Outbound" though without the requirement of free usage to start this process.
 
-### Channel-Led Outbound
+### Channel-led outbound
 
 In some countries/regions, channel partners may execute Sales-Led outbound motions in partnership with our sales teams. This motion can be particularly additive in countries/regions and organizations with languages and culture that can’t yet be supported with our internal sales organization, or to reach the existing customer base of a channel partner who are likely to have similar needs to existing Mattermost customers and likely to buy (e.g. Carahsoft/FedResults).
 
