@@ -16,9 +16,9 @@ Mattermost competes in a $15B market for "developer collaboration", a segment of
 
 Many of these organizations are facing three critical challenges:
 
-**Stagnant and declining developer productivity in post-remote environments.** While many technical organizations accelerated productivity in the initial move to remote work--decreasing commute time, onsite logistics, and interruptions--many post-remote environments now suffer from gaps in clarity and alignment that in-office environments provided in the past. The context created by in-person meetings, hallway conversations, war rooms--and even by physical whiteboards and post-it notes--continues to degrade in many organizations. Digital substitutes across meeting organization, note taking, workplace messaging, incident response, and project management have exploded as point solutions. They served as life rafts during the pandemic, but the misfit of teams, tools and workflows is now becoming an overwhelming tax--copy and pasting, inconsistent formatting, unclear access controls, redundancy of information, and the breakage of flow.
+**Flat or declining developer productivity in post-remote environments.** While many technical organizations accelerated productivity in the initial move to remote work--decreasing commute time, onsite logistics, and interruptions--many post-remote environments now suffer from gaps in clarity and alignment that in-office environments provided in the past. The context created by in-person meetings, hallway conversations, war rooms--and even by physical whiteboards and post-it notes--continues to degrade in many organizations. Digital substitutes across meeting organization, note taking, workplace messaging, incident response, and project management have exploded as point solutions. They served as life rafts during the pandemic, but the misfit of teams, tools and workflows is now becoming an overwhelming tax--copy and pasting, inconsistent formatting, unclear access controls, redundancy of information, and the breakage of flow.
 
-**Increasing vendor lock-in and outage exposure.** In many organizations the acceleration to cloud has dramatically increased vendor-dependency, data lock-in, and exposure to the business disruption. In some cases, there is risk of both a company’s technical infrastructure and online collaboration tools going down at the same time when they are outsourced to the same vendor, or share dependencies--especially cloud dependencies. These risks may be dramatically heightened with remote work if incident response teams don’t have either a secure physical location to work on mitigations, or online collaboration tools independent of the underlying outage. Moreover, as cloud vendors control more and more of their customer’s data and operations, businesses have fewer options to hold vendors accountable. 
+**Increasing complexity, vendor lock-in and outage exposure.** In many organizations the acceleration to cloud has dramatically increased vendor-dependency, data lock-in, and exposure to the business disruption. In some cases, there is risk of both a company’s technical infrastructure and online collaboration tools going down at the same time when they are outsourced to the same vendor, or share dependencies--especially cloud dependencies. These risks may be dramatically heightened with remote work if incident response teams don’t have either a secure physical location to work on mitigations, or online collaboration tools independent of the underlying outage. Moreover, as cloud vendors control more and more of their customer’s data and operations, businesses have fewer options to hold vendors accountable. 
 
 **Gaps in workplace satisfaction for technical talent.** Acceleration in remote hiring coupled with a surge in global demand has made staffing developer organizations an unprecedented challenge. Workplace satisfaction is now more important than ever as a leading indicator of organizational success. Satisfaction includes both conceptual factors, such as opportunities for impact, connection and growth, and concrete factors such as the technologies and tools teams get to operate. Winning on workplace satisfaction in conceptual and concrete factors is a leading indicator of meeting the capacity needs of digital operations organizations, which is a leading factor to market relevance.
 
@@ -26,9 +26,9 @@ Many of these organizations are facing three critical challenges:
 
 Mattermost uses a buyer-based open core business model to deliver a high trust, self-managed messaging platform for developers and high security end users. We develop a portfolio of offerings at different price points \(including free/open source\) that align to the needs and budgets of different buyers.
 
-## Mattermost Free / Open Source
+## Mattermost Free / open source
 
-The free/open source version of Mattermost is built for **developers** as an innovative, flexible, high trust collaboration platform that accelerates the productivity and agile workflows of a tight-knit team, and includes the following features: 
+The free/open source version of Mattermost is built for **developers** as an innovative, flexible, high trust collaboration platform that accelerates the productivity and agile workflows of a tight-knit team, and includes the following capabilities: 
 
 ### Channels 
 
@@ -54,7 +54,7 @@ Our entry-level paid version, Mattermost Professional, is built for **team manag
 
 As usage of Mattermost grows, we have a high scale edition, Mattermost Enterprise, providing enterprise compliance features and high scale support, including self-managed, multi-node, high availability configurations.
 
-# Customer Journey 
+# Customer journey 
 
 Our customer journey starts developers and IT admins seeking better collaboration tools for themselves and their teams. They may have used Mattermost personally, or in a previous role, or heard about the product through word of mouth, review sites, or discovered Mattermost through web search.
 
@@ -64,11 +64,15 @@ A subscription license to [Mattermost Professional](https://mattermost.com/prici
 
 As the deployment of Mattermost grows within an organization, typically past 250 or 500 users, the customer's procurement organization may be interested in advanced features and customization available in our [Mattermost Enterprise](https://mattermost.com/pricing/) offering.
 
-# Sales motions
+# Self-served motions
+
+For Mattermost Professional, we have self-serve options to purchasing subscription licenses by credit card.
+
+# Sales-served motions
 
 We're focused on a number of sales motions to turn leads and prospects into customers.
 
-### Champion-Led Inbound Direct
+### Champion-led inbound direct
 
 Prospect comes to us to buy. In this motion, developers or a System Admin deploys the open source or cloud free version of Mattermost, adopts its usage, and realizes value for a small group (~20 for cloud and 5-25 for self-hosted). When they want to scale usage beyond 25 and need administrative features like user management, SAML SSO, and the champion contacts IT and procurement to purchase. IT or procurement contacts Mattermost and is directed to the sales team to discuss a purchase, ask for volume discounting, answer security, compliance or technical questions, and/or negotiate MSA terms on their way to a purchase.
 
@@ -78,13 +82,13 @@ Key Input: This process often begins with a **Marketing Qualified Lead** ("MQL")
 
 This process can also begin with a **Product Qualified Lead** ("PQL") which is a type of MQL (has work email and can be mapped to a sales person) that has an indication of product adoption and ideally trial activation. In-product trial requests are an example of PQLs that can be used as a starting point for sales to accelerate this motion.
 
-### Champion-Led Inbound Channel
+### Champion-led inbound channel
 
 Similar to Champion-Led Inbound Direct journey except prospect buys through a channel partner rather than working with our sales team directly. In some cases we don’t have MEDPPICC information nor relationships with the key stakeholders at the accounts, and need to build up that context in order to properly connect with the account.
 
 Key input: The inputs for this motion are the same as for "Champion-Led Inbound Direct" (above) with the exception that PQLs and MQLs may be shared by our sales team with a channel partner, who may have relationships (e.g. vendor agreement with a prospect) or capabilities (e.g. speaking languages that the Mattermost field doesn't) that we don't have.
 
-### Sales-Led Warm Outbound
+### Sales-led warm outbound
 
 Identifying organizations where the free version of Mattermost is used, contacting people who didn’t reach out to us, and selling our way to close a new customer. 
 
@@ -94,7 +98,7 @@ Key input: The minimum input is a Marketing Qualified Lead ("MQL") with a work e
 
 In an outbound motion the intent is to reach multiple people in an organization, not just the person taking an MQL-creating action, so that marketing and sales resources can be applied to accelerating early interest into envision and unlocking value into purchase and expansion decisions.
 
-### Sales-Led Cold Outbound
+### Sales-led cold outbound
 
 Selling into organizations that aren’t known to be using Mattermost but who are similar to existing Mattermost customers and could potentially benefit from our offerings, and potentially showed early interest. 
 
@@ -102,7 +106,7 @@ This starts with BDRs and AEs focusing on a list of organizations - ”Named acc
 
 Key input: Cold outbound can be started with just a list of "Named Accounts" that we believe would have similar needs and buying patterns as existing Mattermost customers. Ideally there are also MQLs similar to "Sales-Led Warm Outbound" though without the requirement of free usage to start this process.
 
-### Channel-Led Outbound
+### Channel-led outbound
 
 In some countries/regions, channel partners may execute Sales-Led outbound motions in partnership with our sales teams. This motion can be particularly additive in countries/regions and organizations with languages and culture that can’t yet be supported with our internal sales organization, or to reach the existing customer base of a channel partner who are likely to have similar needs to existing Mattermost customers and likely to buy (e.g. Carahsoft/FedResults).
 
