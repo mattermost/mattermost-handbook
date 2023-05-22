@@ -4,7 +4,7 @@
 Site Reliability Engineering (SRE) team ensures the availability of Mattermost Cloud user-facing services, building the tools and automation to monitor and enable this availability. These user-facing services include multiple environments including testing, development and production, among others.
 
 ### Vision
-Enable developers to build reliable, scalable, cost efficient services that keepthe Mattermost Cloud customer's reliability targets and SRE principles (observability, SLOs etc.) in mind.
+Enable developers to build reliable, scalable, cost efficient services that keep the Mattermost Cloud customer's reliability targets (SLA, SLO) and SRE principles (observability, SLOs etc.) in mind.
 
 ### Actions
 - On-call, Incident Management and Incident Review
@@ -20,7 +20,7 @@ Enable developers to build reliable, scalable, cost efficient services that keep
 - Embrace risk and chaos
 - Promote and embrace communication
 - Evangelise cost effectiveness
-- Evangelise and adopt SRE & DevOps practices 
+- Evangelise and adopt SRE & DevOps practices 
 
 ### Ask for Help
 If you need our assistance please follow the [General Workflow](#general-workflow)
@@ -54,5 +54,5 @@ The team regularly works on the following tasks, listed below in priority order:
 |------------------------------------|----------------------------|---------------------------------|---------|
 | Incident Review & Knowledge share  | Reliability Engineering    | Cloud leadership, SRE, Release  | Monday  |
 | Triage & Planning                  | SRE Planning               | SRE, Platform                   | Tuesday |
-| Cloud & Growth Sync                | Cloud Engineering          | SRE, Release, Platform, Growth  | Weekly  |
+| Cross-org collaboration            | Infrastructure Guild    | Leadership, Infrastructure, Product, Security | Thursday  |
 | Bring chaos to our systems         | Chaos Gameday              | SRE                             | Monthly |
