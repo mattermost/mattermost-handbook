@@ -15,8 +15,8 @@ Operate fast, secure and reliable SaaS platform in which everyone can contribute
 ## Teams
 
 - [SRE](/operations/research-and-development/organization/sre.md)
-- [Delivery](/operations/research-and-development/organization/cloud_platform.md)
-- [Platform](/operations/research-and-development/organization/delivery.md)
+- [Delivery](/operations/research-and-development/organization/delivery.md)
+- [Platform](/operations/research-and-development/organization/cloud_platform.md)
 
 ## Principles
 
