@@ -42,7 +42,7 @@ The Data Engineering division builds and supports the data infrastructure and an
 
 ### Infrastructure
 
-The [Infrastructure](/operations/research-and-development/engineering/cloud-engineering/README.md) group empowers Mattermost to provide a SaaS Platform as Product which serves internal and external users by guaranteeing that we operate an enterprise-grade SaaS platform with self-serve powers.
+The [Infrastructure](/operations/research-and-development/engineering/infrastructure-engineering/README.md) group empowers Mattermost to provide a SaaS Platform as Product which serves internal and external users by guaranteeing that we operate an enterprise-grade SaaS platform with self-serve powers.
 
 * **[Delivery](/operations/research-and-development/organization/delivery.md)**
 * **[Cloud Platform](/operations/research-and-development/organization/cloud_platform.md)**
