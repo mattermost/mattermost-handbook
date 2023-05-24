@@ -1,12 +1,12 @@
-# Platform (Cloud)
+# Cloud Platform
 
-### Who We Are
-Platform (Cloud) team is responsible for the underlying services which support the orchestration of Mattermost Cloud in terms of provisioning, rolling out, and updating the customer's Mattermost server fleet. In parallel, the team boosts developer productivity using the same services to improve the cloud developer experience.
+The Cloud Platform team is responsible for our Mattermost Cloud SaaS technology.
 
 ### Vision
-Enable everyone to build and deploy with high velocity in a self-serve manner.
+Enable everyone to build and deploy with high velocity in a self-served manner.
 
 ### Actions
+- Increase developer productivity
 - Influence Cloud readiness
 - Input driven decision making
 - Encourage best practices and keep quality standards high
@@ -24,28 +24,27 @@ Enable everyone to build and deploy with high velocity in a self-serve manner.
 
 ### Ask for Help
 
-If you need our assistance, please follow the [General Workflow](#general-workflow)
+If you need our assistance please use the following follow the [General Workflow](#general-workflow)
 
-More ways to reach us:
-1. For support questions related to production, you can reach us in the `~cloud-support ` channel.
-2. For all the other questions, you can reach us in the `~cloud-platform-team` channel.
+We can also be reached out:
+1. For support questions related to production you can reach us in   `~cloud-support ` channel.
+2. For all the other questions you can reach us in [~infrastructure-platform-team](https://community.mattermost.com/private-core/channels/infrastructure-platform-team) channel
 
-### How We Work
+### How we work
 
 #### General Workflow
-1. Mattermost staff open new issues in the [Platform Board](https://mattermost.atlassian.net/jira/software/c/projects/MM/boards/46).
-2. Every new issue goes through an Issue Triage weekly.
+1. Mattermost members open new issues in [Platform Board](https://mattermost.atlassian.net/jira/software/c/projects/CLD/boards/129)
+2. Every new issues goes through an Issue Triage weekly
 
 ### Areas of Ownership
-The team regularly works on the following tasks, listed in order of priority:
+The team regularly works on the following tasks, in the order of priority:
 - Ensuring provisioning, rolling out and controlling the workspaces fleet with an automated manner (eg. provisioner, k8s operator)
-- Improving developer productivity by providing self-serve capabilities for testing environments within the cloud developer platform (e.g. [spinwick](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#spinwick) cloud plugin.
-- Ensuring and supporting other teams for cloud readiness (e.g. Mattermost migrations, database connection pooling)
+- Improving developer productivity with providing self-served capabilities for testing envs in cloud developer platform (eg. [spinwick](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#spinwick), cloud plugin)
+- Ensuring and supporting other teams for cloud readiness (eg. Mattermost migrations, database connection pooling)
 
 ### Meetings
 
 | Topics                             | Meeting                    | Participants                    | Cadence |
 |------------------------------------|----------------------------|---------------------------------|---------|
-| Triage & Planning                  | Platform Planning          | SRE, Platform                   | Weekly  |
-| Cloud & Growth Sync                | Cloud Engineering          | SRE, Release, Platform, Growth  | Weekly  |
-
+| Triage & Planning                  | Platform Planning          | SRE, Platform                   | Tuesday |
+| Cross-org collaboration            | Infrastructure Guild    | Leadership, Infrastructure, Product, Security | Thursday  |
