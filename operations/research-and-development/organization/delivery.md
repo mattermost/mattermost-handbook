@@ -28,10 +28,10 @@ Every week we have a support rota who is responsible for troubleshooting any S1/
 
 | Reason                             | Contact (order priority)                    | Via            |
 |------------------------------------|----------------------------|---------------------------------|
-|S1/P1 Deployment/Release related issues| <ul><li>`@release-manager` group mention</li> <li>`@delivery-rota` group mention</li><ul> | Mattermost|
-|Quality related issues / verification| <ul><li>`@qa-guild` group mention</li><ul> | Mattermost|
-|CI/CD Blueprints & Automated testing issues for day to day | <ul><li>First check our knowledge base [HERE - TBD]</li><li>Send a message to [~infrastructure-delivery-team](https://community.mattermost.com/private-core/channels/infrastructure-delivery-team) or mention `@delivery-team` </li><ul> | Mattermost|
-| Influence and help with best practices | <ul><li>First check our knowledge base [HERE - TBD]</li><li>Send a message to [~infrastructure-delivery-team](https://community.mattermost.com/private-core/channels/infrastructure-delivery-team) or mention `@delivery-team` </li><ul> | Mattermost|
+|S1/P1 Deployment/Release related issues| <ul><li>`@release-manager` group mention</li> <li>`@delivery-rota` group mention</li></ul> | Mattermost|
+|Quality related issues / verification| <ul><li>`@qa-guild` group mention</li></ul> | Mattermost|
+|CI/CD Blueprints & Automated testing issues for day to day | <ul><li>First check our knowledge base [HERE - TBD]</li><li>Send a message to [~infrastructure-delivery-team](https://community.mattermost.com/private-core/channels/infrastructure-delivery-team) or mention `@delivery-team` </li></ul> | Mattermost|
+| Influence and help with best practices | <ul><li>First check our knowledge base [HERE - TBD]</li><li>Send a message to [~infrastructure-delivery-team](https://community.mattermost.com/private-core/channels/infrastructure-delivery-team) or mention `@delivery-team` </li></ul> | Mattermost|
 
 ## Areas of Ownership
 
