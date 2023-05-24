@@ -55,7 +55,7 @@
     * [Growth](/operations/research-and-development/organization/growth.md)
     * [Self-serve](/operations/research-and-development/organization/self-serve_subscriptions.md)
     * [Data engineering](/operations/research-and-development/organization/data_engineering.md)
-    * [Release DevOps](/operations/research-and-development/organization/release_devops.md)
+    * [Delivery](/operations/research-and-development/organization/delivery.md)
     * [Cloud Platform](/operations/research-and-development/organization/cloud_platform.md)
     * [Site Reliability Engineering](/operations/research-and-development/organization/sre.md)
     * [GRC](/operations/research-and-development/organization/grc.md)
