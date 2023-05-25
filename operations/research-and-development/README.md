@@ -40,7 +40,7 @@ We use a range of web properties and tools to document and share plans, specs, r
 
 R&D is led by:
 
-* Corey Hulen - CTO, Head of Product
-* Chris Overton - VP Engineering
+* Corey Hulen - CTO
+* Chen Lim - VP, Product
 
 We use [this spreadsheet to track the organization structure](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit).
