@@ -36,7 +36,6 @@ While we're sharing average costs for various items below, you should use your b
 * Laptop carrying bag: Average price **60 USD**
 * Work-related books: **30 USD** per month or **360 USD** annually
   * [Recommended resources](https://handbook.mattermost.com/operations/research-and-development/product/product-management-team-handbook/professional-development#additional-training-resources)
-  *
 #### Business computer accessories
 
 * USB-C dock for New MacBooks: Average price **150 USD**
@@ -72,28 +71,25 @@ Once you've received your laptop, you're required to register it by completing a
 
 #### Desktop \(business computer\)
 
-Desktops may be requested alongside a laptop for **engineering** roles. To request a desktop, email a request to your manager with the subject `Desktop for Approval`. Include IT for approval tracking by cc'ing daniel.sischy@mattermost.com. If your manager approves, a request should be sent to Chris Overton, VP of Engineering, for budget review and need. If you receive both approvals, you may formally request a desktop through the [Desktop Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe2_21Jllo8kztsnhhF_Xre9iOiPoeELUWwYziCDB25y68Wpw/viewform). Estimated delivery time will be communicated by IT once the order has been placed, but expect on average 1-4 week delivery window.
+Desktops may be requested alongside a laptop for **engineering** roles. To request a desktop, email a request to your manager with the subject `Desktop for Approval`. Include IT for approval tracking by cc'ing daniel.sischy@mattermost.com. If your manager approves, a request should be sent to Joram Wilander, Director of Engineering, for budget review and need. If you receive both approvals, you may formally request a desktop through the [Desktop Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe2_21Jllo8kztsnhhF_Xre9iOiPoeELUWwYziCDB25y68Wpw/viewform). Estimated delivery time will be communicated by IT once the order has been placed, but expect on average 1-4 week delivery window.
 
 We offer three desktop options. The specifications below are those we believe are needed for you to do your best work at Mattermost, but they are not a hard ceiling. If you need upgraded specifications, outline them within the [Desktop Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe2_21Jllo8kztsnhhF_Xre9iOiPoeELUWwYziCDB25y68Wpw/viewform).
 
 * **Mac:**
-  * 27-inch iMac
-  * 10th Gen Intel Core i7 Processor \(8-core, 3.8Ghz, turbo boost up to 5.0Ghz\)
-  * 32GB 2666Mhz DDR4 memory
-  * Radeon Pro 5500 XT 8GB GDDR6
-  * 512GB SSD Storage
+  * Mac Studio
+  * M1 Ultra \(20-core CPU, 48-core GPU, 32-core Neural Engine\)
+  * 64GB unified memory
+  * 1TB SSD storage
 * **Windows:**
-  * Windows 10 Pro
-  * 10th Gen Intel Core i7-10700k processor \(8-core, 3.8Ghz, 16M Cache, turbo boost up to 5.1Ghz\)
-  * 32GB 2933Mhz DDR4 memory
-  * GeForce RTX 2060
-  * 512GB PCIe M.2 SSD + 1TB SATA 7200 RPM HDD
+  * Windows 11 Pro
+  * 13th Gen Intel Core i9-1390 \(24-core, 32M Cache, 2.0 GHz to 5.2 GHz\)
+  * 32GB 4800Mhz DDR5 memory
+  * 1TB M.2 PCIe NVMe
 * **Linux:**
-  * Ubuntu 18.04
-  * Intel Xeon Silver 4215R 3.2 Ghz \(8-core, 11MB Cache, turbo boost up to 4.0Ghz\)
+  * Ubuntu 20.04
+  * Intel Xeon Silver 4216 \(16-core, 22MB Cache, 2.10 GHz to 3.20 GHz\)
   * 32GB 2666Mhz DDR4 memory
-  * Radeon Pro WX 2100
-  * 256GB PCIe M.2 SSD + 1TB SATA 7200 RPM HDD
+  * 1 TB M.2, PCIe NVMe
 
 As with other computer devices, once your desktop is received, you're required to register it by completing an [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). This step should be completed within 5 business days after your desktop was received.
 
