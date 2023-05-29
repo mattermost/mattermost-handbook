@@ -82,7 +82,7 @@ We offer three desktop options. The specifications below are those we believe ar
   * 1TB SSD storage
 * **Windows:**
   * Windows 11 Pro
-  * 13th Gen Intel Core i9-1390 \(24-core, 32M Cache, 2.0 GHz to 5.2 GHz\)
+  * 13th Gen Intel Core i9-13900k \(24-core, 32M Cache, 2.0 GHz to 5.2 GHz\)
   * 32GB 4800Mhz DDR5 memory
   * 1TB M.2 PCIe NVMe
 * **Linux:**
