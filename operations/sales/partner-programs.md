@@ -1,5 +1,11 @@
 # Partner Programs
 
+**Ready to place an order?** [Complete our deal registration form](https://mattermost.com/reseller-deal-registration/) to be eligible for a reseller discount.
+
+**Ready to become a Mattermost partner?** [Contact us](https://mattermost.com/contact-us) with a request to become a Mattermost partner under one of the programs listed below. If applicable, include the name of the customer to which you would like to resell.
+
+------
+
 Mattermost offers multiple partner programs:
 
 * Mattermost Authorized Reseller Program for one-time resale transactions fulfilling customer request to reseller.
