@@ -14,19 +14,12 @@ Rather than always call a department "Marketing" - which is a broad term that in
 
 ## The team
 
-* [Matt Harper](https://community.mattermost.com/core/messages/@matt.harper) - VP of Marketing
-* [Jack O'Brien](https://community.mattermost.com/core/messages/@jack.obrien) - Director of Product Marketing
-* [Jeff Benanto](https://community.mattermost.com/core/messages/@jeff.benanto) - Director of Communications
 * [Kevin Fayle](https://community.mattermost.com/core/messages/@kevin.fayle) - Director of Marketing Operations & Analytics
-* [JuliAnn Tulberg](https://community.mattermost.com/core/messages/@juliann.tulberg) - Creative Director
-* [Ben Lloyd Pearson](https://community.mattermost.com/core/messages/@ben.pearson) - Director of Developer Marketing
 * [Ashley Dotterweich](https://community.mattermost.com/core/messages/@ashley.dotterweich) - Head of Content
 * [Emily Dela Cruz](https://community.mattermost.com/core/messages/@emily.delacruz) - Lead Web Developer
-* [Cecilia Tao](https://community.mattermost.com/core/messages/@cecilia.tao) - Director of Growth Marketing
-* [Harrison Eaton](https://community.mattermost.com/core/messages/@harrison.eaton) - Marketing Project Manager
-* [Jordana Fung](https://community.mattermost.com/core/messages/@jordana.fung) - Senior Technical Community Manager
-
-DRI for this page: Matt Harper
+* [Aaron Thompson](https://community.mattermost.com/core/messages/@aaron.thompson) - Digital Marketing Manager, Web Optimization, & Analytics
+* [Andrew Zigler](https://community.mattermost.com/core/messages/@andrew.zigler) - Developer Relations 
+* [JuliAnn Tulberg](https://community.mattermost.com/core/messages/@juliann.tulberg) - Creative Director (Vendor) 
 
 ## Cadence, Channels, and Tools
 
