@@ -52,7 +52,7 @@ Sick Leave Posters for US states/Cities
 * [Arizona Sick Leave Poster](https://www.azica.gov/sites/default/files/AZ%20Earned%20Paid%20Sick%20Time%20Poster%202017.pdf)
 * [California Sick Leave Poster](https://www.dir.ca.gov/dlse/publications/paid_sick_days_poster_template_(11_2014).pdf)
 * [Berkeley (California) Sick Leave Poster](https://employees.aleroninc.com/wp-content/uploads/2018/07/berkley-ca-paid-sick-leave-policy-and-poster.pdf)
-* [Emeryville(Carlifornia) Sick Leave Poster](https://www.ci.emeryville.ca.us/DocumentCenter/View/14155/2023-MWO-PSL-Workplace-Poster-English?bidId=)
+* [Emeryville (California) Sick Leave Poster](https://www.ci.emeryville.ca.us/DocumentCenter/View/14155/2023-MWO-PSL-Workplace-Poster-English?bidId=)
 * [Los Angeles(Carlifornia) Sick Leave Poster](https://wagesla.lacity.org/sites/g/files/wph1941/files/2022-02/2022-MWO-Poster-EN-14.pdf)
 * [Oakland(Carlifornia) Sick Leave Poster](https://cao-94612.s3.amazonaws.com/documents/3-12-20_Guidance-to-employees-and-employers-_-COVID-19-KB-with-logo.pdf)
 * [San Diego(Carlifornia) Sick Leave Poster](https://www.dir.ca.gov/DLSE/Publications/Paid_Sick_Days_Poster_Template_(11_2014).pdf)
