@@ -56,7 +56,7 @@ Sick Leave Posters for US states/cities
 * [Los Angeles (California) Sick Leave Poster](https://wagesla.lacity.org/sites/g/files/wph1941/files/2022-02/2022-MWO-Poster-EN-14.pdf)
 * [Oakland (California) Sick Leave Poster](https://cao-94612.s3.amazonaws.com/documents/3-12-20_Guidance-to-employees-and-employers-_-COVID-19-KB-with-logo.pdf)
 * [San Diego (California) Sick Leave Poster](https://www.dir.ca.gov/DLSE/Publications/Paid_Sick_Days_Poster_Template_(11_2014).pdf)
-* [San Fransisco (California) Sick Leave Poster](https://sfgov.org/olse/sites/default/files/Document/Paid%20Sick%20Leave%20Poster%20-%20Post.pdf)
+* [San Francisco (California) Sick Leave Poster](https://sfgov.org/olse/sites/default/files/Document/Paid%20Sick%20Leave%20Poster%20-%20Post.pdf)
 * [Santa Monica (California) Sick Leave Poster](https://www.santamonica.gov/media/minimum_wage/paidsickleavetips-employees.pdf)
 * [West Hollywood (California) Sick Leave Poster](https://www.weho.org/home/showpublisheddocument/56165/638158711072630000)
 * [Colorado Sick Leave Poster](https://cdle.colorado.gov/sites/cdle/files/%5BCLEAN%20June%201%2C%202022%5D%20Poster%2C%20Paid%20Leave%20%26%20Whistleblower.pdf)
