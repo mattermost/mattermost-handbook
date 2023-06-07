@@ -17,7 +17,7 @@ Rather than always call a department "Marketing" - which is a broad term that in
 * [Kevin Fayle](https://community.mattermost.com/core/messages/@kevin.fayle) - Director of Marketing Operations & Analytics
 * [Ashley Dotterweich](https://community.mattermost.com/core/messages/@ashley.dotterweich) - Head of Content
 * [Emily Dela Cruz](https://community.mattermost.com/core/messages/@emily.delacruz) - Lead Web Developer
-* [Aaron Thompson](https://community.mattermost.com/core/messages/@aaron.thompson) - Digital Marketing Manager, Web Optimization & Analytics
+* [Aaron Thompson](https://community.mattermost.com/core/messages/@aaron.thompson) - Digital Marketing Manager, Web Optimization, & Analytics
 * [Andrew Zigler](https://community.mattermost.com/core/messages/@andrew.zigler) - Developer Relations 
 * [JuliAnn Tulberg](https://community.mattermost.com/core/messages/@juliann.tulberg) - Creative Director (Vendor) 
 
