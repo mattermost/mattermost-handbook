@@ -78,7 +78,7 @@ Sick Leave Posters for US states/Cities
 * [Bernalillo County (New Mexico) Sick Leave Poster](https://www.bernco.gov/planning/wp-content/uploads/sites/58/2022/09/2022-BC-Employee-Wellness-Act-Poster.FINAL.pdf)
 * [New York City (New York) Sick Leave Poster](https://www.nyc.gov/assets/dca/downloads/pdf/about/PaidSafeSickLeave-MandatoryNotice-English.pdf)
 * [Westchester County (New York) Sick Leave Poster](https://drive.google.com/file/d/1H6sCySzJrsHU_gFSHuIWVuA2fw4P-33q/view?usp=sharing)
-* [Allegheny County(Pennsylvania) Sick Leave Poster](https://drive.google.com/file/d/1OTdOSV7FtB56-HclKznh3-CBI6unwNd4/view?usp=sharing)
+* [Allegheny County (Pennsylvania) Sick Leave Poster](https://drive.google.com/file/d/1OTdOSV7FtB56-HclKznh3-CBI6unwNd4/view?usp=sharing)
 * [Philadelphia(Pennsylvania) Sick Leave Poster](https://www.phila.gov/media/20191218103833/Paid-Sick-Leave-Poster-Translations.pdf)
 * [Pittsburgh(Pennsylvania) Sick Leave Poster](https://apps.pittsburghpa.gov/redtail/images/9692_Notice-Paid-Sick-Days-Act_06-2020.pdf)
 * [Washington Sick Leave Poster](https://www.lni.wa.gov/forms-publications/F700-197-000.pdf)
