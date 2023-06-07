@@ -62,7 +62,7 @@ Sick Leave Posters for US states/Cities
 * [Colorado Sick Leave Poster](https://cdle.colorado.gov/sites/cdle/files/%5BCLEAN%20June%201%2C%202022%5D%20Poster%2C%20Paid%20Leave%20%26%20Whistleblower.pdf)
 * [Connecticut Sick Leave Poster](https://www.ctdol.state.ct.us/wgwkstnd/NoticeSickLeavePoster2014%20.pdf)
 * [Columbia Sick Leave Poster](https://does.dc.gov/sites/default/files/dc/sites/does/page_content/attachments/ASSLA%20Poster%20-%20English%20Spanish%20Combo%20-%20FINAL.pdf)
-* [Chicago(Illinois) Sick Leave Poster](https://www.chicago.gov/content/dam/city/depts/bacp/OSL/20220701mwandpslenglishletterfv.pdf)
+* [Chicago (Illinois) Sick Leave Poster](https://www.chicago.gov/content/dam/city/depts/bacp/OSL/20220701mwandpslenglishletterfv.pdf)
 * [Cook County (Illinois) Sick Leave Poster](https://www.cookcountyil.gov/sites/g/files/ywwepo161/files/service/model-earned-sick-leave-notice-employees-workplace-poster.pdf)
 * [Maine Sick Leave Poster](https://www.maine.gov/labor/docs/2022/posters/roe/regulationofemployment_English.pdf)
 * [Maryland Sick Leave Poster](https://www.dllr.state.md.us/paidleave/paidleaveposter.pdf)
