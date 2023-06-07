@@ -47,7 +47,7 @@ Notices for US States
 
 ### US States Sick Leave Policies 
 
-Sick Leave Posters for US states/Cities
+Sick Leave Posters for US states/cities
 
 * [Arizona Sick Leave Poster](https://www.azica.gov/sites/default/files/AZ%20Earned%20Paid%20Sick%20Time%20Poster%202017.pdf)
 * [California Sick Leave Poster](https://www.dir.ca.gov/dlse/publications/paid_sick_days_poster_template_(11_2014).pdf)
