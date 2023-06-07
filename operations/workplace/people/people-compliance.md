@@ -80,7 +80,7 @@ Sick Leave Posters for US states/Cities
 * [Westchester County (New York) Sick Leave Poster](https://drive.google.com/file/d/1H6sCySzJrsHU_gFSHuIWVuA2fw4P-33q/view?usp=sharing)
 * [Allegheny County (Pennsylvania) Sick Leave Poster](https://drive.google.com/file/d/1OTdOSV7FtB56-HclKznh3-CBI6unwNd4/view?usp=sharing)
 * [Philadelphia (Pennsylvania) Sick Leave Poster](https://www.phila.gov/media/20191218103833/Paid-Sick-Leave-Poster-Translations.pdf)
-* [Pittsburgh(Pennsylvania) Sick Leave Poster](https://apps.pittsburghpa.gov/redtail/images/9692_Notice-Paid-Sick-Days-Act_06-2020.pdf)
+* [Pittsburgh (Pennsylvania) Sick Leave Poster](https://apps.pittsburghpa.gov/redtail/images/9692_Notice-Paid-Sick-Days-Act_06-2020.pdf)
 * [Washington Sick Leave Poster](https://www.lni.wa.gov/forms-publications/F700-197-000.pdf)
 * [Seattle(Washington) Sick Leave Poster](https://www.seattle.gov/documents/Departments/LaborStandards/OLSFactSheetPSSTRevised31920%282%29.pdf)
 * [Tacoma(Washington) Sick Leave Poster](https://cms.cityoftacoma.org/finance/paid-leave/notices/2018-Paid-Leave-Workplace-Notice-English.pdf)
