@@ -36,7 +36,7 @@ US Equal Employment Opportunity Commission
 
 Notices for US States
 
-* [Carlifornia Whistleblower Protection Notice](https://www.dir.ca.gov/dlse/whistleblowersnotice.pdf)
+* [California Whistleblower Protection Notice](https://www.dir.ca.gov/dlse/whistleblowersnotice.pdf)
 * [Colorado Whistleblower Protection Notice](https://cdle.colorado.gov/sites/cdle/files/%5BCLEAN%20June%201%2C%202022%5D%20Poster%2C%20Paid%20Leave%20%26%20Whistleblower.pdf)
 * [Hawaii Whistleblower Protection Notice](https://labor.hawaii.gov/wp-content/uploads/2013/07/Whistle-Blower-Poster.pdf)
 * [Maine Whistleblower Protection Notice](https://www.maine.gov/labor/docs/2022/posters/whistleblower/whistleblowerprotection_English.pdf)
