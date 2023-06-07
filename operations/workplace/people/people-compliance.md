@@ -66,7 +66,7 @@ Sick Leave Posters for US states/Cities
 * [Cook County (Illinois) Sick Leave Poster](https://www.cookcountyil.gov/sites/g/files/ywwepo161/files/service/model-earned-sick-leave-notice-employees-workplace-poster.pdf)
 * [Maine Sick Leave Poster](https://www.maine.gov/labor/docs/2022/posters/roe/regulationofemployment_English.pdf)
 * [Maryland Sick Leave Poster](https://www.dllr.state.md.us/paidleave/paidleaveposter.pdf)
-* [Montgomery County(Maryland) Sick Leave Poster](https://www.montgomerycountymd.gov/humanrights/Resources/Files/EarnedSickandSavedLeave_Poster.pdf)
+* [Montgomery County (Maryland) Sick Leave Poster](https://www.montgomerycountymd.gov/humanrights/Resources/Files/EarnedSickandSavedLeave_Poster.pdf)
 * [Massachusetts Sick Leave Poster](https://www.mass.gov/doc/earned-sick-time-notice-of-employee-rights-english/download)
 * [Michigan Sick Leave Poster](https://www.michigan.gov/leo/-/media/Project/Websites/leo/Documents/WAGE-HOUR/WHD-99xx-Information-Sheets/WHD-9911-PMLA-Poster/Paid_Medical_Leave_Act_Poster_9911_English.pdf?rev=764ee47c1ed442bd9ac1d904eb042ea7&hash=31AC205C4341736BEF941A0FCF09DF51)
 * [Duluth(Minnesota) Sick Leave Poster](https://duluthmn.gov/media/8332/esst-poster.pdf)
