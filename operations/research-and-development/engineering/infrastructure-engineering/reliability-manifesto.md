@@ -80,7 +80,7 @@ The observability manifesto should cover three main pillars:
 **O-10** Raw metrics should be kept for 7 days and 5m/1h resolution metrics should be kept for 365 days for all production systems. 
 
 ### Tracing (Placeholder)
-O-11 As we are moving more into microservices, request tracing should be implemented for each microservice to enable distributed request tracing analysis.
+**O-11** As we are moving more into microservices, request tracing should be implemented for each microservice to enable distributed request tracing analysis.
 
 ## Performance & Cost Efficiency
 

@@ -9,6 +9,7 @@ The goals of the readiness review is to improve the followings:
 - Capacity planning
 - Change management
 - Performance, availability, latency and efficiency
+- Security posture
 - Increase awareness and boost collaboration with a goal to built a cloud-native product
 
 This will help to increase the collaboration between Product, Security and Infrastructure teams in order to bridge any gaps about a new service, feature or infrastructure change. The review document is not intended to be constantly updated and it reflects a snapshot of the reality of what is being deployed and the discussions around it. 
@@ -31,3 +32,7 @@ The PRR playbook uses [Playbooks task actions](https://docs.mattermost.com/playb
 - etc.
 
 This will automatically mark the task item list as done based on the current members of the engineering teams.
+
+## Library
+
+You can find the Infrastructure library [here](/operations/research-and-development/engineering/infrastructure-engineering/infrastructure-library.md)
