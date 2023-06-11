@@ -11,6 +11,7 @@ description: >-
 
 * [About Mattermost](../../company/about-mattermost/#mission) - Mission, vision, company overview, history
 * [R&D Operations](https://handbook.mattermost.com/operations/research-and-development) - How we build software
+* [Deployment Engineering Operations](https://handbook.mattermost.com/operations/deployment-engineering) - How we support customer deployments
 * [Finance Operations](https://handbook.mattermost.com/operations/finance) - Procurement, spend, fiscal year infor, etc. 
 * [Legal Operations](https://handbook.mattermost.com/operations/legal) - Approvals, processes and specialist legal support
 * [Security Operations](https://handbook.mattermost.com/operations/security) - Our security, privacy and policies around security research 
