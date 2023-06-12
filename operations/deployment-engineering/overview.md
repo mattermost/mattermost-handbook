@@ -2,7 +2,7 @@
 
 Deployment Engineering provides expertise on how to run and deploy Mattermost and the platform as a whole, and act as extensions of R&D supporting customers in partnership with post-sales and revenue retention teams.
 
-## Mandte
+## Team Mandate
 
 The team's primary mandate is to increase customer seats deployed.
 
