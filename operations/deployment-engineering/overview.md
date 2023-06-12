@@ -2,6 +2,12 @@
 
 Deployment Engineering provides expertise on how to run and deploy Mattermost and the platform as a whole, and act as extensions of R&D supporting customers in partnership with post-sales and revenue retention teams.
 
+## Mandte
+
+The team's primary mandate is to increase customer seats deployed.
+
+We collect [seats deployed data](https://docs.google.com/spreadsheets/d/1ZnjJHWIsT9hIxotCYrSG66XIWsf_usf258Ll8HgVmzU/edit#gid=423031054) on a quarterly basis where available, and prioritize initiatives based on a) underdeployment with low customer adoption (e.g. 50% of users are active on a monthly basis), and b) customer ARR >$50,000.
+
 ## Q2 Priorities (May - July)
 
 The Deployment Engineering team has three key priorities for this quarter:
@@ -38,3 +44,10 @@ A complete list of AORs is included below:
   - **Technical line of defense for deployment escalations**: Ensure customer environments have what we need to help (e.g. system diagnostics, performance monitoring), perform deep troubleshooting and data collection, end-to-end handling of some incidents, escalate and partner with R&D for incidents that require more support.
 
 For other references, see [this document for customer reliability engineering](https://docs.google.com/document/d/1KS2Kt_gujCynK-Rl9vHN7zb6UfPe5kNeaUOYpQHMOcs/edit#), and [these slides for post-sales & revenue retention AORs](https://docs.google.com/presentation/d/1d00K-er3B15UFW9OkZrC0Y03htolYn6K874ZBucCAJo).
+
+## Links to Key Documents
+
+- Jira board: https://mattermost.atlassian.net/jira/software/c/projects/MM/boards/127
+- Confluence page of deployment engineering solutions https://mattermost.atlassian.net/wiki/spaces/~557058c88c3d11b60143deaba6d3d018132127/pages/2461925377/Deployment+Engineering+Solutions
+- Deployed seats data: https://docs.google.com/spreadsheets/d/1ZnjJHWIsT9hIxotCYrSG66XIWsf_usf258Ll8HgVmzU/edit#gid=423031054
+- Services request template https://docs.google.com/document/d/1EbP4Ab7N2hEAv--DRCcZHk0XtlG1MFP8F8F0viaTM7I/edit
