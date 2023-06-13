@@ -60,7 +60,7 @@ The observability manifesto should cover three main pillars:
 
 **O-1** Logs should include meaningful messages and stack trace should not be a requirement to understand the log message.
 
-**O-2** Service logs are enriched with metadata & attributes that differentiate the service (e.g service: boards).
+**O-2** Service logs are enriched with metadata & attributes that differentiate the service (e.g service: ldap).
 
 **O-3** Logging levels should be consistent across services and false errors should be avoided to enable generation of metrics, patterns and dashboards.
 
