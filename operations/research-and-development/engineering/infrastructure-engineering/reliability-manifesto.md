@@ -31,7 +31,7 @@ There is always room for improvement in our knowledge and our systems. The conti
 
 **C-3** No single engineer should fully deploy a new service across all environments. We share knowledge and reduce the team bus factor. 
 
-**C-4** Blameless culture is a key. People make mistakes and systems (do) fail. We need to learn from them and help each other. 
+**C-4** Blameless culture is a key. People make mistakes and systems do fail. We need to learn from them and help each other.
 
 ## Design & Architecture
 
