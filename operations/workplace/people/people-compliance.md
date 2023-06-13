@@ -36,14 +36,21 @@ US Equal Employment Opportunity Commission
 
 Notices for US States
 
+*[Alaska Whistleblower Protection Notice](https://doa.alaska.gov/dop/fileadmin/StatewidePlanning/pdf/WhistleblowerActPoster.pdf)
 * [California Whistleblower Protection Notice](https://www.dir.ca.gov/dlse/whistleblowersnotice.pdf)
 * [Colorado Whistleblower Protection Notice](https://cdle.colorado.gov/sites/cdle/files/%5BCLEAN%20June%201%2C%202022%5D%20Poster%2C%20Paid%20Leave%20%26%20Whistleblower.pdf)
+* [Delaware Whistleblower Protection Notice](https://drive.google.com/file/d/19kesJbjxgB1SpjCjUi4kcveATMqfeynT/view?usp=sharing)
+* [Georgia Whistleblower Protection Notice](https://drive.google.com/file/d/19RQss_-m053HyhNUwkxcZIf25kxFkEw1/view?usp=sharing)
 * [Hawaii Whistleblower Protection Notice](https://labor.hawaii.gov/wp-content/uploads/2013/07/Whistle-Blower-Poster.pdf)
+* [Louisiana Whistleblower Protection Notice](https://www.laworks.net/Downloads/Posters/PRPosters/Public_Employees.pdf)
 * [Maine Whistleblower Protection Notice](https://www.maine.gov/labor/docs/2022/posters/whistleblower/whistleblowerprotection_English.pdf)
+* [Michigan Whistleblower Protection Notice](https://www.michigan.gov/-/media/Project/Websites/leo/Documents/MIOSHA31/wsh_whistleblowers.pdf?rev=e193981ba58a476f97e34f20019acdf2)
 * [New Hampshire Whistleblower Protection Notice](https://www.nh.gov/labor/documents/whistleblower-poster.pdf)
 * [New Jersey Whistleblower Protection Notice](https://www.nj.gov/labor/wageandhour/assets/PDFs/Employer%20Poster%20Packet/CEPA270.1.pdf)
 * [New York Whistleblower Protection Notice](https://www.nysdental.org/docs/librariesprovider37/default-document-library/new-york-state-department-of-labor-required-employer-whistleblower-notice.pdf?sfvrsn=f7b4f08a_0)
 * [Rhode Island Whistleblower Protection Notice](http://webserver.rilin.state.ri.us/Statutes/TITLE28/28-50/28-50-3.htm)
+* [Texas Whistleblower Protection Notice](https://www.texasattorneygeneral.gov/sites/default/files/files/divisions/general-oag/WhistleblowerPoster.pdf)
+* [Vermont Whistleblower Protection Notice](https://humanresources.vermont.gov/sites/humanresources/files/documents/Vermont%20Whistleblower%20Statute%202014.pdf)
 
 ### US States Sick Leave Policies 
 
