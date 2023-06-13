@@ -43,7 +43,7 @@ Better design and architectures create more reliable systems and reduce technica
 
 **D-3** We should avoid monolithic designs for custom services when possible. Microservice design should be the aim and services should be open sourced for community usage when they don’t expose private company information.
  
-**D-4** All services should be followed by architecture diagrams (we use Lucidchart) when possible and documentation. 
+**D-4** All services should be followed by architecture diagrams (e.g. Lucidchart) when possible and documentation.
 
 **D-5** Always be mindful that services work in a different way at scale. Configurations that might work in local environments could have a major impact in production systems. For example, a possible abuse of the amount of database connections used. 
 
