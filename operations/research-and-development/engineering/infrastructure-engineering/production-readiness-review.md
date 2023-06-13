@@ -25,7 +25,7 @@ The PRR process is initiated by the DRI of the related work with the following s
 ## Completion
 Once all comments have been addressed and the reviewers are satisfied they could check off the task item in which they are owners. When all the set approvals are there, the playbook run needs to be closed.
 
-Pro-tips approvals
+### Pro-tips approvals
 The PRR playbook uses [Playbooks task actions](https://docs.mattermost.com/playbooks/work-with-tasks.html#task-actions), so when you are done with your review and you are ready to approve you can just write in the channel the following:
 - SRE review is completed
 - Platform review is completed
