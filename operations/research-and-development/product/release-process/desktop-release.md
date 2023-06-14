@@ -8,6 +8,8 @@ A dot release will be prepared sooner if [Electron](https://github.com/electron/
 
 Please refer to [the desktop app release playbook](https://community.mattermost.com/playbooks/playbooks/h3a39biacpnuim7ufmwiuuoxfo/outline) for a most up-to-date checklist.
 
+For the desktop app release build process, please refer to [this document](https://developers.mattermost.com/internal/desktop-release-process/).
+
 ## Release timeline
 
 Note: T-minus counts are measured in "working days" (weekdays other than major holidays concurrent in US and Canada) prior to release day.
