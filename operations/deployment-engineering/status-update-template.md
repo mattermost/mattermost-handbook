@@ -1,4 +1,4 @@
-# Deployment Engineering: MME Sev 1 Outage Status Update Template
+# Deployment Engineering: MME Sev 1 outage status update template
 
 Below is a template for sharing status updates for MME Sev 1 Outages:
 
