@@ -1,4 +1,4 @@
-# Deployment Engineering
+# Deployment engineering
 
 **Deployment Engineering** provides expertise on how to run and deploy Mattermost and the platform as a whole, and act as extensions of R&D supporting our customers in partnership with post-sales and revenue retention teams.
 
