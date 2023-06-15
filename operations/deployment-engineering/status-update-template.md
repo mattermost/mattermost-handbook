@@ -20,7 +20,7 @@ Below is a template for sharing status updates for MME Sev 1 Outages:
 <summary of technical notes>
 ```
 
-## Sample Status Update
+## Sample status update
 
 ### Enterprise ABC SEV1 outage - 7:20pmET update
 
