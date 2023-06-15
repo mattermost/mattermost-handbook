@@ -16,7 +16,7 @@ The Deployment Engineering team has three key priorities for this quarter:
 2. Completing the deployment of the Mattermost solution for Microsoft Teams in a customer environment.
 3. Completing a loadtest scenario of a Sev0 outage scenario in a customer environment, where up to 15,000 users logs in to the system within 15 minutes.
 
-## Areas of Responsibility (AORs)
+## Areas of responsibility (AORs)
 
 The team's primary mandate is to increase customer seats deployed, deeply understanding technical/engineering bottlenecks, and solving for them. Moreover, we are responsible for creating reference architectures, supporting non-standard deployments with complex technical problems, and providing engineering support to post-sales teams with >$50K customers on critical escalations, one-off custom solutions & integrations based on requirements defined by the CSMs/TAMs.
 
