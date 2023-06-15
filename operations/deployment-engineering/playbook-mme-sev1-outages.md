@@ -96,7 +96,7 @@ Some aspects of this playbook is a work in progress, marked with "XXX".
 
  - _MME Sev 1 outage >1 hour requires CEO looped into customer. Include a timeline for anticipated resolution._
 
-## 5 - Release Preparation
+## 5 - Release preparation
 
 [ ] Merge PR to master branch
 
