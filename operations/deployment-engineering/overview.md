@@ -8,7 +8,7 @@ The team's primary mandate is to increase customer seats deployed.
 
 We collect [seats deployed data](https://docs.google.com/spreadsheets/d/1ZnjJHWIsT9hIxotCYrSG66XIWsf_usf258Ll8HgVmzU/edit#gid=423031054) on a quarterly basis where available, and prioritize initiatives based on a) underdeployment with low customer adoption (e.g. 50% of users are active on a monthly basis), and b) customer ARR >$50,000.
 
-## Q2 Priorities (May - July)
+## FY24 Q2 priorities (May - July)
 
 The Deployment Engineering team has three key priorities for this quarter:
 
