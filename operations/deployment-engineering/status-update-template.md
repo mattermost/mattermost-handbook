@@ -42,7 +42,7 @@ While the outage is ongoing, mood with ABC team felt much lighter after the root
 
 ABC is preparing comms for an emergency upgrade patch. Last time in September approvals were bypassed with Alice Evan's signoff (SVP - Senior Technical Manager at ABC). Alice was on call and was ready to sign off on the approvals.
 
-#### Technical Notes
+#### Technical notes
 
 The cause appears to be a recent change that results in a long-running bot query hitting the database directly more often instead of a cache. Delivery team has been notified for a patch release in v7.8.6, which ABC would first test in dev/uat, then roll to prod if it's deemed to solve the root cause.
 
