@@ -44,7 +44,7 @@ Some aspects of this playbook is a work in progress, marked with "XXX".
 
  - _Link to relevant docs_
 
-## 3 - Data Review
+## 3 - Data review
 
 [ ] Review system configuration settings that may impact performance
 
