@@ -45,7 +45,7 @@ A complete list of AORs is included below:
 
 For other references, see [this document for customer reliability engineering](https://docs.google.com/document/d/1KS2Kt_gujCynK-Rl9vHN7zb6UfPe5kNeaUOYpQHMOcs/edit#), and [these slides for post-sales & revenue retention AORs](https://docs.google.com/presentation/d/1d00K-er3B15UFW9OkZrC0Y03htolYn6K874ZBucCAJo).
 
-## Links to Key Documents
+## Links to key documents
 
 - Jira board: https://mattermost.atlassian.net/jira/software/c/projects/MM/boards/127
 - Confluence page of deployment engineering solutions https://mattermost.atlassian.net/wiki/spaces/~557058c88c3d11b60143deaba6d3d018132127/pages/2461925377/Deployment+Engineering+Solutions
