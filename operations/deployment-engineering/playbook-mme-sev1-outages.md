@@ -2,7 +2,7 @@
 
 Below is a codified playbook used to respond to MME Sev 1 Outages.
 
-Some aspects of this playbook is a work in progress, marked with "XXX". 
+For the latest version, refer to the playbook in our Mattermost community instance: https://community.mattermost.com/playbooks/playbooks/9agdqr7jdtda7p4g8dxbppcibw
 
 ## 1 - Escalation
 
