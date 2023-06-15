@@ -22,7 +22,7 @@ Some aspects of this playbook is a work in progress, marked with "XXX".
 
  - _MME Sev 1 outage >1 hour requires CEO looped into customer_
 
-## 2 - Data Gathering
+## 2 - Data gathering
 
 [ ] Share system information
 
