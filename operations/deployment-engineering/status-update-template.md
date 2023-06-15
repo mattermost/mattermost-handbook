@@ -36,7 +36,7 @@ Huge thanks to @neill.collie for being on the bridge call for 9 hours. Additiona
 
 Next update will be shared at 8amET.
 
-#### Customer Impact
+#### Customer impact
 
 While the outage is ongoing, mood with ABC team felt much lighter after the root cause was identified. The call ended in a good note.
 
