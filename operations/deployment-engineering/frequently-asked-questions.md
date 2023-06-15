@@ -1,4 +1,4 @@
-# Deployment Engineering: Frequently Asked Questions
+# Deployment Engineering: Frequently asked questions
 
 ## How is this team measured?
 
