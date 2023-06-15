@@ -70,7 +70,7 @@ Some aspects of this playbook is a work in progress, marked with "XXX".
 
  - _MME Sev 1 outage >1 hour requires CEO looped into customer. Include a timeline for anticipated resolution._
 
-## 4 - Code Investigation
+## 4 - Code investigation
 
 [ ] Based on findings from data review, identify areas of codebase with potential root cause
 
