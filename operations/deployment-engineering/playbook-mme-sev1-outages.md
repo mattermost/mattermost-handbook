@@ -122,7 +122,7 @@ Some aspects of this playbook is a work in progress, marked with "XXX".
 
  - _MME Sev 1 outage >1 hour requires CEO looped into customer. Include a timeline for anticipated resolution._
 
-## 6 - Dot Release Deployment
+## 6 - Dot release deployment
 
 [ ] Send dot release binary to customer
 
