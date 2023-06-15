@@ -6,7 +6,7 @@ Primary measurement is **Customer Seats Deployed** - % of customers with >$50K A
 
 ## How will work be allocated to this team?
 
-Deployment Engineering will work closely with other post-sales teams (support, customer success, TAMs) to determine the highest impact technical customer priorities for the team to work on.
+Deployment Engineering will work closely with other post-sales teams (CREs, customer success, TAMs) to determine the highest impact technical customer priorities for the team to work on.
 
 For instance, when choosing between three options, work will always be prioritized based on the impact level, with effort taken into consideration (e.g. a medium impact low effort technical priority may supersede a high impact but very high effort priority).
 
