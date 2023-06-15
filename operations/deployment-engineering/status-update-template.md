@@ -26,7 +26,7 @@ Below is a template for sharing status updates for MME Sev 1 Outages:
 
 #### Status: Identified
 
-#### Incident Time: 9 hours
+#### Incident time: 9 hours
 
 We've identified the likely root cause. PR is in progress, with the goal to merge tonight, followed by a 7.8.6 dot release for ABC by tomorrow morning.
 
