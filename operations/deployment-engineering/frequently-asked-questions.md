@@ -4,7 +4,7 @@
 
 Retention is the #1 priority, and underdeployment is the leading cause for contraction. 
 
-Deployment Engineering helps TAMs by leveraging engineering talent to accelerate customer success with deeper platform knowledge given their background in software design engineering, thus accelerating seat deploymets, thus reducing contraction, thus increasing renewal rates.
+Deployment Engineering helps customer-facing teams (TAMs, CREs, CS) by leveraging engineering talent to accelerate customer success with deeper platform knowledge given their background in software design engineering, thus accelerating seat deploymets, thus reducing contraction, thus increasing renewal rates.
 
 ## How is this team measured?
 
