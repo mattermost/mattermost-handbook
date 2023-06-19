@@ -40,7 +40,7 @@ Mattermost is required by US federal regulations to maintain certain demographic
 **To voluntarily self-identify race/ethnicity, sex, and/or veteran status:**
 - 1. Log in to TriNet.
 - 2. Select the **View/Edit Profile** link located under your name and title.
-- In the Personal Info tab, click "Edit"
+- 3. On the **Personal Info** tab, select **Edit**.
 - 4. Make changes and select **Save**.
 
 - To voluntarily self-identify a disability, complete this form via DocuSign: [Voluntary Form to Self-Identify a Disability](https://powerforms.docusign.net/64f81e7c-c870-4258-95c6-4b05bc5e5847?env=na3&acct=533bad41-ea71-442d-b8aa-6b3d45e971d6&accountId=533bad41-ea71-442d-b8aa-6b3d45e971d6). 
