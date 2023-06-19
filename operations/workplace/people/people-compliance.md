@@ -39,7 +39,7 @@ Mattermost is required by US federal regulations to maintain certain demographic
 
 **To voluntarily self-identiy race/ethnicity, sex, and/or veteran status**
 - 1. Log in to TriNet.
-- Click the "View/Edit Profile" link located under your name and title
+- 2. Select the **View/Edit Profile** link located under your name and title.
 - In the Personal Info tab, click "Edit"
 - Make changes and press "save"
 
