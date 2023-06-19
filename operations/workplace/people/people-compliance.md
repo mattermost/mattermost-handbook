@@ -37,7 +37,7 @@ US Equal Employment Opportunity Commission
 
 Mattermost is required by US federal regulations to maintain certain demographic information of personnel and applicants. As part of this requirement, all US-based staff are invited to voluntarily self-identify with demographic categories set by the EEOC, including: race/ethnicity, sex, disability status, and/or veteran status. Mattermost will only use the information provided in ways that are consistent with our obligations under equal opportunity employment laws. Any disability information will be kept separate from all other personnel records, and will only be accessed by appropriate staff in the Human Resources department; however, managers may be informed of disability-related work restrictions and accommodations, where necessary. Providing the information is voluntary and will not affect the terms and conditions of employment. If US-based staff members choose not to self-identify their race or ethnicity, the US federal government requires Mattermost to determine this information using visible observation and/or other available information. Mattermost is committed to equal employment opportunities for all staff in all matters of employment regardless of race, religion, national origin, age, gender, disability, or veteran status, or any other status protected by law. 
 
-**To voluntarily self-identiy race/ethnicity, sex, and/or veteran status**
+**To voluntarily self-identify race/ethnicity, sex, and/or veteran status:**
 - 1. Log in to TriNet.
 - 2. Select the **View/Edit Profile** link located under your name and title.
 - In the Personal Info tab, click "Edit"
