@@ -35,6 +35,16 @@ US Equal Employment Opportunity Commission
 * [Know Your Rights: Workplace Discrimination is Illegal (Spanish)](https://www.eeoc.gov/es/conozca-sus-derechos-la-discriminacion-en-el-lugar-de-trabajo-es-ilegal)
 * [Family and Medical Leave Act (FMLA) Poster (US)](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf)
 
+Mattermost is required by US federal regulations to maintain certain demographic information of personnel and applicants. As part of this requirement, all US-based staff are invited to voluntarily self-identify with demographic categories set by the EEOC, including: race/ethnicity, sex, disability status, and/or veteran status. Mattermost will only use the information provided in ways that are consistent with our obligations under equal opportunity employment laws. Any disability information will be kept separate from all other personnel records, and will only be accessed by appropriate staff in the Human Resources department; however, managers may be informed of disability-related work restrictions and accommodations, where necessary. Providing the information is voluntary and will not affect the terms and conditions of employment. If US-based staff members choose not to self-identify their race or ethnicity, the US federal government requires Mattermost to determine this information using visible observation and/or other available information. Mattermost is committed to equal employment opportunities for all staff in all matters of employment regardless of race, religion, national origin, age, gender, disability, or veteran status, or any other status protected by law. 
+
+**To voluntarily self-identify race/ethnicity, sex, and/or veteran status:**
+- 1. Log in to TriNet.
+- 2. Select the **View/Edit Profile** link located under your name and title.
+- 3. On the **Personal Info** tab, select **Edit**.
+- 4. Make changes and select **Save**.
+
+- To voluntarily self-identify a disability, complete this form via DocuSign: [Voluntary Form to Self-Identify a Disability](https://powerforms.docusign.net/64f81e7c-c870-4258-95c6-4b05bc5e5847?env=na3&acct=533bad41-ea71-442d-b8aa-6b3d45e971d6&accountId=533bad41-ea71-442d-b8aa-6b3d45e971d6). 
+
 ### Notification of Employee Rights Under the National Labor Relations Act (NLRA)
 
 * [Employee Rights under the NLRA Notice](https://www.dol.gov/sites/dolgov/files/olms/regs/compliance/eo_posters/employeerightsposter11x17_2019final.pdf)
