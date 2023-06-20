@@ -83,3 +83,10 @@ Any ideas that are:
 - [Delivery](https://mattermost.atlassian.net/jira/software/c/projects/CLD/boards/112)
 - [SRE](https://mattermost.atlassian.net/jira/software/c/projects/CLD/boards/109)
 - [Platform](https://mattermost.atlassian.net/jira/software/c/projects/CLD/boards/129)
+
+## Resources
+- [On-boarding Playbook](https://community.mattermost.com/playbooks/playbooks/umjh64eix7yidxupbm17yz7oka)
+- [Reliability Manifesto](/operations/research-and-development/engineering/infrastructure-engineering/reliability-manifesto.md)
+- [Production Readiness Reviews](/operations/research-and-development/engineering/infrastructure-engineering/production-readiness-review.md)
+- [Infrastructure Library](/operations/research-and-development/engineering/infrastructure-engineering/infrastructure-library.md)
+- [Incident Response Playbook](https://community.mattermost.com/playbooks/playbooks/96cu7gcu6tg68do365qhkdi7py)
