@@ -164,3 +164,23 @@ These questions give Managers insight on behaviors that are positively observed 
 After the survey analysis is presented at [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com), HR will share Team Enablement Results with MLT and Managers, as long as there are at least five submitted responses. HR will work with MLT or the Team Lead to focus on relevant and actionable results based on the feedback. Next, MLT or Team Leads will share and discuss any next steps with the team.
 
 Post-survey actions start with team conversations and may include pulse surveys and listening sessions to help contextualize feedback and uncover blindspots. With bi-annual surveys, post-survey action planning should be iterative throughout the year.
+
+## Pulse Surveys
+
+For the second half of 2023, we will be taking frequent *pulse checks* via mini engagment surveys. The purpose of the pulse engagement surveys is to gain meaningful insights into staff sentiments and engagement levels, to maintain a flow of continuous feedback, and to measure the impact of post-survey engagement initiatives. 
+
+The bi-monthly pulse surveys will ask the following 6 core engagement questions:
+- The leaders at Mattermost have communicated a vision that motivates me
+- I know how my work contributes to Mattermost's goals
+- I know what I need to do to be successful in my role
+- I am appropriately involved in decisions that affect my work
+- I believe there are good career opportuntities for me at Mattermost
+- I would recommend Mattermost as a great place to work
+
+Based on the results, the People Team and/or your team leadership will follow up with action items which could include things like [listening sessions](https://handbook.mattermost.com/operations/workplace/people/hr-cadences#listening-sessions) or [listening tours](https://handbook.mattermost.com/operations/operations/company-cadence#ceo-listening-tours) to help us gain a deeper understanding of how individuals and teams are feeling. The initiatives may be org-wide or department specific and the People Team will work closely with managers to action the results. Department-level feedback will be shared with the respective Team MLX and Team MLT, and only general themes gleaned from comments will be shared to maintain the confidentiality of respondents. 
+
+### Pulse Survey Dates
+- **June 2023** | June 22, 2023 - June 28, 2023
+- **August 2023** | August 24, 2023 - August 30, 2023
+- **October 2023** | October 26, 2023 - November 1, 2023
+- **January 2024** | January 25, 2024 - February 3, 2024
