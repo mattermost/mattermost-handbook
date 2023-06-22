@@ -58,6 +58,8 @@ Mattermost uses Gallup’s 12 Engagement questions to assess how enabled staff a
 
 We value high trust over micromanagement and want to continuously improve how we enable all staff to bring their best self to work. The bi-annual engagement survey helps HR, MLT, and Managers focus on high impact initiatives that mean the most to the staff experience.
 
+Staff enablement surveys are anonymous. To maintain the confidentiality of individuals and small groups, the reporting group minimum is 5 respondents. If a reporting group has fewer than 5 respondents, the group's Manager/Team MLT will receive departmental-level or company-level results only. The People Team will only share general themes gleaned from comments to maintain the confidentiality of respondents, no matter the size of the reporting group.  
+
 ### Cadence
 
 * Every six months \(in March and September\).
@@ -177,7 +179,7 @@ The bi-monthly pulse surveys will ask the following 6 core engagement questions:
 - I believe there are good career opportuntities for me at Mattermost
 - I would recommend Mattermost as a great place to work
 
-Based on the results, the People Team and/or your team leadership will follow up with action items which could include things like [listening sessions](https://handbook.mattermost.com/operations/workplace/people/hr-cadences#listening-sessions) or [listening tours](https://handbook.mattermost.com/operations/operations/company-cadence#ceo-listening-tours) to help us gain a deeper understanding of how individuals and teams are feeling. The initiatives may be org-wide or department specific and the People Team will work closely with managers to action the results. Department-level feedback will be shared with the respective Team MLX and Team MLT, and only general themes gleaned from comments will be shared to maintain the confidentiality of respondents. 
+Based on the results, the People Team and/or your team leadership will follow up with action items which could include things like [listening sessions](https://handbook.mattermost.com/operations/workplace/people/hr-cadences#listening-sessions) or [listening tours](https://handbook.mattermost.com/operations/operations/company-cadence#ceo-listening-tours) to help us gain a deeper understanding of how individuals and teams are feeling. The initiatives may be org-wide or department specific and the People Team will work closely with managers to action the results. The confidentiality rules and reporting group minimums of Enablement Surveys apply to Pulse Engagement Surveys. Department-level feedback will be shared with the respective Team MLX and Team MLT, and only general themes gleaned from comments will be shared to maintain the confidentiality of respondents. 
 
 ### Pulse Survey Dates
 - **June 2023** | June 22, 2023 - June 28, 2023
