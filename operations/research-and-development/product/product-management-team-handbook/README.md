@@ -22,9 +22,7 @@ The PM team includes (in alphabetical order, by their username on https://commun
 - @john.lugtu
 - @katie.wiersgalla
 - @neil.barnett
-- @sandy.atkinson
-- @tao
-- @winson.wu
+
 
 ## The Product Manager role
 
