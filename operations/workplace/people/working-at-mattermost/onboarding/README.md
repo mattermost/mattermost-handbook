@@ -24,7 +24,7 @@ New staff will be invited to share feedback of their onboarding experience after
 
 Similar to [CEO listening tours](https://handbook.mattermost.com/operations/operations/company-cadence#ceo-listening-tours) in this session, new colleagues are asked to share [likes and wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes) about anything related to Mattermost and the Onboarding Program. This session with the CEO is scheduled 2 months after the start date of new staff.
 
-The People team will schedule a week 1 check-in with new staff. This check-in serves as an opportunity to address any unanswered questions the new staff members may have. It also allows for seeking clarification on the onboarding process if anything remains unclear. Additionally, the check-in aims to provide general guidance and support as needed during the initial stages of employment. 
+The People Team will invite new staff members to a Week-1 Check-in. The check-in is an opportunity for new staff members to reflect on their first week, review resources, programs, policies, and tools, and ask the People Team questions. Here's a list of [questions](https://docs.google.com/document/d/1eIffSDfWH24myJXZES1jOtfIZp9_xM6Swx5lWNdnxiM/edit) the People team will walk through together with the new staff member during the Check-in.
 
 ### New Colleague Feedback
 
