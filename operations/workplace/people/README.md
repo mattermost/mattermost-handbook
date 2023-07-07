@@ -69,17 +69,20 @@ Mattermost, Inc.
 530 Lytton Avenue, 2nd Floor
 Palo Alto, CA, 94301
 ```
+### Phone Number
+
+The official phone number for Mattermost, Inc. is +1 (650) 667-8512. All company phone calls are received via Ruby, our virtual receptionist app. Full-time staff members who wish to be added to the directory should contact hanna@mattermost.com or hr@mattermost.com. 
 
 ### Letter of Employment
 
 If you need a letter from Mattermost verifying your employment or contractor status, please send the request to [hr@mattermost.com](mailto:hr0mattermost.com) citing what information is needed.
 
-For example, monthly fee, salary, start date, title, etc. People Ops will send you the letter once it is completed.
+For example, monthly fee, salary, start date, title, etc. People team will send you the letter once it is completed.
 
 If you are a U.S. staff member and on payroll through TriNet, see [TriNet Contact Information](https://drive.google.com/file/d/15AdHLRB9CvMbeUStJ8laqlDJwPZZ2RT-/view?usp=sharing). Please make sure to include the TriNet Employer Code when you share TriNet contact information with your verifying institution.
 
 ### Mattermost Invitation Letter (for Visa Application)
-If you are traveling on behalf of the company and need an invitation letter as a part of the visa application process, please complete [this form](https://forms.gle/nWbqRQ55odHpn46w9). People Ops will write a letter based off of the information you provide in the form and will send it to you within 2 business days.
+If you are traveling on behalf of the company and need an invitation letter as a part of the visa application process, please complete [this form](https://forms.gle/nWbqRQ55odHpn46w9). People team will write a letter based off of the information you provide in the form and will send it to you within 2 business days.
 
 If you would like a letter confirming traveling insurance when traveling on behalf of the company, please review the [Business Travel Insurance](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/travel/business-travel-insurance) section of the handbook and complete the [AIG Travel Insurance Generation Form](https://drive.google.com/file/d/1Eqo4Y7jses8p1uUPfOhxnb4Rp3RMXlCW/view?usp=sharing).
 ### Regular Compensation
@@ -104,17 +107,18 @@ If you would like a letter confirming traveling insurance when traveling on beha
 
 BambooHR is our Human Resources Information System \(HRIS\). BambooHR is a single source of truth for staff information, and data updates are supported by the following [directly responsible individuals](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#dri):
 
-> * The HR team uses BambooHR to store and update staff job information, records and important documents, for HR reporting and analytics, and to create new hire onboarding and offboarding workflows.
+> * The People team uses BambooHR to store and update staff job information, records and important documents, for HR reporting and analytics, and to create new hire onboarding and offboarding workflows.
 > * Staff use BambooHR to update their personal and emergency contact information, to submit their PTO, and to reference the organizational chart and staff directory.
-> * Managers use BambooHR to approve their team's PTO, recieve onboarding/offboarding notifications, approve appropriate changes for their team and/or direct reports. Note: managers will receive requests via a BambooHR notification sent to a Manager's Mattermost email address. Managers can click through the email notification to approve or approve directly in BambooHR. 
+> * Managers use BambooHR to approve their team's PTO, receive onboarding/offboarding notifications, approve appropriate changes for their team and/or direct reports. Note: managers will receive requests via a BambooHR notification sent to a Manager's Mattermost email address. Managers can click through the email notification to approve or approve directly in BambooHR. 
 > * Executive Assistants \(EAs\) are able to update personal information for the MlT team members they support, and to be vacation-ready any appropriate back-up EAs will be able to update personal information as-needed. 
 > * To access the system go to [https://mattermost.bamboohr.com/](https://mattermost.bamboohr.com/) and use your Mattermost credentials to log in.
 
 Resources: How-to for Staff Members
 
-> * [Update your information](https://help.bamboohr.com/hc/en-us/sections/206084487-Managing-Your-Information)
->   * [Find the Company Directory](https://help.bamboohr.com/hc/en-us/articles/216836007)
->   * [Update your Information](https://help.bamboohr.com/hc/en-us/articles/227321928-Employee-Access-Manual)
+>   * [Update your information](https://help.bamboohr.com/hc/en-us/sections/206084487-Managing-Your-Information)
+>   * [View the Company Directory and Org Chart](https://help.bamboohr.com/hc/en-us/articles/216836007)
+>   * [Request Time Off](https://help.bamboohr.com/hc/en-us/articles/360052355912-Request-Time-Off)
+>   * [Employee Access Manual](https://help.bamboohr.com/hc/en-us/articles/227321928-Employee-Access-Manual)
 
 ### Culture Amp
 
