@@ -71,7 +71,7 @@ Palo Alto, CA, 94301
 ```
 ### Phone Number
 
-The official phone number for Mattermost, Inc. is +1 (650) 667-8512. All company phone calls are received via Ruby, our virtual receptionist app. FT staff that wish to be added to the directory should contact hanna@mattermost.com or hr@mattermost.com. 
+The official phone number for Mattermost, Inc. is +1 (650) 667-8512. All company phone calls are received via Ruby, our virtual receptionist app. Full-time staff members who wish to be added to the directory should contact hanna@mattermost.com or hr@mattermost.com. 
 
 ### Letter of Employment
 
