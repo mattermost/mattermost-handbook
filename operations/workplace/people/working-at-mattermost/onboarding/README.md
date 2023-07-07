@@ -12,7 +12,7 @@ Onboarding is an all-company partnership between a new colleague and Mattermost.
 
 Post-Onboarding Readiness is an internal measure based on feedback throughout a new team member’s first 90 days at Mattermost. There are multiple milestones throughout the onboarding process where feedback is solicited. This feedback assesses how willing and enabled a new colleague is to bring their best self to Mattermost as it relates to their role expectations, team and company focuses, and the Mattermost Leadership Principles.
 
-Feedback is requested from the new colleague's peers throughout the 90-day Onboarding. These consistent check-ins help new colleagues, HR, and managers iterate with impact quickly. For example, one of the [V2MOM - Destination Workplace Measures](https://docs.google.com/presentation/d/1BDSaeW-M92gth_NM1vI23dtbFLBsYVIk/edit#slide=id.g6f2ea8cda4_8_1852) is to have fewer than 5% questions repeat month-over-month.
+Feedback is requested from the new colleague's peers throughout the 90-day Onboarding. These consistent check-ins help new colleagues, People team, and managers iterate with impact quickly. For example, one of the [V2MOM - Destination Workplace Measures](https://docs.google.com/presentation/d/1BDSaeW-M92gth_NM1vI23dtbFLBsYVIk/edit#slide=id.g6f2ea8cda4_8_1852) is to have fewer than 5% questions repeat month-over-month.
 
 ## Onboarding Feedback to Assess Post-Onboarding Readiness
 
@@ -20,9 +20,11 @@ Feedback is requested from the new colleague's peers throughout the 90-day Onboa
 
 New staff will be invited to share feedback of their onboarding experience after 30 days of working at Mattermost. FT Staff will receive an invitation via email to complete the 30-Day Onboarding Survey in Culture Amp. Early feedback from new hires is a crucial way to gather insights about what is going well and what needs to be improved in the onboarding process. The feedback shared in the survey will help the People team identify key areas to focus on to continue making Mattermost a great place to work.
 
-### New Staff Feedback Session with CEO and HR
+### New Staff Feedback Session with CEO and the People Team
 
-Similar to [CEO listening tours](https://handbook.mattermost.com/operations/operations/company-cadence#ceo-listening-tours) in this session, new colleagues are asked to share [likes and wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes) about anything related to Mattermost and the Onboarding Program.
+Similar to [CEO listening tours](https://handbook.mattermost.com/operations/operations/company-cadence#ceo-listening-tours) in this session, new colleagues are asked to share [likes and wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes) about anything related to Mattermost and the Onboarding Program. This session with the CEO is scheduled 2 months after the start date of new staff.
+
+The People Team will invite new staff members to a week-1 check-in. The check-in is an opportunity for new staff members to reflect on their first week, review resources, programs, policies, and tools, and ask the People Team questions. Here's a list of [questions](https://docs.google.com/document/d/1eIffSDfWH24myJXZES1jOtfIZp9_xM6Swx5lWNdnxiM/edit) the People team will walk through together with the new staff member during the check-in.
 
 ### New Colleague Feedback
 
