@@ -48,7 +48,7 @@ For other references, see [this document for customer reliability engineering](h
 ## Links to key documents
 
 - Jira board: [https://mattermost.atlassian.net/jira/software/c/projects/MM/boards/127](https://mattermost.atlassian.net/jira/software/c/projects/MM/boards/127)
-- Confluence page of deployment engineering solutions [https://mattermost.atlassian.net/wiki/spaces/~557058c88c3d11b60143deaba6d3d018132127/pages/2461925377/Deployment+Engineering+Solutions](https://mattermost.atlassian.net/wiki/spaces/~557058c88c3d11b60143deaba6d3d018132127/pages/2461925377/Deployment+Engineering+Solutions)
+- Confluence page of deployment engineering solutions: [https://mattermost.atlassian.net/wiki/spaces/~557058c88c3d11b60143deaba6d3d018132127/pages/2461925377/Deployment+Engineering+Solutions](https://mattermost.atlassian.net/wiki/spaces/~557058c88c3d11b60143deaba6d3d018132127/pages/2461925377/Deployment+Engineering+Solutions)
 - Deployed seats data: [https://docs.google.com/spreadsheets/d/1ZnjJHWIsT9hIxotCYrSG66XIWsf_usf258Ll8HgVmzU/edit#gid=423031054](https://docs.google.com/spreadsheets/d/1ZnjJHWIsT9hIxotCYrSG66XIWsf_usf258Ll8HgVmzU/edit#gid=423031054)
 - Services request template [https://docs.google.com/document/d/1EbP4Ab7N2hEAv--DRCcZHk0XtlG1MFP8F8F0viaTM7I/edit](https://docs.google.com/document/d/1EbP4Ab7N2hEAv--DRCcZHk0XtlG1MFP8F8F0viaTM7I/edit)
 
