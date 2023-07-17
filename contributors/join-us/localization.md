@@ -94,8 +94,8 @@ The translation PRs should be reviewed and merged as soon as possible to avoid b
 Amy Blais will notify the team if the PR should be cherry-picked to a release branch (e.g. ``cloud``).
 
 PR review owners:
-  - Server translations PRs - Owners: Pantelis and Guillermo
-  - Mobile translations PRs - Owners: Pantelis and Guillermo
+  - Server translations PRs - Owner: Guillermo
+  - Mobile translations PRs - Owner: Guillermo
   - Desktop app translations PRs - Owner: Devin
 
 ## Translation quality
