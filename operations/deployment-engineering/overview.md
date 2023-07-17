@@ -60,7 +60,7 @@ For other references, see [this document for customer reliability engineering](h
 
 - pprof, Grafana: [Google Slides](https://docs.google.com/presentation/d/10j3oY9Tx2e4Yn_6st-mfPennqN10V3MVy210NMNmTlI/edit?usp=sharing) | [Zoom Video Recording](https://community.mattermost.com/private-core/pl/bjo7ynua1fg8f876sm1umbbjyh)
 - Elasticsearch debug and design: [Google Slides](https://docs.google.com/presentation/d/1-6AA15gfJLYzylfC1SQzmQw9h7WMOVi7ZIAtIBNufAk/edit?usp=sharing_eip_m&ts=636d10cc) | [Zoom Video Recording](https://community.mattermost.com/private-core/pl/yfu139k5cjnu58mr4ddn4fzz8e)
-- Job Progress, SQL Connections, Job Progress Improvements, Encore on Query Analysis - [Google Slides](https://docs.google.com/presentation/d/1V6D96qXWesN_EnYDMTebKH6xS6I3zlmqEfq7Y8O6jMk/edit?usp=sharing) | [Zoom Video Recording](https://mattermost.zoom.us/rec/share/-ftQmjmKi4sZFIXgPlSCx4XcwzSZZMDnECaiAnaxySbxNbmY-R_UznDre3yDVAXk.hvOzzMmhhgBxpBDD?startTime=1675958611000), Passcode `#cXmyrf3`
+- Job Progress, SQL Connections, Job Progress Improvements, Encore on Query Analysis: [Google Slides](https://docs.google.com/presentation/d/1V6D96qXWesN_EnYDMTebKH6xS6I3zlmqEfq7Y8O6jMk/edit?usp=sharing) | [Zoom Video Recording](https://mattermost.zoom.us/rec/share/-ftQmjmKi4sZFIXgPlSCx4XcwzSZZMDnECaiAnaxySbxNbmY-R_UznDre3yDVAXk.hvOzzMmhhgBxpBDD?startTime=1675958611000), Passcode `#cXmyrf3`
 
 #### How to detect perf issues with Prometheus & Grafana
 
