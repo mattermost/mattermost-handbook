@@ -172,7 +172,7 @@
   * [Frequently Asked Questions](operations/deployment-engineering/frequently-asked-questions.md)
   * [Playbook for MME Sev 1 Outages](operations/deployment-engineering/playbook-mme-sev1-outages.md)
   * [Status Update Template](operations/deployment-engineering/status-update-template.md)
-* [Program Managemnet](operations/program-management/README.md)
+* [Program Management](operations/program-management/README.md)
 * [Customer Success](operations/customer-success/README.md)
   * [Customer Support](operations/customer-success/customer-support.md)
 * [Legal](operations/legal/legal.md)
