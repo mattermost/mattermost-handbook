@@ -37,7 +37,7 @@ Each interviewer should provide feedback in Lever within 24 hours after meeting 
 
 ## Interview Panel Calibration
 
-Ahead of MLT and AA interviews, the Recruiter will schedule a live [interview panel calibration](https://docs.google.com/document/d/1Dwj-8-jpTQ50nOfHHX77Ht4TdF9H9_lvZTKTK3kallU/edit?usp=sharing) to maintain high standards in our hiring bar, align on intent to move forward, and address any ICP criteria that need additional assessment. In situations where two or more candidates successfully complete the panel and project stage of the interview  process, panelists may debrief on more than one candidate during the calibration. 
+Ahead of MLT and AA interviews, the Recruiter will schedule a live [interview panel calibration](https://docs.google.com/document/d/1Dwj-8-jpTQ50nOfHHX77Ht4TdF9H9_lvZTKTK3kallU/edit?usp=sharing) to maintain high standards in our hiring bar, align on intent to move forward, and address any ICP criteria that need additional assessment. In situations where two or more candidates successfully complete the panel and project stage of the interview process, panelists may debrief on more than one candidate during the calibration. 
 
 **Logistics**
 
