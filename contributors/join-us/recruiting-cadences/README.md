@@ -35,13 +35,12 @@ Each interviewer should provide feedback in Lever within 24 hours after meeting 
 * Alignment to our [Leadership Principles](https://mattermost.com/about-us/)
 * Candidate's concerns or questions
 
-## Mid-interview sync
+## Interview Panel Calibration
 
-Ahead of MLT and AA interviews, the Recruiter may schedule a live mid-interview sync to align on intent to move forward and address any ICP criteria that need additional assessment. If there are multiple candidates in the pipeline, the Recruiter may ask the interview panel to rank the candidate pool. This exercise helps clear any potential blindspots or confusion around role expectations. It also allows the Recruiting team to prioritize the highest-ranking candidates to complete the interview process, as appropriate.
+Ahead of MLT and AA interviews, the Recruiter will schedule a live [interview panel calibration](https://docs.google.com/document/d/1Dwj-8-jpTQ50nOfHHX77Ht4TdF9H9_lvZTKTK3kallU/edit?usp=sharing) to maintain high standards in our hiring bar, align on intent to move forward, and address any ICP criteria that need additional assessment. In situations where two or more candidates successfully complete the panel and project stage of the interview  process, panelists may debrief on more than one candidate during the calibration. 
 
 **Logistics**
 
-* Mid-interview sync will be pre-scheduled to occur after the last mid-interviewer completes.
-* If there are multiple candidates for the same role, the sync may be scheduled after all candidates have gone through the last mid-interviewer.
-* If you're an interviewer and can't make the scheduled sync, please make sure to submit complete feedback in Lever ahead of the scheduled sync.
-
+* Interview Panel Calibration will be scheduled to occur after the panel interviews and project stage (where applicable), and before the Team MLT and AA Interviews.
+* All panel feedback must be submitted before a calibration can occur. If you're an interviewer and can't make the scheduled calibration, please make sure to submit complete feedback in Lever ahead of the scheduled sync.
+* In situations where multiple candidates successfully complete the panel and project stages of the interview process, panelists may evaluate on more than one candidate in the calibration. 
