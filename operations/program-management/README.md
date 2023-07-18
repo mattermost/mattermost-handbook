@@ -41,9 +41,9 @@ The team manages several cross-functional programs, including:
       - Scorecard (confidential): https://docs.google.com/spreadsheets/d/19TALKW9F7-BMm_bTLmP2nVLoG-RPbuvfdEk0ObSXD74/edit#gid=738758018
  - (Jason) GNN reviews: Leading cross-company reviews and GNN read-out process.
       - *Process to be added*
- - (Hanna) Onboarding/Offboarding: Attend onboarding calls, provide historical context for new people joining the team, answer questions.
+ - (Hanna) Onboarding/Offboarding: Attend onboarding calls, provide historical context for new people joining the team, and answer questions.
       - *Process to be added*
- - (Vidhi) Diversity, equity & inclusion (DE&I): Promoting DE&I within Mattermost staff and community, creating a welcoming environment for all.
+ - (Vidhi) Diversity, equity, and inclusion (DE&I): Promoting DE&I within Mattermost staff and community, creating a welcoming environment for all.
       - *Process to be added*
 
 3. Community Operations: 
