@@ -11,7 +11,7 @@ Description: >-
 | :--- | :--- |
 | [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew) |VP, Human Resources|
 | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) | Senior Manager, People |
-| [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu) | HR Generalist |
+| [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu) | People Generalist |
 
 ## Have a Question for the People Team?
 
