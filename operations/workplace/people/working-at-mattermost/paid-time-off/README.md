@@ -24,7 +24,7 @@ Note: If you are taking [Pregnancy](../leaves-of-absence/pregnancy-leave.md) or 
 3. If time off is being taken for sickness, including physical and mental needs, please enter these days in **BambooHR > Sick**, to distinguish from other types of PTO. Follow the appropriate process according to the statutory requirements in your region of residence. If taking extended time off for medical leave or for other types of [leaves](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/leaves-of-absence), reach out to HR: hr@mattermost.com.
 4. PTO requests must be "approved" in BambooHR to show up in the "Who's Out" calendar. Managers are responsible for approving their direct reports' time off requests in BambooHR.  
 5. As long as you have entered your time off in BambooHR, and you have arranged for coverage while you are gone, you are able to take your vacation before it has been approved in BambooHR. More than 14 consecutive days off require manager approval in BambooHR prior to the vacation starting.
-6. Be vacation-ready: 
+6. Be [vacation-ready](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#vacation-ready): 
 
     * Assign PTO backups and [list your PTO Backups in GSuite Vacation Responder](https://docs.google.com/document/d/1Yu4pNey7BSjSG7eqEb6K4NDpmudOvGD7vbcdFyZegDg/edit?usp=sharing)
     * Set your GCal to OOO and auto-decline new and existing meetings
