@@ -11,6 +11,7 @@
 * ["How to" guides for staff](company/how-to-guides-for-staff/README.md)
   * [How to set up a 1-1 channel](company/how-to-guides-for-staff/how-to-setup-a-1-1-channel.md)
   * [How to update the handbook](company/how-to-guides-for-staff/how-to-update-handbook.md)
+  * [How to manage Handbook notifications](company/how-to-manage-handbook-notifications.md)
   * [How to change mobile device](company/how-to-guides-for-staff/how-to-change-mobile-device/README.md)
     * [How to handle a lost mobile device](company/how-to-guides-for-staff/how-to-change-mobile-device/how-to-handle-a-lost-mobile-device.md)
   * [How to do a mini-retrospective](company/how-to-guides-for-staff/how-to-do-a-post-escalation-post-mortem.md)
