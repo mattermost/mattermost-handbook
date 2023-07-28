@@ -45,7 +45,7 @@ Note: This section is work-in-progress, being migrated from: [https://docs.matte
 
 #### Exploring Mattermost as a workplace
 
-Mattermost is a remote-first company, and staff work from locations ranging from their home office to shared workspaces. Our headquarters is on the internet - specifically, we work on an open test server called [https://pre-release.mattermost.com](https://pre-release.mattermost.com/) which runs a pre-released version of Mattermost software with all the newest features and improvements \(which is occassionally unstable\). The server is integrated with Zoom and employees and staff members can launch voice, video, and screensharing meetings within Mattermost.
+Mattermost is a remote-first company, and staff work from locations ranging from their home office to shared workspaces. Our headquarters is on the internet - specifically, we work on an open test server called [https://community.mattermost.com](https://community.mattermost.com) which runs a pre-released version of Mattermost software with all the newest features and improvements \(which is occassionally unstable\). The server is integrated with Zoom and employees and staff members can launch voice, video, and screensharing meetings within Mattermost.
 
 #### Hiring across the globe
 
