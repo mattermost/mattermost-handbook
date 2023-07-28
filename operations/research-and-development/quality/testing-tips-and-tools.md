@@ -23,3 +23,7 @@ The handbook contains step-by-step instructions for adding and/or updating telem
 
 * [Test Server Configs and Credentials \(internal resource\)](https://wiki-internal.mattermost.cloud/en/quality/test-servers.md)
 
+## Email Aliases
+
+If you need an additional email address for testing purposes, GMail supports email aliases in the format `email+alias@domain.com`, such as `john.smith+testing@mattermost.com`. The characters following the `+` in the email address make that email unique while still ensuring that you receive that email in your inbox.
+
