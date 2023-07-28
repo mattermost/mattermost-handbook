@@ -190,3 +190,7 @@ The following is a list of terms no longer used with links to their definitions 
 
 Previously hyphenated, now not hyphenated, see [Tombstoned](list-of-terms.md#tombstoned).
 
+#### Vacation-ready
+
+A team and process that is ready for a key member to go on vacation, or spend time away from work.
+
