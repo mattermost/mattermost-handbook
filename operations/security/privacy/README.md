@@ -2,4 +2,4 @@
 
 ## 1% complete
 
-Please direct all GDPR requests to privacy@mattermost.com
+Please direct all GDPR requests to privacy@mattermost.com.
