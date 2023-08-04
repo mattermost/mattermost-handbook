@@ -15,6 +15,7 @@
   * [How to change mobile device](company/how-to-guides-for-staff/how-to-change-mobile-device/README.md)
     * [How to handle a lost mobile device](company/how-to-guides-for-staff/how-to-change-mobile-device/how-to-handle-a-lost-mobile-device.md)
   * [How to do a mini-retrospective](company/how-to-guides-for-staff/how-to-do-a-post-escalation-post-mortem.md)
+  * [How to autolink keywords in Mattermost](company/how-to-guides-for-staff/how-to-link-keywords-in-mattermost.md)
 
 ## Operations
 
