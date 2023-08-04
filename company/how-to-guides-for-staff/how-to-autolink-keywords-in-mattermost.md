@@ -1,4 +1,4 @@
-# How to link keywords in Mattermost
+# How to autolink keywords in Mattermost
 
 On the [Mattermost Community Server](https://community.mattermost.com), specific keywords in messages, such as MLT, display and behave as links that take you to a documented definition of the word MLT. These keyword links are particularly helpful for new Mattermost staff members ramping up on Mattermost-specific terms and processes.
 
