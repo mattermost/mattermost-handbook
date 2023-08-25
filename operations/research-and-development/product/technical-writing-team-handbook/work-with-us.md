@@ -1,66 +1,42 @@
-# Work with the Technical Writing team
+# How to contribute to Mattermost documentation
 
-## What we're doing
+Mattermost product, developer, integrations, API, Handbook, and GitHub repository README documentation is open source and accessible via GitHub. Everyone is welcome to contribute to these sites and pages, including staff, customers, partners, and community members.
 
-The [Documentation Working Group (DWG) channel](https://community.mattermost.com/core/channels/dwg-documentation-working-group) is where you'll find us, and you can view our current projects in the channel's board.
+## Submit small corrections or changes
 
-## How to engage with us
+To submit small corrections or changes to individual pages:
 
-If you have content you'd like to discuss, a UI review, a PR, or found a gap in the docs, here's how to get hold of us:
+1. Select the Edit on GitHub option in the top right corner of any documentation page.
+2. Apply your changes in the GitHub editor.
+3. Create a branch or a fork of that GitHub repository that contains your changes.
+4. Create a pull request (PR) that includes your changes, and describe the changes proposed.
 
-* The [Documentation Working Group](https://community.mattermost.com/core/channels/dwg-documentation-working-group) channel: Use the hashtag #docsteam to get our attention.
-* [GitHub PR](#submit-a-pr): Use this option when you've created content and need it reviewed, expect feedback asap and possible editorial changes. Tip: Start a draft in Google docs if you're not sure about the content you'd like to edit and we're happy to help.
-* [DocUp](#use-doc-up-to-create-a-github-issue): Use this to create an issue from a message that is delivered to the docs repo. You can expect acknowledgement of your issue and next steps asap. Note: You can also [create an issue manually](#create-a-github-issue) in the Docs repo. Make sure to tag one of us for visibility!
-* Group Message: Use this option to formalize a discussion from a call or meeting.
+Your PR will be reviewed by Mattermost staff for technical accuracy and alignment with the documentation style guide.
 
-**Note:** If your request is for documentation related to a release, the documentation needs to be complete at least 10 days prior to release. Please ensure you allow sufficient time for your request to be completed or it will be moved to the next available slot.
+## Submit a series of related changes
 
-We appreciate these processes being followed as it helps us prioritize and ensure coverage for all work.
+Please bundle multiple related changes together in a single branch or fork. The writing team can help you get started working with forks or branches.
 
-### What happens next?
+## Submit larger changes or new content
 
-That depends on the work requested. We'll let you know the next steps and keep you updated along the way!
+The writing team can help you get started, identify where your changes should live, provide editorial support, and will help you publish your updates.
 
-### Submit a PR
+## Develop Mattermost Product Documentation
 
-When submitting a PR for documentation, whether it's a minor update, a new piece of content, or a content proposal, please add the **Editor Review** label \(if possible\). Once the Technical Writer/Editor has reviewed the PR they'll remove the label. When all the requested reviews are complete, the **Reviews Complete** label is applied and the changes are merged.
+Mattermost Product Documentation is available at docs.mattermost.com. This site is generated using a Python-based tool called Sphinx.
 
-### Use Doc Up to create a GitHub issue
+Anyone can contribute to the Mattermost Product Documentation site in the form of GitHub pull requests (PRs).
 
-Requests for documentation can be made within [community.mattermost.com](https://community.mattermost.com), using the Doc Up plugin embedded in the post menu. Access the Doc Up plugin by hovering over a message and selecting the ***...*** menu.
+The majority of documentation source files are written in ReStructuredText (RST) format, and the remainder are written in Markdown (MD) format. The writing team can help with RST and MD syntax questions and issues for this site.
 
-When you select Doc Up and choose **Admin** as the issue type, an issue is generated in the GitHub docs repo, and added to the issues list. An update is listed in the Documentation channel, with the issue link. You can also select **Developer** or **Company Handbook** to direct the Doc Up request to the appropriate repo.
+Documentation contributors can use GitHub web tools to propose content updates, or they can do so using a local development environment. A local development environment is recommended when developing new content, or making changes to multiple files at a time. See the [Mattermost Product Documentation GitHub repo README file](https://github.com/mattermost/docs#readme) for details on setting one up.
 
-As the issues are open to the community, the more information provided in the issue the better.
+## Develop Mattermost Developer Documentation
 
-Review the issue in the [docs repo](https://github.com/mattermost/docs/issues?q=is%3Aopen+is%3Aissue), [developer documentation repo](https://github.com/mattermost/mattermost-developer-documentation/issues?q=is%3Aopen+is%3Aissue), or [handbook repo](https://github.com/mattermost/mattermost-handbook/issues?q=is%3Aopen+is%3Aissue) and add any links to appropriate documentation and/or Jira tickets. This ensures that the assignee is able to take on and complete the work within the turnaround times.
+Mattermost Developer Documentation is available at developers.mattermost.com. This site is generated using a Javascript-based tool called Hugo.
 
-### Create a GitHub issue
+Anyone can contribute to the Mattermost Developer Documentation site in the form of GitHub pull requests (PRs). The writing team can help with MD syntax questions and issues for this site.
 
-If you have feedback on our documentation, a suggestion, or new content you'd like to add but don't know where to put it - you can create a GitHub issue.
+All development documentation source files are written in Markdown (MD) format. 
 
-The issue will be reviewed by the Technical Writing team and a **Help Wanted** label may be added so that community members are able to identify work that they’re able to assist with. If your documentation request/issue applies to a repository other than _mattermost/docs_, you can ping @justinegeffen or @cwarnermm. Alternatively, you can open an issue in that repo.
-
-## Our prioritization process
-
-We understand that all work is important and urgent in some way. However, as a small team, we need to ensure that our coverage is managed tightly.
-
-### P1: Urgent and important
-
-- A page is broken
-- Steps are missing from a critical process
-- An important link is broken
-- An image is broken/not displaying
-
-### P2: Important
-
-- Content is inaccurate; will affect customer goals and productivity
-- Information about new features or changes isn't documented and needs to be
-
-### P3: Not urgent/not important
-
-- Enhancement to the user experience of the docs
-
-## Our Board
-
-If urgent and important work is identified, we'll add it to our DWG Board and you can follow its progress there.
+Documentation contributors can use GitHub web tools to propose content updates, or they can do so using a local development environment. A local development environment is recommended when developing new content, or making changes to multiple files at a time. See the [Mattermost Developer Documentation GitHub repo README file](https://github.com/mattermost/mattermost-developer-documentation#readme) for details on setting one up.
