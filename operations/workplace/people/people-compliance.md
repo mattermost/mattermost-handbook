@@ -1,8 +1,6 @@
 # Privacy Policies 
 
-Our security and data privacy policies are located in the [Security Page - Policies section](https://handbook.mattermost.com/operations/security/policies). All staff members are required to onboard with Vanta, a software solution used to document policy acceptance and device security. Vanta also helps support our audit process, a compliance standard for our SOC2 certification.
-
-To do this, please go to https://app.vanta.com/onboarding.
+Our security and data privacy policies are located in the [Security Page - Policies section](https://handbook.mattermost.com/operations/security/policies).
 
 ## Code of Conduct 
 
