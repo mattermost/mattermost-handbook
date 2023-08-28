@@ -54,19 +54,14 @@ For other references, see [this document for customer reliability engineering](h
 
 ## Deployment Engineering Knowledgebase
 
-### Training Videos
+### Performance Debugging Training Series (2023)
 
-#### Performance Debugging Training Series (Apr-Jun 2022)
+- Elasticsearch Debugging & Design Best Practices: [YouTube Video](https://www.youtube.com/watch?v=o_SYdDPLPvE) | [Google Slides](https://docs.google.com/presentation/d/1-6AA15gfJLYzylfC1SQzmQw9h7WMOVi7ZIAtIBNufAk/edit?usp=sharing_eip_m&ts=636d10cc)
+- Job Progress Optimization: Deep Dive into Connections, Improvements & Query Analysis: [YouTube Video](https://www.youtube.com/watch?v=V8DiTNESnjI) | [Google Slides](https://docs.google.com/presentation/d/1V6D96qXWesN_EnYDMTebKH6xS6I3zlmqEfq7Y8O6jMk/edit?usp=sharing)
+- Detecting Performance Monitoring Issues in Prometheus & Grafana: [YouTube Video](https://www.youtube.com/watch?v=Qi9JlHf1eqY) | [Google Slides](https://docs.google.com/presentation/d/1STkcl2BLQMGwoDjgsUS5CQdVo-CGWgijltVH6biQzeE/edit#slide=id.ge9b7e537ec_0_0)
+- *Internal only:* pprof, Grafana: [Zoom Video Recording](https://community.mattermost.com/private-core/pl/bjo7ynua1fg8f876sm1umbbjyh) | [Google Slides](https://docs.google.com/presentation/d/10j3oY9Tx2e4Yn_6st-mfPennqN10V3MVy210NMNmTlI/edit?usp=sharing)
 
-- pprof, Grafana: [Google Slides](https://docs.google.com/presentation/d/10j3oY9Tx2e4Yn_6st-mfPennqN10V3MVy210NMNmTlI/edit?usp=sharing) | [Zoom Video Recording](https://community.mattermost.com/private-core/pl/bjo7ynua1fg8f876sm1umbbjyh)
-- Elasticsearch debug and design: [Google Slides](https://docs.google.com/presentation/d/1-6AA15gfJLYzylfC1SQzmQw9h7WMOVi7ZIAtIBNufAk/edit?usp=sharing_eip_m&ts=636d10cc) | [Zoom Video Recording](https://community.mattermost.com/private-core/pl/yfu139k5cjnu58mr4ddn4fzz8e)
-- Job Progress, SQL Connections, Job Progress Improvements, Encore on Query Analysis: [Google Slides](https://docs.google.com/presentation/d/1V6D96qXWesN_EnYDMTebKH6xS6I3zlmqEfq7Y8O6jMk/edit?usp=sharing) | [Zoom Video Recording](https://community.mattermost.com/private-core/pl/a4wdh8i6ki8jzddnnigwmqgi8r)
-
-#### How to detect perf issues with Prometheus & Grafana (Jul 2023)
-
-[Google Slides](https://docs.google.com/presentation/d/1STkcl2BLQMGwoDjgsUS5CQdVo-CGWgijltVH6biQzeE/edit#slide=id.ge9b7e537ec_0_0) | [Zoom Video Recording](https://community.mattermost.com/private-core/pl/mg16o6i7xbfa8x6cc8ewgs614a)
-
-### Videos & Articles
+### Additional Resources
 
 - [Performance Debugging Training Series](https://mattermost.atlassian.net/wiki/spaces/CO/pages/2388000769/Knowledge+Dump+Zone#Training)
 - [CNCF talk on using counters in Prometheus](https://www.youtube.com/watch?v=67Ulrq6DxwA)
