@@ -1,6 +1,6 @@
 # Release Overview
 
-Mattermost ships with a new version once a month in [binary form](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html#upgrading-to-the-latest-version) synchronously for cloud and self-hosted customers.
+Mattermost ships with a new version once a month synchronously for cloud and self-hosted customers.
 
 ## Release numbering
 
