@@ -174,10 +174,6 @@ When triaging a bug report, consider the following:
 
 * A: Review, merge, and cherry-pick as needed.
 
-**Q: Will RC testing remain, or will RC testing process change?**
-
-* There is still manual QA RC testing for Mobile App and self-hosted releases until all release tests are automated.
-
 **Q: What information does the Customer Support team need for Cloud releases?**
 
 * The Announcements channel in the Staff team is used for release updates and for posting the changelog.
