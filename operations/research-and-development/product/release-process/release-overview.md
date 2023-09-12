@@ -1,8 +1,8 @@
 # Release Overview
 
-Mattermost ships with a new version on the 16th of each month in [binary form](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html#upgrading-to-the-latest-version) for self-managed customers. Mattermost also ships releases with new features and bug fixes to [Mattermost Cloud](https://docs.mattermost.com/about/cloud-subscriptions.html) bi-weekly.
+Mattermost ships with a new version once a month in [binary form](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html#upgrading-to-the-latest-version) for cloud and self-hosted customers.
 
-When security issues are found that warrant a patch release, we follow the [security release process outlined here](https://handbook.mattermost.com/operations/research-and-development/product/release-process/security-release).
+When issues are found that warrant a patch release, we follow the [dot release process outlined here](https://handbook.mattermost.com/operations/research-and-development/product/release-process/dot-release).
 
 ## Release numbering
 
@@ -28,15 +28,12 @@ Mattermost numbers stable releases in the following format: **\[Version Number\]
 
 ## Objectives
 
-The goal is to deliver value to users quickly by a\) shipping fast to get features to customers quickly for experimentation/feedback, and b\) iteratively behind feature flags as a protection if any issues arise. This document outlines the principles and guidelines for how we release a new update of each product line bi-weekly to Cloud and monthly to self-managed.
+The goal is to deliver value to users quickly by a\) shipping fast to get features to customers quickly for experimentation/feedback, and b\) iteratively behind feature flags as a protection if any issues arise. This document outlines the principles and guidelines for how we release a new update of each product line on a monthly basis.
 
-## Multi-product Release Principles
-
-The goal is not to have the same release cadence for all products, but there may be similar schedules. We can duplicate/reuse a similar build process for new plugins in the suite.
+## Release Principles
 
 1. **Focus on High Impact by shipping every new feature and any riskier code changes behind a feature flag.**
-   * Enables us to iterate in Cloud to deliver value to self-managed users more quickly by shipping changes faster. 
-   * Currently the feature complete deadline for self-managed release is roughly 3 weeks prior to release day, but in the future we can consider pushing it to later. Each suite vertical is individually responsible for quality and deciding if a feature should be included in a release or not \(with the release team giving guidelines\). This may mean shipping more patch releases, but we can manage some of this by using feature flags. This also requires good test automation coverage.
+   * Each suite vertical is individually responsible for quality and deciding if a feature should be included in a release or not \(with the release team giving guidelines\). This may mean shipping more patch releases, but we can manage some of this by using feature flags. This also requires good test automation coverage.
 2. **Automate.**
    * This allows us to ship releases more often and push feature complete deadlines to later.
    * Automate release processes and tasks.
@@ -63,45 +60,13 @@ The goal is not to have the same release cadence for all products, but there may
 
 ## Overview of Release Cycles
 
-Currently Mattermost Cloud releases occur on a bi-weekly cycle, but the goal is to release more frequently. Cloud and self-managed PRs may need to be cherry-picked to the release branches, such as regression bug fixes and hotfixes that get merged after the release branch has already been cut.
+We follow [the Agile Release Train method](https://www.scaledagileframework.com/agile-release-train/). If releases are not approved by a certain date, then we miss the release train.
 
-We follow [the Agile Release Train method](https://www.scaledagileframework.com/agile-release-train/) at least for Cloud releases. If releases are not approved by a certain date, then we miss the release train.
+PRs may need to be cherry-picked to the release branches, such as regression bug fixes and hotfixes that get merged after the release branch has already been cut. For P0 bugs (eg. bugs that affect more than 25% of our customers with system degradation), we will do an exception and rollout a hotfix as soon as possible.
 
-For P0 bugs (eg. bugs that affect more than 25% of our customers with system degradation), we will do an exception and rollout a hotfix as soon as possible.
+See the [release process outlined here](https://handbook.mattermost.com/operations/research-and-development/product/release-process/feature-release).
 
-**Schedule for Cloud releases**:
- - T-14 (Thursday): 
-    - Merge master into the cloud branch and update cloud test servers for the next release, including Rainforest RFQA-Cloud servers.
- - T-14 to T-3: 
-    - Run Rainforest release test run groups, Cypress automated tests and product high level release smoke tests (i.e. Boards, Calls, Channels, Integration Frameworks, Playbooks and Suite Users). Close or label tickets for the release. Test failure reviews and bug fixing.
- - T-3 (Monday)
-    - Each QA team signs off as appropriate.
-    - QA approval should be given latest by 5pm Eastern on Monday so that the release rollout can be started early Tuesday morning. 
-    - If QA approval is not ready by EOD Monday due to a testing delay or due to a last minute high priority bug fix, then we miss the release train.
-    - If the release train was missed, we need to do a retrospective on why it happened - e.g. are adjustments needed to the QA release testing process, or was there a reason why the last minute bug fix happened.
- - T-2 (Tuesday)
-    - A new release image is created and the QA team completes quick smoke testing on the Cloud Beta production servers.
- - T-0 (Thursday)
-    - The release is rolled out to the remaining rings.
-
-**Schedule for Self-managed releases**:
- - Feature Complete deadline is approximately 1 month prior to the release day.
-    - When we merge master into the cloud branch for the last Cloud release of the month, this is the cut-off for new features included in the next self-managed release.
-    - If a feature misses the cut-off, it doesn’t get added to the next self-managed release.
- - Cut release branch based off the last Cloud release of the month (around T-14).
- - Code Freeze at T-5.
-    - Prepackaged plugins should be ready on or before this date.
- - Cut Final build at T-2.
-    - QA approval should be ready by T-2.
- - Release Day at T-0.
-
-1. The feature is tested on a PR and E2E test automation is added.
-2. Large features are added behind a feature flag.
-3. The feature flag is initially “off” in Mattermost Cloud and will be rolled out slowly.
-   * Feature flag rollout plan: [https://developers.mattermost.com/contribute/server/feature-flags/](https://developers.mattermost.com/contribute/server/feature-flags/).
-4. Self-managed release branch and release candidate are cut based on the Mattermost Cloud release. Prior to the cut to self-managed, the Release Manager reviews new feature flags and provides a report to the PM/QA teams for their review.
-5. Self-managed release candidate is smoke-tested.
-6. Self-managed release final is cut and released publicly.
+Mobile and Desktop app releases follow the same release schedule.
 
 ## Release dates communication
 
@@ -119,39 +84,17 @@ Release dates are currently communicated in the following ways.
 5. Spreadsheet
    * [Overview of release deadlines and cherry-picking guidelines](https://docs.google.com/spreadsheets/d/1jGEnuaZxosmC-JSUXFeZOR7I34ORFtNjPVw8hvzCIC4/edit#gid=0).
 
-**Understanding the cadence**
-
-* The Mattermost Cloud releases follow a bi-weekly cycle and the release day is normally on Thursdays. Feature Complete deadline for each Mattermost Cloud release is on Wednesdays 14 days prior to the Cloud release day.
-* The Mobile App release cadence is monthly on the 16th of every month.
-* Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next self-managed release. The release branch for a self-managed release (e.g. `release-7.5`) will be cut once the Mattermost Cloud release that will be used for the next self-managed release has been shipped.
-* This cadence is subject to change in the future and any changes will be documented and announced.
-
 ## Tracking feature flags
 
 Details on feature flags: [https://developers.mattermost.com/contribute/server/feature-flags/](https://developers.mattermost.com/contribute/server/feature-flags/).
 
-## Cloud release branch processes
-
-**Process for merging the `master` branch into the `cloud` branch**
-
-* For server, api-reference, and enterprise cloud branches, the `master` branch is merged into the `cloud` branch. A backup of the `cloud` branches is saved. This is done bi-weekly on a Thursday by the Release Manager via an automated process. See [this document](https://docs.google.com/document/d/1i3k322KATm76AX2k-tL8lDsjIqI-E2tl4hCx1KcXV8A/edit#heading=h.3gq28x60gnor) for more details on the process.
-* Devs and Release Manager should be aware of the dates when a `master` branch is merged into a `cloud` branch in order to be mindful of avoiding having incomplete features in a Cloud release, and to include bug fixes that we may want to include in a release.
-
-**Process for cutting the release branch for Self-Managed releases based off of Cloud releases**
-
-* Instead of using the tick-tock branching process, the self-managed releases are now cut based off of the Mattermost Cloud release tags \(e.g Mattermost Server v5.32 release was based off of `cloud-2021-01-26` tag\).
-
 ## Adding milestones on PRs and Jira tickets
 
-Releases are now focused on "shipping features and improvements when they're ready for Mattermost Cloud, and then they'll get to a self-managed release once they've been available on Mattermost Cloud for 2+ weeks".
-
-* If the PR is scheduled for a specific Mattermost Cloud or self-managed release, please add the `Cherry-pick Approved` label and self-managed milestone on the PR. Cloud doesn't have a specific milestone in GitHub and the PRs can be tracked via the `Cherry-pick Approved` label. The Release Manager keeps track of PRs with the `Cherry-pick Approved` label and self-managed milestone on a daily basis.
+* If the PR is scheduled for a specific Mattermost release, please add the `Cherry-pick Approved` label and self-managed milestone on the PR. The Release Manager keeps track of PRs with the `Cherry-pick Approved` label and self-managed milestone on a daily basis.
 * The Release Manager also tracks regression bugs and aims to ensure that they get fixed for the next release.
-* A ``cloud`` branch \(based off of `master`\) is used, and any regression bug fixes for the next Cloud release will be cherry-picked there. This applies to server/enterprise repos.
 * A fix version such as “Cloud \(November 24\)” is added in Jira to track regression bug fixes for Mattermost Cloud releases.
-* The self-managed releases are based off of Mattermost Cloud releases.
 
-## Triaging Mattermost Cloud customer issues
+## Triaging Mattermost customer issues
 
 When triaging a bug report, consider the following:
 
@@ -199,10 +142,6 @@ When triaging a bug report, consider the following:
 **Q: Do we use Playbooks for releases?**
 
 * A: Yes, playbooks are used for Cloud, Mobile, dot releases, self-managed, and plugin releases.
-
-**Q: When is release branch cut for a self-managed release?**
-
-* A: Self-managed releases are based off of Mattermost Cloud releases. For example, the self-managed v5.32.0 release is based off of the `cloud-2021-01-26` release tag. Currently the cadence is that the Mattermost Cloud release shipped in the last week of a month will become the next self-managed release. The release branch for a self-managed release will be cut once the Mattermost Cloud release that will be used for the next self-managed release has been shipped.
 
 **Q: How are PRs merged for release?**
 
