@@ -1,8 +1,6 @@
 # Release Overview
 
-Mattermost ships with a new version once a month in [binary form](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html#upgrading-to-the-latest-version) for cloud and self-hosted customers.
-
-When issues are found that warrant a patch release, we follow the [dot release process outlined here](https://handbook.mattermost.com/operations/research-and-development/product/release-process/dot-release).
+Mattermost ships with a new version once a month in [binary form](https://docs.mattermost.com/upgrade/upgrading-mattermost-server.html#upgrading-to-the-latest-version) synchronously for cloud and self-hosted customers.
 
 ## Release numbering
 
@@ -17,7 +15,7 @@ Mattermost numbers stable releases in the following format: **\[Version Number\]
 **Major build number:**
 
 * Purpose: Introduce new features, bug fixes and performance improvements
-* Release frequency: Monthly on the 16th of each month
+* Release frequency: Monthly cadence
 * Example: v1.2.x, v1.4.x
 
 **Minor build number:**
@@ -32,25 +30,24 @@ The goal is to deliver value to users quickly by a\) shipping fast to get featur
 
 ## Release Principles
 
-1. **Focus on High Impact by shipping every new feature and any riskier code changes behind a feature flag.**
+1. **Focus on High Impact by shipping every new feature and any riskier code changes behind a feature flag**
    * Each suite vertical is individually responsible for quality and deciding if a feature should be included in a release or not \(with the release team giving guidelines\). This may mean shipping more patch releases, but we can manage some of this by using feature flags. This also requires good test automation coverage.
-2. **Automate.**
-   * This allows us to ship releases more often and push feature complete deadlines to later.
+2. **Automate**
    * Automate release processes and tasks.
    * Automate release tests and have E2E tests for features.
-3. **Earn Trust by communicating to external and internal stakeholders clearly.**
+3. **Earn Trust by communicating to external and internal stakeholders clearly**
    * Enables us to make expectations for releases clear for all stakeholders.
    * Make expectations for each release clear \(release dates, etc.\). Communicate. Ensure that everyone on the team is familiar with the release processes.
-   * Release notes, minimum version requirements, and any important upgrade notes need to be available for customers and communicated via docs, twitter, blog, emails, channels, download page, GitHub.
-4. **Earn Trust by including all stakeholders \(Tech Writers, Marketing, QA, etc.\) early in the release process.**
+   * Release notes, minimum version requirements, and any important upgrade notes need to be available for customers and communicated via docs, blog, emails, and channels.
+4. **Earn Trust by including all stakeholders \(Tech Writers, Marketing, QA, etc.\) early in the release process**
    * Enables us to avoid missing key tasks and to avoid last minute work.
-   * E.g. When opening a PR, add a “Docs/Needed” label for any PRs that need docs and communicate to Tech Writers. Don’t wait until merging the PR/feature. This ensures that we have time to complete docs on time when our releases become faster.
+   * E.g. When opening a PR, add a “Docs/Needed” label for any PRs that need docs and communicate to Tech Writers. This ensures that we have time to complete docs on time.
    * Make tracking bugs and testing requirements easy. E.g:
      * Resolve Jira tickets for QA when PRs are merged (and cherry-picked).
      * Add QA test steps to Jira tickets and/or PRs.
      * Add Fix Versions and Milestones in Jira/PRs for bugs/tickets for easy tracking.
      * Add clear Release Notes on PRs.
-5. **Achieve Customer Obsession by doing retrospectives on release issues and monitoring customer/community release bug reports after releases.**
+5. **Achieve Customer Obsession by doing retrospectives on release issues and monitoring customer/community release bug reports after releases**
    * This allows us to learn from issues so that they don’t happen again and to fix critical bugs asap.
    * Retrospectives for issues and dot releases are important.
    * Monitor community and customer reports in GitHub, Forum, Zendesk, and channels like Ask R&D, in partnership with the Support team.
@@ -58,15 +55,13 @@ The goal is to deliver value to users quickly by a\) shipping fast to get featur
 ## Plugin Release Processes
  - The sample [Plugin Release Playbook](https://community.mattermost.com/playbooks/playbooks/f4oh16ardfbyfgkas1cb6intmw/outline) helps give an overview of needed steps for plugin releases.
 
-## Overview of Release Cycles
+## Release Cycles
 
 We follow [the Agile Release Train method](https://www.scaledagileframework.com/agile-release-train/). If releases are not approved by a certain date, then we miss the release train.
 
-PRs may need to be cherry-picked to the release branches, such as regression bug fixes and hotfixes that get merged after the release branch has already been cut. For P0 bugs (eg. bugs that affect more than 25% of our customers with system degradation), we will do an exception and rollout a hotfix as soon as possible.
-
-See the [release process outlined here](https://handbook.mattermost.com/operations/research-and-development/product/release-process/feature-release).
-
-Mobile and Desktop app releases follow the same release schedule.
+ - Cloud/self-hosted [release process is outlined here](https://handbook.mattermost.com/operations/research-and-development/product/release-process/feature-release).
+ - [Mobile app](https://handbook.mattermost.com/operations/research-and-development/product/release-process/mobile-release) and [Desktop app](https://handbook.mattermost.com/operations/research-and-development/product/release-process/desktop-release) releases follow the same release cadence as cloud/self-hosted.
+ - When issues are found that warrant a patch release, we follow the [dot release process outlined here](https://handbook.mattermost.com/operations/research-and-development/product/release-process/dot-release).
 
 ## Release dates communication
 
@@ -92,7 +87,7 @@ Details on feature flags: [https://developers.mattermost.com/contribute/server/f
 
 * If the PR is scheduled for a specific Mattermost release, please add the `Cherry-pick Approved` label and self-managed milestone on the PR. The Release Manager keeps track of PRs with the `Cherry-pick Approved` label and self-managed milestone on a daily basis.
 * The Release Manager also tracks regression bugs and aims to ensure that they get fixed for the next release.
-* A fix version such as “Cloud \(November 24\)” is added in Jira to track regression bug fixes for Mattermost Cloud releases.
+* A fix version is added in Jira to track regression bug fixes for Mattermost releases.
 
 ## Triaging Mattermost customer issues
 
@@ -117,10 +112,6 @@ When triaging a bug report, consider the following:
   * In some cases it's the SET On-Call Commander, and in some cases it's other people such as the Release Manager or developers who notice or get notified about the report.
 * Bugs will be fixed by either the SET team or by respective development teams, depending on availability and expertise.
 
-**Reports**
-
-* The Cloud team has a central channel for escalations from Cloud Support channel \(available in the Staff team\). Additionally when a report is posted, it is important to notify the SET Lead, Release Manager, and Development Lead of the team that owns the feature.
-
 ## Frequently Asked Questions
 
 **Q: What is the release cycle for the React Native mobile apps?**
@@ -141,7 +132,7 @@ When triaging a bug report, consider the following:
 
 **Q: Do we use Playbooks for releases?**
 
-* A: Yes, playbooks are used for Cloud, Mobile, dot releases, self-managed, and plugin releases.
+* A: Yes, playbooks are used for cloud & self-hosted, mobile and desktop releases, and for dot releases and plugin releases.
 
 **Q: How are PRs merged for release?**
 
@@ -153,7 +144,7 @@ When triaging a bug report, consider the following:
 
 **Q: What version is community.mattermost.com kept on?**
 
-* A: Normally on `master` branch and they update daily.
+* A: Normally on `master` branch and it updates daily.
 
 **Q: How to remove a feature/bug from a release?**
 
@@ -185,16 +176,8 @@ When triaging a bug report, consider the following:
 
 **Q: Will RC testing remain, or will RC testing process change?**
 
-* There is still manual QA RC testing for Mobile App and self-managed releases until all release tests are automated.
-
-**Q: Do Mobile and Desktop App releases follow the "cloud first" strategy?**
-
-* Mobile and Desktop App releases are not based off of Mattermost Cloud releases at this point. These releases are based off of `master` or `main`.
-
-**Q: How do we track feature differences for Mattermost Cloud and self-managed releases?**
-
-* There will be some cases where we need to make a fix or change something for the self-managed release (e.g., a bug that only occurs if you use a certain self-managed setting or a certain database we don't use in Mattermost Cloud). In those cases the self-managed release might have some changes that are not a direct copy of the Mattermost Cloud build.
+* There is still manual QA RC testing for Mobile App and self-hosted releases until all release tests are automated.
 
 **Q: What information does the Customer Support team need for Cloud releases?**
 
-* The Announcements channel in the Staff team is used for release updates and for posting the changelog. This may be automated in the future.
+* The Announcements channel in the Staff team is used for release updates and for posting the changelog.
