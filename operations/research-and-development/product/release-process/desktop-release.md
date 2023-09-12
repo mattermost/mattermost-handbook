@@ -2,7 +2,7 @@
 
 This document outlines the release process for the Mattermost desktop app.
 
-Desktop App releases follow a fixed schedule of 4 releases per year. Releases ship quarterly by the 16th of March, June, September, and December of each year.
+Desktop app releases follow a fixed schedule of 4 releases per year. Releases ship quarterly by the 16th of March, June, September, and December of each year.
 
 A dot release will be prepared sooner if [Electron](https://github.com/electron/electron/releases) releases a security update, or if other urgent bugs are found.
 
@@ -13,6 +13,8 @@ For the desktop app release build process, please refer to [this document](https
 ## Release timeline
 
 Note: T-minus counts are measured in "working days" (weekdays other than major holidays concurrent in US and Canada) prior to release day.
+
+The Desktop app release schedule to follows the cloud/self-hosted release schedule to align all release testing cycles.
 
 **Schedule for Desktop App releases**:
  - Feature Complete deadline is approximately 1 month prior to the release day.
