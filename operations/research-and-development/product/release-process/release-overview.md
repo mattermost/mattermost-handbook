@@ -31,7 +31,7 @@ The goal is to deliver value to users quickly by a\) shipping fast to get featur
 ## Release Principles
 
 1. **Focus on High Impact by shipping every new feature and any riskier code changes behind a feature flag**
-   * Each suite vertical is individually responsible for quality and deciding if a feature should be included in a release or not \(with the release team giving guidelines\). This may mean shipping more patch releases, but we can manage some of this by using feature flags. This also requires good test automation coverage.
+   * Each development team is individually responsible for quality and deciding if a feature should be included in a release or not \(with the release team giving guidelines\). This may mean shipping more patch releases, but we can manage some of this by using feature flags. This also requires good test automation coverage.
 2. **Automate**
    * Automate release processes and tasks.
    * Automate release tests and have E2E tests for features.
@@ -51,9 +51,6 @@ The goal is to deliver value to users quickly by a\) shipping fast to get featur
    * This allows us to learn from issues so that they don’t happen again and to fix critical bugs asap.
    * Retrospectives for issues and dot releases are important.
    * Monitor community and customer reports in GitHub, Forum, Zendesk, and channels like Ask R&D, in partnership with the Support team.
-
-## Plugin Release Processes
- - The sample [Plugin Release Playbook](https://community.mattermost.com/playbooks/playbooks/f4oh16ardfbyfgkas1cb6intmw/outline) helps give an overview of needed steps for plugin releases.
 
 ## Release Cycles
 
@@ -78,6 +75,9 @@ Release dates are currently communicated in the following ways.
    * [Productboard](https://mattermost.productboard.com/roadmap/2855466-features-by-release) - One calendar overview of what releases + features are coming up.
 5. Spreadsheet
    * [Overview of release deadlines and cherry-picking guidelines](https://docs.google.com/spreadsheets/d/1jGEnuaZxosmC-JSUXFeZOR7I34ORFtNjPVw8hvzCIC4/edit#gid=0).
+
+## Plugin Release Processes
+ - The sample [Plugin Release Playbook](https://community.mattermost.com/playbooks/playbooks/f4oh16ardfbyfgkas1cb6intmw/outline) helps give an overview of needed steps for plugin releases.
 
 ## Tracking feature flags
 
