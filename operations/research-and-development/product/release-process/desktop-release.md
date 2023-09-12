@@ -14,7 +14,7 @@ For the desktop app release build process, please refer to [this document](https
 
 Note: T-minus counts are measured in "working days" (weekdays other than major holidays concurrent in US and Canada) prior to release day.
 
-The Desktop app release schedule to follows the cloud/self-hosted release schedule to align all release testing cycles.
+The Desktop app release schedule follows the cloud/self-hosted release schedule to align all release testing cycles.
 
 **Schedule for Desktop App releases**:
  - Feature Complete deadline is approximately 1 month prior to the release day.

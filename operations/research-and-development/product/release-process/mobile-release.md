@@ -10,7 +10,7 @@ Please refer to [the Mobile Release Playbook](https://community.mattermost.com/p
 
 Note: T-minus counts are measured in "working days" \(weekdays, Monday through Friday, excluding [the listed statutory holidays](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#holidays)\) prior to release day.
 
-The Mobile app release schedule to follows the cloud/self-hosted release schedule to align all release testing cycles.
+The Mobile app release schedule follows the cloud/self-hosted release schedule to align all release testing cycles.
 
 **Schedule for Mobile App releases**:
  - Around T-24:
@@ -21,5 +21,5 @@ The Mobile app release schedule to follows the cloud/self-hosted release schedul
     - Cut another RC build based off the release branch.
     - Note: More frequent RC builds may be requested by the QA team and the Release Manager as we get closer to the release date and as more regression fixes get merged.
  - Cut Final build at T-8
-    - [QA approval](https://community.mattermost.com/playbooks/playbooks/8dx9zrs16bbg8eg1hdhw35zdua) should be ready by T-8.
+    - [QA approval](https://community.mattermost.com/playbooks/playbooks/9znffdsm9p8ixpanycpnb1mwkh/outline) should be ready by T-8.
  - Release Day at T-0
