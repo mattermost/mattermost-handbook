@@ -1,6 +1,6 @@
 # Release Overview
 
-Mattermost ships with a new version once a month synchronously for cloud and self-hosted customers.
+Mattermost ships with a new version once a month for both cloud and self-hosted customers.
 
 ## Release numbering
 

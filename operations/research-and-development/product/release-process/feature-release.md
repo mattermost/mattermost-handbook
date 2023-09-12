@@ -1,10 +1,10 @@
 # Cloud and Self-Hosted Release Process
 
-Mattermost core team works on a monthly release process, with a new version of cloud and self-hosted shipping synchronously once a month.
+Mattermost core team works on a monthly release process, with a new version of cloud and self-hosted shipping successively once a month.
 
 This document outlines the development process for the Mattermost core team, which draws from what we find works best for us from Agile, Scrum, and Software Development Lifecycle approaches. Please refer to [the cloud & self-hosted release playbook](https://community.mattermost.com/playbooks/playbooks/7ya8gsijg3f1dkx84txzek6t1r/outline) for the release checklist.
 
-A single release is qualified for both cloud and self-hosted at the same time, and the version reported to cloud customers now matches the self-hosted releases (``vX.Y``). No changes are released to self-hosted customers before they are first released to cloud customers.
+A single release is qualified for both cloud and self-hosted at the same time, with both versions labelled as ``vX.Y.Z``. Outside of patch releases, no changes are released to self-hosted customers before they are first released to cloud customers.
 
 ## Release Timeline
 
