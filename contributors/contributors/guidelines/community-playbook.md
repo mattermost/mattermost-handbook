@@ -77,7 +77,7 @@ For a high priority Help Wanted ticket, reach out to contributors directly in th
 
 When a campaign is finished, offer suggestions for other campaigns or projects they might be interested in.
 
-## GitHub Help Wanted Issues in `mattermost-server` Repository
+## GitHub Help Wanted Issues in `mattermost` Repository
 
 ### Goal
 
@@ -92,7 +92,7 @@ Increase Mattermost usage through larger and more numerous deployments via a vib
 
 ### Creating Help Wanted Issues
 
-To create a Help Wanted issue in the [mattermost-server repository](https://github.com/mattermost/mattermost-server), follow these steps:
+To create a Help Wanted issue in the [mattermost repository](https://github.com/mattermost/mattermost), follow these steps:
 
 1. Create a ticket in Jira that is well-defined and unambiguous.
 
@@ -105,12 +105,12 @@ The issue should be written with the mindset that the contributor might have no 
 * Zapier integration automatically creates GitHub Help Wanted issues from labelled Jira tickets, requiring no additional mana.
 * Resolved Jira tickets are automatically assigned to a QA, who tests them against the `master` branch.
 * After creating the ticket, add "\(Proposed APR\)" to its title, so the triage team knows to consider it for a `help-wanted` label.
-* If the Jira ticket is accepted as a Help Wanted issue during [triage](https://docs.mattermost.com/process/training.html#triage-meeting), a `help-wanted` label is added. This action automatically triggers a zap that creates a new issue in the [mattermost-server repository](https://github.com/mattermost/mattermost-server).
+* If the Jira ticket is accepted as a Help Wanted issue during [triage](https://docs.mattermost.com/process/training.html#triage-meeting), a `help-wanted` label is added. This action automatically triggers a zap that creates a new issue in the [mattermost repository](https://github.com/mattermost/mattermost).
   * To accept a ticket as a Help Wanted issue, the description should be unambiguous, and include UI description and help text so the change can be implemented and tested by any contributor.
   * The Triage team also adds the appropriate difficulty level \(one of `Introductory`, `Intermediate` and `Advanced`\) and programming language \(`Go` and `ReactJS`\) to the description of the Jira ticket.
 * After triage, the PM on community rotation reviews formatting of the GitHub issue and adds appropriate labels for difficulty level and programming language as defined by the Triage team.
 
-[See an example Help Wanted issue here](https://github.com/mattermost/mattermost-server/issues/4755).
+[See an example Help Wanted issue here](https://github.com/mattermost/mattermost/issues/4755).
 
 ### Managing Help Wanted Issues
 
@@ -131,11 +131,11 @@ Once a pull request for an open GitHub Help Wanted issue is merged, please ensur
 Below is a list of permanent redirects to Help Wanted issue queries:
 
 1. `mattermost` - [https://mattermost.com/pl/help-wanted](https://mattermost.com/pl/help-wanted) which redirects to [https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+archived%3Afalse+org%3Amattermost+label%3A%22Help+Wanted%22++label%3A%22Up+For+Grabs%22](https://github.com/search?utf8=%E2%9C%93&q=is%3Aopen+archived%3Afalse+org%3Amattermost+label%3A%22Help+Wanted%22++label%3A%22Up+For+Grabs%22)
-2. `mattermost/mattermost-server` - [https://mattermost.com/pl/help-wanted-mattermost-server](https://mattermost.com/pl/help-wanted-mattermost-server) which redirects to [https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FGo%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FGo%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue)
+2. `mattermost/mattermost` - [https://mattermost.com/pl/help-wanted-mattermost](https://mattermost.com/pl/help-wanted-mattermost) which redirects to [https://github.com/mattermost/mattermost/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FGo%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue](https://github.com/mattermost/mattermost/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FGo%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue)
 3. `mattermost/desktop` - [https://mattermost.com/pl/help-wanted-desktop](https://mattermost.com/pl/help-wanted-desktop) which redirects to [https://github.com/mattermost/desktop/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue](https://github.com/mattermost/desktop/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue)
-4. `mattermost/mattermost-mobile` - [https://mattermost.com/pl/help-wanted-mattermost-mobile](https://mattermost.com/pl/help-wanted-mattermost-mobile) which redirects to [https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FReact+Native%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FReact+Native%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue)
-5. `mattermost/mattermost/webapp` - [https://mattermost.com/pl/help-wanted-mattermost-webapp](https://mattermost.com/pl/help-wanted-mattermost-webapp) which redirects to [https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FReactJS%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FReactJS%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue)
-6. `mattermost/mattermost-redux` - [https://mattermost.com/pl/help-wanted-mattermost-redux](https://mattermost.com/pl/help-wanted-mattermost-redux) which redirects to [https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FRedux%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FRedux%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue)
+4. `mattermost/mattermost-mobile` - [https://mattermost.com/pl/help-wanted-mattermost-mobile](https://mattermost.com/pl/help-wanted-mattermost-mobile) which redirects to [https://github.com/mattermost/mattermost/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FReact+Native%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue](https://github.com/mattermost/mattermost/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FReact+Native%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue)
+5. `mattermost/mattermost/webapp` - [https://mattermost.com/pl/help-wanted-mattermost-webapp](https://mattermost.com/pl/help-wanted-mattermost-webapp) which redirects to [https://github.com/mattermost/mattermost/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FReactJS%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue](https://github.com/mattermost/mattermost/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FReactJS%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue)
+6. `mattermost/mattermost-redux` - [https://mattermost.com/pl/help-wanted-mattermost-redux](https://mattermost.com/pl/help-wanted-mattermost-redux) which redirects to [https://github.com/mattermost/mattermost/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FRedux%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue](https://github.com/mattermost/mattermost/issues?utf8=%E2%9C%93&q&q=label%3A%22Help+Wanted%22+label%3A%22Tech%2FRedux%22+label%3A%22Up+For+Grabs%22+is%3Aopen+is%3Aissue)
 
 ## Mattermost Community Forums
 
