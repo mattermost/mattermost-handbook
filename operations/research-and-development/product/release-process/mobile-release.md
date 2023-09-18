@@ -13,7 +13,7 @@ Note: T-minus counts are measured in "working days" \(weekdays, Monday through F
 The Mobile app release schedule follows the cloud/self-hosted release schedule to align all release testing cycles.
 
 **Schedule for Mobile App releases**:
- - Around T-24:
+ - Around T-19:
     - This is the Feature Complete deadline for the release.
     - Cut the release branch based off the `main` branch.
     - Cut RC builds based off the release branch for QA release testing. Release testing begins.
