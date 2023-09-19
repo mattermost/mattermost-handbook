@@ -1,6 +1,6 @@
-# Issue/Solution Process
+# Issue/Solution Proposal Process
 
-Issue/Solution Proposal is a tool for increasing clarity, speed, and output in teams. Over time, we will be integrating ISP functionality in [Mattermost Boards](https://mattermost.com/boards/), and unti then we will use other systems.
+Issue/Solution Proposal (ISP) is a tool for increasing clarity, speed, and output in teams. 
 
 Note: Special thanks to [Matt Mochary](https://www.linkedin.com/in/matt-mochary-34bb4/) for the framework on which this system is based.
 
@@ -26,7 +26,7 @@ Pros:
 Con:   	
 - Creates very little buy-in and gets no benefit from the team’s knowledge and experience.
 
-### Method B: Issue and proposed solution
+### Method B: Issue and solution proposed
 
 A decision maker creates (or assigns someone to create) a written straw man (a hypothetical answer designed to inspire discussion), shares it with the team, invites team to give feedback (written and verbal), facilitates group discussion, makes everyone feel heard by repeating back their comments, and then makes a final decision.
 
@@ -56,7 +56,7 @@ For everyday, low-impact issues (for example, entering a new reseller relationsh
 
 For Method B, we use the Issue/Proposed Solution method.
 
-# Issues/Proposed Solution
+# Issues/Solution Proposed (ISP)
 
 Team members will often want to bring up an issue and discuss it verbally. This is both inefficient (listening takes longer than reading) and ineffective (in verbal discussions the most vocal people often have the most influence).
 
@@ -66,7 +66,7 @@ All Issues and Proposed Solutions are presented at the weekly Team Meeting, incl
 
 Allow up to 5 minutes of discussion for each tactical (short-term) Proposed Solution and up to 20 minutes for each strategic (long-term) Proposed Solution. If in that time, the decision maker feels that they have enough context to make a decision, they announce and write the decision. The Solution is turned into one or more Next Actions with a DRI (Directly Responsible Individual) and Due Date for each.
 
-We use an Issue/Proposed Solution template to structure these issues, and typically include a recording of the issue so it can be explained quickly and concisely.
+We use an Issue/Solution Proposed (ISP) template to structure these issues, and typically include a recording of the issue so it can be explained quickly and concisely.
 
 If the decision maker feels they don’t have enough context to make a decision, DO NOT spend more time talking about the Issue. Instead turn to the RAPID decision-making framework described below.
 
