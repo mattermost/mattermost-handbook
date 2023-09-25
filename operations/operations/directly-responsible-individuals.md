@@ -2,7 +2,7 @@
 [According to our list of terms](../../company/about-mattermost/list-of-terms.md#dri), a Directly Responsible Individual means a human individual who is accountable for a given [Area Of Responsibility \(or "AORs"\)](operations/areas-of-responsibility.md). 
 
 # What do they own? 
-DRIs may have different types of AORs depending on their role and function. Ideally, we have a DRI for all metrics, goals, projects, meetings, and decisions. “If something needs to get done, someone needs to do it.” Please see this document for more context on why we need DRIs. 
+DRIs may have different types of AORs depending on their role and function. Ideally, we have a DRI for all metrics, goals, projects, meetings, and decisions. “If something needs to get done, someone needs to do it.” [Please see this document for more context on why we need DRIs](https://docs.google.com/document/d/1I4jBy1XryEdknFoDCMUY93PEn0rR-oOOx6yiLSiaa38/edit). 
 
 At the highest level, we think about DRIs in these two contexts: 
 
