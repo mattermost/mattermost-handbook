@@ -28,6 +28,6 @@ Subject Line: Staff Reimbursement to Company
 
 ## How to make a payment to Mattermost
 
-Once you have sent your email to Expenses, please use the [Bank Payment Information](https://drive.google.com/drive/u/0/folders/1QPBga8kEMhZ6R0ObHQojwhONmn45A4SS) to refund the company. We currently offer two payment options: ACH or Wire.
+Once you have sent your email to Expenses, please use the [Bank Payment Information](https://docs.google.com/document/d/1O4r4K7SoRrEBxpnR1t23EJvAPac9LDc8ax1DVeZS-Zg/edit#heading=h.fdo06w6cowud) to refund the company.
 
 For any questions, please reach out to Expenses@mattermost.com
