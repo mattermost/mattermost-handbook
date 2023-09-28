@@ -14,6 +14,18 @@ It consists of full stack teams made of developers, UX designers, QA analysts, t
 
 See [the spreadsheet](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit#gid=1820415931) for team members and AORs.
 
+**Please use the following community channels to discuss particular product topics:** 
+ - [Channels](https://community.mattermost.com/core/channels/messaging)
+ - [Playbooks](https://community.mattermost.com/core/channels/developers-playbooks)
+ - [Calls](https://community.mattermost.com/core/channels/developers-channel-call)
+ - [Integrations & Apps](https://community.mattermost.com/core/channels/integrations)
+ - [AI](https://community.mattermost.com/core/channels/ai-exchange)
+ - [Server](https://community.mattermost.com/core/channels/developers-server)
+ - [Mobile](https://community.mattermost.com/core/channels/native-mobile-apps)
+ - [Desktop App](https://community.mattermost.com/core/channels/desktop-app)
+ - [Web App](https://community.mattermost.com/core/channels/webapp)
+ - [Feature Proposals](https://mattermost.com/suggestions/)
+
 ### Data Engineering
 
 The Data Engineering division builds and supports the data infrastructure and analysis tools.
