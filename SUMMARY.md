@@ -182,6 +182,7 @@
   * [How to use Airbase](operations/finance/purchasing/airbase/README.md)
     * [Access Airbase](operations/finance/purchasing/airbase/how-to-access-airbase.md)
     * [Navigate Airbase](operations/finance/purchasing/airbase/navigate-airbase.md)
+    * [How to submit a purchase request](operations/finance/purchasing/airbase/how-to-submit-a-purchase-request.md)
     * [How to submit a reimbursement request](operations/finance/purchasing/airbase/how-to-submit-a-reimbursement-request.md)
     * [How to review a reimbursement request](operations/finance/purchasing/airbase/how-to-review-a-reimbursement-request.md)
     * [Vendor portal guide](operations/finance/purchasing/airbase/vendor-portal-guide.md)
