@@ -8,9 +8,11 @@ Guided Procurement is a purchase module within Airbase where you can make the fo
 
 **How to make a purchase request:**
 
-Log into Airbase via OKTA
+Log into Airbase via Okta.
 
-Go to Request > Purchase
+Go to **Request > Purchase**.
+
+![Example of how to submit a purchase request in Airbase](/.gitbook/assets/How-to-make-a-purchase-request.png "Example of how to submit a purchase request in Airbase")
 
 Complete the Spend Intake form.
 
