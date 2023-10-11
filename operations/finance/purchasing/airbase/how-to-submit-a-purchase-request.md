@@ -34,7 +34,7 @@ Complete the Spend Intake form.
 
 Complete the questions in the Budget, IT, Legal and Security and Finance and Accounting sections.
 
-1. When your request is in the Legal and Security approval milestone stage, please go to Ironclad for any comments, review notes and redlines from Legal. Please note that once the related legal document is approved, it will be sent for signatures from Ironclad via Docusign. **It is highly encouraged that your vendor signs the Docusign packet sent from Ironclad.** If the vendor requires that they sign internally, please communicate this to the Procurement and Legal teams.
+1. When your request is in the Legal and Security approval milestone stage, please go to Ironclad for any comments, review notes, and redlines from Legal. Please note that once the related legal document is approved, it will be sent for signatures from Ironclad via Docusign. **It is highly encouraged that your vendor signs the Docusign packet sent from Ironclad.** If the vendor requires that they sign internally, please communicate this to the Procurement and Legal teams.
 
 2. Once both parties have signed the related legal documents, the document(s) will be archived in Ironclad.
 
