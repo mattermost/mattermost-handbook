@@ -1,7 +1,7 @@
 # Delivery
 
 ## Mission
-The Delivery team enables Mattermost Engineering to deliver products of **high quality**, **secure**, **scalable**, and **efficient** fashion to Mattermost customers. The team ensures that Mattermost bi-weekly, monthly, security, and patch releases are publicly released in a timely fashion.
+The Delivery team enables Mattermost Engineering to deliver products of **high quality**, **secure**, **scalable**, and **efficient** fashion to Mattermost customers. The team ensures that Mattermost scheduled, security, and patch releases are publicly released in a timely fashion.
 
 ## Vision
 By its own nature, the Delivery team is a backstage, non-user feature facing team whose product and output has a high impact on day to day development operations, quality and releases. The team creates the workflows, frameworks, tools, architecture, and automation for Engineering teams to see their work reach production effectively and efficiently. 
@@ -41,7 +41,7 @@ The team regularly works on the following tasks, in the order of priority:
 - Participating in incident resolution and acting on corrective actions for SaaS and self-managed software delivery
 - Minimizing the use of custom tooling by building or enhancing features within Mattermost
 - Improving the robustness of SaaS software delivery by creating and improving tooling (release & testing)
-- Coordination, education, and preparation of Mattermost releases for SaaS and self-managed users for the bi-weekly/monthly minor, patch, and security releases
+- Coordination, education, and preparation of Mattermost releases for SaaS and self-managed users for the scheduled minor, patch, and security releases
 - Review release metrics
 
 ## Meetings
