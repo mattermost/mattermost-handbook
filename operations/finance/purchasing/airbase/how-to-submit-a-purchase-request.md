@@ -21,10 +21,8 @@ Complete the Spend Intake form.
 2. Vendor & Budget Details - when completing this section, please be prepared to provide the following information:
 
    a. Vendor or seller of the product or service
-
-       i. Full address, contact information, and related legal documents or link to online T&C’s
-
-       ii. Counterparty signer email address, if applicable
+      1. Full address, contact information, and related legal documents or link to online T&C’s
+      2. Counterparty signer email address, if applicable
 
    b. Short description of the request
 
