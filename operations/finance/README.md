@@ -18,18 +18,16 @@ Email:
 
 * [Kendra Niedziejko](https://community.mattermost.com/core/messages/@Kendra.Niedziejko) - Chief Financial Officer
 * [Elad Rosenberg](https://community.mattermost.com/core/messages/@elad.rosenberg) - Director of Finance
-* [Ben Graham](https://community.mattermost.com/core/messages/@ben.graham) - Director of Accounting
 * [Isabel Alorro](https://community.mattermost.com/core/messages/@isabel.alloro) - Accounting Manager
 * [Shawna Young-Marcelino](https://community.mattermost.com/core/messages/@shawna.young-marcelino) - Payroll Analyst
 * [Jeff Dynda](https://community.mattermost.com/core/messages/@jeff.dynda) - Senior Accountant
 * [Avaneesh KS](https://community.mattermost.com/core/messages/@avaneesh.ks) - Staff Accountant
 * [Daniel Sischy](https://community.mattermost.com/core/messages/@daniel.sischy) - IT Manager
-* [Amit Patel](https://community.mattermost.com/core/messages/@amit.patel) - Senior IT Operations Specialist
 
 ## AORs
 
-* For inquiries regarding customer invoices, sales commissions and payroll \(all entities\), please reach out to [Ben Graham](https://community.mattermost.com/core/messages/@ben.graham).
-* For inquiries regarding budgets, procurement, vendor bills, staff member expense reimbursements, and virtual credit card requests, please reach out to [Isabel Alorro](https://community.mattermost.com/core/messages/@isabel.alloro).
+* For inquiries regarding customer invoices, sales commissions and payroll \(all entities\), please reach out to [Isabel Alorro](https://community.mattermost.com/core/messages/@isabel.alorro).
+* For inquiries regarding budgets, procurement, vendor bills, staff member expense reimbursements, and virtual credit card requests, please reach out to [Isabel Alorro](https://community.mattermost.com/core/messages/@isabel.alorro).
 * For inquiries regarding customer invoices and collections, vendor bills and payments, sales orders, please reach out to [Jeff Dynda](https://community.mattermost.com/core/messages/@jeff.dynda).
 * For inquiries regarding deal desk and sales orders, please reach out to [Avaneesh KS](https://community.mattermost.com/core/messages/@avaneesh.ks).
 
