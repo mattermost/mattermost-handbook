@@ -1,7 +1,7 @@
 # Release Scorecard Definitions
 
-[Looker dashboard](https://mattermost.looker.com/dashboards/410)
-[Google spreadsheet](https://docs.google.com/spreadsheets/d/1Aoj4OTaWoyrKIcQNiHH1MVoRG51T20Y_0w2tg5oVw-M/edit#gid=825551144)
+ - [Looker dashboard](https://mattermost.looker.com/dashboards/410)
+ - [Google spreadsheet](https://docs.google.com/spreadsheets/d/1Aoj4OTaWoyrKIcQNiHH1MVoRG51T20Y_0w2tg5oVw-M/edit#gid=825551144)
 
 ## Release Hearbeat
 
@@ -174,6 +174,16 @@
           <li>Project = Mattermost</li>
           <li>Fix Versions = Latest released version</li>
           <li>Impact = Low</li>
+        </ol>
+      </td>
+    </tr>
+      <tr>
+      <td style="text-align:left">Average Lead Time Per Fix Version</td>
+      <td style="text-align:left">
+        <p>Average number of days for all bugs with Resolution equal to Done.</p>
+        <ol>
+          <li>Project = Mattermost</li>
+          <li>Resolution = Done</li>
         </ol>
       </td>
     </tr>
