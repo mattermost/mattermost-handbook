@@ -14,7 +14,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Time updated to RC1 (PST)</td>
+      <td style="text-align:left">Date/time updated to RC1 (PST)</td>
       <td style="text-align:left">Check Release Discussion channel history for date/time RC1 was cut.</td>
     </tr>
     <tr>
@@ -23,7 +23,7 @@
         that release.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Number of days between when final RC is cut and the release date</td>
+      <td style="text-align:left">Number of days between when QA approval is posted and the release date</td>
       <td
       style="text-align:left">Check Release Discussion channel for post with official release build.
         Oxygen = 16th - Day Final RC is cut</td>
@@ -71,7 +71,7 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Total valid bugs in fix version</td>
+      <td style="text-align:left">Total valid bug fixes in fix version</td>
       <td style="text-align:left">
         <p>After closing current release:</p>
         <p>project = Mattermost AND issuetype = Bug AND resolution not in (Duplicate,
@@ -82,7 +82,7 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Total valid regressions in fix version</td>
+      <td style="text-align:left">Total valid regression fixes in fix version</td>
       <td style="text-align:left">
         <p>After closing current release:</p>
         <p>project = Mattermost AND issuetype = Bug AND resolution not in (Duplicate,
@@ -106,7 +106,7 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Valid bugs found after RC1 pushed to next release</td>
+      <td style="text-align:left">Valid bugs found after RC1 is pushed to next release</td>
       <td style="text-align:left">
         <p>After closing current release, adjust dates as per above, and use this
           Jira query:</p>
@@ -178,7 +178,7 @@
       </td>
     </tr>
       <tr>
-      <td style="text-align:left">Average Lead Time Per Fix Version</td>
+      <td style="text-align:left">Average lead time per fix version</td>
       <td style="text-align:left">
         <p>Average number of days for all bugs with Resolution equal to Done.</p>
         <ol>
