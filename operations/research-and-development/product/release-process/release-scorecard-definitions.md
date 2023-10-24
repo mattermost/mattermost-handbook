@@ -183,7 +183,10 @@
         <p>Average number of days for all bugs with Resolution equal to Done.</p>
         <ol>
           <li>Project = Mattermost</li>
+          <li>Issue type = Bug</li>
           <li>Resolution = Done</li>
+          <li>Fix Version = Any</li>
+          <li>Component = Cloud or null (on-prem)</li>
         </ol>
       </td>
     </tr>
