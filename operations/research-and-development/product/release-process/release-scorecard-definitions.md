@@ -91,21 +91,6 @@
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Total valid bugs found after RC1 is cut</td>
-      <td style="text-align:left">
-        <p>After closing current release, adjust dates as per above, and use this
-          Jira query:</p>
-        <ol>
-          <li>Check Jira timezone + Pre-release timezone and make sure times match</li>
-          <li>Replace START with date (yyyy-MM-dd HH:mm) RC1 was cut</li>
-          <li>Replace END with date (yyyy-MM-dd HH:mm) test servers returned to master</li>
-        </ol>
-        <p>project = Mattermost AND issuetype = Bug AND resolution not in (Duplicate,
-          &quot;Cannot Reproduce&quot;, &quot;Won&apos;t fix&quot;) AND created &gt;
-          &quot;START&quot; AND created &lt; &quot;END&quot;</p>
-      </td>
-    </tr>
-    <tr>
       <td style="text-align:left">Valid bugs found after RC1 is pushed to next release</td>
       <td style="text-align:left">
         <p>After closing current release, adjust dates as per above, and use this
@@ -125,7 +110,22 @@
           AND created &lt; &quot;END&quot; AND resolution not in (Duplicate, &quot;Cannot
           Reproduce&quot;, &quot;Won&apos;t Fix&quot;) AND (fixVersion not in (latestReleasedVersion(),
           earliestUnreleasedVersion()) OR fixVersion is EMPTY)</p>
-        </td>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Total valid bugs found after RC1 is cut</td>
+      <td style="text-align:left">
+        <p>After closing current release, adjust dates as per above, and use this
+          Jira query:</p>
+        <ol>
+          <li>Check Jira timezone + Pre-release timezone and make sure times match</li>
+          <li>Replace START with date (yyyy-MM-dd HH:mm) RC1 was cut</li>
+          <li>Replace END with date (yyyy-MM-dd HH:mm) test servers returned to master</li>
+        </ol>
+        <p>project = Mattermost AND issuetype = Bug AND resolution not in (Duplicate,
+          &quot;Cannot Reproduce&quot;, &quot;Won&apos;t fix&quot;) AND created &gt;
+          &quot;START&quot; AND created &lt; &quot;END&quot;</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">(Non-security) Bugs requiring patch release</td>
