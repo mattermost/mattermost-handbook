@@ -118,9 +118,9 @@
         <p>After closing current release, adjust dates as per above, and use this
           Jira query:</p>
         <ol>
-          <li>Check Jira timezone + Pre-release timezone and make sure times match</li>
+          <li>Check Jira timezone + Community server timezone and make sure times match</li>
           <li>Replace START with date (yyyy-MM-dd HH:mm) RC1 was cut</li>
-          <li>Replace END with date (yyyy-MM-dd HH:mm) test servers returned to master</li>
+          <li>Replace END with date (yyyy-MM-dd HH:mm) release was published</li>
         </ol>
         <p>project = Mattermost AND issuetype = Bug AND resolution not in (Duplicate,
           &quot;Cannot Reproduce&quot;, &quot;Won&apos;t fix&quot;) AND created &gt;
