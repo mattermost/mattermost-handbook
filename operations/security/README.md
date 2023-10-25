@@ -28,6 +28,3 @@ Email:
 * Paul Harrison, Security Engineering Lead
 * Ailsa Partridge, Security Engineer II
 * Corey Robinson, Security Engineer II
-* Jorge Blanco, Senior Security Engineer
-* Joseba Astoreca, Security Engineer II
-
