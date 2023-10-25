@@ -27,37 +27,38 @@ Raising an issue is the responsibility of whoever is managing community response
 While anyone can escalate a sensitive topic, only approved responders listed below can engage. If you’d like to be an approved responder for one or more of the topics, we welcome the help! Reach out to @jason.blais on community.mattermost.com, and you will be added to the next training session.
 
 1. Non-regulatory **Privacy/Telemetry** where opinions are at play more than legal or regulatory issues:
-   * Approved Responders: Head of Community, Lead PM, CPO, CEO
-   * Loop in: CEO
+   * Approved Responders: Dr. Program Management, Lead PM, CTO, CEO
+   * Loop in: CEO, CRO
    * Template Response: To be added
 2. Product-related **Regulations/GDPR**, and other legal issues:
-   * Approved Responders: Head of Community, Lead PM, Head of Legal, CPO, CEO
-   * Loop in: Head of Legal, Lead PM
+   * Approved Responders: Head of Security, VP Legal, VP Product, CRO, CEO
+   * Loop in: VP Legal, Lead PM, CFO
    * Template Response: To be added
 3. **Licensing**, including open source and commercial license inquiries:
-   * Approved Responders: Head of Community, Lead PM, CEO
+   * Approved Responders: Dr. Program Management, CRO, CEO
    * Template Response: To be added
 4. **Packaging**, including requests for making an Enterprise feature free:
-   * Approved Responders: Lead PM, CPO
+   * Approved Responders: Lead PM, VP Product, CTO
+   * Loop in: CEO, CRO
    * Template Response: To be added
 5. **Workplace policies**, including hiring locations:
-   * Approved Responders: Director of HR, Head of Legal
+   * Approved Responders: VP HR, VP Legal
    * Template Response: To be added
 6. **Security vulnerabilities**
-   * Approved Responders: Head of Community, Head of Security, Security PM, VP Eng
-   * Loop in: Head of Security, Security PM, VP Eng
+   * Approved Responders: Head of Security, Security PM, CTO
+   * Loop in: CEO, VP Product, CFO
    * Template Response: To be added
 7. **Illicit use**
-   * Approved Responders: Head of Community, VP Marketing, CEO
-   * Loop in: Head of Legal, VP Marketing
+   * Approved Responders: VP Legal, CFO
+   * Loop in: VP Legal, CEO
    * Template Response: To be added
 8. Marketing-related **Regulations/GDPR**, and other legal issues:
-   * Approved Responders: Head of Community, VP Marketing, Head of Legal, CEO
-   * Loop in: VP Marketing, Head of Legal
+   * Approved Responders: VP Legal, CFO, CEO
+   * Loop in: VP Legal, CEO
    * Template Response: To be added
 9. **Governmental data request**, e.g. US government requesting user/customer data under US jurisdiction:
-   * Approved Responders: Head of Legal, CEO
-   * Loop in: Head of Legal
+   * Approved Responders: VP Legal, CEO
+   * Loop in: VP Legal
    * Template Response: To be added
 
 ### Non-sensitive topics
@@ -92,12 +93,11 @@ Below is the list of members mapped to each role mentioned as an approved respon
 
 * CEO: Ian Tien
 * CTO: Corey Hulen
-* VP Eng: Chris Overton
-* VP Finance: Tim Quock
-* VP Marketing: Matt Harper
-* Director of HR: Natalie Jew
+* CFO: Kendra Neidziejko
+* VP Product: Chen-i Lim
+* VP HR: Natalie Jew
+* VP Legal: Nirosha Ruwan
 * Lead PM: Katie Wiersgalla
-* Head of Legal: TBC
 * Head of Security: Daniel Schalla
-* Head of Community: Jason Blais
+* Dr. Program Management: Jason Blais
 * Security PM: Katie Wiersgalla
