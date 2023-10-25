@@ -1,16 +1,16 @@
 # Company Agreements
 
-**Note: Pull Requests for updates to this page need to be signed off by both VP Finance and CEO in the PR process.**
+**Note: Pull Requests for updates to this page need to be signed off by both CFO and CEO in the PR process.**
 
 ## Who can sign on behalf of the company?
 
-Company agreements should only be signed by CEO, Ian Tien, or VP Finance, Tim Quock, with the following exceptions:
+Company agreements should only be signed by CEO, Ian Tien, or CFO, Kendra Niedziejko, with the following exceptions:
 
 * If you are on-site and need to sign an NDA to enter a facility you may sign such an agreement.
-* The following agreements may also be signed by the Head of Legal, Jamie Hurewitz:
+* The following agreements may also be signed by the VP Legal, Nirosha Ruwan:
   * Non-Disclosure Agreements.
   * Data Privacy Agreements
-* The following agreements may also be signed by the VP Finance, Tim Quock.
+* The following agreements may also be signed by the CFO, Kendra Niedziejko.
   * Unmodified Order Forms where the Customer is requesting a Mattermost signature.
   * Vendor contracts.
 * Any contracts with terms that could have material impacts on financing or M&A transactions may only be signed by the CEO \(e.g. non-standard liability, indemnification or inability to assign the agreement\).
@@ -28,7 +28,6 @@ The following staff are approved to send contracts to be e-signed:
 * Nikki Johnson - Primary for sales agreements and customer supplier forms
 * Jeff Dynda - Approved vendor contracts from legal and customer supplier forms
 * Natalie Jew
-* Tim Quock
 
 ## What are e-sign completion expectations?
 
