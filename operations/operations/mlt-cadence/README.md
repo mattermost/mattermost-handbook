@@ -20,7 +20,7 @@ This section outlines:
 * Ian Tien: Co-Founder and CEO
 * Corey Hulen: Co-Founder and CTO
 * Kendra Niedziejko: CFO
-* David Reardon: VP Worldwide Sales
+* David Reardon: Chief Revenue Officer
 * Nirosha Ruwan: VP, Legal
 * Chen-i Lim: VP, Product
 * Natalie Jew: VP Human Resources
