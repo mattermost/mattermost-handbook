@@ -4,21 +4,25 @@ Mattermost, Inc. is a company based on the Mattermost open source project, which
 
 **What we do:** Mattermost, Inc. helps solve collaboration challenges for developers, operators & security teams so organizations can focus on business-critical tasks.
 
-**Who we serve:** We serve organizations that need to speed application delivery by improving collaboration while maintaining security and privacy. We help solve:
+**Who we serve:** Our Ideal Customer Profile (“ICP”) is an enterprise, defense or governmental organization with 2,500+ employees in need of a collaboration platform for mission critical work that meets complex requirements for security, compliance and self-sovereignty. ICP organizations have significant in-house Dev/Sec/Ops talent and the ability to deploy and secure self-managed infrastructure. 
 
-* _Complicated communications:_ Silos across networks, data, tools, and teams causing delay, duplication, and re-work.
-* _Unpredictable results:_ Teams approaching the same problems with inconsistent methods and outcomes, resulting in uncertainty and lack of trust.
-* _Outages and downtime:_ Lack of clarity and tooling increases and prolongs system failures, impacting business results and market confidence.
+We believe that mission critical work is hampered by one or more of the following;
 
-**What we offer:** We help by providing a secure, privacy-conscious collaboration platform to build, operate, defend and heal software systems. Core benefits include:
+* _Risk from non-compliance_ 
+* _End of Life of existing systems_ 
+* _Lack of resilience at scale during infrastructure failure or breach_
+* _Competitive Risk_
+* _Need to preserve sovereignty_
+* _Noise/gaps of MS Teams/general collab tools for tech/operational orgs_
+* _Risk from gaps in Mattermost Team Edition for large organizations_
+* _Low efficiency, high delay and error rates due to inflexible platform_
+* _Need interconnect outside of AD domains and CAC systems_
 
-* _Awareness:_ Privately deliver customized, cross-org data, alerting, and dashboards across web, PC, and mobile increasing speed and efficiency.
-* _Process:_ Observe, prioritize, coordinate, and escalate process and priorities in a tailored experience to increase predictability and trust across teams and organizations.
-* _Response:_ Solve issues proactively and reactively with data, people, tools, and controls in one place, improving business outcomes, and building market confidence.
+**What we offer:** Mattermost is a secure collaboration platform for accelerating mission critical work in complex environments. We connect teams, tools and processes on a self-sovereign hub with workflow, integrations, real-time messaging, voice, screen share and federation to deliver more focused, adaptable and resilient decision cycles and outcomes. 
 
 ## Mission
 
-Our mission is to make the world more safe and productive by developing and delivering secure, open source collaboration software that is trusted, flexible, and offers fast time-to-value.
+Mattermost’s mission is to make the world safer and more productive by developing and delivering secure, open source collaboration software. 
 
 ## Leadership Principles
 
@@ -32,7 +36,7 @@ Leadership principles are deliberate choices defining our behavior. When facing 
 
 ## Market
 
-We see a $30B+ market opportunity in the collaboration space and the growth of “open source collaboration” accelerating vs proprietary solutions. Open source has already commoditized operating systems, databases, tooling, and virtualization infrastructure. We see the entry of open source into the application layer driving fast adoption of a new generation of open source and open core solutions, inherently more flexible, trustworthy, and economical than past models.
+We see a $30B+ market opportunity in the secure collaboration space and the growth of “open source collaboration” accelerating vs proprietary solutions. Open source has already commoditized operating systems, databases, tooling, and virtualization infrastructure. We see the entry of open source into the application layer driving fast adoption of a new generation of open source and open core solutions, inherently more flexible, trustworthy, and economical than past models.
 
 ### Products and Business Model
 
@@ -47,37 +51,29 @@ Mattermost, Inc is a commercial open source company with a subscription-based, [
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Mattermost Team Edition</b>
+      <td style="text-align:left"><b>Mattermost Professional</b>
         <br />
-        <br /><em>Audience:</em> Development team that wants to self-host workplace messaging
-        in private network</td>
+        <br /><em>Audience:</em> Development team that wants to build and scale sophisticiated work flows for multiple cross-functional teams to be able to deliver mission critical operations. </td>
       <td style="text-align:left">
-        <p>Our core product is Mattermost Team Edition offered under an open source
+        <p> Mattermost Professional is offered under an open source
           MIT license. It&apos;s built for a team of 10 to 50 developers and IT professionals
           who need to self-host a workplace messaging platform. Developer-focused
           features including web, desktop, and mobile apps, core integrations with
           DevOps platforms, archiving, search, and extensibility framework are offered
           in the open source core at no cost.</p>
-        <p>Mattermost Team Edition is packaged as a single Linux binary that&apos;s
+        <p>Mattermost Professional is packaged as a single Linux binary that&apos;s
           straightforward to install and maintain, with automated deployment from
           public cloud marketplaces including AWS, Azure, VMWare, and GCP.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <p><b>Mattermost Enterprise Edition</b>
+        <p><b>Mattermost Enterprise </b>
         </p>
-        <p><em>Audience:</em> IT organization needing to self-host workplace messaging
-          in private network for multiple development teams, or other end users in
-          high trust environments</p>
+        <p><em>Audience:</em> Enterprise deployments who need to accelerate mission critical work in complex environments by increasing speed, efficiency and resilience in vital operations while meeting nation-state level security and compliance requirements. </p>
       </td>
       <td style="text-align:left">
-        <p>Mattermost Enterprise Edition is an extended version of Mattermost Team
-          Edition offered under a proprietary license priced with a user-based annual
-          subscription. It offers features designed for IT organizations to manage
-          multiple teams of developers and other end users in high trust environments
-          with Single Sign-on, Active Directory/LDAP integration, eDiscovery support,
-          and High Availability deployment configurations.</p>
+        <p>Mattermost Enterprise is an enterprise-grade collaboration system that supports and helps you scale your mission-critical enterprise workflows, meet strict enterprise security, compliance, and privacy requirements, as well as provide executive reporting, dashboards, and productivity metrics.</p>
         <p>Different packages of commercial features are offered based on buyer needs.</p>
       </td>
     </tr>
