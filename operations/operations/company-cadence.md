@@ -27,7 +27,6 @@ This is a bi-weekly all-staff meeting focused on increasing alignment and awaren
           <li>All Mattermost Staff</li>
           <li>Chair: Amy Nicol</li>
           <li>Co-Chairs: Co-founders</li>
-          <li>Vice Chair: Nova Johnstone</li>
         </ul>
       </th>
     </tr>
@@ -69,21 +68,18 @@ This is a bi-weekly all-staff meeting focused on increasing alignment and awaren
 1. Chair works 1-1 with presenters to prepare for them.
 2. Team members can share  meeting agenda topics with Chair via direct message. Must be shared at least 24 hours prior to meeting start and be aligned with the meeting objectives above.
 
-**2 - T-2:** Chair and Vice Chair meet to review agenda. Vice Chair posts draft agenda to [Customer Obs Prep channel](https://community-release.mattermost.com/private-core/channels/cust-obs-prep) and labels it as 50% draft.
+**2 - T-8:** Chair and Vice Chair meet to review agenda. Vice Chair works with approriate presenters of agenda topics to develope slides for presentation
 
 **3 - T-1:** COM prep meeting held with Chair, Co-Chairs, and Vice Chair and review the following items:
 
 1. Meeting starts with thematic goal, including the theme statement, defining objectives, and actions the company is taking towards the goal.
-2. Good News is shared by the Marketing Team.
-3. Introductions for each Week 2 Welcome are confirmed by PeopleOps.
+2. Introductions for each Week 2 Welcome are confirmed by PeopleOps.
    1. If new hire or manager is away, introduction is postponed to the following meeting.
    2. New team members are introduced on their second week by their manager, including name, role, what they're working on, timezone, additional info as appropriate \(max 2 minutes\).
    3. New hire can opt-in to introduce themselves if they choose \(default is not to require public speaking\).
 4. Material for each agenda item is reviewed, and contains a link for more information such as a post to a channel, documentation or a blog post.
    1. Each link shared in meeting notes should be publicly accessible to everyone in Mattermost.
 5. If computer sound is shared during the call, test it prior to the meeting and install libraries or tools as required.
-
-After the prep meeting, Vice Chair posts a screenshot of the final agenda into the [Customer Obs Prep channel](https://community.mattermost.com/private-core/channels/cust-obs-prep), and copies the agenda into the [Customer Obsession Meeting notes](https://docs.google.com/document/d/16F86k0I_ipjhHofm5pP6yA_dWTNvmA4ZBr_z53_087Q/edit).
 
 ### During meeting
 
@@ -158,17 +154,14 @@ A GNN Update is a concise way to share out what's "Going Well", "Not Going Well"
 - **Going Well**: What's going well, and what would we want to amplify or repeat?
 - **Not Going Well**: What's moving slower than expected? What's in our way?
 - **Next Actions**: Based on what's going well (things we want to amplify or repeat) and Not Going Well (problems we need to solve), what are the next actions we want to take in the next 1-2 weeks? Next actions should include who is responsible for them, a due date and what the expected outcomes and imapct of the next actions.
+
+If a GNN has been shared previously, the Business owner should share the following in their next update:
  
-All goals should have GNNs written monthly in alignment with the Monthly Business Review cadence. If a goal is "Yellow" or "Red" in status, then we ask for the GNN to be shared out.
-
-If a goal has been "Yellow" or "Red" the previous period, we ask that two additional items are included in the next GNN Update: 
-
 - **Outcomes of previous Next Actions**: Share what happened after the last set of Next Actions were shared out, good and bad. If the Next Action wasn't completed, explain why, and then what we'll do next time to complete the action.
 - **Link to previous GNN Update**: Add a link back to the previous GNN update as a reference.
 
 ## Monthly Business Review ("MBR") 
 
-- Each month we review our progress against our company-level goals.
-- Goals tracking either "Yellow" or "Red" require a one-slide update in "GNN Update" format, as mentioned above.
-- The GNN Updates are prepared by the DRIs for each goal.
+- Each month we review our progress against our company-level standard operating metrics.
+- The GNN Updates are prepared by business owners with input from the data owners. 
 - In the MBR we align on the most important opportunities to accelerate the company, and supporting the DRI with Next Actions across the company to bring a goal back to success.
