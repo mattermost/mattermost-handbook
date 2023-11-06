@@ -25,11 +25,11 @@ You can contribute to the following active translation projects:
 | **Translation project** | **Translation server URL** |
 | :--- | :--- |
 | Channels | https://translate.mattermost.com/projects/mattermost/ |
-| Focalboard | https://translate.mattermost.com/projects/focalboard/ |
 | Playbooks | https://translate.mattermost.com/projects/playbooks/ |
 | Desktop app | https://translate.mattermost.com/projects/mattermost/mattermost-desktop/ |
-| Mobile app v2 | https://translate.mattermost.com/projects/mattermost/mattermost-mobile-v2/ |
-| Mattermost WIP languages | https://translate.mattermost.com/projects/i18n-wip/ |
+| Mobile app | https://translate.mattermost.com/projects/mattermost/mattermost-mobile-v2/ |
+| Calls | https://translate.mattermost.com/projects/calls/ |
+
 
 The general localization process is described in the following sections on this page. 
 
@@ -41,7 +41,8 @@ Mattermost is developed in US English, and officially supports 20 additional lan
 
 **Important note:** While it's common to contribute to Mattermost in GitHub, product translations is a notable exception. You must contribute to Mattermost translations on the Mattermost translation server. Please don't attempt to submit translations in GitHub via pull requests (PRs) as your translations will be overwritten with the next PR update.
 
-### Confirm whether the language you want to translate is one we [officially support](https://translate.mattermost.com/projects/mattermost/#languages) or is a [work-in-progress (WIP) language](https://translate.mattermost.com/projects/i18n-wip/#languages)
+### Confirm whether the language you want to translate is one we officially support or is a work-in-progress (WIP) language. To contribute to the supported languages you need extra permissions, this is a safety measure. 
+Requesting these permissions can be done in the [Mattermost localization channel](https://community.mattermost.com/core/channels/localization) or with a direct message to Carrie Warner or Tom De Moor.
 
 Only supported languages are available in-product by selecting **Settings > Display > Language**. Any language that isn't officially supported is considered a work-in-progress language. Work-in-progress languages become officially supported languages when the following two conditions are met:
 * The (WIP) language reaches or exceeds the Beta translation quality threshold across three consecutive releases; and,
@@ -49,7 +50,7 @@ Only supported languages are available in-product by selecting **Settings > Disp
 
 See the section on [translation quality](https://handbook.mattermost.com/contributors/join-us/localization#translation-quality) for further details.
 
-**Tip:** We encourage translators to add additional languages to the WIP language list. Before adding a new language, always check to ensure that the language you're interested in isn't already defined as an officially supported langauge or a WIP language on the translation server.
+**Tip:** We encourage translators to add additional languages. We warm welcome new languages or regional variants.
 
 ### Review translation rules written by localization leads, when applicable
 
@@ -59,11 +60,11 @@ Translation rules and glossaries are available for the following languages:
    * [French \(Règles pour la traduction francophone de Mattermost\)](https://github.com/wget/mattermost-localization-french-translation-rules).
    * [Dutch translation rules for Mattermost](https://github.com/ctlaltdieliet/mattermost-localization-dutch-translation-rules).
 
-**Tip:** We welcome rules, glossaries, and guidelines for all supported languages. If these translation assets don't exist for the language you're interested in, perhaps you'd be open to help create them?
+**Tip:** We welcome rules and guidelines for all supported languages. If these translation assets don't exist for the language you're interested in, perhaps you'd be open to help create them?
 
 ## Omit error strings from localization process
 
-When an error string isn’t visible to end users, engineering teams must use ``model.NoTranslation`` as the error id to implement a ``model.AppError`` without a translation. See examples of this approach in the [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) repository on GitHub.
+When an error string isn’t visible to end users, engineering teams must use ``model.NoTranslation`` as the error id to implement a ``model.AppError`` without a translation. See examples of this approach in the [mattermost/mattermost-server](https://translate.mattermost.com/projects/mattermost/server/) repository on GitHub.
 
 Error strings that use ``model.NoTranslation`` as the error id are omitted from Mattermost translation workflows, and aren't surfaced up in Weblate to translators.
 
@@ -77,7 +78,7 @@ The following flow diagram outlines the product localization flow from the trans
 2. The translation server pulls the latest string changes as they are committed to the codebase.
 3. Translators are notified when strings are new or changed.
 4. Translators add and update string translations.
-5. Each Monday, at 22:00 GMT, a job opens PRs in GitHub to the main branches of the [mattermost-server](https://github.com/mattermost/mattermost-server), [mattermost-webapp](https://github.com/mattermost/mattermost-webapp), [mattermost-mobile-v2](https://github.com/mattermost/mattermost-mobile/tree/gekidou), and [mattermost-desktop](https://github.com/mattermost/mattermost-desktop) repositories. Weekly PRs contain several commits, one per modified language. Changes are merged back into each branch after a security/consistency review. 
+5. Each Monday, at 22:00 GMT, a job opens PRs in GitHub to the main branches of the [mattermost-server and mattermost-webapp](https://github.com/mattermost/mattermost/), [mattermost-mobile](https://github.com/mattermost/mattermost-mobile/), and [mattermost-desktop](https://github.com/mattermost/desktop) repositories. Weekly PRs contain several commits, one per modified language. Changes are merged back into each branch after a security/consistency review. 
 
 PRs will also be submitted on the day of major feature complete, code complete, and release candidates to ensure latest translations are included in the release.
 
@@ -91,7 +92,7 @@ The translation PRs should be reviewed and merged as soon as possible to avoid b
 
 ### Cherry-pick translation PRs to release branches
 
-Amy Blais will notify the team if the PR should be cherry-picked to a release branch (e.g. ``cloud``).
+Amy Blais will notify the team if the PR should be cherry-picked to a release branch (e.g. ``release x.x``).
 
 PR review owners:
   - Server translations PRs - Owner: Guillermo
@@ -155,9 +156,8 @@ If you encounter a product string that hasn't yet been translated in the Matterm
 
 You can search for strings in the English localization resource file within a respective GitHub repository to confirm whether a missed translation or an outdated workspace. The following resource files are available for US English strings:
 
-* [mattermost-server](https://github.com/mattermost/mattermost-server/blob/master/i18n/en.json)
-* [mattermost-webapp](https://github.com/mattermost/mattermost-webapp/blob/master/i18n/en.json)
-* [mattermost-mobile-v2](https://github.com/mattermost/mattermost-mobile/blob/master/assets/base/i18n/en.json)
+* [mattermost-server and mattermost-webapp](https://github.com/mattermost/mattermost/blob/master/i18n/en.json)
+* [mattermost-mobile](https://github.com/mattermost/mattermost-mobile/blob/master/assets/base/i18n/en.json)
 * [mattermost-desktop](https://github.com/mattermost/desktop/blob/master/i18n/en.json)
 
 Each Mattermost GitHub repository above will contain additional resource files for each supported language. If a string appears in the `en.json` file, but displays in English in a localized resource file, that string likely isn't translated yet. An English string in the `en.json` file that is translated in its associated localized resource file likely indicates that the workspace hasn't been updated yet to include that translation.
@@ -196,16 +196,15 @@ If you're interested in contributing to the process, please join the [Mattermost
 
 ## Administrative tasks
 
-Translation server admins must grant all new translators with specific permissions to enable translators to start working on Mattermost strings. Translation server admins can reach the server's administration tools by going to https://translate.mattermost.com/admin/.
+Translation server admins must grant all new translators with specific permissions to enable translators to start working on Mattermost strings for the official supported languages. Translation server admins can reach the server's administration tools by going to https://translate.mattermost.com/admin/.
 
 **Note:** Admin tools on the translation server are being updated to make roles and permissions maintenance easier. If you require translation permissions, please let us know in the [Mattermost localization channel](https://community.mattermost.com/core/channels/localization).
 
 To add a new WIP language:
 
-1. Go to [https://translate.mattermost.com/projects/i18n-wip](https://translate.mattermost.com/projects/i18n-wip).
+1. Go to [https://translate.mattermost.com/projects/mattermost](https://translate.mattermost.com/projects/mattermost).
 2. Select a component on the resulting page, then select **Tools > Start new translation**. 
 3. Select the languages you want to add, then **Start new translation**.
-4. Repeat step 2 for every component within the [https://translate.mattermost.com/projects/i18n-wip](https://translate.mattermost.com/projects/i18n-wip) project.
 
 ## Setting up new translations on Weblate
 
