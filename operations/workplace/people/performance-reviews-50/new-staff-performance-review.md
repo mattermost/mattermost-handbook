@@ -9,7 +9,7 @@ The New Staff Performance Review is intended to provide align expectations and [
 ## Review Process
 
 * **Managers**
-* Log in to **Lattice &gt; Performance**. On your Lattice home page, complete the request to select those who will make up the peer panel for the new staff member. For new hires who are people managers, you may also request upward feedback from their direct reports. We've already provided questions for you to use, so you don't need to worry about customizing them. Note that only FT Staff are included in the Lattice platform. If you however wish to solicit feedback from PT Staff or from a community member, you may do so by entering their email address.
+* Log in to **Lattice &gt; Performance**. On your Lattice home page, complete the request to select those who will make up the peer panel for the new staff member. Note that only FT Staff are included in the Lattice platform. If you however wish to solicit feedback from PT Staff or from a community member, you may do so by entering their email address.
 * Email notifications are sent to managers at the beginning of the month of the new hire's three-month anniversary. This will kick-off the review [process](https://handbook.mattermost.com/operations/people/performance-reviews-50#how-is-feedback-shared).
   * Peer review results will be automatically shared with you in Lattice once reviews have been submitted.
   * The new hire's Self-Reflection will be available in Lattice for you to review once submitted.
