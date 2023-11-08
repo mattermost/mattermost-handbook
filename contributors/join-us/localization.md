@@ -196,7 +196,7 @@ If you're interested in contributing to the process, please join the [Mattermost
 
 ## Administrative tasks
 
-Translation server admins must grant all new translators with specific permissions to enable translators to start working on Mattermost strings for the official supported languages. Translation server admins can reach the server's administration tools by going to https://translate.mattermost.com/admin/.
+Translation server admins must grant all new translators specific Weblate permissions before translators can start contributing to official supported languages. Translation server admins can reach the server's administration tools by going to https://translate.mattermost.com/admin/.
 
 **Note:** Admin tools on the translation server are being updated to make roles and permissions maintenance easier. If you require translation permissions, please let us know in the [Mattermost localization channel](https://community.mattermost.com/core/channels/localization).
 
