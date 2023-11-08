@@ -50,7 +50,7 @@ Only supported languages are available in-product by selecting **Settings > Disp
 
 See the section on [translation quality](https://handbook.mattermost.com/contributors/join-us/localization#translation-quality) for further details.
 
-**Tip:** We encourage translators to add additional languages. We warm welcome new languages or regional variants.
+**Tip:** We encourage translators to help us support additional languages and regional variants.
 
 ### Review translation rules written by localization leads, when applicable
 
