@@ -40,7 +40,7 @@ Managers will share their review expectation ratings \(meets, exceeds, does not 
 
 ## Compensation review and change memos
 
-All compensation changes require approval of the VP of Finance and the CEO.
+All compensation changes require approval of the CFO and the CEO.
 
 1. HR will review compensation data with each Team MLT 1:1, asynchronously.
 2. HR, Team MLT, and required comp approvers meet to discuss, with email approval to follow and finalize with all attendees CC'd.
