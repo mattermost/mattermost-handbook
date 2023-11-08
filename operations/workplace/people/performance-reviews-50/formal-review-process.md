@@ -20,7 +20,7 @@ Prior to selecting peer panels and writing performance reviews for their direct 
 
 ## Peer feedback
 
-Staff who have received peer feedback requests will receive an email and a task on their Lattice home page. To complete the request, click **give feedback**. Peers may decline the request based on bandwidth (more than 5 peer feedback requests), if they have give feedback in the previous review cycle and feel that their feedback would be duplicative, or if they don't have feedback to share. 
+Staff who have received peer feedback requests will receive an email and a task on their Lattice home page. To complete the request, click **give feedback**. You may decline the request if you don't have feedback to share; however, staff are encouraged to provide feedback when selected as a peer reviewer. Peer reviews help give managers a fuller picture by removing potential blindspots on how their direct reports are performing as it relates to their AORs, goals and growth opportunities, which ultimately helps your peers improve performance and growth potential at Mattermost.  
 
 ## Self reflection
 
