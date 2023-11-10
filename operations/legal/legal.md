@@ -54,7 +54,7 @@ Here's a list of additional resources related to the legal function:
 
 ### US Government Contracts
 
-* [Mattermost Legal Terms](https://mattermost.com/terms-of-use/)- Our standard legal terms for using Mattermost software and services.
+* [Mattermost Legal Terms](https://mattermost.com/terms-of-use/) - Our standard legal terms for using Mattermost software and services.
 * [Code of Conduct for US Government Contracts and Grants](https://docs.google.com/document/d/1JGd-CYhsw5t3vWfO8SeZJEwsGCVLPj1n/edit?usp=sharing&ouid=113991105607318091949&rtpof=true&sd=true)
 
 ## Outside Counsel Information
