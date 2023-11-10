@@ -2,8 +2,9 @@
 
 ## Options for Starting a Workflow
 
-* All agreements, including Sales templates, are available via [Ironclad](https://handbook.mattermost.com/operations/legal/ironclad-basics).
-* They are [also available](https://drive.google.com/file/d/109PlgmPV6T5RvbGQjmMhZQ6Tqq7g6NGF/view?usp=sharing) via Salesforce. From the **Account** page, look for the **Get Started** blue button in the Ironclad section. Select the template you would like to start from the drop-down list that will appear in a new window and select **Launch Workflow**.
+All agreements, including Sales templates, are available via [Ironclad](https://handbook.mattermost.com/operations/legal/ironclad-basics).
+
+They are [also available](https://drive.google.com/file/d/109PlgmPV6T5RvbGQjmMhZQ6Tqq7g6NGF/view?usp=sharing) via Salesforce. From the **Account** page, look for the **Get Started** blue button in the Ironclad section. Select the template you would like to start from the drop-down list that will appear in a new window and select **Launch Workflow**.
 
 **Note**: If you do not have access to Ironclad, you can contact [IT](https://helpdesk.mattermost.com/support/home) to request access or ask your manager to submit on your behalf.
 
