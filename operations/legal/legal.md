@@ -1,60 +1,62 @@
-## Legal
+# Legal
 
-This page summarizes where to find legal resources for Mattermost staff.
+The Legal Department at Mattermost covers Legal, Compliance (including Export Compliance), Privacy and Government Relations.
 
-For legal resources by "Area of Responsibility" please see [Mattermost Legal AORs](https://docs.google.com/document/d/17ILLErliJoTxYRnh04yfCGlsQ15rhkYEki3KIJO-gdE/edit) which includes the name and contact information of legal specialists by area.
+Here is how to submit requests and get access to legal resources:
 
-**Important Note**: Please keep legal@mattermost.com copied on all correspondence. To connect with a law firm resource, please first ask VP Legal or amy.nicol@mattermost.com 
+- **Ironclad**: To submit a legal question, a document for review, or generate a contract, please use [Ironclad](https://handbook.mattermost.com/operations/legal/ironclad-basics).
+- **Legal Ticket**: For any questions or requests, please submit a ticket via Ironclad.
+- **Legal Channel on Mattermost**:  For general questions about legal resources and processes, you can use the Legal Channel.  This channel _should not be_ used for specific contract requests or for requests of legal (please use the **Legal Ticket**).
+- If you need to reach a specific member of the Legal Team, including internal and external counsel, please see [Mattermost Legal Team](https://docs.google.com/document/d/17ILLErliJoTxYRnh04yfCGlsQ15rhkYEki3KIJO-gdE/edit?usp=sharing).
 
-When you have legal questions that aren't covered in the AORs, please mail legalquestions@mattermost.com.
+## About Legal
 
-### Legal Resources
+The Legal department does more than just review contracts; we’re here to partner with you to help mitigate risk, guide the business and close deals.
+
+Find out more about how the Legal team works and our priorities [here](https://docs.google.com/document/d/137iBJgp67exkRyM4EjDfTPNihBpN1FSL_64XxkY3DUQ/edit?usp=sharing).
+
+## Legal Resources
 
 Here's a list of additional resources related to the legal function:
 
-Operations 
-* [Signing Authority](https://handbook.mattermost.com/operations/operations/company-processes/company-agreements#who-can-sign-on-behalf-of-the-company) - Lists who at the company is authorized to approve and sign.
-* [Approvals Matrix](https://docs.google.com/spreadsheets/d/1fDIMiO0uydB_1zCUxZ4sGfSnBJ0P_49zbeQGgTqbYPI/edit#gid=1731392656) - Lists company-level approvals.
-* [File Naming Conventions](https://handbook.mattermost.com/operations/finance/naming-files-and-agreements) - How files should be named for archiving.
+### Company Policies
 
-Marketing 
-* [Brand Usage Guidelines](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/brand-and-visual-design-guidelines) - Guidelines on how our trademark and brand are to be used.
-
-Customer Contracts 
-* [Export Compliance](https://docs.google.com/document/d/14KzrhszTlaibtM4APezTS8CFb1vaHxRsnkV9ZFef-Uc/edit#bookmark=id.1todj7iol2os) - Summary of Export Compliance contacts. Also see [Mattermost's Export Control Compliance Number (ECCN) and Overview](https://www.google.com/url?q=https://docs.mattermost.com/about/certifications-and-compliance.html%23u-s-export-compliance-overview&sa=D&source=docs&ust=1645713344381876&usg=AOvVaw1zHBcjFIQ4jtBtJ9Rmc2IX). 
-* [Deal Desk Terms & Approvals](https://handbook.mattermost.com/operations/sales/deal-desk) - Explains the process of how non-standard customer agreements are reviewed and processed.
-
-Procurement 
-* [Vendor Procurement Process](https://handbook.mattermost.com/operations/finance/purchasing/how-to-procure-a-vendor-contract) - Explains process for procuring from an external vendor.
-* [Contract Signing for Vendor Procurement](https://handbook.mattermost.com/operations/finance/purchasing/contracts-and-signing) - How signing works at the end of a process for Mattermost staff to procure from an external vendor.
-* [Using Standard U.S. Consulting Agreement](https://handbook.mattermost.com/operations/finance/risk-management/mattermost-templated-agreements) - Process to bring on a vendor for services using a [standardized Mattermost consulting agreement](https://docs.google.com/document/u/1/d/1qR5Kn3UcktjDipZ-H3UuWdcrLXoJR5RD/edit?usp=drive_web&ouid=107885747391106493596&rtpof=true). Using this agreement template can greatly accelerate the speed at which Mattermost can approve services you supply to Mattermost. When a vendor asks for material modifications to our standard terms or add a completely custom agreement, procurement can be materially delayed.
 * [Company Policies](https://handbook.mattermost.com/operations/security/policies) - A list of internal company policies for staff members.
 
-Product
-* [Mattermost Legal Terms](https://mattermost.com/terms-of-service/) - Our standard legal terms for using Mattermost software and services.
-Other 
-* [Legal Discussion Channel](https://community.mattermost.com/private-core/channels/legal) - A channel with historical Q&A for legal.
-* [Archive of Legal Handbook (Prior to Feb 18, 2022)](https://community.mattermost.com/boards/workspace/ezhqoc78aigo7poyrb9hy7u5jw/25b8db83-635b-4469-8c66-37774edbd0c5/ad1e7566-7232-4d88-84b0-7d328b10f1bc/cgprte3iuutdrfeujxgk6p6yw1y)
+### Contracts
 
-Frequently Asked Questions 
-* [FAQ](https://docs.google.com/document/d/14KzrhszTlaibtM4APezTS8CFb1vaHxRsnkV9ZFef-Uc/edit#bookmark=id.c9hyldtkrybf) - Summary of frequently asked questions. 
+* Deal Desk Terms & Approvals - Explains the [process](https://docs.google.com/spreadsheets/d/1PGnNmQ-p8Ci0u6pU5Fch94pMpZ_Li5itxLx7IcduiM8/edit#gid=2069137983) of how non-standard customer agreements are reviewed and processed.
+* [Signing Authority](https://handbook.mattermost.com/operations/operations/company-processes/company-agreements#who-can-sign-on-behalf-of-the-company) - Lists who at the company is authorized to approve and sign.
+* [Approvals Matrix](https://docs.google.com/spreadsheets/d/1fDIMiO0uydB_1zCUxZ4sGfSnBJ0P_49zbeQGgTqbYPI/edit#gid=1731392656) - Lists company-level approvals.
 
-### Answering Questions Once (AQO)
+### Export Compliance
 
-When you ask questions to legal@mattermost.com for areas that aren't covered by [owners named in the AOR list](https://docs.google.com/document/d/14KzrhszTlaibtM4APezTS8CFb1vaHxRsnkV9ZFef-Uc/edit), nor documented in our handbook, and could be use to others, we use a process of "Document-First Question and Answer" to write the answer first and then responding with a link to the answer.
+* [Export Compliance Program Manual](https://docs.google.com/document/d/1ZrUsJ2lztvavNTi_oSrejTkL0naJ9dfF/edit)
+* [Certifications and Compliance Overview](https://docs.mattermost.com/about/certifications-and-compliance.html)
 
-While this takes slightly longer, it pays-off long term by answering questions once.
+### Frequently Asked Questions
 
-Also, if you see parts of our documentation or handbook out-of-date, please also mail legal@mattermost.com to let us know.
+* You can find a list of our Frequently Asked Questions [here](https://docs.google.com/document/d/1l5hh7oaX2GOnst9KBv7eISfswbCwm2qo800FgsHKVw4/edit?usp=sharing).
 
-### Outside council one-pager
+### Marketing
 
-If you're an outside council onboarding to work with Mattermost here's what you need to know:
+* [Brand Usage Guidelines](https://handbook.mattermost.com/operations/operations/company-processes/publishing/publishing-guidelines/brand-and-visual-design-guidelines) - Guidelines on how our trademark and brand are to be used.
 
-1. Please CC legal@mattermost.com on all communications with Mattermost staff. This helps keep track of projects and documents, and confirm billings.
-2. If you have general questions, please ask your "Mattermost Contact" as [listed on this page](https://docs.google.com/document/d/14KzrhszTlaibtM4APezTS8CFb1vaHxRsnkV9ZFef-Uc/edit).
-3. If you have questions on billing logistics, please mail ap@mattermost.com.
-4. We use a Green/Yellow/Red system to discuss legal issues. Depending on your specialty we may design the critiera with your input.
- - "Green" is anything minor. Example: Minor changes to our standard agreements, or conforming agreement from an outside party.
- - "Yellow" is an issue that can be signed off by a department head, but should be surfaced as an exception in either our contracts management software or at the company-level. Example: Change of jurisdiction from Mattermost, Inc. to the jurisdiction of one of our subsidiaries.
- - "Red" is an issue that requires written sign-off from either VP Finance or CEO and escalation to Head of Legal. Example: Change of jurisdiction to a region where we don't reside directly or via a subsidiary (which will most likely be declined).
+### Procurement
+
+* Please see the [Airbase pages](https://handbook.mattermost.com/operations/finance/airbase) of the [Finance section](https://handbook.mattermost.com/operations/finance) for more information about [onboarding new vendors](https://handbook.mattermost.com/operations/finance/airbase/vendor-portal-guide), including consultants and vendors.
+
+### Product
+
+* [Software and Services License Agreement](https://mattermost.com/software-services-license-agreement/)
+* [Data Processing Addendum](https://mattermost.com/data-processing-addendum/)
+* [Privacy Policy](https://mattermost.com/privacy-policy/)
+
+### US Government Contracts
+
+* [Mattermost Legal Terms](https://mattermost.com/terms-of-use/)- Our standard legal terms for using Mattermost software and services.
+* [Code of Conduct for US Government Contracts and Grants](https://docs.google.com/document/d/1JGd-CYhsw5t3vWfO8SeZJEwsGCVLPj1n/edit?usp=sharing&ouid=113991105607318091949&rtpof=true&sd=true)
+
+## Outside Counsel Information
+
+If you're an outside counsel onboarding to work with Mattermost please see our most current information and policies [here](https://docs.google.com/document/d/1oYqEW06b5IVehkxnr1EXxR8MWaOChPf_C3fKLxqF7-A/edit?usp=sharing).
