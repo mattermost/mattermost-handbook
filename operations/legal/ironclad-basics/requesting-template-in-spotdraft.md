@@ -39,4 +39,4 @@ Here are the workflows that are not specific to the Sales team and a brief descr
 
 In Ironclad, select the green **+Start workflow** button on your Dashboard, select the **[Workflow Name]** on the left of the pop-up windows, and then select the green **Start Workflow** button on the bottom right.
 
-![Example of an Ironclad contract workflow](/.gitbook/assets/launching-ironclad-workflow.png "Example of an Ironclad contract workflow")
+![Example of an Ironclad contract workflow](/.gitbook/assets/launch-ironclad-workflow.png "Example of an Ironclad contract workflow")
