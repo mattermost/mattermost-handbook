@@ -27,7 +27,7 @@ Here are the workflows that are not specific to the Sales team and a brief descr
 ## Requesting review of a Third-party contract
 
 * Whenever possible you should always be using the applicable Mattermost template. A Counterparty may send you their template but as the Workflow Owner, you should push back, at least once but preferably twice, to use Mattermost’s template.
-* For any **Procurement related contracts**, please submit via ** Airbase** which now includes Legal’s review automatically within Ironclad. For more information please see [How to submit a purchase request](https://handbook.mattermost.com/operations/finance/airbase/how-to-submit-a-purchase-request).
+* For any **Procurement related contracts**, please submit via **Airbase** which now includes Legal’s review automatically within Ironclad. For more information please see [How to submit a purchase request](https://handbook.mattermost.com/operations/finance/airbase/how-to-submit-a-purchase-request).
 * You can find more information about the 3rd Party Paper workflow, including a video [here](url).
 
 ## Software/Tool Approval
