@@ -171,7 +171,7 @@
 * [Legal](operations/legal/legal.md)
   * [Contracts](operations/legal/contracts.md)
   * [Ironclad Basics](operations/legal/ironclad-basics/ironclad-basics.md)
-    * [Company-Wide Workflows](operations/legal/ironclad-basics/requesting-template-in-spotdraft.md)
+    * [Company-Wide Workflows](operations/legal/ironclad-basics/company-wide-templates.md)
     * [Sales Contracts and Workflows](operations/legal/ironclad-basics/requesting-sales-contracts.md)
     * [Signing a Contract and Contract Repository](operations/legal/ironclad-basics/signing-contracts.md)
 * [Finance](operations/finance/README.md)
