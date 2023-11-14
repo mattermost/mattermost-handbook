@@ -22,13 +22,13 @@ Here are the workflows that are not specific to the Sales team and a brief descr
 ## Non-Disclosure Agreements
 
 * Whenever possible you should always be using the Mattermost template. A Counterparty may send you their NDA automatically but as the Workflow Owner, you should push back, at least once but preferably twice, to use Mattermost’s template.  If you must use the Counterparty’s paper, please see the section Requesting Review of a Third-Party Contract.
-* You can find the more information about the NDA workflow, including a video [here](https://drive.google.com/drive/folders/1mFc7heoplPEGQ9CwMhoieT701xX0QCCP?usp=sharing).
+* You can find more information about the NDA workflow, including a video [here](https://drive.google.com/drive/folders/1mFc7heoplPEGQ9CwMhoieT701xX0QCCP?usp=sharing).
 
 ## Requesting review of a Third-party contract
 
 * Whenever possible you should always be using the applicable Mattermost template. A Counterparty may send you their template but as the Workflow Owner, you should push back, at least once but preferably twice, to use Mattermost’s template.
 * For any **Procurement related contracts**, please submit via **Airbase** which now includes Legal’s review automatically within Ironclad. For more information please see [How to submit a purchase request](https://handbook.mattermost.com/operations/finance/airbase/how-to-submit-a-purchase-request).
-* You can find more information about the 3rd Party Paper workflow, including a video [here](url).
+* You can find more information about the 3rd Party Paper workflow, including a video [here](https://www.google.com/url?q=https://drive.google.com/drive/folders/1Y1uTCkN34eSWSMOy88VeYDUCp0lkox50?usp%3Dsharing&sa=D&source=docs&ust=1699974325669082&usg=AOvVaw2DFO0YosJrSGujKI7r5Ylh).
 
 ## Software/Tool Approval
 
