@@ -1,8 +1,8 @@
 # Ice-breakers
 
-In some Mattermost team meetings we set aside time to get to know our teams and the people that make them up. To do this, we ask that people do something in fron to of the group to introduce themselves and help us to get to know them on a personal level.
+In some Mattermost team meetings we set aside time to get to know our teams and the people that make them up. To do this, we ask that people do something in front of the group to introduce themselves and help us to get to know them on a personal level.
 
-Ice-breakers are small presentations, informal chats, or games lead by an individual from Mattermost in order to learn more about who they are and what they enjoy, outside of making great open source software!
+Ice-breakers are small presentations, informal chats, or games lead by an individual from Mattermost in order to learn more about who they are and what they enjoy, outside of making great open-source software!
 
 ## Examples of ice-breakers
 
