@@ -108,3 +108,6 @@ Sick Leave Posters for US states/cities
 * [Tacoma (Washington) Sick Leave Poster](https://cms.cityoftacoma.org/finance/paid-leave/notices/2018-Paid-Leave-Workplace-Notice-English.pdf)
 * [Wisconsin Sick Leave Poster](https://dwd.wisconsin.gov/dwd/publications/erd/pdf/erd-7983-p.pdf)
 
+### Paid Leave Posters for US States/Cities
+
+* [Washington Paid Leave Poster](https://paidleave.wa.gov/app/uploads/2023/10/2024-Paid-Leave-Required-Poster.pdf)
