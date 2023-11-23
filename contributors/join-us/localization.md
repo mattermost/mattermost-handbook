@@ -174,25 +174,25 @@ If you're interested in contributing to the process, please join the [Mattermost
 
 | Language | Official Reviewer\(s\) | Maintainers |
 | :--- | :--- | :--- |
-| Bulgarian | [Nikolai Zahariev \(nikolaiz\)](https://translate.mattermost.com/user/nikolaiz/) | TBD (Open role) |
+| Bulgarian | TBD (Open role) | TBD (Open role) |
 | Deutsch - German | [JtheBAB \(jthebab\)](https://translate.mattermost.com/user/JtheBAB/) | [Jan-Peter Rusch \(jprusch\)](https://translate.mattermost.com/user/jprusch/) |
 | English - Australian | [Matthew Williams \(matthew.williams\)](https://translate.mattermost.com/user/matthew-w/) | TBD (Open role) |
-| Español - Spanish | [Elias Nahum \(enahum\)](https://github.com/enahum) | [Jesús Espino \(jespino\)](https://github.com/jespino) |
-| Français - French | [William Gathoye \(wget\)](https://github.com/wget) | TBD (Open role) |
+| Español - Spanish | TBD (Open role) | TBD (Open role) |
+| Français - French | TBD (Open role) | TBD (Open role) |
 | Magyar - Hungarian | TBD (Open role) | TBD (Open role) |
-| Italiano - Italian | [Michael Longo \(mlongo4290\)](https://github.com/mlongo4290) | [Ema Panz \(thepanz\)](https://github.com/thepanz) |
+| Italiano - Italian | TBD (Open role) | TBD (Open role) |
 | 日本語 - Japanese | [Yusuke Nemoto \(kaakaa\)](https://github.com/kaakaa) | TBD (Open role) |
 | 한국어 - Korean | TBD \(Open role\) | TBD (Open role) |
 | Nederlands - Dutch | [Tom De Moor \(ctlaltdieliet\)](https://github.com/ctlaltdieliet) | TBD (Open role) |
-| Polski - Poland | [Daniel Burzmiński \(hectorskypl\)](https://github.com/hectorskypl) | [Tomasz Gruca \(gruceqq\)](https://translate.mattermost.com/user/gruceqq) |
-| Português do Brasil - Portuguese | [Rodrigo Corsi \(rodcorsi\)](https://github.com/rodcorsi) | TBD (Open role) |
+| Polski - Poland | [Master7 \(markar\)](https://translate.mattermost.com/user/Master7) | TBD (Open role) |
+| Português do Brasil - Portuguese | TBD (Open role) | TBD (Open role) |
 | Română - Romanian | TBD \(Open Role\) | TBD (Open role) |
 | Svenska - Swedish | [Martin Johnson \(johnsonbrothers\)](https://github.com/johnsonbrothers) | TBD (Open role) |
 | Türkçe - Turkish | [Kaya Zeren \(kaya\_zeren\)](https://twitter.com/kaya_zeren) | TBD (Open role) |
 | Pусский - Russian | [Konstantin Talalov \(eleferen\)](https://translate.mattermost.com/user/Eleferen/) | TBD (Open role) |
 | Yкраїнська - Ukrainian | TBD \(Open role\) | TBD (Open role) |
-| 中文 \(简体\) - Simplified Chinese | [aeomin \(aeomin\)](http://translate.mattermost.com/user/aeomin) | TBD (Open role) |
-| 中文 \(繁體\) - Traditional Chinese | [Tze-Kei Lee \(chikei\)](https://github.com/chikei) | TBD (Open role) |
+| 中文 \(简体\) - Simplified Chinese | [Sharuru \(Sharuru \)](http://translate.mattermost.com/user/Sharuru) | [ThrRip \(ThrRip\)](http://translate.mattermost.com/user/ThrRip) |
+| 中文 \(繁體\) - Traditional Chinese | TBD (Open role) | TBD (Open role) |
 
 ## Administrative tasks
 
