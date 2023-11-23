@@ -35,7 +35,7 @@ Feedback is solicited in a 360-degree style to incorporate feedback from peers. 
 
 ### Peer Feedback
 
-Staff are welcome to select 3-6 peers for their peer feedback panel. Managers can adjust the panel at any time. Peer reviews include [Likes and Wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes).
+Staff are welcome to select 3-5 peers for their peer feedback panel. Managers can adjust the panel at any time. Peer reviews include [Likes and Wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes).
 
 Note: HR will try and limit peer review panel requests to a maximum of 5 per person.
 
