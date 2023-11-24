@@ -1,4 +1,4 @@
-# Table of contents
+ # Table of contents
 
 * [Mattermost Handbook](README.md)
 
@@ -238,7 +238,6 @@
       * [Relocation](operations/workplace/people/relocations.md)
       * [Total rewards](operations/workplace/people/total-rewards.md)
     * [Performance reviews](operations/workplace/people/performance-reviews-50/README.md)
-      * [Mid-year performance review timeline 2022](operations/workplace/people/performance-reviews-50/midyear-performance-review-timeline-2020.md)
       * [Formal review process](operations/workplace/people/performance-reviews-50/formal-review-process.md)
       * [New staff performance review](operations/workplace/people/performance-reviews-50/new-staff-performance-review.md)
       * [Informal review process](operations/workplace/people/performance-reviews-50/informal-review-process.md)
