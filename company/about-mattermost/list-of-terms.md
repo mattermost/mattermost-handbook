@@ -176,6 +176,10 @@ Spinmint refers to our first generation of automated infrastructure to spin up t
 
 New test servers that use the cloud infrastructure and can be spun up on pull requests to test changes. The name is reference to first generation infrastructure, [spinmint](list-of-terms.md#spinmint), combined with an arbitrary reference to a movie that some people saw called “John Wick”.
 
+### SOM
+
+Standard Operating Metrics are metrics tracked monthly by each department as indicators for operating health and status.
+
 ### Tombstoned
 
 Replacing a webpage with a link to the new page created so that people using the original link can easily find the new page. [An example of tombstoned terms can be found at the bottom of this page](list-of-terms.md#tombstoned-terms).
