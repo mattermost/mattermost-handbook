@@ -1,6 +1,6 @@
 # List of Terms
 
-Please also see [List of Mattermost Acronyms](https://community.mattermost.com/plugins/focalboard/workspace/orw8z8yajpd9fgxtuijq31eqkh/shared/bemqt6wf847fsdjoeobkor8ucye/v4mxkwwfzw38jicn8a1tsze8mja?r=kneszyxxkixzc45wq5ebjna15eo) for abbreviated terms. 
+Please also see [List of Mattermost Acronyms](https://community.mattermost.com/plugins/focalboard/workspace/orw8z8yajpd9fgxtuijq31eqkh/shared/bemqt6wf847fsdjoeobkor8ucye/v4mxkwwfzw38jicn8a1tsze8mja?r=kneszyxxkixzc45wq5ebjna15eo) for abbreviated terms.
 
 ## Current Terms
 
@@ -94,6 +94,10 @@ If something is extremely difficult to understand, and yet still justified in th
 
 Keeping non-sensitive information that would be helpful for staff and community to know out of public web search through the use of dark actions. Often false openness is unintentional, though after staff members are educated on the topic and empowered to use [open actions](list-of-terms.md#open-actions), continued use of [dark actions](list-of-terms.md#dark-actions) would appear to be deliberate.
 
+### GNN
+
+A status update format that is split into three categories: Going Well, Not Going Well, Next Actions. Read more about [GNNs here](../../operations/operations/company-cadence.md#gnn-updates).
+
 ### HW - Help Wanted
 
 [Help Wanted tickets](http://docs.mattermost.com/process/help-wanted.html), which are vetted changes to the source code open for community contributions.
@@ -131,6 +135,10 @@ Every code change added has an initial and on-going mana cost in technical debt,
 ### MLT
 
 The “Mattermost Leadership Team”, senior leadership team and department heads working with the CEO in [MLT meetings and offsites](../../operations/operations/mlt-cadence/).
+
+### MOR
+
+Monthly Operating Review. A monthly review of operations from each department including a GNN and metrics.
 
 ### Nerfs and Buffs
 
