@@ -262,7 +262,7 @@
     * [Community Content program](contributors/contributors/ways-to-contribute/community-content-program.md)
     * [Documentation contributions](contributors/contributors/ways-to-contribute/documentation-contributions.md)
     * [Help Wanted tickets](contributors/contributors/ways-to-contribute/help-wanted.md)
-    * [Localization](contributors/contributors/ways-to-contribute/localization.md)
+    * [Localization](contributors/join-us/localization.md)
     * [Contribution events](contributors/contributors/contribution-events.md)
   * [Mattermost community](contributors/contributors/community.md)
   * [Contributor kindness](contributors/contributors/contributor-kindness.md)
