@@ -185,4 +185,3 @@ Based on the results, the People Team and/or your team leadership will follow up
 - **June 2023** | June 22, 2023 - June 28, 2023
 - **September 2023** | September 28, 2023 - October 4, 2023
 - **December 2023** | December 7, 2023 - December 13, 2023
-- **January 2024** | January 25, 2024 - February 3, 2024
