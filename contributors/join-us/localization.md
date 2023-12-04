@@ -210,7 +210,7 @@ To add a new WIP language:
 ## Translators permissions scheme 
 The goal of the permissions scheme is to be as open as possible to new contributors and keeping the product as safe as possible.
 Therefor everybody who joins our translation server is able to make translations for the WIP languages and add suggestions to the shipped languages.
-Our shipped language translators can translate their language and add suggestions to other shipped languages and add translations to WIP languages.
+Our shipped language translators can translate their language, add suggestions to other shipped languages, and add translations to WIP languages.
 
 Mattermost@DefaultUserTranslateWIP: everybody who joins the server is automaticly added to this group and is able to translate WIP languages
 Mattermost@DefaultUserSuggestionsToShipped: everybody who joins the server is automaticly added to this group and is able to make suggestions to the shipped languages
