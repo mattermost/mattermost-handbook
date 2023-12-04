@@ -208,14 +208,15 @@ To add a new WIP language:
 
 
 ## Translators permissions scheme 
-The goal of the permissions scheme is to be as open as possible to new contributors and keeping the product as safe as possible.
-Therefor everybody who joins our translation server is able to make translations for the WIP languages and add suggestions to the shipped languages.
-Our shipped language translators can translate their language, add suggestions to other shipped languages, and add translations to WIP languages.
+The goal of the permissions scheme is to be as open as possible to new contributors while keeping the product as safe as possible.
+Therefore, everyone who joins our translation server is able to make translations for the WIP languages, and add suggestions to the shipped languages.
+Our shipped language translators can translate their language, add make suggestions to other shipped languages, and add translations to WIP languages.
 
-Mattermost@DefaultUserTranslateWIP: everybody who joins the server is automatically added to this group and is able to translate WIP languages.
-Mattermost@DefaultUserSuggestionsToShipped: Everybody who joins the server is automatically added to this group and is able to make suggestions to the shipped languages.
-mattermost@Translators [language]: A group for each shipped language. Add translators for each language here. 
+The following Weblate roles control access:
 
+- Mattermost@DefaultUserTranslateWIP: Everyone who joins the Weblate translation server is automatically added to this group, and can translate WIP languages.
+- Mattermost@DefaultUserSuggestionsToShipped: Everyone who joins the server is automatically added to this group, and can make suggestions to the shipped languages.
+- mattermost@Translators [language]: A group for each shipped language. Add translators for each language here. 
 
 ## Setting up new translations on Weblate
 
