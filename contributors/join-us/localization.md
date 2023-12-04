@@ -213,7 +213,7 @@ Therefor everybody who joins our translation server is able to make translations
 Our shipped language translators can translate their language, add suggestions to other shipped languages, and add translations to WIP languages.
 
 Mattermost@DefaultUserTranslateWIP: everybody who joins the server is automatically added to this group and is able to translate WIP languages.
-Mattermost@DefaultUserSuggestionsToShipped: everybody who joins the server is automaticly added to this group and is able to make suggestions to the shipped languages
+Mattermost@DefaultUserSuggestionsToShipped: Everybody who joins the server is automatically added to this group and is able to make suggestions to the shipped languages.
 mattermost@Translators [language]: A group for each shipped language. Add translators for each language here. 
 
 
