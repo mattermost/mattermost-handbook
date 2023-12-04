@@ -212,7 +212,7 @@ The goal of the permissions scheme is to be as open as possible to new contribut
 Therefor everybody who joins our translation server is able to make translations for the WIP languages and add suggestions to the shipped languages.
 Our shipped language translators can translate their language, add suggestions to other shipped languages, and add translations to WIP languages.
 
-Mattermost@DefaultUserTranslateWIP: everybody who joins the server is automaticly added to this group and is able to translate WIP languages
+Mattermost@DefaultUserTranslateWIP: everybody who joins the server is automatically added to this group and is able to translate WIP languages.
 Mattermost@DefaultUserSuggestionsToShipped: everybody who joins the server is automaticly added to this group and is able to make suggestions to the shipped languages
 mattermost@Translators [language]: A group for each shipped language. Add translators for each language here. 
 
