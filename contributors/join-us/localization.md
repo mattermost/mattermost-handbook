@@ -214,7 +214,7 @@ Our shipped language translators can translate their language and add suggestion
 
 Mattermost@DefaultUserTranslateWIP: everybody who joins the server is automaticly added to this group and is able to translate WIP languages
 Mattermost@DefaultUserSuggestionsToShipped: everybody who joins the server is automaticly added to this group and is able to make suggestions to the shipped languages
-mattermost@Translators xx: specific groups for each shipped language. A translator for this specific language should be added here 
+mattermost@Translators [language]: A group for each shipped language. Add translators for each language here. 
 
 
 ## Setting up new translations on Weblate
