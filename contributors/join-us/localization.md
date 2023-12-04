@@ -191,7 +191,7 @@ If you're interested in contributing to the process, please join the [Mattermost
 | Türkçe - Turkish | [Kaya Zeren \(kaya\_zeren\)](https://twitter.com/kaya_zeren) | TBD (Open role) |
 | Pусский - Russian | [Konstantin Talalov \(eleferen\)](https://translate.mattermost.com/user/Eleferen/) | TBD (Open role) |
 | Yкраїнська - Ukrainian | TBD \(Open role\) | TBD (Open role) |
-| 中文 \(简体\) - Simplified Chinese | [Sharuru \(Sharuru \)](http://translate.mattermost.com/user/Sharuru) | [ThrRip \(ThrRip\)](http://translate.mattermost.com/user/ThrRip) |
+| 中文 \(简体\) - Simplified Chinese | [Sharuru \(Sharuru\)](http://translate.mattermost.com/user/Sharuru) | [ThrRip \(ThrRip\)](http://translate.mattermost.com/user/ThrRip) |
 | 中文 \(繁體\) - Traditional Chinese | TBD (Open role) | TBD (Open role) |
 
 ## Administrative tasks
@@ -205,6 +205,17 @@ To add a new WIP language:
 1. Go to [https://translate.mattermost.com/projects/mattermost](https://translate.mattermost.com/projects/mattermost).
 2. Select a component on the resulting page, then select **Tools > Start new translation**. 
 3. Select the languages you want to add, then **Start new translation**.
+
+
+## Translators permissions scheme 
+The goal of the permissions scheme is to be as open as possible to new contributors and keeping the product as safe as possible.
+Therefor everybody who joins our translation server is able to make translations for the WIP languages and add suggestions to the shipped languages.
+Our shipped language translators can translate their language, add suggestions to other shipped languages, and add translations to WIP languages.
+
+Mattermost@DefaultUserTranslateWIP: everybody who joins the server is automatically added to this group and is able to translate WIP languages.
+Mattermost@DefaultUserSuggestionsToShipped: Everybody who joins the server is automatically added to this group and is able to make suggestions to the shipped languages.
+mattermost@Translators [language]: A group for each shipped language. Add translators for each language here. 
+
 
 ## Setting up new translations on Weblate
 
