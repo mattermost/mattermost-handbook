@@ -267,3 +267,27 @@ Repository hooks (usually GitHub hooks) are needed to keep the translation files
 ![image](https://user-images.githubusercontent.com/1832946/227048773-db198f4b-4f73-4e20-a89c-a1b8492bf0df.png)
 
 You can create a ticket for the Release team to request enabling the hooks.
+
+## How to promote a WIP-language to shipped
+
+You have to add the new language to the Mattermost platform and to Mobile
+For Playbooks and Calls no actions are needed
+
+### Step 1 - Adding the language to the Mattermost-platform
+Add the language code to server/public/shared/i18n/i18n.go 
+Add the language to webapp/channels/src/i18n/i18n.jsx
+In the webapp folder run "npm run test:updatesnapshot"
+Add the modified webapp/channels/src/components/admin_console/__snapshots__/schema_admin_settings.test.jsx.snap to your commit
+There is no need adding the translations to the PR
+Here is an example [PR](https://github.com/mattermost/mattermost/pull/24074)
+
+### Step 2 - Adding the language to Mobile
+Add the language to app/i18n/index.ts
+Add the language to app/i18n/languages.ts
+Here is an example [PR](https://github.com/mattermost/mattermost-mobile/pull/7462)
+
+### Step 3 - Adding the language to the Desktop-platform
+Import the translation file into i18n/i18n.ts and add the language to the menu
+Here is an example [PR](https://github.com/mattermost/desktop/pull/2872)
+
+
