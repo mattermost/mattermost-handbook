@@ -37,7 +37,7 @@ The general localization process is described in the following sections on this 
 
 Mattermost is developed in US English, and officially supports 20 additional languages. Getting started is easy.
 
-### Join the [Mattermost translation server](http://translate.mattermost.com)
+### Join the [Mattermost translation server](https://translate.mattermost.com)
 
 **Important note:** While it's common to contribute to Mattermost in GitHub, product translations is a notable exception. You must contribute to Mattermost translations on the Mattermost translation server. Please don't attempt to submit translations in GitHub via pull requests (PRs) as your translations will be overwritten with the next PR update.
 
@@ -108,7 +108,7 @@ In order for users to understand the accuracy and coverage of language translati
 * 100% of translation verified by someone deeply knowledgeable in Mattermost functionality.
 * 100% of translation verified by someone deeply knowledgeable in target language.
 * No translation may be out-of-date due to changes to English-language text since the last translation and review cycle.
-* Language must have at least one official reviewer who maintains the language with updated strings imported to the [Translation Server](http://translate.mattermost.com) over time.
+* Language must have at least one official reviewer who maintains the language with updated strings imported to the [Translation Server](https://translate.mattermost.com) over time.
 * Language must have been in use for **at least three full release cycles** where end users in target language can share feedback and corrections.
 
 Official languages are listed in **Account Settings &gt; Display &gt; Language**.
@@ -132,7 +132,7 @@ Alpha languages are listed in **Account Settings &gt; Display &gt; Language** ap
 
 [ICU Message syntax guide](https://formatjs.io/docs/core-concepts/icu-syntax/) is a good resource to familiarize yourself with. What's most important here is to read the sections dedicated to Quoting/Escaping, and how placeholders are managed, including placeholder arguments such as `plural`, `select`, `number`, and so on.
 
-The [Mattermost translation server](http://translate.mattermost.com) will automatically check and validate translations in the editor. If there are any failing checks, you will want to review them to spot any potential typos or errors. These checks can be quite helpful in spotting subtle issues in long or more complex translation strings.
+The [Mattermost translation server](https://translate.mattermost.com) will automatically check and validate translations in the editor. If there are any failing checks, you will want to review them to spot any potential typos or errors. These checks can be quite helpful in spotting subtle issues in long or more complex translation strings.
 
 Additionally, [Online ICU Message Editor](https://format-message.github.io/icu-message-format-for-translators/editor.html) is a good resource that supports live-editing. It's great for previewing how a string will appear in context, don't hesitate to use it.
 
@@ -191,7 +191,7 @@ If you're interested in contributing to the process, please join the [Mattermost
 | Türkçe - Turkish | [Kaya Zeren \(kaya\_zeren\)](https://twitter.com/kaya_zeren) | TBD (Open role) |
 | Pусский - Russian | [Konstantin Talalov \(eleferen\)](https://translate.mattermost.com/user/Eleferen/) | TBD (Open role) |
 | Yкраїнська - Ukrainian | TBD \(Open role\) | TBD (Open role) |
-| 中文 \(简体\) - Simplified Chinese | [Sharuru \(Sharuru\)](http://translate.mattermost.com/user/Sharuru) | [ThrRip \(ThrRip\)](http://translate.mattermost.com/user/ThrRip) |
+| 中文 \(简体\) - Simplified Chinese | [Sharuru \(Sharuru\)](https://translate.mattermost.com/user/Sharuru) | [ThrRip \(ThrRip\)](https://translate.mattermost.com/user/ThrRip) |
 | 中文 \(繁體\) - Traditional Chinese | TBD (Open role) | TBD (Open role) |
 
 ## Administrative tasks
@@ -267,3 +267,30 @@ Repository hooks (usually GitHub hooks) are needed to keep the translation files
 ![image](https://user-images.githubusercontent.com/1832946/227048773-db198f4b-4f73-4e20-a89c-a1b8492bf0df.png)
 
 You can create a ticket for the Release team to request enabling the hooks.
+
+## How to promote a WIP-language to shipped
+
+You have to add the new language to the Mattermost platform and to Mobile
+For Playbooks and Calls no actions are needed
+
+### Step 1 - Adding the language to the Mattermost-platform
+- Add the language code to `server/public/shared/i18n/i18n.go` 
+- Add the language to `webapp/channels/src/i18n/i18n.jsx`
+- In the `webapp` directory, run `npm run test:updatesnapshot`
+- Add the modified `webapp/channels/src/components/admin_console/__snapshots__/schema_admin_settings.test.jsx.snap` to your commit.
+- Don't add string translations to the PR.
+
+Here is [an example PR](https://github.com/mattermost/mattermost/pull/24074) you can use as a starting point.
+
+### Step 2 - Adding the language to Mobile
+- Add the language to `app/i18n/index.ts`
+- Add the language to `app/i18n/languages.ts`
+
+Here is [an example PR](https://github.com/mattermost/mattermost-mobile/pull/7462) you can use as a starting point.
+
+### Step 3 - Adding the language to the Desktop-platform
+- Import the translation file into `i18n/i18n.ts`, and add the language to the menu.
+
+Here is [an example PR](https://github.com/mattermost/desktop/pull/2872) you can use as a starting point.
+
+
