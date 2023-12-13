@@ -283,9 +283,10 @@ For Playbooks and Calls no actions are needed
 Here is [an example PR](https://github.com/mattermost/mattermost/pull/24074) you can use as a starting point.
 
 ### Step 2 - Adding the language to Mobile
-Add the language to app/i18n/index.ts
-Add the language to app/i18n/languages.ts
-Here is an example [PR](https://github.com/mattermost/mattermost-mobile/pull/7462)
+- Add the language to `app/i18n/index.ts`
+- Add the language to `app/i18n/languages.ts`
+
+Here is [an example PR](https://github.com/mattermost/mattermost-mobile/pull/7462) you can use as a starting point.
 
 ### Step 3 - Adding the language to the Desktop-platform
 Import the translation file into i18n/i18n.ts and add the language to the menu
