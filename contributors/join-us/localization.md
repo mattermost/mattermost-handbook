@@ -274,12 +274,13 @@ You have to add the new language to the Mattermost platform and to Mobile
 For Playbooks and Calls no actions are needed
 
 ### Step 1 - Adding the language to the Mattermost-platform
-Add the language code to server/public/shared/i18n/i18n.go 
-Add the language to webapp/channels/src/i18n/i18n.jsx
-In the webapp folder run "npm run test:updatesnapshot"
-Add the modified webapp/channels/src/components/admin_console/__snapshots__/schema_admin_settings.test.jsx.snap to your commit
-There is no need adding the translations to the PR
-Here is an example [PR](https://github.com/mattermost/mattermost/pull/24074)
+- Add the language code to `server/public/shared/i18n/i18n.go` 
+- Add the language to `webapp/channels/src/i18n/i18n.jsx`
+- In the `webapp` directory, run `npm run test:updatesnapshot`
+- Add the modified `webapp/channels/src/components/admin_console/__snapshots__/schema_admin_settings.test.jsx.snap` to your commit.
+- Don't add string translations to the PR.
+
+Here is [an example PR](https://github.com/mattermost/mattermost/pull/24074) you can use as a starting point.
 
 ### Step 2 - Adding the language to Mobile
 Add the language to app/i18n/index.ts
