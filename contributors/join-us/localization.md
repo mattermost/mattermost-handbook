@@ -289,7 +289,8 @@ Here is [an example PR](https://github.com/mattermost/mattermost/pull/24074) you
 Here is [an example PR](https://github.com/mattermost/mattermost-mobile/pull/7462) you can use as a starting point.
 
 ### Step 3 - Adding the language to the Desktop-platform
-Import the translation file into i18n/i18n.ts and add the language to the menu
-Here is an example [PR](https://github.com/mattermost/desktop/pull/2872)
+- Import the translation file into `i18n/i18n.ts`, and add the language to the menu.
+
+Here is [an example PR](https://github.com/mattermost/desktop/pull/2872) you can use as a starting point.
 
 
