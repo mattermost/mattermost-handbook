@@ -24,24 +24,24 @@ A complete list of AORs is included below:
 
 1. **Customer Seats Deployed**: Seats deployed data for our customer base is [tracked in this spreadsheet](https://docs.google.com/spreadsheets/d/1ZnjJHWIsT9hIxotCYrSG66XIWsf_usf258Ll8HgVmzU/edit#gid=423031054)
 
-  - **Technical onboarding**: Help customers deploy in non-standard environments, such as configuring and running loadtests, writing documentation for gold standard deployments, complex data migrations, integration configuration and setup, and guiding customers with deployment KPIs to measure long-term ROI.
-  - **Server upgrades**: Support customers with non-standard server upgrades, run system integrity diagnostics before/after upgrade to detect anomalies, create database migration scripts in preparation for upgrades
-  - **High scale documentation**: Enable successful customer deployments at scale, including amendments to deployment documentation, troubleshooting guides, how-to guides & videos, answers to general technical questions on the platform, Mattermost architecture diagrams, and documented deployment KPIs to measure long-term ROI.
-  - **Customer health checks**: Ensure deployments meet recommendations, review performance metrics and share back with R&D to help improve loadtests
+- **Technical onboarding**: Help customers deploy in non-standard environments, such as configuring and running loadtests, writing documentation for gold standard deployments, complex data migrations, integration configuration and setup, and guiding customers with deployment KPIs to measure long-term ROI.
+- **Server upgrades**: Support customers with non-standard server upgrades, run system integrity diagnostics before/after upgrade to detect anomalies, create database migration scripts in preparation for upgrades
+- **High scale documentation**: Enable successful customer deployments at scale, including amendments to deployment documentation, troubleshooting guides, how-to guides & videos, answers to general technical questions on the platform, Mattermost architecture diagrams, and documented deployment KPIs to measure long-term ROI.
+- **Customer health checks**: Ensure deployments meet recommendations, review performance metrics and share back with R&D to help improve loadtests
 
 2. **Reference Architectures**: In partnership with core platform team, with a [complete plan in this document](https://docs.google.com/document/d/1kAxel327wsJwg35Y7EYNzHlbEnRN2Brn3Im9M4Rf82Q/edit#)
 
-  - **Loadtest Deployment Tooling**: Create a script/guide (e.g. Terraform, Ansible, whitepaper) to automate the use of the loadtest framework, which includes AWS set up, keys, auth, and more. TAM team acts as the first customer, with the plan to support this script in other customer environments.
-  - **ESR usage & ceiling tests**: Run usage & ceiling tests against ESRs (twice a year). Share observations to Server Platform teams and recommend architectural/docs changes, if any.
-  - **Expand reference architectures**: Continue to expand on available reference architectures, with [GitLab’s documentation](https://docs.gitlab.com/ee/administration/reference_architectures/) as a north star
+- **Loadtest Deployment Tooling**: Create a script/guide (e.g. Terraform, Ansible, whitepaper) to automate the use of the loadtest framework, which includes AWS set up, keys, auth, and more. TAM team acts as the first customer, with the plan to support this script in other customer environments.
+- **ESR usage & ceiling tests**: Run usage & ceiling tests against ESRs (twice a year). Share observations to Server Platform teams and recommend architectural/docs changes, if any.
+- **Expand reference architectures**: Continue to expand on available reference architectures, with [GitLab’s documentation](https://docs.gitlab.com/ee/administration/reference_architectures/) as a north star
 
 3. **Custom Solutions**: _<Repository or page of custom solutions built for customers to be added>_
 
-  - **Custom solutions**: Workarounds for unique requirements, one-off integrations (e.g. MS Teams integration), one-off solutions (e.g. legal hold). 
+- **Custom solutions**: Workarounds for unique requirements, one-off integrations (e.g. MS Teams integration), one-off solutions (e.g. legal hold).
 
 4. **Customer Escalations**:
 
-  - **Technical line of defense for deployment escalations**: Ensure customer environments have what we need to help (e.g. system diagnostics, performance monitoring), perform deep troubleshooting and data collection, end-to-end handling of some incidents, escalate and partner with R&D for incidents that require more support.
+- **Technical line of defense for deployment escalations**: Ensure customer environments have what we need to help (e.g. system diagnostics, performance monitoring), perform deep troubleshooting and data collection, end-to-end handling of some incidents, escalate and partner with R&D for incidents that require more support.
 
 For other references, see [this document for customer reliability engineering](https://docs.google.com/document/d/1KS2Kt_gujCynK-Rl9vHN7zb6UfPe5kNeaUOYpQHMOcs/edit#), and [these slides for post-sales & revenue retention AORs](https://docs.google.com/presentation/d/1d00K-er3B15UFW9OkZrC0Y03htolYn6K874ZBucCAJo).
 
@@ -59,10 +59,11 @@ For other references, see [this document for customer reliability engineering](h
 - Elasticsearch Debugging & Design Best Practices: [YouTube Video](https://www.youtube.com/watch?v=o_SYdDPLPvE) | [Google Slides](https://docs.google.com/presentation/d/1-6AA15gfJLYzylfC1SQzmQw9h7WMOVi7ZIAtIBNufAk/edit?usp=sharing_eip_m&ts=636d10cc)
 - Job Progress Optimization: Deep Dive into Connections, Improvements & Query Analysis: [YouTube Video](https://www.youtube.com/watch?v=V8DiTNESnjI) | [Google Slides](https://docs.google.com/presentation/d/1V6D96qXWesN_EnYDMTebKH6xS6I3zlmqEfq7Y8O6jMk/edit?usp=sharing)
 - Detecting Performance Monitoring Issues in Prometheus & Grafana: [YouTube Video](https://www.youtube.com/watch?v=Qi9JlHf1eqY) | [Google Slides](https://docs.google.com/presentation/d/1STkcl2BLQMGwoDjgsUS5CQdVo-CGWgijltVH6biQzeE/edit#slide=id.ge9b7e537ec_0_0)
-- *Internal only:* pprof, Grafana: [Zoom Video Recording](https://community.mattermost.com/private-core/pl/bjo7ynua1fg8f876sm1umbbjyh) | [Google Slides](https://docs.google.com/presentation/d/10j3oY9Tx2e4Yn_6st-mfPennqN10V3MVy210NMNmTlI/edit?usp=sharing)
+- _Internal only:_ pprof, Grafana: [Zoom Video Recording](https://community.mattermost.com/private-core/pl/bjo7ynua1fg8f876sm1umbbjyh) | [Google Slides](https://docs.google.com/presentation/d/10j3oY9Tx2e4Yn_6st-mfPennqN10V3MVy210NMNmTlI/edit?usp=sharing)
 
 ### Additional Resources
 
+- [Trimming Operational Costs: Unveiling Mattermost’s Cross-Cluster Migration](https://mattermost.com/blog/mattermosts-cross-cluster-migration/)
 - [Performance Debugging Training Series](https://mattermost.atlassian.net/wiki/spaces/CO/pages/2388000769/Knowledge+Dump+Zone#Training)
 - [CNCF talk on using counters in Prometheus](https://www.youtube.com/watch?v=67Ulrq6DxwA)
 - [Full source code for all metrics.go endpoints](https://github.com/mattermost/enterprise/blob/master/metrics/metrics.go)
