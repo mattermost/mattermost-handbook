@@ -56,11 +56,11 @@ For all new staff members, to request a new laptop, please use this [form](https
 **Non-engineers**
 
 * **Windows:** We will provide a [XPS 15](https://www.dell.com/en-us/shop/dell-laptops/xps-15-laptop/spd/xps-15-9530-laptop/usexcpcto9530rpl05) or similar. General specs are i9, 32GB memory, 1TB SSD.
-* **Mac:** We will provide a [14" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-gray-8-core-cpu-14-core-gpu-512gb) or similar. General specs are M3 Pro 8-core CPU, 14-core GPU, 16-core Neural Engine, 37GB memory, 512GB SSD.
+* **Mac:** We will provide a [14" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-black-apple-m3-pro-with-11-core-cpu-and-14-core-gpu-18gb-memory-512gb) or similar. General specs are M3 Pro 11-core CPU, 14-core GPU, 16-core Neural Engine, 36GB memory, 512GB SSD.
 
 **Engineers**
 
-* **Windows:** We will provide a [XPS 15](https://www.dell.com/en-us/shop/dell-laptops/xps-15-laptop/spd/xps-15-9530-laptop/usexcpcto9530rpl05) or similar. General specs are i9, 32GB memory, 1TB SSD.
+* **Windows:** We will provide a [XPS 15](https://www.dell.com/en-us/shop/dell-laptops/xps-15-laptop/spd/xps-15-9530-laptop/usexcpcto9530rpl05) or similar. General specs are i9, 64GB memory, 1TB SSD.
 * **Mac:** We will provide a [16" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-apple-m3-max-with-16-core-cpu-and-40-core-gpu-48gb-memory-1tb) or similar. General specs are M3 Max 16-core CPU, 40-core GPU, 16-core Neural Engine, 64GB memory, 1TB SSD.
 
 **Designers**
