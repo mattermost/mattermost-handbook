@@ -55,17 +55,17 @@ For all new staff members, to request a new laptop, please use this [form](https
 
 **Non-engineers**
 
-* **Windows:** We will provide a [XPS 15](https://www.dell.com/en-us/shop/laptops/new-xps-15/spd/xps-15-9520-laptop/xn9520cto040s) or similar. General specs are i9, 32GB memory, 1TB SSD.
-* **Mac:** We will provide a [14" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-gray-8-core-cpu-14-core-gpu-512gb) or similar. General specs are M1 Pro 8-core CPU, 14-core GPU, 16-core Neural Engine, 32GB memory, 512GB SSD.
+* **Windows:** We will provide a [XPS 15](https://www.dell.com/en-us/shop/dell-laptops/xps-15-laptop/spd/xps-15-9530-laptop/usexcpcto9530rpl05) or similar. General specs are i9, 32GB memory, 1TB SSD.
+* **Mac:** We will provide a [14" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch-space-gray-8-core-cpu-14-core-gpu-512gb) or similar. General specs are M3 Pro 8-core CPU, 14-core GPU, 16-core Neural Engine, 37GB memory, 512GB SSD.
 
 **Engineers**
 
-* **Windows:** We will provide a [XPS 15](https://www.dell.com/en-us/shop/laptops/new-xps-15/spd/xps-15-9520-laptop/xn9520cto040s) or similar. General specs are i9, 32GB memory, 1TB SSD.
-* **Mac:** We will provide a [16" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-10-core-cpu-32-core-gpu-1tb) or similar. General specs are M1 Max 10-core CPU, 32-core GPU, 16-core Neural Engine, 32GB memory, 1TB SSD.
+* **Windows:** We will provide a [XPS 15](https://www.dell.com/en-us/shop/dell-laptops/xps-15-laptop/spd/xps-15-9530-laptop/usexcpcto9530rpl05) or similar. General specs are i9, 32GB memory, 1TB SSD.
+* **Mac:** We will provide a [16" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-apple-m3-max-with-16-core-cpu-and-40-core-gpu-48gb-memory-1tb) or similar. General specs are M3 Max 16-core CPU, 40-core GPU, 16-core Neural Engine, 64GB memory, 1TB SSD.
 
 **Designers**
 
-* **Mac:** We will provide a [16" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-10-core-cpu-32-core-gpu-1tb) or similar. General specs are M1 Max 10-core CPU, 32-core GPU, 16-core Neural Engine, 64GB memory, 1TB SSD.
+* **Mac:** We will provide a [16" Macbook Pro](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-black-apple-m3-max-with-16-core-cpu-and-40-core-gpu-48gb-memory-1tb) or similar. General specs are M3 Max 16-core CPU, 40-core GPU, 16-core Neural Engine, 64GB memory, 1TB SSD.
 
 Once you've received your laptop, you're required to register it by completing an [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform). This step should be completed within 5 business days after your laptop was received.
 
