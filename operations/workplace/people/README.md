@@ -120,13 +120,12 @@ Resources: How-to for Staff Members
 >   * [Request Time Off](https://help.bamboohr.com/hc/en-us/articles/360052355912-Request-Time-Off)
 >   * [Employee Access Manual](https://help.bamboohr.com/hc/en-us/articles/227321928-Employee-Access-Manual)
 
-### Culture Amp
+### Lattice
 
-> * Culture Amp is our Engagement and Performance Platform.
-> * The People team uses Culture Amp to gain insight across the employee experience, using employee engagement surveys, continuous feedback, 360 reviews, and goal tracking.
-> * Staff use Cuture Amp for performance reviews such as 90-day reviews and 360 performance reviews, for engagement and employee experience surveys, and goal tracking.
-> * To access the system go to [Culture Amp](https://mattermost.cultureamp.com) or [Okta](https://mattermost.okta.com).
-> * Note that as of March 2021, Culture Amp will not be supporting Internet Explorer 11.
+> * Lattice is our Engagement and Performance Platform.
+> * The People team uses Lattice to gain insight across the employee experience, using employee engagement surveys, continuous feedback, 360 reviews, and goal tracking.
+> * Staff use Lattice for performance reviews such as 90-day reviews and 360 performance reviews, for engagement and employee experience surveys, and goal tracking.
+> * To access the system go to [Lattice](https://mattermost.latticehq.com) or [Okta](https://mattermost.okta.com).
 
 ## Other Key Channels and Resources
 
