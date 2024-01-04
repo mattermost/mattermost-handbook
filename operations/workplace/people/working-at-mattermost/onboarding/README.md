@@ -18,7 +18,7 @@ Feedback is requested from the new colleague's peers throughout the 90-day Onboa
 
 ### Onboarding Surveys
 
-New staff will be invited to share feedback of their onboarding experience after 30 days of working at Mattermost. FT Staff will receive an invitation via email to complete the 30-Day Onboarding Survey in Culture Amp. Early feedback from new hires is a crucial way to gather insights about what is going well and what needs to be improved in the onboarding process. The feedback shared in the survey will help the People team identify key areas to focus on to continue making Mattermost a great place to work.
+New staff will be invited to share feedback of their onboarding experience after 30 days of working at Mattermost. FT Staff will receive an invitation via email to complete the 30-Day Onboarding Survey in Lattice. Early feedback from new hires is a crucial way to gather insights about what is going well and what needs to be improved in the onboarding process. The feedback shared in the survey will help the People team identify key areas to focus on to continue making Mattermost a great place to work.
 
 ### New Staff Feedback Session with CEO and the People Team
 
@@ -36,17 +36,17 @@ This is not a formal performance review. The intent is to align expectations and
 
 #### Managers
 
-* You will receive an email during your direct report's third month at Mattermost asking you to select a peer panel in Culture Amp. This kicks off the [review process](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#how-is-feedback-shared).
-* Log in to **Culture Amp &gt; Performance &gt; Inbox**. Designate the peer panel to provide feedback about your new staff member. For new hires who are also people managers, direct reports may also be included in the peer panel to provide upward feedback about their manager.
+* You will receive an email during your direct report's third month at Mattermost asking you to select a peer panel in Lattice. This kicks off the [review process](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#how-is-feedback-shared).
+* Log in to **Lattice &gt; Performance &gt; Task**. Designate the peer panel to provide feedback about your new staff member. For new hires who are also people managers, direct reports may also be included in the peer panel to provide upward feedback about their manager.
 * You'll be able to view the peer feedback and your new staff member's Self-Reflection when completing the manager portion of the 90-day review.
 * Complete the 90-day review and share it with your new staff member. Discuss the details of the review in a one-on-one.
   * Note: This review is part of the Post-Onboarding Readiness metric assessment. This review is not a [formal review](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50/formal-review-process).
 
 #### New Colleagues
 
-* Complete the 90-Day Self-Reflection in Culture Amp. An email invitation to complete your 90-Day Self-Reflection in Culture Amp will be sent during your third month at Mattermost. To complete the Self-Reflection, log in to **Culture Amp &gt; Performance &gt; Inbox**.
+* Complete the 90-Day Self-Reflection in Lattice. An email invitation to complete your 90-Day Self-Reflection in Lattice will be sent during your third month at Mattermost. To complete the Self-Reflection, log in to **Lattice &gt; Performance &gt; Task**.
 
 #### Peers
 
-* You will receive email invitations to share feedback about your new colleague. To complete your peer review, log in to **Culture Amp &gt; Performance &gt; Inbox**. Upward feedback may be requested if the new colleague is a people manager.
+* You will receive email invitations to share feedback about your new colleague. To complete your peer review, log in to **Lattice &gt; Performance &gt; Task**. Upward feedback may be requested if the new colleague is a people manager.
 
