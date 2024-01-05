@@ -124,7 +124,7 @@ Resources: How-to for Staff Members
 
 > * Lattice is our Engagement and Performance Platform.
 > * The People team uses Lattice to gain insight across the employee experience, using employee engagement surveys, continuous feedback, 360 reviews, and 1:1s.
-> * Staff use Lattice for performance reviews such as 90-day reviews and 360 performance reviews, for engagement and employee experience surveys, and goal tracking.
+> * Staff use Lattice for performance reviews such as 90-day reviews and 360 performance reviews, for engagement and employee experience surveys, and 1:1s.
 > * To access the system go to [Lattice](https://mattermost.latticehq.com) or [Okta](https://mattermost.okta.com).
 
 ## Other Key Channels and Resources
