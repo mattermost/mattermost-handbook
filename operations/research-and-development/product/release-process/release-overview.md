@@ -4,21 +4,21 @@ Mattermost ships with a new version once a month for both cloud and self-hosted 
 
 ## Release numbering
 
-Mattermost numbers stable releases in the following format: **\[Version Number\].\[Major Build Number\].\[Minor Build Number\]**
+Mattermost numbers stable releases in the following format: **\[Major Build Number\].\[Minor Build Number\].\[Patch Build Number\]**
 
-**Version number:**
+**Major build number:**
 
 * Purpose: Major system releases introduce significantly new functionality or change existing product behavior
 * Release frequency: Once a year. Major system releases are infrequent
 * Example: v1.x.x, v2.x.x
 
-**Major build number:**
+**Minor build number:**
 
 * Purpose: Introduce new features, bug fixes and performance improvements
 * Release frequency: Monthly cadence
 * Example: v1.2.x, v1.4.x
 
-**Minor build number:**
+**Patch build number:**
 
 * Purpose: Patch existing releases when severe bug fixes or security patches are required
 * Release frequency: As required
