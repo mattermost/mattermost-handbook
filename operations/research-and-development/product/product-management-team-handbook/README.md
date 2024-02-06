@@ -423,16 +423,39 @@ Documentation that is linked in-product should always use a redirect in the form
 
 To set up a redirect, follow these steps:
 
-1. Decide the in-product link in the form `https://mattermost.com/pl/<default-page-name>/`
-2. Request in the Marketing channel for them to add a 301 redirect from `https://mattermost.com/pl/<default-page-name>/` to the appropriate mattermost.com or docs.mattermost.com page.
+1. Decide the in-product link in the form `https://mattermost.com/pl/<default-page-name>/`, and identify the destination URL.
+2. Enter the desired route link and the expected destination URL in the [Product Linkout Redirects](https://docs.google.com/spreadsheets/d/1O601H_A0IM8pR3FOfue29_C8flGV7xK3ts-tJUVDHHg/edit#gid=607040777) spreadsheet, on the **Requests** tab.
+3. Submit a [Marketing Asana Ticket](https://form.asana.com/?k=AYDfCAlUYXPLy0bAlaFWJg&d=279683980846511) for your link request.
+
+Marketing will notify you when the new link is available, and will add the new link to the **pl** tab of the spreadsheet.
 
 For a Marketing team member who adds the redirect, follow these steps:
 
+If the destination URL has a hash (ex. `https://destination.com/example-slug#anchor`), follow the directions for Yoast, otherwise, use WPEngine.
+
+#### WPEngine
+1. Login into the User Portal.
+2. Go to the production mattermost.com instance in the dashboard and find the **Redirect rules** link.
+3. Click the **New redirect rule** button in the top-right corner of the page.
+4. You do not need to enter a name for the redirect.
+5. For the **Domain** field, choose `mattermost.com`.
+6. For the **Source** field, enter the new direct you want to use in-product in the format of `^/pl/default-page-description/?$`.
+7. For the **Destination** field, enter the full destination URL.
+8. Open the **Advanced Settings** dropdown and for the **Type**:
+  * Choose `301` \(this is the default option\) if the destination is unlikely to change.
+  * Choose `302` if the destination could change. Browsers will cache and not pick up the change for a while if you set it to `301`.
+9. Click the **Save** button. Your new entry will be located at the bottom of the list.
+10. Test your redirect URL. This will be the URL in the format of `https://mattermost.com/pl/default-page-description`.
+
+#### Yoast
 1. Log in to the administration panel for https://mattermost.com/.
 2. From the left-hand sidebar, go to **SEO > Redirects**.
-3. On the top of the screen, ensure you are on the **Redirects - Yoast SEO** page header on the **Redirects** tab.
-4. Under **Type**, choose `301 Moved Permanently` option \(this is the default option\).
-5. In the **Old url** field, enter in the new direct you want to use in-product in the format of `/pl/default-page-description`. Update the page description with your page information.
-6. In the **Url** field, enter in the full URL to the page on docs.mattermost.com.
+3. On the top of the screen, ensure you are on the **Redirects - Yoast SEO** page header on the **Regex Redirects** tab.
+4. Picking the redirect **Type**
+  * Choose `301` \(this is the default option\) if the destination is unlikely to change.
+  * Choose `302` if the destination could change. Browsers will cache and not pick up the change for a while if you set it to `301`.
+5. In the **Old url** field, enter in the new direct you want to use in-product in the format of `^\/pl/default-page-description\/?(\?.+)?$`. Update the page description with your page information.
+6. In the **Url** field, enter in the full URL with a `$1` right before the hash (ex. `https://docs.mattermost.com/example-slug$1#report-a-bug`).
+  * This is so any URL params get placed in the right spot so the anchor behavior remains. 
 7. Click the **Add Redirect** botton and verify your entry is added to the list. You may need to page through to find your entry.
 8. Test your redirect URL. This will be the URL in the format of `https://mattermost.com/pl/default-page-description`.
