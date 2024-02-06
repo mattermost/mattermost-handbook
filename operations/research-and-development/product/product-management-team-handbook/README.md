@@ -423,8 +423,11 @@ Documentation that is linked in-product should always use a redirect in the form
 
 To set up a redirect, follow these steps:
 
-1. Decide the in-product link in the form `https://mattermost.com/pl/<default-page-name>/`
-2. Request in the Marketing channel for them to add a 301 redirect from `https://mattermost.com/pl/<default-page-name>/` to the appropriate mattermost.com or docs.mattermost.com page.
+1. Decide the in-product link in the form `https://mattermost.com/pl/<default-page-name>/`, and identify the destination URL.
+2. Enter the desired route link and the expected destination URL in the [Product Linkout Redirects](https://docs.google.com/spreadsheets/d/1O601H_A0IM8pR3FOfue29_C8flGV7xK3ts-tJUVDHHg/edit#gid=607040777) spreadsheet, on the **Requests** tab.
+3. Submit a [Marketing Asana Ticket](https://form.asana.com/?k=AYDfCAlUYXPLy0bAlaFWJg&d=279683980846511) for your link request.
+
+Marketing will notify you when the new link is available, and will add the new link to the **pl** tab of the spreadsheet.
 
 For a Marketing team member who adds the redirect, follow these steps:
 
