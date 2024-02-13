@@ -1,3 +1,27 @@
+# Cloud Cost Optimization Reports
+Early each month, a cost report is prepared with the spent of the previous month.
+This report gets inputs from AWS monthly billing and Zesty cost per AWS account information.
+That information is incorporated into various sheets, from which diagrams are created that are
+embedded inside the monthly cost report.
+
+## The reports - presentations
+The Cloud Cost Optimization Reports can be found in Google Slides [here](https://docs.google.com/presentation/u/0/?tgif=d&q=Cloud%20Cost%20Optimization%20Report). Each month a new one is created, For example the one for the January 2024 is the [Cloud Cost Optimization Report #37](https://docs.google.com/presentation/d/1XsZHIQkfbet0uo_olQGZHWKr-qkHzCdvtHG8bD71jC0/edit?usp=sharing).
+
+## Sheets and tools to create the reports
+- The sheet where the all information is combined and then populated into the cost reports: [FY24 Cost tracking AWS accounts](https://docs.google.com/spreadsheets/d/1Gseyt1ByiiSC3fNyC1PI0cLByOJrkLhefEnP98LHNLQ/edit?usp=sharing)
+
+- [Zesty's report with the savings per account](https://docs.google.com/spreadsheets/d/1OJ-khBQGHwucy_oqLHufPEl4NWJfnt78I-58qRp5Dmk/edit?usp=sharing)
+
+- From that sheet, the older cost reports were polulated and now it is used for the average cost per workspace [Monthly costs per environment](https://docs.google.com/spreadsheets/d/1S6qcnBa4eDpzR-74EzjVc11itoe1oUSanH0TRzHUP0k/edit?usp=sharing)
+
+- Show the costs analysis in Cloud Production per type, such as S3, ELB, VPCs, NAT etc.
+[Cost analysis by type](https://docs.google.com/spreadsheets/d/1zkYtsMO7PGp-5uJVmzUrKUiceIMZtKnGoqzc_Kaa--w/edit?usp=sharing)
+
+- How much each [Cluster costs in Production](https://docs.google.com/spreadsheets/d/1r11NL6wxLJELTT_ln4fM4NoPB3yTZ8bhWWJZn4RQ78k/edit?usp=sharing)
+
+- Shows the [AWS Cost Projection](https://docs.google.com/spreadsheets/d/1ANAiIinqb_MMBJ0KDcHodyBr0kL_Wl283SFra0dqYgQ/edit?usp=sharing)
+
+
 # Cloud Infrastructure Cost KPIs
 
 The Cloud SRE team uses certain KPIs to monitor cloud infrastructure costs from the engineering standpoint. These KPIs are used to help the business and the Cloud SRE team to set goals for cost optimization.
