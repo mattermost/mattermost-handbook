@@ -421,15 +421,15 @@ Product Managers are mentioned to assist in answering product question escalatio
 
 Documentation that is linked in-product should always use a redirect in the form `https://mattermost.com/pl/<default-page-name>/` instead of a hard-coded link to mattermost.com or docs.mattermost.com. This ensures in-product links are not broken in the event that they are moved.
 
-To set up a redirect, follow these steps:
+To set up a redirect:
 
-1. Decide the in-product link in the form `https://mattermost.com/pl/<default-page-name>/`, and identify the destination URL.
-2. Enter the desired route link and the expected destination URL in the [Product Linkout Redirects](https://docs.google.com/spreadsheets/d/1O601H_A0IM8pR3FOfue29_C8flGV7xK3ts-tJUVDHHg/edit#gid=607040777) spreadsheet, on the **Requests** tab.
-3. Submit a [Marketing Asana Ticket](https://form.asana.com/?k=AYDfCAlUYXPLy0bAlaFWJg&d=279683980846511) for your link request.
+How many links do you need created?
+  - **A single link**: Submit a [Marketing Asana Ticket](https://form.asana.com/?k=AYDfCAlUYXPLy0bAlaFWJg&d=279683980846511) for your request. Please specify the in-product link in the form `https://mattermost.com/pl/<default-page-name>/`, and the destination URL.
+  - **Multiple links**: If you need more than a single link, enter the routes and corresponding destination URLs in the [Product Linkout Redirects](https://docs.google.com/spreadsheets/d/1O601H_A0IM8pR3FOfue29_C8flGV7xK3ts-tJUVDHHg/edit#gid=607040777) spreadsheet, on the **Requests** tab. Then submit a [Marketing Asana Ticket](https://form.asana.com/?k=AYDfCAlUYXPLy0bAlaFWJg&d=279683980846511) for your link requests. Just let us know you've put entries in the request tab (if there's other requests in there, please let us know the rows you're referring to).
 
-Marketing will notify you when the new link is available, and will add the new link to the **pl** tab of the spreadsheet.
+Marketing will notify you when your request is complete, and will update the spreadsheet (add your links to the correct tabs).
 
-For a Marketing team member who adds the redirect, follow these steps:
+#### For a Marketing team member who adds the redirect, follow these steps:
 
 If the destination URL has a hash (ex. `https://destination.com/example-slug#anchor`), follow the directions for Yoast, otherwise, use WPEngine.
 
@@ -442,8 +442,8 @@ If the destination URL has a hash (ex. `https://destination.com/example-slug#anc
 6. For the **Source** field, enter the new direct you want to use in-product in the format of `^/pl/default-page-description/?$`.
 7. For the **Destination** field, enter the full destination URL.
 8. Open the **Advanced Settings** dropdown and for the **Type**:
-  * Choose `301` \(this is the default option\) if the destination is unlikely to change.
-  * Choose `302` if the destination could change. Browsers will cache and not pick up the change for a while if you set it to `301`.
+  - Choose `301` \(this is the default option\) if the destination is unlikely to change.
+  - Choose `302` if the destination could change. Browsers will cache and not pick up the change for a while if you set it to `301`.
 9. Click the **Save** button. Your new entry will be located at the bottom of the list.
 10. Test your redirect URL. This will be the URL in the format of `https://mattermost.com/pl/default-page-description`.
 
@@ -452,10 +452,10 @@ If the destination URL has a hash (ex. `https://destination.com/example-slug#anc
 2. From the left-hand sidebar, go to **SEO > Redirects**.
 3. On the top of the screen, ensure you are on the **Redirects - Yoast SEO** page header on the **Regex Redirects** tab.
 4. Picking the redirect **Type**
-  * Choose `301` \(this is the default option\) if the destination is unlikely to change.
-  * Choose `302` if the destination could change. Browsers will cache and not pick up the change for a while if you set it to `301`.
+  - Choose `301` \(this is the default option\) if the destination is unlikely to change.
+  - Choose `302` if the destination could change. Browsers will cache and not pick up the change for a while if you set it to `301`.
 5. In the **Old url** field, enter in the new direct you want to use in-product in the format of `^\/pl/default-page-description\/?(\?.+)?$`. Update the page description with your page information.
 6. In the **Url** field, enter in the full URL with a `$1` right before the hash (ex. `https://docs.mattermost.com/example-slug$1#report-a-bug`).
-  * This is so any URL params get placed in the right spot so the anchor behavior remains. 
+  - This is so any URL params get placed in the right spot so the anchor behavior remains. 
 7. Click the **Add Redirect** botton and verify your entry is added to the list. You may need to page through to find your entry.
 8. Test your redirect URL. This will be the URL in the format of `https://mattermost.com/pl/default-page-description`.
