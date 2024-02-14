@@ -12,7 +12,7 @@ The Cloud Cost Optimization Reports can be found in Google Slides [here](https:/
 
 - [Zesty's report with the savings per account](https://docs.google.com/spreadsheets/d/1OJ-khBQGHwucy_oqLHufPEl4NWJfnt78I-58qRp5Dmk/edit?usp=sharing)
 
-- From that sheet, the older cost reports were polulated and now it is used for the average cost per workspace [Monthly costs per environment](https://docs.google.com/spreadsheets/d/1S6qcnBa4eDpzR-74EzjVc11itoe1oUSanH0TRzHUP0k/edit?usp=sharing)
+- From that sheet, the older cost reports were populated and now it is used for the average cost per workspace [Monthly costs per environment](https://docs.google.com/spreadsheets/d/1S6qcnBa4eDpzR-74EzjVc11itoe1oUSanH0TRzHUP0k/edit?usp=sharing)
 
 - Show the costs analysis in Cloud Production per type, such as S3, ELB, VPCs, NAT etc.
 [Cost analysis by type](https://docs.google.com/spreadsheets/d/1zkYtsMO7PGp-5uJVmzUrKUiceIMZtKnGoqzc_Kaa--w/edit?usp=sharing)
