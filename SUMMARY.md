@@ -234,6 +234,7 @@
       * [Leaves of absence](operations/workplace/people/working-at-mattermost/leaves-of-absence/README.md)
         * [Pregnancy leave](operations/workplace/people/working-at-mattermost/leaves-of-absence/pregnancy-leave.md)
         * [Baby bonding parental leave](operations/workplace/people/working-at-mattermost/leaves-of-absence/baby-bonding-parental-leave.md)
+        * [Jury duty](operations/workplace/people/working-at-mattermost/leaves-of-absence/jury-duty.md)
       * [Workplace program](operations/workplace/people/working-at-mattermost/workplace-program.md)
       * [Relocation](operations/workplace/people/relocations.md)
       * [Total rewards](operations/workplace/people/total-rewards.md)
