@@ -12,7 +12,7 @@ Solution is in active development towards General Availability. Not fully comple
 Solution has undergone thorough validation and testing. It is feature-complete, meets quality standards, and has successfully passed security reviews. GA features are suitable for widespread production deployment and adoption, as they offer stability and reliability, with no expected changes that could disrupt functionality or scalability.
 
 ### Candidate for Deprecation
-Solution is being considered for removal from the product due to reasons such as redundancy, low usage, or compatibility issues. It is still functional but is no longer actively developed or enhanced. Only severe bugs and security issues are addressed. Users are encouraged to transition away from using this feature towards alternative solutions. 
+Solution is being considered for removal from the product due to redundancy, low usage, or compatibility issues. It is still functional but is no longer actively developed or enhanced. Only severe bugs and security issues are addressed. Users are encouraged to transition away from using this feature towards alternative solutions. 
 
 ### Deprecated
 Solution is officially marked for removal from the product. It is no longer supported or actively maintained by the development team. While the feature may still be available in the current version, it is recommended for users to discontinue its use and migrate to alternative functionalities.
