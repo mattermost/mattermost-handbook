@@ -60,7 +60,7 @@ This is probably the quickest way to make changes, as it doesn't require you to 
 
 1.  Login to your Mattermost GitHub account
 2. Open the Handbook and navigate to the page you want to edit.
-3. Below the blue banner, you will see three dots on the page title on the top of the page, click on the three dots and select **Edit on GitHub** . This opens the page in GitHub.
+3. Underneath the blue banner, locate three dots next to the page title at the top of the page. Click on the three dots and choose **Edit on GitHub**. This action will open the page in GitHub.
 4. In GitHub select the pencil icon in the navigation bar \(above the page header\) called **Edit this file** to open the editable Markdown-format page. If you see **Edit this file in your fork of this project** the process is the same, it just means you're not part of the Mattermost organization and are working in a forked repo.
    * To learn more about Markdown formatting, see the [Mattermost guide for formatting text](https://docs.mattermost.com/messaging/formatting-text.html), or [the guide from GitBook](https://docs.gitbook.com/editing-content/markdown).
 5. Make your edits. When you're ready to submit your changes, commit your changes to start a pull request.
