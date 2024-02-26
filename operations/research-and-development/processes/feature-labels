@@ -8,7 +8,7 @@ Solution is an early Proof of Concept (POC) with an unstable codebase, minimal Q
 ### Beta
 Solution is in active development towards General Availability. Not fully complete, but reviewed by our security team, adoption is suitable by a small set of customers behind a feature flag. Identified bugs are fixed on a best effort, but no major breaking changes anticipated. Beta is a transitional stage, meaning the solution is maturing but requires careful consideration in a full production deployment as scale and client availability may vary.
 
-### General Available 
+### General Availablity 
 Solution has undergone thorough validation and testing. It is feature-complete, meets quality standards, and has successfully passed security reviews. GA features are suitable for widespread production deployment and adoption, as they offer stability and reliability, with no expected changes that could disrupt functionality or scalability.
 
 ### Candidate for Deprecation
