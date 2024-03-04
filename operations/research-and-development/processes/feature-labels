@@ -15,7 +15,7 @@ Solution has undergone thorough validation and testing. It is feature-complete, 
 Solution is being considered for removal from the product due to redundancy, low usage, or compatibility issues. It is still functional but is no longer actively developed or enhanced. Only severe bugs and security issues are addressed. Users are encouraged to transition away from using this feature towards alternative solutions. 
 
 ### Deprecated
-Solution is officially marked for removal from the product. It is no longer supported or actively maintained by the development team. While the feature may still be available in the current version, it is recommended for users to discontinue its use and migrate to alternative functionalities.
+Solution is officially marked for removal from the product. It is no longer supported or actively maintained by the development team. If the feature is still in use in your deployed version, we recommend users discontinue its use and migrate to alternative functionalities.
 
 ### Community Supported
 Solution is maintained by the open source community rather than the official development team. While it may receive updates, enhancements, and bug fixes from community or partner contributors, there is no guarantee of timely or comprehensive support. Users are encouraged to seek assistance and contribute to the ongoing development of the feature through community forums, documentation, and collaboration platforms.
