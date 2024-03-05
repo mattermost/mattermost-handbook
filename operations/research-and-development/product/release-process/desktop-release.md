@@ -17,7 +17,8 @@ Note: T-minus counts are measured in "working days" (weekdays other than major h
 Every 3 months, the Desktop app release milestones follow the cloud/self-hosted release milestones to align all release testing cycles.
 
 **Schedule for Desktop App releases**:
- - Cut release branch and RC-1 (around T-19). This is also the Feature Complete deadline.
+ - Cut release branch at T-24. This is also the Feature Complete deadline.
+ - Cut RC-1 at T-19.
  - Code Freeze at T-10.
  - Cut Final build at T-8.
     - [QA approval](https://community.mattermost.com/playbooks/playbooks/h798dt39mpbymb8z5uoiuf4hdo/outline) should be ready by T-8.
