@@ -29,6 +29,7 @@ If you or a family member have been affected by COVID-19, please reach out to HR
 
 * [Pregnancy Leave](pregnancy-leave.md)
 * [Baby Bonding Parental Leave](baby-bonding-parental-leave.md)
+* [Jury Duty](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/leaves-of-absence/jury-duty)
 * Sick Leave \(TBD\)
 
 ### How to apply for a leave of absence \(staff\)
