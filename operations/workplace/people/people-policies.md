@@ -46,6 +46,6 @@ Mattermost's Affirmative Action Plan can be found [here](https://docs.google.com
 
 ### Electronic Monitoring Policy
 
-Mattermost does not engage in electronic monitoring of staff or their activities through their work equipment, such as Mattermost-issued laptops or cell phones, work email, Mattermost, or other applications used by the company, except for legal, security or compliance purposes. Any information collected will be used solely to help Mattermost meet its legal, security or compliance requirements.
+Mattermost does not engage in electronic monitoring of staff or their activities through their work equipment, such as Mattermost-issued laptops or cell phones, work email, Mattermost, or other applications used by the company, except for legal, security, or compliance purposes. Any information collected will be used solely to help Mattermost meet its legal, security, or compliance requirements.
 
 In the event of a workplace investigation, Mattermost may request access to staff activities on  Mattermost-issued systems or devices, where necessary.
