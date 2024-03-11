@@ -13,32 +13,35 @@ The policy is as follows:
 * Only a limited number of staff can go to the same conference at the same time
 * Staff who go to conferences should share their learnings with the team
 
-From time to time, you may be asked to “work a conference” that Mattermost is sponsoring.  This may include giving a talk, working our booth, etc.  To be clear, this conference attendance policy is separate from working a conference and has a separate budget.
+From time to time, you may be asked to “work at a conference” that Mattermost is sponsoring.  This may include giving a talk, working at our booth, etc.  To be clear, this conference attendance policy is separate from working at a conference and has a separate budget.
 
 ## Getting approval
 
-If there is a conference you would like to attend please send an email to your manager with the following template:
+Step 1:  If there is a conference you would like to attend please send an email to your Manager and Director (where applicable) using the following template:
 
 ```
 Subject: Request to Attend <conference-name>
-
+​
 Hi <manager-name>,
-
+​
 I would like to attend <conference-name> at <location> from <date> until <date> because <reason>.
-
+​
 The cost estimates are:
-
+​
 * Flights/Transportation: $XXX
-* Accomodation: $XXX
+* Accommodation: $XXX
 * Event tickets: $XXX
-
+​
 Thanks,
-
+​
 <your-name>
+
 ```
 
-If your manager responds with "Approved." then you are good to go. Start booking the tickets, travel and accomodations and expense it via Expensify.
+Step 2: Your Manager, Director, and Team MLT will review the request and prepare a business case for attending the conference, aligning the learning opportunity with Mattermost’s goals and objectives.  The business case will be shared with HR and Finance for approval. 
 
-If you would like to ask for an exception to the above policy, please include what the exception is and why it's justified in the email and also cc your manager's manager to get their approval.
+Step 3: HR and Finance will communicate the final approval decision to your Manager, Director, and Team MLT.
+
+If approved, then you’re good to go! Start booking your tickets, travel, and accommodations and expense it via Airbase.
 
 Once approved, __managers need to add the conference to the [tracking spreadsheet](https://docs.google.com/spreadsheets/d/1Ff3OdeMMDJlokoMwu3IX0v0D3B-_w8QZR5-4enhhIXs/edit#gid=0)__.
