@@ -38,7 +38,7 @@ Thanks,
 
 ```
 
-Step 2: Your Manager, Director, and Team MLT will review the request and prepare a business case for attending the conference, aligning the learning opportunity with Mattermost’s goals and objectives.  The business case will be shared with HR and Finance for approval. 
+Step 2: Your Manager, Director, and Team MLT will review the request and prepare a business case for attending the conference, aligning the learning opportunity with Mattermost’s goals and objectives. The business case will be shared with HR and Finance for approval. 
 
 Step 3: HR and Finance will communicate the final approval decision to your Manager, Director, and Team MLT.
 
