@@ -13,7 +13,7 @@ The policy is as follows:
 * Only a limited number of staff can go to the same conference at the same time
 * Staff who go to conferences should share their learnings with the team
 
-From time to time, you may be asked to “work at a conference” that Mattermost is sponsoring.  This may include giving a talk, working at our booth, etc.  To be clear, this conference attendance policy is separate from working at a conference and has a separate budget.
+From time to time, you may be asked to “work a conference” that Mattermost is sponsoring.  This may include giving a talk, working our booth, etc.  To be clear, this conference attendance policy is separate from working at a conference and has a separate budget.
 
 ## Getting approval
 
