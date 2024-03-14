@@ -9,7 +9,7 @@ Solution is an early Proof of Concept (POC) with an unstable codebase, minimal Q
 Solution is in active development towards General Availability. Not fully complete, but reviewed by our security team, adoption is suitable for a small set of customers behind a feature flag. Identified bugs are fixed on a best effort basis, and no major breaking changes are anticipated. Beta is a transitional stage, meaning the solution is maturing but requires careful consideration in a full production deployment as scale and client availability may vary.
 
 ### General Availablity 
-Solution has undergone thorough validation and testing. It is feature-complete, meets quality standards, and has successfully passed security reviews. GA features are suitable for widespread production deployment and adoption, as they offer stability and reliability, with no expected changes that could disrupt functionality or scalability.
+Solution has undergone thorough validation and testing. It is feature-complete, meets quality standards, and has successfully passed security reviews. General Availability features are suitable for widespread production deployment and adoption, as they offer stability and reliability, with no expected changes that could disrupt functionality or scalability.
 
 ### Deprecated
 Solution is officially marked for removal from the product. It is no longer supported or actively maintained by the development team. If the feature is still in use in your deployed version, we recommend users discontinue its use and migrate to alternative functionalities.
