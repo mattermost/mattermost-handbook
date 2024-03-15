@@ -25,6 +25,6 @@ Email:
 
 ### Security Operations
 
-* Paul Harrison, Security Engineering Lead
-* Ailsa Partridge, Security Engineer II
+* Paul Harrison, Senior Security Engineering Lead
+* Ian Wilson, Staff Security Engineer
 * Corey Robinson, Security Engineer II
