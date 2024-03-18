@@ -139,7 +139,7 @@ If you require a tablet or phone as part of your role, or you participate in an 
 2. With the your manager's approval and business justification, email IT@mattermost.com with the required device: iOS Phone/Tablet, Android Phone/Tablet, etc.
 3. A member of IT will reach out to coordinate the purchase and delivery of the requested device.
 
-**Note:** Devices will be on average 2 generations behind the newest available model. 
+**Note:** On average, devices will be 2 generations behind the newest available model. 
 
 #### Mobile device management \(MDM\)
 
