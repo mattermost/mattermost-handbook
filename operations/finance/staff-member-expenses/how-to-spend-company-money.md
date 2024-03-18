@@ -133,17 +133,13 @@ The company doesn't currently provide mobile device subscriptions in a centraliz
 
 #### Hardware
 
-If you require a tablet or phone as a part of your role, you should have a business use reason for the device and authorization from your manager. Once you receive approval, send an email to IT@mattermost.com with the device required (iOS Phone/Tablet, Android Phone/Tablet). A member of the IT team will reach out to coordinate the purchase and delivery of the requested device. Please note that devices will be on average 2 generations behind the newest available model.
+If you require a tablet or phone as part of your role, or you participate in an on-call rotation, you may be eligible for a Mattermost-provided phone.  Company phones are not mandatory. Using personal phones for business is an endorsed and acceptable practice; however, if a company phone is preferred, please follow these steps:
 
-Usage of a company phone is **mandatory** for the following staff groups:
+1. Get approval from your direct manager.
+2. With your manager's approval and business justification, email IT@mattermost.com with the required device: iOS Phone/Tablet, Android Phone/Tablet, etc.
+3. A member of IT will reach out to coordinate the purchase and delivery of the requested device.
 
-* Security Engineer
-
-Usage of a company phone is **voluntary** for the following staff groups:
-
-* Staff who are participating in on-call rotations, with approval from their direct manager and not part of a mandatory staff group.
-
-Continued usage of personal phones for business is endorsed and acceptable within the voluntary group. Remaining staff groups are currently not eligible for a company mobile device. The scope of the staff groups may be modified in the future, resulting in changes in mandatory and voluntary groups.
+**Note:** On average, devices will be 2 generations behind the newest available model. 
 
 #### Mobile device management \(MDM\)
 
