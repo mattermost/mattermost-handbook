@@ -12,7 +12,8 @@ Description: >-
 | [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew) |VP, Human Resources|
 | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) | Senior Manager, People |
 | [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu) | People Generalist |
-
+| [Kellie Ritenour](https://community.mattermost.com/core/messages/kellie.ritenour) |  Recruiter |
+ 
 ## Have a Question for the People Team?
 
 | People Topic | Resource | Who to Ask?|
@@ -24,7 +25,7 @@ Description: >-
 | US Benefits | [Loc: USA](https://community.mattermost.com/private-core/channels/loc-usa) | [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
 | Canada Benefits | [Loc: Canada](https://community.mattermost.com/private-core/channels/loc-canada) | [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
 | General HR Questions | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) (Non-Confidential) and HR@mattermost.com (Confidential)| [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
-|Recruiting | [Ask the Recruiting Team](https://community.mattermost.com/private-core/channels/ask-the-recruiting-team) (Non-Confidential) | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway), [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew)
+|Recruiting | [Kellie Ritenour](https://community.mattermost.com/core/messages/kellie.ritenour) (Non-Confidential) | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway), [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew)
 | Workplace Program Questions & Updates | Questions: [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team), Email: hr@mattermost.com, Updates: [Social: Workplace Programs](https://community.mattermost.com/private-core/channels/social) or [Workplace Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_dsmc65gm71b4imq1gkfk5qkrv4@group.calendar.google.com&ctz=America/New_York) (Found on the BambooHR Homepage under "Company Links" |[Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) |
 | Total Rewards | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) | [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) |
 
@@ -35,12 +36,12 @@ An SLA is an agreement that details the expectations and obligations of a servic
 | Common People Team Request | SLA | [DRI](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#dri) |
 | :--- | :--- | :--- |
 |Compensation Review Requests (for candidates/offers)|2 business days|[Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
-|General Recruiting Questions|1 business day|[Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway), [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew)|
-|Opening a Requisition|1 business day|[Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway), [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu)|
-|Posting a Job|2 business days|[Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway), [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu)|
-|In-take ICP & Job Description|2-4 business days|[Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway), [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu)|
-|Recruiting New Agency Support|5-7 business days|[Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway), [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu)|
-|Requesting a Recruiter Screen|1 business day|[Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway), [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu)|
+|General Recruiting Questions|1 business day|[Kellie Ritenour](https://community.mattermost.com/core/messages/kellie.ritenour), [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew)|
+|Opening a Requisition|1 business day|[Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway), [Kellie Ritenour](https://community.mattermost.com/core/messages/kellie.ritenour)|
+|Posting a Job|2 business days|[Kellie Ritenour](https://community.mattermost.com/core/messages/kellie.ritenour)
+|In-take ICP & Job Description|2-4 business days|[Kellie Ritenour](https://community.mattermost.com/core/messages/kellie.ritenour)
+|Recruiting New Agency Support|5-7 business days|[Kellie Ritenour](https://community.mattermost.com/core/messages/kellie.ritenour)
+|Requesting a Recruiter Screen|1 business day|[Kellie Ritenour](https://community.mattermost.com/core/messages/kellie.ritenour)
 |Reference Check Request|1 business day|[Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
 |Offer Letters|All Approvals given by 4 PM ET will go out same day| [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
 |General, Non-Urgent HR Questions|Response: 1 business day, Solution: within 3 business days (for non-complex issues)| [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
