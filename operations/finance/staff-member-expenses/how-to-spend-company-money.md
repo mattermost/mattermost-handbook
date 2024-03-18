@@ -133,7 +133,7 @@ The company doesn't currently provide mobile device subscriptions in a centraliz
 
 #### Hardware
 
-If you require a tablet or phone as part of your role, or you participate in an on-call rotation, you may be eligible for a Mattermost-provided phone.  Company phones are not mandatory. Personal phones for business use is an endorsed and acceptable practice, however if a company phone is preferred please follow these steps:
+If you require a tablet or phone as part of your role, or you participate in an on-call rotation, you may be eligible for a Mattermost-provided phone.  Company phones are not mandatory. Using personal phones for business is an endorsed and acceptable practice; however, if a company phone is preferred, please follow these steps:
 
 1. Get approval from your direct manager.
 2. With the your manager's approval and business justification, email IT@mattermost.com with the required device: iOS Phone/Tablet, Android Phone/Tablet, etc.
