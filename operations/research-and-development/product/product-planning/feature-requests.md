@@ -6,11 +6,11 @@ description: 'How feature requests are tracked, prioritized, and escalated.'
 
 ## Where are feature requests tracked?
 
-At Mattermost, we track feature requests in [Productboard](https://portal.productboard.com/mattermost/33-what-matters-to-you). Productboard is an internal tool used for tracking and prioritizing feature requests from our community. Customer-facing teams can add notes to productboard based on [this process](https://handbook.mattermost.com/operations/research-and-development/product/how-to-guides-for-product/how-to-use-productboard#productboard-insights-also-called-notes).
+At Mattermost, we track paid customer feature requests in [Productboard](https://portal.productboard.com/mattermost/33-what-matters-to-you). Productboard is an internal tool used for tracking and organizing customer intelligence, feedback, and requests. Customer-facing teams can add notes to Productboard based on [this process](https://handbook.mattermost.com/operations/research-and-development/product/how-to-guides-for-product/how-to-use-productboard#productboard-insights-also-called-notes).
 
-[Uservoice](https://mattermost.uservoice.com/forums/306457-general) was **previously used** to submit a request or upvote existing requests, this site will be **deprecated** in early 2023. 
+[Uservoice](https://mattermost.uservoice.com/forums/306457-general) is used for our community to submit a request or upvote existing requests.
 
-The Product Management team uses the information from our customers and community help prioritize features for the roadmap.
+The Product Management team uses the information from both our customers and community to help prioritize features for the roadmap.
 
 ## Where to share feedback?
 
