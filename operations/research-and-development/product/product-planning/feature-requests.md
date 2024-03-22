@@ -10,7 +10,7 @@ At Mattermost, we track paid customer feature requests in [Productboard](https:/
 
 [Uservoice](https://mattermost.uservoice.com/forums/306457-general) is used for our community to submit a request or upvote existing requests.
 
-The Product Management team uses the information from both our customers and community help prioritize features for the roadmap.
+The Product Management team uses the information from both our customers and community to help prioritize features for the roadmap.
 
 ## Where to share feedback?
 
