@@ -35,7 +35,9 @@ Total ARR for Company = $396,000 ($120,000 + $240,000 + $36,000)
 
 ### Bookings
 
-The ARR associated with sales transactions closed during the period. Note that Bookings and Billings are different, particularly for pro-rated contracts and multi-year contracts. Billings corresponds to the amount the customer is invoiced. 
+The ARR associated with sales transactions closed during the period. Note that Bookings and Billings are different, particularly for pro-rated contracts and multi-year contracts. Billings corresponds to the amount the customer is invoiced.
+
+For example, Customer A signs a 3 year paid upfront transaction for $300,000. For Customer A, the bookings amount would be $100,000 ($300,000/3 years = ARR of $100,000) and the billings amount would be $300,000 (what we actually invoiced the customer at time of order signing). Customer B has a contract for 100 licenses at $50/year/license for 12 months, for total ARR of $5,000. They decide to add 25 more licenses after 4 months. For Customer B, the bookings amount would be $1,250 (25 * $50/year) and the billings amount would be $833.33 (25 * $50/year * 8 remaining months/12 months total contract).
 
 ### Bug
 
