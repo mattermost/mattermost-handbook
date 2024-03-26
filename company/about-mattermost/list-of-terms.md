@@ -1,7 +1,5 @@
 # List of Terms
 
-Please also see [List of Mattermost Acronyms](https://community.mattermost.com/plugins/focalboard/workspace/orw8z8yajpd9fgxtuijq31eqkh/shared/bemqt6wf847fsdjoeobkor8ucye/v4mxkwwfzw38jicn8a1tsze8mja?r=kneszyxxkixzc45wq5ebjna15eo) for abbreviated terms.
-
 ## Current Terms
 
 The following lists current terms actively used at Mattermost. You can also see [Tombstoned Terms](list-of-terms.md#tombstoned-terms) for terms that have either been modified or deprecated. We use Tombstoned Terms to preserve links to previous definitions so clarity is maintained.
@@ -24,6 +22,21 @@ Refers to both an [As Appropriate interview](../../contributors/join-us/recruiti
 
 _Area Of Responsibility_ defines the area for which a [DRI](list-of-terms.md#dri) is accountable. The [AOR page](../../operations/operations/areas-of-responsibility.md) provides information on AORs across the company.
 
+### ARR
+
+Annual Recurring Revenue (“ARR”) is a measurement for time-limited subscription contracts. ARR normalizes contracted recurring revenue into a one year period to allow for like-kind comparisons between contracts that have differing start/end dates and/or different contract lengths. In a recurring revenue model, ARR represents the anticipated total revenue from all active contracts for the future 12 months from any measurement period. “Active” is defined as starting from customer contract signing date, not subscription start date. ARR does not include revenue from non-recurring items such as one-time setup fees or professional services.
+
+For example, total ARR from 3 separate customers would be as follows:
+
+Customer A: 6-month contract totaling $60,000. ARR = $120,000 ($60,000/6 * 12)
+Customer B: 12-month contract totaling $240,000. ARR = $240,000
+Customer C: 15-month contract totaling $45,000. ARR = $36,000 ($45,000/15 * 12)
+Total ARR for Company = $396,000 ($120,000 + $240,000 + $36,000)
+
+### Bookings
+
+The ARR associated with sales transactions closed during the period. Note that Bookings and Billings are different, particularly for pro-rated contracts and multi-year contracts. Billings corresponds to the amount the customer is invoiced. 
+
 ### Bug
 
 An obvious error in Mattermost software that is typically a code defect. Changes required to accommodate unsupported third-party software \(such as browsers or operating systems\) are not considered bugs - they are considered improvements.
@@ -32,9 +45,17 @@ An obvious error in Mattermost software that is typically a code defect. Changes
 
 _Contract Accountability Owner_ is a [DRI](list-of-terms.md#dri) for ensuring a contract meets our guidelines and standards ahead of final approval by [a company signatory](../../operations/operations/company-processes/company-agreements.md#who-can-sign-on-behalf-of-the-company). Also see [listing of CAOs](../../operations/operations/company-processes/company-agreements.md#who-are-contract-accountability-owners-caos).
 
+### Churn
+
+When an existing customer completely cancels and is no longer a continuing customer. Dollar value of ARR is $0 after the reduction.
+
 ### COM
 
 COM is short for [Customer Obsession Meeting](https://docs.mattermost.com/process/training.html?#customer-obsession-all-hands-meeting), which is our “All Hands” meeting focused on how we’re aligning the company to serve our customers.
+
+### Contraction
+
+When an existing customer decreases the dollar value of their ARR, either by decreasing the number of licenses, decreasing the number of products and/or the discounting being applied is increased. Note that the decrease is classified as “contraction” if there is still some amount of ARR remaining after the reduction.
 
 ### Country/Region
 
@@ -48,6 +69,10 @@ Collapsed Reply Threads \(CRT\) is a Mattermost Messaging feature available in b
 
 Core committers are staff or community developers with the responsibility to contribute and review Mattermost source code.
 
+### CSM
+
+Customer Success Management function at Mattermost responsible for retaining customer revenue, with quarterly & annual targets, including customer relationship management, executive relationships, and quarterly business reviews.
+
 ### Customer
 
 The primary external audience we are focused on for an initiative, which could be an end user without budget \(if our goal is adoption and engagement\) or a buyer \(if our objective for the initiative is revenue\). A customer does not include internal staff, since staff are not external.
@@ -59,6 +84,10 @@ The act of using non-web-discoverable formats \(Mattermost channels requiring lo
 Example: Giving someone instructions on how to set up Okta for MFA on the community server in a DM rather than writing it into a handbook entry for all new staff to use and re-use.
 
 Dark actions create [false openness](list-of-terms.md#false-openness). [Open actions](list-of-terms.md#open-actions) are highly preferred.
+
+### DE
+
+Deployment Engineering function at Mattermost responsible for accelerating seats deployed at $50K+ accounts, focusing on single customer pain points & needs by working directly with customers in partnership with post-sales and revenue retention teams, and providing expertise on how to run and deploy Mattermost and the platform as a whole.
 
 ### Dead Tarzan
 
@@ -84,6 +113,10 @@ _Directly Responsible Individual_ means a human individual who is accountable fo
 
 “Extended Support Release”, a version of Mattermost maintained for a longer period of time that will receive security fixes.
 
+### Expansion
+
+When an existing customer increases the dollar value of their ARR, either by adding licenses, adding additional products and/or reducing the discount being applied.
+
 ### Expert Mode
 
 Expert Mode \(also known as "Crimson Force Field"\) is when documentation or on-screen text is written for someone with considerable knowledge or expertise, instead of being designed for a new learner. In general, try to state things simply rather than speaking to just the “experts” reading the text.
@@ -94,9 +127,25 @@ If something is extremely difficult to understand, and yet still justified in th
 
 Keeping non-sensitive information that would be helpful for staff and community to know out of public web search through the use of dark actions. Often false openness is unintentional, though after staff members are educated on the topic and empowered to use [open actions](list-of-terms.md#open-actions), continued use of [dark actions](list-of-terms.md#dark-actions) would appear to be deliberate.
 
+### FF
+
+Fast Futures function at Mattermost responsible for prototyping and validating enterprise customer needs ahead of product engineering investment, which was the approach applied to Calls, MS Teams and OpenOps prior to adding the functionality to the mainstream roadmap.  
+
 ### GNN
 
 A status update format that is split into three categories: Going Well, Not Going Well, Next Actions. Read more about [GNNs here](../../operations/operations/company-cadence.md#gnn-updates).
+
+### Gross Margin (“GM”)-Weighted Magic Number
+
+A measurement to determine sales efficiency. The GM-Weighted Magic Number is determined by taking the Net Change in ARR for the Period (or New Logo & Expansion ARR in the period less Churn & Contraction) times the Gross Margin percentage, divided by total Sales & Marketing spend in the prior period. This metric attempts to quantify how much Sales & Marketing spend is required to generate ARR.
+
+### Gross Margin & Gross Margin %
+
+Gross Margin is determined by taking Revenue less Cost of Goods Sold (“COGS” or “COS”). COGS or COS are the direct costs associated with delivering the product or service to existing customers (e.g. cost of Success, Support, hosting costs, etc.). Gross Margin % is calculated by taking Gross Margin and dividing by Revenue.
+
+### Gross Revenue Retention
+
+A measurement that attempts to quantify how well a company retains its existing customers. Gross Revenue Retention (“GRR”) is calculated by taking Beginning Balance ARR less Churn/Contraction and dividing by Beginning Balance ARR. Because both New Logo ARR and Expansion ARR are excluded from this calculation, this value cannot exceed 100%.
 
 ### HW - Help Wanted
 
@@ -136,9 +185,23 @@ Every code change added has an initial and on-going mana cost in technical debt,
 
 The “Mattermost Leadership Team”, senior leadership team and department heads working with the CEO in [MLT meetings and offsites](../../operations/operations/mlt-cadence/).
 
+### MME
+
+A customer that is any Midmarket ("MM") or Enterprise ("E") organization, including public sector, with 2,500 employees or more, buying a Mattermost subscription that's not on a non-profit or educational discount.
+
 ### MOR
 
 Monthly Operating Review. A monthly review of operations from each department including a GNN and metrics.
+
+### MQL
+
+A Marketing Qualified Lead refers to a prospect deemed to have a higher likelihood of becoming a paying customer based on their marketing activities, e.g. certain website activities (content downloads, etc), trial activations, demo or quote requests, and more.
+
+### Net Dollar Retention
+
+A measurement that attempts to quantify the ability to both retain and grow our existing customers. Net Dollar Retention (“NDR” or Net Revenue Retention “NRR”) is calculated by taking Beginning Balance ARR + Expansion ARR - Churn/Contraction and dividing by Beginning Balance ARR. Because NDR includes the impact of Expansion ARR, this value can exceed 100%. NDR does not include the impact of New Logo ARR. This measurement is typically favored by investors.
+
+Both GRR and NDR are typically presented on an annual basis, using a static Beginning Balance at the beginning of the year. For annual presentation, this number represents total Churn/Contraction for the year divided by the beginning balance of ARR at the start of the year. For mid-year discussion and presentation, this number represents total Churn/Contraction for the period (e.g. first half) divided by the beginning balance of ARR at the start of the year. It is important to note that annual churn will naturally present lower than mid-year churn, using this method, due to the fact that the numerator is changing but the denominator is not. 
 
 ### Nerfs and Buffs
 
@@ -156,17 +219,41 @@ Here we want to buff asynchronous communication by focusing review on asynchrono
 
 Culture is the set of behaviors that are nerfed and buffed. As a remote-first culture, we want to buff behavior that promotes asynchronous communication and remote work. We want to nerf behavior that creates unnecessary synchronous meetings.
 
+### New Logo Sale
+
+A standard sale with a customer that has never previously purchased any kind of product or service from Mattermost, either directly or indirectly through a purchase by an affiliate on the customer’s behalf. A sale shall be deemed to be a New Logo Sale even if one of customer's affiliates is already a customer of Mattermost so long as (a) the entity making the purchase has never itself previously made a purchase or has had a purchase made on its behalf, and (b) the new sale is either a purchase of a license key to a new Self-Hosted server independent from other Mattermost installs or a purchase of a subscription to a new Cloud workspace independent from other Mattermost workspaces. 
+
 ### Open Actions
 
 Term for publicly documenting information in a web-discoverable format \(GitHub Issue, Staff Handbook entry, forum post, etc.\) prior to sharing guidance to staff and community members. We prefer open actions to [dark actions](list-of-terms.md#dark-actions).
+
+### PE
+
+Product Engineering function at Mattermost responsible for the software architecture, design and development of the product focused on delivering high quality, reliably built and maintained features, systems and improvements applicable to the broad range of ideal customers.
+
+### PgM
+
+Program Management function at Mattermost responsible for leading and executing key cross-functional programs, working with cross-departmental stakeholders to increase operational efficiency and accelerate alignment towards customer and company objectives.
+
+### PO
+
+Product Operations function at Mattermost responsible for infrastructure engineering and customer reliability engineering. 
 
 ### PTO
 
 _Paid Time Off_ is time away from work paid for by the company to staff, including holidays, vacations, and approved leaves of absence. See [PTO](../../operations/workplace/people/working-at-mattermost/paid-time-off/).
 
+### Renewal Success Rate
+
+A comparison of the actual dollar value renewed compared to the total dollar value of contracts up for renewal in the period. This measurement attempts to quantify the “success rate” of renewals scheduled in the period, and cannot exceed 100%. Unlike GRR or NDR, this measurement excludes the impact of any multi-year contracts that are not up for renewal in the period.
+
 ### RHS
 
 The “Right-Hand Sidebar” in the Mattermost team site, used for navigation.
+
+### SAL
+
+A Sales Accepted Lead refers to a prospect that a Sales team has spoken to either in-person (e.g. tradeshow, conference, dinner), or remotely (phone call, video call), and validated the prospect has a legitimate potential to convert to a paying customer.
 
 ### Spinmint
 
@@ -179,6 +266,10 @@ New test servers that use the cloud infrastructure and can be spun up on pull re
 ### SOM
 
 Standard Operating Metrics are metrics tracked monthly by each department as indicators for operating health and status.
+
+### TAM
+
+Technical Account Management function at Mattermost responsible for retaining & expanding customer revenue, including technical adoption & bottlenecks, technical onboarding, issue coordination and escalation.
 
 ### Tombstoned
 
