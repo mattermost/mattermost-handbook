@@ -26,9 +26,16 @@ _Area Of Responsibility_ defines the area for which a [DRI](list-of-terms.md#dri
 
 Annual Recurring Revenue (“ARR”) is a measurement for time-limited subscription contracts. ARR normalizes contracted recurring revenue into a one year period to allow for like-kind comparisons between contracts that have differing start/end dates and/or different contract lengths. In a recurring revenue model, ARR represents the anticipated total revenue from all active contracts for the future 12 months from any measurement period. “Active” is defined as starting from customer contract signing date, not subscription start date. ARR does not include revenue from non-recurring items such as one-time setup fees or professional services.
 
+For example, total ARR from 3 separate customers would be as follows:
+
+Customer A: 6-month contract totaling $60,000. ARR = $120,000 ($60,000/6 * 12)
+Customer B: 12-month contract totaling $240,000. ARR = $240,000
+Customer C: 15-month contract totaling $45,000. ARR = $36,000 ($45,000/15 * 12)
+Total ARR for Company = $396,000 ($120,000 + $240,000 + $36,000)
+
 ### Bookings
 
-the ARR associated with sales transactions closed during the period. Note that Bookings and Billings are different, particularly for pro-rated contracts and multi-year contracts. Billings corresponds to the amount the customer is invoiced. 
+The ARR associated with sales transactions closed during the period. Note that Bookings and Billings are different, particularly for pro-rated contracts and multi-year contracts. Billings corresponds to the amount the customer is invoiced. 
 
 ### Bug
 
