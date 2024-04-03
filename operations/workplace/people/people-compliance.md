@@ -47,6 +47,10 @@ Mattermost is required by US federal regulations to maintain certain demographic
 
 * [Employee Rights under the NLRA Notice](https://www.dol.gov/sites/dolgov/files/olms/regs/compliance/eo_posters/employeerightsposter11x17_2019final.pdf)
 
+### E-Verify Participation
+
+* [E-verify Participation Poster](https://www.e-verify.gov/sites/default/files/everify/posters/EVerifyParticipationPoster.pdf)
+
 ### Whistleblower Protection Notices 
 
 Notices for US States
