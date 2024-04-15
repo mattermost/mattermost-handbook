@@ -19,16 +19,16 @@ The Mattermost logo is available in vertical, horizontal, and logomark-only vers
 
 **Horizontal Logo:** Min size 100x16px
 
-| ![](../../../../../.gitbook/assets/Mattermost_logo_horizontal_black.png) | | <span style="color:#000"> ![](../../../../../.gitbook/assets/Mattermost_logo_horizontal_white.png) </span>
+| ![Mattermost Horizontal Logo Black](../../../../../.gitbook/assets/Mattermost_logo_horizontal_black.png) | | <span style="color:#000"> ![Mattermost Horizontal Logo White](../../../../../.gitbook/assets/Mattermost_logo_horizontal_white.png) </span>
 
 
 **Vertical Logo:** Min size 70x39px
 
-| ![](../../../../../.gitbook/assets/Mattermost_logo_vertical_black.png) | | <span style="color:#000"> ![](../../../../../.gitbook/assets/Mattermost_logo_vertical_white.png) </span> |
+| ![Mattermost Vertical Logo Black](../../../../../.gitbook/assets/Mattermost_logo_vertical_black.png) | | <span style="color:#000"> ![Mattermost Vertical Logo White](../../../../../.gitbook/assets/Mattermost_logo_vertical_white.png) </span> |
 
 **Logomark:** Min size 16x16px
 
-![](../../../../../.gitbook/assets/icon.svg)
+![Mattermost logomark](../../../../../.gitbook/assets/icon.svg)
 
 ### Usage guidelines
 
