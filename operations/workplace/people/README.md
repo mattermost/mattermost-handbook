@@ -104,23 +104,24 @@ If you would like a letter confirming traveling insurance when traveling on beha
 > * For ‘fixed fee’ contracts, it is fine to send invoice before the time period covered. Example: An invoice for services April 1-30 can be sent on April 25.
 > * Your manager should reply on the email with any feedback on the invoice.
 
-### BambooHR
+### Rippling
 
-BambooHR is our Human Resources Information System \(HRIS\). BambooHR is a single source of truth for staff information, and data updates are supported by the following [directly responsible individuals](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#dri):
+Rippling is our Human Resources Information System \(HRIS\). Rippling is a single source of truth for staff information, and data updates are supported by the following [directly responsible individuals](https://handbook.mattermost.com/company/about-mattermost/list-of-terms#dri):
 
-> * The People team uses BambooHR to store and update staff job information, records and important documents, for HR reporting and analytics, and to create new hire onboarding and offboarding workflows.
-> * Staff use BambooHR to update their personal and emergency contact information, to submit their PTO, and to reference the organizational chart and staff directory.
-> * Managers use BambooHR to approve their team's PTO, receive onboarding/offboarding notifications, approve appropriate changes for their team and/or direct reports. Note: managers will receive requests via a BambooHR notification sent to a Manager's Mattermost email address. Managers can click through the email notification to approve or approve directly in BambooHR. 
+> * The People team uses Rippling to store and update staff job information, records and important documents, for HR reporting and analytics, and to create new hire onboarding and offboarding workflows.
+> * Staff use Rippling to update their personal and emergency contact information, to submit their PTO, and to reference the organizational chart and staff directory.
+> * Managers use Rippling to approve their team's PTO, receive onboarding/offboarding notifications, approve appropriate changes for their team and/or direct reports. Note: managers will receive requests via a Rippling notification sent to a Manager's Mattermost email address. Managers can click through the email notification to approve or approve directly in Rippling. 
 > * Executive Assistants \(EAs\) are able to update personal information for the MlT team members they support, and to be vacation-ready any appropriate back-up EAs will be able to update personal information as-needed. 
-> * To access the system go to [https://mattermost.bamboohr.com/](https://mattermost.bamboohr.com/) and use your Mattermost credentials to log in.
+
 
 Resources: How-to for Staff Members
 
->   * [Update your information](https://help.bamboohr.com/hc/en-us/sections/206084487-Managing-Your-Information)
->   * [View the Company Directory and Org Chart](https://help.bamboohr.com/hc/en-us/articles/216836007)
->   * [Request Time Off](https://help.bamboohr.com/hc/en-us/articles/360052355912-Request-Time-Off)
->   * [Employee Access Manual](https://help.bamboohr.com/hc/en-us/articles/227321928-Employee-Access-Manual)
-
+>   * [Update your personal information](https://help.rippling.com/s/article/360056304093)
+>   * [View the Company Directory and Org Chart](https://help.rippling.com/s/article/550274934446)
+>   * [Request Time Off]((https://help.rippling.com/s/article/360056299373)
+>   * [Review Time Off Requests as a Manager](https://help.rippling.com/s/article/360054481614)
+>   * [View Holiday Calendar](https://help.rippling.com/s/article/79056240584)
+>   * 
 ### Lattice
 
 > * Lattice is our Engagement and Performance Platform.
