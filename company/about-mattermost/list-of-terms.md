@@ -257,6 +257,12 @@ The “Right-Hand Sidebar” in the Mattermost team site, used for navigation.
 
 A Sales Accepted Lead refers to a prospect that a Sales team has spoken to either in-person (e.g. tradeshow, conference, dinner), or remotely (phone call, video call), and validated the prospect has a legitimate potential to convert to a paying customer.
 
+### SBIR
+
+A Small Business Innovation Research (or SBIR) program funded by the U.S. government to accelerate technology innovation in partnership with small businesses. Funding takes the form of contracts or grants. The recipient projects must have the potential for commercialization and must meet specific U.S. government R&D needs. 
+
+The program includes Phase 1 SBIRs (concepts with no development work), Phase 2 SBIRs (development work to create a prototype with a potential for commercialization), as well as larger contracts via TACFI, STRATFI and more: https://afwerx.com/divisions/afventures/stratfi-tacfi/
+
 ### Spinmint
 
 Spinmint refers to our first generation of automated infrastructure to spin up test servers to evaluate pull requests. The word "spin" comes from the original name of our company, "Spinpunch, Inc." \(before we became \("Mattermost, Inc."\) and the word "mint" as a short, unambiguous, easy-to-spell name referring to a [factory method pattern](https://en.wikipedia.org/wiki/Factory_method_pattern).
