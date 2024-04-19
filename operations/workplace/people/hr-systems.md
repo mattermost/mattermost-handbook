@@ -1,28 +1,27 @@
 # HR Systems
 
-[BambooHR](https://mattermost.bamboohr.com/home/) is our Human Resources Information System \(HRIS\).
+[Rippling](https://help.rippling.com/s/topic/0TO4o000000HsoAGAS/employee-resources) is our Human Resources Information System \(HRIS\).
 
-The People Ops team uses BambooHR to store staff information, records and important documents for HR reporting and analytics, and to organize new hire onboarding and offboarding workflows. Staff use BambooHR to update their personal and emergency contact information, and to reference the organizational chart and staff directory.
+The People Ops team uses Rippling to store staff information, records and important documents for HR reporting and analytics, and to organize new hire onboarding and offboarding workflows. Staff use Rippling to update their personal and emergency contact information, and to reference the organizational chart and staff directory.
 
-## Updating BambooHR
+## Updating Rippling
 
-The People Ops team will update staff information as it relates to compensation changes, promotions or transfers, new hires, and terminations. For other changes, managers should initiate a change request in BambooHR directly. Reach out to [HR](https://handbook.mattermost.com/operations/workplace/people#team) if you have any questions.
+The People Ops team will update staff information as it relates to compensation changes, promotions or transfers, new hires, and terminations. For other changes, managers should initiate a change request in Rippling directly. Reach out to [HR](https://handbook.mattermost.com/operations/workplace/people#team) if you have any questions.
 
-**BambooHR fields that Managers can update**
+**Rippling fields that Managers can update**
 
 * **Job title**
-* **Department** This will be the internal team. For example, a Product Manager's Department is "R&D" and their team would be "Product Management."
+* **Department** 
 * **Reports To** This field is typically updated as part of other processes, onboarding, offboarding, etc.
 * **Location** See [People Manager Approvals](https://handbook.mattermost.com/contributors/onboarding/manager-onboarding-1#people-manager-approvals) ahead of requesting this change.
+* Any job information updates made by managers for a team member will be sent for approval through Rippling (Manager's Manager > Team MLT > People Team). 
 
-**How to update BambooHR \(for Managers\)**
+**How to update Rippling \(for Managers\)**
 
-1. Log into [BambooHR](https://mattermost.bamboohr.com/login).
+1. Log into Rippling.
 2. Go to the profile of the person you'd like to update.
-3. In the top left part of the screen hover over **Request a Change** and select **Job Information**.
-4. Enter the updated information and leave any other data listed as-is.
-5. The effective date will automatically populate the current date. 
-6. If you're updating Department information, please use the first of the following month as the effective date. For example: If you're updating information on July 14th, 2020, please use an effective date of August 1, 2020. If this is an issue, please post the issue in the \[Ask the People Team\] \([https://community.mattermost.com/private-core/channels/ask-people-team](https://community.mattermost.com/private-core/channels/ask-people-team)\) channel. The change date affects Financial Reporting in Netsuite, if the issue requires Finance approval the HR Team will tag the appropriate DRI in channel.
+3. Click **Edit** on the Role **Information** and/or **Custom Fields** section of the profile. You will be prompted to confirm the change and select the effective date.
+4. If you're updating Department information, please use the first of the following month as the effective date. For example: If you're updating information on July 14th, 2024, please use an effective date of August 1, 2024. If this is an issue, please post the issue in the \[Ask the People Team\] \([https://community.mattermost.com/private-core/channels/ask-people-team](https://community.mattermost.com/private-core/channels/ask-people-team)\) channel. The change date affects Financial Reporting in Netsuite. If the issue requires Finance approval, the HR Team will tag the appropriate DRI in channel.
 
 ## Shared Google Drive
 
