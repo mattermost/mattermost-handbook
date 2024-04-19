@@ -21,7 +21,7 @@ The People Ops team will update staff information as it relates to compensation 
 1. Log into Rippling.
 2. Go to the profile of the person you'd like to update.
 3. Click **Edit** on the Role **Information** and/or **Custom Fields** section of the profile. You will be prompted to confirm the change and select the effective date.
-4. If you're updating Department information, please use the first of the following month as the effective date. For example: If you're updating information on July 14th, 2024, please use an effective date of August 1, 2024. If this is an issue, please post the issue in the \[Ask the People Team\] \([https://community.mattermost.com/private-core/channels/ask-people-team](https://community.mattermost.com/private-core/channels/ask-people-team)\) channel. The change date affects Financial Reporting in Netsuite, if the issue requires Finance approval the HR Team will tag the appropriate DRI in channel.
+4. If you're updating Department information, please use the first of the following month as the effective date. For example: If you're updating information on July 14th, 2024, please use an effective date of August 1, 2024. If this is an issue, please post the issue in the \[Ask the People Team\] \([https://community.mattermost.com/private-core/channels/ask-people-team](https://community.mattermost.com/private-core/channels/ask-people-team)\) channel. The change date affects Financial Reporting in Netsuite. If the issue requires Finance approval, the HR Team will tag the appropriate DRI in channel.
 
 ## Shared Google Drive
 
