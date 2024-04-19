@@ -111,7 +111,7 @@ Rippling is our Human Resources Information System \(HRIS\). Rippling is a singl
 > * The People team uses Rippling to store and update staff job information, records and important documents, for HR reporting and analytics, and to create new hire onboarding and offboarding workflows.
 > * Staff use Rippling to update their personal and emergency contact information, to submit their PTO, and to reference the organizational chart and staff directory.
 > * Managers use Rippling to approve their team's PTO, receive onboarding/offboarding notifications, approve appropriate changes for their team and/or direct reports. Note: managers will receive requests via a Rippling notification sent to a Manager's Mattermost email address. Managers can click through the email notification to approve or approve directly in Rippling. 
-> * Executive Assistants \(EAs\) are able to update personal information for the MlT team members they support, and to be vacation-ready any appropriate back-up EAs will be able to update personal information as-needed. 
+> * Executive Assistants \(EAs\) are able to update personal information for the MlT team members they support, and to be vacation-ready as appropriate back-up EAs will be able to update personal information as-needed. 
 
 
 Resources: How-to for Staff Members
