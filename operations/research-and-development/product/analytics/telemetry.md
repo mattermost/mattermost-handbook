@@ -8,7 +8,6 @@ Telemetry is essential for tracking product usage, quickly identifying problems,
 
 To collect telemetry, we are using [RudderStack](https://rudderstack.com/) which is then pushed to [Snowflake](https://www.snowflake.com/). You can read more about our Data Engineering infrastructure at [Data Engineering](https://handbook.mattermost.com/operations/research-and-development/engineering/data-engineering).
 
-## [The Telemetry Handbook](https://docs.google.com/document/d/1CJeMFxnwUq8njKd3S3zxnfqrwUz8zNDsTmUAYqgy_uo/edit?usp=sharing)
+## [The Telemetry Handbook](https://mattermost.atlassian.net/wiki/spaces/DATAENG/pages/2729639944/Telemetry+Handbook)
 
 We have created this handbook to ensure we collect useful telemetry from all sources. This handbook is the guideline for how to implement telemetry, both from the perspective of Product Managers and the engineers doing the actual implementation.
-
