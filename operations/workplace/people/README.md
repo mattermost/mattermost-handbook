@@ -118,7 +118,7 @@ Resources: How-to for Staff Members
 
 >   * [Update your personal information](https://help.rippling.com/s/article/360056304093)
 >   * [View the Company Directory and Org Chart](https://help.rippling.com/s/article/550274934446)
->   * [Request Time Off]((https://help.rippling.com/s/article/360056299373)
+>   * [Request Time Off](https://help.rippling.com/s/article/360056299373)
 >   * [Review Time Off Requests as a Manager](https://help.rippling.com/s/article/360054481614)
 >   * [View Holiday Calendar](https://help.rippling.com/s/article/79056240584)
 >   * 
