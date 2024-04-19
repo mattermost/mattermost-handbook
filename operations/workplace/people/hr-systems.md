@@ -14,7 +14,7 @@ The People Ops team will update staff information as it relates to compensation 
 * **Department** 
 * **Reports To** This field is typically updated as part of other processes, onboarding, offboarding, etc.
 * **Location** See [People Manager Approvals](https://handbook.mattermost.com/contributors/onboarding/manager-onboarding-1#people-manager-approvals) ahead of requesting this change.
-* Any job information updates made my managers for a team member will be sent for approval through Rippling (Manager's Manager > Team MLT > People Team). 
+* Any job information updates made by managers for a team member will be sent for approval through Rippling (Manager's Manager > Team MLT > People Team). 
 
 **How to update Rippling \(for Managers\)**
 
