@@ -42,11 +42,11 @@ MVP-like contributors:
 
 ## Quarterly check-ins
 
-The goal of quarterly check-ins is to ensure organizational and program alignment, contributor satisfaction, support, empowerment, as well as participant retention. Continued sponsorship will be reviewed quarterly, and align with the end of Mattermost fiscal year quarters: April, July, October, and January.
+All sponsorship participants are expected to participate in quarterly check-ins with the program lead. Check-ins can occur asychronously on the Mattermost Community Server, or scheduled as a live meeting using Zoom. The goal of quarterly check-ins is to ensure organizational and program alignment, contributor satisfaction, support, empowerment, as well as participant retention. Continued sponsorship will be reviewed quarterly, and align with the end of Mattermost fiscal year quarters: April, July, October, and January. Sponsorship will be paused following 3 consecutive months of inactivity, disengagement, or failing to respond to check-in requests.
 
 During quarterly check-ins:
 - Participants meet with the program lead to share their program feedback on what’s going well, what’s not going well, and any blockers encountered.  
-- Internal team members who work closely with participants share performance feedback.
+- Internal team members working closely with participants share contextual performance feedback with the program lead.
 
 ## Notes
 
