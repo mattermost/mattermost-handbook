@@ -18,10 +18,8 @@ Email:
 
 ### Product Security
 
-* Juho Nurminen, Staff Product Security Engineer
-* Ossi Vaananen, Senior Product Security Engineer
-* Rohitesh Gupta, Product Security Engineer II
-
+* Eva Sarafianou, Product Security Engineering Lead
+* Juho Forsén, Staff Product Security Engineer
 
 ### Security Operations
 
