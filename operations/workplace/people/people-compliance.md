@@ -118,3 +118,6 @@ Sick Leave Posters for US states/cities
 ### Paid Leave Posters for US States/Cities
 
 * [Washington Paid Leave Poster](https://paidleave.wa.gov/app/uploads/2023/10/2024-Paid-Leave-Required-Poster.pdf)
+
+### San Francisco Health Care Security Ordinance 
+* [2024 HCSO Poster](https://www.sf.gov/sites/default/files/2024-04/2024%20HCSO%20poster%20updated%208.5x14_April2024.pdf)
