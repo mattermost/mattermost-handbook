@@ -1,6 +1,6 @@
 ---
 description: >-
-  70% complete. This guide, along with all our guides, is a work-in-progress and
+  80% complete. This guide, along with all our guides, is a work-in-progress and
   iterates as we consider new data and frameworks.
 ---
 
@@ -16,14 +16,11 @@ Mattermost is enrolled in The United PassPlus for Business program. This is a pr
 
 ### Making reservations
 
-When booking reservations via United PassPlus, you have two options:
+When booking reservations via United PassPlus:
 
 1. Manage your own reservation\(s\)
-2. Work directly with the Travel Team to help reserve your flights
 
-If you are working with the Travel Team, please complete the following information gathering [Form](https://docs.google.com/forms/d/10gGN9sj85HGp7PYoB-QHREEs7X0aF6rKYl7KxLFACO8/viewform?edit_requested=true). Please direct all travel related questions on the form.
-
-If handling your reservations, please follow the step by step instructions under [**United PassPlus Instructions**](https://docs.google.com/document/d/13rzgOBPWDo8nRq5AfEUF2GTPiA1wsY6jZYFNQKvxQSk/edit?usp=sharing) Should you need help with reservations, please call the following numbers: 800-727-7752 or 313-234-6903.
+Please follow the step by step instructions under [**United PassPlus Instructions**](https://docs.google.com/document/d/13rzgOBPWDo8nRq5AfEUF2GTPiA1wsY6jZYFNQKvxQSk/edit?usp=sharing) Should you need help with reservations, please call the following numbers: 800-727-7752 or 313-234-6903.
 
 The United PassPlus Account can be used to book fares on all Star Alliance carriers. Simply use the details in the UATP Instructions as a credit card. If you run into issues, please reach out to Hanna Park (@hanna.park) or Amy Nicol (@amy.nicol).
 
