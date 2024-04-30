@@ -49,4 +49,40 @@ Note: If you are taking [Pregnancy](../leaves-of-absence/pregnancy-leave.md) or 
 
 Please take off holidays relevant to your culture, resident [country/region](../../../../../company/about-mattermost/list-of-terms.md#country-region), and preferences. When doing so, please follow the time off process in [Communicating Time Off](./#communicating-time-off).
 
+### Typical public holidays in our entities and EOR locations- Australia, Canada, Germany, Sweden, UK, and US
 
+We have entities and EOR locations in Australia, Canada, Germany, Sweden, UK, and US, so below are holidays we’re expecting people from those countries to take off. Please see [Communicating Time Off](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#communicating-time-off)*
+
+**Entity and EOR locations holidays for 2024**
+
+* New Year’s Day \(All\) \(1/01/2024\)
+* MLK Jr. Day \(US\) \(1/15/2024\)
+* Australia Day \(Australia\) \(1/26/2024\)
+* Family Day/Islander Day \(Canada\) \(2/19/2024\)
+* Good Friday \(Australia Canada, Germany, Sweden, UK\) \(3/29/2024\)
+* Easter Monday \(Australia, Germany, Sweden, UK\) \(4/01/2024\)
+* Anzac Day \(Australia\) \(4/25/2024\)
+* Labour Day \(Germany, Sweden\) \(5/01/2024\)
+* Early May Bank Holiday \(UK\) \(5/06/2024\)
+* Ascension Day \(Germany, Sweden\) \(5/09/2024\)
+* Whit Monday \(Germany\) \(5/20/2024\)
+* Victoria Day \(Canada\) \(5/20/2024\)
+* Memorial Day \(US\) \(5/27/2024\)
+* Spring Bank Holiday \(UK\) \(5/27/2024\)
+* National Day \(Sweden\) \(6/06/2024\)
+* Midsummer Day \(Sweden\) \(6/24/2024\)
+* Canada Day \(Canada\) \(7/01/2024\)
+* Independence Day \(US\) \(7/04/2024\)
+* Civic Holiday/Provincial Day \(Canada: AB, BC, ON\) \(8/05/2024\)
+* Summer Bank Holiday \(UK\) \(8/26/2024\)
+* Labor Day \(US, Canada\) \(9/02/2024\)
+* Truth and Reconciliation Day \(Canada: BC, PEI\) \(9/30/2024\)
+* Day of German Unity \(Germany\) \(10/03/2024\)
+* Labour Day \(Australia\) \(10/07/2024\)
+* Thanksgiving \(Canada\) \(10/14/2024\)
+* Remembrance Day \(Canada: AB, BC, PEI\) \(11/11/2024\)
+* Thanksgiving \(US\) \(11/28/2024\)
+* Christmas Day \(All\) \(12/25/2024\)
+* Boxing Day \(Australia, Canada, Germany, Sweden, UK\)\(12/26/2024\)
+
+It’s up to meeting chairs to decide whether to reschedule if few people can attend \(e.g. if a large number of staff will not be attending the meeting\).
