@@ -119,7 +119,6 @@ It’s up to meeting chairs to decide whether to reschedule if few people can at
 
 * New Year’s Day \(All\) \(1/01/2024\)
 * MLK Jr. Day \(US\) \(1/15/2024\)
-* Australia Day \(Australia\) \(1/26/2024\)
 * Family Day/Islander Day \(Canada\) \(2/19/2024\)
 * Good Friday \(Australia Canada, Germany, Sweden, UK\) \(3/29/2024\)
 * Easter Monday \(Australia, Germany, Sweden, UK\) \(4/01/2024\)
