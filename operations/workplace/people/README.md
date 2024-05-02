@@ -26,7 +26,7 @@ Description: >-
 | Canada Benefits | [Loc: Canada](https://community.mattermost.com/private-core/channels/loc-canada) | [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
 | General HR Questions | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) (Non-Confidential) and HR@mattermost.com (Confidential)| [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)|
 |Recruiting | [Kellie Ritenour](https://community.mattermost.com/core/messages/kellie.ritenour) (Non-Confidential) | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway), [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew)
-| Workplace Program Questions & Updates | Questions: [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team), Email: hr@mattermost.com, Updates: [Social: Workplace Programs](https://community.mattermost.com/private-core/channels/social) or [Workplace Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_dsmc65gm71b4imq1gkfk5qkrv4@group.calendar.google.com&ctz=America/New_York) (Found on the BambooHR Homepage under "Company Links" |[Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) |
+| Workplace Program Questions & Updates | Questions: [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team), Email: hr@mattermost.com, Updates: [Social: Workplace Programs](https://community.mattermost.com/private-core/channels/social) or [Workplace Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_dsmc65gm71b4imq1gkfk5qkrv4@group.calendar.google.com&ctz=America/New_York) (Found on the Rippling Feed page under "Resources" |[Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) |
 | Total Rewards | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) | [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) |
 
 ## People Team SLAs
@@ -57,7 +57,7 @@ An SLA is an agreement that details the expectations and obligations of a servic
 
 ## Important Note
 
-* **DO NOT share confidential HR information in the** [**Mattermost Community server**](http://community.mattermost.com), as it runs pre-production releases of Mattermost software and occasionally requires debugging of data stores. Use [BambooHR](https://mattermost.bamboohr.com/) to handle passport information, ID numbers, and other sensitive data. HR issues \(e.g. health, extenuating circumstances, etc.\) should be discussed in @mattermost.com emails only.
+* **DO NOT share confidential HR information in the** [**Mattermost Community server**](http://community.mattermost.com), as it runs pre-production releases of Mattermost software and occasionally requires debugging of data stores. Use [Rippling](app.rippling.com) to handle passport information, ID numbers, and other sensitive data. HR issues \(e.g. health, extenuating circumstances, etc.\) should be discussed in @mattermost.com emails only.
 
 ## General Information
 
