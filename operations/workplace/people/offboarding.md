@@ -2,7 +2,7 @@
 
 ## Instructions for managers
 
-1. Forward staff member's resignation letter/email to MLT member and HR hr@mattermost.com. The resignation letter/email will be stored in BambooHR.
+1. Forward staff member's resignation letter/email to MLT member and HR hr@mattermost.com. The resignation letter/email will be stored in Rippling.
 
    **Note:** A resignation letter/email is required from departing staff. In most cases and depending upon the statutory requirements in the staff member’s country/region, a minimum of two weeks' notice is required for voluntary departures.
 
@@ -30,13 +30,13 @@ HR will reach out to the departing staff member to communicate last day instruct
 
 ## Instructions for departing team members
 
-1. Forward your resignation letter/email to MLT member and HR hr@mattermost.com. The resignation letter/email will be stored in BambooHR.
+1. Forward your resignation letter/email to MLT member and HR hr@mattermost.com. The resignation letter/email will be stored in Rippling.
 
    **Note:** A resignation letter/email is required from departing staff. In most cases and depending upon the statutory requirements in the staff member’s country/region, a minimum of two weeks' notice is required for voluntary departures.
 
 2. Work with your Manager to develop a transition plan, [Communication Plan](https://handbook.mattermost.com/operations/workplace/people/offboarding#plan-for-transition), and [Communication Timeline](https://handbook.mattermost.com/operations/workplace/people/offboarding#communicating-departures). We encourage team members to [make meaningful connections](https://handbook.mattermost.com/contributors/join-us/recruiting#4-make-meaningful-connections) and encourage departing team members to say goodbye to peers, or optionally post in the [Stand-up Channel](https://community.mattermost.com/private-core/channels/stand-up). We just ask to align with your Manager on timeline of messaging so that direct teammates or working groups can be informed with an adequate plan ahead of departure.
 3. Share feedback \(optional\). Input is highly encouraged and helps the People team understand [likes and wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes) as they relate to your experience at Mattermost and helps identify opportunities to improve.
-   * **Exit Survey:** All departing staff will receive an Exit Survey feedback request through Lattice. The survey link will be sent via email after the termination date is recorded in BambooHR.
+   * **Exit Survey:** All departing staff will receive an Exit Survey feedback request through Lattice. The survey link will be sent via email after the termination date is recorded in Rippling.
    * **Exit interview with HR:** Staff who leave on a voluntary basis will be invited to share feedback on their Mattermost experience in an exit interview with HR. The results of the exit interview will be shared with the departing team member’s manager and MLT. You may keep all or parts of your feedback confidential - as long as it does not involve matters that legally require additional action by the HR team. While exit interviews are not mandatory, we greatly appreciate your feedback about what is going well and what can be improved to continue making Mattermost a great place to work.
 4. Equipment. Staff members have the option to buy back their existing hardware when they are offboarding. Refer to the [Hardware Buy Back Policy](https://handbook.mattermost.com/operations/it/hardware-buy-back-policy) for more details. If staff members opt not to keep or purchase their existing hardware, they will need to return the equipment to Mattermost.
 
