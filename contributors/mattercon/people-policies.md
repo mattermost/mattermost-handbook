@@ -1,6 +1,6 @@
 # Staff Information Privacy Management
 
-Mattermost is committed to protecting the privacy and security of staff personal information. Mattermost respects the confidentiality of the personal information of staff and contractors of Mattermost and within the Mattermost Community. This includes personal staff and contractor medical and personnel information. All team member records are kept in BambooHR or a confidential HR Google Shared Drive. Access to personal information is only authorized when there is a legitimate and lawful reason, and access is only granted to appropriate personnel.
+Mattermost is committed to protecting the privacy and security of staff personal information. Mattermost respects the confidentiality of the personal information of staff and contractors of Mattermost and within the Mattermost Community. This includes personal staff and contractor medical and personnel information. All team member records are kept in Rippling or a confidential HR Google Shared Drive. Access to personal information is only authorized when there is a legitimate and lawful reason, and access is only granted to appropriate personnel.
 
 ## Staff data protection principles
 
