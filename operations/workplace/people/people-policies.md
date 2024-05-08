@@ -105,7 +105,7 @@ The JHSC's role is to raise awareness of health and safety issues in the workpla
 
 | Name | Title |
 | :--- | :--- |
-| [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu) |People Generalist|
+| [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu) | People Generalist |
 | [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) | Senior Manager, People |
 | [Hanna Park](https://community.mattermost.com/core/messages/hanna.park) | Program Manager |
 
