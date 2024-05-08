@@ -74,7 +74,7 @@ Prior to commencing work at Mattermost, FT staff will be asked to complete an in
 
 **Health and Safety Responsibilities**
 
-Building a safe workplace is a joint responsibility of all staff, managers and Mattermost. The rights and responsibilities of all parties are outlined below.
+Building a safe workplace is a joint responsibility of all staff, managers, and Mattermost. The rights and responsibilities of all parties are outlined below.
 
 Staff have the right to:
 * Know about workplace health and safety hazards.
