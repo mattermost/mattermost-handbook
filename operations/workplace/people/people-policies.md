@@ -57,7 +57,7 @@ Creating a safe workplace is a shared responsibility between Mattermost and all 
 Mattermost’s Health & Safety policy outlines the procedures and guidelines for conducting health and safety assessments for all staff. It aims to:
 * Prevent home office environment accidents and work-related ill health.
 * Manage health and safety risks associated with remote work.
-* Provide clear instructions, information and adequate training on workplace health and safety.
+* Provide clear instructions, information, and adequate training on workplace health and safety.
 * Promote health and safety best practices for remote work.
 * Maintain safe and healthy working conditions.
 * Review and revise Mattermost’s health and safety policy regularly.
