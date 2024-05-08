@@ -54,7 +54,7 @@ In the event of a workplace investigation, Mattermost may request access to staf
 
 Creating a safe workplace is a shared responsibility between Mattermost and all staff. Mattermost is committed to promoting a safe work environment and supporting everyone in ensuring their home work environment is safe, and adheres to legislative requirements for healthy working conditions.
 
-Mattermost’s  Health & Safety policy outlines the procedures and guidelines for conducting health and safety assessments for all staff. It  aims to:
+Mattermost’s Health & Safety policy outlines the procedures and guidelines for conducting health and safety assessments for all staff. It aims to:
 * Prevent home office environment accidents and work-related ill health.
 * Manage health and safety risks associated with remote work.
 * Provide clear instructions, information and adequate training on workplace health and safety.
