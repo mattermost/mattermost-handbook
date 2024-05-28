@@ -17,7 +17,7 @@ This will help to increase the collaboration between Product, Security and Infra
 ## Process
 
 The PRR process is initiated by the DRI of the related work with the following steps:
-1. Run the Mattermost PRR Playbook [here](https://community.mattermost.com/playbooks/playbooks/5r116c8eajfa9gmbqcfake9apw)
+1. Run the Mattermost PRR Playbook [here](https://hub.mattermost.com/playbooks/playbooks/5r116c8eajfa9gmbqcfake9apw)
 2. The title of the Playbook run should be self-descriptive for the change.
 3. Include the relevant reviewers in the PRR Mattermost channel
 4. Use the checklist in Playbook which will guide you through to complete the review
