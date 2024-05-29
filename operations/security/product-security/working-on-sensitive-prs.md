@@ -69,7 +69,7 @@ With the latter, any other staff member or your future self can still easily fin
 **When submitting PRs**, pay attention to the PR title and description. Remember the Common Guidelines and do not use the title of the Jira ticket as-is. The title of the PR is one of the most visible and obvious indicators of a security issue being worked on! It appears on the PR itself, the pull requests index page—both of which attackers are likely to monitor—and eventually ends up in Git history when the PR is squashed and merged. The guidelines also apply to individual commit messages and the name of the branch!
 
 - If you notice you've made a mistake in the code, unit tests, comments, or commit messages and already pushed it to GitHub, fix it as soon as possible by rewriting the Git history and force-pushing the new, sanitized changes.
-- If you notice you've made a mistake in the PR title or description, edit it out and alert the Security taeam: Edits will still be visible in the GitHub UI and if the information revealed is sensitive enough, Security may choose to fully delete the PR in question.
+- If you notice you've made a mistake in the PR title or description, edit it out and alert the Security team: Edits will still be visible in the GitHub UI and if the information revealed is sensitive enough, Security may choose to fully delete the PR in question.
 
 ### Guidelines for QA
 
