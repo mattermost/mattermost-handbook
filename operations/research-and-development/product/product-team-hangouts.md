@@ -6,3 +6,4 @@ These sessions are optional and will take place after the weekly R&D meeting on 
 
 The first of these sessions will be on June 10, 2021. Hope to see you there!
 
+.
