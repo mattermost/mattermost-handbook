@@ -127,7 +127,7 @@ If you are using your personal device for business-related matters, we will reim
 
 For all other positions, we will reimburse up to 50 USD.
 
-If you're unsure whether you qualify for a customer-facing role or on-call role, reach out to your manager and follow the [Manager Approval process](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#manager-approval).
+If you're unsure whether you qualify for a customer-facing role or on-call role, reach out to your manager and follow the [Manager Approval process]([https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#manager-approval](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money#manager-approval)).
 
 The company doesn't currently provide mobile device subscriptions in a centralized fashion. Subscriptions should be organized by the employee and expensed monthly. Mattermost recommends the usage of a monthly subscription model where possible.
 
@@ -240,7 +240,7 @@ For team off sites, where travel and overnight stays are necessary, we encourage
 
 ### Team celebrations
 
-There will be times to celebrate with staff members, and we want you to. Please be sure to obtain approval from your department head by following the [Manager Approval](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#manager-approval) process.
+There will be times to celebrate with staff members, and we want you to. Please be sure to obtain approval from your department head by following the [Manager Approval]([https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#manager-approval](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money#manager-approval)) process.
 
 ### Rideshares and rentals
 
@@ -279,9 +279,9 @@ The company will reimburse for the following expenses if you need it for work or
 
 **Flexible office space:** If working from home is not practical, you may rent out a co-working space at the expense of the company. This can include non-traditional spaces that require a membership as long as you average ~3 working days per week at the space. Any agreement must be between the team member and the co-working space \(i.e. Mattermost will not sign or appear on the agreement\). All expenses must be submitted through Expensify. The company will not be responsible for any expense that relates to office space subsequent to the termination of service between Mattermost and the staff member.
 
-Flexible office spaces or hot desk will be reviewed based on average costs for the city and location. That said, we expect an office space to not exceed 600 USD per month. If you are requesting to be reimbursed on a space that exceeds 600 USD per month, the [Manager Approval](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#manager-approval) process should be followed.
+Flexible office spaces or hot desk will be reviewed based on average costs for the city and location. That said, we expect an office space to not exceed 600 USD per month. If you are requesting to be reimbursed on a space that exceeds 600 USD per month, the [Manager Approval][(https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#manager-approval](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money#manager-approval)) process should be followed.
 
-**Professional development:** Work-related online courses and professional development certifications, not included in career path training or training for specialty roles, e.g. Information Security. Mattermost staff members are allotted 500 USD per fiscal year to spend on one or multiple training courses. [Manager Approval](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#manager-approval) is required for reimbursement greater than 500 USD.
+**Professional development:** Work-related online courses and professional development certifications, not included in career path training or training for specialty roles, e.g. Information Security. Mattermost staff members are allotted 500 USD per fiscal year to spend on one or multiple training courses. [Manager Approval]([https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#manager-approval](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money#manager-approval)) is required for reimbursement greater than 500 USD.
 
 **Home internet:** Mattermost will reimburse up to 50 USD per month that can be expensed for home internet. If you are submitting an expense other than USD, please use the [Currency Exchange Rate Table](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/currency-exchange-table) to determine how much to expense each month. As always, expenses should be submitted in a [timely](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#preparing-and-submitting-expense-reports) manner and follow the [How to use Expensify](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#preparing-and-submitting-expense-reports) process.
 
