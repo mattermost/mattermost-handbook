@@ -67,3 +67,4 @@ For other references, see [this document for customer reliability engineering](h
 - [Performance Debugging Training Series](https://mattermost.atlassian.net/wiki/spaces/CO/pages/2388000769/Knowledge+Dump+Zone#Training)
 - [CNCF talk on using counters in Prometheus](https://www.youtube.com/watch?v=67Ulrq6DxwA)
 - [Full source code for all metrics.go endpoints](https://github.com/mattermost/enterprise/blob/master/metrics/metrics.go)
+- [TAM Developer Training Call Notes](https://docs.google.com/document/d/1mdQtnIQsro8VjBW8K7esIdKuoEuhXWfYdTXcE6JvuhE/edit?usp=sharing)
