@@ -155,3 +155,7 @@ Workplace messaging solutions like Mattermost are excellent for real-time and to
 When it comes to long-form cascaded communications (announced information to be forwarded to groups with context from different leaders), then email and email distribution lists are best, and we do use them at Mattermost.
 
 We have a [Mattermost Board summarizing email distributions lists at Mattermost](https://community.mattermost.com/boards/workspace/4xg6hw6a37bk883ijc3n4n7ofr/b8zc7hz4o37n6jyhgcayx5wcjcc/vpyxigmqm4pbmub4jxm7pdkumgr) (you need to be a staff member subscribed to our Announcements channel for access).
+
+## Workplace FAQs
+
+This section provides staff with quick access to common questions and answers related to workplace policies, procedures, and general information. You can find a list of the frequently asked questions [here](https://docs.google.com/document/d/1jW_UAvoYcWJLgFLc1zwxYWTT0kP4mHEqNNtE4DMHhGE/edit?usp=sharing). 
