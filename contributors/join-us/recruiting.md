@@ -140,7 +140,7 @@ We want to enable staff to do the best work of their careers at Mattermost. In a
 
 **Additional employee benefits**
 
-Mattermost uses professional employment organizations and are able to offer additional benefits to employees based in: [US](https://docs.mattermost.com/process/benefits-us.html), [Canada](https://docs.mattermost.com/process/benefits-canada.html), UK, and Germany \(to be updated\).
+Mattermost uses professional employment organizations and are able to offer additional benefits to employees based in: [US](https://docs.google.com/document/d/1th9epdlK7LfSuJcT11MBaO33zCZS6FbPKGRAbiwczZ4/edit), [Canada](https://docs.google.com/document/d/1k9JkMxSI5qQjG_9V_QdWYynFn1XTxKynajpVRycvLPQ/edit), UK, and Germany \(to be updated\).
 
 #### Frequently Asked Questions
 
