@@ -60,12 +60,12 @@ Remote-first culture flourishes when we share one simple principle: **Courtesy**
 
 ### [General Onboarding Activities](https://handbook.mattermost.com/contributors/onboarding)
 
-Welcome to Mattermost! This is a general overview of activities that all staff should do within their first 90 days. New staff will also be assigned a checklist of activities to complete through [BambooHR](https://handbook.mattermost.com/operations/workplace/people#bamboohr). Some of those checklist items are also listed here.
+Welcome to Mattermost! This is a general overview of activities that all staff should do within their first 90 days. New staff will also be assigned a checklist of activities to complete through Rippling.
 
 #### Week 1
 
 * Share your bio with your manager. This will be posted in the [Welcome channel](https://community.mattermost.com/private-core/channels/welcome) in the private Staff team by your manager with the hashtag **\#newcolleague**.
-* Attend the Onboarding Session with the People Team, Mondays at 10 AM ET, Toronto Time.
+* Attend the Onboarding Session with the People and IT Teams.
 * Join Mattermost public channels listed [here](https://docs.google.com/document/d/1f57dwj7G6WKCDbFQxcfdDejT4apduvb656_s_OFy6N8/edit).
 * Review the expense policy: [How to spend company money](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money).
 * Attend your first [COM](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com). Join the [Customer Obsession Meeting channel](https://community.mattermost.com/private-core/channels/cust-obs-meeting) and find past COM meetings in the channel to view at your leisure.
@@ -84,6 +84,7 @@ Welcome to Mattermost! This is a general overview of activities that all staff s
 * Participate in [Coffee Chats](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/workplace-program#coffee-time).
 * Learn [Mattermost Terms](https://handbook.mattermost.com/company/about-mattermost/list-of-terms) and [Mindsets](https://handbook.mattermost.com/company/about-mattermost/mindsets). Reach out to your Manager, Onboarding Buddy, or [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) if you're unsure how to use a term or need more explanation.
 * Review Company [AORs](https://handbook.mattermost.com/operations/operations/areas-of-responsibility). Managers will also review individual AORs with direct reports during their first month.
+*  Share feedback on your Onboarding experience at Mattermost by completing the Onboarding Survey in Lattice. The [People Team](https://handbook.mattermost.com/operations/workplace/people#team) appreciates all feedback on Mattermost Onboarding.
 
 #### Month 2
 
@@ -93,8 +94,7 @@ Welcome to Mattermost! This is a general overview of activities that all staff s
 
 #### Month 3
 
-* Complete your [New Staff Self Assessment](https://handbook.mattermost.com/contributors/onboarding#new-colleague-feedback).
-* Share Feedback on your Onboarding experience at Mattermost. The [People Team](https://handbook.mattermost.com/operations/workplace/people#team) appreciates all feedback on Mattermost Onboarding.
+* Complete your [New Staff Self Assessment](https://handbook.mattermost.com/contributors/onboarding#new-colleague-feedback) in Lattice. 
 
 ## [Departmental Onboarding Checklists and Information](https://handbook.mattermost.com/people/general-onboarding.html#contents)
 
