@@ -240,7 +240,7 @@ For team off sites, where travel and overnight stays are necessary, we encourage
 
 ### Team celebrations
 
-There will be times to celebrate with staff members, and we want you to. Please be sure to obtain approval from your department head by following the [Manager Approval]([https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#manager-approval](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money#manager-approval)) process.
+There will be times to celebrate with staff members, and we want you to. Please be sure to obtain approval from your department head by following the [Manager Approval](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money#manager-approval) process.
 
 ### Rideshares and rentals
 
