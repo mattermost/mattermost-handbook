@@ -183,6 +183,10 @@ A one-line change to code can cost more mana than a 100-line change due to risk 
 
 Every code change added has an initial and on-going mana cost in technical debt, test case coverages, and supportability, which is taken into account in feature decisions.
 
+### MBR
+
+The “Monthly Business Review”, where senior leadership team and department heads work with functional leaders to clear escalations, make key decisions & have concrete next steps for the next review period.
+
 ### MLT
 
 The “Mattermost Leadership Team”, senior leadership team and department heads working with the CEO in [MLT meetings and offsites](../../operations/operations/mlt-cadence/).
