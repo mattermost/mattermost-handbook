@@ -1,6 +1,6 @@
 # Things Candidates Should Know
 
-**Mattermost's mission is to make the world safer and more productive by developing and delivering secure, open source collaboration software that is trusted, flexible, and offers fast time-to-value.**
+**Mattermost's mission is to accelerate the world's mission critical work by developing and delivering secure, open core collaboration software providing unrivaled focus, adaptability, and resilience to our customers.**
 
 ### Bring your best self to work at Mattermost
 
@@ -10,7 +10,7 @@ If you're considering a role at Mattermost, here are the **Top 10 Reasons to wor
 
 1. **Join an outstanding team:** Work with thoughtful, talented, high performance people who care about results.
 2. **Build on the cutting edge:** Develop in Golang, React, React Native, and other technologies that are changing the world.
-3. **Work anywhere:** No commute, freedom to travel, complete control of your environment.
+3. **100% remote:** No commute, complete control of your environment.
 4. **Be recognized:** Working in open source, your contributions are public and echo on throughout your career.
 5. **Growth:** Join a growing open source project, a growing business, and a growing company.
 6. **Do good:** Build open source software benefiting thousands of companies, institutions, schools, and non-profits.
@@ -27,15 +27,13 @@ In addition to this page, we also encourage anyone interested in interviewing at
 
 We’re headquartered in Palo Alto, California and, like many open source companies, Mattermost's staff and contributors are widely geographically located. We run as a distributed, high performance, and high trust team using a few principles:
 
-#### 1. Work anywhere with good internet
+#### 1. Work remotely with good internet
 
-Working from anywhere means more time with loved ones, no commute, and controlling everything about your workspace.
+Working remotely offers flexibility, more time with loved ones, no commute, and controlling everything about your workspace.
 
 The one requirement is having the ability to [join video calls using Zoom](https://support.zoom.us/hc/en-us/articles/201362023-System-Requirements-for-PC-Mac-and-Linux) between 8am and 1pm California time, which requires a reliable internet connection. Recommended download/upload speeds should be 8 Mbps/512 kbps for smooth group calling and screensharing, with a bare minimum of 4 Mbps/128 kbps. The [Ookla Speed Test](https://www.speedtest.net/) can be used to check your internet speed.
 
 There are exceptions to this requirement, for example: Part-time roles that don’t need to take meetings, or roles providing support outside core meeting hours. Hiring Managers and Recruiters will indicate any time zone requirements for specific roles and/or teams.
-
-We're continually expanding where we can hire staff, updated lists can be found [here](https://handbook.mattermost.com/contributors/join-us).
 
 #### 2. Be clear and precise
 
@@ -66,6 +64,10 @@ When you meet in person at off-sites and events, build on those relationships.
 When something isn't clearly documented, take the initiative to figure out what's going on, and update the documentation for the people who come after you.
 
 [Learn, Master, Teach](https://handbook.mattermost.com/company/about-mattermost/mindsets#learn-master-teach) is a model we use to pass on training after you’ve been trained to help grow everyone at the company.
+
+### Where we Hire
+
+Mattermost has registered entities in the US, Canada, Germany and the UK and we hire from these locations. For hiring in locations outside of these entities, we use an Employer of Record (EOR) service, which allows us to comply with local employment laws and regulations.
 
 ### Meetups
 
@@ -122,7 +124,7 @@ For most roles, we require the ability to join meetings between 8am and 1pm Cali
 
 #### Paid time off and holidays
 
-Just as flexible as our working hours, learn about our [paid time off and holidays policy and process](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off). During Covid, we've also occasionally called a [Family and Friends Day](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off/family-and-friends-day), and will run the majority of the company with the minimal staff needed to meet our service level commitments. Staff who are on-call, or who choose to work that day, can take an alternate day off.
+Learn more about our [paid time off and holidays policy and process](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off).
 
 #### Home office benefits
 
@@ -140,7 +142,7 @@ We want to enable staff to do the best work of their careers at Mattermost. In a
 
 **Additional employee benefits**
 
-Mattermost uses professional employment organizations and are able to offer additional benefits to employees based in: [US](https://docs.mattermost.com/process/benefits-us.html), [Canada](https://docs.mattermost.com/process/benefits-canada.html), UK, and Germany \(to be updated\).
+Mattermost offers additional benefits to employees based in the [US](https://docs.google.com/document/d/1th9epdlK7LfSuJcT11MBaO33zCZS6FbPKGRAbiwczZ4/edit) and [Canada](https://docs.google.com/document/d/1k9JkMxSI5qQjG_9V_QdWYynFn1XTxKynajpVRycvLPQ/edit).
 
 #### Frequently Asked Questions
 
