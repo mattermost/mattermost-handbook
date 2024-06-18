@@ -142,7 +142,10 @@ We reimburse $50 per month of [home internet costs](https://handbook.mattermost.
 #### Professional development
 
 We want to enable staff to do the best work of their careers at Mattermost. In addition to [360-style performance reviews](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50) and transparent career and role leveling, Mattermost team members can also receive a reimbursement up to $500 USD for [professional development](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#other-expenses) annually.
+```suggestion
+**Additional employee benefits**
 
+Mattermost uses professional employment organizations and are able to offer additional benefits to employees based in: the [US](https://docs.google.com/document/d/1th9epdlK7LfSuJcT11MBaO33zCZS6FbPKGRAbiwczZ4/edit) and [Canada](https://docs.google.com/document/d/1k9JkMxSI5qQjG_9V_QdWYynFn1XTxKynajpVRycvLPQ/edit).
 #### Frequently Asked Questions
 
 **Are there core hours that I'll be expected to work?**
