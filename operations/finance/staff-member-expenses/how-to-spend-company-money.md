@@ -127,7 +127,7 @@ If you are using your personal device for business-related matters, we will reim
 
 For all other positions, we will reimburse up to 50 USD.
 
-If you're unsure whether you qualify for a customer-facing role or on-call role, reach out to your manager and follow the [Manager Approval process]([https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#manager-approval](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money#manager-approval)).
+If you're unsure whether you qualify for a customer-facing role or on-call role, reach out to your manager and follow the [Manager Approval process](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money#manager-approval).
 
 The company doesn't currently provide mobile device subscriptions in a centralized fashion. Subscriptions should be organized by the employee and expensed monthly. Mattermost recommends the usage of a monthly subscription model where possible.
 
