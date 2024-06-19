@@ -48,7 +48,7 @@ Email [hr@mattermost.com](mailto:hr@mattermost.com) with any questions or concer
   * If you're taking time off for a personal or family illness in excess of three days, please contact [hr@mattermost.com](mailto:hr@mattermost.com). 
   * Company holidays are listed [here](https://docs.mattermost.com/process/working-at-mattermost.html?#holidays), but please take off on holidays that are relevant to your culture, country of residence, and preferences.
 
-You can create add a link to Rippling's [Who's Out Calendar](http://app.rippling.com/api/feed/calendar/pto/company/are2zz48b0jkynqd/b91837056f386ea9355b4e71f456c24a381efea19840116f0779e81f053199e4/calendar.ics?company=658390ff2cae6bf84a79bcb5) to your GCalendar.
+You can add a link to Rippling's [Who's Out Calendar](http://app.rippling.com/api/feed/calendar/pto/company/are2zz48b0jkynqd/b91837056f386ea9355b4e71f456c24a381efea19840116f0779e81f053199e4/calendar.ics?company=658390ff2cae6bf84a79bcb5) to your GCalendar.
 
 ## Where can I find templates?
 
