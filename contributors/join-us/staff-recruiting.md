@@ -209,7 +209,7 @@ Recruiting will typically extend an offer, unless otherwise determined by the ML
 This process will be managed by HR.
 
 1. Once an offer is approved, the Recruiter will select the appropriate offer template based on candidates’s residence country/region and send for signatures.
-2. Upon full execution of a new staff contract, the Recruiter will mark the candidate as **Hired** in Lever and export the profile to BambooHR.
+2. Upon full execution of a new staff contract, the Recruiter will mark the candidate as **Hired** in Lever.
 3. Once exported to Rippling, an automatic New Starter Notification will be sent to the Hiring Team to kick-off the onboarding process.
 
 #### Pre-onboarding preparation
