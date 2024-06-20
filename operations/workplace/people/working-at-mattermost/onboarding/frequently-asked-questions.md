@@ -42,13 +42,13 @@ Email [hr@mattermost.com](mailto:hr@mattermost.com) with any questions or concer
 * Discuss the dates you plan to take off with your manager, and decide who will be your backup.
 * For meetings you’ll miss, message the chair with any status updates.
 * Post in the [Stand-up channel](https://community-daily.mattermost.com/private-core/channels/stand-up) the dates you’ll be away and who will be your backup. Add the hashtag \#timeoff somewhere in your message so people can spot it easily.
-* Book time off in BambooHR. The dates will appear in Bamboo's [Who's Out Calendar](https://mattermost.bamboohr.com/calendar#), so it’s easy for the team to see who is going to be away. More details [here](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off). 
+* Book time off in Rippling. The dates will appear in Ripplings's Who's Out Calendar, so it’s easy for the team to see who is going to be away. More details [here](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off). 
 * **Optional:** Add an out of office reply in **Account Settings &gt; Notifications &gt; Automatic Direct Message Replies**.
 * **Note:** 
   * If you're taking time off for a personal or family illness in excess of three days, please contact [hr@mattermost.com](mailto:hr@mattermost.com). 
   * Company holidays are listed [here](https://docs.mattermost.com/process/working-at-mattermost.html?#holidays), but please take off on holidays that are relevant to your culture, country of residence, and preferences.
 
-You can create an [iCalendar Feed](https://help.bamboohr.com/hc/en-us/articles/229310127-Create-an-iCalendar-Feed) to link BambooHR's Who's Out Calendar to your GCalendar.
+You can add a link to Rippling's [Who's Out Calendar](http://app.rippling.com/api/feed/calendar/pto/company/are2zz48b0jkynqd/b91837056f386ea9355b4e71f456c24a381efea19840116f0779e81f053199e4/calendar.ics?company=658390ff2cae6bf84a79bcb5) to your GCalendar.
 
 ## Where can I find templates?
 
@@ -106,5 +106,5 @@ Whenever possible, we share key updates and have discussions in Mattermost. Some
 ## I am planning to move. What do I need to know?
 
 * Staff contracts are conditioned upon the country/region of reference listed in signed agreements. If you plan to change your residence from the location listed in your agreement, you must receive prior written approval from the company.
-* Upon written approval, please update [BambooHR](https://mattermost.bamboohr.com/home/).
+* Upon written approval, please update Rippling.
 
