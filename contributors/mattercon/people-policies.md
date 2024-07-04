@@ -18,10 +18,3 @@ Personal contact details \(telephone number, email address, physical address, na
 ## Processing Special Categories of personal information
 
 Personal information that is considered a Special Category include: Health, disability or other information that may be provided or requested related to a leave of absence, employment, or other local laws. This information will only be shared on a need-to-know basis and in a legitimate and lawful manner. For example, a health statement may be required in order to process a [leave of absence](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/leaves-of-absence).
-
-## Job abandonment
-
-When a staff member is absent from work for three consecutive workdays and there is no entry on the [Time Away Calendar](https://calendar.google.com/calendar/embed?src=mattermost.com_mg3nulgf6e70e50ohlq2rrkcnc%40group.calendar.google.com&ctz=America%2FLos_Angeles) or a post in the [Stand-Up Channel](https://community.mattermost.com/private-core/channels/stand-up) noting the time off, and fails to contact their manager or HR, they can be terminated for job abandonment unless otherwise required by local law.
-
-A manager will notify HR if they are unable to reach a direct report within a 24-hour period of the above criteria. HR may then access a staff member's contact information, including emergency contact information, to attempt additional reach out.
-
