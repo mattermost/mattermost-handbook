@@ -101,13 +101,7 @@ Company Responsibilities:
 
 **Joint Health and Safety Committee (JHSC)**
 
-The JHSC's role is to raise awareness of health and safety issues in the workplace, identify health and safety risks, and make recommendations on areas for improving safety where necessary. The committee will hold regular meetings and initiate the quarterly workplace inspections conducted by staff members of their home office. Committee members include:
-
-| Name | Title |
-| :--- | :--- |
-| [Yomi Adetutu](https://community.mattermost.com/core/messages/yomi.adetutu) | People Generalist |
-| [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) | Senior Manager, People |
-| [Hanna Park](https://community.mattermost.com/core/messages/hanna.park) | Program Manager |
+The JHSC's role is to raise awareness of health and safety issues in the workplace, identify health and safety risks, and make recommendations on areas for improving safety where necessary. The committee will hold regular meetings and initiate the quarterly workplace inspections conducted by staff members of their home office.
 
 **Periodic Workplace Inspections** 
 
