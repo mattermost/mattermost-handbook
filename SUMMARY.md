@@ -253,6 +253,7 @@
   * [Approvals and iteration](operations/workplace/approvals-and-iteration.md)
   * [IT](operations/workplace/it/README.md)
     * [IT helpdesk](operations/workplace/it/helpdesk.md)
+    * [Hardware and software purchases](operations/workplace/it/hardware-&-software-purchases.md)
     * [Hardware buy back policy](operations/workplace/it/hardware-buy-back-policy.md)
     * [Software systems](operations/workplace/it/software-systems.md)
 
