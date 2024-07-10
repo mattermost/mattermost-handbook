@@ -44,6 +44,12 @@ To enable Managers and Supervisors with these responsibilities, Mattermost provi
 
 Mattermost's Affirmative Action Plan can be found [here](https://docs.google.com/document/d/15PVfR5uI7TaWuSznLr3hmQd_4aAE-OR3AixVPEO-QF4/edit#heading=h.cbr53qvhhkxh).
 
+## Job abandonment
+
+When a staff member is absent from work for 3 consecutive workdays, and there is no entry on the [Who's Out Calendar](http://app.rippling.com/api/feed/calendar/pto/company/are2zz48b0jkynqd/b91837056f386ea9355b4e71f456c24a381efea19840116f0779e81f053199e4/calendar.ics?company=658390ff2cae6bf84a79bcb5), or a post in the [Stand-Up Channel](https://hub.mattermost.com/private-core/channels/stand-up) noting the time off, and the staff member fails to contact their manager or HR, they can be terminated for job abandonment unless otherwise required by local law.
+
+A manager will notify HR if they are unable to reach a direct report within a 24-hour period of the above criteria. HR may then access a staff member's contact information, including emergency contact information, to attempt additional reach out.
+
 ### Electronic Monitoring Policy
 
 Mattermost does not engage in electronic monitoring of staff or their activities through their work equipment, such as Mattermost-issued laptops or cell phones, work email, Mattermost, or other applications used by the company, except for legal, security, or compliance purposes. Any information collected will be used solely to help Mattermost meet its legal, security, or compliance requirements.
