@@ -8,17 +8,15 @@ In order to continually increase what we offer to customers we need to continual
 
 Hiring Managers should confirm with their team's [MLT](https://handbook.mattermost.com/operations/operations/mlt-cadence#introduction-to-mlt) that the new headcount requisition has been approved.
 
-Hiring plans are created twice a year, and reviewed every quarter. Hiring Managers and department leads can request additional headcount by completing a [New Requisition ID Request Form](https://forms.gle/ewYXCm1FZPAb6Pyr6). As part of this request form and only for non-backfill roles, Hiring Managers will be asked to submit an [Issue/Solution Proposal](https://handbook.mattermost.com/operations/operations/company-processes/issue-solution). Finance assigns all requisition IDs and the CEO \(Ian Tien\) and VP Finance \(Tim Quock\) will need to approve ISP ahead of a new requisition ID assignment.
+Hiring plans are created twice a year, and reviewed every quarter. Hiring Managers and department leads can request additional headcount by completing a [New Requisition ID Request Form](https://forms.gle/ewYXCm1FZPAb6Pyr6). As part of this request form and only for non-backfill roles, Hiring Managers will be asked to submit an [Issue/Solution Proposal](https://handbook.mattermost.com/operations/operations/company-processes/issue-solution). Finance assigns all requisition IDs and the CEO \(Ian Tien\) and CFO \(Kendra Niedziejko\) will need to approve ISP ahead of a new requisition ID assignment.
 
 ### Role description
 
 Once you have confirmation that your new headcount has been approved, you’re ready to begin the recruitment process. Complete the [Job Description portion](https://docs.google.com/document/d/1DmInqCLfGpFOP6Foynu9MB3Xl71CfcgFWxuuSEAP50U/edit) and share with your Recruiter, who will schedule a [Recruiter Intake Session](https://handbook.mattermost.com/contributors/join-us/staff-recruiting/recruiting-cadences.html) to review the remainder of the intake template.
 
-You can find your assigned recruiter on the [FY23 Hiring Plan - Internal Only](https://docs.google.com/spreadsheets/d/1YoplwsVPrKM4CApLTpPGsO5EoN8MAb57F19KO1Q7QQs/edit#gid=0) - see Column J.
-
 ### Recruiter Intake Session
 
-Your Recruiter will schedule an Intake Session with you, Total Rewards, and a People Partner after you’ve completed your Job Description. The goal of the in-take is to have a complete Ideal Candidate Profile, Target Level for the role and assigned interviewers, and interview backups (if neeeded).
+Your Recruiter will schedule an Intake Session with you and a People Partner after you’ve completed your Job Description. The goal of the in-take is to have a complete Ideal Candidate Profile, Target Level for the role and assigned interviewers, and interview backups (if neeeded).
 
 #### Role leveling
 
@@ -138,13 +136,9 @@ In order to expedite the recruiting process for each candidate, please follow th
 * Feedback on the specific skill/focus area assigned, with examples to help contextualize your rating.
 * Potential [blindspots](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check) or [brown M&Ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms) that may require either a future interviewer to ask about or the Hiring Manager to cover during a reference check.
 
-#### Mid-Interview Sync
+#### Panel Debrief
 
-Ahead of the MLT and AA interviews, the Recruiter may schedule a live Mid-Interview Sync to align on intent to move forward and any ICP criteria that need additional assessment. Otherwise, the Recruiter will complete the [Mid-Interview Template](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#) ahead of the MLT and AA Interviews.
-
-Recruiting may follow up with the Interview Panel if the [Interview Rating](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#heading=h.105ke47pauhj) or [Experience-to-team rating](https://docs.google.com/document/d/19ZyJpPUvmmitccOAewFLrh9etwLObBoLCNj3i0Fvlis/edit#bookmark=id.vjo02zxnnbyi) is incomplete or if additional context is needed.
-
-If there are multiple candidates in the pipe, the Recruiter may ask the Interview Panel to rank the candidate pool. This exercise helps clear any potential blindspots or confusion around role expectations. It also allows the Recruiting team to prioritize the highest ranking candidates to complete the interview process, as appropriate.
+Ahead of making an offer, a Debrief will be scheduled to ensure the hiring team is aligned by achieving a unanimous "I'm 100% hire on this candidate for level and role." [Link to Debrief Template] (https://docs.google.com/document/d/1euXMz6kCU3baOsBURKFxqWmfANNbBpkL7Z8H7llUp1Q/edit) to review the process, purpose and intended outcomes. 
 
 #### As Appropriate interviews \(AAs\)
 
@@ -154,8 +148,7 @@ Typically the AA is the last person on the interview loop and scheduled in advan
 
 The following list of people are approved as As Appropriate interviewers:
 
-* Ian Tien, CEO and co-founder for all roles outside of R&D.
-* Corey Hulen, CTO and co-founder for all roles in the R&D department including Engineers, Product Managers, and UX.
+* Ian Tien, CEO and co-founder for all roles outside of R&D
 * Dave Reardon, VP of Worldwide Sales for all BDR roles.
 
 Each AA interviewer should have at least three reserved slots per week available for AA interviews, ideally in different timezone ranges, providing capacity for 12 new hires per month per AA.
@@ -166,14 +159,14 @@ At least 24 hours before an AA interview, the candidate's Lever profile should i
 
 1. Completed feedback from all interviewers.
 2. Attachments of any work artifacts produced during the interview loop (e.g. presentations, coding projects, etc.).
-3. Compensation expectations and role Level in a SECRET note in Lever with a mention to either `@corey` (Corey Hulen) or `@it33` (Ian Tien).
+3. Compensation expectations and role Level in a SECRET note in Lever.
 4. For interviews with Ian Tien, a [CEO pre-interview questionaire](https://docs.google.com/forms/d/e/1FAIpQLSfGFUN7baIFot6me_oDWTSICA_QhRFM9dBRiqBTw38uRY6XDQ/viewform) from the candidate should also be included. The AA scheduler will send the questionaire to be completed.
 
 If the Lever information is not complete, the AA interview request will not be scheduled.
 
 **Logistics**
 
-* The Mid-Interview Sync will be pre-scheduled to occur after the last Mid-Interviewer completes.
+* The Debrief will be pre-scheduled to occur after the AA interview.
 * If there are multiple candidates for the same role, the sync may be scheduled after all candidates have gone through the last mid-interviewer.
 * If you are an interviewer and cannot make the scheduled sync, please make sure to submit complete feedback in Lever ahead of the scheduled sync.
 
@@ -201,11 +194,12 @@ Once reference checks are complete and an offer is ready to be made, the Recruit
 
 The order of approval will follow:
 
-1. HR Director
+1. VP, HR
 2. Team MLT member
-3. Either CTO \(for R&D and Customer Engineer offers\) or CEO \(for all other offers\) 
+3. CFO
+4. CEO 
 
-After offer approval, the Recruiter, Team MLT member, or AA Interviewer will extend a verbal offer to the candidate. Upon verbal acceptance, the Director of HR will send the offer letter.
+After offer approval, the Recruiter, Team MLT member, or AA Interviewer will extend a verbal offer to the candidate. Upon verbal acceptance, HR will send the offer letter.
 
 #### Extending an offer
 
@@ -215,9 +209,9 @@ Recruiting will typically extend an offer, unless otherwise determined by the ML
 
 This process will be managed by HR.
 
-1. Once an offer is approved, the Recruiter will select the appropriate offer template based on candidates’s residence country/region and send for signatures.
-2. Upon full execution of a new staff contract, the Recruiter will mark the candidate as **Hired** in Lever and export the profile to BambooHR.
-3. Once exported to BambooHR, an automatic New Starter Notification will be sent to the Hiring Team to kick-off the onboarding process.
+1. Once an offer is approved, the People Generalist will select the appropriate offer template based on candidates’s residence country/region and send for signatures.
+2. Upon full execution of a new staff contract, the Recruiter will mark the candidate as **Hired** in Lever.
+3. Once exported to Rippling, an automatic New Starter Notification will be sent to the Hiring Team to kick-off the onboarding process.
 
 #### Pre-onboarding preparation
 
