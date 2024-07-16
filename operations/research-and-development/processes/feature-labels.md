@@ -5,6 +5,9 @@ Mattermost’s feature labels serve as indicators of the status, maturity, and s
 ## Experimental
 Solution is an early Proof of Concept (POC) with an unstable codebase, minimal QA, and potential UI issues. Security reviews are incomplete, making it unsuitable for production. Distribution of the solution is limited, and our Cloud environments are typically not eligible to use experimental features. Caution is advised as the solution may be discarded if its value is not proven. 
 
+## Alpha
+Solution is in early development towards General Availability, with an unstable codebase, minimal QA, and potential UI issues. Security reviews are incomplete, making it unsuitable for production. Distribution of the solution is limited, and our Cloud environments are typically not eligible to use alpha features. 
+
 ## Beta
 Solution is in active development towards General Availability. Not fully complete, but reviewed by our security team, adoption is suitable for a small set of customers behind a feature flag. Identified bugs are fixed on a best effort basis, and no major breaking changes are anticipated. Beta is a transitional stage, meaning the solution is maturing but requires careful consideration in a full production deployment as scale and client availability may vary.
 
