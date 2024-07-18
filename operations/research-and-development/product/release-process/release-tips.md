@@ -6,7 +6,7 @@
 * Bug bashes can either be run asynchronously/individually or as a group.
 * Use a playbook to run bug bashes - [example bug bash playbook](https://community.mattermost.com/playbooks/playbooks/raxoo6hua3gpdpthaqmpmdzptw/outline).
   * PMs can assign test assignments and testers under the "Testing areas" checklist item.
-* Decide environments to test on - normally community-daily or rc.test.mattermost.com + include Mobile and Desktop app environments.
+* Decide environments to test on - normally community or rc.test.mattermost.com + include Mobile and Desktop app environments.
 * Decide date(s) for the bug bash.
 * Announce bug bash on the day when the bug bash starts.
 * Invite community members to participate in the bug bash.
@@ -38,14 +38,14 @@
 
 * Monitor progress of translations at [https://translate.mattermost.com/](https://translate.mattermost.com/) and ping language maintainers a few days before due date if they're not getting to 100%.
 * Ask DevOps to submit a new translations PR if a translation deadline extension is requested.
-* Target date for final translations PR is T-5, but T-3 is acceptable.
+* Target date for final translations PR is T-24 (feature complete deadline).
 
 **Ways that** [**features/bugs guidelines**](https://docs.google.com/document/d/1QxB_A1qkEJBKAvQpRa7JiSQLZhwg6HAEajNRNa7ldGg/edit) **are currently enforced**
 
 * Features guidelines:
-  * Start to ping people already at T-15 or earlier for feature PRs that are still open.
+  * Start to ping people already at T-30 for feature PRs that are still open.
 * Bugs guidelines:
-  * Need to focus on fixing only S1 and S2 bugs after T-5 to avoid missing T-2 deadline for cutting the final.
+  * Need to focus on fixing only S1 and S2 bugs after RC-1 has been cut to avoid missing T-10 deadline for cutting the final.
 
 **Ways to ensure features are tested for HA/Mobile/Scale**
 
