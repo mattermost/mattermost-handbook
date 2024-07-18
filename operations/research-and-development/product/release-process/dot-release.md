@@ -2,7 +2,7 @@
 
 Dot releases are done for high priority and high severity security issues and customer bugs. The general steps are:
 
-1. The issue is escalated by the customer / customer support team and an incident channel is opened.
+1. The issue is escalated by customers, customer support team, community members or internally.
 2. Our developer team investigates the issue as soon as possible.
 3. A pull request for the issue is submitted and dev/QA reviewed, and then merged.
 4. The bug fix is cherry-picked to the relevant release branch.
