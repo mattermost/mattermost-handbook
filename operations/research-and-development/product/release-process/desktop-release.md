@@ -20,6 +20,5 @@ Every 3 months, the Desktop app release milestones follow the cloud/self-hosted 
  - Cut release branch at T-24. This is also the Feature Complete deadline.
  - Cut RC-1 at T-19.
  - Code Freeze at T-10.
- - Cut Final build at T-8.
     - [QA approval](https://community.mattermost.com/playbooks/playbooks/h798dt39mpbymb8z5uoiuf4hdo/outline) should be ready by T-8.
  - Release Day at T-0.

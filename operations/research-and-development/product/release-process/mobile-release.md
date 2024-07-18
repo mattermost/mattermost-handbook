@@ -13,14 +13,13 @@ Note: T-minus counts are measured in "working days" \(weekdays, Monday through F
 The Mobile app release schedule follows the cloud/self-hosted release schedule to align all release testing cycles.
 
 **Schedule for Mobile App releases**:
- - Around T-24
+ - Feature Complete at T-24
     - This is the Feature Complete deadline for the release.
     - Cut the release branch based off the `main` branch.
- - T-19
+ - RC-1 cut at T-19
     - Cut RC builds based off the release branch for QA release testing. Release testing begins.
- - Code Freeze at T-10
-    - Cut another RC build based off the release branch.
     - Note: More frequent RC builds may be requested by the QA team and the Release Manager as we get closer to the release date and as more regression fixes get merged.
- - Cut Final build at T-8
-    - [QA approval](https://community.mattermost.com/playbooks/playbooks/9znffdsm9p8ixpanycpnb1mwkh/outline) should be ready by T-8.
+ - Code Freeze at T-10
+    - Release testing is completed.
+    - [QA approval](https://community.mattermost.com/playbooks/playbooks/9znffdsm9p8ixpanycpnb1mwkh/outline) should be ready by T-10.
  - Release Day at T-0

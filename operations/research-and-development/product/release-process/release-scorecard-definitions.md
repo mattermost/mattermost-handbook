@@ -15,17 +15,17 @@
   <tbody>
     <tr>
       <td style="text-align:left">Date/time updated to RC1 (PST)</td>
-      <td style="text-align:left">Check Release Discussion channel history for date/time RC1 was cut.</td>
+      <td style="text-align:left">Check Release Self-Hosted/Cloud channel history for date/time RC1 was cut.</td>
     </tr>
     <tr>
       <td style="text-align:left">How many RCs cut</td>
-      <td style="text-align:left">Check Release Discussion channel history for how many RCs were cut for
+      <td style="text-align:left">Check Release Self-Hosted/Cloud channel history for how many RCs were cut for
         that release.</td>
     </tr>
     <tr>
       <td style="text-align:left">Number of days between when QA approval is posted and the release date</td>
       <td
-      style="text-align:left">Check Release Discussion channel for post with official release build.
+      style="text-align:left">Check Release Self-Hosted/Cloud channel for post with official release build.
         Oxygen = 16th - Day Final RC is cut</td>
     </tr>
     <tr>

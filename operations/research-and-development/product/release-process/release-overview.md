@@ -50,14 +50,15 @@ The goal is to deliver value to users quickly by a\) shipping fast to get featur
 5. **Achieve Customer Obsession by doing retrospectives on release issues and monitoring customer/community release bug reports after releases**
    * This allows us to learn from issues so that they don’t happen again and to fix critical bugs asap.
    * Retrospectives for issues and dot releases are important.
-   * Monitor community and customer reports in GitHub, Forum, Zendesk, and channels like Ask R&D, in partnership with the Support team.
+   * Monitor community and customer reports in GitHub, Forum, and channels like Ask R&D, in partnership with the Support team.
 
 ## Release Cycles
 
 We follow [the Agile Release Train method](https://www.scaledagileframework.com/agile-release-train/). If releases are not approved by a certain date, then we miss the release train.
 
  - Cloud/self-hosted [release process is outlined here](https://handbook.mattermost.com/operations/research-and-development/product/release-process/feature-release).
- - [Mobile app](https://handbook.mattermost.com/operations/research-and-development/product/release-process/mobile-release) and [Desktop app](https://handbook.mattermost.com/operations/research-and-development/product/release-process/desktop-release) releases follow the same release cadence as cloud/self-hosted.
+ - [Mobile app](https://handbook.mattermost.com/operations/research-and-development/product/release-process/mobile-release) releases follow the same release cadence as cloud/self-hosted.
+ - [Desktop app release process](https://handbook.mattermost.com/operations/research-and-development/product/release-process/desktop-release).
  - When issues are found that warrant a patch release, we follow the [dot release process outlined here](https://handbook.mattermost.com/operations/research-and-development/product/release-process/dot-release).
 
 ## Release dates communication
@@ -66,13 +67,13 @@ Release dates are currently communicated in the following ways.
 
 1. Channels
    * The [Release Announcements channel](https://community.mattermost.com/core/channels/release-announcements) functions as the main location for important announces about Cloud test server updates, and for release dates and feature complete deadlines. Specific teams or people may be at-mentioned if the announce is targeted at someone.
-   * The [Announcements channel](https://community.mattermost.com/private-core/channels/announcements) functions as the central place to find the most important announcements for new releases with links to blog posts that can be easily shared with external stakeholders including MLT and customers.
+   * The [Announcements channel](https://community.mattermost.com/private-core/channels/announcements) functions as the central place to find the most important announcements for new releases with links to changelogs and/or blog posts that can be easily shared with external stakeholders including MLT and customers.
 2. Mattermost Release Dates Calendar
    * Lists key release dates and deadlines.
 3. PM and R&D meetings
-   * Updates are provided on upcoming key dates and/or features.
+   * Updates are provided on upcoming key dates and/or features as needed.
 4. Productboard
-   * [Productboard](https://mattermost.productboard.com/roadmap/2855466-features-by-release) - One calendar overview of what releases + features are coming up.
+   * [Productboard](https://mattermost.productboard.com/data/releases) - A milestone overview of what releases + features are coming up.
 5. Spreadsheet
    * [Overview of release deadlines and cherry-picking guidelines](https://docs.google.com/spreadsheets/d/1jGEnuaZxosmC-JSUXFeZOR7I34ORFtNjPVw8hvzCIC4/edit#gid=0).
 
@@ -109,8 +110,8 @@ When triaging a bug report, consider the following:
 **Responders**
 
 * Who is making the decision on which process above we need to follow?
-  * In some cases it's the SET On-Call Commander, and in some cases it's other people such as the Release Manager or developers who notice or get notified about the report.
-* Bugs will be fixed by either the SET team or by respective development teams, depending on availability and expertise.
+  * In some cases it's the customer support teams or Cloud teams, and in some cases it's other people such as the Release Manager or developers who notice or get notified about the report.
+* Bugs will be fixed by either the CRE team or by respective development teams, depending on availability and expertise.
 
 ## Frequently Asked Questions
 
@@ -128,7 +129,7 @@ When triaging a bug report, consider the following:
 
 **Q: How can I determine if my merge request will make it into the next release?**
 
-* A: The Release Manager adds PR milestones and Jira fix versions for tracking. You can also check the release branches (e.g. in the server repo) to see what's included.
+* A: The Release Manager adds PR milestones and Jira fix versions for tracking. You can also check the release branches (e.g. in the mattermost repo) to see what's included.
 
 **Q: Do we use Playbooks for releases?**
 
@@ -164,11 +165,7 @@ When triaging a bug report, consider the following:
 
 **Q: How does translations branching work?**
 
-* A: The translation PR will be submitted against the master branch and will be cherry-picked to the `release` branch as needed.
-
-**Q: How does cutting mobile builds work?**
-
-* A: See instructions here: https://developers.mattermost.com/internal/mobile-build-process/
+* A: The translation PR will be submitted against the master branch.
 
 **Q: What is the process for community PRs?**
 
