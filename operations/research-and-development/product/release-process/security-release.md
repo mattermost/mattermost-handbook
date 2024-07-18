@@ -1,6 +1,6 @@
 # Security Release Process
 
-Security dot releases are done for high and medium level severity security issues. The general steps are:
+Security dot releases are done for high, medium and low level severity security issues based on [the backport policy](https://handbook.mattermost.com/operations/security/product-security/product-vulnerability-process#backport-policy). The general steps are:
 
 1. A pull request for the issue is submitted and dev/QA reviewed, and then merged.
 2. The bug fix is cherry-picked to the relevant release branch.
