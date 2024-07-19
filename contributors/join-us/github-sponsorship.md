@@ -48,6 +48,11 @@ During quarterly check-ins:
 - Participants meet with the program lead to share their program feedback on what’s going well, what’s not going well, and any blockers encountered.  
 - Internal team members working closely with participants share contextual performance feedback with the program lead.
 
+## Process for contributors to exit the program
+
+1. The sponsored contributor informs the program lead, by email, of their intention to leave the program.
+2. The program lead sends a request to IT to remove any applicable core contributor privileges as well as the sponsorship itself. Accounts Payable and the staff member who nominated the contributor are included for visibility.
+
 ## Notes
 
 * The current program lead is Carrie Warner.
