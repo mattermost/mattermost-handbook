@@ -17,7 +17,7 @@ The People Team will continue to update this page to include entity-specific lea
 
 1. To initiate your leave, please send an email to [HR](mailto:hr@mattermost.com) and your manager at least thirty days before your leave. Also, review your local regulations based on your employment location. These are subject to change as legal requirements change.
 2. Discuss dates with your manager and enter the dates in Rippling. The dates may be approximate and HR will adjust accordingly once the leave begins.
-3. The effective leave of absence date should be confirmed with [HR](mailto:hr@mattermost.com) if it changes from the initial notification and updated in BambooHR accordingly.
+3. The effective leave of absence date should be confirmed with [HR](mailto:hr@mattermost.com) if it changes from the initial notification and updated in Rippling accordingly.
 
 ### Manager responsibilities during a leave of absence
 
