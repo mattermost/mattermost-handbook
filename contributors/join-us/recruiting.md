@@ -150,36 +150,6 @@ Mattermost offers additional benefits to employees based in the [US](https://doc
 
 We have a weekly all-company [Customer Obsession Meeting](https://handbook.mattermost.com/operations/operations/company-cadence#customer-obsession-meeting-aka-com). We understand staff may not be able to attend every week. The meeting is 25 minutes and a recording is shared internally for staff that may not be able to attend. There may be team-specific schedule requirements depending on the team and role, such as teams with SLAs or on-call requirements. Your Recruiter or Hiring Manager will indicate any specific team core hours during the interview process.
 
-### Referral program
-
-Mattermost staff and Community members are eligible to receive a $3,000 USD referral bonus if the candidate they refer is hired and completes 90 days of service with Mattermost.
-
-#### How to refer a candidate
-
-* Log in to [Lever](https://hire.lever.co/candidates), our Applicant Tracking System, using your Mattermost email address. Select the **Interviews** tab and then **+ Refer Candidate**.
-* You can also send the referral's resume to hr@mattermost.com.
-
-#### Referral criteria
-
-* A candidate who is not currently being considered for a role at Mattermost.
-* A candidate who has been personally introduced and connected with a member of the Recruiting team or the Hiring Manager.
-* The candidate must be submitted in Lever.
-* Both the staff member and the referred hire must be employed by Mattermost at the payroll date following 90 days of service to receive the bonus.
-
-#### Who isn't eligible to receive the bonus?
-
-* Co-founders, C-levels, and Vice Presidents are not eligible to receive the referral bonus.
-* Hiring Managers are not eligible to receive the bonus for staff that will report to them because hiring is a large part of a Manager's responsibilities.
-* Recruiting and Community team members as well as staff members involved in the Community may not refer a Community member who is already part of the Community.
-* Referral bonuses are not given if there are external recruiting agency fees associated with hiring the new staff member.
-* Agencies and external recruiters without a contracted relationship with Mattermost are not eligible to receive the bonus.
-* Reach out to the Director of HR \(DM: @natalie.jew\) with any referral bonus eligibility questions.
-
-#### Receiving the referral bonus
-
-* Employees of a Mattermost entity receive payment through regular payroll.
-* Contractors add the bonus amount to their invoices.
-* Contributors receive payment through a third party payment, such as virtual gift card.
 
 ### Relocating
 
