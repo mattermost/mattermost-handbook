@@ -80,7 +80,7 @@ Not Applicable to: Vendor contractors, Advisors
 Responsibility: Manager
 Action: On their start date, manager to introduce contractor in the welcome channel using this [template](https://docs.google.com/document/d/1WfqrcHIblainVSxo3iefe85GpMYx1wfd57lSeCwedVM/edit?usp=sharing).
 
-##Offboarding Process
+## Offboarding Process
 
 **Step 1: Contract End Date Reminder**
 Applicable to: Contractors  \w system access
