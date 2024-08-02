@@ -130,6 +130,7 @@
     * [Sustained Engineering](operations/research-and-development/engineering/team/README.md)
       * [On call](operations/research-and-development/engineering/team/on-call.md)
     * [How to go to a conference](operations/research-and-development/engineering/how-to-go-to-conference.md)
+    * [Public speaking](operations/research-and-development/engineering/public-speaking.md)
     * [Core contributor expanded access policy](operations/research-and-development/engineering/core-contributor-expanded-access.md)
   * [Quality Assurance](operations/research-and-development/quality/README.md)
     * [QA workflow](operations/research-and-development/quality/qa-workflow.md)
