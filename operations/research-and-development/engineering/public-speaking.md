@@ -12,7 +12,7 @@ Once your CFP is ready, you need to prepare your slides. The DevRel team can rev
 
 After preparing your slides, there are multiple options for rehearsing your talk. The weekly Developers Meeting and R&D Meeting are great opportunities to practice delivering your content.
 
-Finally, once you are selected to attend a conference or meetup, Mattermost can provide the necessary support. Mattermost can assist with booking the hotel and transportation (if required), and the company will cover the cost (if the conference does it). For more information, see [How to spend company money](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money).
+Finally, once you are selected to attend a conference or meetup, Mattermost can provide the necessary support. Mattermost can assist with booking the hotel and transportation (if required), and the company will cover the cost (if the conference doesn't cover it). For more information, see [How to spend company money](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money).
 
 ## How to select an event
 
@@ -60,3 +60,6 @@ A: Try to use common sense, but ask the DevRel team if you have any doubts.
 
 Q: Who has to approve my expenses?
 A: Public speaking expenses should be submitted in Airbase.
+
+Q: I'm a team lead, from which budget is paid the cost of public speaking for my team members?
+A: The cost of public speaking is paid from the DevRel budget.
