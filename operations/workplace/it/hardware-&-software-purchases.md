@@ -135,6 +135,7 @@ Please see the current list of approved vendors below:
 * Dell
 * DisplayLink
 * ErgoDox
+* Firewalla
 * Gigabyte
 * Google
 * Glorious LLC
