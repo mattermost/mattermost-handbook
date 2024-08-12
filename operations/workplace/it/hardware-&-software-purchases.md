@@ -115,6 +115,8 @@ The approved vendor list is a list of vendors IT has reviewed and approved for w
 Please see the current list of approved vendors below:
 
 * Apple
+* Adata
+* Afterplug
 * Anker
 * APC
 * Amazon Basics
@@ -122,21 +124,34 @@ Please see the current list of approved vendors below:
 * Asus
 * Audio Technica
 * Bose
+* Brother
 * BenQ
+* Belkin
+* Beyerdynamic
 * Corsair
+* Caldigit
 * Cisco
+* Creative
 * Dell
 * DisplayLink
+* ErgoDox
+* Firewalla
 * Gigabyte
+* Google
+* Glorious LLC
+* HP
 * Intel
 * JBL
 * Jabra
+* Keychron
+* Klipsch
 * Lenovo
 * Logitech
 * LG
 * Microsoft
 * MSI
 * Netgear
+* Nokia
 * Panasonic
 * Philips
 * Razer
@@ -151,6 +166,10 @@ Please see the current list of approved vendors below:
 * Sony
 * Targus
 * Toshiba
+* Ubiquiti
 * Ugreen
+* Videotron
+* Western Digital
+* Yubico
 
 
