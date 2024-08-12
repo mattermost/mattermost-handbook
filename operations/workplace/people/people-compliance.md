@@ -20,6 +20,13 @@ For questions, please reach out via these channels:
 
 Mattermost employees involved in the export of items must familiarize themselves with the corporate export compliance policy, be able to identify issues and, at a minimum, know when to contact legal@mattermost.com. Any questions that you have regarding the contents of this manual or the details of a particular transaction should be forwarded to Mattermost's VP, Legal.
 
+## Privacy Notice
+
+* [Mattermost Employee and Contractor Privacy Notice](https://docs.google.com/document/d/1IRUpXOGg53LqqHZCZSoQHU_1I4Vc4uTI/edit?usp=sharing&ouid=116196163148999232170&rtpof=true&sd=true)
+
+## Background Checks
+
+* [Mattermost Background Check Policy](https://docs.google.com/document/d/1SGLkstTeSQRY9NxvizzT8AMVCI1TdMmp6PVV6QSF_6c/edit?usp=sharing)
 
 ## Labor notices 
 
