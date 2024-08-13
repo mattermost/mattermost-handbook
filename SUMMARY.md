@@ -219,6 +219,7 @@
   * [PeopleOps](operations/workplace/people/README.md)
     * [HR cadences](operations/workplace/people/hr-cadences.md)
     * [HR systems](operations/workplace/people/hr-systems.md)
+    * [HR Processes](operations/workplace/people/hr-processes/contractor-onboarding-and-offboarding-process.md)
     * [Working at Mattermost](operations/workplace/people/working-at-mattermost/README.md)
       * [Onboarding](operations/workplace/people/working-at-mattermost/onboarding/README.md)
         * [Things everyone must know](operations/workplace/people/working-at-mattermost/onboarding/things-everyone-must-know.md)
