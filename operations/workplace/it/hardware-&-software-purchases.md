@@ -4,7 +4,7 @@
 
 #### Laptop \(business computer\)
 
-For all new staff members, to request a new laptop, please use this [form](https://docs.google.com/forms/d/e/1FAIpQLSe7DV-dt1K4G2UtVszjK78iRZD5i_ubhRk3xkUKnEemcyyELw/viewform). We realize laptops are the most vital company equipment to be successful at Mattermost, please choose what you need to do your best work. If you require a laptop outside of the normal specifications of what we provide by default, please reach out to IT@mattermost.com with the details of the request.
+For all new staff members, to request a new laptop, please use this [form](https://mattermost.atlassian.net/servicedesk/customer/portal/6/group/21/create/61). We realize laptops are the most vital company equipment to be successful at Mattermost, please choose what you need to do your best work. If you require a laptop outside of the normal specifications of what we provide by default, please reach out to IT@mattermost.com with the details of the request.
 
 **Non-engineers**
 
@@ -24,9 +24,9 @@ Once you've received your laptop, you're required to register it by completing a
 
 #### Desktop \(business computer\)
 
-Desktops may be requested alongside a laptop for **engineering** roles. To request a desktop, email a request to your manager with the subject `Desktop for Approval`. Include IT for approval tracking by cc'ing daniel.sischy@mattermost.com. If your manager approves, a request should be sent to Joram Wilander, Director of Engineering, for budget review and need. If you receive both approvals, you may formally request a desktop through the [Desktop Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe2_21Jllo8kztsnhhF_Xre9iOiPoeELUWwYziCDB25y68Wpw/viewform). Estimated delivery time will be communicated by IT once the order has been placed, but expect on average 1-4 week delivery window.
+Desktops may be requested alongside a laptop for **engineering** roles. To request a desktop, email a request to your manager with the subject `Desktop for Approval`. Include IT for approval tracking by cc'ing daniel.sischy@mattermost.com. If your manager approves, a request should be sent to Joram Wilander, Director of Engineering, for budget review and need. If you receive both approvals, you may formally request a desktop through the [Hardware Request Form](https://mattermost.atlassian.net/servicedesk/customer/portal/6/group/21/create/61). Estimated delivery time will be communicated by IT once the order has been placed, but expect on average 1-4 week delivery window.
 
-We offer three desktop options. The specifications below are those we believe are needed for you to do your best work at Mattermost, but they are not a hard ceiling. If you need upgraded specifications, outline them within the [Desktop Request Form](https://docs.google.com/forms/d/e/1FAIpQLSe2_21Jllo8kztsnhhF_Xre9iOiPoeELUWwYziCDB25y68Wpw/viewform).
+We offer three desktop options. The specifications below are those we believe are needed for you to do your best work at Mattermost, but they are not a hard ceiling. If you need upgraded specifications, outline them within the [Hardware Request Form](https://mattermost.atlassian.net/servicedesk/customer/portal/6/group/21/create/61).
 
 * **Mac:**
   * Mac Studio
@@ -92,7 +92,7 @@ The company device may only be used for work-related purposes. Personal usage is
 
 #### Laptop
 
-Many staff members will use their company issued laptop until it breaks. That said, if your productivity is suffering, you can request a new laptop at any time [here](https://docs.google.com/forms/d/e/1FAIpQLSe7DV-dt1K4G2UtVszjK78iRZD5i_ubhRk3xkUKnEemcyyELw/viewform). The average timeframe for equipment replacement is approximately three years. Old laptops fall under the [Hardware Buy Back Policy](https://handbook.mattermost.com/operations/it/hardware-buy-back-policy). Replacement laptops should follow the registration process similar to new hires by completing our [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform).
+Many staff members will use their company issued laptop until it breaks. That said, if your productivity is suffering, you can request a new laptop at any time [here](https://mattermost.atlassian.net/servicedesk/customer/portal/6/group/21/create/61). The average timeframe for equipment replacement is approximately three years. Old laptops fall under the [Hardware Buy Back Policy](https://handbook.mattermost.com/operations/it/hardware-buy-back-policy). Replacement laptops should follow the registration process similar to new hires by completing our [Asset Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSfesCJ-XMvXjBxeAYJxvzzbvZHnSv2rH9I48IioJrURNhd7Eg/viewform).
 
 #### Other
 
