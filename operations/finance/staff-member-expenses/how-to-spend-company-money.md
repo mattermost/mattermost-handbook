@@ -132,7 +132,7 @@ Team events and meetups should be planned in advance with ample notice and appro
 
 The [Airfare](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#airfare-and-traveling), [Meals and Entertainment](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#meals-and-entertainment), and [Hotel](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#hotel-and-lodging) policies take precedence even in the case of team events or meetups.
 
-For team off sites, where travel and overnight stays are necessary, we encourage staff to use their best judgment. Historically, the average cost is $250 USD per person per day which includes meals, lodging, and meeting spaces. Travel costs like airfare, ride shares, or external partner and customer dinners are considered an additional expenditure and should seek [manager approval](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money#manager-approval) first.
+For team off-sites, where travel and overnight stays are necessary, we encourage staff to use their best judgment. Historically, the average cost is $250 USD per person per day which includes meals, lodging, and meeting spaces. Travel costs like airfare, ride shares, or external partner and customer dinners are considered an additional expenditure and should seek [manager approval](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money#manager-approval) first.
 
 ### Team celebrations
 
@@ -146,13 +146,13 @@ Use your best judgment if a rental car is needed. It's recommended to use Uber, 
 
 #### What happens if we need to cancel a reservation related to an internal travel (e.g. conference, customer meeting, team event) that’s non-refundable? 
 
-Try to get a refund, sometimes this is possible even if the vendor has a standard policy against it. Otherwise try to get credit for future use. If you’re able to achieve either, or if the amount paid needs to be forfeited, please let finance know. Please expense any non-refundable charges for work-related reservations due to cancellations.
+Try to get a refund, sometimes this is possible even if the vendor has a standard policy against it. Otherwise, try to get credit for future use. If you’re able to achieve either, or if the amount paid needs to be forfeited, please let finance know. Please expense any non-refundable charges for work-related reservations due to cancellations.
 
 #### If I didn’t get a chance to submit an expense for work travel and are unable to get a refund for it, can I still have it reimbursed?
 
-Yes, please submit work-related expenses [via Expensify](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-use-expensify).
+Yes, please submit work-related expenses [via Airbase](https://handbook.mattermost.com/operations/finance/airbase/how-to-access-airbase).
 
-#### I have a personal stay planned before/after my in-person work travel that was canceled. I was originally planning to have the company cover airfare costs to and from the destination. What are my options?
+#### I have a personal stay planned before/after my in-person work travel that was cancelled. I was originally planning to have the company cover airfare costs to and from the destination. What are my options?
 
 You can choose to continue your personal stay by covering your airfare cost out-of-pocket. Travel costs or UATP (United Air Travel Plan) for work meetings should be refunded to the company when possible. If a staff member was reimbursed for a company expense that’s repurposed for personal use, the reimbursement should be [returned to the company](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-reimburse-the-company). This is common for how most other companies are treating the separation between work travel and holiday travel. Alternatively, try to get a refund on any deposits for your personal stay, sometimes this is possible even if the vendor has a standard policy against it. Otherwise try to get credit for future use.
 
