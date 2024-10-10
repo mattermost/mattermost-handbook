@@ -51,7 +51,6 @@ The team manages several cross-functional programs, including:
  - (John) Forum management: Monitoring and maintenance of peer-to-peer feature request forum on Uservoice and Discourse forum.
      - Discourse: [https://forum.mattermost.com/](https://forum.mattermost.com/)
      - UserVoice: [https://mattermost.uservoice.com/forums/306457-general](https://mattermost.uservoice.com/forums/306457-general)
-     - Discord: [https://discord.gg/kAC8WakMAx](https://discord.gg/kAC8WakMAx) (for OpenOps & AI communities)
  - (Vidhi, with Hanna) Community promotions: Managing logistics around community swag, Mattermost contributor mugs, and Mattermost contributor MVPs.
      - Community swag orders: [https://docs.google.com/spreadsheets/d/1peej--v7WhjU58J_Wv-OW_iutT_MqqsTMMZeBS5qIBc/edit#gid=0](https://docs.google.com/spreadsheets/d/1peej--v7WhjU58J_Wv-OW_iutT_MqqsTMMZeBS5qIBc/edit#gid=0)
  - (Hanna) Community event logistics: Managing logistics around Community/DevRel meetups-in-a-box, and DevRel/engineering talks.
