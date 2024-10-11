@@ -153,6 +153,7 @@ Please see the current list of approved vendors below:
 * Netgear
 * Nokia
 * Panasonic
+* Plantronics
 * Philips
 * Razer
 * Rode
