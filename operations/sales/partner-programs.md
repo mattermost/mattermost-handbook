@@ -2,7 +2,7 @@
 
 **Ready to place an order?** [Complete our deal registration form](https://mattermost.com/reseller-deal-registration/) to be eligible for a reseller discount.
 
-**Ready to become a Mattermost partner?** [Contact us](https://mattermost.com/contact-us) with a request to become a Mattermost partner under one of the programs listed below. If applicable, include the name of the customer to which you would like to resell.
+**Ready to become a Mattermost partner?** [Contact us](https://mattermost.com/partners) with a request to become a Mattermost partner under one of the programs listed below. If applicable, include the name of the customer to which you would like to resell.
 
 ------
 
@@ -20,20 +20,20 @@ Companies who enter into a Mattermost Authorized Reseller agreement typically ha
 
 ### Becoming a Mattermost Authorized Reseller
 
-* Complete a [contact form](https://mattermost.com/contact-us) with Mattermost to request an Authorized Reseller discussion and, if available, include the name of the customer to which you would like to resell.
-* You'll be in contact with a partner manager via email, or possibly phone, to understand the details of your business and the resale transaction.
+* Complete a [contact form](https://support.mattermost.com/hc/en-us/requests/new?ticket_form_id=24278352368532) with Mattermost to request an Authorized Reseller discussion and, if available, include the name of the customer to which you would like to resell.
+* You'll be in contact with a partner manager via ticket or email to understand the details of your business and the resale transaction.
 * Once the resale is approved internally, you will be provided a one-time click-sign authorized reseller agreement to complete, along with purchase order information for your customer.
 
 ### Placing an order as a Mattermost Authorized Reseller
 
-When ready to place an order, submit a purchase order to orders@mattermost.com along with the name, address, and contact information of your customer.
+When ready to place an order, submit a purchase order to partners@mattermost.com along with the name, address, and contact information of your customer.
 
 **Note:** Mattermost does not accept customer purchase orders or custom terms for Reseller orders.
 
 Mattermost, Inc. will then:
 
 * Review the terms and conditions of the order.
-* Send the customer contact a request to complete a [customer registration form](https://mattermost.com/support/) \(password provided after PO is sent\), which includes an agreement to accept [Enterprise Edition Subscription Terms for Purchase by Resale](https://mattermost.com/enterprise-edition-terms/).
+* Send the customer contact a request to review the agreement to accept [Enterprise Edition Subscription Terms for Purchase by Resale](https://mattermost.com/enterprise-edition-terms/).
 * Review the completed customer registration form within one business day, and issue a license by email.
 * Issue you an invoice \(payment due within 30 days\).
 
@@ -46,12 +46,12 @@ Value-Added Resellers who complete online training, and have set up local suppor
 ### Benefits of being a Mattermost Value-Added Reseller \("VAR"\)
 
 * Reseller discount from list prices for selling Mattermost Enterprise Edition.
-* Partner Evaluation License for Mattermost Enterprise Edition E20.
+* Partner Evaluation License for Mattermost Enterprise Edition.
 * Relationship with Mattermost field sales for fulfilling orders customer orders.
 
 ## Becoming a Mattermost Value-Added Reseller \("VAR"\)
 
-* Complete a [contact form](https://mattermost.com/contact-us) with Mattermost requesting a reseller discussion.
+* Complete a [contact form](https://mattermost.com/contact-us](https://support.mattermost.com/hc/en-us/requests/new?ticket_form_id=24278352368532) with Mattermost requesting a reseller discussion.
 * Reseller applications are reviewed within 1-2 weeks. Resellers meeting the following criteria are invited for a partnership discussion:
   * An existing customer has inquired by purchasing Mattermost Enterprise Edition via resale.
   * Your company has at least two years of operating history.
@@ -69,7 +69,7 @@ Value-Added Resellers who complete online training, and have set up local suppor
 Mattermost, Inc. will then:
 
 * Review the terms and conditions of the order.
-* Send the customer contact a request to complete a [customer registration form](https://about.mattermost.com/customer-registration/) \(password provided after PO is sent\), which includes an agreement to accept [Enterprise Edition Subscription Terms for Purchase by Resale](https://mattermost.com/customer-terms-and-conditions).
+* Send the customer contact a request to review the agreement to accept [Enterprise Edition Subscription Terms for Purchase by Resale](https://mattermost.com/enterprise-edition-terms/).
 * Review the completed customer registration form within one business day, and issue a license by email.
 * Issue you an invoice \(payment due within 30 days\).
 
@@ -83,9 +83,9 @@ Commercial and open source organizations who demonstrate the ability to automate
 * Guest writer opportunities on the Mattermost blog.
 * Joint-webinar opportunities.
 * Promotion on Mattermost social media accounts.
-* Partner Evaluation License for Mattermost Enterprise Edition E20.
+* Partner Evaluation License for Mattermost Enterprise Edition.
 
-To apply for the program, complete the [contact form](https://mattermost.com/contact-us) with Mattermost requesting a deployment solutions partner discussion.
+To apply for the program, complete the [contact form](https://mattermost.com/partners) with Mattermost requesting a deployment solutions partner discussion.
 
 ## Partner Directory
 
@@ -114,10 +114,9 @@ For example: A well-known city with a unique name like Johannesburg would be dis
 
 ## Partner Evaluation License
 
-As a Value-Added Reseller or Deployment Solution Partner, you can request a renewable 1-year E20 license for up to 50 users.
+As a Value-Added Reseller or Deployment Solution Partner, you can request a renewable 1-year Mattermost Enterprise license for up to 50 users.
 
-* Go to [https://www.mattermost.com/trial/](https://www.mattermost.com/trial/) to complete a trial form and enter \[RESELLER\] after your organization name.
-* In the “Where are you with Mattermost” section, select **Other**.
+* Go to [the Mattermost Partner Program form](https://support.mattermost.com/hc/en-us/requests/new?ticket_form_id=24278352368532) to complete a trial form.
 * Please send an email to partners@mattermost.com letting us know the above have been completed so your application can be reviewed and matched against our certified reseller database.
 * Please expect delivery in 2-3 business days.
 
