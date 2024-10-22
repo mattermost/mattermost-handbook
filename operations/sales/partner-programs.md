@@ -1,125 +1,98 @@
 # Partner Programs
 
-**Ready to place an order?** [Complete our deal registration form](https://mattermost.com/reseller-deal-registration/) to be eligible for a reseller discount.
+**Ready to place an order?** [Complete our deal registration form](https://mattermost.com/reseller-deal-registration/) to qualitfy for a reseller discount.
 
-**Ready to become a Mattermost partner?** [Contact us](https://mattermost.com/contact-us) with a request to become a Mattermost partner under one of the programs listed below. If applicable, include the name of the customer to which you would like to resell.
+**Ready to become a Mattermost partner?** [Contact us](https://support.mattermost.com/hc/en-us/requests/new?ticket_form_id=24278352368532) with a request to become a Mattermost partner under one of the programs listed below. If applicable, include the name of the customer to which you would like to resell.
 
-------
+Mattermost offers a variety of partner programs:
 
-Mattermost offers multiple partner programs:
-
-* Mattermost Authorized Reseller Program for one-time resale transactions fulfilling customer request to reseller.
-* Mattermost Value-Added Reseller Program for on-going resellers providing first and second tier support in local language and local timezone.
-* Mattermost Deployment Solutions Partner Program for co-marketing relationships with both commercial and open source partners automating the deployment of Mattermost.
+* Mattermost Authorized Reseller Program: Designed for one-time resale transactions to fulfill customer requests through resellers.
+* Mattermost Value-Added Reseller Program: Ideal for ongoing resellers who provide first and second-tier support in the local language and timezone.
+* Mattermost System Integrators Partner Program: Tailored for those who deploy, manage, extend, customize, and integrate Mattermost instances effectively.
 
 ## Mattermost Authorized Reseller Program
 
-The purpose of the Mattermost Authorized Reseller Program is to enable customers to purchase Mattermost Enterprise Edition via a fulfillment partner. The fulfillment partner earns a fee from the customer for reselling Mattermost into their procurement department, and for navigating the various approval processes, but does not provide support or installation services.
+The Mattermost Authorized Reseller Program is designed to facilitate the purchase of Mattermost Enterprise  through a fulfillment partner. This partner receives a fee from the customer for reselling Mattermost to their procurement department and navigating the necessary approval processes, without offering support or installation services.
 
-Companies who enter into a Mattermost Authorized Reseller agreement typically have existing relationships with customers, and help them procure information technology products.
+Companies participating in the Mattermost Authorized Reseller Program typically have established relationships with their clients and assist them in procuring information technology products.
 
 ### Becoming a Mattermost Authorized Reseller
 
-* Complete a [contact form](https://mattermost.com/contact-us) with Mattermost to request an Authorized Reseller discussion and, if available, include the name of the customer to which you would like to resell.
-* You'll be in contact with a partner manager via email, or possibly phone, to understand the details of your business and the resale transaction.
-* Once the resale is approved internally, you will be provided a one-time click-sign authorized reseller agreement to complete, along with purchase order information for your customer.
+* Fill out a [contact form](https://support.mattermost.com/hc/en-us/requests/new?ticket_form_id=24278352368532) with Mattermost to initiate a discussion about becoming an Authorized Reseller. If possible, include the name of the customer you wish to serve.
+* A partner manager will reach out via email or phone to discuss the specifics of your business and the resale transaction.
+* Once the resale is approved internally, you will receive a one-time click-sign authorized reseller agreement to finalize, along with purchase order details for your customer.
 
 ### Placing an order as a Mattermost Authorized Reseller
 
-When ready to place an order, submit a purchase order to orders@mattermost.com along with the name, address, and contact information of your customer.
+To place an order, submit a purchase order to partners@mattermost.com, including your customer's name, address, and contact information.
 
 **Note:** Mattermost does not accept customer purchase orders or custom terms for Reseller orders.
 
-Mattermost, Inc. will then:
+Mattermost, Inc. will:
 
-* Review the terms and conditions of the order.
-* Send the customer contact a request to complete a [customer registration form](https://mattermost.com/support/) \(password provided after PO is sent\), which includes an agreement to accept [Enterprise Edition Subscription Terms for Purchase by Resale](https://mattermost.com/enterprise-edition-terms/).
-* Review the completed customer registration form within one business day, and issue a license by email.
-* Issue you an invoice \(payment due within 30 days\).
+* Review the order's terms and conditions.
+* Send the customer a request to agree to the [Enterprise Subscription Terms for Purchase by Resale](https://mattermost.com/enterprise-edition-terms/).
+* Review the request within one business day and issue a license by email.
+* Send an invoice due within 30 days.
 
 ## Mattermost Value-Added Reseller Program
 
-The purpose of the Mattermost Value-Added Reseller program is to enable customers to purchase Mattermost Enterprise Edition via a partner who provides fulfillment support as well as first and second tier customer support in local timezone and local language.
-
-Value-Added Resellers who complete online training, and have set up local support processes, are offered a discount to Mattermost Enterprise Edition list prices.
-
-### Benefits of being a Mattermost Value-Added Reseller \("VAR"\)
-
-* Reseller discount from list prices for selling Mattermost Enterprise Edition.
-* Partner Evaluation License for Mattermost Enterprise Edition E20.
-* Relationship with Mattermost field sales for fulfilling orders customer orders.
+The Mattermost Value-Added Reseller Program aims to facilitate customer access to Mattermost Enterprise through partners who deliver fulfillment support and provide first and second-tier customer assistance in local time zones and languages. Resellers who complete the online training and establish local support processes are eligible for a discount on Mattermost Enterprise list prices.
+* Receive a reseller discount on list prices when selling Mattermost Enterprise. 
+* Access a Partner Evaluation License for Mattermost Enterprise. 
+* Collaborate with Mattermost field sales teams to efficiently fulfill customer orders.
 
 ## Becoming a Mattermost Value-Added Reseller \("VAR"\)
 
-* Complete a [contact form](https://mattermost.com/contact-us) with Mattermost requesting a reseller discussion.
-* Reseller applications are reviewed within 1-2 weeks. Resellers meeting the following criteria are invited for a partnership discussion:
-  * An existing customer has inquired by purchasing Mattermost Enterprise Edition via resale.
-  * Your company has at least two years of operating history.
-  * If your company is located in a non-English-speaking country, you are willing and able to provide first and second tier support in the local language, via training materials provided by Mattermost, Inc.
-  * Provided the partnership discussion meets expectations, a non-exclusive reseller agreement is offered to the reseller specific to geography and industry.
-* Resellers work with the Strategic Alliance Manager on Mattermost Enterprise Edition opportunities.
+1. Initiate a Reseller Discussion: Complete the [contact form](https://support.mattermost.com/hc/en-us/requests/new?ticket_form_id=24278352368532) to express interest in becoming a reseller with Mattermost.
+2. Application Review: Reseller applications are assessed within 1-2 weeks. To qualify for a partnership discussion, applicants should meet the following criteria:
+* An existing customer has requested to purchase Mattermost Enterprise via resale.
+* Your company has a minimum of two years of operating history.
+* If located in a non-English-speaking country, you must be willing and able to provide first and second-tier support in the local language using training materials supplied by Mattermost, Inc.
+* If the partnership discussion is successful, a non-exclusive reseller agreement tailored to specific geography and industry will be offered.
+3. Collaboration with Sales Leaders: Resellers collaborate with the Sales Manager on Mattermost Enterprise opportunities.
 
 ### Order Processing
 
-* For each customer opportunity, you must [complete a deal registration form](https://mattermost.com/reseller-deal-registration/) to be eligible for a reseller discount.
-* Once the deal is registered, Mattermost will review the registration and contact you regarding approval, rejection, or to obtain more information.
-* Request a quotation from your Mattermost Strategic Alliance Manager for customer purchase, including the email address of the customer contact who will receive the license key.
-* The customer must sign the quotation before you issue a purchase order.
+* Deal Registration: For each customer opportunity, complete a [deal registration form](https://mattermost.com/reseller-deal-registration/) to qualify for a reseller discount.
+* Review and Approval: Mattermost will review your registration and contact you for approval, rejection, or further information.
+* Quotation and Purchase: Request a quotation from your Mattermost Sales Manager, including the customer's contact email for the license key. Customer signature on the quotation is required before issuing a purchase order.
 
-Mattermost, Inc. will then:
+Mattermost, Inc. will:
+* Review the order's terms and conditions.
+* Send the customer a request to agree to the [Enterprise Subscription Terms for Purchase by Resale](https://mattermost.com/enterprise-edition-terms/).
+* Review the request within one business day and issue a license by email.
+* Send an invoice due within 30 days.
+If a partner has registered a deal, received approval, and the customer purchases online, the partner may invoice Mattermost for a referral fee equal to the discount off the list price with an invoice note "Referral fee for deal registration [DEAL_REGISTRATION_NUMBER]" sent to payments@mattermost.com.
 
-* Review the terms and conditions of the order.
-* Send the customer contact a request to complete a [customer registration form](https://about.mattermost.com/customer-registration/) \(password provided after PO is sent\), which includes an agreement to accept [Enterprise Edition Subscription Terms for Purchase by Resale](https://mattermost.com/customer-terms-and-conditions).
-* Review the completed customer registration form within one business day, and issue a license by email.
-* Issue you an invoice \(payment due within 30 days\).
 
-If a partner has registered a deal, received approval, and the customer purchases online, the partner may invoice Mattermost for a referral fee equal to the discount off list price for the product with an invoice note "Referral fee for deal registration \[DEAL\_REGISTRATION\_NUMBER\]" \(sent to payments@mattermost.com\).
+## Mattermost System Integrators Partner Program
 
-## Mattermost Deployment Solutions Partner Program
-
-Commercial and open source organizations who demonstrate the ability to automate the deployment and maintenance of Mattermost systems per our [Deployment Solution Program guidelines](https://docs.mattermost.com/about/orchestration.html) are offered a co-marketing partnership, which may include:
-
-* Listings in the Mattermost partner directory.
-* Guest writer opportunities on the Mattermost blog.
-* Joint-webinar opportunities.
-* Promotion on Mattermost social media accounts.
-* Partner Evaluation License for Mattermost Enterprise Edition E20.
-
-To apply for the program, complete the [contact form](https://mattermost.com/contact-us) with Mattermost requesting a deployment solutions partner discussion.
+We invite both commercial and open-source organizations to join our partnership by showcasing their expertise integrating Mattermost.  Benefits of this partnership may include:
+* Inclusion in the Mattermost partner directory.
+* Opportunities to contribute as a guest writer on the Mattermost blog.
+* Co-hosted webinars.
+* Promotion on Mattermost's social media platforms.
+* An Evaluation License for Mattermost Enterprise.
+To apply, complete the [contact form](https://support.mattermost.com/hc/en-us/requests/new?ticket_form_id=24278352368532) for a discussion about becoming a systems integrators partner.
 
 ## Partner Directory
 
-A directory of Mattermost partners can be found at [https://mattermost.com/partners/](https://mattermost.com/partners/).
-
-After completion of a partner agreement, partners are invited to send an overview of their services with a logo for inclusion in the Mattermost partner directory.
-
-To get started, please email the following to partner-directory@mattermost.com:
-
-* **Partner Name:** Your legal name may be shortened to fit in the directory listing. If you wish you can state your full legal name as part of your partner description.
-* **Partner Description:** Between 30-100 words describing your business. See examples at [https://mattermost.com/partners/](https://mattermost.com/partners/).
-* **City, State/Province, and Country:** Location of key office or offices providing Mattermost services, or global headquarters.
-* **Website:** URL of main website for your organization.
-* **Logo:** At least 200px wide.
-
-If you have joined the Value-Added Reseller program, your reseller territory will appear in the listing as well.
-
-### Listing location of key office
-
-In the partner listing, city locations follow a "concise clarity" principle:
-
-* Cities that are not well-known, or which have very similiarly-named cities in the same country, are displayed as CITY, STATE/PROVINCE, COUNTRY.
-* Well-known and uniquely-named cities, display as CITY, COUNTRY.
-
-For example: A well-known city with a unique name like Johannesburg would be displayed as "Johannesburg, South Africa" and not "Johannesburg, Gauteng, South Africa", which is unnecessarily long. Similiarly a less well-known city, like "Arvada" is referenced as "Arvada, Colorado, USA".
+ Discover our Mattermost partner directory at https://mattermost.com/partners/. Upon completing a partner agreement, partners are encouraged to submit a service overview and logo for directory inclusion. To start, please email the following to partners@mattermost.com:
+* Partner Name: Your legal name may be abbreviated for the directory listing. You can also include your full legal name in your partner description.
+* Partner Description: Provide a 30-100 word summary of your business. Refer to examples at https://mattermost.com/partners/.
+* City, State/Province, and Country: Indicate the location of your main offices delivering Mattermost services or your global headquarters.
+* Website: The main URL for your organization's website.
+* Logo: Minimum width of 200px.
+If you are part of the Value-Added Reseller program, your reseller territory will be featured in the listing.
 
 ## Partner Evaluation License
 
-As a Value-Added Reseller or Deployment Solution Partner, you can request a renewable 1-year E20 license for up to 50 users.
-
-* Go to [https://www.mattermost.com/trial/](https://www.mattermost.com/trial/) to complete a trial form and enter \[RESELLER\] after your organization name.
-* In the “Where are you with Mattermost” section, select **Other**.
-* Please send an email to partners@mattermost.com letting us know the above have been completed so your application can be reviewed and matched against our certified reseller database.
-* Please expect delivery in 2-3 business days.
+As a Value-Added Reseller or System Integrators Partner, you are eligible to request a renewable 1-year Enterprise license for up to 50 users.
+* Visit https://www.mattermost.com/trial/ to complete a trial form. Be sure to add [RESELLER] after your organization name.
+* In the “Where are you with Mattermost” section, select Other.
+* Send an email to partners@mattermost.com to notify us once the above steps are completed, so we can review your application and match it against our certified reseller database.
+* Expect delivery within 2-3 business days.
 
 ## Mattermost Partner Program FAQ
 
@@ -127,4 +100,4 @@ Frequently asked questions from Mattermost partners.
 
 ### Can a partner sell Mattermost products without revealing the name of an end customer?
 
-No. Mattermost, Inc. must know all end customers with whom it does business. This is important for Mattermost to be able to service and renew the end customer if the reseller relationship is discontinued. Moreover, Mattermost cannot do business with customers in countries embargoed by the United States, and this must be confirmed in any commercial transaction.
+No, Mattermost, Inc. must be informed of all end customers with whom it conducts business. This ensures that Mattermost can provide ongoing service and renewals if the reseller relationship ends. Additionally, Mattermost cannot engage in business with customers in countries under U.S. embargo, which must be verified for any commercial transaction.
