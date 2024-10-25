@@ -50,7 +50,7 @@ The goal is to deliver value to users quickly by a\) shipping fast to get featur
 5. **Achieve Customer Obsession by doing retrospectives on release issues and monitoring customer/community release bug reports after releases**
    * This allows us to learn from issues so that they don’t happen again and to fix critical bugs asap.
    * Retrospectives for issues and dot releases are important.
-   * Monitor community and customer reports in GitHub, Forum, and channels like Ask R&D, in partnership with the Support team.
+   * Monitor community and customer reports in GitHub, Forum, and channels like Ask PDE, in partnership with the Support team.
 
 ## Release Cycles
 
@@ -70,7 +70,7 @@ Release dates are currently communicated in the following ways.
    * The [Announcements channel](https://community.mattermost.com/private-core/channels/announcements) functions as the central place to find the most important announcements for new releases with links to changelogs and/or blog posts that can be easily shared with external stakeholders including MLT and customers.
 2. Mattermost Release Dates Calendar
    * Lists key release dates and deadlines.
-3. PM and R&D meetings
+3. PM and PDE meetings
    * Updates are provided on upcoming key dates and/or features as needed.
 4. Productboard
    * [Productboard](https://mattermost.productboard.com/data/releases) - A milestone overview of what releases + features are coming up.
