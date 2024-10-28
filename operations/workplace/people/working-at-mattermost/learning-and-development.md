@@ -14,12 +14,6 @@ Learning is a cornerstone of our culture and a core aspect of our "Self Awarenes
 
 **Manager 01** is a toolkit developed by the People Team to onboard new managers and equip them with the fundamental knowledge and resources they’ll need to be successful People Managers at Mattermost. The toolkit is designed to help new managers understand expectations including behaviors, shared values, programs, and processes. The toolkit is a living document and will continue to evolve over time. Managers are encouraged to share feedback and contribute to the learning and development of their peers.
 
-**The Manager Core Skills Training Series** is developed by LifeLabs Learning and based on extensive research in psychology and organizational behavior. The training consists of 10 workshops and is designed to equip managers with the core skills and knowledge key to effective and inclusive leadership. 
-- We offer LifeLabs Learning workshops to our Individual Contributors (ICs) to enhance important skills and competencies that complement the Manager Core Skills Training Series.
-- Culture Amp’s Skills Coach delivers bite-size, daily, interactive online learnings that are based on LifeLabs’ Core Skills material. Managers and ICs can self-enroll in the micro-workshops directly in Culture Amp.
-
-**GrowthSpace** Coaching is an impactful way for individuals to boost their performance and drive their growth and development. We’ve partnered with Growth Space to offer full-time staff an opportunity to engage with industry experts through a tailored coaching program. Participants will be matched with an experienced coach over five one-hour long sessions to develop, improve, or enhance key skills identified as targeted areas for growth. The focus areas will align with specific development goals participants set in combination with their manager.
-
 ## Bravely
 
 Learning is a core part of our culture and we strive to emphasize deliberate development by creating different learning opportunities and experiences that help support our global, remote team. 
