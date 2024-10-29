@@ -34,7 +34,7 @@ Specific words and phrases to be extra careful with:
 
  - Obvious key words: "security", "vulnerability", "exploit", "insecure", "attack".
  - Anything that identifies a vulnerability type: "XSS", "authentication bypass", "authorization bug", "SQL injection", "remote code execution", etc.
- - Security-specific tools and terminology: "HackerOne", "CVE", "CVSS", "advisory", "pentest".
+ - Security-specific tools and terminology: "HackerOne", "Bugcrowd", "CVE", "CVSS", "advisory", "pentest".
 
 ### Guidelines for developers
 
