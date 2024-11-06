@@ -329,7 +329,7 @@ An ambiguous term that describes an [Installation](#Installation) (ie, Mattermos
 
 An [Installation](#Installation), hosted in Mattermost Cloud, with the necessary configurations to represent a Mattermost Cloud SaaS workspace (ie, configs, license, connections to CWS, configurability restrictions, etc) like one created from https://customers.mattermost.com
 
-#### Self Hosted Installation
+#### Self-Hosted Installation
 
 An installation, hosted in Mattermost Cloud, with the necessary configurations present to represent a self-hosted workspace (ie, configs, license, configurability, etc) 
 
