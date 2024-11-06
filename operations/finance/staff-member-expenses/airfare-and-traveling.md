@@ -8,7 +8,7 @@ description: >-
 
 ### Policy
 
-Mattermost is enrolled in The United PassPlus for Business program. This is a prepaid annual program which gives Mattermost discounted and preferential rates. United PassPlus is our preferred and simple solution to booking business travel without using a personal credit card. We recommend using PassPlus to compare rates prior to booking alternative travel, however use your best judgement in optimizing for price and travel mana \(i.e. inefficient routes\) All flights should be booked in economy unless your travels are eligible for [Upgrades](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money/airfare-and-traveling#upgrades). 
+Mattermost is enrolled in The United PassPlus for Business program. This is a prepaid annual program which gives Mattermost discounted and preferential rates. United PassPlus is our preferred and simple solution to booking business travel without using a personal credit card. We recommend using PassPlus to compare rates prior to booking alternative travel, however use your best judgement in optimizing for price and travel mana \(i.e. inefficient routes\) All flights should be booked in **economy** unless your travels are eligible for [Upgrades](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money/airfare-and-traveling#upgrades). 
 
 1. **Booking Platform**: United PassPlus and Star Alliance Travel Partners vs other airlines or ticketing websites \(e.g. Expedia, Delta, etc. which is outside of policy\)
 2. **Convenience**: direct flights on alternative airline versus 1 or more layovers on United or other Star Alliance Airlines.
@@ -33,6 +33,6 @@ For step by step on booking United Flights, refer to [UATP Instructions](https:/
 
 ### Upgrades
 
-Airfare upgrades are not reimbursable. If you have a medical need that requires anything other than economy, please follow the [Manager Approval](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money#manager-approval) process.  
+Airfare upgrades are not reimbursable. If you have a medical need that requires anything other than economy, please reach out to your MLT Manager for approval.  
 
 
