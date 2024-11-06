@@ -331,5 +331,5 @@ An [Installation](#Installation), hosted in Mattermost Cloud, with the necessary
 
 #### Self-Hosted Installation
 
-An installation, hosted in Mattermost Cloud, with the necessary configurations present to represent a self-hosted workspace (ie, configs, license, configurability, etc) 
+An installation, hosted in Mattermost Cloud, with the necessary configurations present to represent a self-hosted workspace (ie, configs, license, configurability, etc).
 
