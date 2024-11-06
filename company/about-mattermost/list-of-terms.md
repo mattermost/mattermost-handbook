@@ -315,7 +315,7 @@ Describes cloud infrastructure within AWS, where the Cloud Provisioning server, 
 
 #### Installation
 
-An installation is an instance of Mattermost, otherwise known as a Mattermost [Workspace](#Workspace). Internally, the term Installation generally implies it is hosted inside Mattermost Cloud
+An installation is an instance of Mattermost, otherwise known as a Mattermost [Workspace](#Workspace). Internally, the term Installation generally implies it is hosted inside Mattermost Cloud.
 
 #### Workspace
 
