@@ -323,7 +323,7 @@ A workspace is an instance of Mattermost, otherwise known as an [Installation](#
 
 #### Cloud Server
 
-An ambiguous term that describes an [Installation](#Installation) (ie, Mattermost [Workspace](#Workspace)) which is hosted in Mattermost Cloud
+An ambiguous term that describes an [Installation](#Installation) (ie, Mattermost [Workspace](#Workspace)) which is hosted in Mattermost Cloud.
 
 #### Cloud installation
 
