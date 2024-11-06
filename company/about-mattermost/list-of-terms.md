@@ -319,7 +319,7 @@ An installation is an instance of Mattermost, otherwise known as a Mattermost [W
 
 #### Workspace
 
-A workspace is an instance of Mattermost, otherwise known as an [Installation](#Installation). While it can be used interchangeably with "Installation", "Workspace" generally implies it is Self Hosted.
+A workspace is an instance of Mattermost, otherwise known as an [Installation](#Installation). While it can be used interchangeably with "Installation", "Workspace" generally implies it is a self-hosted deployment.
 
 #### Cloud Server
 
