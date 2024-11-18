@@ -297,6 +297,31 @@ Instead of working iteratively a "Windows Vista approach" attempts to ship signi
 
 This tempting, high risk approach is named after Microsoft’s “Windows Vista” operating system, one of its most famous examples.
 
+### Mattermost Cloud
+
+Describes cloud infrastructure within AWS, where the Cloud Provisioning server, Mattermost Operator, databases, file storage, etc exist. 
+
+### Installation
+
+An installation is an instance of Mattermost, otherwise known as a Mattermost [Workspace](#Workspace). Internally, the term Installation generally implies it is hosted inside Mattermost Cloud.
+
+### Workspace
+
+A workspace is an instance of Mattermost, otherwise known as an [Installation](#Installation). While it can be used interchangeably with "Installation", "Workspace" generally implies it is a self-hosted deployment.
+
+### Cloud Server
+
+An ambiguous term that describes an [Installation](#Installation) (ie, Mattermost [Workspace](#Workspace)) which is hosted in Mattermost Cloud.
+
+### Cloud installation
+
+An [Installation](#Installation), hosted in Mattermost Cloud, with the necessary configurations to represent a Mattermost Cloud SaaS workspace (ie, configs, license, connections to CWS, configurability restrictions, etc) like one created from https://customers.mattermost.com
+
+### Self-Hosted Installation
+
+An installation, hosted in Mattermost Cloud, with the necessary configurations present to represent a self-hosted workspace (ie, configs, license, configurability, etc).
+
+
 ## Tombstoned Terms
 
 The following is a list of terms no longer used with links to their definitions or notes on their deprecation. Tombstoned Terms use H3 headings on this page to distinguish them from active terms, which are H2 in heading formatting.
@@ -309,27 +334,4 @@ Previously hyphenated, now not hyphenated, see [Tombstoned](list-of-terms.md#tom
 
 A team and process that is ready for a key member to go on vacation, or spend time away from work.
 
-#### Mattermost Cloud
-
-Describes cloud infrastructure within AWS, where the Cloud Provisioning server, Mattermost Operator, databases, file storage, etc exist. 
-
-#### Installation
-
-An installation is an instance of Mattermost, otherwise known as a Mattermost [Workspace](#Workspace). Internally, the term Installation generally implies it is hosted inside Mattermost Cloud.
-
-#### Workspace
-
-A workspace is an instance of Mattermost, otherwise known as an [Installation](#Installation). While it can be used interchangeably with "Installation", "Workspace" generally implies it is a self-hosted deployment.
-
-#### Cloud Server
-
-An ambiguous term that describes an [Installation](#Installation) (ie, Mattermost [Workspace](#Workspace)) which is hosted in Mattermost Cloud.
-
-#### Cloud installation
-
-An [Installation](#Installation), hosted in Mattermost Cloud, with the necessary configurations to represent a Mattermost Cloud SaaS workspace (ie, configs, license, connections to CWS, configurability restrictions, etc) like one created from https://customers.mattermost.com
-
-#### Self-Hosted Installation
-
-An installation, hosted in Mattermost Cloud, with the necessary configurations present to represent a self-hosted workspace (ie, configs, license, configurability, etc).
 
