@@ -6,7 +6,7 @@
 
    **Note:** A resignation letter/email is required from departing staff. In most cases and depending upon the statutory requirements in the staff member’s country/region, a minimum of two weeks' notice is required for voluntary departures.
 
-2. Submit an [IT Offboarding Ticket](https://mattermost.atlassian.net/servicedesk/customer/portals) which is used to indicate:
+2. Submit a [General IT offboarding ticket](https://mattermost.atlassian.net/servicedesk/customer/portals) which is used to indicate:
    * Systems that need to be deprovisioned.
    * Confirm whether emails need to be forwarded to a manager/selected team member for a period following staff member’s departure.
    * Confirm if there are any company-owned files in Google Drive that need to be transferred to you.
