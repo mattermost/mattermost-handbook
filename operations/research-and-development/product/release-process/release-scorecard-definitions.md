@@ -13,7 +13,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">DDate/time RC1 cut (PST)</td>
+      <td style="text-align:left">Date/time RC1 cut (PST)</td>
       <td style="text-align:left">Check Release Self-Hosted/Cloud channel history for date/time RC1 was cut.</td>
     </tr>
     <tr>
