@@ -128,7 +128,7 @@
     </tr>
     <tr>
       <td style="text-align:left">Number of PRs reverted</td>
-      <td style="text-align:left">Check recently merged GitHub PRs for the number of [reverted PRs](https://github.com/mattermost/mattermost/pulls?q=is%3Apr+revert+is%3Aclosed).</td>
+      <td style="text-align:left">Check recently merged GitHub PRs (with the word "Revert" in the PR title).</td>
     </tr>
     <tr>
       </td>
