@@ -1,7 +1,6 @@
 # Release Scorecard Definitions
 
- - [Looker dashboard](https://mattermost.looker.com/dashboards/410)
- - [Google spreadsheet](https://docs.google.com/spreadsheets/d/1Aoj4OTaWoyrKIcQNiHH1MVoRG51T20Y_0w2tg5oVw-M/edit#gid=825551144)
+ - [Spreadsheet](https://docs.google.com/spreadsheets/d/1Aoj4OTaWoyrKIcQNiHH1MVoRG51T20Y_0w2tg5oVw-M/edit#gid=825551144)
 
 ## Release Hearbeat
 
@@ -14,16 +13,16 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Date/time updated to RC1 (PST)</td>
+      <td style="text-align:left">DDate/time RC1 cut (PST)</td>
       <td style="text-align:left">Check Release Self-Hosted/Cloud channel history for date/time RC1 was cut.</td>
     </tr>
     <tr>
-      <td style="text-align:left">How many RCs cut</td>
+      <td style="text-align:left">Total number of RCs cut</td>
       <td style="text-align:left">Check Release Self-Hosted/Cloud channel history for how many RCs were cut for
         that release.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Number of days between when QA approval is posted and the release date</td>
+      <td style="text-align:left">Number of days the final build is cut before the 16th</td>
       <td
       style="text-align:left">Check Release Self-Hosted/Cloud channel for post with official release build.
         Oxygen = 16th - Day Final RC is cut</td>
@@ -128,6 +127,13 @@
       </td>
     </tr>
     <tr>
+      <td style="text-align:left">Number of PRs reverted</td>
+      <td style="text-align:left">Check recently merged GitHub PRs for the number of [reverted PRs](https://github.com/mattermost/mattermost/pulls?q=is%3Apr+revert+is%3Aclosed).</td>
+    </tr>
+    <tr>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">(Non-security) Bugs requiring patch release</td>
       <td style="text-align:left">After any patch release goes out (after the normal release date): Check
         Changelog for total number of non-security patch releases.</td>
@@ -144,52 +150,5 @@
         </ol>
       </td>
     </tr>
-    <tr>
-      <td style="text-align:left">Critical security issues found during release timeframe</td>
-      <td style="text-align:left">
-        <p>With a new or existing Jira filter, check for Security Vulnerability tickets:</p>
-        <ol>
-          <li>Project = Mattermost</li>
-          <li>Fix Versions = Latest released version</li>
-          <li>Impact = High</li>
-        </ol>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Moderate security issues found during release timeframe</td>
-      <td style="text-align:left">
-        <p>With a new or existing Jira filter, check for Security Vulnerability tickets:</p>
-        <ol>
-          <li>Project = Mattermost</li>
-          <li>Fix Versions = Latest released version</li>
-          <li>Impact = Medium</li>
-        </ol>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Minor security issues found during release timeframe</td>
-      <td style="text-align:left">
-        <p>With a new or existing Jira filter, check for Security Vulnerability tickets:</p>
-        <ol>
-          <li>Project = Mattermost</li>
-          <li>Fix Versions = Latest released version</li>
-          <li>Impact = Low</li>
-        </ol>
-      </td>
-    </tr>
-      <tr>
-      <td style="text-align:left">Average lead time per fix version</td>
-      <td style="text-align:left">
-        <p>Average number of days for all bugs with Resolution equal to Done.</p>
-        <ol>
-          <li>Project = Mattermost</li>
-          <li>Issue type = Bug</li>
-          <li>Resolution = Done</li>
-          <li>Fix Version = Any</li>
-          <li>Component = Cloud or null (on-prem)</li>
-        </ol>
-      </td>
-    </tr>
   </tbody>
 </table>
-
