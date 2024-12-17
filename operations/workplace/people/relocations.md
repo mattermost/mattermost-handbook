@@ -1,6 +1,6 @@
 # Relocations
 
-One of the principles of Mattermost’s Remote First culture is flexibility. This means more time with loved ones, no commute, complete control over your workspace, and the freedom to work from various locations.. 
+One of the principles of Mattermost’s Remote First culture is flexibility. This means more time with loved ones, no commute, complete control over your workspace, and the freedom to work from various locations.
 
 Staff agreements are conditioned upon the country/region of residence noted in your contract. Location change requests/relocations should be discussed with HR and your MLT member as there may be time zone or location requirements for specific roles and teams. Staff must receive written approval from the company prior to a relocation.
 
