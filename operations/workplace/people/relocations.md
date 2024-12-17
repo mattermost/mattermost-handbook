@@ -24,6 +24,6 @@ Full-time staff wishing to relocate outside their contractual region/location fo
 
 1. **Manager Approval**: Team member seeks initial written approval from their manager for the relocation.
 2. **Permitted Locations**: Relocations are only permitted to Mattermost's existing entity locations and to Mattermost Talent Centers through Employers of Record (EOR).
-3. **HR and MLT Relocation Review**: Manager to forward their written approval to HR to initiate a relocation review with MLT to determine: (a) If the time zone shift (if applicable) can be supported by the team/role, (b) if the role is needed in the desired location.
+3. **HR and MLT Relocation Review**: Manager forwards their written approval to HR to initiate a relocation review with MLT to determine: (a) If the time zone shift (where applicable) can be supported by the team/role; (b) if the role is needed in the desired location.
 4. **Compensation Review**: MLT will conduct a compensation review in line with the Mattermost's compensation strategy.
 5. **Next Step**: HR and the MLT will advise on approval and next steps, including any necessary compensation adjustments.
