@@ -53,44 +53,83 @@ Please take off holidays relevant to your culture, resident [country/region](../
 
 ### Typical public holidays in our entities and EOR locations- Australia, Canada, Germany, Spain, Sweden, UK, and US
 
-We have entities and EOR locations in Australia, Canada, Germany, Spain, Sweden, UK, and US, so below are holidays we’re expecting people from those countries to take off. Please see [Communicating Time Off](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#communicating-time-off)*
+We have entities and EOR locations in Australia, Canada, Germany, Spain, UK, and US, so below are holidays we’re expecting people from those countries to take off. Please see [Communicating Time Off](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/paid-time-off#communicating-time-off)*
 
-**Entity and EOR locations holidays for 2024**
+**Entity and EOR locations holidays for 2025**
 
-* New Year’s Day \(All\) \(1/01/2024\)
-* Epiphany of the Lord \(Spain\) (1/06/2024)
-* MLK Jr. Day \(US\) \(1/15/2024\)
-* Australia Day \(Australia\) \(1/26/2024\)
-* Family Day/Islander Day \(Canada\) \(2/19/2024\)
-* Good Friday \(Australia Canada, Germany, Spain, Sweden, UK\) \(3/29/2024\)
-* Easter Monday \(Australia, Germany, Sweden, UK\) \(4/01/2024\)
-* Anzac Day \(Australia\) \(4/25/2024\)
-* Labour Day \(Germany, Spain, Sweden\) \(5/01/2024\)
-* Early May Bank Holiday \(UK\) \(5/06/2024\)
-* Ascension Day \(Germany, Sweden\) \(5/09/2024\)
-* Whit Monday \(Germany\) \(5/20/2024\)
-* Victoria Day \(Canada\) \(5/20/2024\)
-* Memorial Day \(US\) \(5/27/2024\)
-* Spring Bank Holiday \(UK\) \(5/27/2024\)
-* National Day \(Sweden\) \(6/06/2024\)
-* Midsummer Day \(Sweden\) \(6/24/2024\)
-* Canada Day \(Canada\) \(7/01/2024\)
-* Independence Day \(US\) \(7/04/2024\)
-* Civic Holiday/Provincial Day \(Canada: AB, BC, ON\) \(8/05/2024\)
-* Assumption of our Lady \(Spain\) (08/15/2024)
-* Summer Bank Holiday \(UK\) \(8/26/2024\)
-* Labor Day \(US, Canada\) \(9/02/2024\)
-* Truth and Reconciliation Day \(Canada: BC, PEI\) \(9/30/2024\)
-* Day of German Unity \(Germany\) \(10/03/2024\)
-* Labour Day \(Australia\) \(10/07/2024\)
-* National Day \(Spain\) (10/12/2024)
-* Thanksgiving \(Canada\) \(10/14/2024\)
-* All Saint's Day \(Spain\) (11/01/2024)
-* Remembrance Day \(Canada: AB, BC, PEI\) \(11/11/2024\)
-* Thanksgiving \(US\) \(11/28/2024\)
-* Constitution Day \(Spain\) (12/06/2024)
-* Immaculate Conception \(Spain\) (12/08/2024)
-* Christmas Day \(All\) \(12/25/2024\)
-* Boxing Day \(Australia, Canada, Germany, Sweden, UK\)\(12/26/2024\)
+**Australia**
+* New Year’s Day \(1/01/2025\)
+* Australia Day \(1/27/2025\)
+* Good Friday \(4/18/2025\)
+* Easter Monday \(4/21/2025\)
+* Anzac Day \(4/25/2025\)
+* King's Birthday \(06/09/2025)
+* Labour Day \(10/06/2025\)
+* Christmas Day \(12/25/2025\)
+* Boxing Day \(12/26/2025\)
+
+**Canada**
+* New Year’s Day \(1/01/2025\)
+* Family Day/Islander Day \(2/17/2025\)
+* Good Friday \(4/18/2025\)
+* Victoria Day \(5/19/2025\)
+* Canada Day \(7/01/2025\)
+* Civic Holiday \(AB, BC, ON\) \(8/04/2025\)
+* Labour Day \(9/01/2025\)
+* Truth and Reconciliation Day \(BC, MB, PEI\) \(9/30/2025\)
+* Thanksgiving \(10/13/2025\)
+* Remembrance Day \(AB, BC, MB, PEI\) \(11/11/2025\)
+* Christmas Day \(12/25/2025\)
+* Boxing Day \(ON) \(12/26/2025\)
+
+**Germany**
+* New Year’s Day \(1/01/2025\)
+* Epiphany \(Bayern) \(01/06/2025)
+* International Women's Day \(Berlin) \(03/08/2025)
+* Good Friday \(4/18/2025\)
+* Easter Monday \(4/21/2025\)
+* Labour Day \(5/01/2025\)
+* Ascension Day \(5/29/2025\)
+* Whit Monday \(6/09/2025\)
+* Feast of Corpus Cristi \(Bayern, Nordrhein-Westfalen) \(06/19/2025)
+* Assumption Day \(Bayern) \(08/15/2025)
+* German Unity Day \(10/03/2025\)
+* Reformation Day \(Bradenburg) \(10/31/2025)
+* All Saints Day \(Bayern)
+* Christmas Day \(12/25/2025\)
+* Boxing Day \(12/26/2025\)
+
+**Spain**
+* New Year’s Day \(1/01/2025\)
+* Epiphany \(1/06/2025)
+* Good Friday \(4/18/2025\)
+* Labour Day \(5/01/2025\)
+* National Day \(10/13/2025)
+* All Saint's Day \(11/01/2025)
+* Constitution Day \(12/06/2025)
+* Immaculate Conception \(12/08/2025)
+* Constitution Day \(12/6/2025)
+* Christmas Day \(12/25/2025\)
+
+**UK**
+* New Year’s Day \(1/01/2025\)
+* Good Friday \(4/18/2025\)
+* Easter Monday \(4/21/2025\)
+* Early May Bank Holiday \(5/05/2025\)
+* Spring Bank Holiday \(5/26/2025\)
+* Summer Bank Holiday \(8/25/2025\)
+* Christmas Day \(12/25/2025\)
+* Boxing Day \(12/26/2025\)
+
+**US**
+* New Year’s Day \(1/01/2025\)
+* MLK Jr. Day \(1/20/2025\)
+* Memorial Day \(5/26/2025\)
+* Independence Day \(7/04/2025\)
+* Labor Day \(9/01/2025\)
+* Veterans Day \ (11/11/2025\)
+* Thanksgiving \(11/78/2025\)
+* Christmas Day \(12/25/2025\)
+  
 
 It’s up to meeting chairs to decide whether to reschedule if few people can attend \(e.g. if a large number of staff will not be attending the meeting\).
