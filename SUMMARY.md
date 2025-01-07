@@ -232,7 +232,6 @@
       * [Mattermost communication best practices](operations/workplace/people/working-at-mattermost/mattermost-communication-best-practices.md)
       * [Paid time off](operations/workplace/people/working-at-mattermost/paid-time-off/README.md)
         * [Out of office email example](operations/workplace/people/working-at-mattermost/paid-time-off/ooo-example.md)
-        * [Family and Friends day](operations/workplace/people/working-at-mattermost/paid-time-off/family-and-friends-day.md)
       * [Travel](operations/workplace/people/working-at-mattermost/travel/README.md)
         * [Business travel insurance](operations/workplace/people/working-at-mattermost/travel/business-travel-insurance.md)
       * [Leaves of absence](operations/workplace/people/working-at-mattermost/leaves-of-absence/README.md)
