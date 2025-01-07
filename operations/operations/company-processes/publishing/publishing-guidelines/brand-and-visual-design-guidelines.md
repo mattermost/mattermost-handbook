@@ -21,7 +21,6 @@ The Mattermost logo is available in vertical, horizontal, and logomark-only vers
 
 | ![Mattermost Horizontal Logo Black](../../../../../.gitbook/assets/Mattermost_logo_horizontal_black.png) | | <span style="color:#000"> ![Mattermost Horizontal Logo White](../../../../../.gitbook/assets/Mattermost_logo_horizontal_white.png) </span>
 
-
 **Vertical Logo:** Min size 70x39px
 
 | ![Mattermost Vertical Logo Black](../../../../../.gitbook/assets/Mattermost_logo_vertical_black.png) | | <span style="color:#000"> ![Mattermost Vertical Logo White](../../../../../.gitbook/assets/Mattermost_logo_vertical_white.png) </span> |
@@ -38,14 +37,19 @@ To ensure an uncluttered presentation, always maintain a full "X" space around t
 
 ![](../../../../../.gitbook/assets/brand-and-visual-design-guidelines-logos-clearspace.png)
 
-#### Incorrect usage
+#### Misuse
 
-* Do not change logo colors. Use the provided options
-* Do not rotate the Mattermost logo
-* Do not distort or alter the Mattermost logo
-* Do not lockup any other words along with the Mattermost logo
-* Do not rearrange elements of the logo
-* Do not use the logo at sizes smaller than the indicated minimum size
+Please use the Mattermost logo with care. Don’t alter the Mattermost logo in any way:
+
+- Don’t redraw the logo.
+- Don’t warp the shape.
+- Don’t recolor the logo.
+- Don’t apply effects.
+- Don’t crop the logo.
+
+Make sure you’re using the correct version: some old and distorted versions from the past exist and should be replaced.
+
+![](../../../../../.gitbook/assets/logo-misuse.png)
 
 ### Logo downloads
 
