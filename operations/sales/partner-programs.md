@@ -1,5 +1,7 @@
 # Partner Programs
 
+**Are you an existing customer interested in becoming a partner?** Reach out to your Customer Success Manager to explore partnership opportunities.
+
 **Ready to place an order?** [Complete our deal registration form](https://mattermost.com/reseller-deal-registration/) to qualitfy for a reseller discount.
 
 **Ready to become a Mattermost partner?** [Contact us](https://support.mattermost.com/hc/en-us/requests/new?ticket_form_id=24278352368532) with a request to become a Mattermost partner under one of the programs listed below. If applicable, include the name of the customer to which you would like to resell.
