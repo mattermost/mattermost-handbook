@@ -127,8 +127,8 @@ We have entities and EOR locations in Australia, Canada, Germany, Spain, UK, and
 * Memorial Day \(5/26/2025\)
 * Independence Day \(7/04/2025\)
 * Labor Day \(9/01/2025\)
-* Veterans Day \ (11/11/2025\)
-* Thanksgiving \(11/78/2025\)
+* Veterans Day \(11/11/2025\)
+* Thanksgiving \(11/28/2025\)
 * Christmas Day \(12/25/2025\)
   
 
