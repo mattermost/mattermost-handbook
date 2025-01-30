@@ -65,8 +65,8 @@ Mattermost, Inc. is located at:
 
 ```text
 Mattermost, Inc.
-530 Lytton Avenue, 2nd Floor
-Palo Alto, CA, 94301
+2100 Geng Road, Suite 210,
+Palo Alto, California 94303
 ```
 ### Phone Number
 
