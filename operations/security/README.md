@@ -2,7 +2,7 @@
 
 ## Where to find us
 
-Mattermost: [Security Team Channel](https://community.mattermost.com/private-core/channels/security-team)
+Mattermost: [Security Team Channel](https://hub.mattermost.com/private-core/channels/security-team)
 
 Email:
 
@@ -19,10 +19,14 @@ Email:
 ### Product Security
 
 * Eva Sarafianou, Product Security Engineering Lead
-* Juho Forsén, Staff Product Security Engineer
+* Lorenzo Gallegos, Staff Product Security Engineer
 
 ### Security Operations
 
 * Paul Harrison, Senior Security Engineering Lead
-* Ian Wilson, Staff Security Engineer
+* Dustin Whited, Staff Security Engineer
 * Corey Robinson, Security Engineer II
+
+### Governance, Risk, & Compliance
+
+* Simon Miller, Governance, Risk & Compliance Analyst

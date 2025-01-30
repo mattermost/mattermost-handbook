@@ -1,2 +1,0 @@
-# Data Subject Access Requests
-
