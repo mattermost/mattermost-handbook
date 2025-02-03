@@ -89,9 +89,9 @@ If you are part of the Value-Added Reseller program, your reseller territory wil
 ## Partner Evaluation License
 
 As a Value-Added Reseller or System Integrators Partner, you are eligible to request a renewable 1-year Enterprise license for up to 50 users.
-* Visit https://www.mattermost.com/trial/ to complete a trial form. Be sure to add [RESELLER] after your organization name.
-* Send an email to partners@mattermost.com to notify us once the above steps are completed, so we can review your application and match it against our certified reseller database.
-* Expect delivery within 2-3 business days.
+* Visit https://www.mattermost.com/trial/ to complete a trial form. Be sure to add [RESELLER] after your organization name. You will automatically receive a temporary 30-day license to the email address provided.
+* Send an email to partners@mattermost.com to notify us once the above steps are completed, so we can review your application and match it against our certified reseller database. If you require an Enterprise license for more than 50 users, let us know in the email.
+* Expect delivery of the license within 2-3 business days.
 
 ## Mattermost Partner Program FAQ
 
