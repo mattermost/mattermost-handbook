@@ -18,33 +18,6 @@ The goal is monthly for managers and quarterly for non-managers. Your HR partner
 
 Manager listening sessions will happen once a month. In addition to the above topics, this is also an opportunity for people managers to unpack questions around people management challenges, concerns, and/or best practices. This feedback will also help drive future Manager training topics.
 
-## Async weeks
-
-**What are async weeks at Mattermost?**
-
-During an org-wide async week, all recurring meetings are canceled (e.g. COM, MBR, team-wide meetings, 1:1s) with the goal of:
-
-- **Creating space for heads-down time.** Meetings can be disruptive when our work requires deeper focus.
-- **Improving time zone agnostic practices, including: default document, default open mindsets.** We have team members across the globe and in multiple time zones, and when we're able to communicate and collaborate with web-discoverable documentation we better enable our global team members with access to information, context.
-- **Providing time for calendar clean-up.** We encourage every team member to use this as an opportunity to clean your calendar, and respectfully question if recurring meetings should be changed, canceled or alternate attendees.
-- **Testing and improving [Vacation-Ready](https://community.mattermost.com/files/bd1x8f47abgdx83ejpesd1z7ce/public?h=EWRJ-lMoUotKhiPyPAJzS_6Zt2uyAmaJh08xHr8LIBU) Team preparedness.**
-
-**Async weeks: FAQ**
-
-- **Does async week mean that we aren't supposed to meet live at all?**
-
-Live meetings or calls do and should still happen, as appropriate. For example, our customer-facing teams may still have customer meetings or calls which can't be canceled. Others may be working on projects where a synchronous call or meeting helps our 'heads-down' work. We encourage every team member to use your best judgment.
-
-- **How do I effectively communicate while asynchronous?** 
-
-Written communication that is open is key. Examples include Mattermost group messages vs. DMs, web-discoverable: handbook, GDocs, Boards.
-Use simple language. We're a global company and encourage every team member to be mindful of words or idioms that don't translate beyond our region. Similarly, please ask questions when something doesn't translate, it may be a blindspot and your question can help expand awareness.
-
-Assume positive intent. Tone and intent can be very hard to read over text, and even zoom. When we assume there's positive intent, we're able to approach conversations with a more open, collaborative mindset, and ask follow-up questions to gain clarity.
-
-- **What are some other tips and best practices?** 
-
-We're asking all team members to take notes on your experience during our async weeks. The People team will send an experience feedback survey after each async week to understand what's working and where we can add clarity in the future.
 
 ## New hire feedback
 
@@ -167,21 +140,5 @@ After the survey analysis is presented at [COM](https://handbook.mattermost.com/
 
 Post-survey actions start with team conversations and may include pulse surveys and listening sessions to help contextualize feedback and uncover blindspots. With bi-annual surveys, post-survey action planning should be iterative throughout the year.
 
-## Pulse Surveys
-
-For the second half of 2023, we will be taking frequent *pulse checks* via mini engagment surveys. The purpose of the pulse engagement surveys is to gain meaningful insights into staff sentiments and engagement levels, to maintain a flow of continuous feedback, and to measure the impact of post-survey engagement initiatives. 
-
-The bi-monthly pulse surveys will ask the following 6 core engagement questions:
-- The leaders at Mattermost have communicated a vision that motivates me
-- I know how my work contributes to Mattermost's goals
-- I know what I need to do to be successful in my role
-- I am appropriately involved in decisions that affect my work
-- I believe there are good career opportuntities for me at Mattermost
-- I would recommend Mattermost as a great place to work
-
 Based on the results, the People Team and/or your team leadership will follow up with action items which could include things like [listening sessions](https://handbook.mattermost.com/operations/workplace/people/hr-cadences#listening-sessions) or [listening tours](https://handbook.mattermost.com/operations/operations/company-cadence#ceo-listening-tours) to help us gain a deeper understanding of how individuals and teams are feeling. The initiatives may be org-wide or department specific and the People Team will work closely with managers to action the results. The confidentiality rules and reporting group minimums of Enablement Surveys apply to Pulse Engagement Surveys. Department-level feedback will be shared with the respective Team MLX and Team MLT, and only general themes gleaned from comments will be shared to maintain the confidentiality of respondents. 
 
-### Pulse Survey Dates
-- **June 2023** | June 22, 2023 - June 28, 2023
-- **September 2023** | September 28, 2023 - October 4, 2023
-- **December 2023** | December 7, 2023 - December 13, 2023
