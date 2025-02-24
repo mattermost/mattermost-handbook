@@ -143,7 +143,7 @@ Some terms used in Mattermost may be technical. If you don't know how to transla
 * Where applicable, review how the term has been translated in other locations of the translation you are contributing to.
 * Where applicable, review machine translation suggestions provided via the Deep-L integration.
 * Use a translation engine to learn how others have translated the term.
-* Use the [Microsoft open linguistic portal](https://www.microsoft.com/en-us/language/Search).
+* Use the [Microsoft open linguistic portal](https://msit.powerbi.com/view?r=eyJrIjoiODJmYjU4Y2YtM2M0ZC00YzYxLWE1YTktNzFjYmYxNTAxNjQ0IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9).
 * Ask your question in the [Mattermost localization channel](https://community.mattermost.com/core/channels/localization).
 
 ## Test translations
