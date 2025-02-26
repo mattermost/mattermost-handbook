@@ -7,7 +7,7 @@ This policy applies to all participants, including employees, contractors and gu
 1. Professional & Respectful Behavior
    All Attendees are expected to:
    * Conduct themselves in a professional and respectful manner at all times.
-   * Be courteous in all interactions, whether in person, online or through social media.
+   * Be courteous in all interactions, whether in person, online, or through social media.
    * Avoid disruptive, inappropriate, or offensive behavior.
 2. No Discrimination or Harassment
    Harassment, discrimination, or any form of inappropriate conduct will not be tolerated. This includes but is not limited to:
