@@ -1,6 +1,6 @@
-# Community Equity, Diversity, and Inclusion (EDI)
+# Inclusive Community Practices
  
-We're committed to purposefully designing EDI into every facet of our programs and operations. This section is meant to document tips and best practices that we strive to follow as we plan events and activities.
+This section is meant to document tips and best practices that we strive to follow as we plan events and activities.
 
 ## Event organization best practices
 
@@ -16,8 +16,8 @@ We're committed to purposefully designing EDI into every facet of our programs a
 
 Other ways we foster diversity, inclusion, and belonging:
 
-1. **Images:** We promote the use of images that represent a diverse group of users, customers, and community members. When we see a lack of diverse representation, we speak up and actively help update those images when possible.
-2. **Speakers:** As event organizers and participants, we seek to include a diverse set of speakers in events that we organize or sponsor.
-3. **We are open-minded:** We actively seek feedback and keep an open mind about our current policies. We are open to change and are willing to make structural changes to ensure that we continue to foster EDI among our team and the wider community.
-4. **We retain a growth-mindset and keep learning:** We read articles, attend workshops, and participate in training that helps educate us about how to foster EDI in our community and how to be inclusive ourselves.
-5. **We encourage a diverse set of community members to participate in research:** We recognize the product inclusivity is important and that we need to build with our community, not just for them.
+1. **Images:** We promote the use of images that represent a wide range of group of users, customers, and community members. 
+2. **Speakers:** As event organizers and participants, we seek to include a comprehensive range of speakers in events that we organize or sponsor.
+3. **We are open-minded:** We actively seek feedback and keep an open mind about our current policies. We are open to change and are willing to make structural changes to ensure that we continue to foster inclusivity among our team and the wider community.
+4. **We retain a growth-mindset and keep learning:** We read articles, attend workshops, and participate in training that helps educate us about how to foster inclusivity in our community and how to be inclusive ourselves.
+5. **We encourage a varied set of community members to participate in research:** We recognize that product inclusivity is important and that we need to build with our community, not just for them.
