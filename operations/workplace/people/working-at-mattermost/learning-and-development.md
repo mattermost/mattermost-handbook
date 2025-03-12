@@ -20,7 +20,7 @@ Learning is a core part of our culture and we strive to emphasize deliberate dev
 
 We’ve partnered with Bravely to offer full-time staff an opportunity to engage with industry experts through a tailored, on-demand coaching program. Coaching is an impactful way for individuals to drive their growth and development but it requires an investment of time and energy; it’s a benefit that's ideal for individuals who are open to change and feedback. 
 
-All full-time staff are eligible for **two 45-minute** on-demand, coaching sessions in FY25. These personalized coaching sessions are intended to advance learning and growth, and provide meaningful support to staff to drive transformational change. Bravely users will also have access to exclusive monthly webinars on a variety of workplace skills topics, and a digital content library for self-directed development through the Bravely platform.
+These personalized coaching sessions are intended to advance learning and growth, and provide meaningful support to staff to drive transformational change. Bravely users will also have access to exclusive monthly webinars on a variety of workplace skills topics, and a digital content library for self-directed development through the Bravely platform.
 
 #### Use Cases
 
@@ -33,16 +33,14 @@ As a general guideline, coaching is an effective resource for the following use 
 - To improve work relationships, including managing up, strengthening cross-team collaboration skills, and effectively managing conflict
 - To tackle stress and burnout
 - Returning to work after a leave of absence
-- DEI coaching
 
 #### How it Works
 
 - All FT Staff will have access to Bravely’s platform. 
 - Schedule your first session via the Bravely app. You will be matched with a certified and credentialed coach from Bravely’s global network.
 - You will meet with your coach for a 45-minute, confidential coaching session (either video or phone).
-- You can choose to meet with the same coach again or try another coach for your second session.
 - The People Team will monitor program feedback to gain insights on staff needs and emerging themes. After completing your coaching sessions, please fill out this [feedback form](https://forms.gle/KuHCwo9TSaXhcVYE7) to evaluate the post-learning success of the initiative. Following each coaching session, Bravely will also prompt you to provide your anonymous session feedback. In both instances, your feedback is anonymous and is an important way for the People Team to understand program efficacy and utility.
 
-If you would like to opt out of the coaching program, please contact the People Team so your coaching sessions can be re-allocated. Staff may be eligible for additional coaching sessions. If you have used your sessions and would like to request additional sessions, or if you are a manager with a team member who would benefit from additional coaching sessions, please reach out to your People Partner.
+If you would like to request additional sessions, or if you are a manager with a team member who would benefit from coaching sessions, please reach out to your People Partner.
 
 _All Bravely coaches sign a confidentiality agreement to protect your privacy._
