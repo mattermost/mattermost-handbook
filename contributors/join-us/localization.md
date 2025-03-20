@@ -182,7 +182,7 @@ If you're interested in contributing to the process, please join the [Mattermost
 | Magyar - Hungarian | TBD (Open role) | TBD (Open role) |
 | Italiano - Italian | TBD (Open role) | TBD (Open role) |
 | 日本語 - Japanese | [Yusuke Nemoto \(kaakaa\)](https://github.com/kaakaa) | TBD (Open role) |
-| 한국어 - Korean | TBD \(Open role\) | TBD (Open role) |
+| 한국어 - Korean | [GJ \(Guenjun Yoo)](https://translate.mattermost.com/user/guenjun/) | [GJ \(Guenjun Yoo)](https://translate.mattermost.com/user/guenjun/) |
 | Nederlands - Dutch | [Tom De Moor \(ctlaltdieliet\)](https://github.com/ctlaltdieliet) | TBD (Open role) |
 | Polski - Poland | [Master7 \(markar\)](https://translate.mattermost.com/user/Master7) | TBD (Open role) |
 | Português do Brasil - Portuguese | TBD (Open role) | TBD (Open role) |
