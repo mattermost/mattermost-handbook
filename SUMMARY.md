@@ -72,7 +72,7 @@
       * [Mattermost software requirements process](operations/research-and-development/product/development-process/software-requirements.md)
       * [Jira ticket lifecycle](operations/research-and-development/product/development-process/jira-ticket-lifecycle.md)
       * [Creating new Jira bug tickets](operations/research-and-development/product/development-process/new-bug-tickets/README.md)
-        * [Severity levels for bug tickets](operations/research-and-development/product/development-process/new-bug-tickets/bug-severity-guidelines.md)
+        * [Priority levels for tickets](operations/research-and-development/product/development-process/new-bug-tickets/bug-priority-guidelines.md)
         * [Jira fix versions](operations/research-and-development/product/development-process/new-bug-tickets/jira-fix-versions.md)
     * [Release process](operations/research-and-development/product/release-process/README.md)
       * [Release overview](operations/research-and-development/product/release-process/release-overview.md)
