@@ -1,20 +1,20 @@
 # Code of Conduct 
 
-Mattermost is dedicated to fostering an inclusive workplace, and we prohibit harassment and discrimination of all staff and job applicants regardless of gender identity and expression, sexual orientation, disability, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, veteran status, or other protected categories. We do not tolerate harassment or discrimination and take violations of our policy seriously and will respond appropriately.
+At Mattermost, we are committed to fostering a workplace where respect, fairness, and opportunity are fundamental to how we operate. We prohibit harassment and discrimination of all staff and job applicants based on any legally protected characteristic, including race, color, national origin, religion, sex, age, disability, or veteran status. We believe that treating every individual with dignity strengthens our teams and drives our success. We do not tolerate harassment or discrimination and take violations of our policy seriously and will respond appropriately.
 
 Mattermost will ensure that all employment actions, including but not limited to recruitment, hiring, selection for training, promotion, transfer, demotion, layoff, recall, termination, rates of pay, or other forms of compensation, will be administered without regard to one’s protected class, including a disability or status as a protected veteran. Mattermost will also provide qualified applicants and employees with disabilities with needed reasonable accommodations, as required by law, and will ensure that all employment decisions are based only on valid job requirements.
 
-Any employee or applicant who believes that they have been subject to harassment because of their protected status should promptly contact a manager in their chain of command, or promptly contact the Director of Human Resources at 650-667-8512 for assistance. Employees or applicants may also file a written complaint with the office of the Director of Human Resources, 530 Lytton Avenue, Second Floor, Palo Alto, 94301.
+Any employee or applicant who believes that they have been subject to harassment because of their protected status should promptly contact a manager in their chain of command, or promptly contact the VP, Human Resources at 650-667-8512 for assistance. Employees or applicants may also file a written complaint with the office of the VP, Human Resources, 2100 Geng Road, Suite 210, Palo Alto, California 94303.
 
 ## Anti-harassment procedures
 
 Employees and applicants of Mattermost will not be subject to harassment because of any protected status, including disability and protected veteran status.
 
-Harassment is not tolerated. Harassment includes, but is not limited to: verbal language that reinforces social structures of domination related to gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected categories; sexual imagery in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; offensive verbal language; inappropriate physical contact; and unwelcome sexual attention.
+Harassment is not tolerated. Harassment includes, but is not limited to: unwelcome verbal or physical conduct related to personal characteristics protected by applicable law; use of sexual imagery in shared spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of meetings or events; offensive or abusive language; inappropriate physical contact; and unwelcome sexual attention.
 
-Any employee or applicant who believes that they have been subject to harassment because of their protected status should promptly contact a manager in their chain of command, or promptly contact the Director of Human Resources at 650-667-8512 for assistance. Employees or applicants may also file a written complaint with the office of the Director of Human Resources, 530 Lytton Avenue, Second Floor, Palo Alto, 94301.
+Any employee or applicant who believes that they have been subject to harassment because of their protected status should promptly contact a manager in their chain of command, or promptly contact the VP, Human Resources at 650-667-8512 for assistance. Employees or applicants may also file a written complaint with the office of the VP, Human Resources, 2100 Geng Road, Suite 210, Palo Alto, California 94303.
 
-Retaliation, including intimidation, threat, coercion, or discrimination, against an employee or applicant because they have objected to discrimination, engaged or may engage in filing a complaint, assisted in a review, investigation, or hearing or have otherwise sought to obtain their legal rights under any Federal, State, or local EEO law regarding protected veterans is prohibited. Any employee or applicant who believes that they have been subject to retaliation should contact the Director of Human Resources at 650-667-8512 for assistance.
+Retaliation, including intimidation, threat, coercion, or discrimination, against an employee or applicant because they have objected to discrimination, engaged or may engage in filing a complaint, assisted in a review, investigation, or hearing or have otherwise sought to obtain their legal rights under any Federal, State, or local EEO law regarding protected veterans is prohibited. Any employee or applicant who believes that they have been subject to retaliation should contact the VP, Human Resources at 650-667-8512 for assistance.
 
 ### Anti-harassment training 
 
@@ -33,16 +33,10 @@ Specifically, Managers and Supervisors are responsible to:
 * Ensure that nondiscrimination is adhered to in all personnel activities.
 
 To enable Managers and Supervisors with these responsibilities, Mattermost provides the following trainings. 
-
-**1. Affirmative Action Plan training.** 
-  * Purpose: As a Federal Contractor, Mattermost is required to maintain an Affirmative Action Plan. Managers, supervisors, and human resources staff involved in recruiting, screening, selection, promotion, disciplinary, and other related employment processes will receive training regarding Mattermost’s Affirmative Action Plan and their role in its implementation.
-  * Cadence: Annual training
   
-**2. Harassment prevention training**
-  * Purpose: All staff members in a supervisory role are responsible for helping to foster an inclusive, safe workplace that is free of harassment and discrimination. As part of this, Managers are required to complete a 2-hour Anti-Harassment Training online.
+**Harassment prevention training**
+  * Purpose: All staff members in a supervisory role are responsible for helping to foster a respectful, safe, and professional workplace that is free from harassment and discrimination.. As part of this, Managers are required to complete a 2-hour Anti-Harassment Training online.
   * Cadence: Every 2 years
-
-Mattermost's Affirmative Action Plan can be found [here](https://docs.google.com/document/d/15PVfR5uI7TaWuSznLr3hmQd_4aAE-OR3AixVPEO-QF4/edit#heading=h.cbr53qvhhkxh).
 
 ## Job abandonment
 
