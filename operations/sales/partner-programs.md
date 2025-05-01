@@ -1,8 +1,6 @@
 # Partner Programs
 
-## Mattermost Partner Program FAQ
-
-Frequently asked questions from Mattermost partners.
+## Mattermost Partner Program Details
 
 ### How can I schedule an online meeting to discuss Mattermost solutions?  
 
