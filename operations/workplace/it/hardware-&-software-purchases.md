@@ -175,4 +175,4 @@ Please see the current list of approved vendors below:
 
 ### Prohibited Vendors
 
-Mattermost and its' staff are prohibited from purchasing products from several organizations or using their products for work purposes.  This list is available to Mattermost staff (authentication required): [Prohibited Vendors](https://mattermost.sharepoint.com/:w:/g/Ed0EaDbBpJRDpYDN7e_skpUBhLP8GK1speDtveqTswA_DQ?e=trbOdA)
+Mattermost employees are not allowed to purchase or expense products from specific organizations for work purposes as documented in the Mattermost Asset Management Policy. The complete list is accessible to Mattermost staff here (authentication required): [Prohibited Vendors](https://mattermost.sharepoint.com/:w:/g/Ed0EaDbBpJRDpYDN7e_skpUBhLP8GK1speDtveqTswA_DQ?e=trbOdA)
