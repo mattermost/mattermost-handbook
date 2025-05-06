@@ -173,4 +173,6 @@ Please see the current list of approved vendors below:
 * Western Digital
 * Yubico
 
+### Prohibited Vendors
 
+Mattermost and its' staff are prohibited from purchasing products from several organizations or using their products for work purposes.  This list is available to Mattermost staff here (authentication required): [Prohibited Vendors](https://mattermost.sharepoint.com/:w:/g/Ed0EaDbBpJRDpYDN7e_skpUBhLP8GK1speDtveqTswA_DQ?e=trbOdA)
