@@ -5,11 +5,12 @@
 [Contact us](https://support.mattermost.com/hc/en-us/requests/new?ticket_form_id=24278352368532) to become a Mattermost partner under one of the following programs:
 
 - **Mattermost Approved Reseller:** Connects customers with trusted local partners who help them buy and support Mattermost Enterprise. As a reseller, you provide customer support in the local time zone and language, helping customers succeed while growing your business.
-- **Mattermost System Integrator Partner:** For commercial or open-source organizations who deploy, manage, extend, customize, and integrate Mattermost for specific use cases.
+- **Mattermost System Integrator:** For commercial or open-source organizations who deploy, manage, extend, customize, and integrate Mattermost for specific use cases.
 
 ### Partner Benefits
 
-Being a Mattermost Partner offers: · Co-marketing opportunities which may include co-hosted webinars, guest blog posts, social media promotion, or other activities we agree on together.
+Being a Mattermost Partner offers:
+   - Co-marketing opportunities which may include co-hosted webinars, guest blog posts, social media promotion, or other activities we agree on together.
    - Potential discounts on prices when selling Mattermost commerical versions.
    - A renewable 1-year Mattermost Enterprise license for up to 50 users to support evaluations, demos, and internal testing.
    - Collaboration with Mattermost sales teams to learn more about our product and value propositions.
