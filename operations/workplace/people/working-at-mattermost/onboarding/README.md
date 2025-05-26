@@ -1,52 +1,54 @@
 ---
-description: Onboarding information and checklists for general staff and departments
+description: Onboarding information for general staff and departments
 ---
 
 # Onboarding
 
-Welcome to Mattermost Onboarding! The goal of the Onboarding program is to welcome and enable new colleagues into a safe and compliant working environment with a strong sense of belonging within their first 90 days at Mattermost.
+Welcome to Mattermost Onboarding! Our goal is to create a consistent, high-impact onboarding experience that sets new colleagues up for early contribution, lasting success, and meaningful connection to their team and our mission.
 
-Onboarding is an all-company partnership between a new colleague and Mattermost. Specifically this includes a new colleague’s manager, functional and working teams, onboarding [peers](https://docs.google.com/document/d/1DQULEvgOhGeEGLTzdOlSvo858vo94zmnMN8sygi-lHk/edit?ts=5e21f202), [HR](https://handbook.mattermost.com/operations/workplace/people#team) and MLT.
+Onboarding is an all-company partnership between a new colleague and Mattermost. Specifically this includes a new colleague’s manager, functional and working teams, [HR](https://handbook.mattermost.com/operations/workplace/people#team) and MLT. It’s not just about getting up to speed, it’s about building clarity, trust, and direction from day one.
 
-## Post-Onboarding Readiness
+We follow a structured 30/60/90-day framework designed to create meaningful touchpoints, moments to align on expectations, share feedback, and invest in growth. These checkpoints ensure that every new hire receives the clarity, coaching, and direction needed to make an early impact and build long-term success.
 
-Post-Onboarding Readiness is an internal measure based on feedback throughout a new team member’s first 90 days at Mattermost. There are multiple milestones throughout the onboarding process where feedback is solicited. This feedback assesses how willing and enabled a new colleague is to bring their best self to Mattermost as it relates to their role expectations, team and company focuses, and the Mattermost Leadership Principles.
+## New Colleague 90-Day Feedback Process
 
-Feedback is requested from the new colleague's peers throughout the 90-day Onboarding. These consistent check-ins help new colleagues, People team, and managers iterate with impact quickly. For example, one of the [V2MOM - Destination Workplace Measures](https://docs.google.com/presentation/d/1BDSaeW-M92gth_NM1vI23dtbFLBsYVIk/edit#slide=id.g6f2ea8cda4_8_1852) is to have fewer than 5% questions repeat month-over-month.
+Throughout your first 90 days, you’ll have regular 1:1s with your manager and intentional check-ins focused on your onboarding journey. These 1:1s are designed to close feedback loops, encourage two-way communication, and ensure development and impact stay at the center of your onboarding journey. There are multiple milestones throughout the onboarding process where feedback is gathered. This feedback helps us understand how willing and enabled you are to bring your best self to Mattermost, aligned with your role expectations, goals, company focus, and our leadership principles.
 
-## Onboarding Feedback to Assess Post-Onboarding Readiness
+### Week-2 Check-In with the People Team
+In your second week, you’ll be invited to a check-in with the People Team. This is a chance to reflect on your first week, ask questions, and revisit key resources, programs, and tools to support your onboarding. The conversation is casual and focused on helping you feel confident and supported as you get up to speed.
 
-### Onboarding Surveys
+### 30-Day Onboarding Survey
+You’ll be invited to share your own feedback about the onboarding experience after your first 30 days. Full-time staff will receive a short 30-Day Onboarding Survey via email in Lattice. Your input helps us understand what’s working and where we can improve, so we can continue to make onboarding more effective for every new hire. The feedback you share helps the People team identify opportunities to strengthen clarity, support, and connection across the onboarding journey.
 
-New staff will be invited to share feedback of their onboarding experience after 30 days of working at Mattermost. FT Staff will receive an invitation via email to complete the 30-Day Onboarding Survey in Lattice. Early feedback from new hires is a crucial way to gather insights about what is going well and what needs to be improved in the onboarding process. The feedback shared in the survey will help the People team identify key areas to focus on to continue making Mattermost a great place to work.
+### 30, 45, and 60-Day Check-Ins 
+Intentional conversations designed to reflect on your progress, reinforce goals, clarify expectations, and discuss any early challenges. These check-ins are focused on alignment and building momentum.
 
-### New Staff Feedback Session with CEO and the People Team
+### 90-Day Check-In 
+A more structured conversation to reflect on your onboarding experience, discuss your performance readiness, and set direction for what’s next. Your manager will complete a short reflection and share feedback with you in your 1:1 and in Lattice.
 
-Similar to [CEO listening tours](https://handbook.mattermost.com/operations/operations/company-cadence#ceo-listening-tours) in this session, new colleagues are asked to share [likes and wishes](https://handbook.mattermost.com/company/about-mattermost/mindsets#likes-and-wishes) about anything related to Mattermost and the Onboarding Program. This session with the CEO is scheduled 2 months after the start date of new staff.
+## How Our Principles and Mindsets Show Up in Onboarding
+From the beginning, onboarding is an opportunity to build habits that support execution, growth, and trust, in how we work with each other, and how we deliver for our customers. Our onboarding journey is grounded in Mattermost's Leadership Principles, the core behaviors that shape how we work, build trust, and operate as a team.
+- Ownership: We expect every team member to take initiative and follow through. Managers and new colleagues share responsibility for setting clear expectations and driving progress.
+- Customer Obsession: We align goals with team and company priorities to deliver meaningful value to our customers. From day one, we connect individual impact to company outcomes and customer success.
+- Self-Awareness: Regular reflection and feedback help us identify strengths, clarify growth areas, and improve how we work together.
+- High-Impact: We prioritize high-value work so new colleagues can focus their time and energy where it drives the most impact.
+- Earn Trust: We build trust through clear expectations, closed feedback loops, and consistent follow-through, starting from day one.
 
-The People Team will invite new staff members to a week-1 check-in. The check-in is an opportunity for new staff members to reflect on their first week, review resources, programs, policies, and tools, and ask the People Team questions. Here's a list of [questions](https://docs.google.com/document/d/1eIffSDfWH24myJXZES1jOtfIZp9_xM6Swx5lWNdnxiM/edit) the People team will walk through together with the new staff member during the check-in.
-
-### New Colleague Feedback
-
-The 90-Day Feedback provides a [360](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#how-is-feedback-shared) [shoulder check](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check) for new team members, managers, [HR](https://handbook.mattermost.com/operations/workplace/people#team), and MLT to understand and clarify potential blindspots as well as catch potential [brown M&Ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms) early on.
-
-This is not a formal performance review. The intent is to align expectations and improve performance early on. Peer feedback is not anonymous. Managers may need additional context from the panel to help increase the new colleague's performance and Post-Onboarding Readiness. Managers should keep peer feedback anonymous in the 90-Day Evaluation with the new colleague. Managers should also evaluate feedback based on their own expectations of the new colleague's role. In some cases, expectations may need to be reset with colleagues. Uncovering blindspots early on helps everyone avoid future confusion or misaligned efforts.
-
-### New Colleague 90-Day Feedback Process
+Our onboarding journey also reflects key Mattermost mindsets, shared tools we use to support learning, alignment, and progress from the start:
+- [Learn, Master, Teach](https://handbook.mattermost.com/company/about-mattermost/mindsets#learn-master-teach): We expect new colleagues to actively learn, build mastery, and contribute back by teaching others, a cycle that supports growth and collaboration across the team. 
+- [Slow is Smooth, Smooth is Fast](https://handbook.mattermost.com/company/about-mattermost/mindsets#slow-is-smooth-smooth-is-fast): We prioritize clarity and alignment early, knowing that thoughtful, intentional onboarding leads to faster, more sustainable performance.
+- [Shoulder Check](https://handbook.mattermost.com/company/about-mattermost/mindsets#shoulder-check) & [brown M&Ms](https://handbook.mattermost.com/company/about-mattermost/mindsets#brown-m-and-ms): We use the onboarding period to surface blindspots and small signals of misalignment early, so we can course-correct and set a strong foundation for long-term success.
 
 #### Managers
+As a manager, you play a key role in shaping a new hire’s onboarding experience. You’ll lead regular check-ins designed to build clarity, momentum, and connection, while reinforcing expectations and enabling early impact.
 
-* You will receive an email during your direct report's third month at Mattermost asking you to select a peer panel in Lattice. This kicks off the [review process](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50#how-is-feedback-shared).
-* Log in to **Lattice &gt; Performance &gt; Task**. Designate the peer panel to provide feedback about your new staff member. For new hires who are also people managers, direct reports may also be included in the peer panel to provide upward feedback about their manager.
-* You'll be able to view the peer feedback and your new staff member's Self-Reflection when completing the manager portion of the 90-day review.
-* Complete the 90-day review and share it with your new staff member. Discuss the details of the review in a one-on-one.
-  * Note: This review is part of the Post-Onboarding Readiness metric assessment. This review is not a [formal review](https://handbook.mattermost.com/operations/workplace/people/performance-reviews-50/formal-review-process).
+At both the 45- and 90-day milestones, you’ll complete a short internal survey to assess progress and surface any early signs of support or standout contribution. You’ll also write a short feedback summary (3–4 sentences) to share in your 1:1 and in Lattice. You may choose to request peer feedback in Lattice to provide a broader view and help identify blind spots, a simple but powerful way to strengthen team alignment. This approach is designed to be lightweight and repeatable. It ensures every new hire gets a consistent, high-impact onboarding experience.
 
 #### New Colleagues
-
-* Complete the 90-Day Self-Reflection in Lattice. An email invitation to complete your 90-Day Self-Reflection in Lattice will be sent during your third month at Mattermost. To complete the Self-Reflection, log in to **Lattice &gt; Performance &gt; Task**.
+Onboarding at Mattermost is a shared responsibility, and you're expected to be an active participant. That means asking questions, surfacing blockers early, and staying focused on how you grow, contribute, and align with company priorities. Your 1:1s and check-ins are structured moments to reflect on progress, sharpen your focus, and calibrate what success looks like in your role. As you approach your 90-day check-in, take time to evaluate your impact, identify what’s next in your growth, and prepare to take on more ownership.
+You won’t need to submit anything in writing, but thoughtful engagement and self-awareness are essential to making onboarding successful.
 
 #### Peers
-
-* You will receive email invitations to share feedback about your new colleague. To complete your peer review, log in to **Lattice &gt; Performance &gt; Task**. Upward feedback may be requested if the new colleague is a people manager.
+You may be asked to share feedback on a new colleague during their onboarding journey. If so, you’ll receive a notification and email from Lattice with a prompt to contribute.
+Peer feedback is an important part of how we build trust, surface strengths, and support alignment early. Your input helps managers better coach their new team members, and reflects our leadership principles of Self-Awareness, Earn Trust, and High-Impact.
 
