@@ -16,7 +16,7 @@ Being a Mattermost Partner offers:
    - Collaboration with Mattermost sales teams to learn more about our product and value propositions.
    - Listing in our [Partner Directory](https://mattermost.com/partners/) for additional exposure to our prospect and customer base.
 
-### Becoming Mattermost Partner:
+### Becoming a Mattermost Partner:
 
 1. **Express Your Interest:** Complete the contact form to express interest in becoming a Mattermost partner. If applicable, include the name of the customer you intend to resell to.
 2. **Application Review:** Your application will be reviewed within 1–2 weeks. To qualify, your organization should meet the following criteria:
