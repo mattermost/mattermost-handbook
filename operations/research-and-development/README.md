@@ -1,8 +1,8 @@
-# Research and Development
+# Product, Design and Engineering (PDE)
 
-R&D includes engineering, QA, product management, documentation, analytics, community, and design \(UX, UI\).
+PDE includes engineering, QA, product management, documentation, analytics, community, and design \(UX, UI\).
 
-### R&D Key Info
+### PDE Key Info
 
 * [Analyst Research](https://community.mattermost.com/private-core/channels/analyst-research): Analyst meeting tracker, briefing procedures, research. We are currently Gartner clients.
 * [Compete](https://community.mattermost.com/private-core/channels/compete): Key articles on competitors. Also see [automated feeds from competitor marketing](https://community.mattermost.com/private-core/channels/compete-feeds).
@@ -38,9 +38,10 @@ We use a range of web properties and tools to document and share plans, specs, r
 
 ## Who we are
 
-R&D is led by:
+PDE is led by:
 
-* Corey Hulen - CTO
-* Chen Lim - VP, Product
+* Joram Wilander - Director, Engineering
+* Katie Wiersgalla - Director, Product
+* Matt Birch - Lead, Product Design
 
-We use [this spreadsheet to track the organization structure](https://docs.google.com/spreadsheets/d/1lH8QIjQGEoGospDUdVs_LQ_i2b82I1ce6W7z18vhPTQ/edit).
+We use [this spreadsheet to track the organization structure](https://mattermost.sharepoint.com/:x:/s/org-pde/Ea5II-MK6xRHruGtj7CUbl4BKxZOaxx0BnfS8cW8RWQi2A?e=KMsR59).
