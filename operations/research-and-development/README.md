@@ -41,7 +41,6 @@ We use a range of web properties and tools to document and share plans, specs, r
 PDE is led by:
 
 * Joram Wilander - Director, Engineering
-* Katie Wiersgalla - Director, Product
-* Matt Birch - Lead, Product Design
+* Jason Blais - VP, Product and Program Management
 
 We use [this spreadsheet to track the organization structure](https://mattermost.sharepoint.com/:x:/s/org-pde/Ea5II-MK6xRHruGtj7CUbl4BKxZOaxx0BnfS8cW8RWQi2A?e=KMsR59).
