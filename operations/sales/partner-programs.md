@@ -28,7 +28,7 @@ Being a Mattermost Partner offers:
 
 ### Deal Registration & Order Fulfillment
 
-- **Register the Opportunity:** For each customer opportunity, contact your Mattermost Sales Manager or submit this [form](https://support.mattermost.com/hc/en-us/requests/new?ticket_form_id=24278352368532)
+- **Register the Opportunity:** For each customer opportunity, contact your Mattermost Sales Manager or submit this [form](https://mattermost.com/reseller-deal-registration/)
 - **Mattermost Review:** We’ll review your registration and follow up with next steps
 - **Request a Quote:** A signed customer quote is required before submitting a purchase order. Work with your Mattermost contact through the quote process.
 - **Mattermost Order Fulfillment:** Mattermost will fulfill the order through the following process
