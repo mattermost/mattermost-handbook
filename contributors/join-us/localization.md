@@ -42,7 +42,7 @@ Mattermost is developed in US English, and officially supports 20 additional lan
 **Important note:** While it's common to contribute to Mattermost in GitHub, product translations is a notable exception. You must contribute to Mattermost translations on the Mattermost translation server. Please don't attempt to submit translations in GitHub via pull requests (PRs) as your translations will be overwritten with the next PR update.
 
 ### Confirm whether the language you want to translate is one we officially support or is a work-in-progress (WIP) language. To contribute to the supported languages you need extra permissions, this is a safety measure. 
-Requesting these permissions can be done in the [Mattermost localization channel](https://community.mattermost.com/core/channels/localization) or with a direct message to Carrie Warner or Tom De Moor.
+Requesting these permissions can be done in the [Mattermost localization channel](https://community.mattermost.com/core/channels/localization) or with a direct message to John Combs or Tom De Moor.
 
 Only supported languages are available in-product by selecting **Settings > Display > Language**. Any language that isn't officially supported is considered a work-in-progress language. Work-in-progress languages become officially supported languages when the following two conditions are met:
 * The (WIP) language reaches or exceeds the Beta translation quality threshold across three consecutive releases; and,
