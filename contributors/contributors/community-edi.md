@@ -14,7 +14,7 @@ This section is meant to document tips and best practices that we strive to foll
 8. **Use proper headings in your text editor:** Use your text editor's built-in heading formatting so that screen readers understand the organization of the page.
 9. **Describe infographics with audio:** Describe the most important parts of infographics to help with accessibility.
 
-Other ways we foster diversity, inclusion, and belonging:
+Other ways we foster a welcoming and connected environment:
 
 1. **Images:** We promote the use of images that represent a wide range of group of users, customers, and community members. 
 2. **Speakers:** As event organizers and participants, we seek to include a comprehensive range of speakers in events that we organize or sponsor.
