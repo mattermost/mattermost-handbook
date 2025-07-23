@@ -4,11 +4,11 @@ Our security and data privacy policies are located in the [Security Page - Polic
 
 ## Code of Conduct 
 
-* [Mattermost Code of Conduct](https://docs.google.com/document/d/1y56kqzeuMqYTQ2mmAtf95Sw4aXsaiy0ZaxKcWL-pDDg/edit#)
+* [Mattermost Code of Conduct](https://mattermost-my.sharepoint.com/:w:/p/natalie_jew/EToZaqWodZFfFQP08tIcF4oBrDTeo4uNs1ZETN67mBYQhg?e=eccsrF)
 * [Mattermost Code of Conduct Supplement for United States Government Contracts and Grants](https://docs.google.com/document/d/1JGd-CYhsw5t3vWfO8SeZJEwsGCVLPj1n/edit)
 
 All Staff and Contractors have a duty to immediately reach out to their manager, Human Resources, the Legal Department, or Senior Leadership when they learn of potentially unlawful or unethical behavior as noted in the Mattermost Code of Conduct and the Mattermost Code of Conduct Supplement linked above. Your first line of contact should be your manager or Human Resources. If they are unavailable, or if you’re not comfortable, you can contact the
-Legal Department, or Senior Leadership. Alternatively, staff may use the [Mattermost Anonymous Tip Form](https://docs.google.com/forms/d/e/1FAIpQLSeK_OCeEaYKZCjAV4WjDvKbHOwbWYDIWgtZxzkQGnXhBVyjSQ/viewform). 
+Legal Department, or Senior Leadership. Alternatively, staff may use the [Mattermost Anonymous Tip Form](https://forms.office.com/r/HZpL2hME82). 
 
 For questions, please reach out via these channels: 
 * [Ask the People Team Channel](https://community.mattermost.com/private-core/channels/ask-people-team) - use this channel for non-confidential questions 
@@ -22,11 +22,11 @@ Mattermost employees involved in the export of items must familiarize themselves
 
 ## Privacy Notice
 
-* [Mattermost Employee and Contractor Privacy Notice](https://docs.google.com/document/d/1IRUpXOGg53LqqHZCZSoQHU_1I4Vc4uTI/edit?usp=sharing&ouid=116196163148999232170&rtpof=true&sd=true)
+* [Mattermost Employee and Contractor Privacy Notice](https://mattermost.sharepoint.com/:w:/s/dept-people-confidential/ESDqlDRaoMRJvJxp9csqXkMBmIJUXgYK6FI81LwC5SsaOA?e=5NDIRp)
 
 ## Background Checks
 
-* [Mattermost Background Check Policy](https://docs.google.com/document/d/1SGLkstTeSQRY9NxvizzT8AMVCI1TdMmp6PVV6QSF_6c/edit?usp=sharing)
+* [Mattermost Background Check Policy](https://mattermost.sharepoint.com/:w:/s/dept-people/EWtipmpICnhGgJ4GSEWB3B4BHBGmlkKCsww4vyana0SUoA?e=gBsbgw)
 
 ## Labor notices 
 
