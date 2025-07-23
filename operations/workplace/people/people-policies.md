@@ -66,7 +66,7 @@ Mattermost’s Health & Safety policy outlines the procedures and guidelines for
 
 As a remote-first company, staff are responsible for setting up their own home office. Mattermost provides [home office benefits](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money#home-office-guidelines) and offers general guidelines to ensure that FT Staff have the equipment they need to do their work safely. Anyone requiring accommodations should reach out to the People Team.
 
-While we do not prescribe a specific way for staff to set up their work area, the expectation is that everyone maintains a comfortable and safe work environment in a manner that reduces hazards and enhances productivity. This includes the use of ergonomic items such as appropriate desks, chairs, proper lighting, clear walkways, organized electrical cables, and suitable equipment to minimize the risk of workplace injuries. Here’s a [guide](https://docs.google.com/document/d/13-48iC0fKJ17kEgqf798pp7lPGyHq_NzexgcKkSzFgI/edit?usp=sharing) on how to set up an ergonomic home office for maximum productivity and comfort. 
+While we do not prescribe a specific way for staff to set up their work area, the expectation is that everyone maintains a comfortable and safe work environment in a manner that reduces hazards and enhances productivity. This includes the use of ergonomic items such as appropriate desks, chairs, proper lighting, clear walkways, organized electrical cables, and suitable equipment to minimize the risk of workplace injuries. Here’s a [guide](https://mattermost-my.sharepoint.com/:w:/p/lynn_conway/ETiD9F3ebS5Yact8BvWjtz4BhafZHy6UgUe3PRUbBkQUAg?e=S1TM14) on how to set up an ergonomic home office for maximum productivity and comfort. 
 
 **Initial Assessment**
 
@@ -123,7 +123,7 @@ Staff must promptly report any health and safety incident to their managers, the
 
 Mattermost understands that mental health is as crucial as physical health and we are committed to ensuring that our workplace promotes positive mental wellbeing of all staff. This includes maintaining a healthy work-life balance, developing a practice of self-care, and [disconnecting from work](https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/mattermost-communication-best-practices#disconnecting-from-work). 
 
-Please refer to the mental health resources provided [here](https://docs.google.com/document/d/1OB8wkrlm0LnhtWszBt_Dk6aoSpYjbGzoBYw6sagNUFI/edit?usp=sharing) or reach out to the People Team if you need support.
+Please refer to the mental health resources provided [here](https://mattermost-my.sharepoint.com/:w:/p/lynn_conway/Edsf7DWcpPpa-ACuydGAxa0B6_FN7Ru2wVNiNJpokW5xHQ?e=ZdYYKj) or reach out to the People Team if you need support.
 
 **Posters and Notices**
 
