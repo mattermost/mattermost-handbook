@@ -42,11 +42,11 @@ In general, this content is either:
 * An actionable button which leads to a process
 * Triggered because something happened
 
-## Writing for inclusion and diversity
+## Writing for inclusion
 
 This section is being built out. In the meantime, please consult [this page](https://writer.com/inclusion-glossary/) for the type of guidelines we follow when writing with inclusion and diversity in mind.
 
-If you have any questions about writing for inclusion and diversity, or notice something we can improve, please tell us! You can find us on Mattermost in the [DWG: Documentation Working Group](https://community.mattermost.com/core/channels/dwg-documentation-working-group) channel.
+If you have any questions about writing for inclusion, or notice something we can improve, please tell us! You can find us on Mattermost in the [DWG: Documentation Working Group](https://community.mattermost.com/core/channels/dwg-documentation-working-group) channel.
 
 ## Accessibility
 
