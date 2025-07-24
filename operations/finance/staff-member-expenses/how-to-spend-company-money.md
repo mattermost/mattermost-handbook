@@ -42,7 +42,7 @@ Please refer to the guidelines [here](https://handbook.mattermost.com/operations
   * [Recommended resources](https://handbook.mattermost.com/operations/research-and-development/product/product-management-team-handbook/professional-development#additional-training-resources)
 #### Business computer accessories
 
-* USB-C dock for New MacBooks: Average price **150 USD**
+* USB-C dock for New MacBooks: Average price **20 USD**
 * External monitor: Average price **500 USD**
 * HDMI cable: Average price **15 USD**
 * Webcam: Average price **75 USD**
