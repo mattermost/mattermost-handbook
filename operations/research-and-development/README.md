@@ -1,6 +1,6 @@
-# Product, Design and Engineering (PDE)
+# Product, Design, and Engineering (PDE)
 
-PDE includes engineering, QA, product management, documentation, analytics, community, and design \(UX, UI\).
+Product, Design, and Engineering (PDE) includes engineering, QA, product management, documentation, analytics, community, and design \(UX, UI\). PDE was formerly known as *Research and Development*, the name was changed to highlight Mattermost's commitment to Design and focus on Product.
 
 ### PDE Key Info
 

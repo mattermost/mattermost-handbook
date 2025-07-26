@@ -45,7 +45,7 @@
   * [Handbook processes and policies](operations/operations/handbook/README.md)
     * [Handbook onboarding](operations/operations/handbook/handbook-onboarding.md)
   * [Fiscal year planning](operations/operations/fiscal-year-planning.md)
-* [Research and Development](operations/research-and-development/README.md)
+* [Product, Design, and Engineering (PDE)](operations/research-and-development/README.md)
   * [Organization](operations/research-and-development/organization/README.md)
     * [Tech Writing](/operations/research-and-development/organization/tech_writing.md)
     * [Data engineering](/operations/research-and-development/organization/data_engineering.md)
