@@ -6,14 +6,14 @@ Below are guidelines used to build the product release plan timeline published b
 
 ## Yearly Planning
 
-Not yet defined, as we are awaiting updates to [MLT fiscal planning](https://handbook.mattermost.com/operations/operations/mlt-cadence#fiscal-year-planning) which is currently at 1% draft. We typically use [V2MOMs](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-vpmom) as a structure for our yearly plans.
+Not yet defined, as we are awaiting updates to [MLT fiscal planning](https://handbook.mattermost.com/operations/operations/mlt-cadence#fiscal-year-planning) which is currently at 1% draft.
 
 ## Quarterly Planning
 
 Quarterly planning involves the following:
 
 1. Research:
-   1. **Business goals** - Understand how the product \(Core, Teams, Enterprise\) can impact the Company VPMOM. Review company metrics. Identify areas we are doing well and areas we need to improve. 
+   1. **Business goals** - Understand how the product \(Core, Teams, Enterprise\) can impact the Company Priorities. Review company metrics. Identify areas we are doing well and areas we need to improve. 
    2. **Product telemetry** - Review product KPI dashboards. Identify areas we are doing well and areas we need to improve. 
    3. **Community feedback** - Overview of feedback captured in Uservoice, Jira, customer call notes, NPS surveys, app store reviews, forums etc.
    4. **Customer requests** - CS and Sales each submit a prioritized list of asks for next quarter. A call is held so PMs can understand the requests and prioritization rationale. 

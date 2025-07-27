@@ -91,7 +91,7 @@ This is a bi-weekly all-staff meeting focused on increasing alignment and awaren
    * **Introduction:** One of the founders does an introduction to the meeting. Usually to align company on short and long term objectives, to reiterate larger vision for the company, or to emphasize leadership principles.
    * **Good News:** News or updates shared by team members.
    * **Week 2 Welcomes:** New team members introduced on their second week by their manager, or optionally by the new team member themselves.
-   * **Main Topics:** Align and educate team around challenges faced by Enterprise customers and around department near-term goals. Examples include: FOSDEM event highlights and learnings; Enterprise customer's path from pilot to production; department VPMOM share; key updates, use cases or stories from customers.
+   * **Main Topics:** Align and educate team around challenges faced by Enterprise customers and around department near-term goals. Examples include: FOSDEM event highlights and learnings; Enterprise customer's path from pilot to production; key updates, use cases or stories from customers.
      * Links to publicly shared documents or slides may be included in meeting notes.
    * **Feedback:** At end of meeting, conclude meeting with a reminder to share feedback via survey.
 
