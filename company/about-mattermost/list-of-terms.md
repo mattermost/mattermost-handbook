@@ -87,6 +87,10 @@ Example: Giving someone instructions on how to set up Okta for MFA on the commun
 
 Dark actions create [false openness](list-of-terms.md#false-openness). [Open actions](list-of-terms.md#open-actions) are highly preferred.
 
+### DDIL
+
+Denied, Disrupted, Intermittent, and Limited. An acronym used to describe situations where internet or network connectivity is degraded, unreliable, unpredictable or entirely unavailable.
+
 ### DE
 
 Deployment Engineering function at Mattermost responsible for accelerating seats deployed at $50K+ accounts, focusing on single customer pain points & needs by working directly with customers in partnership with post-sales and revenue retention teams, and providing expertise on how to run and deploy Mattermost and the platform as a whole.
@@ -131,7 +135,7 @@ Keeping non-sensitive information that would be helpful for staff and community 
 
 ### FF
 
-Fast Futures function at Mattermost responsible for prototyping and validating enterprise customer needs ahead of product engineering investment, which was the approach applied to Calls, MS Teams and OpenOps prior to adding the functionality to the mainstream roadmap.  
+Fast Futures function at Mattermost responsible for prototyping and validating enterprise customer needs ahead of product engineering investment, which was the approach applied to Calls, MS Teams and OpenOps prior to adding the functionality to the mainstream roadmap.
 
 ### GNN
 
@@ -207,7 +211,7 @@ A Marketing Qualified Lead refers to a prospect deemed to have a higher likeliho
 
 A measurement that attempts to quantify the ability to both retain and grow our existing customers. Net Dollar Retention (“NDR” or Net Revenue Retention “NRR”) is calculated by taking Beginning Balance ARR + Expansion ARR - Churn/Contraction and dividing by Beginning Balance ARR. Because NDR includes the impact of Expansion ARR, this value can exceed 100%. NDR does not include the impact of New Logo ARR. This measurement is typically favored by investors.
 
-Both GRR and NDR are typically presented on an annual basis, using a static Beginning Balance at the beginning of the year. For annual presentation, this number represents total Churn/Contraction for the year divided by the beginning balance of ARR at the start of the year. For mid-year discussion and presentation, this number represents total Churn/Contraction for the period (e.g. first half) divided by the beginning balance of ARR at the start of the year. It is important to note that annual churn will naturally present lower than mid-year churn, using this method, due to the fact that the numerator is changing but the denominator is not. 
+Both GRR and NDR are typically presented on an annual basis, using a static Beginning Balance at the beginning of the year. For annual presentation, this number represents total Churn/Contraction for the year divided by the beginning balance of ARR at the start of the year. For mid-year discussion and presentation, this number represents total Churn/Contraction for the period (e.g. first half) divided by the beginning balance of ARR at the start of the year. It is important to note that annual churn will naturally present lower than mid-year churn, using this method, due to the fact that the numerator is changing but the denominator is not.
 
 ### Nerfs and Buffs
 
@@ -227,7 +231,7 @@ Culture is the set of behaviors that are nerfed and buffed. As a remote-first cu
 
 ### New Logo Sale
 
-A standard sale with a customer that has never previously purchased any kind of product or service from Mattermost, either directly or indirectly through a purchase by an affiliate on the customer’s behalf. A sale shall be deemed to be a New Logo Sale even if one of customer's affiliates is already a customer of Mattermost so long as (a) the entity making the purchase has never itself previously made a purchase or has had a purchase made on its behalf, and (b) the new sale is either a purchase of a license key to a new Self-Hosted server independent from other Mattermost installs or a purchase of a subscription to a new Cloud workspace independent from other Mattermost workspaces. 
+A standard sale with a customer that has never previously purchased any kind of product or service from Mattermost, either directly or indirectly through a purchase by an affiliate on the customer’s behalf. A sale shall be deemed to be a New Logo Sale even if one of customer's affiliates is already a customer of Mattermost so long as (a) the entity making the purchase has never itself previously made a purchase or has had a purchase made on its behalf, and (b) the new sale is either a purchase of a license key to a new Self-Hosted server independent from other Mattermost installs or a purchase of a subscription to a new Cloud workspace independent from other Mattermost workspaces.
 
 ### Open Actions
 
@@ -243,7 +247,7 @@ Program Management function at Mattermost responsible for leading and executing 
 
 ### PO
 
-Product Operations function at Mattermost responsible for infrastructure engineering and customer reliability engineering. 
+Product Operations function at Mattermost responsible for infrastructure engineering and customer reliability engineering.
 
 ### PTO
 
@@ -263,7 +267,7 @@ A Sales Accepted Lead refers to a prospect that a Sales team has spoken to eithe
 
 ### SBIR
 
-A Small Business Innovation Research (or SBIR) program funded by the U.S. government to accelerate technology innovation in partnership with small businesses. Funding takes the form of contracts or grants. The recipient projects must have the potential for commercialization and must meet specific U.S. government R&D needs. 
+A Small Business Innovation Research (or SBIR) program funded by the U.S. government to accelerate technology innovation in partnership with small businesses. Funding takes the form of contracts or grants. The recipient projects must have the potential for commercialization and must meet specific U.S. government R&D needs.
 
 The program includes Phase 1 SBIRs (concepts with no development work), Phase 2 SBIRs (development work to create a prototype with a potential for commercialization), as well as larger contracts via TACFI, STRATFI and more: https://afwerx.com/divisions/afventures/stratfi-tacfi/
 
@@ -299,7 +303,7 @@ This tempting, high risk approach is named after Microsoft’s “Windows Vista�
 
 ### Mattermost Cloud
 
-Describes cloud infrastructure within AWS, where the Cloud Provisioning server, Mattermost Operator, databases, file storage, etc exist. 
+Describes cloud infrastructure within AWS, where the Cloud Provisioning server, Mattermost Operator, databases, file storage, etc exist.
 
 ### Installation
 
