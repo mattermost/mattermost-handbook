@@ -13,8 +13,8 @@ The Product Security team is responsible for identifying and managing solutions 
 - Bug Bounty Program
 - Threat Modeling
 - Security Automation
-  - Dependency Track
-  - Security Scorecard
-  - Gobom
+  - SAST
+  - SCA
+  - SBOM
 - Penetration Testing (Product)
 - Security Release Notes
