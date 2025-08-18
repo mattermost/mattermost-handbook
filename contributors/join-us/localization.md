@@ -90,14 +90,6 @@ The translation PRs should be reviewed and merged as soon as possible to avoid b
 
 **Important Note:** Engineering teams must merge these PRs into the codebase using "merge commit" (technically also known as "rebase and merge"), and /never/ "squash and commit". The latter breaks the automated translation server flow, locks the translations, and forces manual fixes.
 
-### Cherry-pick translation PRs to release branches
-
-Amy Blais will notify the team if the PR should be cherry-picked to a release branch (e.g. ``release x.x``).
-
-PR review owners:
-  - Server translations PRs - Owner: Tom De Moor
-  - Mobile translations PRs - Owner: Tom De Moor
-  - Desktop app translations PRs - Owner: Devin
 
 ## Translation quality
 
@@ -193,6 +185,10 @@ If you're interested in contributing to the process, please join the [Mattermost
 | Yкраїнська - Ukrainian | TBD \(Open role\) | TBD (Open role) |
 | 中文 \(简体\) - Simplified Chinese | [Sharuru \(Sharuru\)](https://translate.mattermost.com/user/Sharuru) | [ThrRip \(ThrRip\)](https://translate.mattermost.com/user/ThrRip) |
 | 中文 \(繁體\) - Traditional Chinese | TBD (Open role) | TBD (Open role) |
+
+## Displaying Work In Progress languages
+
+Systen Administrators can enable Work In Progress languages in the System Console -> Localization -> Enable Experimental Locales. We labeled in Weblate the most common used strings for users with "First User Experience". These strings are a good starter for new translations. 
 
 ## Administrative tasks
 
