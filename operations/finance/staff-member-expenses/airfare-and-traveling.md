@@ -29,7 +29,7 @@ The United PassPlus Account can be used to book fares on all Star Alliance carri
 
 ### United PassPlus instructions
 
-For step by step on booking United Flights, refer to [UATP Instructions](https://docs.google.com/document/d/13rzgOBPWDo8nRq5AfEUF2GTPiA1wsY6jZYFNQKvxQSk/edit?usp=sharing) 
+For step by step on booking United Flights, refer to [UATP Instructions](https://mattermost-my.sharepoint.com/:w:/p/carrie_warner/EY0HXA6pR1xOhKA3dy16r4cBH1fnuTHBaCsZDnSAh1eC3A?e=EzH6c8) 
 
 ### Upgrades
 
