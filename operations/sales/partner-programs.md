@@ -39,6 +39,26 @@ Being a Mattermost Partner offers:
 - **Referral Fee (if applicable):** If you have registered the deal, received approval, and the customer purchases online, you may invoice Mattermost for a referral fee equal to the discount off list price. Include the note: 
 **“Referral fee for deal registration [DEAL_REGISTRATION_NUMBER]”** and send the invoice to payments@mattermost.com.
 
+### Mattermost Description & Logo 
+
+Mattermost Logos and trademark guidelines are available for partner download at: https://mattermost.com/brand-guidelines/
+
+The following descriptions are pre-approved for partner use: 
+
+#### General Mattermost Company Description: 
+
+Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of Defense and Fortune 500s, our platform runs on-premises and in private clouds, delivering secure messaging, file sharing, workflow automation, audio/screenshare, and project management—all with full data and operational control. Mattermost powers high-stakes workflows across mission planning, real-time, real-world operations, DevSecOps, incident response, and cyber defense—enabling secure collaboration from tactical edge and DDIL environments to enterprise HQ. Teams operate across web, desktop, and mobile, with embedded interoperability for Microsoft Teams, Outlook, and Microsoft 365.
+
+For AI-enabled organizations, Mattermost offers the Intelligent Mission Environment (IME)—a self-hosted, multi-user, multi-agent framework for AI-accelerated workflows with sovereign and global models. Built on an open core and shaped by 4,000+ contributors, Mattermost is co-developed with leading security experts to meet the world’s most demanding operational needs. Learn more at mattermost.com.
+
+#### Capabilities-Centric Mattermost Company Description: 
+
+Mattermost is the leading collaborative workflow platform for defense, intelligence, security, and critical infrastructure. Trusted by the U.S. Department of Defense, Fortune 500s, and the world's most vital organizations, our solutions run on-premises, in air gapped environments and across private clouds delivering secure messaging, file sharing, workflow automation, audio/screenshare, and project management with extensive data and operational controls for managing sensitive and classified information. Teams operate across web, desktop, and mobile, with embedded interoperability in Microsoft Teams, Outlook, and Microsoft 365.
+
+Mattermost powers high-stakes workflows across cyber defense, incident response, DevSecOps, mission planning, and real-time, real-world operations—enabling secure collaboration from tactical edge to enterprise core.
+
+For AI-enabled organizations, Mattermost offers the Intelligent Mission Environment (IME)—a self-hosted, multi-user, multi-agent framework for AI-accelerated workflows with sovereign and global models. Built on an open core and shaped by 4,000+ contributors, Mattermost is co-developed with leading security experts to meet the world’s most demanding operational needs. Learn more at mattermost.com.
+
 ## Mattermost Partner Program FAQ
 Frequently asked questions from Mattermost partners.
 
