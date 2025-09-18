@@ -51,7 +51,7 @@ Think of Boards like a project board on a giant wall, with "Tickets" that can co
 
 Think of "Playbooks" as a set of binder on a shelf with plans and procedures for different incidents and processes. Based on the type of incident or process, the context (e.g. time of day) Playbooks will include steps to follow, people to notify and automation to kick-off to rapidly flow through, resolve, and learn from different "Runs" of a Playbook. Examples include: 
 
-- **Incident Response** - Join the public [`Incident Status`](https://community.mattermost.com/private-core/channels/incidents) channel to monitor incident escalations at Mattermost, which operated based on our [Incident Response Process (Internal only)](https://docs.google.com/document/d/1-AWQJQelgKvGVSP6sOIi9EOSVjxXVlJlwNuJlkcXKGA/edit#heading=h.uk4q4qkm81h0). 
+- **Incident Response** - The [Incident Response Playbook](https://community.mattermost.com/playbooks/playbooks/ao69o4kkn3yy8mbzgmnn5ichqo/outline) is based on our [Incident Response Process (Internal only)](https://mattermost.sharepoint.com/:w:/r/sites/org-pde/_layouts/15/Doc.aspx?sourcedoc=%7B41AB5A40-CF3D-4874-AEB8-B5D396A5FD55%7D&file=On-Call%20Process%20%26%20Incident%20Response.docx&action=default&mobileredirect=true&DefaultItemOpen=1).
 
 ### Email 
 
