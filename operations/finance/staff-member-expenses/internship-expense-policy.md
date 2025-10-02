@@ -17,11 +17,12 @@ Due to duration of the Mattermost internship program, we limit purchasing of the
 
 _For these types of purchases, we will ask for a medical note from your primary physician_
 
-**Business computer accessories**
+**Business Computer Accessories**
 
 * Headphones over 80 USD
 
 **Computer and Technology**
 
 * Laptops: We will provide you with a laptop. Do not purchase a new laptop.
+
 * Cell phone: We will provide you with a cell phone if it is required for your position and approved by your manager.
