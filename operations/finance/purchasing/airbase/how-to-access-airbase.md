@@ -1,15 +1,9 @@
 ## How to access Airbase
 
-You can access Airbase via Okta. If you are unable to log in to Airbase via Okta, please raise a ticket in the [Mattermost IT Helpdesk portal](https://helpdesk.mattermost.com/support/home) to get help from the Mattermost IT team.
+You can access Airbase from MS365 workspace. If you do not see the Airbase application on your dashboard, please submit a ticket to the [Mattermost IT Helpdesk portal](https://helpdesk.mattermost.com/support/home) to get help from the Mattermost IT team.
 
-1. Log in to Okta with your credentials.
+1. Log in to MS365 workspace and navigate to the Airbase application.
 
-![Example of the Mattermost Okta sign on screen.](/.gitbook/assets/Mattermost-Okta-signin.png "Example of the Mattermost Okta sign on screen")
+   <img width="627" height="172" alt="image" src="https://github.com/user-attachments/assets/4feb7f7a-5e62-4fe3-b0af-763f11b6880f" />
 
-2. Enter code from Okta verify app.
-
-![Example of the Mattermost Okta sign on screen prompting for a verification code.](/.gitbook/assets/Mattermost-Okta-signin-code.png "Example of the Mattermost Okta sign on screen prompting for a verification code")
-
-3. Locate Airbase on your homepage, and select the **Airbase** icon to log in.
-
-![Example of the Okta homepage where you can select Airbase to log in.](/.gitbook/assets/Mattermost-Okta-Airbase.png "Example of the Okta homepage where you can select Airbase to log in")
+3. This will open Airbase in a new tab within your browser.
