@@ -1,60 +1,25 @@
 ## How to submit a reimbursement request
 
-Log in to Airbase via Okta. See [How to access Airbase](https://handbook.mattermost.com/operations/finance/purchasing/airbase/how-to-access-airbase) for details.
+Log in to Airbase via MS365
 
 ### **Reimbursement submission**
 
-Once you’ve logged in to Airbase, select **Payments > Reimbursements**.
+To submit an expense reimbursement, choose Reimbursement in the Request drop down menu.
 
-![Example of how to access your reimbursements in Airbase.](/.gitbook/assets/Airbase-reimbursements.png "Example of how to access your reimbursements in Airbase")
+<img width="216" height="129" alt="image" src="https://github.com/user-attachments/assets/342f057b-aa04-4e3e-83cd-d1807767a059" />
 
-On the **Reimbursements** page, select **Request a Reimbursement**.
+In the New Expense Report pop up, please name your expense report if the report is related to specific event or conference, customer facing engagement or company event.
 
-![Example of how to submit a reimbursement request in Airbase.](/.gitbook/assets/Airbase-request-reimbursement.png "Example of how to submit a reimbursement request in Airbase")
+<img width="313" height="176" alt="image" src="https://github.com/user-attachments/assets/c91dd656-f491-4712-803d-3f23815309a0" />
 
-On the **Request a Reimbursement for** page, choose either option.
+Click "Create" and upload your receipts 
 
-![Example of the options available when requesting a reimbursement in Airbase.](/.gitbook/assets/Airbase-reimbursement-request-type.png "Example of the options available when requesting a reimbursement in Airbase")
+<img width="223" height="191" alt="image" src="https://github.com/user-attachments/assets/5b180c5f-ebc3-4247-be72-a833843ab79f" />
 
-On the **Request a Reimbursement** page do the following:
+Airbase’s AI will scan the receipt and prefill the form fields. Please review the prefilled fields and make the appropriate corrections, if needed.
 
-![Example of the details needed for a reimbursement request in Airbase.](/.gitbook/assets/Airbase-request-reimbursement-expense-details.png "Example of the details needed for a reimbursement request in Airbase")
+<img width="319" height="153" alt="image" src="https://github.com/user-attachments/assets/8cc781cd-160d-4c02-b73b-f76b1ae293f6" />
 
-1. Upload a copy of the receipt: There are a couple of ways to upload receipts:
-You can upload receipts from this page
-Email them to your Receipt Inbox. You can find your inbox email address by going to **Reimbursements > Emailing your receipts**.
+If one of your expenses is related to customer entertainment, please include the customer name and names of all attendees. If one of your expenses is related to a team dinner or outing, please include names of all attendees. Once you have completed your expense report, click on “Submit” to send to your Manager and Accounting for review and approval.
 
-![Example of how to email a copy of a receipt to yourself in Airbase.](/.gitbook/assets/Airbase-request-reimbursement-email.png "Example of how to email a copy of a receipt to yourself in Airbase")
-
-2. Merchant Name: Enter the name of the merchant.
-3. Transaction date: Enter the date from the receipt.
-4. Amount: Enter amount, please make sure it is in the correct currency.
-5. Category: Select Category from the drop-down.
-6. Tags: Select Tags for Class, Location, and Department.
-7. Purpose: Enter a description of the expense reimbursement.
-8. Subsidiary: Enter subsidiary you roll under.
-
-Once complete, select **Submit**.
-
-![Example of the final step to submitting a reimbursement request in Airbase.](/.gitbook/assets/Airbase-submit-request-reimbursement.png "Example of the final step to submitting a reimbursement request in Airbase")
-
-### Reimbursement by entity
-
-#### Mattermost, Inc.
-
-If you roll under the Mattermost, Inc. entity, you will be able to receive reimbursements from Airbase. The following currencies are supported:
-
-CAD, GBP, EUR, AUD, BDT, DKK, DOP, GTQ, HKD, HUF, IDR, ILS, INR, JMD, LBP, MAD, MXN, NOK, NZD, PEN, PLN, RUB, SEK, SGD, THB, TND, TTD, USD, UYU, XOF, and ZAR.
-
-To receive reimbursements from Airbase, set up your bank account on the **Reimbursements** page. Follow the instructions as they appear on your screen. Please ensure that you pick the correct currency you wish to be reimbursed with.
-
-![Example of how to set up bank account details for reimbursements in Airbase.](/.gitbook/assets/Airbase-reimbursements-bank-info.png "Example of how to set up bank account details for reimbursements in Airbase")
-
-#### Mattermost Canada, UK, and Germany
-
-If you roll under Mattermost Canada, UK, or Germany, unfortunately at this time, Airbase does not support reimbursements at the subsidiary level. Please continue to submit your expense reimbursement requests in Airbase.
-
-Expense reimbursements will be made alongside payroll on the 15th and last day of the month. 
-
-If you have any questions on expense reimbursements, please contact [Expenses@mattermost.com](mailto:Expenses@mattermost.com). 
-
+<img width="314" height="101" alt="image" src="https://github.com/user-attachments/assets/070e1cfa-7dc0-48df-bb66-f972a49a24a7" />
