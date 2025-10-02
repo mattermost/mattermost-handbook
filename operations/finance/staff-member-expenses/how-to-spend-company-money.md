@@ -57,11 +57,11 @@ The Mattermost mobile device policy enables the use of mobile devices for custom
 
 #### Subscription
 
-If you are using your personal device for business-related matters, we will reimburse up to 100 USD. In some countries/regions, reimbursement of a personal phone plan for business use is considered a taxable benefit. It is your responsibility to ensure that you comply with local tax laws when filing your taxes. Positions or roles where mobile reimbursement may be needed include the following:
+If you are using your personal device for business-related matters, Entity Staff (US, UK, CAD & Germany) will receive a monthly allowance up to their local maximum each pay period automatically. For details on these amounts please refer to your relevant Mattermost LOC channel where this info will be pinned. Please note, in some countries/regions, reimbursement of a personal phone plan for business use is considered a taxable benefit. It is your responsibility to ensure that you comply with local tax laws when filing your taxes. Positions or roles where mobile reimbursement may be needed include the following:
 
 * Customer-facing roles:
   * Account Executives
-  * Customer Success Managers
+  * Account Managers
   * Sales Leadership
   * Customer Engineers
 * On-call roles:
@@ -71,11 +71,9 @@ If you are using your personal device for business-related matters, we will reim
   * Site Reliability Engineer
   * Support Engineers
 
-For all other positions, we will reimburse up to 50 USD.
-
 If you're unsure whether you qualify for a customer-facing role or on-call role, reach out to your manager and follow the [Manager Approval process](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money#manager-approval).
 
-The company doesn't currently provide mobile device subscriptions in a centralized fashion. Subscriptions should be organized by the employee and expensed monthly. Mattermost recommends the usage of a monthly subscription model where possible.
+The company doesn't currently provide mobile device subscriptions in a centralized fashion. For all Non-Entity Staff paid through Deel, please continue submitting your expenses for this through Airbase. You will be reimbursed up to the monthly maximum allowable. Should you need more info or guidance on how to do this please reach out to expenses@mattermost.com
 
 ## Travel
 
