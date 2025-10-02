@@ -22,7 +22,7 @@ Mattermost’s policy for spending company money is influenced by GitLab, who [o
 
 Equipment is essential to being successful at Mattermost. If you're a new staff member joining the team, welcome aboard! Use your best judgement and buy the below items as you need them. **It is uncommon for you to need all of the items listed below**. If you wonder whether something is common, feel free to ask your manager if it's specific to a role that's only under your manager or in the [People Ops](https://community.mattermost.com/private-core/channels/ask-people-team) channel if it's general \(and in turn, People Ops should update the list\).
 
-While we're sharing average costs for various items below, you should use your best judgement. If there’s a piece of equipment that you’re passionate about, you can spend less on other items to get the product that you want. If you're uncertain, check with your manager or the [Finance Team](https://community.mattermost.com/private-core/channels/expenses). In addition, use our [Currency Exchange Tables](https://handbook.mattermost.com/education/how-to-guides-for-staff/how-to-spend-company-money/currency-exchange-table), which are updated monthly, when dealing with reimbursement in currencies other than USD.
+While we're sharing average costs for various items below, you should use your best judgement. If there’s a piece of equipment that you’re passionate about, you can spend less on other items to get the product that you want. If you're uncertain, check with your manager or the [Finance Team](https://community.mattermost.com/private-core/channels/expenses). 
 
 ### Computer hardware and software
 
@@ -97,7 +97,7 @@ The following links provide further detail regarding location-specific per diems
 * [GSA annual per diem rates for the US](https://www.gsa.gov/travel/plan-book/per-diem-rates/per-diem-rates-lookup)
 * [Foreign Per Diem Rates by Location administered by the US Department of State](https://aoprals.state.gov/web920/per_diem.asp)
 
-When dining with another staff member on one check, the most senior person is responsible for payment. When submitting your receipt in Expensify, include the names of all staff members who attended.
+When dining with another staff member on one check, the most senior person is responsible for payment. When submitting your receipt in Airbase, include the names of all staff members who attended.
 
 ### Airfare and traveling
 
@@ -118,7 +118,7 @@ Staff members may retain points earned for hotel stays. However, hotel reservati
 We will reimburse mileage according to local laws of the country in which your contract is legally signed. For example, a contract with Mattermost, Inc. would be subject to IRS mileage reimbursement at the [US rate per mile](http://www.irs.gov/Tax-Professionals/Standard-Mileage-Rates). For approval, you must add a screenshot of a map to the expense in Expensify indicating the mileage.
 
 * [US rate per mile](http://www.irs.gov/Tax-Professionals/Standard-Mileage-Rates)
-* [Canada rate per KM](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/benefits-allowances/automobile/automobile-motor-vehicle-allowances/automobile-allowance-rates.html)
+* [Canada rate per KM]([https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/benefits-allowances/automobile/automobile-motor-vehicle-allowances/automobile-allowance-rates.html](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/benefits-allowances/automobile/automobile-motor-vehicle-allowances.html))
 
 ### Conferences and trade shows
 
@@ -177,9 +177,9 @@ Flexible office spaces or hot desk will be reviewed based on average costs for t
 
 **Professional development:** Work-related online courses and professional development certifications, not included in career path training or training for specialty roles, e.g. Information Security. Mattermost staff members are allotted 500 USD per fiscal year to spend on one or multiple training courses. [Manager Approval](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money#manager-approval) is required for reimbursement greater than $500 USD.
 
-**Home internet:** Mattermost will reimburse up to 50 USD per month that can be expensed for home internet. If you are submitting an expense other than USD, please use the [Currency Exchange Rate Table](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/currency-exchange-table) to determine how much to expense each month. As always, expenses should be submitted in a [timely](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#preparing-and-submitting-expense-reports) manner and follow the [How to use Expensify](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#preparing-and-submitting-expense-reports) process.
+**Home internet:** Mattermost will reimburse up to 50 USD per month that can be expensed for home internet. 
 
-**Foreign currency reimbursement:** From time to time, you may receive an unfavorable exchange rate between the date you made the expense and the date Mattermost reimburses you. If that happens, Mattermost will make up the difference. To submit a foreign currency reimbursement claim, refer to [How to use Expensify](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money/how-to-use-expensify#foreign-currency-reimbursement-submission). For the least amount of monetary impact, follow the [Company Guidelines](https://handbook.mattermost.com/company/how-to-guides-for-staff/how-to-spend-company-money#mattermost-guidelines) including submitting your expense in the period incurred.
+**Foreign currency reimbursement:** From time to time, you may receive an unfavorable exchange rate between the date you made the expense and the date Mattermost reimburses you. If that happens, Mattermost will make up the difference. Please submit your foreign currency reimbursement claim within the same expense report for the related trip.
 
 ### Manager approval
 
