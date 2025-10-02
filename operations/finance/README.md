@@ -17,19 +17,18 @@ Email:
 ## The team
 
 * [Kendra Niedziejko](https://community.mattermost.com/core/messages/@Kendra.Niedziejko) - Chief Financial Officer
-* [Elad Rosenberg](https://community.mattermost.com/core/messages/@elad.rosenberg) - Director of Finance
 * [Isabel Alorro](https://community.mattermost.com/core/messages/@isabel.alloro) - Accounting Manager
-* [Shawna Young-Marcelino](https://community.mattermost.com/core/messages/@shawna.young-marcelino) - Payroll Analyst
-* [Jeff Dynda](https://community.mattermost.com/core/messages/@jeff.dynda) - Senior Accountant
-* [Avaneesh KS](https://community.mattermost.com/core/messages/@avaneesh.ks) - Staff Accountant
-* [Daniel Sischy](https://community.mattermost.com/core/messages/@daniel.sischy) - IT Manager
+* [Shawna Young-Marcelino](https://community.mattermost.com/core/messages/@shawna.young-marcelino) - Payroll Manager
+* [Linda Dalenberg](https://community.mattermost.com/core/messages/@linda.dalenberg) - VP, Corporate Controller
+* [Grace Leary](https://community.mattermost.com/core/messages/@grace.leary) - Staff Accountant
+* [Ellen Kloepper](https://community.mattermost.com/core/messages/@ellen.kloepper) - Staff Accountant 
 
 ## AORs
 
 * For inquiries regarding customer invoices, sales commissions and payroll \(all entities\), please reach out to [Isabel Alorro](https://community.mattermost.com/core/messages/@isabel.alorro).
 * For inquiries regarding budgets, procurement, vendor bills, staff member expense reimbursements, and virtual credit card requests, please reach out to [Isabel Alorro](https://community.mattermost.com/core/messages/@isabel.alorro).
-* For inquiries regarding customer invoices and collections, vendor bills and payments, sales orders, please reach out to [Jeff Dynda](https://community.mattermost.com/core/messages/@jeff.dynda).
-* For inquiries regarding deal desk and sales orders, please reach out to [Avaneesh KS](https://community.mattermost.com/core/messages/@avaneesh.ks).
+* For inquiries regarding customer invoices and collections, vendor bills and payments, sales orders, please reach out to [Isabel Alorro](https://community.mattermost.com/core/messages/@isabel.alorro).
+* For inquiries regarding deal desk and sales orders, please reach out to [Isabel Alorro](https://community.mattermost.com/core/messages/@isabel.alorro).
 
 For more detailed AORs within the Finance team, please refer to the [Areas of Responsibility](https://docs.google.com/spreadsheets/d/1qraUnYC-4W1W7nouaWzmLKl5zVzKYKqXwkMdBX2t97M/edit#gid=649964022) sheet.
 
