@@ -4,23 +4,24 @@ description: 99%
 
 # How to get paid
 
-**Effective date**: February 1, 2023
+**Effective date**: October 2, 2025
 
 ### Payments made by Mattermost
 
-#### United States
+#### United States & Canada
 
-If you're a staff member located in the United States, payroll is made through TriNet via direct deposit bi-monthly on the 15th and on the last business day of each month. Your expense reimbursements will be made through Airbase under the Mattermost, Inc. policy in the form of an ACH or wire payment (for international bank accounts). You'll be required to register your banking information to be able to receive an ACH or wire payment in Airbase. We do not support any other type of expense reimbursement for United States staff members at this time. You'll receive your expense reimbursement no later than 15th and at end of each month.
+If you're a staff member located in the United States or Canada, payroll is made through Rippling via direct deposit bi-monthly on the 15th and on the last business day of each month. Your expense reimbursements will be made through Airbase under the Mattermost, Inc. policy in the form of an ACH or wire payment (for international bank accounts). You'll be required to register your banking information to be able to receive an ACH or wire payment in Airbase. We do not support any other type of expense reimbursement for United States or Canadian staff members at this time. You'll receive your expense reimbursement no later than 15th and at end of each month.
 
 If you're a vendor, refer to the [Vendor Onboarding](https://handbook.mattermost.com/operations/finance/onboarding/how-to-on-board-as-a-vendor) section for guidance on registering so you can get paid.
 
-#### Canada
 
-If you're a staff member located in Canada, payroll and expense reimbursements are made through Ozden & Cheung, our Canadian accounting team, via direct deposit bi-monthly on the 15th and on the last business day of each month. For additional information on expense reimbursement policy, please refer to the [how to submit a reimbursement request](https://handbook.mattermost.com/operations/finance/purchasing/airbase/how-to-submit-a-reimbursement-request) section of the Handbook.
+#### United Kingdom 
 
-#### United Kingdom and Germany
+If you're a staff member located in the United Kingdom, payroll is made through Rippling via direct deposit on a monthly basis (at the end of the month). Expense reimbursements are also made through Airbase under the Mattermost, Inc. policy in the form of an ACH or wire payment (for international bank accounts). You'll be required to register your banking information to be able to receive an ACH or wire payment in Airbase. We do not support any other type of expense reimbursement for United Kingdom at this time. For additional information on expense reimbursement policy, please refer to the [how to submit a reimbursement request](https://handbook.mattermost.com/operations/finance/purchasing/airbase/how-to-submit-a-reimbursement-request) section of the Handbook.
 
-If you're a staff member located in the United Kingdom or Germany, payroll is made through Vistra, our European accounting teams, via direct deposit on a monthly basis (at the end of the month). Expense reimbursements are also made through Vistra via direct deposit on the 15th and 25th of each month. For additional information on expense reimbursement policy, please refer to the [how to submit a reimbursement request](https://handbook.mattermost.com/operations/finance/purchasing/airbase/how-to-submit-a-reimbursement-request) section of the Handbook.
+#### Germany
+
+If you're a staff member located in Germany, payroll is made through Vistra, our German Accountants, via direct deposit on a monthly basis (at the end of the month). Expense reimbursements are also made through Airbase under the Mattermost, Inc. policy in the form of an ACH or wire payment (for international bank accounts). You'll be required to register your banking information to be able to receive an ACH or wire payment in Airbase. We do not support any other type of expense reimbursement for Germany at this time. For additional information on expense reimbursement policy, please refer to the [how to submit a reimbursement request](https://handbook.mattermost.com/operations/finance/purchasing/airbase/how-to-submit-a-reimbursement-request) section of the Handbook.
 
 #### Rest of World \(ROW\)
 
