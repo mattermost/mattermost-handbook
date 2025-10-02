@@ -1,59 +1,24 @@
 ## Navigate Airbase
 
-Log in to Airbase via Okta. See [How to access Airbase](https://handbook.mattermost.com/operations/finance/purchasing/airbase/how-to-access-airbase) for details.
-
 When you log in to Airbase, you’re taken directly to your dashboard. On your dashboard, you’ll see all of your pending actions and requests.
 
-![Example of the Airbase dashboard.](/.gitbook/assets/Airbase-dashboard.png "Example of the Airbase dashboard")
+<img width="632" height="364" alt="image" src="https://github.com/user-attachments/assets/a8fd6285-707c-46e4-8883-9dfff9e22c82" />
+
 
 On the left side of the dashboard, you’ll see the following menu options:
 
-![Example of available Airbase menu options.](/.gitbook/assets/Airbase-menu.png "Example of available Airbase menu options")
+<img width="153" height="438" alt="image" src="https://github.com/user-attachments/assets/5753a24b-faeb-44ac-a707-cd84b32ca620" />
 
-Under the **Payments** section, you can:
-- request a **Virtual Card** (one-time or recurring), and 
-- request a **Reimbursement**. 
+Under the Home section, you can access the Dashboard, your pending requests and your receipt inbox.
 
-**Note**: We won’t be issuing physical cards; we’ll only be issuing virtual cards.
+Under the Payments section, you can access your virtual cards and expense reports. You can also access vendor bill invoices that are related to your purchase orders.
 
-![Example of the Payment menu options, including Virtual Cards and Reimbursements. ](/.gitbook/assets/Airbase-virtual-cards.png "Example of the Payment menu options, including Virtual Cards and Reimbursements")
+Under the Manage section, you can pull reports (for Managers) and view approved purchase orders.
 
-Under the **Manage** section, you can:
-- pull **Reports** (for managers)
-- view pending **Requests** (for managers), and
-- submit **Purchase Orders** (for staff members and managers).
+To submit a reimbursement, purchase request or virtual card request, navigate to the top right corner to Request
 
-![Example of Manage menu options, including Reports, Requests, and Purchase Orders.](/.gitbook/assets/Airbase-manage-reports-requests-po.png "Example of Manage menu options, including Reports, Requests, and Purchase Orders")
+<img width="318" height="83" alt="image" src="https://github.com/user-attachments/assets/532f5074-aa7b-4fd2-b6e7-042c7b68847f" />
 
-### Request a virtual card
+To request a purchase order or virtual card, choose “Select a Request Type”. To request a reimbursement, choose "Reimbursement”.
 
-The following screenshot shows you what a new **Virtual Card** request looks like in Airbase:
-
-![Example of a virtual card request in Airbase.](/.gitbook/assets/Airbase-new-virtual-card.png "Example of a virtual card request in Airbase")
-
-### Submit an expense reimbursement
-
-The following screenshot shows you what a **Reimbursements** request looks like in Airbase:
-
-![Example of a reimbursement request in Airbase.](/.gitbook/assets/Airbase-request-reimbursement.png "Example of a reimbursement request in Airbase")
-
-### View reports 
-
-The following screenshot shows you how to view reports by **Summary**, **Open POs**, **Department**, **People**, **Categories**, as well as view **All Transactions**:
-![Example of viewing a report by Summary in Airbase. ](/.gitbook/assets/Airbase-reports-summary.png "Example of viewing a report by Summary in Airbase")
-
-### View pending requests
-
-The following screenshot shows you how to view pending requests for **Virtual Cards**, **Purchase Orders**, **Ownership Transfers**, and **Reimbursements**.
-
-![Example of viewing pending virtual card requests in Airbase.](/.gitbook/assets/Airbase-pending-virtual-cards.png "Example of viewing pending virtual card requests in Airbase")
-
-### Submit a purchase order
-
-The following screenshot shows you how to submit a **Purchase Order** in Airbase:
-
-![Example of how to submit a purchase order in Airbase.](/.gitbook/assets/Airbase-purchase-order-request.png "Example of how to submit a purchase order in Airbase")
-
-### Need assistance?
-
-If you have any questions on how to navigate Airbase, please contact the Finance Team.
+<img width="309" height="191" alt="image" src="https://github.com/user-attachments/assets/8b3bbc20-6166-4e1b-aa72-750a9b2a9fca" />
