@@ -21,7 +21,6 @@ When booking reservations via United PassPlus, you have two options:
 1. Manage your own reservation(s)
 
 
-If you are working with the Travel Team, please complete the following [**Information Gathering Forms**]([https://mattermost-my.sharepoint.com/:w:/p/carrie_warner/EY0HXA6pR1xOhKA3dy16r4cBH1fnuTHBaCsZDnSAh1eC3A?e=EzH6c8](https://docs.google.com/forms/d/10gGN9sj85HGp7PYoB-QHREEs7X0aF6rKYl7KxLFACO8/viewform?edit_requested=true)). Please direct all travel related questions to this form.
 
 Follow the step by step instructions under [**United PassPlus Instructions**](https://mattermost-my.sharepoint.com/:w:/p/carrie_warner/EY0HXA6pR1xOhKA3dy16r4cBH1fnuTHBaCsZDnSAh1eC3A?e=EzH6c8) Should you need help with reservations, please call the following numbers: 800-727-7752 or 313-234-6903.
 
