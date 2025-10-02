@@ -8,38 +8,56 @@ Guided Procurement is a purchase module within Airbase where you can make the fo
 
 **How to make a purchase request:**
 
-Log into Airbase via Okta.
+Log into Airbase via MS365.
 
-Go to **Request > Purchase**.
+To submit a purchase order or virtual card, choose “Select a Request Type” and **“New Purchase Request Workflow"**
 
-![Example of how to submit a purchase request in Airbase](/.gitbook/assets/How-to-make-a-purchase-request.png "Example of how to submit a purchase request in Airbase")
+<img width="310" height="123" alt="image" src="https://github.com/user-attachments/assets/5e84de1f-2a62-4f3b-a820-ed0a4bdce324" />
 
-Complete the Spend Intake form.
+This will bring you to the intake form. You have the option to Upload an Order Form, Upload a Statement of Work or Start Request from Scratch.
 
-1. Primary Information - choose the appropriate primary and secondary spend categories for your request. See Primary and Secondary Spend Categories mapping and approval workflows [here](https://docs.google.com/spreadsheets/d/1zm6atAtUKmbQAz39h-4YshVErQv3pVLa/edit#gid=1896560589).
+<img width="199" height="161" alt="image" src="https://github.com/user-attachments/assets/9e7a8bb5-d00d-4b30-a769-3f684a89d143" />
 
-2. Vendor & Budget Details - when completing this section, please be prepared to provide the following information:
+Choose Start request from scratch and complete the intake form.
 
-   a. Vendor or seller of the product or service
+If you are submitting on behalf of a teammate, please choose their name in the drop-down menu:
 
-   b. Short description of the request
+<img width="316" height="94" alt="image" src="https://github.com/user-attachments/assets/a70783b7-edd9-49d5-a49f-4bf36093a45e" />
 
-   c. Allocated budget - the currency default is USD. If your request is not in USD, please ensure you choose the correct currency.
+Choose the Primary and Secondary purchase categories to trigger the correct workflow:
 
-**Important Note on Contractors and Consultants:** If your request is for a contractor or consultant, do not continue completing the Spend Intake form. Please go to Ironclad **first** to complete the Mattermost Template for Services and Consulting launch form; you can find more information [here](https://docs.google.com/document/d/1VN3GrxhtNkBdfsCqF7clKS33pO1Hqbtkan4x3ygcDwQ/edit#heading=h.wnxw07g1fvd8). **It is highly encouraged for you and your contractor/consultant to use our consulting agreement.** Once a draft of the consulting agreement is approved in Ironclad, you can return to Airbase to submit your purchase order using the Ironclad generated contract. If the vendor requires the use of  their contract, you can proceed.
+<img width="311" height="59" alt="image" src="https://github.com/user-attachments/assets/1352a36a-704a-47ef-8542-787c4d57dee7" />
 
-Complete the questions in the Budget, IT, Legal and Security and Finance and Accounting sections. Please be prepared to provide the following information:
+Choose the appropriate vendor. If the request is for a new vendor, you can add a new vendor:
 
-1. If applicable for your request, information about the software tool needed or information about internal systems your contractor/consultant may need access to
-2. Full address, vendor contact information (billing department) and related legal documents or copy of online T&C's in Word document.
-3. Counterparty signer email address. **It is highly encourage that you have this information up front. See below for more additional context.**
+<img width="320" height="80" alt="image" src="https://github.com/user-attachments/assets/40e2d8cc-5d29-468c-be0d-0b0cf39f5475" />
 
-**Additional notes**
+Complete the rest of the intake form. Please include as much information as you can in the “Provide a short description of this purchase request” field. This will help facilitate review and approval of the request.
 
-When your request is in the Legal and Security approval milestone stage, please go to Ironclad for any comments, review notes, and redlines from Legal. Please note that once the related legal document is approved, it will be sent for signatures from Ironclad via Docusign. **It is highly encouraged that your vendor signs the Docusign packet sent from Ironclad.** If the vendor requires that they sign internally, please communicate this to the Procurement and Legal teams.
+<img width="315" height="143" alt="image" src="https://github.com/user-attachments/assets/1079bc5e-2afa-4c06-833b-e0504e00f5fb" />
 
-Once both parties have signed the related legal documents, the document(s) will be archived in Ironclad.
+Once the intake form is completed, click on Save & Continue.
 
-In the Finance and Accounting section, you will have the ability to choose the type of purchase request. The types of purchase requests available are virtual card (one-time), virtual card (recurring), purchase order as mentioned above. The most common uses for each type of purchase request can be found [here](https://docs.google.com/spreadsheets/d/1zm6atAtUKmbQAz39h-4YshVErQv3pVLa/edit#gid=540392463).
+This will kickoff the approval workflow. Move through the approval milestones and complete the necessary fields within each milestone.
 
-For any questions or concern, please reach out to Procurement@mattermost.com
+Budget Approval Milestone
+
+<img width="316" height="100" alt="image" src="https://github.com/user-attachments/assets/eed6a46c-8f78-437b-b515-0b52303fe727" />
+
+IT Approval Milestone (example – Software)
+
+<img width="320" height="166" alt="image" src="https://github.com/user-attachments/assets/0a706c12-e209-4825-b408-b7f85d30d2d6" />
+
+Legal Approval Milestone (example)
+
+Important note: Airbase integrates with Ironclad. If your request requires legal review, Airbase will send your request after Department, Budget and IT approvals are complete to Ironclad where legal and security review will take place. You will be able to access the workflow in Ironclad to monitor the progress of the review. Once Legal and Security approves your request, any related legal document that needs to be signed will be done through Ironclad. The approved and signed request will be sent back to Airbase, where it will be final approved by Accounting and Finance.
+
+<img width="314" height="150" alt="image" src="https://github.com/user-attachments/assets/d5d025ac-951b-43f3-8b9b-4f27b03565ec" />
+
+Finance & Accounting Approval
+
+In the Payment Method section, you can choose the type of payment method, one-time virtual card, recurring virtual card or purchase order. If you need assistance with choosing the payment method, please reach out to Procurement@mattermost.com.
+
+<img width="315" height="132" alt="image" src="https://github.com/user-attachments/assets/6ea474dc-45a7-4a5d-9563-9f6c51850d8c" />
+
+Continue through the rest of the form. Once the form is completed, click on Submit Request. This will kick off the procurement process for your request.
