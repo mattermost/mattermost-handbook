@@ -20,13 +20,12 @@ Description: >-
 | People Topic | Resource | Who to Ask?|
 | :--- | :--- | :--- |
 | Offer Letters and Employment Agreements | HR@mattermost.com |[Karin Nelson](https://community.mattermost.com/core/messages/karin.nelson) | HR@mattermost.com 
-| Onboarding |[Mattermost Company Onboarding Google Slides](https://docs.google.com/presentation/d/1Xzukzo_zAb9cUEmaUb2zRylQLGoMZV7Tz6NMYHHn9AA/edit?usp=sharing), [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team)  | [Karin Nelson](https://community.mattermost.com/core/messages/karin.nelson) | HR@mattermost.com 
+| Onboarding|[Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team), [New Hire Slide Deck](https://mattermost-my.sharepoint.com/:p:/p/lynn_conway/EdWox1Yna_9Di8pwPRZt1LQB3zRC2MUnFFG5Nl0wHWlGIw?e=PkZPTr) | Operational Support: [Karin Nelson](https://community.mattermost.com/core/messages/karin.nelson), Program Owner: [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)
 | Employment Verification Letters | see request instructions [here](https://handbook.mattermost.com/operations/workplace/people#letter-of-employment), Email: HR@mattermost.com |[Karin Nelson](https://community.mattermost.com/core/messages/karin.nelson)| HR@mattermost.com 
 | US Benefits | [Loc: USA](https://community.mattermost.com/private-core/channels/loc-usa) | [Karin Nelson](https://community.mattermost.com/core/messages/karin.nelson)| HR@mattermost.com 
 | Canada Benefits | [Loc: Canada](https://community.mattermost.com/private-core/channels/loc-canada) |  [Karin Nelson](https://community.mattermost.com/core/messages/karin.nelson)| HR@mattermost.com 
 | General HR Questions | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) (Non-Confidential) and HR@mattermost.com (Confidential)| | [Karin Nelson](https://community.mattermost.com/core/messages/karin.nelson) | HR@mattermost.com 
 |Recruiting | [Kellie Ritenour](https://community.mattermost.com/core/messages/kellie.ritenour) (Non-Confidential) | [Kellie Ritenour](https://community.mattermost.com/core/messages/kellie.ritenour), [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew)
-| Workplace Program Questions & Updates | Questions: [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team), Email: hr@mattermost.com, Updates: [Social: Workplace Programs](https://community.mattermost.com/private-core/channels/social) or [Workplace Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_dsmc65gm71b4imq1gkfk5qkrv4@group.calendar.google.com&ctz=America/New_York) (Found on the Rippling Feed page under "Resources" |[Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) | HR@mattermost.com 
 | Total Rewards | [Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team) | [Karin Nelson](https://community.mattermost.com/core/messages/karin.nelson) | [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew), [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) | HR@mattermost.com 
 
 ## People Team SLAs
@@ -71,7 +70,7 @@ Palo Alto, California 94303
 ```
 ### Phone Number
 
-The official phone number for Mattermost, Inc. is +1 (650) 667-8512. All company phone calls are received via Ruby, our virtual receptionist app. Full-time staff members who wish to be added to the directory should contact hanna@mattermost.com or hr@mattermost.com. 
+The official phone number for Mattermost, Inc. is +1 (650) 667-8512. All company phone calls are received via Ruby, our virtual receptionist app. Full-time staff members who wish to be added to the directory should contact hr@mattermost.com. 
 
 ### Letter of Employment
 
