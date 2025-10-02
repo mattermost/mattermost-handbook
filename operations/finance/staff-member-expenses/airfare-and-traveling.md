@@ -18,11 +18,6 @@ Mattermost is enrolled in The United PassPlus for Business program. This is a pr
 
 When booking reservations via United PassPlus, follow the step by step instructions under [**United PassPlus Instructions**](https://mattermost-my.sharepoint.com/:w:/p/carrie_warner/EY0HXA6pR1xOhKA3dy16r4cBH1fnuTHBaCsZDnSAh1eC3A?e=EzH6c8) Should you need help with reservations, please call the following numbers: 800-727-7752 or 313-234-6903.
 
-1. Manage your own reservation(s)
-
-
-
-Follow the step by step instructions under [**United PassPlus Instructions**](https://mattermost-my.sharepoint.com/:w:/p/carrie_warner/EY0HXA6pR1xOhKA3dy16r4cBH1fnuTHBaCsZDnSAh1eC3A?e=EzH6c8) Should you need help with reservations, please call the following numbers: 800-727-7752 or 313-234-6903.
 
 The United PassPlus Account can be used to book fares on all Star Alliance carriers. Simply use the details in the UATP Instructions as a credit card. If you run into issues, please reach out to Amy Nicol (@amy.nicol).
 
