@@ -20,7 +20,7 @@ Description: >-
 | People Topic | Resource | Who to Ask?|
 | :--- | :--- | :--- |
 | Offer Letters and Employment Agreements | HR@mattermost.com |[Karin Nelson](https://community.mattermost.com/core/messages/karin.nelson) | HR@mattermost.com 
-| Onboarding|[Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team), [New Hire Slide Deck](https://mattermost-my.sharepoint.com/:p:/p/lynn_conway/EdWox1Yna_9Di8pwPRZt1LQB3zRC2MUnFFG5Nl0wHWlGIw?e=PkZPTr) | Operational Support: [Karin Nelson](https://community.mattermost.com/core/messages/karin.nelson), Program Owner: [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)
+| Onboarding|[Ask the People Team](https://community.mattermost.com/private-core/channels/ask-people-team), HR@mattermost.com| Operational Support: [Karin Nelson](https://community.mattermost.com/core/messages/karin.nelson), Program Owner: [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway)
 | Employment Verification Letters | see request instructions [here](https://handbook.mattermost.com/operations/workplace/people#letter-of-employment), Email: HR@mattermost.com |[Karin Nelson](https://community.mattermost.com/core/messages/karin.nelson)| HR@mattermost.com 
 | US Benefits | [Loc: USA](https://community.mattermost.com/private-core/channels/loc-usa) | [Karin Nelson](https://community.mattermost.com/core/messages/karin.nelson)| HR@mattermost.com 
 | Canada Benefits | [Loc: Canada](https://community.mattermost.com/private-core/channels/loc-canada) |  [Karin Nelson](https://community.mattermost.com/core/messages/karin.nelson)| HR@mattermost.com 
