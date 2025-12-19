@@ -14,7 +14,9 @@ Please see [our guide](https://handbook.mattermost.com/company/how-to-guides-for
 
 ## What is the company’s address and phone number?
 
-530 Lytton Avenue, Second floor, Palo Alto, CA, 94301, USA
+Mattermost, Inc.
+2100 Geng Road, Suite 210,
+Palo Alto, California 94303
 
 +1 \(650\) 667-8512
 
