@@ -58,15 +58,15 @@ We have entities and EOR locations in Australia, Canada, Germany, Spain, UK, and
 **Entity and EOR locations holidays for 2025**
 
 **Australia**
-* New Year’s Day \(1/01/2025\)
-* Australia Day \(1/27/2025\)
-* Good Friday \(4/18/2025\)
-* Easter Monday \(4/21/2025\)
-* Anzac Day \(4/25/2025\)
-* King's Birthday \(06/09/2025)
-* Labour Day \(10/06/2025\)
-* Christmas Day \(12/25/2025\)
-* Boxing Day \(12/26/2025\)
+* New Year’s Day \(1/01/2026\)
+* Australia Day \(1/26/2026\)
+* Good Friday \(4/3/2026\)
+* Easter Monday \(4/6/2026\)
+* Anzac Day \(4/27/2026\)
+* King's Birthday \(06/08/2026)
+* Labour Day \(10/05/2026\)
+* Christmas Day \(12/25/2026\)
+* Boxing Day \(12/28/2026\)
 
 **Canada**
 * New Year’s Day \(1/01/2025\)
