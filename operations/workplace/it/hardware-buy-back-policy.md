@@ -5,7 +5,7 @@ Mattermost provides staff members with the opportunity to retain or purchase the
 ## Eligibility & Pricing
 
 Hardware value is determined by the length of the staff member's tenure at the time of the request:
-•	Tenure of 1+ Year: Staff members offboarding after at least one full calendar year of service may keep their primary device at no cost.
+•	Tenure of 1+ Year: Staff members offboarding after at least 1 full calendar year of service (and receipt of new equipment) may keep their primary device at no cost.
 •	Tenure of Less Than 1 Year: Staff members offboarding prior to one year of service, or those receiving an early hardware refresh, may purchase their device at current market value.
 <img width="468" height="150" alt="image" src="https://github.com/user-attachments/assets/72924788-3d41-4dc7-81ef-34aec4c6e580" />
 
