@@ -1,20 +1,33 @@
-# Hardware Buy Back Policy
+# Hardware Retention & Buyout Policy
 
-Staff members have the option to buy back their existing hardware \(laptop, desktop, phone, tablet etc.\) either when it gets refreshed for a new one \(which is on average, 3 years from purchase date - not necessarily 3 years of employment\), or when the staff member is offboarding. For additional guidance on purchasing a new laptop for the purposes of a refresh, please refer to the [How to spend company money](https://handbook.mattermost.com/operations/finance/staff-member-expenses/how-to-spend-company-money) policy.
+Mattermost provides staff members with the opportunity to retain or purchase their company-issued hardware (laptops, desktops, phones, tablets, etc.) during a scheduled refresh or upon offboarding.<img width="468" height="80" alt="image" src="https://github.com/user-attachments/assets/8870b5ab-2af3-46f3-8c21-84615e0577a2" />
 
-If the staff member has completed one calendar year or more at Mattermost at the time of offboarding, they can opt to keep their device at no cost. In some countries, this benefit is viewed as compensation. Any payroll or withholding taxes incurred will be paid by Mattermost on behalf of the staff member. If the staff member hasn't completed one calendar year at the time of offboarding or is receiving an early hardware refresh, they have the option to purchase their hardware from Mattermost at current market value.
+## Eligibility & Pricing
 
-If the hardware requires a buyout, IT will send the staff member an email with the determined value. Then if the employee decides to move forward with the purchase, our accounting department will reach out with payment information.
+Hardware value is determined by the length of the staff member's tenure at the time of the request:
+•	Tenure of 1+ Year: Staff members offboarding after at least 1 full calendar year of service (and receipt of new equipment) may keep their primary device at no cost.
+•	Tenure of Less Than 1 Year: Staff members offboarding prior to one year of service, or those receiving an early hardware refresh, may purchase their device at current market value.
+<img width="468" height="150" alt="image" src="https://github.com/user-attachments/assets/72924788-3d41-4dc7-81ef-34aec4c6e580" />
 
-If a staff member decides to retain their hardware, they are required to wipe the device, re-install the base operating system, and remove any and all software and configurations that were supplied by Mattermost. You'll be required to sign a document acknowledging you have not taken or retained any confidential Mattermost software or data.
+## Refresh Cycles
 
-## Requirements for keeping a device
+Hardware is typically eligible for a refresh every three years from the date of the hardware's purchase, regardless of the staff member's start date. For guidance on purchasing new equipment, please consult the How to Spend Company Money policy.<img width="468" height="80" alt="image" src="https://github.com/user-attachments/assets/a56ac4c9-a56b-4f24-b869-009f14ef6666" />
 
-1. Perform system reset with data deletion:
-   * [Windows](https://support.microsoft.com/en-us/windows/give-your-pc-a-fresh-start-0ef73740-b927-549b-b7c9-e6f2b48d275e)
-   * [macOS](https://support.apple.com/en-us/HT201065)
-   * [iOS](https://support.apple.com/en-us/HT201252)
-   * Linux - Delete Partition with ISO
-2. Email IT@mattermost.com providing a picture from the device set up screen, the device serial number, and the type of device \(desktop, tablet, phone, laptop, etc.\)
+## Purchase Process
+
+If a buyout is requested:
+1.	Valuation: IT will email the staff member with the determined market value of the device.
+2.	Confirmation: If the staff member elects to proceed, the Accounting Department will provide payment instructions.
+3.	Completion: Ownership is officially transferred once payment is confirmed.
+<img width="468" height="136" alt="image" src="https://github.com/user-attachments/assets/acde4e92-680d-46dd-835c-172963c9a98d" />
+
+## Security & Compliance Requirements 
+
+To ensure data security, staff members who retain their hardware must:
+•	Sanitize the Device: Completely wipe the device and reinstall a base operating system.
+•	Remove Mattermost Data: Delete all company-supplied software, configurations, and proprietary data.
+•	Attestation: Sign a compliance document acknowledging that no confidential Mattermost software or data has been retained.
+<img width="468" height="136" alt="image" src="https://github.com/user-attachments/assets/cb6a0662-3b02-4eea-8578-42129b207057" />
+
 
 **If staff members opt not to keep or purchase their existing hardware, they will need to return them to Mattermost.**
