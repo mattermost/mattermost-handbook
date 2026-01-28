@@ -96,7 +96,7 @@ We have entities and EOR locations in Australia, Canada, Germany, Spain, UK, and
 * German Unity Day \(10/03/2026\)
 * Reformation Day \(Bradenburg) \(10/31/2026\)
 * All Saints Day \(Bayern) \(11/01/2026\)
-* Christmas Day \(12/25/20256\)
+* Christmas Day \(12/25/2026\)
 * Boxing Day \(12/26/2026\)
 
 **Spain**
