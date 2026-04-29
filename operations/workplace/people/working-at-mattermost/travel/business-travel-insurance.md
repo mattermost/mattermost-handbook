@@ -14,7 +14,7 @@ To get started with your BTA coverage, please take the time to review the attach
 
 ## AIG Travel Protect App
 
-AIG Travel Protect includes a mobile app with real-time risk alerts, local emergency numbers, and in-app claims initiation. All travelers are encouraged to download and register before your next trip.
+AIG Travel Protect includes a mobile app with real-time risk alerts, local emergency numbers, and in-app claims initiation. All travellers are encouraged to download and register before their next trip.
 To get started, follow the [Mobile App Download and Set Up Guide](https://drive.google.com/file/d/10TJnvfJhiA39AB2E0raFaqyNGwQPS_MD/view?usp=sharing) and create an account using your email address and policy number.
 
 ## Assistance Travel Card
