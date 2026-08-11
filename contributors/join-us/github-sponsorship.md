@@ -8,11 +8,7 @@ For any questions regarding community contributions or former sponsorships, plea
 
 ## Program Overview
 
-The Mattermost GitHub Sponsorship program has officially concluded and is no longer active. We are no longer taking applications or providing active sponsorships at this time. We deeply appreciate all the core contributors and community members who participated in the program.
-
-For any questions regarding community contributions or former sponsorships, please reach out to the Mattermost team via our [community channel](https://community.mattermost.com/core/channels/tickets).
-
-## Program OverviewMattermost participates in the GitHub sponsorship program to help empower our key contributors and sponsor them for 1 year. The goal of the program is to recognize exceptional community contributions that go above and beyond.
+Mattermost participates in the GitHub sponsorship program to help empower our key contributors and sponsor them for 1 year. The goal of the program is to recognize exceptional community contributions that go above and beyond.
 
 [GitHub Sponsors](https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors/about-github-sponsors#about-github-sponsors) allows the developer community to financially support the people and organizations who design, build, and maintain the open source projects they depend on, directly on GitHub.
 
