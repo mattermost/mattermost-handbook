@@ -1,4 +1,12 @@
-# Mattermost GitHub Sponsorship
+# Mattermost GitHub Sponsorship  (Deprecated)
+
+## Program Status 
+
+The Mattermost GitHub Sponsorship program has officially concluded and is no longer active. We are no longer taking applications or providing active sponsorships at this time. We deeply appreciate all the core contributors and community members who participated in the program.
+
+For any questions regarding community contributions or former sponsorships, please reach out to the Mattermost team via our [community channel](https://community.mattermost.com/core/channels/tickets).
+
+## Program Overview
 
 Mattermost participates in the GitHub sponsorship program to help empower our key contributors and sponsor them for 1 year. The goal of the program is to recognize exceptional community contributions that go above and beyond.
 
@@ -53,7 +61,4 @@ During quarterly check-ins:
 1. The sponsored contributor informs the program lead, by email, of their intention to leave the program.
 2. The program lead sends a request to IT to remove any applicable core contributor privileges as well as the sponsorship itself. Accounts Payable and the staff member who nominated the contributor are included for visibility.
 
-## Notes
-
-* The current program lead is Carrie Warner.
 
