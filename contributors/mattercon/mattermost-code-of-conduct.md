@@ -1,8 +1,8 @@
 # Mattermost Events Code of Conduct
 
-Mattermost is dedicated to maintaining a professional, respectful, safe environment at all company-sponsored events. This Code of Confuct outlines behavioral exepctations for all attendees to ensure a positive experience for everyone. Mattermost takes violations of our policy seriously and will respond appropriately.   
+Mattermost is dedicated to maintaining a professional, respectful, safe environment at all company-sponsored events. This Code of Conduct outlines behavioral expectations for all attendees to ensure a positive experience for everyone. Mattermost takes violations of our policy seriously and will respond appropriately.   
   
-This policy applies to all participants, including employees, contractors and guests. By attending this event, you agree to comply with the following guidelines. 
+This policy applies to all participants, including employees, contractors, and guests. By attending this event, you agree to comply with the following guidelines. 
 
 1. Professional & Respectful Behavior
    All Attendees are expected to:
@@ -14,16 +14,16 @@ This policy applies to all participants, including employees, contractors and gu
    * Offensive remarks, jokes, or gestures related to personal characteristics.
    * Unwanted physical contact or inappropriate advances.
    * Bullying, intimidation, or threats.
-  If you expereince or witness any such behavior, please report it immediately to HR (Natalie Jew, VP of HR or Lynn Conway, Senior Manager, People). 
+  If you experience or witness any such behavior, please report it immediately to HR (Natalie Jew, VP of HR, or Lynn Conway, Senior Manager, People). 
 3. Responsible Social Media & Photography
    * Obtain consent before taking or sharing photos/videos of others.
    * Do not disclose confidential company information or private conversations online. 
-4. Alcohol & Subtance Use
+4. Alcohol & Substance Use
    * If alcohol is served, drink responsibly and ensure your behavior remains professional.
    * The use of illegal substances is prohibited.
 5. Safety & Compliance
    * Follow all venue rules and safety guidelines.
-   * Report any saftey concerns or suspicious activity to HR, your Manager, or the Events Organizer immediately.
+   * Report any safety concerns or suspicious activity to HR, your Manager, or the Events Organizer immediately.
    * Do not engage in any activity that could endanger yourself or others.
 6. Consequences for Violations
    Failure to follow this Code of Conduct may result in:
