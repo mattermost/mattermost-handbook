@@ -9,8 +9,7 @@ Description: >-
 
 | Name | Title |
 | :--- | :--- |
-| [Natalie Jew](https://community.mattermost.com/core/messages/natalie.jew) |VP, Human Resources|
-| [Lynn Conway](https://community.mattermost.com/core/messages/lynn.conway) | Senior Manager, People Partner & Programs|
+| Lane McFarland |Chief People Officer|
 | [Kellie Ritenour](https://community.mattermost.com/core/messages/kellie.ritenour) |  Recruiter |
 | [Karin Nelson](https://community.mattermost.com/core/messages/karin.nelson) |  Senior Manager, HR Operations |
  
