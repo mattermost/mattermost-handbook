@@ -86,7 +86,7 @@ Community Coordinator: Jason Blais and Ben Schumacher
 
 ### Translation contributors
 
-Translation contributors can create and update translations to existing or new Mattermost languages at [https://translate.mattermost.com](https://translate.mattermost.com/). In addition, community members can become “Language owners” and help review, coordinate and supervise the translation of Mattermost into languages they speak.
+Translation contributors help review and improve Mattermost translations. See the [localization](https://handbook.mattermost.com/contributors/ways-to-contribute/localization) page for how the process works and how to contribute.
 
 Community Coordinator: Jason Blais
 
