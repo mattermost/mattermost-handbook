@@ -41,7 +41,7 @@ Each month, review the diff for your language's JSON file in GitHub. If you spot
 * [mattermost/mattermost-mobile](https://github.com/mattermost/mattermost-mobile/tree/main/assets/base/i18n) — `assets/base/i18n/<lang>.json`
 * [mattermost/desktop](https://github.com/mattermost/desktop/tree/master/i18n) — `i18n/<lang>.json`
 
-When submitting a PR, target the `master` branch and describe the inaccuracy you're correcting and the preferred phrasing, with brief reasoning where helpful.
+When submitting a PR, target the `master`/`main` branch and describe the inaccuracy you're correcting and the preferred phrasing, with brief reasoning where helpful.
 
 ### 2. Glossary maintenance
 
