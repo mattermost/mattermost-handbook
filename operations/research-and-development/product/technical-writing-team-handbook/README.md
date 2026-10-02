@@ -64,22 +64,6 @@ Once complete, submit your Pull Request \(PR\). Ensure that you assign appropria
 
 Our [Documentation Style Guide](https://handbook.mattermost.com/operations/research-and-development/product/technical-writing-team-handbook/documentation-style-guide) is a guide to writing Mattermost product documentation and includes guidelines around punctuation, casing, and how to format files. We also have [a guide for writing UI copy](https://handbook.mattermost.com/operations/research-and-development/product/development-process/user-interface-text-guidelines) which includes tip, best practices, and examples.
 
-## i18n contributions
-
-**Note: This process is in flight.***
-
-Our product documentation is available for translation contributions. Join the [i18n channel](https://community.mattermost.com/core/channels/localization) on our Community server and connect with our translation community members. The documentation translation process is still being defined, and @cwarnermm is the DRI along with members of the Localization team.
-
-Currently, submitting a translation PR follows the same writing and editing process as other PRs. However, there are additional considerations to bear in mind when submitting your PR as these assist with the approval and merge process:
-
-1. Do you have an active test instance running with the integrations guide translated so we can validate the rendering and formatting?
-2. If the content you're translating includes screenshots should we keep the original English versions of the screenshots, or consider translated versions of them too?
-3. If the intention is to translate the screenshots, is there a proposed process for keeping them up to date?
-4. Have at least one member of UX team and one member of Apps PM team review the user experience in choosing different languages.
-5. To maintain high standards for translated documentation, set up a process to notify translators when something is changed in the English-version of the docs, and expectation on correcting translations for new releases.
-6. Decide if we want to indicate translations level - e.g. “Alpha” or “Beta” for translations that are in progress.
-7. Test you can successfully rate a translated docs page by selecting a rating emoji. Ping @justine.geffen for validation of this.
-
 ## Set up a local development environment
 
 Members of the writing team have two ways to contribute to Mattermost product documentation:
