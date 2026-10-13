@@ -23,7 +23,7 @@ Bulgarian, Chinese (Simplified), Chinese (Traditional), Danish, Dutch, English (
 
 Users can also select from a range of experimental languages, including:
 
-Belarusian, Croatian, Czech, Finnish, Lithuanian, Norwegian Bokmål, and Portuguese (Portugal).
+Croatian, Czech, Finnish, Lithuanian, Norwegian Bokmål, and Portuguese (Portugal).
 
 Experimental languages require validation from a language expert before being promoted. If you are a native speaker of an experimental language and would like to help promote it to officially supported status, please reach out in the [~i18n channel](https://community.mattermost.com/core/channels/localization) on our Community server or contact your Mattermost account manager.
 
